@@ -1,0 +1,2 @@
+
+(kis-interface . [(20090830 1840) nil "Extensions for kis-mode." single ((:commit . "bd6ade061dce36e2db1865dfbcd640625c4b2f30") (:authors ("ffrances ")) (:maintainer "ffrances "))])

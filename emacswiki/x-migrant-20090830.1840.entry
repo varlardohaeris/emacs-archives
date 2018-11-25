@@ -1,0 +1,2 @@
+
+(x-migrant . [(20090830 1840) nil "Support for subprocesses handling remote X displays" single ((:commit . "99fe90a780ad40da01154448224c20259f8fb22d") (:authors ("Bryan O'Sullivan" . "bos@serpentine.com")) (:maintainer "Bryan O'Sullivan" . "bos@serpentine.com"))])

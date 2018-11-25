@@ -1,0 +1,2 @@
+
+(singlebind . [(20090830 1840) nil "Bind commands to single characters" single ((:commit . "366a47d19bc31ec8edd0cdaa448ef1535b3d573d"))])

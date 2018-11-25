@@ -1,0 +1,2 @@
+
+(xs-mode . [(20090830 1840) nil "A simple major mode for write perl XS code" single ((:commit . "4a8ed8834c123c854c44a150927a48ee2f554b6d") (:authors (nil . "wenbinye@gmail.com")) (:maintainer nil . "wenbinye@gmail.com") (:url . "not distributed yet"))])

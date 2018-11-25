@@ -1,0 +1,2 @@
+
+(google-define-redux . [(20110518 1640) nil "extends google-define.el" single ((:commit . "557370fff3028b121c5a0737c95c308503cb2c82") (:keywords "applications" "comm" "external" "processes" "hypermedia") (:authors ("Jeremy English, MON KEY ")) (:maintainer "MON KEY") (:url . "https://github.com/mon-key/mon-emacs/raw/master/emacs-load-files/naf-mode/google-define-redux.el"))])

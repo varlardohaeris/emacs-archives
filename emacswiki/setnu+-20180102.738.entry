@@ -1,0 +1,2 @@
+
+(setnu+ . [(20180102 738) nil "Extensions to `setnu.el'." single ((:commit . "01a152175754dcb9b68d325343b36449d7f9b7be") (:keywords "lines") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/setnu%2b.el"))])

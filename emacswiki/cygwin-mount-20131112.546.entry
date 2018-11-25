@@ -1,0 +1,2 @@
+
+(cygwin-mount . [(20131112 546) nil "Teach EMACS about cygwin styles and mount points." single ((:commit . "c6171e6ac2c77bd60ca804c6415740d65e10231f") (:keywords "files" "mount" "cygwin") (:authors ("Michael Cook" . "mcook@xemacs.org")) (:maintainer "Michael Cook" . "mcook@xemacs.org"))])

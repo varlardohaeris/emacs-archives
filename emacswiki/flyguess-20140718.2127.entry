@@ -1,0 +1,2 @@
+
+(flyguess . [(20140718 2127) nil "flyspell dictionary guesser (replaces flyspell-guess.el)" single ((:commit . "50e14cc09658d8a9e6baab55f36f8da6b507f3ec") (:keywords "convenience") (:authors ("Alessandro Di Marco" . "dmr@ethzero.com")) (:maintainer "Alessandro Di Marco" . "dmr@ethzero.com"))])

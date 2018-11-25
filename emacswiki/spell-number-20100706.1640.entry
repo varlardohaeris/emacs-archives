@@ -1,0 +1,2 @@
+
+(spell-number . [(20100706 1640) nil "Spell out an integer or currency in words." single ((:commit . "298f9341084d36e9dbb0a9272c9ce9a1f2edb3e2") (:keywords "spell" "local") (:authors ("Vinicius Jose Latorre" . "viniciusjl@ig.com.br")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl@ig.com.br") (:url . "http://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

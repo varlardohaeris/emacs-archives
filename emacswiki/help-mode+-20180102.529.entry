@@ -1,0 +1,2 @@
+
+(help-mode+ . [(20180102 529) nil "Extensions to `help-mode.el'" single ((:commit . "32c14bcc269c5db298d15fdebee4745f631542df") (:keywords "help") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/help-mode%2b.el"))])

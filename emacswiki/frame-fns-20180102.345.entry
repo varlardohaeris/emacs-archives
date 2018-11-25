@@ -1,0 +1,2 @@
+
+(frame-fns . [(20180102 345) nil "Non-interactive frame and window functions." single ((:commit . "b675ee568c0133709c2c39a125395486cdf1c610") (:keywords "internal" "extensions" "local" "frames") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/frame-fns.el"))])

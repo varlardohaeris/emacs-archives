@@ -1,0 +1,2 @@
+
+(window-extension . [(20140316 1452) nil "Some extension functions manipulate window." single ((:commit . "d1c6af3c41632056f4cefe090521769cd6ee5710") (:keywords "window") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/window-extension.el"))])

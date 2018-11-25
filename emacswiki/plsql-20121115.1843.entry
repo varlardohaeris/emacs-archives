@@ -1,0 +1,2 @@
+
+(plsql . [(20121115 1843) nil "Programming support for PL/SQL code" single ((:commit . "7125da37ceba2c330dfa1a1b43a6888497ab2033") (:keywords "languages") (:authors ("Kahlil (Kal) HODGSON" . "dorge@tpg.com.au")) (:maintainer "Kahlil (Kal) HODGSON" . "dorge@tpg.com.au") (:url . "http://www.emacswiki.org/elisp/plsql.el"))])

@@ -1,0 +1,2 @@
+
+(re-builder+ . [(20090830 1840) nil "Re-builder+" single ((:commit . "f9bc1cc2c4e4531b1e49a3a0686f9015296fcf67") (:keywords "regexp" "re-builder") (:authors ("Kenichirou Oyama" . "k1lowxb@gmail.com")) (:maintainer "Kenichirou Oyama" . "k1lowxb@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/re-builder+.el"))])

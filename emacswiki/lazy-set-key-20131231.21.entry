@@ -1,0 +1,2 @@
+
+(lazy-set-key . [(20131231 21) nil "Lazy set keystroke." single ((:commit . "4a9d13ab6e4111200670a1697fbd99db909f3ba5") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/lazy-set-key.el"))])

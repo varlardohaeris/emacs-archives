@@ -1,0 +1,2 @@
+
+(recentf-buffer . [(20090830 1840) nil "creates the buffer with the list of recently open files." single ((:commit . "23b89e18246dbd8a493f022dcbd8ef898c085fc8") (:keywords "bookmarks" "placeholders" "annotations") (:authors ("Eugene V. Markov")) (:maintainer "Eugene V. Markov"))])

@@ -1,0 +1,2 @@
+
+(msearch . [(20131116 950) nil "Highlight all occurences of mouse selection" single ((:commit . "79bced561b92b1aab2d4fb6ed70ef1c99af66ef5") (:keywords "mouse" "search" "selection" "(highlight" "occurences" "of" "mouse" "selection)") (:authors ("Tobias.Naehring" . "i@tn-home.de")) (:maintainer "Tobias.Naehring" . "i@tn-home.de"))])

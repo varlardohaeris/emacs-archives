@@ -1,0 +1,2 @@
+
+(ucs-cmds . [(20180102 814) nil "Commands to create commands that insert Unicode chars." single ((:commit . "baadc633d40821d4d6756b70c195bd84f87540ba") (:keywords "unicode" "characters" "encoding" "commands" "ucs-names") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/ucs-cmds.el"))])

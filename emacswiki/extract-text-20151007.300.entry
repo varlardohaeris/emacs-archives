@@ -1,0 +1,2 @@
+
+(extract-text . [(20151007 300) ((dash (20150829 433)) (macro-utils (1 0)) (keyword-arg-macros (20151006))) "Functions for extracting/scraping text from buffers" single ((:commit . "101e3dbde952b0d5fe67bbd4513077ee81bfb041") (:keywords "extensions") (:authors ("Joe Bloggs" . "vapniks@yahoo.com")) (:maintainer "Joe Bloggs" . "vapniks@yahoo.com") (:url . "https://github.com/vapniks/extract-text"))])

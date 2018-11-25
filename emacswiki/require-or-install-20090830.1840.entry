@@ -1,0 +1,2 @@
+
+(require-or-install . [(20090830 1840) nil "Download and automagically install Emacs Lisp" single ((:commit . "4dcfd85f5178d50e058eb3a00145ae69b76cfdb2") (:authors ("Olivier Ramonat" . "olivier@ramonat.fr")) (:maintainer "Olivier Ramonat" . "olivier@ramonat.fr"))])

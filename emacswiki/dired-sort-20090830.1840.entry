@@ -1,0 +1,2 @@
+
+(dired-sort . [(20090830 1840) nil "Sort files in dired." single ((:commit . "67d19c534b4301ac7e71c8a97b40a78f82e5964e") (:keywords "dired" "sort") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/dired-sort.el"))])

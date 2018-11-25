@@ -1,0 +1,2 @@
+
+(mark-lines . [(20090830 1840) nil "triple-click like line marking functions" single ((:commit . "f0f3745a0b04f09fa603e231112b4d2ae16711d3") (:keywords "convenience" "whole-line" "region" "editing") (:authors ("Le wang (remove numbers) <lewang097 AT yahoo DOT com>")) (:maintainer "Le wang (remove numbers) <lewang097 AT yahoo DOT com>") (:url . "http://www.emacswiki.org/cgi-bin/wiki.pl?MarkLines"))])

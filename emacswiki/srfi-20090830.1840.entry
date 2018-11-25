@@ -1,0 +1,2 @@
+
+(srfi . [(20090830 1840) nil "View Scheme requests for implementation" single ((:commit . "2bf80563e77328da389174b52f10d7f02bca441f") (:keywords "scheme" "documentation" "programming") (:authors ("Jorgen Schaefer")) (:maintainer "Jorgen Schaefer") (:url . "http://www.emacswiki.org/elisp/srfi.el"))])

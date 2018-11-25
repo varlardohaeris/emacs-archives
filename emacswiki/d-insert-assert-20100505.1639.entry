@@ -1,0 +1,2 @@
+
+(d-insert-assert . [(20100505 1639) nil "Automagical verbose assert insertion for D Programming Language" single ((:commit . "f34b1973f97cceb92bbc23ba96f59270a4978e84") (:keywords "d" "convenience" "languages") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org"))])

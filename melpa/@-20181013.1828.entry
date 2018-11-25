@@ -1,0 +1,2 @@
+
+(@ . [(20181013 1828) ((emacs (24 3))) "multiple-inheritance prototype-based objects DSL" tar ((:commit . "fe78a75c88429343f017ccd74e62bd9465dba50a") (:authors ("Christopher Wellons" . "wellons@nullprogram.com")) (:maintainer "Christopher Wellons" . "wellons@nullprogram.com") (:url . "https://github.com/skeeto/at-el"))])

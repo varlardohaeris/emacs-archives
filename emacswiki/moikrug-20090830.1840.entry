@@ -1,0 +1,2 @@
+
+(moikrug . [(20090830 1840) nil "(S)XEmacs interface to MoiKrug." single ((:commit . "e4d431c2b325628d4aa57205db27d89438b93a6c") (:keywords "bbdb") (:authors ("Zajcev Evgeny" . "zevlg@yandex.ru")) (:maintainer "Zajcev Evgeny" . "zevlg@yandex.ru"))])

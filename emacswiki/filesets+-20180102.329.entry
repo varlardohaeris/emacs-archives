@@ -1,0 +1,2 @@
+
+(filesets+ . [(20180102 329) nil "Extensions to `filesets.el'." single ((:commit . "e3f1ddfe295084e8ac5e30f940fa45f168e0ba5b") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/filesets%2b.el"))])

@@ -1,0 +1,2 @@
+
+(rect-extension . [(20140306 2247) nil "Some extensions for rect.el" single ((:commit . "3a6e1439dc3bbe265f2161d9911948f17ef11552") (:keywords "rect" "region") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

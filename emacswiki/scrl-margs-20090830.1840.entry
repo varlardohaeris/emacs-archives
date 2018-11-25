@@ -1,0 +1,2 @@
+
+(scrl-margs . [(20090830 1840) nil "scroll margins minor mode" single ((:commit . "ee521a311a114eba41f501af72ee9e3140020d5f") (:keywords "scroll") (:authors ("David Andersson <l.david.andersson(at)sverige.nu>")) (:maintainer "David Andersson <l.david.andersson(at)sverige.nu>"))])

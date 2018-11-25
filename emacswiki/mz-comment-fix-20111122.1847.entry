@@ -1,0 +1,2 @@
+
+(mz-comment-fix . [(20111122 1847) nil "fixes nested comments for XML and other languages" single ((:commit . "71c64e5ec3a9ac5081cbf9c3de2136cf10aa2472") (:keywords "comments" "xml") (:authors ("Josse van der Plaat  <jossevanderplaat with gmail dott com>")) (:maintainer "Josse van der Plaat  <jossevanderplaat with gmail dott com>") (:url . "http://www.emacswiki.org/emacs/download/mz-comment-fix.el"))])

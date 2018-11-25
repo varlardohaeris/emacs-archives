@@ -1,0 +1,2 @@
+
+(calc-inline . [(20140606 138) nil "Evaluate calc-expression within ordinary text." single ((:commit . "f7b56d216eff6f95a2387e29b7952a6e2f481753") (:keywords "tools" "wp") (:authors ("U-ITIHQ\\Tobias.Naehring" . "Tobias.Naehring@Rechner64.ITIHQ.local")) (:maintainer "U-ITIHQ\\Tobias.Naehring" . "Tobias.Naehring@Rechner64.ITIHQ.local"))])

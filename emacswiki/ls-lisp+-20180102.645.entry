@@ -1,0 +1,2 @@
+
+(ls-lisp+ . [(20180102 645) ((files+ (0))) "Enhancements of standard library `ls-lisp.el'." single ((:commit . "75b54bb7f5e8de0b729b683360d25fbb2f74546c") (:keywords "internal" "extensions" "local" "files" "dired") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/ls-lisp%2b.el"))])

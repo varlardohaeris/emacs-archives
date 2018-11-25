@@ -1,0 +1,2 @@
+
+(title-time . [(20100804 1640) nil "like display-time but in the title-bar" single ((:commit . "a0e8549e9c6fe6488e4e36ffb0af5d4322403cd7") (:keywords "convenience") (:authors ("Kahlil (Kal) HODGSON" . "dorge@tpg.com.au")) (:maintainer "Kahlil (Kal) HODGSON" . "dorge@tpg.com.au"))])

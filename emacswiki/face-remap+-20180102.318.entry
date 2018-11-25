@@ -1,0 +1,2 @@
+
+(face-remap+ . [(20180102 318) nil "Extensions to standard library `face-remap.el'." single ((:commit . "b93329109a9112c0372885d3e7ef6053882ecefc") (:keywords "window" "frame" "face" "font") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/face-remap%2b.el"))])

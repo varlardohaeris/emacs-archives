@@ -1,0 +1,2 @@
+
+(edi-mode . [(20161127 645) nil "edit raw EDI files" single ((:commit . "233f36cceff72cb3a66f2c32a8347ab0f27e80bd") (:keywords "edi") (:authors ("Jeremy Cowgar" . "jeremy@cowgar.com")) (:maintainer "Jeremy Cowgar" . "jeremy@cowgar.com") (:url . "http://www.emacswiki.org/elisp/edi-mode.el"))])

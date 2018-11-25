@@ -1,0 +1,2 @@
+
+(dropdown-list . [(20120330 36) nil "Drop-down menu interface" single ((:commit . "ba976bf9c876ecc8e9e292d76bea30380bdf2cb9") (:keywords "menu" "convenience" "dropdown") (:authors (nil . "Jaeyoun Chung [jay.chung@gmail.com]")) (:maintainer nil . "Jaeyoun Chung [jay.chung@gmail.com]") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/dropdown-list.el"))])

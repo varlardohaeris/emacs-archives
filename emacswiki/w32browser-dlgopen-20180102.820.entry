@@ -1,0 +1,2 @@
+
+(w32browser-dlgopen . [(20180102 820) nil "Use w32browser with standard Windows Open File box." single ((:commit . "2fdda54afc2807b7464db0801ba9967392f73852") (:keywords "files" "extensions" "convenience" "dialog") (:authors ("Binu Jose Philip, Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/w32browser-dlgopen.el"))])

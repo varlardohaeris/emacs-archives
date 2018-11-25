@@ -1,0 +1,2 @@
+
+(slurp . [(20110807 1640) nil "Search a file hierarchy for files with matching names" single ((:commit . "8d09ae1a86c5f2d82ca004d4ae310e44aab7f721") (:authors ("Jason Meade" . "jemeade@gmail.com")) (:maintainer "Jason Meade" . "jemeade@gmail.com"))])

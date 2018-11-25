@@ -1,0 +1,2 @@
+
+(clibpc . [(20090830 1840) nil "partial complete functions for c libraries" single ((:commit . "ea24f817baef7d5e980ae5612f36b29c09c97192") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

@@ -1,0 +1,2 @@
+
+(no-word . [(20090830 1840) nil "use antiword program to view word documents in emacs" single ((:commit . "9549a40ff1c8bda13ef8dcd6f4af69734e626563") (:keywords "word" "word processors") (:authors ("Pierre Gaston" . "pgas@intracom.gr")) (:maintainer "Pierre Gaston" . "pgas@intracom.gr") (:url . "http://www.emacswiki.org/elisp/no-word.el"))])

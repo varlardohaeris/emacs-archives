@@ -1,0 +1,2 @@
+
+(awk-it . [(20130918 248) nil "Run AWK interactively on region!" single ((:commit . "9792295407c98d1987b0016183c021a421d870fc") (:keywords "awk") (:authors ("Igor Sikaček" . "isikacek@gmail.com")) (:maintainer "Igor Sikaček" . "isikacek@gmail.com"))])

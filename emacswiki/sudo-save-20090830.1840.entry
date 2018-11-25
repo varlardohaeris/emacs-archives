@@ -1,0 +1,2 @@
+
+(sudo-save . [(20090830 1840) nil "Allow saving files using sudo" single ((:commit . "b82a37da41185f89133bf5b45574f58d275f0653") (:authors ("Kevin A. Burton" . "burton@peerfear.org")) (:maintainer "Kevin A. Burton" . "burton@peerfear.org"))])

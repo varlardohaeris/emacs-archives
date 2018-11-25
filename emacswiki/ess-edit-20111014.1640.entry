@@ -1,0 +1,2 @@
+
+(ess-edit . [(20111014 1640) nil "convenient editing of R code" single ((:commit . "184c4304e7f04c999efa15af4f807c794b229a93") (:keywords "convenience") (:authors ("Thomas Alexander Gerds" . "tagteam@sund.ku.dk")) (:maintainer "Thomas Alexander Gerds" . "tagteam@sund.ku.dk"))])

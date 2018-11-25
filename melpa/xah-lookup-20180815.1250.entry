@@ -1,0 +1,2 @@
+
+(xah-lookup . [(20180815 1250) ((emacs (24 1))) "look up word on internet." single ((:commit . "e3132ff21c3d0160e5bd5b7222c50dc9840727d4") (:keywords "help" "docs" "convenience") (:authors ("Xah Lee ( http://xahlee.info/ )")) (:maintainer "Xah Lee ( http://xahlee.info/ )") (:url . "http://ergoemacs.org/emacs/xah-lookup.html"))])

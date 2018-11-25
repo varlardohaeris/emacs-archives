@@ -1,0 +1,2 @@
+
+(dialog . [(20090830 1840) nil "dialog box interface using widgets, frames and windows" single ((:commit . "6cf38210077401f73e4326bccf546c2c84bb26f7") (:keywords "convenience" "extensions" "hypermedia") (:authors ("Vinicius Jose Latorre" . "viniciusjl@ig.com.br")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl@ig.com.br") (:url . "http://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

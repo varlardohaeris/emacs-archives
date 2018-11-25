@@ -1,0 +1,2 @@
+
+(abbrev-complete . [(20100804 1640) nil "Abbrev mode completion function" single ((:commit . "4c6987d7306effef8d74b22669c6d58d1bc116af") (:keywords "abbrev" "expand" "completion" "convenience") (:authors ("Matsushita Akihisa" . "akihisa@mail.ne.jp")) (:maintainer "Matsushita Akihisa" . "akihisa@mail.ne.jp"))])

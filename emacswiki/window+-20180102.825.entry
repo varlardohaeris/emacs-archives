@@ -1,0 +1,2 @@
+
+(window+ . [(20180102 825) nil "Extensions to `window.el'." single ((:commit . "69c5b695bbf3b8c10b69fb96e6b99de343c9b17f") (:keywords "internal" "window") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/window%2b.el"))])

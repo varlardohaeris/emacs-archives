@@ -1,0 +1,2 @@
+
+(hachette . [(20121115 1814) nil "Lookup a word on the Hachette's online french dictionary." single ((:commit . "597b8738db60cdf5ae6e3e16ff555774fd07d85f") (:keywords "dictionaire" "hachette" "french dictionary") (:authors ("Jean-Philippe Theberge" . "jphi21@users.sourceforge.net")) (:maintainer "Jean-Philippe Theberge" . "jphi21@users.sourceforge.net"))])

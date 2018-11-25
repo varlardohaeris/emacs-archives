@@ -1,0 +1,2 @@
+
+(vc-hooks+ . [(20180102 818) nil "Extensions to `vc-hooks.el'." single ((:commit . "e866596269c3dd55adf3b3e2bca2eb699e930099") (:keywords "version" "control") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/vc-hooks%2b.el"))])

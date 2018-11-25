@@ -1,0 +1,2 @@
+
+(email . [(20100804 1640) nil "Extensions to mail-mode" single ((:commit . "3df499523dcef2644162f87a3bfce647b58dcca2") (:keywords "mail-mode" "extensions") (:authors ("G. Dinesh Dutt" . "brat@htilbom.ernet.in")) (:maintainer "G. Dinesh Dutt" . "brat@htilbom.ernet.in"))])

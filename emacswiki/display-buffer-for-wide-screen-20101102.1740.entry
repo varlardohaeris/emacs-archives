@@ -1,0 +1,2 @@
+
+(display-buffer-for-wide-screen . [(20101102 1740) nil "Set `display-buffer-function' for wide-screen display" single ((:commit . "d96575d3d27b59b7273b0d25e457f9dcad0ddd9b") (:keywords "extensions") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/display-buffer-for-wide-screen.el"))])

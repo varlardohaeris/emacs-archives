@@ -1,0 +1,2 @@
+
+(protbuf-by-name . [(20090830 1840) nil "Extend protbuf.el to allow protecting specific buffer names." single ((:commit . "273f6244b7c060dfec22dc55026e8527b0e62535") (:authors ("Ryan C. Thompson")) (:maintainer "Ryan C. Thompson"))])

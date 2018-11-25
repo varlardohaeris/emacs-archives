@@ -1,0 +1,2 @@
+
+(df-mode . [(20090830 1840) nil "Minor mode to show space left on devices in the mode line" single ((:commit . "0c455170b419d10cb4619dea0d202a129e1abce5") (:keywords "unix" "tools") (:authors ("Benjamin Drieu" . "bdrieu@april.org")) (:maintainer "Benjamin Drieu" . "bdrieu@april.org"))])

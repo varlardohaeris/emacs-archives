@@ -1,0 +1,2 @@
+
+(vdm-snippets . [(20181118 2043) ((emacs (24)) (yasnippet (0 13 0))) "YASnippets for VDM mode" tar ((:commit . "a8f9eb9addc51bc2022a1fce5ad3210961befcce") (:keywords "languages") (:authors ("Peter W. V. Tran-Jørgensen" . "peter.w.v.jorgensen@gmail.com")) (:maintainer "Peter W. V. Tran-Jørgensen" . "peter.w.v.jorgensen@gmail.com") (:url . "https://github.com/peterwvj/vdm-mode"))])

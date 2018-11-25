@@ -1,0 +1,2 @@
+
+(etags-table . [(20090830 1840) nil "Set tags table(s) based on current file" single ((:commit . "92004f2e201dea8948030597551ce7abf92ca14b") (:keywords "etags" "tags" "tag") (:authors ("Scott Frazer" . "frazer.scott@gmail.com")) (:maintainer "Scott Frazer" . "frazer.scott@gmail.com"))])

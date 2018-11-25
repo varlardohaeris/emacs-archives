@@ -1,0 +1,2 @@
+
+(lyric-mode . [(20090830 1840) nil "Major mode for editing lyric (.lrc) files" single ((:commit . "65a279990ae1a8439bf6168b3d3425b6db5d93b8") (:keywords "multimedia" "hypermedia") (:authors ("John Sturdy" . "john.sturdy@ul.ie")) (:maintainer "John Sturdy" . "john.sturdy@ul.ie"))])

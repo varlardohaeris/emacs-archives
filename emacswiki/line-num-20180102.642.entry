@@ -1,0 +1,2 @@
+
+(line-num . [(20180102 642) nil "Display line numbers in left-margin of buffer." single ((:commit . "db462ccb63502c135fbb5124bf730e977a77621b") (:keywords "local") (:authors (nil . "(Darryl Okahata) darrylo@hpsrdmo, Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/line-num.el"))])

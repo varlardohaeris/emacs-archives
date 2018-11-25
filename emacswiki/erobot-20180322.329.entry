@@ -1,0 +1,2 @@
+
+(erobot . [(20180322 329) nil "game with elisp functions trying to survive" single ((:commit . "8cef21738cec2586f40a47e5c409bb58ea1add6c") (:keywords "games") (:authors ("Alex Schroeder" . "alex@gnu.org")) (:maintainer "Alex Schroeder" . "alex@gnu.org") (:url . "http://www.geocities.com/kensanata/emacs.html"))])

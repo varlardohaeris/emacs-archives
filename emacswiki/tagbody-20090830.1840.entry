@@ -1,0 +1,2 @@
+
+(tagbody . [(20090830 1840) nil "Common Lisp `tagbody' for Emacs Lisp" single ((:commit . "a133810e0861515a1060c3018afe890a821e9cf9") (:keywords "extensions") (:authors ("Michael Abraham Shulman" . "viritrilbia@users.sourceforge.net")) (:maintainer "Michael Abraham Shulman" . "viritrilbia@users.sourceforge.net"))])

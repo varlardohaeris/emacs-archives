@@ -1,0 +1,2 @@
+
+(cook-mode . [(20100804 1640) nil "Major mode for writing cook (a make replacement) files" single ((:commit . "0d8fb13563aa60fd3e5bcef727209bf33872c96a"))])

@@ -1,0 +1,2 @@
+
+(fix-buffers-list . [(20100428 1640) nil "New M status and colors in buffers list" single ((:commit . "6fda70f731acaec98d392c44d073a25463de828b") (:authors ("David Andersson <l.david.andersson(at)sverige.nu>")) (:maintainer "David Andersson <l.david.andersson(at)sverige.nu>"))])

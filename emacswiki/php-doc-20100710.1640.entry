@@ -1,0 +1,2 @@
+
+(php-doc . [(20100710 1640) nil "Php document helper" single ((:commit . "d2a7f028dec8665905a24c4a3c2fa4925c2245ed") (:keywords "languages" "convenience") (:authors ("Ye Wenbin" . "wenbinye@gmail.com")) (:maintainer "Ye Wenbin" . "wenbinye@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(flymake-ktlint . [(20180831 346) ((emacs (26 1))) "Flymake extension for Ktlint." single ((:commit . "33730a4818b74cb27196f06a9b23045d0af4c16d") (:keywords "languages" "ktlint") (:maintainer "James Nguyen" . "james@jojojames.com") (:url . "https://github.com/jojojames/flymake-ktlint"))])

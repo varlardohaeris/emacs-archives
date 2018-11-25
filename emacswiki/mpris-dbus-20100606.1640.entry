@@ -1,0 +1,2 @@
+
+(mpris-dbus . [(20100606 1640) nil "MPRIS call via dbus" single ((:commit . "c79c3115006d72610f95e78d3ec0f3a4e74fb2c2") (:keywords "dus" "mpris") (:authors ("Changyuan Yu" . "reivzy@gmail.com")) (:maintainer "Changyuan Yu" . "reivzy@gmail.com"))])

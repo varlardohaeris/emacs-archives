@@ -1,0 +1,2 @@
+
+(java-mode-indent-annotations . [(20140430 721) nil "Indentation for Java 5 annotations." single ((:commit . "d92618dd51be54a6b2bf99026611e3b47bbb04ae") (:keywords "cc-mode" "java" "annotations" "indentation") (:authors ("Suraj Acharya" . "sacharya@cs.indiana.edu")) (:maintainer "Suraj Acharya" . "sacharya@cs.indiana.edu"))])

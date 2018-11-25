@@ -1,0 +1,2 @@
+
+(rmail-extras . [(20090830 1840) nil "remote inboxes for RMAIL, extend \"time\" with multiple mail flags" single ((:commit . "5a6278dad49970958a9063849f23733ae3945f42") (:keywords "mail" "time") (:authors ("Trey Jackson" . "trey@cs.berkeley.edu")) (:maintainer "Trey Jackson" . "trey@cs.berkeley.edu"))])

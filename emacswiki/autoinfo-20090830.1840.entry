@@ -1,0 +1,2 @@
+
+(autoinfo . [(20090830 1840) nil "show automatic information for the current selection" single ((:commit . "e09276f214ea8fb6f56f0a2d697fd1c5926f6844") (:keywords "convenience") (:authors ("Tamas Patrovics")) (:maintainer "Tamas Patrovics"))])

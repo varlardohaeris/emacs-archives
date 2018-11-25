@@ -1,0 +1,2 @@
+
+(batch-mode . [(20171116 1810) nil "major mode for editing batch scrips" single ((:commit . "f1c87cf93fd6f07001911227298225a5ff6957e9"))])

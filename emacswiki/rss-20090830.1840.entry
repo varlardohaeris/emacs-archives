@@ -1,0 +1,2 @@
+
+(rss . [(20090830 1840) nil "Create and update RSS(version 2.0)" single ((:commit . "87d82ad2cbd592e35910ac9cdb0b66ca3fa61f0b") (:keywords "tools") (:authors ("Ye Wenbin" . "wenbinye@gmail.com")) (:maintainer "Ye Wenbin" . "wenbinye@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(vc+ . [(20180102 816) nil "Extensions for `vc.el'." single ((:commit . "1207b4099991d02fbd894f3e0288e56210349ac3") (:keywords "internal" "tools" "unix") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/vc%2b.el"))])

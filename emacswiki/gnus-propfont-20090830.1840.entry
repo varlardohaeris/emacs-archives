@@ -1,0 +1,2 @@
+
+(gnus-propfont . [(20090830 1840) nil "adding faces to *Article* buffer in Gnus" single ((:commit . "7f61d034988af6e440b94981190c93681fa86e85") (:keywords "news" "mail") (:authors ("Oliver Scholz" . "epameinondas@gmx.de")) (:maintainer "Oliver Scholz" . "epameinondas@gmx.de"))])

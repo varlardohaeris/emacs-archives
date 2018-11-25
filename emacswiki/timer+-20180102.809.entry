@@ -1,0 +1,2 @@
+
+(timer+ . [(20180102 809) nil "Extensions to `timer.el'." single ((:commit . "41bced93def3b573adda19823cab30fbe7ed0908") (:keywords "processes" "calendar") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/timer%2b.el"))])

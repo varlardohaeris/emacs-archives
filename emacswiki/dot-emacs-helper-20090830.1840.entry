@@ -1,0 +1,2 @@
+
+(dot-emacs-helper . [(20090830 1840) nil "Some helper functions for .emacs" single ((:commit . "e9181f5882194b0ab12c5e9c71f8e24db38176e4") (:authors (nil . "wenbinye@gmail.com")) (:maintainer nil . "wenbinye@gmail.com") (:url . "not distributed yet"))])

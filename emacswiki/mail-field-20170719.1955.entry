@@ -1,0 +1,2 @@
+
+(mail-field . [(20170719 1955) nil "Emulate Sun mailtool field movement" single ((:commit . "9b0998ec063ed706f41c567e18a38a94a856bfb4") (:keywords "mail" "message" "fields") (:authors (nil . "Kevin Davidson tkld@quadstone.com")) (:maintainer nil . "Kevin Davidson tkld@quadstone.com"))])

@@ -1,0 +1,2 @@
+
+(mudel . [(20090830 1840) nil "The Mudel MUD Client" single ((:commit . "aa143b24049416ad995f988d37583c38fb6d02a3") (:keywords "application" "games") (:authors ("Jorgen Schaefer")) (:maintainer "Jorgen Schaefer"))])

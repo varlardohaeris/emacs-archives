@@ -1,0 +1,2 @@
+
+(wcy-desktop . [(20120823 2241) nil "faster than desktop.el and less features." single ((:commit . "ee575466a382caffe9e2ff33b12f2fa8522134ce") (:keywords "convenience") (:authors (nil . "<chunye.wang@nsn.com>")) (:maintainer nil . "<chunye.wang@nsn.com>"))])

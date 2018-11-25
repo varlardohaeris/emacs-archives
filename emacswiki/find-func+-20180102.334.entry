@@ -1,0 +1,2 @@
+
+(find-func+ . [(20180102 334) nil "Extensions to `find-func.el'." single ((:commit . "b1c4fea2ea5e9a17a08b3e875503e758bb1babeb") (:keywords "emacs-lisp" "functions" "variables") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/find-func%2b.el"))])

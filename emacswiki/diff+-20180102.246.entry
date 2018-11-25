@@ -1,0 +1,2 @@
+
+(diff+ . [(20180102 246) nil "Extensions to `diff.el' for Emacs 21 and later." single ((:commit . "dbc79f2609703a1680fed76665ea4b2336057489") (:keywords "data" "matching" "tools" "unix" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/diff%2b.el"))])

@@ -1,0 +1,2 @@
+
+(keep-end . [(20120106 514) nil "Keep some buffer always at end" single ((:commit . "7293332da40c778ba3492e320dfccd3470e4e39b") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

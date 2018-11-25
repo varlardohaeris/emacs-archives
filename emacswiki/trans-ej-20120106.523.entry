@@ -1,0 +1,2 @@
+
+(trans-ej . [(20120106 523) nil "English-Japanese translator using web translation service" single ((:commit . "41927ee52eb3e7b75c9a869fee5e0c6ff790adce") (:keywords "multilingual" "translation") (:authors ("S. Irie")) (:maintainer "S. Irie"))])

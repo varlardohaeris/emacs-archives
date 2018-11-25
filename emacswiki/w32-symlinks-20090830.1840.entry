@@ -1,0 +1,2 @@
+
+(w32-symlinks . [(20090830 1840) nil "MS Windows symbolic link (shortcut) support" single ((:commit . "ce45a2d73ea46da6cc5b935b44f8afe43a284f8d") (:keywords "convenience" "files" "unix") (:authors ("Francis J. Wright <F.J.Wright at qmul.ac.uk>")) (:maintainer "Francis J. Wright <F.J.Wright at qmul.ac.uk>") (:url . "http://www.emacswiki.org/emacs/w32-symlinks.el"))])

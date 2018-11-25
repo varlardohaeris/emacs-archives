@@ -1,0 +1,2 @@
+
+(bibus . [(20120429 532) nil "Major mode for displaying and managing reference keys" single ((:commit . "3461c6907b23b2563fa0aa9e963f455fce4179fd") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

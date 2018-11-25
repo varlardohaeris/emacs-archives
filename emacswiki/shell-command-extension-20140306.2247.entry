@@ -1,0 +1,2 @@
+
+(shell-command-extension . [(20140306 2247) nil "Some extension for shell-command" single ((:commit . "8b08ce617ce4a8b9e255f1740ed548682f2d1b15") (:keywords "shell-command") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/shell-command-extension.el"))])

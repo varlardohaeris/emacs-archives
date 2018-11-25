@@ -1,0 +1,2 @@
+
+(auto-complete-extension . [(20090830 1840) nil "Some extension for auto-complete-mode" single ((:commit . "18d5f6f5905001f3a63bc3cd58ce3f21db56c4df") (:keywords "auto-complete") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/auto-complete-extension.el"))])

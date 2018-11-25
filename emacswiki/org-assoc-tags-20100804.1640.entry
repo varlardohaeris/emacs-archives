@@ -1,0 +1,2 @@
+
+(org-assoc-tags . [(20100804 1640) nil "Automatically associate tags when key-tagging an item" single ((:commit . "ec39deb2ea9ac6cc3c7ea43d6753002745ef7b6c") (:keywords "org-mode" "tags") (:authors ("Konstantin Antipin")) (:maintainer "Konstantin Antipin") (:url . "http://www.emacswiki.org/emacs/org-assoc-tags.el"))])

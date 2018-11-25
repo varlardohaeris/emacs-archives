@@ -1,0 +1,2 @@
+
+(dired-sort-menu+ . [(20180102 258) ((dired-sort-menu (0))) "Extensions to `dired-sort-menu.el'" single ((:commit . "5cb808f1db17bd30947194f437e47d2f3ce539a1") (:keywords "directories" "diredp" "dired") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/dired-sort-menu%2b.el"))])

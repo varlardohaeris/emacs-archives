@@ -1,0 +1,2 @@
+
+(ctypes . [(20090830 1840) nil "Enhanced Font lock support for custom defined types." single ((:commit . "26851f7964d6615be8c92a53d29ce5f5aacabf00") (:authors ("Anders Lindgren" . "andersl@andersl.com")) (:maintainer "Anders Lindgren" . "andersl@andersl.com"))])

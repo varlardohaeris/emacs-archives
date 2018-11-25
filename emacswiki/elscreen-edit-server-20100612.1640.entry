@@ -1,0 +1,2 @@
+
+(elscreen-edit-server . [(20100612 1640) nil "work together chrome and elscreen" single ((:commit . "16805093514a9ec74153755dcf07317e63381535") (:keywords "elscreen" "edit-server") (:authors ("khiker" . "khiker.mail+elisp@gmail.com")) (:maintainer "khiker" . "khiker.mail+elisp@gmail.com"))])

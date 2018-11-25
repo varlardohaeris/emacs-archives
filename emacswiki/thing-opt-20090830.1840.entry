@@ -1,0 +1,2 @@
+
+(thing-opt . [(20090830 1840) nil "Thing at Point optional utilities" single ((:commit . "b53e8d223fee673188db9766e118020a5bd54cac") (:keywords "convenience") (:authors ("MATSUYAMA Tomohiro" . "t.matsuyama.pub@gmail.com")) (:maintainer "MATSUYAMA Tomohiro" . "t.matsuyama.pub@gmail.com"))])

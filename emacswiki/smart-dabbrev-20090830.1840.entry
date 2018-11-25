@@ -1,0 +1,2 @@
+
+(smart-dabbrev . [(20090830 1840) nil "smarter dabbrev-expand" single ((:commit . "05383db1da746c90e6c44a2f83fe1524bb382212"))])

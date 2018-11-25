@@ -1,0 +1,2 @@
+
+(fixme-mode . [(20100624 1640) nil "Makes FIXME, TODO, etc. appear in big, angry letters" single ((:commit . "a604349ed60b0e725a17b9aef439b75afd1f4dbf") (:authors ("Bryan Waite, based on some code found at ")) (:maintainer "Bryan Waite, based on some code found at "))])

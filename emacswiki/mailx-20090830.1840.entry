@@ -1,0 +1,2 @@
+
+(mailx . [(20090830 1840) nil "A front-end to mailx" single ((:commit . "09d2fe3a0985078347c2664aa7780fd78fbc1a5d") (:keywords "mail") (:authors ("Shawn Betts" . "sabetts@sfu.ca")) (:maintainer "Shawn Betts" . "sabetts@sfu.ca"))])

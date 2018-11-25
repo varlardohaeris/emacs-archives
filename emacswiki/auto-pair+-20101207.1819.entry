@@ -1,0 +1,2 @@
+
+(auto-pair+ . [(20101207 1819) nil "Autopair handler to extend Autopair behavior." single ((:commit . "cb86c7bde29e3fbd6eb4c47338d4233be35da8fd") (:keywords "autopair" "selection" "whitespace") (:authors ("Matthew L. Fidler")) (:maintainer "Matthew L. Fidler") (:url . "http://www.emacswiki.org/emacs/auto-pair+.el "))])

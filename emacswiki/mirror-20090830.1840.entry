@@ -1,0 +1,2 @@
+
+(mirror . [(20090830 1840) nil "Maintain a (remote) copy of a (local) file" single ((:commit . "518020f934e574d8a1899ed92d8c93accfcdb904") (:keywords "convenience" "files") (:authors ("Kahlil (Kal) HODGSON" . "dorge@tpg.com.au")) (:maintainer "Kahlil (Kal) HODGSON" . "dorge@tpg.com.au") (:url . "http://www.emacswiki.org/elisp/mirror.el"))])

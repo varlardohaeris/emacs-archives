@@ -1,0 +1,2 @@
+
+(showkey . [(20180211 40) nil "Show keys as you use them." single ((:commit . "69b1246bfe5003c8bfc946b3fe553e6cd5bdd5f0") (:keywords "help" "keys" "mouse") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/showkey.el"))])

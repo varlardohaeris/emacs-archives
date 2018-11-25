@@ -1,0 +1,2 @@
+
+(doremi-mac . [(20180102 259) nil "A macro for defining Do Re Mi commands." single ((:commit . "d785f698ae8a3b196e8f26b85a5bad498162cba3") (:keywords "extensions" "convenience" "keys" "repeat" "cycle") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/doremi-mac.el"))])

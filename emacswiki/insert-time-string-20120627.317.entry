@@ -1,0 +1,2 @@
+
+(insert-time-string . [(20120627 317) nil "Insert the current time." single ((:commit . "18cb61912933c2e1851171878fc50d0cb9673342") (:keywords "time" "date" "convenience") (:authors ("Kevin Rodgers" . "kevin.d.rodgers@gmail.com")) (:maintainer "Kevin Rodgers" . "kevin.d.rodgers@gmail.com"))])

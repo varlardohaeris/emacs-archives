@@ -1,0 +1,2 @@
+
+(dgpg . [(20100804 1640) nil "David's GPG Extensions for Emacs" single ((:commit . "ccf906830c2ec343c252bd413ad838d5de887bda") (:authors ("David Elentok" . "3david@gmail.com")) (:maintainer "David Elentok" . "3david@gmail.com"))])

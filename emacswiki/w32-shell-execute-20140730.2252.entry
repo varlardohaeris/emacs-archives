@@ -1,0 +1,2 @@
+
+(w32-shell-execute . [(20140730 2252) nil "w32 specific.  execute any of the 'Explorer verbs' available for a file or directory" single ((:commit . "896a4d137b6d4dfe240fab610e66394ea5dd4c72") (:keywords "convenience" "processes") (:authors ("Patrick Anderson" . "patware@freeshell.org")) (:maintainer "Patrick Anderson" . "patware@freeshell.org"))])

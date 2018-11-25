@@ -1,0 +1,2 @@
+
+(expand-region . [(20180817 1134) nil "Increase selected region by semantic units." tar ((:commit . "ed3292473035dc8f3d2f321e82974ef87327808f"))])

@@ -1,0 +1,2 @@
+
+(html-parse . [(20090830 1840) nil "html parser for Emacs" single ((:commit . "76a55c8029049c287b6fc9492c1d0b456ae1a27b") (:keywords "html" "parse") (:authors ("khiker" . "khiker.mail+elisp@gmail.com")) (:maintainer "khiker" . "khiker.mail+elisp@gmail.com"))])

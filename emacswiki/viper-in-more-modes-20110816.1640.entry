@@ -1,0 +1,2 @@
+
+(viper-in-more-modes . [(20110816 1640) nil "vi-like keybindings for various Emacs modes" single ((:commit . "ac2d2a2fe334eb0260147943d6bb0b60d3b64d06") (:authors ("Alessandro Piras <laynor at gmail.com>")) (:maintainer "Vegard Øye <vegard_oye at hotmail.com>") (:url . "http://gitorious.org/viper-in-more-modes/"))])

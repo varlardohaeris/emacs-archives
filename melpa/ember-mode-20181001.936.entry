@@ -1,0 +1,2 @@
+
+(ember-mode . [(20181001 936) ((cl-lib (0 5))) "Ember navigation mode for emacs" single ((:commit . "88e5ffd33d8664b4d5124d6aa2ea9ed8d50c8c9e") (:keywords "ember" "ember.js" "emberjs") (:authors ("Aad Versteden" . "madnificent@gmail.com")) (:maintainer "Aad Versteden" . "madnificent@gmail.com"))])

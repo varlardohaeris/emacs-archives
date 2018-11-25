@@ -1,0 +1,2 @@
+
+(cc-mode+ . [(20180102 207) nil "Extensions to `c-mode.el' & `cc-mode.el'." single ((:commit . "025803395fa6eb003e218e591647ca7b4d3fdf22") (:keywords "c" "c++" "programming") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/cc-mode%2b.el"))])

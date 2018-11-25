@@ -1,0 +1,2 @@
+
+(etags-select . [(20090830 1840) nil "Select from multiple tags" single ((:commit . "6d82619c631e38e6a79b9e25477a00a680b1408a") (:keywords "etags" "tags" "tag" "select") (:authors ("Scott Frazer" . "frazer.scott@gmail.com")) (:maintainer "Scott Frazer" . "frazer.scott@gmail.com"))])

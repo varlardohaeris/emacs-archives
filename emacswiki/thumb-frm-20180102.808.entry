@@ -1,0 +1,2 @@
+
+(thumb-frm . [(20180102 808) ((frame-fns (0)) (frame-cmds (0))) "Commands for thumbnail frames." single ((:commit . "84d3d2c0bfb7cf154f9232d7962966d8b9ebaf2e") (:keywords "frame" "icon") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/thumb-frm.el"))])

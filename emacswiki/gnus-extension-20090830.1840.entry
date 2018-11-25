@@ -1,0 +1,2 @@
+
+(gnus-extension . [(20090830 1840) nil "Simple description" single ((:commit . "d3ad47ec1a454370a978d81b79fd3ab2ad07f0a5") (:keywords "gnus") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

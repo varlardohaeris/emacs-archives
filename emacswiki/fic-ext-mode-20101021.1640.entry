@@ -1,0 +1,2 @@
+
+(fic-ext-mode . [(20101021 1640) nil "Show FIXME/TODO/BUG(...) in special face only in comments and strings" single ((:commit . "c5328aba02b67112c705eaf55822e24ccd7459ec"))])

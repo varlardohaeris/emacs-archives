@@ -1,0 +1,2 @@
+
+(warn-mail . [(20120325 342) nil "warn for mails incoming" single ((:commit . "931af324df1b961d6fd50b8d748d4e4192a9e36d") (:authors ("Thierry Volpiatto")) (:maintainer "Thierry Volpiatto"))])

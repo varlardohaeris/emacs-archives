@@ -1,0 +1,2 @@
+
+(dhall-mode . [(20181121 2254) ((emacs (24 4))) "a major mode for dhall configuration language" single ((:commit . "a40cd659d8e41f4e839ae0214138292bdbc281e8") (:keywords "languages") (:authors ("Sibi Prabakaran" . "sibi@psibi.in")) (:maintainer "Sibi Prabakaran" . "sibi@psibi.in") (:url . "https://github.com/psibi/dhall-mode"))])

@@ -1,0 +1,2 @@
+
+(install-elisp . [(20100505 1639) nil "Simple Emacs Lisp installer" single ((:commit . "fa09e9570af8bb27e812e55b9c2d0abf6e9c3c0a") (:keywords "lisp" "convenience" "maint") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/install-elisp.el"))])

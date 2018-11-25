@@ -1,0 +1,2 @@
+
+(message-x . [(20151029 2218) nil "customizable completion in message headers" single ((:commit . "5524de7bbfdd8749c110f48de5afb024d9f83133") (:keywords "news" "mail" "compose" "completion") (:authors ("Kai Grossjohann" . "grossjohann@ls6.informatik.uni-dortmund.de")) (:maintainer "Kai Grossjohann" . "grossjohann@ls6.informatik.uni-dortmund.de"))])

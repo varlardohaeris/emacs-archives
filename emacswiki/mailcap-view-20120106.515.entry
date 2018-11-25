@@ -1,0 +1,2 @@
+
+(mailcap-view . [(20120106 515) nil "View files based on the mime-type of the file extension" single ((:commit . "4afa15625306e953cdae7cb602eea4a1428959f3") (:authors ("Doug Alcorn" . "doug@lathi.net")) (:maintainer "Doug Alcorn" . "doug@lathi.net"))])

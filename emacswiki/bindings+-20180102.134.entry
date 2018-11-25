@@ -1,0 +1,2 @@
+
+(bindings+ . [(20180102 134) nil "Enhancements to standard library `bindings.el'." single ((:commit . "00afa1fe7e5a0312f2bb88332d14ae5c4709ac60") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/bindings%2b.el"))])

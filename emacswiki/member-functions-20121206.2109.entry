@@ -1,0 +1,2 @@
+
+(member-functions . [(20121206 2109) nil "Expand C++ member functions into implementation file" single ((:commit . "56d947c3e61a916cae8d337d9c3c3c7e5d54c04a") (:authors ("Ron Lawrence" . "ral@bit-net.com")) (:maintainer "Ron Lawrence" . "ral@bit-net.com"))])

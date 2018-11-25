@@ -1,0 +1,2 @@
+
+(multi-shell . [(20090830 1840) nil "Multi-Shell Manager" single ((:commit . "57490c1be4a42b3d0e062a3ea5ebfe53ab21c74d") (:keywords "multi-shell" "shell") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

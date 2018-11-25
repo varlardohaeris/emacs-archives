@@ -1,0 +1,2 @@
+
+(tsv-mode . [(20090830 1840) nil "Major mode for edit table files" single ((:commit . "2c0aab4885398ecf8d2081ff84937cbbef64522e") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

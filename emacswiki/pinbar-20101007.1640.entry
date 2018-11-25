@@ -1,0 +1,2 @@
+
+(pinbar . [(20101007 1640) nil "Display a pin bar in the header line" single ((:commit . "62cbd773407e200e35cc0631ef83454775595fe3") (:keywords "convenience") (:authors ("Gaofeng Huang" . "poppyer@gmail.com")) (:maintainer "Gaofeng Huang" . "poppyer@gmail.com"))])

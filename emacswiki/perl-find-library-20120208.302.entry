@@ -1,0 +1,2 @@
+
+(perl-find-library . [(20120208 302) nil "Functions for locating perl libraries on your system" single ((:commit . "cd80c57d2c2586884ff886b0e00e8ce9a516411d") (:keywords "util" "perl") (:authors ("Nelson Elhage" . "nelhage@mit.edu")) (:maintainer "Nelson Elhage" . "nelhage@mit.edu"))])

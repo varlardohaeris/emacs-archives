@@ -1,0 +1,2 @@
+
+(nmcobol-mode . [(20151212 341) nil "For use with Tandem Cobol only - Sorry." single ((:commit . "529aa8c496d0d0f9ebf67fc4a0ac4e0cdeaa9fb7") (:keywords "languages" "cobol" "tandem" "guardian" "nsk") (:authors ("Rick Bielawski" . "rbielaws@i1.net")) (:maintainer "Rick Bielawski" . "rbielaws@i1.net"))])

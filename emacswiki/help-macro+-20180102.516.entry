@@ -1,0 +1,2 @@
+
+(help-macro+ . [(20180102 516) nil "Extensions to `help-macro.el'." single ((:commit . "df43eda4f260f05f8dfffc48a5e48d18b78441a5") (:keywords "help") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/help-macro%2b.el"))])

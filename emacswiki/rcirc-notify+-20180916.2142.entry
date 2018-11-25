@@ -1,0 +1,2 @@
+
+(rcirc-notify+ . [(20180916 2142) nil "Rcirc notify library" single ((:commit . "4b557a9bba464c1365960b2957dc595f3cec41ab") (:keywords "rcirc" "notify") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/rcirc-notify+.el"))])

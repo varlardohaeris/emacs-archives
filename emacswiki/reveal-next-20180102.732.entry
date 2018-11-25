@@ -1,0 +1,2 @@
+
+(reveal-next . [(20180102 732) nil "Progressively reveal text after the cursor." single ((:commit . "b078cfcf48d2230a1fd80d5e32b2e64d905a57f2") (:keywords "hide" "show" "invisible" "learning") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/reveal-next.el"))])

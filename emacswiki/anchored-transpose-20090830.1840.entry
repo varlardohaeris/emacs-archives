@@ -1,0 +1,2 @@
+
+(anchored-transpose . [(20090830 1840) nil "Transposes a phrase around an anchor phrase" single ((:commit . "43b37bbc5dc0fe4b7b1b46c5e1d98553e9b527ae") (:keywords "tools" "convenience") (:authors ("Rick Bielawski" . "rbielaws@i1.net")) (:maintainer "Rick Bielawski" . "rbielaws@i1.net"))])

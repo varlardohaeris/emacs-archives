@@ -1,0 +1,2 @@
+
+(ifind . [(20121115 1817) nil "An interface to `find` based on igrep.el" single ((:commit . "8082ce1e11bf1a497f55e26aefe07ea5c993a874") (:keywords "tools" "processes" "search") (:authors ("Kevin Rodgers" . "ihs_4664@yahoo.com")) (:maintainer "Kevin Rodgers" . "ihs_4664@yahoo.com"))])

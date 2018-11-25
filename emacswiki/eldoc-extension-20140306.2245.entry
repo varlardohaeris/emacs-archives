@@ -1,0 +1,2 @@
+
+(eldoc-extension . [(20140306 2245) nil "Some extension for eldoc" single ((:commit . "54c60fe7b8a0b4fbb69252c90cc2e5fa4206d910") (:keywords "eldoc") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org"))])

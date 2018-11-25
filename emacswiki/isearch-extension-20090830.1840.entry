@@ -1,0 +1,2 @@
+
+(isearch-extension . [(20090830 1840) nil "Extension for isearch." single ((:commit . "c0ec6e698f81d2b0d39a170381d0e0a5833792c2") (:keywords "isearch") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

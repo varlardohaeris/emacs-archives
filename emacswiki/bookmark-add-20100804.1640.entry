@@ -1,0 +1,2 @@
+
+(bookmark-add . [(20100804 1640) nil "creates the buffer for work with bookmarks" single ((:commit . "00d05c5872202d0f65cadaa2cd5d99ed56a7ca62") (:keywords "bookmarks" "placeholders" "annotations") (:authors ("Eugene V. Markov")) (:maintainer "Eugene V. Markov"))])

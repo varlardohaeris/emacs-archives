@@ -1,0 +1,2 @@
+
+(imapua . [(20100804 1640) nil "a purely IMAP based email client for EMACS" single ((:commit . "7f31147e05afff782c1112ba8b7537ac14d428d6") (:keywords "mail") (:authors ("Nic Ferrier" . "nferrier@tapsellferrier.co.uk")) (:maintainer "Nic Ferrier" . "nferrier@tapsellferrier.co.uk"))])

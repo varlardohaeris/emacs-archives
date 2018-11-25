@@ -1,0 +1,2 @@
+
+(acme-search . [(20090830 1840) nil "right-click searching" single ((:commit . "f5d3cac514418b99e56430f4da0ea8a9c798b53f") (:authors ("Dan McCarthy" . "daniel.c.mccarthy@gmail.com")) (:maintainer "Dan McCarthy" . "daniel.c.mccarthy@gmail.com"))])

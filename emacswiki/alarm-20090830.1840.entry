@@ -1,0 +1,2 @@
+
+(alarm . [(20090830 1840) nil "Alarm" single ((:commit . "615cd56715a5c08e2fe50f6000adb47a46aaf2e2") (:keywords "alarm") (:authors ("Emacs guys" . "emacser@freedom.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/alarm.el"))])

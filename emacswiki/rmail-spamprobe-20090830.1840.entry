@@ -1,0 +1,2 @@
+
+(rmail-spamprobe . [(20090830 1840) nil "interact with spamprobe from within RMAIL" single ((:commit . "5bd082f80e8a6e8de0f30195520122d1e30770ed") (:keywords "mail") (:authors ("Henrik Enberg" . "enberg@printf.se")) (:maintainer "Henrik Enberg" . "enberg@printf.se"))])

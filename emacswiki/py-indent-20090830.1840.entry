@@ -1,0 +1,2 @@
+
+(py-indent . [(20090830 1840) nil "Python indentation with annotations" single ((:commit . "5abae711ead020e59bb11f6053caf1533123f87f") (:keywords "python" "indent") (:authors ("Davis Herring" . "herring@lanl.gov")) (:maintainer "Davis Herring" . "herring@lanl.gov"))])

@@ -1,0 +1,2 @@
+
+(w32-send-mapi . [(20090830 1840) nil "send e-mail messages using MAPI" single ((:commit . "882916b3219f2db4b2183ebdbaf16776d7df84c9") (:keywords "w32" "e-mail" "vbscript" "mapi") (:authors ("Mathias Dahl" . "mathias.removethis.dahl@gmail.com")) (:maintainer "Mathias Dahl") (:url . "http://www.emacswiki.org/cgi-bin/wiki/WThirtyTwoSendMAPI"))])

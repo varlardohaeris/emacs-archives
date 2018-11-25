@@ -1,0 +1,2 @@
+
+(glimpse . [(20170719 1954) nil "Interface to glimpse" single ((:commit . "7fda49630c25e01e5716cc80c4a912f938f89f91") (:authors ("Alan Shutko" . "ats@acm.org")) (:maintainer "Alan Shutko" . "ats@acm.org"))])

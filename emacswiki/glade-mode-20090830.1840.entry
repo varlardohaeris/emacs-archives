@@ -1,0 +1,2 @@
+
+(glade-mode . [(20090830 1840) nil "A mode to view glade interface using tree-widget" single ((:commit . "81060b71c6ed0102a6c90841c905cae1bd1713e0") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

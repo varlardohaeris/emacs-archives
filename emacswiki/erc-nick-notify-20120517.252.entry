@@ -1,0 +1,2 @@
+
+(erc-nick-notify . [(20120517 252) nil "Notify popup for ERC" single ((:commit . "e72efb3c2ccbb8fef232794971af6a4e8ec141be") (:keywords "erc" "notify") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/erc-nick-notify.el"))])

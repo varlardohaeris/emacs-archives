@@ -1,0 +1,2 @@
+
+(stripes . [(20090830 1840) nil "alternate the background color of lines" single ((:commit . "b3e286696fe3183ad0b717b2fd84402a0409745f") (:keywords "list" "alternation" "color") (:authors ("Michael Schierl" . "schierlm-public@gmx.de")) (:maintainer "Michael Schierl" . "schierlm-public@gmx.de"))])

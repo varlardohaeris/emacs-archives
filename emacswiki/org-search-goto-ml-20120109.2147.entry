@@ -1,0 +1,2 @@
+
+(org-search-goto-ml . [(20120109 2147) nil "Use multiline search to go to locations in your org buffers" single ((:commit . "79a96f03d7aaf9c74c114e034cc23c863c463c4c"))])

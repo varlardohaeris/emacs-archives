@@ -1,0 +1,2 @@
+
+(keypress-multi-event . [(20180817 853) ((emacs (24 3))) "Perform different actions for the same keypress." single ((:commit . "ec94209e52e17427e513b0b24ac2de1ac90b3762") (:keywords "abbrev" "convenience" "wp" "keyboard") (:authors ("Boruch Baum" . "boruch_baum@gmx.com")) (:maintainer "Boruch Baum" . "boruch_baum@gmx.com") (:url . "https://www.github.com/Boruch_Baum/emacs-keypress-multi-event"))])

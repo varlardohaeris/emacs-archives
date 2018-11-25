@@ -1,0 +1,2 @@
+
+(pcmpl-homebrew . [(20181105 309) nil "pcomplete for homebrew" single ((:commit . "3dc4eb22231d82edb9d33d17287bd9a018f7645e") (:keywords "pcomplete" "homebrew" "tools" "cask" "services") (:authors ("hiddenlotus" . "kaihaosw@gmail.com")) (:maintainer "hiddenlotus" . "kaihaosw@gmail.com"))])

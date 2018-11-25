@@ -1,0 +1,2 @@
+
+(ireplace . [(20100804 1640) nil "replace functions invoked from isearch-mode" single ((:commit . "b477b68d7d8ac13099bb54cc5e7df0c7baaa9b10") (:keywords "replace" "search" "matching") (:authors ("Michael Schierl" . "schierlm-public@gmx.de")) (:maintainer "Michael Schierl" . "schierlm-public@gmx.de"))])

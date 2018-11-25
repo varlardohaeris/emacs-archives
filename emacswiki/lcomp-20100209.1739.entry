@@ -1,0 +1,2 @@
+
+(lcomp . [(20100209 1739) nil "list completion hacks!" single ((:commit . "6a525f282058d609661b9d792c31230ab5199ff6") (:keywords "tools" "convenience") (:authors ("Taiki SUGAWARA" . "buzz.taiki@gmail.com")) (:maintainer "Taiki SUGAWARA" . "buzz.taiki@gmail.com") (:url . "http://www.emacswiki.org/cgi-bin/wiki/lcomp.el"))])

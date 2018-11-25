@@ -1,0 +1,2 @@
+
+(org-oddmuse . [(20090830 1840) nil "Transform from Org-mode to Oddmuse Wiki format." single ((:commit . "419605cf900e819ad80852e28a887b003d27d59f") (:keywords "org-mode" "oddmuse") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/org-oddmuse.el"))])

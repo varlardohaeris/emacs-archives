@@ -1,0 +1,2 @@
+
+(ffap- . [(20180102 325) nil "Extensions to library `ffap.el'" single ((:commit . "8d35308b28c679266c3d1a049940d5be1b1c29e8") (:keywords "files" "hypermedia" "matching" "mouse" "convenience") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/ffap-.el"))])

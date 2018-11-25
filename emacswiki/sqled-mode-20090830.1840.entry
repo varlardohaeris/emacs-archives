@@ -1,0 +1,2 @@
+
+(sqled-mode . [(20090830 1840) nil "Major Mode for editing sql, sqlplus and pl/sql code" single ((:commit . "d0ee820561728bd414fe586a801c4e86041d8366"))])

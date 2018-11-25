@@ -1,0 +1,2 @@
+
+(wikitext-mode . [(20091121 1739) nil "Mode for editing Wikitexts" single ((:commit . "c87cb93a040eb763b845562d12ee2534023d4373") (:keywords "wiki") (:authors ("Chong Yidong <cyd at stupidchicken com>")) (:maintainer "Chong Yidong <cyd at stupidchicken com>"))])

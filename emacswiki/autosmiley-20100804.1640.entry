@@ -1,0 +1,2 @@
+
+(autosmiley . [(20100804 1640) nil "Convert smileys into their graphical representation" single ((:commit . "fe9a4495a7ef3f3e4dd81d523a1c791d4cef3d90") (:authors ("Damyan Pepper (gmail account, username damyanp)")) (:maintainer "Damyan Pepper (gmail account, username damyanp)"))])

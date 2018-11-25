@@ -1,0 +1,2 @@
+
+(electric-dot-and-dash . [(20090830 1840) nil "Different way to enter brackets" single ((:commit . "4f7f770c3ed0af71d34629345d33a6b04ccfb833") (:keywords "convenience") (:authors ("Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com")) (:maintainer "Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com"))])

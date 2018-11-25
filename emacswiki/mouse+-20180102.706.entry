@@ -1,0 +1,2 @@
+
+(mouse+ . [(20180102 706) nil "Extensions to `mouse.el'." single ((:commit . "92c1489fc4299e08455cdfe5a998bc2775b51a3d") (:keywords "mouse") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/mouse%2b.el"))])

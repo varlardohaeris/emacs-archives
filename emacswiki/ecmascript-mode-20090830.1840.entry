@@ -1,0 +1,2 @@
+
+(ecmascript-mode . [(20090830 1840) nil "major mode for editing ECMAScript code" single ((:commit . "a8d7e0541a0677ea046de0db8d8fa308c5f1bfdd") (:keywords "languages" "ecmascript" "javascript") (:authors ("David Lindquist" . "david.lindquist@gmail.com")) (:maintainer "David Lindquist" . "david.lindquist@gmail.com"))])

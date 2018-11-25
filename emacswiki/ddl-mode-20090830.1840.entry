@@ -1,0 +1,2 @@
+
+(ddl-mode . [(20090830 1840) nil "Handles the Tandem-Compaq-HP DDL language." single ((:commit . "26ecb8cfdf14c7679d52987d47cca8477aa04c90") (:keywords "languages" "extensions" "tandem" "compaq" "hp a proprietary language of tandem/compaq/hp computers.") (:authors ("Rick Bielawski" . "rbielaws@i1.net") ("A proprietary language of Tandem/Compaq/HP computers.")) (:maintainer "Rick Bielawski" . "rbielaws@i1.net"))])

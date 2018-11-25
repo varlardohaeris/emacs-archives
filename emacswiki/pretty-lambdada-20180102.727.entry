@@ -1,0 +1,2 @@
+
+(pretty-lambdada . [(20180102 727) nil "Show the word `lambda' as the Greek letter." single ((:commit . "8918cc7e5781f32329531fe33767fecfeac7329b") (:keywords "convenience" "display") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/pretty-lambdada.el"))])

@@ -1,0 +1,2 @@
+
+(mpris-track-list . [(20100609 1640) nil "MPRIS track list" single ((:commit . "accaf8af1dcc3bdce62186d360dc2baa7ab9783c") (:keywords "dbus" "mpris") (:authors ("Changyuan Yu" . "reivzy@gmail.com")) (:maintainer "Changyuan Yu" . "reivzy@gmail.com"))])

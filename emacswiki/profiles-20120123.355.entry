@@ -1,0 +1,2 @@
+
+(profiles . [(20120123 355) nil "profile management system" single ((:commit . "2cd6b0802db28e8ee3e3a0d6ab42cf567ef79dab") (:authors ("Sylvain Bougerel" . "sylvain.bougerel.devel@gmail.com")) (:maintainer "Sylvain Bougerel" . "sylvain.bougerel.devel@gmail.com"))])

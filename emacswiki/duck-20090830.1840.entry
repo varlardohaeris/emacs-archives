@@ -1,0 +1,2 @@
+
+(duck . [(20090830 1840) nil "A few utilities for Scheme programming" single ((:commit . "f6a9d0b0d60ee67c7b9bb9e2f5729429118c0d9c") (:keywords "scheme" "programming") (:authors ("Jorgen Schaefer")) (:maintainer "Jorgen Schaefer") (:url . "http://www.emacswiki.org/elisp/duck.el"))])

@@ -1,0 +1,2 @@
+
+(pp+ . [(20180102 721) nil "Extensions to `pp.el'." single ((:commit . "d94613304a1056d663ee6494d1757d5b0fd30124") (:keywords "lisp") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/pp%2b.el"))])

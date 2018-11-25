@@ -1,0 +1,2 @@
+
+(fetchmail-mode . [(20100804 1640) nil "Mode for editing .fetchmailrc files" single ((:commit . "8f63eb535db9fef9b11f42b102059dd363845316") (:keywords "fetchmail" "config") (:authors ("Alex Shinn" . "foof@debian.org")) (:maintainer "Alex Shinn" . "foof@debian.org"))])

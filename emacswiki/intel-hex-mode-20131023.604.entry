@@ -1,0 +1,2 @@
+
+(intel-hex-mode . [(20131023 604) nil "Mode for Intel Hex files." single ((:commit . "b8d45c285e605f7b15fc63dfb8cb024a15126b17") (:keywords "mode" "intel" "hex") (:maintainer "Rubens Fernandes <rubensr AT users.sourceforge.net>") (:url . "None"))])

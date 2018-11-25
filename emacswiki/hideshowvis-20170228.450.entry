@@ -1,0 +1,2 @@
+
+(hideshowvis . [(20170228 450) nil "Add markers to the fringe for regions foldable by hideshow.el" single ((:commit . "fb6c9856fc04a1ad3451eba377db635e3c4ef30f") (:authors ("Jan Rehders" . "cmdkeen@gmx.de")) (:maintainer "Jan Rehders" . "cmdkeen@gmx.de"))])

@@ -1,0 +1,2 @@
+
+(dired+ . [(20181018 35) nil "Extensions to Dired." single ((:commit . "7fdde31e1badb5f12e531f1dd509099f7406ba2f") (:keywords "unix" "mouse" "directories" "diredp" "dired") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/dired%2b.el"))])

@@ -1,0 +1,2 @@
+
+(cppsense . [(20090830 1840) nil "Simple, heuristic, tag-based C++ coding assistant" single ((:commit . "62486f6b2c334b6854e6a27db918c86145890a25"))])

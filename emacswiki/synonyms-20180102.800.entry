@@ -1,0 +1,2 @@
+
+(synonyms . [(20180102 800) nil "Look up synonyms for a word or phrase in a thesaurus." single ((:commit . "a2ee0a2f49d0a5b4b6911ce1282a922add35e576") (:keywords "text" "dictionary" "thesaurus" "spelling" "apropos" "help") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/synonyms.el"))])

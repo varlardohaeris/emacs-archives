@@ -1,0 +1,2 @@
+
+(visual-fill-column . [(20180919 757) ((emacs (24 3))) "fill-column for visual-line-mode" single ((:commit . "33f68b9d94b5877f21209b68438a3cd95f801dc1") (:authors ("Joost Kremers" . "joostkremers@fastmail.fm")) (:maintainer "Joost Kremers" . "joostkremers@fastmail.fm"))])

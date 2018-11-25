@@ -1,0 +1,2 @@
+
+(memo-pop . [(20090830 1840) nil "Helps you pop up and pop out a specific file buffer easily." single ((:commit . "ee008c007b4c4de6182dcdb441001339350cb460") (:keywords "tools") (:authors ("Kazuo YAGI" . "kyagi@1liner.jp")) (:maintainer "Kazuo YAGI" . "kyagi@1liner.jp"))])

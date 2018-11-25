@@ -1,0 +1,2 @@
+
+(w32-utl . [(20090830 1840) nil "small utility functions implemented using vbscript" single ((:commit . "9c49d6a6fa8a92301d47ce20533790853cd98ea9") (:keywords "w32" "vbscript" "utilities") (:authors ("Mathias Dahl" . "mathias.removethis.dahl@gmail.com")) (:maintainer "Mathias Dahl") (:url . "http://www.emacswiki.org/cgi-bin/wiki/WThirtyTwoUtl"))])

@@ -1,0 +1,2 @@
+
+(rcirc-dbus . [(20110207 1740) nil "rcirc dbus notifications" single ((:commit . "f89663c612db937f1e1ecab6df566ca6c594595b") (:keywords "rcirc" "dbus") (:authors ("Frederico Muñoz" . "fsmunoz@gmail.com")) (:maintainer "Frederico Muñoz" . "fsmunoz@gmail.com"))])

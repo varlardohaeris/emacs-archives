@@ -1,0 +1,2 @@
+
+(merriam . [(20140606 425) nil "Look up a word in WWW Merriam-Webster dictionary" single ((:commit . "97db5d852be70b6cdf56cd37d47a7494206cdbbc") (:keywords "hypermedia") (:authors (nil . "padik@live.com")) (:maintainer nil . "padik@live.com") (:url . "http://www.emacswiki.org/elisp/merriam.el"))])

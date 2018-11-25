@@ -1,0 +1,2 @@
+
+(acd . [(20090830 1840) nil "A major mode to edit emboss acd files" single ((:commit . "35d05b721847cb9c4982a80f9215b088d95ba20a") (:keywords "languages" "convenience") (:authors (nil . "wenbinye@gmail.com")) (:maintainer nil . "wenbinye@gmail.com"))])

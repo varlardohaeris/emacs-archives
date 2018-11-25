@@ -1,0 +1,2 @@
+
+(dired-details . [(20130328 1919) nil "make file details hide-able in dired" single ((:commit . "1cca7d216dc6f0a8a45ada5361c9e88fd5b2461e") (:keywords "dired" "hide") (:authors ("Rob Giardina" . "rob.giardina.ohmmanepadmespam@oracle.com")) (:maintainer "Rob Giardina"))])

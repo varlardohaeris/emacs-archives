@@ -1,0 +1,2 @@
+
+(switch-to-new-buffer . [(20100527 1640) nil "Switch to a new buffer with default name" single ((:commit . "23cdab8fb94766c3e0b393e11c0f1d12b21b73b4") (:keywords "convenience" "files") (:authors ("Kevin Rodgers" . "kevin.d.rodgers@gmail.com")) (:maintainer "Kevin Rodgers" . "kevin.d.rodgers@gmail.com"))])

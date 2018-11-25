@@ -1,0 +1,2 @@
+
+(steno . [(20090830 1840) nil "edit time-stamped entries in text notepads under Emacs." single ((:commit . "fda12fcaf799c5185f95bb2e84f5cb7fe3c13ea9") (:authors ("David Megginson" . "dmeggins@uottawa.ca")) (:maintainer "David Megginson" . "dmeggins@uottawa.ca"))])

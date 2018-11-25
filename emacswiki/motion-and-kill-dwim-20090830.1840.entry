@@ -1,0 +1,2 @@
+
+(motion-and-kill-dwim . [(20090830 1840) nil "Motion and kill DWIM commands" single ((:commit . "a96401b1a7546b8f0b17d1e3f9da8c44c8523574") (:keywords "motion" "kill" "dwim") (:authors ("Scott Frazer" . "frazer.scott@gmail.com")) (:maintainer "Scott Frazer" . "frazer.scott@gmail.com"))])

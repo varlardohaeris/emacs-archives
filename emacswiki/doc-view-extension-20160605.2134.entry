@@ -1,0 +1,2 @@
+
+(doc-view-extension . [(20160605 2134) nil "Simple extensions for `doc-view'" single ((:commit . "107a1aabf390f8e08b3a0a479706faffe3cd30c6") (:keywords "doc-view") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(simple+ . [(20180102 748) ((strings (0))) "Extensions to standard library `simple.el'." single ((:commit . "94b706aa7e1e0733b5c3da95e35869500bd54e02") (:keywords "internal" "lisp" "extensions" "abbrev") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/simple%2b.el"))])

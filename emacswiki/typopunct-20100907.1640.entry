@@ -1,0 +1,2 @@
+
+(typopunct . [(20100907 1640) nil "Automatic typographical punctuation marks" single ((:commit . "d9da7e57d0d0172c6313a02d9b4b896b222bbffe") (:keywords "wp") (:authors ("Oliver Scholz" . "epameinondas@gmx.de")) (:maintainer "Oliver Scholz" . "epameinondas@gmx.de"))])

@@ -1,0 +1,2 @@
+
+(celssc-mode . [(20101207 1819) nil "Major mode for editing celestia script files" single ((:commit . "16b91cda5622d7210d515544dec358930885907d") (:keywords "celestia" "major-mode") (:authors ("Olexandr Sydorchuk")) (:maintainer "Olexandr Sydorchuk"))])

@@ -1,0 +1,2 @@
+
+(erc-robot . [(20090830 1840) nil "A robot for ERC." single ((:commit . "51306510374f3a601475a4aa9c69f266d85a7727") (:keywords "erc" "irc" "chat" "robot" "bot") (:authors ("David Edmondson" . "dme@dme.org")) (:maintainer "David Edmondson" . "dme@dme.org"))])

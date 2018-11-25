@@ -1,0 +1,2 @@
+
+(org-noter . [(20181106 2341) ((emacs (24 4)) (cl-lib (0 6)) (org (9 0))) "A synchronized, Org-mode, document annotator" single ((:commit . "8e5d8eacffe251a4b6ab55f6cb36e0830f5fe8dc") (:keywords "lisp" "pdf" "interleave" "annotate" "external" "sync" "notes" "documents" "org-mode") (:authors (nil . "Gonçalo Santos (aka. weirdNox@GitHub)")) (:maintainer nil . "Gonçalo Santos (aka. weirdNox@GitHub)") (:url . "https://github.com/weirdNox/org-noter"))])

@@ -1,0 +1,2 @@
+
+(portage . [(20110131 1740) nil "search and install Gentoo packages" single ((:commit . "cbc62f4c7c814d37647cc99a1e057f886a4df4ef") (:keywords "gentoo" "portage") (:authors ("Mikael Brockman")) (:maintainer "Mikael Brockman"))])

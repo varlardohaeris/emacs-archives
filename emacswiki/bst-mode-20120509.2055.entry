@@ -1,0 +1,2 @@
+
+(bst-mode . [(20120509 2055) nil "major mode for editing BibTeX style files" single ((:commit . "8dfc7b46d034b827278886ba9c9d2914e7f227bc") (:keywords "bibtex" "latex" "tex") (:maintainer "Jakub Narebski" . "jnareb@fuw.edu.pl"))])

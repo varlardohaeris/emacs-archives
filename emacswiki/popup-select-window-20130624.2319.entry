@@ -1,0 +1,2 @@
+
+(popup-select-window . [(20130624 2319) nil "selecting a window by popup-menu*" single ((:commit . "e7a20d828c76ef875d90348ecac10e91e551be69") (:keywords "popup" "select-window" "window") (:authors ("HAMANO Kiyoto" . "khiker.mail@gmail.com")) (:maintainer "HAMANO Kiyoto" . "khiker.mail@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(org-search-goto . [(20111211 1650) nil "Use search to go to locations in your org buffers" single ((:commit . "2474a763e5695a553015cc426b54c771c7d3f9e8"))])

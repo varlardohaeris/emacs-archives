@@ -1,0 +1,2 @@
+
+(line-reminder . [(20180603 552) ((emacs (24 4)) (cl-lib (0 6))) "Remind current line status by current buffer." single ((:commit . "07543e7a2c09dee204e312e0318e7b230fb14ec7") (:authors ("Shen, Jen-Chieh" . "jcs090218@gmail.com")) (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com") (:url . "https://github.com/jcs090218/line-reminder"))])

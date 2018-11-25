@@ -1,0 +1,2 @@
+
+(markdown-preview-mode . [(20180929 725) ((emacs (24 3)) (websocket (1 6)) (markdown-mode (2 0)) (cl-lib (0 5)) (web-server (0 1 1)) (uuidgen (0 3))) "markdown realtime preview minor mode." tar ((:commit . "cba12b77764df0fd3cf7008073df1badfa216073") (:keywords "markdown" "gfm" "convenience") (:authors ("Igor Shymko" . "igor.shimko@gmail.com")) (:maintainer "Igor Shymko" . "igor.shimko@gmail.com") (:url . "https://github.com/ancane/markdown-preview-mode"))])

@@ -1,0 +1,2 @@
+
+(grep-o-matic . [(20131013 1705) nil "auto grep word under cursor" single ((:commit . "19ca6183d727e9da2c21d9d0d96e8205aceea6ae") (:keywords "tools" "processes" "search") (:authors ("Avi Rozen" . "avi.rozen@gmail.com")) (:maintainer "Avi Rozen" . "avi.rozen@gmail.com") (:url . "https://github.com/ZungBang/emacs-grep-o-matic"))])

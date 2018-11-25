@@ -1,0 +1,2 @@
+
+(mgrep . [(20100804 1640) nil "Search in the directory previously specified" single ((:commit . "ed4bde3d6d0a0631dd2c1c0399c72913b0c3cc2b") (:keywords "grep" "memo") (:authors ("Matsushita Akihisa" . "akihisa@mail.ne.jp")) (:maintainer "Matsushita Akihisa" . "akihisa@mail.ne.jp"))])

@@ -1,0 +1,2 @@
+
+(dired-column-widths . [(20090830 1840) nil "Corrects column widths after entry modification." single ((:commit . "00a3f10a2a195fc298b56ea34a54e9aa00770cf2") (:keywords "dired") (:authors ("Craig Lawson" . "craig.lawson@alum.mit.edu")) (:maintainer "Craig Lawson" . "craig.lawson@alum.mit.edu") (:url . "http://www.emacswiki.org/emacs/dired-column-widths.el"))])

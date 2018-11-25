@@ -1,0 +1,2 @@
+
+(mirror-mode . [(20091022 1639) nil "insert parens and string quotes in pairs" single ((:commit . "393814e27e3ae9cc0e9e6e25689a25697c049bca") (:keywords "tools") (:authors ("David Shilvock" . "davels@shaw.ca")) (:maintainer "David Shilvock" . "davels@shaw.ca"))])

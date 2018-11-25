@@ -1,0 +1,2 @@
+
+(bbdb-mew . [(20131013 946) nil "BBDB interface to Mew" single ((:commit . "2b02d73c9184cfbc6fe54a4cd0c11400d9965a5c") (:keywords "mail" "bbdb") (:authors (nil . "Jamie Zawinski &lt;jwz@netscape.com&gt;")) (:maintainer nil . "Jamie Zawinski &lt;jwz@netscape.com&gt;"))])

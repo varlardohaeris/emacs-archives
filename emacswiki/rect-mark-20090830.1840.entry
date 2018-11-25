@@ -1,0 +1,2 @@
+
+(rect-mark . [(20090830 1840) nil "Mark a rectangle of text with highlighting." single ((:commit . "d90915ab563f41cbf3ddce9d275579adc3aefad7") (:authors ("Rick Sladkey" . "jrs@world.std.com")) (:maintainer "Rick Sladkey" . "jrs@world.std.com"))])

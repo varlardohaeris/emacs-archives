@@ -1,0 +1,2 @@
+
+(macros+ . [(20180102 649) nil "Extensions to `macros.el'." single ((:commit . "a851f5eb0964cb39955dc2ffbfeae8e9f13595f7") (:keywords "abbrev" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/macros%2b.el"))])

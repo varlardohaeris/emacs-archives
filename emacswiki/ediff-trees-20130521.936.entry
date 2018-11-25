@@ -1,0 +1,2 @@
+
+(ediff-trees . [(20130521 936) nil "Recursively ediff two directory trees" single ((:commit . "50a1350e7d3af24ef63d070a8591e80538b7b540") (:keywords "ediff" "comparing") (:authors ("Joao Cachopo" . "joao.cachopo@inesc-id.pt")) (:maintainer "Joao Cachopo" . "joao.cachopo@inesc-id.pt"))])

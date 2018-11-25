@@ -1,0 +1,2 @@
+
+(subedit . [(20090830 1840) nil "edit part of a buffer in a new buffer" single ((:commit . "bae5c0c139a57b3bd7b4a799f48fb1e1ed9dc016") (:keywords "subedit") (:maintainer "Guanpeng Xu" . "herberteuler@hotmail.com"))])

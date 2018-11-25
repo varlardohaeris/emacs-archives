@@ -1,0 +1,2 @@
+
+(pic-basic-mode . [(20170712 623) nil "Editing mode for MELabs PIC Basic" single ((:commit . "7240d29f5c371b0394c96e995b30ef9c706a53e6") (:keywords "languages" "basic") (:authors ("Fred White" . "fwhite@alum.mit.edu")) (:maintainer "Fred White" . "fwhite@alum.mit.edu") (:url . "http://www.emacswiki.org/cgi-bin/wiki/pic-basic-mode.el"))])

@@ -1,0 +1,2 @@
+
+(hexview-mode . [(20100527 1640) nil "A simple & fast hexadecimal file viewer" single ((:commit . "d5fe5eadc52b93d12271798cf1d24ffdf27e6216") (:keywords "hex" "view" "fast" "user interface") (:authors ("Joyer Huang" . "collger@eyou.com")) (:maintainer "Joyer Huang" . "collger@eyou.com") (:url . "http://slimeweb.com"))])

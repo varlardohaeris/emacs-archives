@@ -1,0 +1,2 @@
+
+(align-by-current-symbol . [(20100804 1640) nil "Align lines containing a symbol according to that symbol." single ((:commit . "4560e0dbabef6663cca67da258f1564a397cf6d9") (:keywords "convenience") (:authors ("Chris Done" . "chrisdone@gmail.com")) (:maintainer "Chris Done" . "chrisdone@gmail.com") (:url . "http://emacswiki.org/align-by-current-symbol.el"))])

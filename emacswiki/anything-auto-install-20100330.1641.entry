@@ -1,0 +1,2 @@
+
+(anything-auto-install . [(20100330 1641) nil "Integrate auto-install.el with anything.el" single ((:commit . "a04c645bd92e0ffcae2e4ae74b3356c1afbe1b53") (:keywords "auto-install" "anything") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/anything-auto-install.el"))])

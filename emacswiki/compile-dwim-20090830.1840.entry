@@ -1,0 +1,2 @@
+
+(compile-dwim . [(20090830 1840) nil "Automatic generate compile-command" single ((:commit . "f12789e9fced809554ce6155afd2dcee6e7309b0") (:keywords "tools") (:authors ("Ye Wenbin" . "wenbinye@gmail.com")) (:maintainer "Ye Wenbin" . "wenbinye@gmail.com"))])

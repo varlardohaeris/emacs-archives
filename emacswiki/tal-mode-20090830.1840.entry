@@ -1,0 +1,2 @@
+
+(tal-mode . [(20090830 1840) nil "Handles the Tandem/NSK/Guardian TAL & PTAL languages." single ((:commit . "853b6fdd264dab60a4eba3003ef0b0bebe689671") (:keywords "languages" "extensions" "tandem" "guardian" "nsk" "tal" "ptal a proprietary language of tandem/compaq/hp computers.") (:authors ("Rick Bielawski" . "rbielaws@i1.net") ("A proprietary language of Tandem/Compaq/HP computers.")) (:maintainer "Rick Bielawski" . "rbielaws@i1.net"))])

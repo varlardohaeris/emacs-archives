@@ -1,0 +1,2 @@
+
+(mail-notify . [(20090830 1840) nil "Notify you when have new mail." single ((:commit . "d0e4c41e4392bd99f56902fdc81cefb65f34f5ab") (:keywords "mail" "notify") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/mail-notify.el"))])

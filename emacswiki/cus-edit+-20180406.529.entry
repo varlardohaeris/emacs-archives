@@ -1,0 +1,2 @@
+
+(cus-edit+ . [(20180406 529) nil "Enhancements to `cus-edit.el'." single ((:commit . "9a3f76975d873d143bad377bb64640898314281b") (:keywords "help" "customize" "help" "faces") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/cus-edit%2b.el"))])

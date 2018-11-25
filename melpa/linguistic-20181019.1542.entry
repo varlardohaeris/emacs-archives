@@ -1,0 +1,2 @@
+
+(linguistic . [(20181019 1542) nil "A package for basic linguistic analysis." tar ((:commit . "04ceb873ba41cd7cb4dc09e537a6dbb80cd12d65") (:keywords "linguistics" "text analysis" "matching") (:authors ("Andrew Favia <drewlinguistics01 at gmail dot com>")) (:maintainer "Andrew Favia <drewlinguistics01 at gmail dot com>") (:url . "https://github.com/andcarnivorous/linguistic"))])

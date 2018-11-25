@@ -1,0 +1,2 @@
+
+(column-marker . [(20121128 1643) nil "Highlight certain character columns" single ((:commit . "a60a26ea9e740d568bd7c9c158cfd1e872d56ee9") (:keywords "tools" "convenience" "highlight") (:authors ("Rick Bielawski" . "rbielaws@i1.net")) (:maintainer "Rick Bielawski" . "rbielaws@i1.net"))])

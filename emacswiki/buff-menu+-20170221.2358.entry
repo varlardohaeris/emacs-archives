@@ -1,0 +1,2 @@
+
+(buff-menu+ . [(20170221 2358) nil "Extensions to `buff-menu.el'." single ((:commit . "8ff84bff3d2aff9d5d2c9440f7870eb7b69cc9d4") (:keywords "mouse" "local" "convenience") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/buff-menu%2b.el"))])

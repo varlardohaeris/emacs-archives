@@ -1,0 +1,2 @@
+
+(avenue-mode . [(20090830 1840) nil "major mode for editing ESRI avenue scrips" single ((:commit . "349c4222145621b535abf33cf1348bc9f1fc9818"))])

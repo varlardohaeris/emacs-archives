@@ -1,0 +1,2 @@
+
+(unify-buffer . [(20100505 1639) nil "Concatenate multiple buffers" single ((:commit . "797d33c789d347b0b5fe5f61fa2e2b4a589909ad") (:keywords "convenience") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/unify-buffer.el"))])

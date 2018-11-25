@@ -1,0 +1,2 @@
+
+(sql-completion . [(20101023 1640) nil "Completion in *SQL* for mysql" single ((:commit . "b973a0071a902299ae453cafe65a70ccb7bdc488") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

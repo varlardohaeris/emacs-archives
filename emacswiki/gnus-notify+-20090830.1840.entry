@@ -1,0 +1,2 @@
+
+(gnus-notify+ . [(20090830 1840) nil "Gnus notify" single ((:commit . "fe5f9742bc66b96b70cb36d95fe6c959e8e650ea") (:keywords "gnus" "notify") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/gnus-notify+.el"))])

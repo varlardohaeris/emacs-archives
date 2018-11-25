@@ -1,0 +1,2 @@
+
+(zones . [(20181022 254) nil "Zones of text - like multiple regions" single ((:commit . "2ebb425963f156b3df2096235fd3f2625222e707") (:keywords "narrow" "restriction" "widen" "region" "zone") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/zones.el"))])

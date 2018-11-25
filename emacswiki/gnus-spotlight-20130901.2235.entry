@@ -1,0 +1,2 @@
+
+(gnus-spotlight . [(20130901 2235) nil "Search mail with Spotlight" single ((:commit . "92b573e24ffa42be6d93bb4f9eab50429c78e71f") (:keywords "mail" "searching" "spotlight") (:authors ("Yoshida Masato" . "yoshidam@yoshidam.net")) (:maintainer "Yoshida Masato" . "yoshidam@yoshidam.net"))])

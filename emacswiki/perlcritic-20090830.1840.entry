@@ -1,0 +1,2 @@
+
+(perlcritic . [(20090830 1840) nil "Call perlcritic in Emacs" single ((:commit . "53dbea24da747fd88654e67006eea6c002658d90") (:keywords "tools" "convenience") (:authors ("Ye Wenbin" . "wenbinye@gmail.com")) (:maintainer "Ye Wenbin" . "wenbinye@gmail.com"))])

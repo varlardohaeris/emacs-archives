@@ -1,0 +1,2 @@
+
+(sms . [(20091009 1639) nil "major mode for composing and sending SMS text messages" single ((:commit . "83c1c9c996caf2126a9cea20c735eae303748905") (:keywords "bbdb" "sms" "texting") (:authors ("Joe Bloggs" . "vapniks@yahoo.com")) (:maintainer "Joe Bloggs"))])

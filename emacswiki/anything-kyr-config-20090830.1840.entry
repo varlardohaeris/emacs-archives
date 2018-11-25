@@ -1,0 +1,2 @@
+
+(anything-kyr-config . [(20090830 1840) nil "Configuration of anything-kyr.el" single ((:commit . "b34be4a12085a27725eb2aac1f3e152cba938e8a") (:keywords "anything" "convenience") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/anything-kyr-config.el"))])

@@ -1,0 +1,2 @@
+
+(fit-frame . [(20180102 338) nil "Resize a frame.  In particular, fit a frame to its buffers." single ((:commit . "fb71389ebf0664fb55089d86bac6e21b9e3a315c") (:keywords "internal" "extensions" "convenience" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/fit-frame.el"))])

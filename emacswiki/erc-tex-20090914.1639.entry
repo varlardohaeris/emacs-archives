@@ -1,0 +1,2 @@
+
+(erc-tex . [(20090914 1639) nil "LaTeX mathematical expressions rendering for ERC" single ((:commit . "ae1d0e96f6b856fca74b9525cef8c8469b6edc1f") (:keywords "comm" "tex"))])

@@ -1,0 +1,2 @@
+
+(dirnav . [(20090830 1840) nil "Navigate folders and files with TAB" single ((:commit . "76edad188b4bd8565644ab05e86dbfd66a71c0c7") (:authors ("Marco <Bj> Bardelli" . "bardelli.marco@gmail.com")) (:maintainer "Marco <Bj> Bardelli" . "bardelli.marco@gmail.com"))])

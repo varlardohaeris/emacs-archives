@@ -1,0 +1,2 @@
+
+(gst-inspect . [(20100925 1640) nil "wrapper for gst-inspect" single ((:commit . "6f7a0468938ce445f4ea6c4098d118cb1e4e3821") (:authors ("Marco (Bj) Bardelli" . "fanaj@jbook.sana.figa")) (:maintainer "Marco (Bj) Bardelli" . "fanaj@jbook.sana.figa"))])

@@ -1,0 +1,2 @@
+
+(sql-with-placeholders . [(20090830 1840) nil "handle SQL statements with placeholders gently" single ((:commit . "af51961d8aa18ead4bef77ccfd9c56d71ba84819") (:keywords "sql") (:authors ("Andrey Balaguta" . "andrey.balaguta@gmail.com")) (:maintainer "Andrey Balaguta" . "andrey.balaguta@gmail.com"))])

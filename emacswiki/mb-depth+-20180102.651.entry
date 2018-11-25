@@ -1,0 +1,2 @@
+
+(mb-depth+ . [(20180102 651) nil "Indicate minibuffer-depth in prompt" single ((:commit . "4e6f3d3eaf3baf71eae324a52f22bbc6ddab06f7") (:keywords "convenience") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/mb-depth%2b.el"))])

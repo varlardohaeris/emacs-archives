@@ -1,0 +1,2 @@
+
+(space-chord . [(20100505 1639) nil "key chord with Space" single ((:commit . "ab1c3ed1f2c5d4a1e41447ed6ab21c4290663eea") (:keywords "convenience") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/space-chord.el"))])

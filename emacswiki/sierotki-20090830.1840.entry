@@ -1,0 +1,2 @@
+
+(sierotki . [(20090830 1840) nil "Introduce tildes after single-letter words" single ((:commit . "c9b94f8d20e2671483e22ed0d0566d904ac49657") (:keywords "tex" "wp" "convenience") (:maintainer "Jakub NarÄbski" . "jnareb@gmail.com") (:url . "http://www.emacswiki.org/emacs/sierotki.el"))])

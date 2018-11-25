@@ -1,0 +1,2 @@
+
+(el-expectations . [(20121009 1647) nil "minimalist unit testing framework" single ((:commit . "e8d5814f775ea5ff67788458bf6d5b7662a51257") (:keywords "lisp" "testing" "unittest") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/el-expectations.el"))])

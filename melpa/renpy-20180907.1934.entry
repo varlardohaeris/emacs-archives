@@ -1,0 +1,2 @@
+
+(renpy . [(20180907 1934) nil "silly walks for Renpy" single ((:commit . "cf9c9ead6084210a4c0290a0d999a099b8d00a81") (:keywords "languages") (:authors ("PyTom" . "pytom@bishoujo.us")) (:maintainer "Dave Love" . "fx@gnu.org") (:url . "https://github.com/billywade/renpy-mode"))])

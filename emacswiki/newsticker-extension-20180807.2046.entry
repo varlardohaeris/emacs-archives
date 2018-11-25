@@ -1,0 +1,2 @@
+
+(newsticker-extension . [(20180807 2046) nil "Some extension function for newsticker" single ((:commit . "1cded18a4323bb8f711526934994dec6b7fc3854") (:keywords "newsticker" "rss" "atom") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "None"))])

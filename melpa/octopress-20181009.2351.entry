@@ -1,0 +1,2 @@
+
+(octopress . [(20181009 2351) nil "A lightweight wrapper for Jekyll and Octopress." tar ((:commit . "d4d16f52278b14a271131a11e9cc0a94316de10e") (:keywords "octopress" "blog") (:authors ("Aaron Bieber" . "aaron@aaronbieber.com")) (:maintainer "Aaron Bieber" . "aaron@aaronbieber.com") (:url . "https://github.com/aaronbieber/octopress.el"))])

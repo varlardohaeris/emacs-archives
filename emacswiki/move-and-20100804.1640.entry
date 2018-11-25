@@ -1,0 +1,2 @@
+
+(move-and . [(20100804 1640) nil "Move point and perform some other action" single ((:commit . "ca0108628ae9df6a4783dca3c3d0f5923d4f0369") (:keywords "delete" "kill" "copy" "keys") (:maintainer "Aidan Schofield"))])

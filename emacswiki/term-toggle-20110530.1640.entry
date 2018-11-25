@@ -1,0 +1,2 @@
+
+(term-toggle . [(20110530 1640) nil "Toggle to and from the *terminal* buffer" single ((:commit . "17b0bab2d74a52303fe630f7e9064acfce1b21b9") (:keywords "term" "toggle" "shell") (:authors ("Joseph" . "jixiuf@gmail.com")) (:maintainer "Joseph" . "jixiuf@gmail.com") (:url . "http://www.emacswiki.org/term-toggle.el"))])

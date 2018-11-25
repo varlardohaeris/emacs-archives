@@ -1,0 +1,2 @@
+
+(find-file-in-tags . [(20120106 508) nil "directly open files referenced in TAGS files" single ((:commit . "4ce1adfd4bc735f8c75695d71d3a8092ed9d7460"))])

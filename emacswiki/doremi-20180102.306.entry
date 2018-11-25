@@ -1,0 +1,2 @@
+
+(doremi . [(20180102 306) nil "Do Re Mi: Incremental change using arrow keys or mouse wheel." single ((:commit . "658f37e03b53e52fc5e7ef844b1601165886e8b7") (:keywords "keys" "cycle" "repeat" "higher-order") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/doremi.el"))])

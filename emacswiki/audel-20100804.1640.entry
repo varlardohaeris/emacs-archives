@@ -1,0 +1,2 @@
+
+(audel . [(20100804 1640) nil "An audtool frontend for Emacs" single ((:commit . "86652a7292d5ceaae15b4cf9af0d818ca764e630") (:authors ("Amir Mohammad Saied <amirsaied AT gmail DOT com>")) (:maintainer "Amir Mohammad Saied <amirsaied AT gmail DOT com>"))])

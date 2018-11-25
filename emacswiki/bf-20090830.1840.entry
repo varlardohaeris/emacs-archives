@@ -1,0 +1,2 @@
+
+(bf . [(20090830 1840) nil "BrainFuck compiler written in Emacs-Lisp" single ((:commit . "d4c435f34cacc949d9b26b591d07ae76ad38e01d") (:keywords "lisp" "matching" "games" "languages") (:authors ("Mario Lang" . "mlang@delysid.org")) (:maintainer "Mario Lang" . "mlang@delysid.org"))])

@@ -1,0 +1,2 @@
+
+(framemove . [(20130328 1933) nil "directional frame selection routines" single ((:commit . "be86b235e8b9f10e1a59a43713a00c35f15a7004") (:keywords "frame" "movement" "convenience") (:authors ("Trey Jackson" . "bigfaceworm@gmail.com")) (:maintainer "Trey Jackson" . "bigfaceworm@gmail.com"))])

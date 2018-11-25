@@ -1,0 +1,2 @@
+
+(chinese-chess . [(20090830 1840) nil "Chinese Chess Game" single ((:commit . "4b94203a3ef9eeb017c824fc6768ab7528e7f787") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

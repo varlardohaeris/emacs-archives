@@ -1,0 +1,2 @@
+
+(unaccent . [(20180102 815) nil "Functions dealing with accented characters." single ((:commit . "d87665e836e4d665d695844cb4135e395ffaf758") (:keywords "i18n" "language" "accents") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/unaccent.el"))])

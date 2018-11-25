@@ -1,0 +1,2 @@
+
+(ebs . [(20090830 1840) nil "easy buffer switch (ebs)" single ((:commit . "743272ce00d7e868dcf6d1b56f87e64aa1017a52") (:keywords "files" "convenience") (:authors ("Yan Tang" . "tangyan@pku.org.cn")) (:maintainer "Yan Tang" . "tangyan@pku.org.cn"))])

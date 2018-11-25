@@ -1,0 +1,2 @@
+
+(gtk2hs . [(20110710 1640) nil "This is tools package for gtk2hs" single ((:commit . "e6ae62ef81c4b024bb22bb6da59164cfc0740634") (:keywords "gtk2hs") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/gtk2hs.el"))])

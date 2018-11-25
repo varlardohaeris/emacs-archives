@@ -1,0 +1,2 @@
+
+(oicq . [(20121205 1643) nil "A front-end to perl OICQ" single ((:commit . "0fa497b09e63ca0ea686ebdec9ea727162064586") (:keywords "qq" "oicq" "tecent" "china") (:authors ("jerry" . "unidevel@yahoo.com.cn")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/oicq.el"))])

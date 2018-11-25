@@ -1,0 +1,2 @@
+
+(file-props . [(20090830 1840) nil "Add file properties to your files" single ((:commit . "fd8e44a65a2a62f4a2f1cbfbdf6624858b80792b") (:keywords "search" "convenience" "files") (:authors ("Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com")) (:maintainer "Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com"))])

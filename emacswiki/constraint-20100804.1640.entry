@@ -1,0 +1,2 @@
+
+(constraint . [(20100804 1640) nil "a constraint propagation library in elisp" single ((:commit . "5efff94cd36da7e4d78a028ff1be08eb81580f75") (:keywords "constraint") (:authors ("Akimichi Tatsukawa" . "akimichi@mbox.co.jp")) (:maintainer "Akimichi Tatsukawa" . "akimichi@mbox.co.jp"))])

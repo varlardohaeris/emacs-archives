@@ -1,0 +1,2 @@
+
+(help-dwim-perldoc . [(20120831 2328) nil "dwim interface to perldoc" single ((:commit . "358a61a17fbf4aed44cb9a14a8522de83c3e78d0") (:authors (nil . "wenbinye@gmail.com")) (:maintainer nil . "wenbinye@gmail.com") (:url . "not distributed yet"))])

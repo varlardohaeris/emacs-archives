@@ -1,0 +1,2 @@
+
+(tal-indent . [(20090830 1840) nil "Handles indentation functions for tal-mode." single ((:commit . "496ec4f8598d537e28d007ca9e9a40127291ad0a") (:keywords "languages" "extensions" "tandem" "compaq" "hp" "tal" "ptal") (:authors ("Rick Bielawski" . "rbielaws@i1.net")) (:maintainer "Rick Bielawski" . "rbielaws@i1.net"))])

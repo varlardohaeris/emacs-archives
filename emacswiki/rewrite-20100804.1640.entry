@@ -1,0 +1,2 @@
+
+(rewrite . [(20100804 1640) nil "Utility to rewrite text files with easier regular expression handling" single ((:commit . "0fa26f3357bda2e0182d9a4d566cf8675424fcb8") (:authors ("Mutsumi Komuro" . "komuro@cs.stanford.edu")) (:maintainer "Mutsumi Komuro" . "komuro@cs.stanford.edu"))])

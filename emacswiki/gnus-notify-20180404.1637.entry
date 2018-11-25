@@ -1,0 +1,2 @@
+
+(gnus-notify . [(20180404 1637) nil "use the modeline to indicate groups with new messages" single ((:commit . "07addb1ca28a3060d33b19169daf8b4c1bc7316a") (:authors ("Mark Triggs" . "mark@dishevelled.net")) (:maintainer "Mark Triggs" . "mark@dishevelled.net"))])

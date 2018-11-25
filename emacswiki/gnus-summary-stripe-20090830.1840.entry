@@ -1,0 +1,2 @@
+
+(gnus-summary-stripe . [(20090830 1840) nil "Strip gnus summary buffer" single ((:commit . "af2cd47d78c1514752c657323ac6f86af9930889") (:keywords "gnus" "summary" "stripe") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/gnus-summary-stripe.el"))])

@@ -1,0 +1,2 @@
+
+(linkify . [(20090830 1840) nil "Create clickable links to lines in files." single ((:commit . "6d04f49cce816bdf2db794470f02757b4d6cc7c3"))])

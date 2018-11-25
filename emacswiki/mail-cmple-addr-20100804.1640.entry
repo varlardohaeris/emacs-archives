@@ -1,0 +1,2 @@
+
+(mail-cmple-addr . [(20100804 1640) nil "complete mail address or expand mail alias interactively on the header field at mail mode" single ((:commit . "42614a9376b96079e131ff8e37419359c364c187") (:authors ("Takashi MITSUISHI" . "takashi@riec.tohoku.ac.jp")) (:maintainer "Takashi MITSUISHI" . "takashi@riec.tohoku.ac.jp"))])

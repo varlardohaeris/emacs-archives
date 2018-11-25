@@ -1,0 +1,2 @@
+
+(devel-notes . [(20120106 458) nil "Add annotation to sources and track them in an org file." single ((:commit . "00cd9cc6c8aa65b9c2eaded09af4b789034c3a9e") (:keywords "devel" "annotations" "todo" "org") (:authors ("Iñigo Serna <inigoserna at gmail dot com>")) (:maintainer "Iñigo Serna <inigoserna at gmail dot com>") (:url . "http://www.emacswiki.org/emacs/download/devel-notes.el"))])

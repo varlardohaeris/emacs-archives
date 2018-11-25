@@ -1,0 +1,2 @@
+
+(hledger-mode . [(20180821 1433) ((emacs (24 4)) (popup (0 5 3)) (async (1 9)) (htmlize (1 47))) "A mode for writing journal entries for hledger." tar ((:commit . "af51c0a7a0952c244e5c6bb818ab4ce3b9806609") (:keywords "data") (:authors ("Narendra Joshi" . "narendraj9@gmail.com")) (:maintainer "Narendra Joshi" . "narendraj9@gmail.com") (:url . "https://github.com/narendraj9/hledger-mode.git"))])

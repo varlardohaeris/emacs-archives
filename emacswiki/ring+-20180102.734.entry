@@ -1,0 +1,2 @@
+
+(ring+ . [(20180102 734) nil "Extensions to `ring.el'." single ((:commit . "28bf9afda7d1789309af92cf9aa4abc02009ab75") (:keywords "extensions" "lisp" "emacs-lisp") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/ring%2b.el"))])

@@ -1,0 +1,2 @@
+
+(defshell . [(20090830 1840) nil "Define inferior shells" single ((:commit . "5846baba19da000c131c9967c062126905a6d58f") (:keywords "convenience" "shell") (:authors ("Kevin Rodgers" . "ihs_4664@yahoo.com")) (:maintainer "Kevin Rodgers" . "ihs_4664@yahoo.com"))])

@@ -1,0 +1,2 @@
+
+(multiverse . [(20090830 1840) nil "manage multiple versions of buffers in an Emacs session" single ((:commit . "c3782e25fb945b92f6423eb32630f4ade614cf0a"))])

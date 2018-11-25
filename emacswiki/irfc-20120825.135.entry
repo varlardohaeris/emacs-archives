@@ -1,0 +1,2 @@
+
+(irfc . [(20120825 135) nil "Interface for IETF RFC document." single ((:commit . "16f8d7b5672115ff739754611603da1fd75e3108") (:keywords "rfc" "ietf") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Niels Widger" . "niels.widger@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/irfc.el"))])

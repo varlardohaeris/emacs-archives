@@ -1,0 +1,2 @@
+
+(log-buffer . [(20090830 1840) nil "Log buffer utils" single ((:commit . "22a158b27ef116ad4440cf73e1a84607fc7b3cf4") (:keywords "log") (:authors ("Cedric Lallain" . "kandjar76@hotmail.com")) (:maintainer "Cedric Lallain" . "kandjar76@hotmail.com"))])

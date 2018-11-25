@@ -1,0 +1,2 @@
+
+(visible-lines . [(20090830 1840) nil "move across visible lines instead of logic lines" single ((:commit . "c408a6f7b7efb0a02670d5a0f0277a5654d76ab4") (:keywords "convenience" "continuation") (:maintainer nil . "an00na@gmail.com"))])

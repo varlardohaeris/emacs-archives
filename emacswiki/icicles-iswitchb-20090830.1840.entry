@@ -1,0 +1,2 @@
+
+(icicles-iswitchb . [(20090830 1840) nil "Using iswitchb with Icicles" single ((:commit . "d282e66a3e70cc6390bdca4cc78f0365019d04c5") (:keywords "internal" "extensions" "help" "abbrev" "local" "minibuffer") (:authors ("rubikitch")) (:maintainer "rubikitch") (:url . "http://www.emacswiki.org/cgi-bin/wiki/icicles-iswitchb.el"))])

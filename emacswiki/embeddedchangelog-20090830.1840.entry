@@ -1,0 +1,2 @@
+
+(embeddedchangelog . [(20090830 1840) nil "edit a change log embedded in a file" single ((:commit . "f75dfa607b0f6a147277a6fa625021456355fc91") (:keywords "tools") (:authors ("Michele Bini" . "mibin@libero.it")) (:maintainer "Michele Bini" . "mibin@libero.it"))])

@@ -1,0 +1,2 @@
+
+(exec-abbrev-cmd . [(20100428 1640) nil "Execute commands by giving an abbreviation" single ((:commit . "08cb2167cdbc2ea3e9edd635aeae605b7743fdb5") (:authors ("Tassilo Horn" . "tassilo@member.fsf.org")) (:maintainer "Tassilo Horn" . "tassilo@member.fsf.org") (:url . "http://www.tsdh.de"))])

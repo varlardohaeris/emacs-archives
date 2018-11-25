@@ -1,0 +1,2 @@
+
+(novice+ . [(20180102 713) nil "Extensions to `novice.el'." single ((:commit . "27fc3b7325983be21a8eee83818bd4dc378f61e0") (:keywords "internal" "help") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/novice%2b.el"))])

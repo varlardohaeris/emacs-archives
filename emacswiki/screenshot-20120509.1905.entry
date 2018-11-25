@@ -1,0 +1,2 @@
+
+(screenshot . [(20120509 1905) nil "Take a screenshot in Emacs" single ((:commit . "9b7c6ee8b0aecee6fa85f65cf1f3d4d8d68e822e") (:keywords "images" "hypermedia") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/screenshot.el"))])

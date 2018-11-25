@@ -1,0 +1,2 @@
+
+(blank-mode . [(20090830 1840) nil "minor mode to visualize TAB, (HARD) SPACE, NEWLINE" single ((:commit . "8ce52d5aaf419ecd004e4382caf244d31d9d3284") (:keywords "data" "wp") (:authors ("Vinicius Jose Latorre" . "viniciusjl@ig.com.br")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl@ig.com.br") (:url . "http://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

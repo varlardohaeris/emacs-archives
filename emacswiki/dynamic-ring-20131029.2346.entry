@@ -1,0 +1,2 @@
+
+(dynamic-ring . [(20131029 2346) nil "A dynamically sized ring structure." single ((:commit . "8358ef1326344ae415d8af96ecd5c3db3ece39a5") (:authors (nil . "Mike Mattie codermattie@gmail.com")) (:maintainer nil . "Mike Mattie codermattie@gmail.com"))])

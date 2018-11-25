@@ -1,0 +1,2 @@
+
+(rcirc-late-fix . [(20120123 348) nil "Replace s/wrong/right strings on rcirc buffers" single ((:commit . "3ebd6b330506ad0b5f945395b407aa96e4d63f0a"))])

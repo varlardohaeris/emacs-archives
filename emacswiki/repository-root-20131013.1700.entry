@@ -1,0 +1,2 @@
+
+(repository-root . [(20131013 1700) nil "deduce the repository root directory for a given file" single ((:commit . "426b0840915e1e420fef9bf65e67f8e807b69191") (:keywords "project" "repository" "root" "source control") (:authors ("Avi Rozen" . "avi.rozen@gmail.com")) (:maintainer "Avi Rozen" . "avi.rozen@gmail.com") (:url . "https://github.com/ZungBang/emacs-repository-root"))])

@@ -1,0 +1,2 @@
+
+(imenu+ . [(20180718 722) nil "Extensions to `imenu.el'." single ((:commit . "d239be306574dc4f1016c37a9fc0fa079aa4e236") (:keywords "tools" "menus") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/imenu%2b.el"))])

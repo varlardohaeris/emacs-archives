@@ -1,0 +1,2 @@
+
+(emacsql-psql . [(20171219 227) ((emacs (25 1)) (emacsql (2 0 0))) "EmacSQL back-end for PostgreSQL via psql" tar ((:commit . "f8c3d9fce28ab7d5b0c9fcf2c1236151ca7add24") (:authors ("Christopher Wellons" . "wellons@nullprogram.com")) (:maintainer "Christopher Wellons" . "wellons@nullprogram.com") (:url . "https://github.com/skeeto/emacsql"))])

@@ -1,0 +1,2 @@
+
+(widen-window . [(20090830 1840) nil "Widening selecting window" single ((:commit . "d503a13c5a686da68eff669ef918066c6591c380") (:keywords "convenience") (:authors ("Yuto Hayamizu" . "y.hayamizu@gmail.com")) (:maintainer "Yuto Hayamizu" . "y.hayamizu@gmail.com"))])

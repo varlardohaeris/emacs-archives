@@ -1,0 +1,2 @@
+
+(globrep . [(20100804 1640) nil "Search for and replace strings in multiple files" single ((:commit . "e77ca29af5fb25aa66acb40dc1559d255972de58"))])

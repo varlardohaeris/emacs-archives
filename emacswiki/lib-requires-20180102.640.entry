@@ -1,0 +1,2 @@
+
+(lib-requires . [(20180102 640) nil "Commands to list Emacs Lisp library dependencies." single ((:commit . "e22d94a6ccd1d437eec9536b7cffc6409bdfb254") (:keywords "libraries" "files") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/lib-requires.el"))])

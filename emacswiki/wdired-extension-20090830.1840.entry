@@ -1,0 +1,2 @@
+
+(wdired-extension . [(20090830 1840) nil "Some extension functions for `wdired.el'." single ((:commit . "014fb0f9514fab0d303b0916cdd5e19b8255a023") (:keywords "wdired" "format filename") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/wdired-extension.el"))])

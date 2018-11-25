@@ -1,0 +1,2 @@
+
+(compile+ . [(20180102 220) ((compile- (0))) "Extensions to `compile.el'." single ((:commit . "7245ee330ba3b64461a0b9d8fb6ffc9c4d55de38") (:keywords "tools" "processes") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/compile%2b.el"))])

@@ -1,0 +1,2 @@
+
+(find-func-extension . [(20140306 2245) nil "Some extension functions for `find-func.el'." single ((:commit . "0ce7e36cef6af92e3429e7a927523c531c2ac98d") (:keywords "find-func" "define") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/find-func-extension.el"))])

@@ -1,0 +1,2 @@
+
+(redtt . [(20181121 21) ((emacs (25 3))) "Major mode for editing redtt proofs" single ((:commit . "37f9a2378b3b06812cc3d8953073c98d71ab14e6") (:keywords "languages") (:authors ("Jonathan Sterling" . "jon@jonmsterling.com")) (:maintainer "Jonathan Sterling" . "jon@jonmsterling.com") (:url . "http://github.com/RedPRL/redtt"))])

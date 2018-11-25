@@ -1,0 +1,2 @@
+
+(bbdb-sms . [(20091009 1639) nil "bbdb functions for sending SMS text messages with sms-mode" single ((:commit . "01725d7424d61d977ba05e83e74454dddaabfd08") (:keywords "bbdb" "sms" "texting") (:authors ("Joe Bloggs" . "vapniks@yahoo.com")) (:maintainer "Joe Bloggs"))])

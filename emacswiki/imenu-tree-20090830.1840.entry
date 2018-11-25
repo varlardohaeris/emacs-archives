@@ -1,0 +1,2 @@
+
+(imenu-tree . [(20090830 1840) nil "A mode to view imenu using tree-widget" single ((:commit . "887b08fab4e927c548a45ffff52ba1f2bc11c170") (:keywords "help" "convenience") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com"))])

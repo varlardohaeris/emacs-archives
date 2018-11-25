@@ -1,0 +1,2 @@
+
+(ediff+ . [(20180102 310) nil "Enhancements to Ediff" single ((:commit . "249417c5ab2a1ff12e2e1c627d5aa7180a309d1f") (:keywords "comparing" "merging" "patching" "version control") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/ediff%2b.el"))])

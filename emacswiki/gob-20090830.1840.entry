@@ -1,0 +1,2 @@
+
+(gob . [(20090830 1840) nil "A code generator for GObject" single ((:commit . "a0a327a5f8bab3d46db648a3711d0c02a781e378") (:authors (nil . "wenbinye@gmail.com")) (:maintainer nil . "wenbinye@gmail.com") (:url . "not distributed yet"))])

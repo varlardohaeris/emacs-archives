@@ -1,0 +1,2 @@
+
+(etags-stack . [(20090830 1840) nil "Navigate the tags stack" single ((:commit . "274010db83177aa49e8de499109805e16f589875") (:keywords "tags") (:authors ("Scott Frazer" . "frazer.scott@gmail.com")) (:maintainer "Scott Frazer" . "frazer.scott@gmail.com"))])

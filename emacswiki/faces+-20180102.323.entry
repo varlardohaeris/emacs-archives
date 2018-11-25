@@ -1,0 +1,2 @@
+
+(faces+ . [(20180102 323) nil "Extensions to `faces.el'." single ((:commit . "23c4cfc55cf224b217071d77cc62a3af60ee0099") (:keywords "faces" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/faces%2b.el"))])

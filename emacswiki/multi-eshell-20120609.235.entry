@@ -1,0 +1,2 @@
+
+(multi-eshell . [(20120609 235) nil "Create and manage multiple shells within Emacs" single ((:commit . "ac10d93d64e6ea9706ae4396df186faeecaaea12") (:authors ("Chris Stucchio")) (:maintainer "Chris Stucchio") (:url . "http://cims.nyu.edu/~stucchio"))])

@@ -1,0 +1,2 @@
+
+(autofit-frame . [(20180102 129) ((fit-frame (0))) "Automatically resize one-window frames to fit" single ((:commit . "12a0ac7be930d7cab5421e6de749dfffe8e00407") (:keywords "internal" "extensions" "convenience" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/autofit-frame.el"))])

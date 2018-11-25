@@ -1,0 +1,2 @@
+
+(prand . [(20090830 1840) nil "generate pesudo-random number" single ((:commit . "614280b88bb0b1e489ddb23eb46ef5920c0ed4d4") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "n not distributed yet"))])

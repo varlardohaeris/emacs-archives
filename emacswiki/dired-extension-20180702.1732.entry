@@ -1,0 +1,2 @@
+
+(dired-extension . [(20180702 1732) nil "Some extension for dired" single ((:commit . "132ef581e2dc3b076bb179b4db45bbf9f2b45400") (:keywords "dired") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

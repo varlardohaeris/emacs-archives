@@ -1,0 +1,2 @@
+
+(encrypt . [(20090830 1840) nil "encrypt and decrypt using coding system" single ((:commit . "ae48a77b9383e0c6a2d65f7b3637477ad7c63a4b") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

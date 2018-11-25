@@ -1,0 +1,2 @@
+
+(repdet . [(20100528 1641) nil "detect repetition in user activity" single ((:commit . "b4020e173b51d1e190c4f309f1bf74551e0a0b1a") (:keywords "lisp") (:authors ("ZwaX <?>")) (:maintainer "ZwaX <?>") (:url . "http://www.emacswiki.org/cgi-bin/wiki.pl?RepetitionDetectionPackage"))])

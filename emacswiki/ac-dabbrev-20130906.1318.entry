@@ -1,0 +1,2 @@
+
+(ac-dabbrev . [(20130906 1318) nil "auto-complete.el source for dabbrev" single ((:commit . "002d5c4a32bbfffaf288df9e6f9ea744dda1f6c0") (:authors ("k1LoW (Kenichirou Oyama), <k1lowxb [at] gmail [dot] com> <k1low [at] 101000lab [dot] org>")) (:maintainer "k1LoW (Kenichirou Oyama), <k1lowxb [at] gmail [dot] com> <k1low [at] 101000lab [dot] org>"))])

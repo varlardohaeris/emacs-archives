@@ -1,0 +1,2 @@
+
+(atim-unscroll . [(20111001 1933) nil "Minor mode for restoring buffer look as it was before scrolling." single ((:commit . "5f6937046ed68bfaec49670b340196dd0e8da897") (:keywords "convenience" "text editing") (:authors ("Andrey Timokhin <andrey dot timokhin dot code at gmail dot com>")) (:maintainer "Andrey Timokhin <andrey dot timokhin dot code at gmail dot com>"))])

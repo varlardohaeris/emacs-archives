@@ -1,0 +1,2 @@
+
+(pcmpl-ssh . [(20090830 1840) nil "functions for completing SSH hostnames" single ((:commit . "e11bed9a9d0d8374d07666b30e0cfc3e2af669e9") (:keywords "shell" "completion" "ssh") (:authors ("Phil Hagelberg" . "technomancy@gmail.com")) (:maintainer "Phil Hagelberg" . "technomancy@gmail.com") (:url . "http://www.emacswiki.org/cgi-bin/wiki/pcmpl-ssh.el"))])

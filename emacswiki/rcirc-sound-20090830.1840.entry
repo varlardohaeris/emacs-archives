@@ -1,0 +1,2 @@
+
+(rcirc-sound . [(20090830 1840) nil "CTCP SOUND support for rcirc" single ((:commit . "5240c76afc9c82e64d96eab8f231a3e084dd860e") (:authors ("Daniel Brockman" . "daniel@brockman.se")) (:maintainer "Daniel Brockman" . "daniel@brockman.se"))])

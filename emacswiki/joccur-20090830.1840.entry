@@ -1,0 +1,2 @@
+
+(joccur . [(20090830 1840) nil "An improved 'occur' implementation." single ((:commit . "6acdd695e6d13a2ecf4c96b0d95cfac0b4c1f0e8") (:authors ("Javier Oviedo" . "email_joviedo@yahoo.com")) (:maintainer "Javier Oviedo" . "email_joviedo@yahoo.com"))])

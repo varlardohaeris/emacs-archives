@@ -1,0 +1,2 @@
+
+(webgen-mode . [(20100206 1739) nil "webgen mode" single ((:commit . "708fb566edb30e8ebf25bc09301c7ae2ade21384") (:keywords "webgen" "minor mode") (:authors ("recycelbin5385")) (:maintainer "recycelbin5385"))])

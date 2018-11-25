@@ -1,0 +1,2 @@
+
+(mm2mw . [(20100804 1640) nil "A MoinMoin 1.2.x -> MediaWiki 1.7.x converter" single ((:commit . "cfe2e727dd4a85ad8d1eee536f2b1a73989eed7c"))])

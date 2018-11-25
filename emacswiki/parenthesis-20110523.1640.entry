@@ -1,0 +1,2 @@
+
+(parenthesis . [(20110523 1640) nil "Insert pair of parenthesis" single ((:commit . "e7c0ed44508053a8e27c0e3fe6f96de91e86f57b") (:keywords "lisp") (:authors ("khiker" . "khiker.mail+elisp@gmail.com")) (:maintainer "khiker" . "khiker.mail+elisp@gmail.com"))])

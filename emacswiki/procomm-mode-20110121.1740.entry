@@ -1,0 +1,2 @@
+
+(procomm-mode . [(20110121 1740) nil "Major mode for editing PROCOMM ASPECT scripts" single ((:commit . "7c40e2723ba7de048ca79d0e4e83c3370ec7a6c3") (:keywords "languages" "aspect" "procomm" "script") (:authors ("Edward Robinson" . "osnibore@gmail.com")) (:maintainer "Edward Robinson" . "osnibore@gmail.com"))])

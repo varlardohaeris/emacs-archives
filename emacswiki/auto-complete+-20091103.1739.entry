@@ -1,0 +1,2 @@
+
+(auto-complete+ . [(20091103 1739) nil "Auto complete plus" single ((:commit . "3688dc77973907bdc6d3f535f98cd851e3f6e4a8") (:keywords "auto" "complete" "plus" "regexp") (:authors ("ahei" . "ahei0802@126.com")) (:maintainer "ahei" . "ahei0802@126.com"))])

@@ -1,0 +1,2 @@
+
+(pc-keys . [(20090830 1840) nil "Smart `home' and `end' keys." single ((:commit . "a0633e9465c9041a1e049249c999043baf9dd8ad") (:keywords "convenience") (:authors ("Kai Grossjohann" . "Kai.Grossjohann@CS.Uni-Dortmund.DE")) (:maintainer "Kai Grossjohann" . "Kai.Grossjohann@CS.Uni-Dortmund.DE"))])

@@ -1,0 +1,2 @@
+
+(mule-menu . [(20090830 1840) nil "Add multiple language support for menubar" single ((:commit . "13d7ef0800f4873f1d93cd7322d63d2215e6368c") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

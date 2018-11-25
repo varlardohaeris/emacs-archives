@@ -1,0 +1,2 @@
+
+(grab-and-drag . [(20101207 1819) nil "Scroll a window by mouse dragging" single ((:commit . "baa2fc448252f7005b8c61a0257e0322bf9c34b3") (:keywords "mouse" "scroll") (:authors ("S. Irie")) (:maintainer "S. Irie"))])

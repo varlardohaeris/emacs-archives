@@ -1,0 +1,2 @@
+
+(evil-ex-shell-command . [(20180903 614) ((emacs (24 4)) (evil (1 1 0))) "invoke shell-command right from evil-ex" single ((:commit . "dd31672b1f6b67072b06805c9460f90bc682488a") (:keywords "tools" "shell-command" "evil") (:authors ("Rashawn Zhang" . "namy.19@gmail.com")) (:maintainer "Rashawn Zhang" . "namy.19@gmail.com") (:url . "https://github.com/yqrashawn/evil-ex-shell-command"))])

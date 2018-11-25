@@ -1,0 +1,2 @@
+
+(iswitchb-highlight . [(20090830 1840) nil "Highlighting extension for iswitchb" single ((:commit . "da953c6185f449fa30030f966c09e4ab134b8e6a") (:authors ("Peter K. Lee <saint@ c o r e n o v a .com>")) (:maintainer "Peter K. Lee <saint@ c o r e n o v a .com>"))])

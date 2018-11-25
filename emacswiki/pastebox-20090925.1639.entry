@@ -1,0 +1,2 @@
+
+(pastebox . [(20090925 1639) nil "Emacs lisp lib for pasting to PasteBox-powered bins." single ((:commit . "2d1e2fee5f9db34d7e30e9e7bb75cdce67a0f8b4") (:keywords "paste" "pastebin" "pastebox") (:url . "http://www.emacswiki.org/emacs/pastebox.el"))])

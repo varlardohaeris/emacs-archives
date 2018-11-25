@@ -1,0 +1,2 @@
+
+(mogo . [(20090830 1840) nil "Simple MoGo client" single ((:commit . "0ec41dae32171d62eef182c0e76844119deec284") (:keywords "games") (:authors ("Mathias Kegelmann")) (:maintainer "Mathias Kegelmann"))])

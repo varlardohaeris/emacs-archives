@@ -1,0 +1,2 @@
+
+(apropos-fn+var . [(20180102 123) nil "Apropos for functions and variables" single ((:commit . "7ba58207f240fba5f37bc023cfe911addca98ca9") (:keywords "apropos") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/apropos-fn%2bvar.el"))])

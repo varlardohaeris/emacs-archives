@@ -1,0 +1,2 @@
+
+(ansys-mod . [(20090830 1840) nil "editing Ansys log files under Emacs" single ((:commit . "0626487e807f36dfa853810ce44fe734b2345f64") (:keywords "languages") (:authors ("Tim Read" . "Tim.Read@fp.co.nz")) (:maintainer "Tim Read" . "Tim.Read@fp.co.nz"))])

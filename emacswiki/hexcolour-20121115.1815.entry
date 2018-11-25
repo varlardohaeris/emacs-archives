@@ -1,0 +1,2 @@
+
+(hexcolour . [(20121115 1815) nil "Highlight HTML-style colour specifications" single ((:commit . "ac028dc42376efab71e0c5e2e938f68af3e1a815") (:authors ("Oliver Scholz" . "epameinondas@gmx.de")) (:maintainer "Oliver Scholz" . "epameinondas@gmx.de"))])

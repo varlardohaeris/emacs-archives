@@ -1,0 +1,2 @@
+
+(vc-jump . [(20110114 1740) nil "jump to status buffer for the current VC" single ((:commit . "29a747bb265e7ed82f22c2557dcc19f6dbdee218") (:keywords "tools") (:authors ("Seong-Kook Shin <cinsky at gmail dot com>")) (:maintainer "Seong-Kook Shin <cinsky at gmail dot com>"))])

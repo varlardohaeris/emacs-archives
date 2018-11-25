@@ -1,0 +1,2 @@
+
+(interpreter-minor . [(20100528 1641) nil "provide navigation, clickability, folding, interpretation" single ((:commit . "0f0c3d8aa767161dc9306acc059cebb73ff96760") (:keywords "convenience" "multimedia") (:authors ("Patrick Anderson" . "patware@freeshell.org")) (:maintainer "Patrick Anderson" . "patware@freeshell.org"))])

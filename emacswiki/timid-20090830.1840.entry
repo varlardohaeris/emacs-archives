@@ -1,0 +1,2 @@
+
+(timid . [(20090830 1840) nil "timid completion" single ((:commit . "52ad5715580f5749688b3903cadb63a9d55ea0ef") (:keywords "completion") (:authors ("Tamas Patrovics")) (:maintainer "Tamas Patrovics") (:url . "http://www.emacswiki.org/cgi-bin/emacs/timid.el"))])

@@ -1,0 +1,1 @@
+Some extensions for speedbar.

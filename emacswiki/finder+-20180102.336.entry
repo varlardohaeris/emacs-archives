@@ -1,0 +1,2 @@
+
+(finder+ . [(20180102 336) nil "Extensions to standard library finder.el" single ((:commit . "085b93019c338af994246d01b0d9fb9821fe4ab2") (:keywords "help") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/finder%2b.el"))])

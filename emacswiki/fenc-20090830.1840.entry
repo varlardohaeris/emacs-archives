@@ -1,0 +1,2 @@
+
+(fenc . [(20090830 1840) nil "Detect CJK coding system by counting most frequence charaters" single ((:commit . "d27be0fd8d4603ea2dedcaea151b73209adb69b5") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

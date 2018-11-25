@@ -1,0 +1,2 @@
+
+(ruby-block . [(20131211 1131) nil "highlight matching block" single ((:commit . "d611a8d5569b848ecaba4d187079f7318fc2bf2b") (:keywords "languages" "faces" "ruby") (:authors ("khiker" . "khiker.mail+elisp@gmail.com")) (:maintainer "khiker" . "khiker.mail+elisp@gmail.com"))])

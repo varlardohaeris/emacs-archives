@@ -1,0 +1,2 @@
+
+(igrep . [(20090830 1840) nil "An improved interface to `grep` and `find`" single ((:commit . "e0728b4d8bdc3e535e8298503fc94557e248ac9b") (:keywords "tools" "processes" "search") (:authors ("Kevin Rodgers" . "ihs_4664@yahoo.com")) (:maintainer "Kevin Rodgers" . "ihs_4664@yahoo.com"))])

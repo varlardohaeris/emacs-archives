@@ -1,0 +1,2 @@
+
+(telnet-contrib . [(20090830 1840) nil "Telnet commands for Emacs on MS Windows." single ((:commit . "a0a6d7cf05eee9c247ba4df72a89b692d103949c") (:keywords "unix" "comm") (:authors ("Zoltan Kemenczy, Ngai Kim Hoong")) (:maintainer "Drew Adams"))])

@@ -1,0 +1,2 @@
+
+(mouse3 . [(20180102 708) nil "Customizable behavior for `mouse-3'." single ((:commit . "e40321a61f733819373e61c320985a713d99b222") (:keywords "mouse" "menu" "keymap" "kill" "rectangle" "region") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/mouse3.el"))])

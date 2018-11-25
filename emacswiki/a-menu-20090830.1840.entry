@@ -1,0 +1,2 @@
+
+(a-menu . [(20090830 1840) nil "create a menu from a specified directory" single ((:commit . "b5bd76bf01401ef38d3e94363df9f199304d590f") (:keywords "tools" "unix") (:authors ("Seiji Zenitani" . "zenitani@mac.com")) (:maintainer "Seiji Zenitani" . "zenitani@mac.com"))])

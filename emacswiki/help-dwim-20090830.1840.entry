@@ -1,0 +1,2 @@
+
+(help-dwim . [(20090830 1840) nil "Show help information" single ((:commit . "7b17c6edb86d0bc84711d32dbf5436a8964c936c") (:keywords "help" "convenience") (:authors (nil . "wenbinye@gmail.com")) (:maintainer nil . "wenbinye@gmail.com"))])

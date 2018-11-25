@@ -1,0 +1,2 @@
+
+(descr-text+ . [(20180102 244) nil "Extensions to `descr-text.el'." single ((:commit . "6c4fd0f2c6787029254529f18d5491452777b0a8") (:keywords "help" "characters" "description") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/descr-text%2b.el"))])

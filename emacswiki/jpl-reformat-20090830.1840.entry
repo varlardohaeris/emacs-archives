@@ -1,0 +1,2 @@
+
+(jpl-reformat . [(20090830 1840) nil "Reformat source code, especially parameter" single ((:commit . "f4f8284b180a1471ae0d8e021f1bca17b549c953") (:authors ("Johan Lindstrom <johanl [AT] buzzwordninja.com>")) (:maintainer "Johan Lindstrom <johanl [AT] buzzwordninja.com>"))])

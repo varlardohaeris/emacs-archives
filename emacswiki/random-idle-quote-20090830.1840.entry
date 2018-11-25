@@ -1,0 +1,2 @@
+
+(random-idle-quote . [(20090830 1840) nil "display a random quote during idle" single ((:commit . "97f4e5d69a80945927307abf0b9f70e1b6eabd7c") (:authors ("Jeremy Cowgar" . "jeremy@cowgar.com")) (:maintainer "Jeremy Cowgar" . "jeremy@cowgar.com") (:url . "http://jeremy.cowgar.com/EmacsRandomIdleQuote.html"))])

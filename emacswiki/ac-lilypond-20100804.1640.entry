@@ -1,0 +1,2 @@
+
+(ac-lilypond . [(20100804 1640) nil "Set up the use of LilyPond with auto-complete" single ((:commit . "5e9637e01cad1b4f7148036e477ceb506a30b354") (:keywords "lilypond" "auto-completion" "convenience") (:authors ("Shelagh Manton" . "shelagh.manton@gmail.com")) (:maintainer "Shelagh Manton" . "shelagh.manton@gmail.com"))])

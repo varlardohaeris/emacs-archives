@@ -1,0 +1,2 @@
+
+(show-help . [(20090830 1840) nil "Show help as showtip" single ((:commit . "d434b78136e3e328c07b078c3aad866534d55349") (:keywords "help" "tooltip" "showtip" "eldoc") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/show-help.el"))])

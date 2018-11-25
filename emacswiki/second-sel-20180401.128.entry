@@ -1,0 +1,2 @@
+
+(second-sel . [(20180401 128) nil "Secondary selection commands" single ((:commit . "f23b199a833cfe476a5482ad4ad36ae62a020144") (:keywords "region" "selection" "yank" "paste" "edit") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/second-sel.el"))])

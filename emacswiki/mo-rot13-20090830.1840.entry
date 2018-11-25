@@ -1,0 +1,2 @@
+
+(mo-rot13 . [(20090830 1840) nil "convert text buffer to and from ROT13" single ((:commit . "f97e650a0c99f301e2d957662579dbdf82531f37") (:authors ("Matthew Ozor" . "matthew.ozor@gmail.com")) (:maintainer "Matthew Ozor" . "matthew.ozor@gmail.com"))])

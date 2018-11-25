@@ -1,0 +1,2 @@
+
+(emacs-lock+ . [(20100528 1641) nil "extensions to standard library `emacs-lock.el'" single ((:commit . "f0ac2f9e3e0797cb90c859039c3d244ec6e34c0f") (:keywords "lock" "extensions") (:authors ("Michael Heerdegen")) (:maintainer nil . "Michael Heerdegen (concat \"michael_heerdegen\" \"@\" \"web\" \".de\")") (:url . "http://www.emacswiki.org/emacs/emacs-lock+.el"))])

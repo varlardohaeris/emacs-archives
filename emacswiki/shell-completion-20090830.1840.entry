@@ -1,0 +1,2 @@
+
+(shell-completion . [(20090830 1840) nil "provides tab completion for shell commands" single ((:commit . "7a143604c98f797fc1513e91d2d207125466493c") (:keywords "completion" "shell" "emacs") (:authors ("Ye Wenbin" . "wenbinye@163.com")) (:maintainer "Ye Wenbin" . "wenbinye@163.com") (:url . "http://www.emacswiki.org/cgi-bin/wiki/shell-completion.el"))])

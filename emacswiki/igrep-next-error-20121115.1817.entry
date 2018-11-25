@@ -1,0 +1,2 @@
+
+(igrep-next-error . [(20121115 1817) nil "Highlight text matched by `igrep'" single ((:commit . "9f21cbdfa6282b4ddf0bd033e622edfcd27f3d4e") (:keywords "search" "highlight") (:authors ("Kevin Rodgers" . "ihs_4664@yahoo.com")) (:maintainer "Kevin Rodgers" . "ihs_4664@yahoo.com"))])

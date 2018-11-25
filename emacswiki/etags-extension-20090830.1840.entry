@@ -1,0 +1,2 @@
+
+(etags-extension . [(20090830 1840) nil "A collect extensions for etags." single ((:commit . "716b6cbb00bcdeb542bc9399f8c1879dcbde5312") (:keywords "etags") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "not distributed yet"))])

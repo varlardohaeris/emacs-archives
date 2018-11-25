@@ -1,0 +1,2 @@
+
+(modeline-char . [(20180102 700) nil "In the mode-line, show the value of the character after point." single ((:commit . "c6efa8c29c649ff20b621dd38b40c46f503d392b") (:keywords "mode-line" "character") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/modeline-char.el"))])

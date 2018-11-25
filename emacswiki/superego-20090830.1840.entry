@@ -1,0 +1,2 @@
+
+(superego . [(20090830 1840) nil "highlight your name" single ((:commit . "75abb62890e1a14dfa218dde0ec6eb59c03f4bd5") (:keywords "convenience") (:authors ("Michele Bini" . "mibin@libero.it")) (:maintainer "Michele Bini" . "mibin@libero.it"))])

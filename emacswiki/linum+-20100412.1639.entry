@@ -1,0 +1,2 @@
+
+(linum+ . [(20100412 1639) nil "Extension of linum" single ((:commit . "2fa258b437e495602c5f737819046414294ea8cb") (:keywords "line" "number") (:authors ("ahei" . "ahei0802@gmail.com")) (:maintainer "ahei" . "ahei0802@gmail.com") (:url . "http://code.google.com/p/dea/source/browse/trunk/my-lisps/linum%2B.el"))])

@@ -1,0 +1,2 @@
+
+(longlines-jp . [(20100708 1640) nil "automatically wrap long lines in Japanese text" single ((:commit . "babecd5fe6d95df7215c2fa8d1d105cba6aff05a") (:keywords "convenience" "wp"))])

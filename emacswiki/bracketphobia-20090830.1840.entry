@@ -1,0 +1,2 @@
+
+(bracketphobia . [(20090830 1840) nil "Protect the user from the Bracket Invasion" single ((:commit . "26923ae5013d897c6d20ae0f6c234e3b741249a1") (:authors ("Jorgen Schaefer" . "forcer@forcix.cx")) (:maintainer "Jorgen Schaefer" . "forcer@forcix.cx") (:url . "http://www.emacswiki.org/cgi-bin/wiki/emacs/bracketphobia.el"))])

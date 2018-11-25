@@ -1,0 +1,2 @@
+
+(highlight-tail . [(20140416 941) nil "draw a colourful \"tail\" while you write" single ((:commit . "524e1303f4a639740ecadcc06dbd2b8cdad14d24") (:keywords "highlight" "tail" "eye-candy" "visual-effect" "light" "color" "burn") (:authors ("Rafal Jedruszek" . "necui-emahte@nic-nac-project.net")) (:maintainer "Rafal Jedruszek" . "necui-emahte@nic-nac-project.net"))])

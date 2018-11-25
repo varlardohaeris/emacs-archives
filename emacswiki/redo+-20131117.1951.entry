@@ -1,0 +1,2 @@
+
+(redo+ . [(20131117 1951) nil "Redo/undo system for Emacs" single ((:commit . "1fff40b67aeab1cedcc89c98a7d92a5b5db6f7ae") (:keywords "lisp" "extensions") (:authors ("Kyle E. Jones, February 1997")) (:maintainer "Kyle E. Jones, February 1997"))])

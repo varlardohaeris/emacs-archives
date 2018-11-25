@@ -1,0 +1,2 @@
+
+(mouse-drag-fix . [(20090830 1840) nil "Bug fixed version of mouse-drag" single ((:commit . "c2db9470e9f310e00c6cf04570179fb97ca61776") (:authors ("Kahlil Hodgson" . "dorge@tpg.com.au")) (:maintainer "Kahlil Hodgson" . "dorge@tpg.com.au") (:url . "http://www.emacswiki.org/elisp/mouse-drag-fix.el"))])

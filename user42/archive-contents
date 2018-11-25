@@ -1,0 +1,639 @@
+(1
+ (ac-tex-macros-used .
+		     [(2)
+		      nil "auto-complete for tex-mode \\foo macros used" single
+		      ((:authors
+			("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		       (:url . "http://user42.tuxfamily.org/ac-tex-macros-used/index.html"))])
+ (ac-tex-ref .
+	     [(4)
+	      nil "auto-complete for tex-mode \\ref and \\cite labels" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/ac-tex-ref/index.html"))])
+ (accjournal .
+	     [(9)
+	      nil "double entry journal accounting" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/accjournal/index.html"))])
+ (align-let .
+	    [(14)
+	     nil "align expressions in a lisp \"let\"" single
+	     ((:authors
+	       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	      (:url . "http://user42.tuxfamily.org/align-let/index.html"))])
+ (arc-lzh-exe .
+	      [(8)
+	       nil "archive-mode support for LHa self-extracting .exe" single
+	       ((:authors
+		 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		(:url . "http://user42.tuxfamily.org/arc-lzh-exe/index.html"))])
+ (areabrowse .
+	     [(4)
+	      nil "browse diku mud .are area files" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/areabrowse/index.html"))])
+ (aumix-mode .
+	     [(7)
+	      nil "run the aumix program in a buffer" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/aumix-mode/index.html"))])
+ (bytecomp-simplify .
+		    [(18)
+		     nil "byte compile warnings for simplifications" single
+		     ((:authors
+		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		      (:url . "http://user42.tuxfamily.org/bytecomp-simplify/index.html"))])
+ (checkdoc-autoload .
+		    [(3)
+		     nil "check for various autoload cookies" single
+		     ((:authors
+		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		      (:url . "http://user42.tuxfamily.org/checkdoc-autoload/index.html"))])
+ (checkdoc-batch .
+		 [(7)
+		  nil "batch report of M-x checkdoc things" single
+		  ((:authors
+		    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		   (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		   (:url . "http://user42.tuxfamily.org/checkdoc-batch/index.html"))])
+ (checkdoc-keywords .
+		    [(7)
+		     nil "check for known values in Keywords header" single
+		     ((:authors
+		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		      (:url . "http://user42.tuxfamily.org/checkdoc-keywords/index.html"))])
+ (checkdoc-url-buttonize .
+			 [(2)
+			  nil "check URL `' linking in docstrings" single
+			  ((:authors
+			    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			   (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			   (:url . "http://user42.tuxfamily.org/checkdoc-url-buttonize/index.html"))])
+ (cl-loop-aplist .
+		 [(5)
+		  nil "cl loop macro alist and plist support" single
+		  ((:authors
+		    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		   (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		   (:url . "http://user42.tuxfamily.org/cl-loop-aplist/index.html"))])
+ (compilation-always-kill .
+			  [(6)
+			   nil "kill compilation without prompting" single
+			   ((:authors
+			     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			    (:url . "http://user42.tuxfamily.org/compilation-always-kill/index.html"))])
+ (compilation-emacs21-batch .
+			    [(6)
+			     nil "error regexps for emacs21 byte compiler" single
+			     ((:authors
+			       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			      (:url . "http://user42.tuxfamily.org/compilation-emacs21-batch/index.html"))])
+ (compilation-ledger .
+		     [(3)
+		      nil "error regexps for ledger" single
+		      ((:authors
+			("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		       (:url . "http://user42.tuxfamily.org/compilation-ledger/index.html"))])
+ (compilation-onewin .
+		     [(4)
+		      nil "whole-frame window for compile buffer" single
+		      ((:authors
+			("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		       (:url . "http://user42.tuxfamily.org/compilation-onewin/index.html"))])
+ (compilation-perl .
+		   [(14)
+		    nil "extra error regexps for Perl" single
+		    ((:authors
+		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		     (:url . "http://user42.tuxfamily.org/compilation-perl/index.html"))])
+ (compilation-recenter-end .
+			   [(7)
+			    nil "compilation-mode window recentre" single
+			    ((:authors
+			      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			     (:url . "http://user42.tuxfamily.org/compilation-recenter-end/index.html"))])
+ (compilation-weblint .
+		      [(6)
+		       nil "error regexps for weblint" single
+		       ((:authors
+			 ("Kevin Ryde" . "user42@zip.com.au"))
+			(:maintainer "Kevin Ryde" . "user42@zip.com.au")
+			(:url . "http://user42.tuxfamily.org/compilation-weblint/index.html"))])
+ (compile-command-default .
+			  [(14)
+			   nil "establish a default for M-x compile" single
+			   ((:authors
+			     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			    (:url . "http://user42.tuxfamily.org/compile-command-default/index.html"))])
+ (compile-history-local .
+			[(1)
+			 nil "buffer local `compile-history'" single
+			 ((:authors
+			   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			  (:url . "http://user42.tuxfamily.org/compile-history-local/index.html"))])
+ (completion-ignored-build .
+			   [(13)
+			    nil "some built completion-ignored-extensions" single
+			    ((:authors
+			      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			     (:url . "http://user42.tuxfamily.org/completion-ignored-build/index.html"))])
+ (copyright-both-ends .
+		      [(5)
+		       nil "update copyright at start and end of file" single
+		       ((:authors
+			 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			(:url . "http://user42.tuxfamily.org/copyright-both-ends/index.html"))])
+ (diff-save-buffer .
+		   [(15)
+		    nil "default filename when saving a diff." single
+		    ((:authors
+		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		     (:url . "http://user42.tuxfamily.org/diff-save-buffer/index.html"))])
+ (dired-visit-history .
+		      [(5)
+		       nil "add dired visited files to find-file history" single
+		       ((:authors
+			 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			(:url . "http://user42.tuxfamily.org/dired-visit-history/index.html"))])
+ (do-not-edit .
+	      [(15)
+	       nil "read-only buffer for generated files" single
+	       ((:authors
+		 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		(:url . "http://user42.tuxfamily.org/do-not-edit/index.html"))])
+ (elisp-docstring-preview .
+			  [(6)
+			   nil "preview Emacs Lisp docstring" single
+			   ((:authors
+			     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			    (:url . "http://user42.tuxfamily.org/elisp-docstring-preview/index.html"))])
+ (ffap-I-option .
+		[(2)
+		 nil "recognise -I/usr/include/foo" single
+		 ((:authors
+		   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		  (:url . "http://user42.tuxfamily.org/ffap-I-option/index.html"))])
+ (ffap-gcc-path .
+		[(8)
+		 nil "get gcc's include path for ffap-c-path" single
+		 ((:authors
+		   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		  (:url . "http://user42.tuxfamily.org/ffap-gcc-path/index.html"))])
+ (ffap-href .
+	    [(5)
+	     nil "find href URL/link anywhere in the tag" single
+	     ((:authors
+	       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	      (:url . "http://user42.tuxfamily.org/ffap-href/index.html"))])
+ (ffap-include-start .
+		     [(11)
+		      nil "recognise C #include when at start of line" single
+		      ((:authors
+			("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		       (:url . "http://user42.tuxfamily.org/ffap-include-start/index.html"))])
+ (ffap-makefile-vars .
+		     [(5)
+		      nil "find file with makefile variables expanded" single
+		      ((:authors
+			("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		       (:url . "http://user42.tuxfamily.org/ffap-makefile-vars/index.html"))])
+ (ffap-mml .
+	   [(10)
+	    nil "find Gnus message MML attached file at point" single
+	    ((:authors
+	      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	     (:url . "http://user42.tuxfamily.org/ffap-mml/index.html"))])
+ (ffap-perl-module .
+		   [(25)
+		    nil "find perl module at point with ffap" single
+		    ((:authors
+		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		     (:url . "http://user42.tuxfamily.org/ffap-perl-module/index.html"))])
+ (ffap-pod-F .
+	     [(5)
+	      nil "follow Perl pod F<filename>" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/ffap-pod-F/index.html"))])
+ (ffap-rfc-directories .
+		       [(9)
+			nil "look for RFCs in local directories too (for Emacs 22)" single
+			((:authors
+			  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			 (:url . "http://user42.tuxfamily.org/ffap-rfc-directories/index.html"))])
+ (ffap-rfc-space .
+		 [(12)
+		  nil "recognise RFC with a space, like \"RFC 1234\"" single
+		  ((:authors
+		    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		   (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		   (:url . "http://user42.tuxfamily.org/ffap-rfc-space/index.html"))])
+ (filladapt-pat .
+		[(6)
+		 nil "add or remove some filladapt patterns" single
+		 ((:authors
+		   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		  (:url . "http://user42.tuxfamily.org/filladapt-pat/index.html"))])
+ (formfeed-hline .
+		 [(5)
+		  nil "display formfeed with horizontal line" single
+		  ((:authors
+		    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		   (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		   (:url . "http://user42.tuxfamily.org/formfeed-hline/index.html"))])
+ (gtk-look .
+	   [(29)
+	    nil "lookup Gtk and Gnome documentation." single
+	    ((:authors
+	      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	     (:url . "http://user42.tuxfamily.org/gtk-look/index.html"))])
+ (gutenberg-coding .
+		   [(15)
+		    nil "coding system for Project Gutenberg EBooks." single
+		    ((:authors
+		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		     (:url . "http://user42.tuxfamily.org/gutenberg-coding/index.html"))])
+ (help-xref-elfiles .
+		    [(4)
+		     nil "buttonize foo.el and .emacs filenames in docstrings" single
+		     ((:authors
+		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		      (:url . "http://user42.tuxfamily.org/help-xref-elfiles/index.html"))])
+ (html-coding .
+	      [(13)
+	       nil "coding system from meta in html files (for Emacs 21)" single
+	       ((:authors
+		 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		(:url . "http://user42.tuxfamily.org/html-coding/index.html"))])
+ (html-sizes .
+	     [(18)
+	      nil "maintain file sizes shown for html links" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/html-sizes/index.html"))])
+ (imagetext .
+	    [(12)
+	     nil "show text parts of image files" single
+	     ((:authors
+	       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	      (:url . "http://user42.tuxfamily.org/imagetext/index.html"))])
+ (info-lookmore .
+		[(7)
+		 nil "more things for info-look.el" single
+		 ((:authors
+		   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		  (:url . "http://user42.tuxfamily.org/info-lookmore/index.html"))])
+ (ispell-stopwords .
+		   [(9)
+		    nil "use perl POD \"=for stopwords\" in ispell" single
+		    ((:authors
+		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		     (:url . "http://user42.tuxfamily.org/ispell-stopwords/index.html"))])
+ (jka-compr-dictzip .
+		    [(2)
+		     nil "dictzip .dz for jka-compr" single
+		     ((:authors
+		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		      (:url . "http://user42.tuxfamily.org/jka-compr-dictzip/index.html"))])
+ (jka-compr-lz4 .
+		[(1)
+		 nil ".lz4 for jka-compr" single
+		 ((:authors
+		   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		  (:url . "http://user42.tuxfamily.org/jka-compr-lz4/index.html"))])
+ (localedef-overlay .
+		    [(4)
+		     nil "mode for glibc locale definition files" single
+		     ((:authors
+		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		      (:url . "http://user42.tuxfamily.org/localedef-overlay/index.html"))])
+ (mailcap-mode .
+	       [(4)
+		nil "mailcap file editing mode" single
+		((:authors
+		  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		 (:url . "http://user42.tuxfamily.org/mailcap-mode/index.html"))])
+ (make-mode-fillindent .
+		       [(5)
+			nil "filling indented makefile comments" single
+			((:authors
+			  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			 (:url . "http://user42.tuxfamily.org/make-mode-fillindent/index.html"))])
+ (makeinfo-info .
+		[(9)
+		 nil "use Info-mode with makeinfo-buffer." single
+		 ((:authors
+		   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		  (:url . "http://user42.tuxfamily.org/makeinfo-info/index.html"))])
+ (man-completion .
+		 [(37)
+		  nil "completion for M-x man" single
+		  ((:authors
+		    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		   (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		   (:url . "http://user42.tuxfamily.org/man-completion/index.html"))])
+ (man-preview .
+	      [(10)
+	       nil "preview nroff man file source" single
+	       ((:authors
+		 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		(:url . "http://user42.tuxfamily.org/man-preview/index.html"))])
+ (mine-sweeper-auto .
+		    [(6)
+		     nil "automated mine sweeping for mine-sweeper.el" single
+		     ((:authors
+		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		      (:url . "http://user42.tuxfamily.org/mine-sweeper-auto/index.html"))])
+ (mo-mode .
+	  [(15)
+	   nil "view and edit gettext .mo message files" single
+	   ((:authors
+	     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	    (:url . "http://user42.tuxfamily.org/mo-mode/index.html"))])
+ (nobreak-fade .
+	       [(9)
+		nil "some functions for `fill-nobreak-predicate'" single
+		((:authors
+		  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		 (:url . "http://user42.tuxfamily.org/nobreak-fade/index.html"))])
+ (nroff-filladapt .
+		  [(5)
+		   nil "nroff comment prefixes for filladapt" single
+		   ((:authors
+		     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		    (:url . "http://user42.tuxfamily.org/nroff-filladapt/index.html"))])
+ (oeis .
+       [(10)
+	nil "helpers for the Online Encyclopedia of Integer Sequences" single
+	((:authors
+	  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	 (:url . "http://user42.tuxfamily.org/oeis-el/index.html"))])
+ (parasep .
+	  [(6)
+	   nil "more paragraph separators" single
+	   ((:authors
+	     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	    (:url . "http://user42.tuxfamily.org/parasep/index.html"))])
+ (pcf2bdf .
+	  [(14)
+	   nil "view .pcf compiled font files as bdf" single
+	   ((:authors
+	     ("Kevin Ryde" . "user42@zip.com.au"))
+	    (:maintainer "Kevin Ryde" . "user42@zip.com.au")
+	    (:url . "http://user42.tuxfamily.org/pcf2bdf/index.html"))])
+ (perl-env-substitute .
+		      [(3)
+		       nil "Perl style $ENV{VARNAME} in substitute-in-filename" single
+		       ((:authors
+			 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			(:url . "http://user42.tuxfamily.org/perl-env-substitute/index.html"))])
+ (perl-pod-coding .
+		  [(8)
+		   nil "coding system from =encoding in perl files" single
+		   ((:authors
+		     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		    (:url . "http://user42.tuxfamily.org/perl-pod-coding/index.html"))])
+ (perl-pod-gt .
+	      [(18)
+	       nil "helpers for Perl POD <> markup" single
+	       ((:authors
+		 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		(:url . "http://user42.tuxfamily.org/perl-pod-gt/index.html"))])
+ (perl-pod-preview .
+		   [(18)
+		    nil "preview perl pod documentation" single
+		    ((:authors
+		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		     (:url . "http://user42.tuxfamily.org/perl-pod-preview/index.html"))])
+ (perl-quote .
+	     [(5)
+	      nil "helpers for Perl quoted strings" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/perl-quote/index.html"))])
+ (perl-use-utf8-coding .
+		       [(5)
+			nil "coding system from \"use utf8\" in perl code" single
+			((:authors
+			  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			 (:url . "http://user42.tuxfamily.org/perl-use-utf8-coding/index.html"))])
+ (pst-format .
+	     [(8)
+	      nil "view perl Storable files as human readable text" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/pst-format/index.html"))])
+ (quick-yes .
+	    [(10)
+	     nil "M-y to answer \"yes\" to `yes-or-no-p'." single
+	     ((:authors
+	       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	      (:url . "http://user42.tuxfamily.org/quick-yes/index.html"))])
+ (renice .
+	 [(2)
+	  nil "change process niceness (CPU priority)" single
+	  ((:authors
+	    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	   (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	   (:url . "http://user42.tuxfamily.org/renice/index.html"))])
+ (scroll-1 .
+	   [(9)
+	    nil "bind j and k to scroll the window up and down" single
+	    ((:authors
+	      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	     (:url . "http://user42.tuxfamily.org/scroll-1/index.html"))])
+ (sentence-spacing .
+		   [(2)
+		    nil "two spaces for sentence end" single
+		    ((:authors
+		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		     (:url . "http://user42.tuxfamily.org/sentence-spacing/index.html"))])
+ (sh-autoconf .
+	      [(9)
+	       nil "autoconf flavour for sh-mode" single
+	       ((:authors
+		 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		(:url . "http://user42.tuxfamily.org/sh-autoconf/index.html"))])
+ (sqlite-dump .
+	      [(10)
+	       nil "view dump of sqlite database file" single
+	       ((:authors
+		 ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		(:url . "http://user42.tuxfamily.org/sqlite-dump/index.html"))])
+ (startup-file-name-history .
+			    [(5)
+			     nil "command line files into file-name-history" single
+			     ((:authors
+			       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			      (:url . "http://user42.tuxfamily.org/startup-file-name-history/index.html"))])
+ (tcd-format .
+	     [(7)
+	      nil "view XTide .tcd tide constituent database files" single
+	      ((:authors
+		("Kevin Ryde" . "user42@zip.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42@zip.com.au")
+	       (:url . "http://user42.tuxfamily.org/tcd-format/index.html"))])
+ (tex-increase .
+	       [(6)
+		nil "increase or decrease TeX \\bigl etc" single
+		((:authors
+		  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		 (:url . "http://user42.tuxfamily.org/tex-increase/index.html"))])
+ (tex-math-preview .
+		   [(17)
+		    nil "preview TeX math expressions." single
+		    ((:authors
+		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		     (:url . "http://user42.tuxfamily.org/tex-math-preview/index.html"))])
+ (texinfo-nobreak .
+		  [(8)
+		   nil "texinfo line break workarounds for past makeinfo" single
+		   ((:authors
+		     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		    (:url . "http://user42.tuxfamily.org/texinfo-nobreak/index.html"))])
+ (texinfo-warn .
+	       [(10)
+		nil "warn about tabs and more in texinfo" single
+		((:authors
+		  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		 (:url . "http://user42.tuxfamily.org/texinfo-warn/index.html"))])
+ (tty-format .
+	     [(11)
+	      nil "text file backspacing and ANSI SGR as faces" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/tty-format/index.html"))])
+ (unicode-disp .
+	       [(12)
+		nil "display-table fallbacks for some unicode chars" single
+		((:authors
+		  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+		 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+		 (:url . "http://user42.tuxfamily.org/unicode-disp/index.html"))])
+ (upstr .
+	[(5)
+	 nil "up-list out of a string or TeX maths too" single
+	 ((:authors
+	   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	  (:url . "http://user42.tuxfamily.org/upstr/index.html"))])
+ (variable-at-point-tick .
+			 [(4)
+			  nil "variable-at-point on a 'foo (for Emacs 23)" single
+			  ((:authors
+			    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+			   (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+			   (:url . "http://user42.tuxfamily.org/variable-at-point-tick/index.html"))])
+ (weblint .
+	  [(5)
+	   nil "run the weblint program" single
+	   ((:authors
+	     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	    (:url . "http://user42.tuxfamily.org/weblint/index.html"))])
+ (wx-look .
+	  [(7)
+	   nil "lookup wxWidgets functions in its manual." single
+	   ((:authors
+	     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	    (:url . "http://user42.tuxfamily.org/wx-look/index.html"))])
+ (xml-coding .
+	     [(9)
+	      nil "coding system from tag in xml files (for Emacs 21)" single
+	      ((:authors
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	       (:url . "http://user42.tuxfamily.org/xml-coding/index.html"))])
+ (xtide .
+	[(26)
+	 nil "XTide display in Emacs" single
+	 ((:authors
+	   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	  (:url . "http://user42.tuxfamily.org/xtide/index.html"))])
+ (gp-inline .
+	    [(5)
+	     nil "evaluate Pari/GP expressions inline in a document" single
+	     ((:authors
+	       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
+	      (:url . "http://user42.tuxfamily.org/pari-gp-inline/index.html"))]))
+

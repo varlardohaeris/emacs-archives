@@ -1,0 +1,2 @@
+
+(bc-mode . [(20090830 1840) nil "BC code editing commands for Emacs" single ((:commit . "240c7457557a958800fc7cd36c96e92ee135cbd6") (:authors ("Kumar Appaiah" . "akumar_NOSPAM@ee.iitm.ac.in")) (:maintainer "Kumar Appaiah" . "akumar_NOSPAM@ee.iitm.ac.in"))])

@@ -1,0 +1,2 @@
+
+(paint . [(20100624 1640) nil "Makes a Emacs to the Paint Tool" single ((:commit . "b608a0a8d2627982f84a90dd062807bb320b261e") (:keywords "tools") (:authors ("Taiki SUGAWARA" . "buzz.taiki@gmail.com")) (:maintainer "Taiki SUGAWARA" . "buzz.taiki@gmail.com"))])

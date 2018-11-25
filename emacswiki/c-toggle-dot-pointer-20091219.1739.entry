@@ -1,0 +1,2 @@
+
+(c-toggle-dot-pointer . [(20091219 1739) nil "Functions for toggling a variable in a C function between pointer and non-pointer" single ((:commit . "7921a789f6829a90cce20435ec0a161646164d35") (:keywords "c" "languages") (:authors ("Marc Abramowitz (http://marc.abramowitz.info)")) (:maintainer "Marc Abramowitz (http://marc.abramowitz.info)"))])

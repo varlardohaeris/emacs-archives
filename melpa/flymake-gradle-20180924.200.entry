@@ -1,0 +1,2 @@
+
+(flymake-gradle . [(20180924 200) ((emacs (26 1))) "Flymake extension for Gradle." single ((:commit . "c6045dd00e0bb1ec2b19df32756c61cbc5b3728b") (:keywords "languages" "gradle") (:maintainer "James Nguyen" . "james@jojojames.com") (:url . "https://github.com/jojojames/flymake-gradle"))])

@@ -1,0 +1,2 @@
+
+(remind-to-diary . [(20100209 1739) nil "convert remind `simple calendar' output to diary format" single ((:commit . "6e1a935422d24bb64b31568361dca1deeac68a26") (:keywords "remind" "diary") (:authors ("Robert P. Hamrick")) (:maintainer "Robert P. Hamrick"))])

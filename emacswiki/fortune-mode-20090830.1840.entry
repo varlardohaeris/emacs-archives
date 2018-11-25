@@ -1,0 +1,2 @@
+
+(fortune-mode . [(20090830 1840) nil "Interface to write fortunes quickly" single ((:commit . "71ef5674b1bb28dcd7712fb1785195fe276b358c") (:keywords "unix" "games") (:authors ("Benjamin Drieu" . "drieu@alpha12.bocal.cs.univ-paris8.fr")) (:maintainer "Michael Abraham Shulman" . "viritrilbia@users.sourceforge.net"))])

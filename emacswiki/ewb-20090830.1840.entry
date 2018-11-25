@@ -1,0 +1,2 @@
+
+(ewb . [(20090830 1840) nil "Emacs Web Browser" single ((:commit . "3d3812adf88c196dd8bebcc88ed137a27880bf99") (:keywords "browser" "web" "net" "xhtml/http/tcp") (:authors (nil . "Patrick Anderson (concat (nreverse (string-to-list \"gro.scimococe@tunwo\")))")) (:maintainer nil . "Patrick Anderson (concat (nreverse (string-to-list \"gro.scimococe@tunwo\")))"))])

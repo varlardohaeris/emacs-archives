@@ -1,0 +1,2 @@
+
+(w32-find-dired . [(20090830 1840) nil "light w32 replacement for `find-dired'" single ((:commit . "b6a1085bace01a7001319fd38bb894e55186ef9a") (:authors ("Mathias Dahl" . "brakjoller@gmail.com")) (:maintainer "Mathias Dahl" . "brakjoller@gmail.com"))])

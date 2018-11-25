@@ -1,0 +1,2 @@
+
+(fullscreen . [(20140306 2245) nil "Full screen" single ((:commit . "1ef8107e1a93e9a831c065053855049a517aff44") (:keywords "fullscreen") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/fullscreen.el"))])

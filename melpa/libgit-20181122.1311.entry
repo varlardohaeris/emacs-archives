@@ -1,0 +1,2 @@
+
+(libgit . [(20181122 1311) ((emacs (25 1))) "Thin bindings to libgit2." tar ((:commit . "f322d295eaf0e99ebe56fdc2b16661ea6791ce60") (:keywords "git" "vc") (:authors ("Eivind Fonn" . "evfonn@gmail.com")) (:maintainer "Eivind Fonn" . "evfonn@gmail.com") (:url . "https://github.com/TheBB/libegit2"))])

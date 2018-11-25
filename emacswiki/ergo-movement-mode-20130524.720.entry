@@ -1,0 +1,2 @@
+
+(ergo-movement-mode . [(20130524 720) nil "Ergonomic keybindings for cursor movement" single ((:commit . "3c2cbd3644d44fee5e6300a35c41fd2b89f5a63d") (:authors ("Teemu Likonen" . "tlikonen@iki.fi")) (:maintainer "Teemu Likonen" . "tlikonen@iki.fi"))])

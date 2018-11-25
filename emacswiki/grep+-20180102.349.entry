@@ -1,0 +1,2 @@
+
+(grep+ . [(20180102 349) nil "Extensions to standard library `grep.el'." single ((:commit . "a10a175bb67aec24fb6c7b160b273f4fd9595f63") (:keywords "tools" "processes" "compile") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/grep%2b.el"))])

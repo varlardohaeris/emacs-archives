@@ -1,0 +1,2 @@
+
+(latex-frame-mode . [(20111013 1640) nil "minor mode for latex beamer geeks equipped with folding power" single ((:commit . "22086c2ae926d8f2f10b6d24ee177a2889858d40") (:keywords "convenience" "tex") (:authors ("Thomas Alexander Gerds" . "tagteam@sund.ku.dk")) (:maintainer "Thomas Alexander Gerds" . "tagteam@sund.ku.dk"))])

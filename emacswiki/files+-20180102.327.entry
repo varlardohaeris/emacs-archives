@@ -1,0 +1,2 @@
+
+(files+ . [(20180102 327) nil "Enhancements of standard library `files.el'." single ((:commit . "6f18599fa23570d614bb23ac7c24197cdf75dae7") (:keywords "internal" "extensions" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/files%2b.el"))])

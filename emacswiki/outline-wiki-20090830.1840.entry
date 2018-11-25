@@ -1,0 +1,2 @@
+
+(outline-wiki . [(20090830 1840) nil "An outline-based wiki-like mode" single ((:commit . "e6222706a35c4296347993fd592e6685d939ecf8") (:keywords "outlines" "wiki") (:authors ("Jorgen Schaefer")) (:maintainer "Jorgen Schaefer") (:url . "http://www.emacswiki.org/cgi-bin/wiki/OutlineWikiMode"))])

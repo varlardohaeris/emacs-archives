@@ -1,0 +1,2 @@
+
+(flymake-for-csharp . [(20100512 1639) nil "C# mode derived mode" single ((:commit . "d03a3197ef945dc58918cb3a37035be9e329a595") (:keywords "c#" "flymake") (:authors ("Dino Chiesa")) (:maintainer "Dino Chiesa"))])

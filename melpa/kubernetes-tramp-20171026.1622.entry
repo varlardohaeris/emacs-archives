@@ -1,0 +1,2 @@
+
+(kubernetes-tramp . [(20171026 1622) ((emacs (24)) (cl-lib (0 5))) "TRAMP integration for kubernetes containers" single ((:commit . "9fa84df71f6e88bc23a756cdf2df393a35aec945") (:keywords "kubernetes" "convenience") (:authors ("Giovanni Ruggiero" . "giovanni.ruggiero+github@gmail.com")) (:maintainer "Giovanni Ruggiero" . "giovanni.ruggiero+github@gmail.com") (:url . "https://github.com/gruggiero/kubernetes-tramp"))])

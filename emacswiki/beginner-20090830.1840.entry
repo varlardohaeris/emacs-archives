@@ -1,0 +1,2 @@
+
+(beginner . [(20090830 1840) nil "simplify Emacs" single ((:commit . "69c78e8ddabfff481e92df84de5628f05977a38a") (:keywords "help" "wp" "emulations") (:authors ("Jason Spiro" . "jasonspiro3@gmail.com")) (:maintainer "Jason Spiro" . "jasonspiro3@gmail.com") (:url . "http://www.emacswiki.org/cgi-bin/emacs/beginner.el"))])

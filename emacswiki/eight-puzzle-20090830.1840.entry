@@ -1,0 +1,2 @@
+
+(eight-puzzle . [(20090830 1840) nil "A simple little puzzle game" single ((:commit . "2058d82d2d9eff6086a82760abc9d68e6494eabd") (:keywords "game" "eight puzzle") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

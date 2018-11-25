@@ -1,0 +1,2 @@
+
+(ts-mode . [(20090830 1840) nil "An Emacs major mode for editing TypoScript files" single ((:commit . "c84398b3db3ab3e2e2adc685e1823761b1663119") (:keywords "files") (:authors ("Joachim Mathes <joachim <underscore> mathes <at> web <dot> de>")) (:maintainer "Joachim Mathes <joachim <underscore> mathes <at> web <dot> de>") (:url . "http://www.emacswiki.org/emacs/ts-mode.el"))])

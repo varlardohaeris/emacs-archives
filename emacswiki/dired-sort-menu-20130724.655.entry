@@ -1,0 +1,2 @@
+
+(dired-sort-menu . [(20130724 655) nil "provide menu/dialogue for dired sort options" single ((:commit . "ee151996b536703f2cf006a63f22f65a57253287") (:keywords "dired" "sort" "menu" "dialogue") (:authors ("Francis J. Wright" . "F.J.Wright@maths.qmw.ac.uk")) (:maintainer "Francis J. Wright" . "F.J.Wright@maths.qmw.ac.uk") (:url . "http://centaur.maths.qmw.ac.uk/Emacs/"))])

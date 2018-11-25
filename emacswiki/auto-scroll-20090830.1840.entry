@@ -1,0 +1,2 @@
+
+(auto-scroll . [(20090830 1840) nil "Automatically scroll down line." single ((:commit . "f205a74a87f9bdf6fbdbcd646124d89c7902b2f2") (:keywords "auto" "scroll") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

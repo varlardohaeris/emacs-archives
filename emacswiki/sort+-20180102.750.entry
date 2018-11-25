@@ -1,0 +1,2 @@
+
+(sort+ . [(20180102 750) nil "Extensions to `sort.el'." single ((:commit . "7993d3b13e8889342897d30b4bb12944b3a06c4a") (:keywords "unix" "tools" "sorting") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/sort%2b.el"))])

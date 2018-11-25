@@ -1,0 +1,2 @@
+
+(ox-jekyll . [(20180813 1755) nil "Export Jekyll articles using org-mode." single ((:commit . "102c53b1333abbf15b7c5c3ee1dc27124d1c0d68") (:keywords "org" "jekyll") (:authors ("Elsa Gonsiorowski" . "gonsie@me.com")) (:maintainer "Elsa Gonsiorowski" . "gonsie@me.com"))])

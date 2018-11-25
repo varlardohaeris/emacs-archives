@@ -1,0 +1,2 @@
+
+(emms-get-lyrics . [(20141018 743) nil "Get the lyrics of the song emms is currently playing" single ((:commit . "a924f23fadbd8d16544adc44cfbb06cc572bccb1"))])

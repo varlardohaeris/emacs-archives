@@ -1,0 +1,2 @@
+
+(doremi-frm . [(20180102 304) ((doremi (0)) (faces+ (0)) (frame-fns (0)) (hexrgb (0))) "Incrementally adjust face attributes and frame parameters." single ((:commit . "02c253a8a76a43df7be9e416bf70c10b9a0cdcdf") (:keywords "frames" "extensions" "convenience" "keys" "repeat" "cycle") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/doremi-frm.el"))])

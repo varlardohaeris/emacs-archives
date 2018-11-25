@@ -1,0 +1,2 @@
+
+(xlicense . [(20101217 1740) nil "Insert a pre-defined license text" single ((:commit . "1a00dfb55bb1bb0625027865577fd5aefe88bd37") (:keywords "abbrev" "convenience") (:authors ("Seong-Kook Shin" . "cinsky@gmail.com")) (:maintainer "Seong-Kook Shin" . "cinsky@gmail.com"))])

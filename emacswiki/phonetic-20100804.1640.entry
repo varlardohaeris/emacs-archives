@@ -1,0 +1,2 @@
+
+(phonetic . [(20100804 1640) nil "Phonetize (Alpha, Bravo, Charlie...) the region" single ((:commit . "27077c49b4bf51f8774821d229829fd377c1360c") (:keywords "alphabet" "phonetic" "spell"))])

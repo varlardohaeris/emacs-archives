@@ -1,0 +1,2 @@
+
+(line-comment-banner . [(20120123 353) nil "Comment a line in a banner style." single ((:commit . "5d76b07f713c3a8f8d513cab0e24fa77a91f912d"))])

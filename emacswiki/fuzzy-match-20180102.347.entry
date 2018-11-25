@@ -1,0 +1,2 @@
+
+(fuzzy-match . [(20180102 347) nil "fuzzy matching" single ((:commit . "4ca537ac77e8886f10e4ff2b0ac3bd4cdac25552") (:keywords "matching" "completion" "string") (:authors (nil . "Simon Marshall (concat \"simon\" \"@\" \"gnu\" \".org\")")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/fuzzy-match.el"))])

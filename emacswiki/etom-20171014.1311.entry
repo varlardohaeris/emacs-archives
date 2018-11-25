@@ -1,0 +1,2 @@
+
+(etom . [(20171014 1311) nil "Emacs to Maya communication" single ((:commit . "b407c66c81c8517d41cd153f7ef2cb4a23522f54") (:keywords "emacs" "maya" "mel" "python") (:authors ("Slavomir Kaslev" . "slavomir.kaslev@gmail.com")) (:maintainer "Michael Abrahams" . "miabraha@gmail.com"))])

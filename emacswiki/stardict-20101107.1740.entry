@@ -1,0 +1,2 @@
+
+(stardict . [(20101107 1740) nil "stardict dictionary library" single ((:commit . "69d1eed72a1869df5f6fd8ef8bb0050458e5f4af") (:keywords "stardict") (:authors ("Changyuan Yu" . "rei.vzy@gmail.com")) (:maintainer "Changyuan Yu" . "rei.vzy@gmail.com"))])

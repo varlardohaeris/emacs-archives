@@ -1,0 +1,2 @@
+
+(gnus-switch . [(20090830 1840) nil "Smart switch with gnus buffers" single ((:commit . "b2971c0f86e6de21b329ae09f133a9ed7388e53e") (:keywords "gnus" "switch" "smart") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/gnus-switch.el"))])

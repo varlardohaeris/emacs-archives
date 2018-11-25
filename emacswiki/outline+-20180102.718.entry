@@ -1,0 +1,2 @@
+
+(outline+ . [(20180102 718) nil "Extensions to `outline.el'." single ((:commit . "f544398b482e5afc5f33a9ec1116db74acc3dbda") (:keywords "abbrev" "matching" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/outline%2b.el"))])

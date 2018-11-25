@@ -1,0 +1,2 @@
+
+(muttrc-mode . [(20090830 1840) nil "Major mode to edit muttrc under Emacs" single ((:commit . "0a04aad53b27d85ded510f602fb5cfc84245d6be"))])

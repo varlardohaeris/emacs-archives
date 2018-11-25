@@ -1,0 +1,2 @@
+
+(erec . [(20090830 1840) nil "Minor mode to record and play back audio" single ((:commit . "5dd6dac5ea2807c83a5ab5c478bb3840485ad84c") (:keywords "multimedia") (:authors ("Jorgen Schaefer" . "forcer@forcix.cx")) (:maintainer "Jorgen Schaefer" . "forcer@forcix.cx"))])

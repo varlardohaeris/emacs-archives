@@ -1,0 +1,2 @@
+
+(projman . [(20090830 1840) nil "Simple source file project management" single ((:commit . "91ff7bda6bd4a9898996038d9acd4cf0a9e25531") (:keywords "tools") (:authors ("David Shilvock" . "davels@telus.net")) (:maintainer "David Shilvock" . "davels@telus.net"))])

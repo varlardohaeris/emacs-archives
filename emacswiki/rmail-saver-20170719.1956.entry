@@ -1,0 +1,2 @@
+
+(rmail-saver . [(20170719 1956) nil "An easy way of saving mail messages to files" single ((:commit . "23380cfe5d4ce805f0611166e5a1245f89a731c0"))])

@@ -1,0 +1,2 @@
+
+(google-define . [(20120106 510) nil "Pull definitions from google and displays them in a buffer." single ((:commit . "c5c2ff7ae5becbce29ddc48ac487fea86a56358e"))])

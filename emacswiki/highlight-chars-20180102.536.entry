@@ -1,0 +1,2 @@
+
+(highlight-chars . [(20180102 536) nil "Highlight specified sets of characters, including whitespace." single ((:commit . "2519f7b8cb2d57dfbe38897657c8430ea7a89063") (:keywords "highlight" "whitespace" "characters" "unicode") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/highlight-chars.el"))])

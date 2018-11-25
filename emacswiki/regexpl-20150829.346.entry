@@ -1,0 +1,2 @@
+
+(regexpl . [(20150829 346) nil "Search and replace list of patterns and replacements." single ((:commit . "d64e4b28de6ed68fe33f3a14d6dbe8910d6cb6f8") (:keywords "lisp") (:authors ("Aaron S. Hawley")) (:maintainer "Aaron S. Hawley") (:url . "http://www.emacswiki.org/elisp/regexpl.el"))])

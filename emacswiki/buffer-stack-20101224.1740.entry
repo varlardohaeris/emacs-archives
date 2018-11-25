@@ -1,0 +1,2 @@
+
+(buffer-stack . [(20101224 1740) nil "Enhanced intelligent switch-to-other-buffer replacement." single ((:commit . "25dcfd4f7622b0056554180fc39268e4c9a645f5") (:keywords "buffer" "buffers" "switching buffers") (:authors ("Adrian Kubala" . "adrian@sixfingeredman.net")) (:maintainer "Adrian Kubala" . "adrian@sixfingeredman.net") (:url . "http://www.sixfingeredman.net/proj/xemacs"))])

@@ -1,0 +1,2 @@
+
+(sql-transform . [(20180322 322) nil "transform SQL statements" single ((:commit . "bd41830707977d8b48e0afb89221150aebc4bb3c") (:keywords "sql") (:authors ("Alex Schroeder" . "alex@gnu.org")) (:maintainer "Alex Schroeder" . "alex@gnu.org"))])

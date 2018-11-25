@@ -1,0 +1,2 @@
+
+(gtk-perl . [(20090830 1840) nil "A minor mode to help write gtk-perl code" single ((:commit . "74b855b3e81d148961977363f4df0ca8db4cd0a1") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

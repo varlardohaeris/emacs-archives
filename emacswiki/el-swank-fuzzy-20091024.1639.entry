@@ -1,0 +1,2 @@
+
+(el-swank-fuzzy . [(20091024 1639) nil "fuzzy symbol completion." single ((:commit . "2226cf26dbfc41c650c3c141573e060bb8eb395c") (:keywords "matching" "completion" "string") (:authors ("Takeshi Banse" . "takebi@laafc.net")) (:maintainer "Takeshi Banse" . "takebi@laafc.net"))])

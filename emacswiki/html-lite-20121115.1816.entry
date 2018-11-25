@@ -1,0 +1,2 @@
+
+(html-lite . [(20121115 1816) nil "Construct html with sexp" single ((:commit . "976e3359bba3498d770889d16a9b4ba606e8d8bc") (:keywords "hypermedia") (:authors ("Mario Domgörgen" . "kanaldrache@gmx.de")) (:maintainer "Mario Domgörgen" . "kanaldrache@gmx.de"))])

@@ -1,0 +1,2 @@
+
+(find-dired+ . [(20180922 152) nil "Extensions to `find-dired.el'." single ((:commit . "200679b3a2a636219380567f944452755c3b95d0") (:keywords "internal" "unix" "tools" "matching" "local") (:authors ("Roland McGrath" . "roland@gnu.ai.mit.edu")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/find-dired%2b.el"))])

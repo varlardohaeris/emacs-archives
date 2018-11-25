@@ -1,0 +1,2 @@
+
+(ectags-select . [(20090830 1840) nil "Select from multiple tags" single ((:commit . "7aa867b8f44ee8789ae408c79a7f9aa327daf015") (:keywords "exuberant-ctags" "ectags" "tag" "select") (:authors ("John Connors" . "johnc@yagc.ndo.co.uk")) (:maintainer "John Connors" . "johnc@yagc.ndo.co.uk"))])

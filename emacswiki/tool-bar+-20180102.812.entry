@@ -1,0 +1,2 @@
+
+(tool-bar+ . [(20180102 812) nil "Extensions to standard library tool-bar.el" single ((:commit . "a9968d726491d8874d8090964b3f9c52f891b115") (:keywords "tool-bar" "convenience" "mouse" "button" "frame") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/tool-bar%2b.el"))])

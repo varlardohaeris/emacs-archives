@@ -1,0 +1,2 @@
+
+(diffstat . [(20111001 1933) nil "a mode for showing the summary of diff" single ((:commit . "613568fd5e972c57a71de04747be7a3d4daa3e26") (:keywords "convenience" "patch" "diff"))])

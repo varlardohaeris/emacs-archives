@@ -1,0 +1,2 @@
+
+(w32-shell-verb . [(20090830 1840) nil "ShellExecute verbs on a file" single ((:commit . "ee90e37af89019b4abb46e446b0a599d653db321") (:keywords "convenience") (:authors ("Patrick Anderson ")) (:maintainer "Patrick Anderson "))])

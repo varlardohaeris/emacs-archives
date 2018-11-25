@@ -1,0 +1,2 @@
+
+(speck . [(20160718 51) nil "minor mode for spell checking" single ((:commit . "0ee05e46913f5ddda40c34676ecb7ca0cff6a4fd") (:keywords "spell" "checking") (:authors ("Martin Rudalics" . "rudalics@gmx.at")) (:maintainer "Martin Rudalics" . "rudalics@gmx.at"))])

@@ -1,0 +1,2 @@
+
+(gnuslog . [(20090830 1840) nil "Gnus Splitting Log Facility" single ((:commit . "5d4e3315c7a1dbe192f343edca7483be8b7b8308") (:keywords "gnus" "log" "splitting") (:authors ("Johan Bockgård")) (:maintainer "Adrian Aichner" . "adrian@xemacs.org"))])

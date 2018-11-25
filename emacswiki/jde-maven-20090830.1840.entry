@@ -1,0 +1,2 @@
+
+(jde-maven . [(20090830 1840) nil "Use Apache Maven to build your JDE projects" single ((:commit . "019129a67cd085df21a42547f21f031349b6f886") (:authors ("Raffael Herzog" . "herzog@raffael.ch")) (:maintainer "Raffael Herzog" . "herzog@raffael.ch"))])

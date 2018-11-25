@@ -1,0 +1,2 @@
+
+(amarok . [(20090830 1840) nil "Simple interface to Amarok music player" single ((:commit . "f68dbc8ae3fb4480821519424d18f581e31950e3") (:keywords "multimedia") (:authors ("Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com")) (:maintainer "Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com"))])

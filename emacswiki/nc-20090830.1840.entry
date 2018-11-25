@@ -1,0 +1,2 @@
+
+(nc . [(20090830 1840) nil "emulate famos ms-dog file browser" single ((:commit . "94ab42399da859d1f0ccd8f69411e02be1cc58b3") (:keywords "file browser" "directory" "shell") (:authors ("Stefan Hegny" . "hegny@fzi.de")) (:maintainer "Stefan Hegny" . "hegny@fzi.de"))])

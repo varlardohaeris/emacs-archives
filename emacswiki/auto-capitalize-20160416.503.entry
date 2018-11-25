@@ -1,0 +1,2 @@
+
+(auto-capitalize . [(20160416 503) nil "Automatically capitalize (or upcase) words" single ((:commit . "0ee14c76d5771aaa84a004463f8b8b3a195c2fd8") (:keywords "text" "wp" "convenience") (:authors ("Kevin Rodgers" . "kevin.d.rodgers@gmail.com")) (:maintainer "Kevin Rodgers" . "kevin.d.rodgers@gmail.com"))])

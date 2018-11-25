@@ -1,0 +1,2 @@
+
+(mc . [(20120205 228) nil "Midnight Commander emulation for emacs using dired" single ((:commit . "252c6d8563432c16f67cc053784f361feaaa2520") (:keywords "midnight" "commander") (:authors ("Kevin A. Burton" . "burton@openprivacy.org")) (:maintainer "Kevin A. Burton" . "burton@openprivacy.org"))])

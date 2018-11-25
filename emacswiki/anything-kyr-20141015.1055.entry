@@ -1,0 +1,2 @@
+
+(anything-kyr . [(20141015 1055) nil "Show context-aware commands" single ((:commit . "e08af1e125f5fe39c6fd762a7ffbe63aee983381") (:keywords "anything" "convenience") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/anything-kyr.el"))])

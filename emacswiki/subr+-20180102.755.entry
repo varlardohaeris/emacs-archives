@@ -1,0 +1,2 @@
+
+(subr+ . [(20180102 755) nil "Extensions to standard library `subr.el'." single ((:commit . "941a07ebec8c1c1dc9efb75bac5bf215e367cf32") (:keywords "strings" "text") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/subr%2b.el"))])

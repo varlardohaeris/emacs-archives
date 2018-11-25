@@ -1,0 +1,2 @@
+
+(file-template . [(20090830 1840) nil "File templates" single ((:commit . "96d585c105f5228336c211af91ac54ed3c84e779") (:keywords "template") (:authors ("Scott Frazer" . "frazer.scott@gmail.com")) (:maintainer "Scott Frazer" . "frazer.scott@gmail.com"))])

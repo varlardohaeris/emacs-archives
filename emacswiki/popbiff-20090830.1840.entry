@@ -1,0 +1,2 @@
+
+(popbiff . [(20090830 1840) nil "Checks for mail using POP3" single ((:commit . "e9fe7f5c9ec2607ea790f63f6b213435e6fef12a") (:keywords "mail" "tools") (:authors ("Dominique de Waleffe" . "ddw@acm.org")) (:maintainer "Dominique de Waleffe" . "ddw@acm.org"))])

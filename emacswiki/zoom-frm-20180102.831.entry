@@ -1,0 +1,2 @@
+
+(zoom-frm . [(20180102 831) ((frame-fns (0)) (frame-cmds (0))) "Commands to zoom frame font size." single ((:commit . "4695c088b767f8f268fe3fe8f6d6bff61b9b890f") (:keywords "frames" "extensions" "convenience") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/zoom-frm.el"))])

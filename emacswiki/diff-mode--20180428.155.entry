@@ -1,0 +1,2 @@
+
+(diff-mode- . [(20180428 155) nil "Extensions to `diff-mode.el'." single ((:commit . "13f2c5a3915e285494788f91c2c20871e18afbdb") (:keywords "data" "matching" "tools" "unix" "local" "font" "face") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/diff-mode-.el"))])

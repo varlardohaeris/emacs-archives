@@ -1,0 +1,2 @@
+
+(ska-skel-matlab . [(20090830 1840) nil "my matlab skeletons" single ((:commit . "5cbc292f4006f53f27c32a4e67e56fbea2028db1") (:keywords "languages" "tools") (:authors ("Stefan Kamphausen" . "kamphausen@insiligence.com")) (:maintainer "Stefan Kamphausen" . "kamphausen@insiligence.com"))])

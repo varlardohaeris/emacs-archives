@@ -1,0 +1,2 @@
+
+(lua-block . [(20101121 1740) nil "highlight matching block" single ((:commit . "8b47c00906ab99ae4927c9f844b6cc3bf6a6b7c8") (:keywords "languages" "faces" "lua") (:authors ("khiker" . "khiker.mail+elisp@gmail.com")) (:maintainer "khiker" . "khiker.mail+elisp@gmail.com"))])

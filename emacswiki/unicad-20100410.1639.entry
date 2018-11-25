@@ -1,0 +1,2 @@
+
+(unicad . [(20100410 1639) nil "an elisp port of Mozilla Universal Charset Auto Detector" single ((:commit . "1dded2d53d47dc8d1ae2c4401f8c4341220c9b4e") (:keywords "coding-system" "auto-coding-functions") (:authors ("Qichen Huang" . "unicad.el@gmail.com")) (:maintainer "Qichen Huang" . "unicad.el@gmail.com") (:url . "http://code.google.com/p/unicad/"))])

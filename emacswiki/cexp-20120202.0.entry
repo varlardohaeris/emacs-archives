@@ -1,0 +1,2 @@
+
+(cexp . [(20120202 0) nil "Poorman's implementation of combined expressions." single ((:commit . "8b92296234d32affb23894fa61583094de307c53") (:keywords "combined" "expressions") (:authors ("Tobias.Naehring" . "i@tn-home.de")) (:maintainer "Tobias.Naehring" . "i@tn-home.de"))])

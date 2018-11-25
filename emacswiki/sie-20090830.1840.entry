@@ -1,0 +1,2 @@
+
+(sie . [(20090830 1840) nil "Interpreter of a Scheme-like language" single ((:commit . "dd334e0f4eacb3d2b6c42fdbad12108c93fd4c79") (:keywords "local" "lisp") (:authors ("Kalle Niemitalo" . "tosi@stekt.oulu.fi")) (:maintainer "Kalle Niemitalo" . "tosi@stekt.oulu.fi"))])

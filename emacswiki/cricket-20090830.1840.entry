@@ -1,0 +1,2 @@
+
+(cricket . [(20090830 1840) nil "Get live cricket scores and news updates from inside emacs." single ((:commit . "60f71f6fa4a613c4c1a0cfa12d570d7251201f0a") (:keywords "tools" "sports" "cricket" "live" "news") (:authors ("Anand B Pillai" . "anand_pillai@delmia.com")) (:maintainer "Anand B Pillai" . "anand_pillai@delmia.com"))])

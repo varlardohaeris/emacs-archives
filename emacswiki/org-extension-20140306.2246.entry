@@ -1,0 +1,2 @@
+
+(org-extension . [(20140306 2246) nil "Some extensions for Org mode" single ((:commit . "2b09852ab665a651b6393f3049e83aed25016f06") (:keywords "org") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "not distributed yet"))])

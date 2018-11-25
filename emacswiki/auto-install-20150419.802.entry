@@ -1,0 +1,2 @@
+
+(auto-install . [(20150419 802) nil "Auto install elisp file" single ((:commit . "d2beb53feece3e4ede37c1631651c9868c435b7c") (:keywords "auto-install") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "rubikitch" . "rubikitch@ruby-lang.org") (:url . "http://www.emacswiki.org/emacs/download/auto-install.el"))])

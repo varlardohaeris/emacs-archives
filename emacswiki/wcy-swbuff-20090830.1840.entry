@@ -1,0 +1,2 @@
+
+(wcy-swbuff . [(20090830 1840) nil "switch buffer quickly" single ((:commit . "06f9107d2960257f4e44e7a702af28f815681841") (:keywords "buffer" "convenience") (:authors ("ChunYe Wang" . "CharlesWang@peoplemail.com.cn")) (:maintainer "ChunYe Wang" . "CharlesWang@peoplemail.com.cn"))])

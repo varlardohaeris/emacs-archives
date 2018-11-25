@@ -1,0 +1,2 @@
+
+(multi-scratch . [(20090830 1840) nil "Multiple scratches manager" single ((:commit . "2266fa5d204e129e9290b908b744cc80e11cd56d") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/multi-scratch.el"))])

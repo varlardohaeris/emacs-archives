@@ -1,0 +1,2 @@
+
+(task-timer . [(20110503 1640) nil "Simple task timer package." single ((:commit . "8b4612ccf118b4beeebffdccffcc141ebff86dd6") (:keywords "timer" "task-timer") (:authors ("Jeremy Cowgar" . "jeremy@cowgar.com")) (:maintainer "Jeremy Cowgar" . "jeremy@cowgar.com"))])

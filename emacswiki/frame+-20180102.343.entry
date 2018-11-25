@@ -1,0 +1,2 @@
+
+(frame+ . [(20180102 343) nil "Extensions to `frame.el'." single ((:commit . "6c7bfd1e93eb09f6839923dd2083eeb724e0c766") (:keywords "frames") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/frame%2b.el"))])

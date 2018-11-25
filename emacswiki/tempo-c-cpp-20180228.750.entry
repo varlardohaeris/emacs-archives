@@ -1,0 +1,2 @@
+
+(tempo-c-cpp . [(20180228 750) nil "abbrevs for c/c++ programming" single ((:commit . "240b5cc6fd626918f500949ad9ca7cc9f5af1420") (:keywords "template" "c" "c++") (:authors ("Sebastien Varrette" . "Sebastien.Varrette@uni.lu")) (:maintainer "Sebastien Varrette" . "Sebastien.Varrette@uni.lu"))])

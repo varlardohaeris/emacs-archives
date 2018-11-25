@@ -1,0 +1,2 @@
+
+(fuzzy-format . [(20100416 1640) nil "select indent-tabs-mode and format code automatically." single ((:commit . "bbfbc7fd70f28ba37fd4016896fee6053ed78712") (:authors ("k1LoW (Kenichirou Oyama), <k1lowxb [at] gmail [dot] com> <k1low [at] 101000lab [dot] org>")) (:maintainer "k1LoW (Kenichirou Oyama), <k1lowxb [at] gmail [dot] com> <k1low [at] 101000lab [dot] org>") (:url . "http://code.101000lab.org, http://trac.codecheck.in"))])

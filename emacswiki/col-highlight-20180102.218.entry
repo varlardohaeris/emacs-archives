@@ -1,0 +1,2 @@
+
+(col-highlight . [(20180102 218) ((vline (0))) "Highlight the current column." single ((:commit . "ab60456a4b96cde2710761ff342db3716dc50776") (:keywords "faces" "frames" "emulation" "highlight" "cursor" "accessibility") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/col-highlight.el"))])

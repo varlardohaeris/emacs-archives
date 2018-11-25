@@ -1,0 +1,2 @@
+
+(auto-complete-etags . [(20120128 437) nil "Auto-completion source for etags" single ((:commit . "198ac04425c84b8662396107e899778322fb449e") (:authors ("Yen-Chin,Lee")) (:maintainer "Yen-Chin,Lee") (:url . "not distributed yet"))])

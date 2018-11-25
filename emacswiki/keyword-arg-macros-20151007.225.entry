@@ -1,0 +1,2 @@
+
+(keyword-arg-macros . [(20151007 225) ((dash (20150829 433)) (macro-utils (1 0))) "Some macros for extracting keyword args from lists" single ((:commit . "d44a0ef5321237d967cf9ac0b3ba72c1b06e72fa") (:keywords "extensions") (:authors ("Joe Bloggs" . "vapniks@yahoo.com")) (:maintainer "Joe Bloggs" . "vapniks@yahoo.com") (:url . "https://github.com/vapniks/keyword-arg-macros"))])

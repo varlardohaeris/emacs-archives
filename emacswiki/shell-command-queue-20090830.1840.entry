@@ -1,0 +1,2 @@
+
+(shell-command-queue . [(20090830 1840) nil "Queue shell commands for execution" single ((:commit . "46fbaac104abbec45f89bae678ab14e2eaf5fdc2") (:keywords "processes" "shell") (:authors ("Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com")) (:maintainer "Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com"))])

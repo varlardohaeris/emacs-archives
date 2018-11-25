@@ -1,0 +1,2 @@
+
+(message-outlook . [(20180807 2046) nil "Create function for sending messages with M$ outlook" single ((:commit . "5cb237e372cd8d1f7a94e57ce8fa5224d4fca038") (:authors ("Matthew L. Fidler")) (:maintainer "Matthew L. Fidler"))])

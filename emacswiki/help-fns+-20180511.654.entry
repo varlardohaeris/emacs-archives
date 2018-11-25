@@ -1,0 +1,2 @@
+
+(help-fns+ . [(20180511 654) nil "Extensions to `help-fns.el'." single ((:commit . "a21b319de476bfbaad32e349309b6b5148608d63") (:keywords "help" "faces" "characters" "packages" "description") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/help-fns%2b.el"))])

@@ -1,0 +1,2 @@
+
+(hl-spotlight . [(20180102 548) nil "Extension of hl-line.el to spotlight current few lines." single ((:commit . "3876e1b895d448ecc9c9eb41879e7ab6943f07fe") (:keywords "highlight" "cursor" "accessibility") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/hl-spotlight.el"))])

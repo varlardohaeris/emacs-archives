@@ -1,0 +1,2 @@
+
+(any-ini-mode . [(20090830 1840) nil "keyword highlighting for .ini files etc based on a 'source of truth'" single ((:commit . "66722086efa00da3e93d960976277813f0bcec52") (:keywords "convenience") (:authors ("Robert Fitzgerald" . "robert.fitzgerald@t-online.de")) (:maintainer "Robert Fitzgerald" . "robert.fitzgerald@t-online.de"))])

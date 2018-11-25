@@ -1,0 +1,2 @@
+
+(echoline-mode . [(20120106 504) nil "A minor mode for octave which highlights \"echoing\" lines" single ((:commit . "a45b8d11eda6338d0167cca88a45ca920bcc960e"))])

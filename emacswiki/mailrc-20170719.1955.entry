@@ -1,0 +1,2 @@
+
+(mailrc . [(20170719 1955) nil "edit mailrc aliases" single ((:commit . "83dc13a670f78cc2f0713066f8fd1001e6f80930") (:keywords "mailrc" "adressbook") (:authors ("Joakim Hove" . "joakim.hove@phys.ntnu.no")) (:maintainer "Joakim Hove" . "joakim.hove@phys.ntnu.no"))])

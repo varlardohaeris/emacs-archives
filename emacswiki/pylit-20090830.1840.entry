@@ -1,0 +1,2 @@
+
+(pylit . [(20090830 1840) nil "support for the PyLit literate programming tool" single ((:commit . "6982034e77a44cb10a3d3254898c15796b5c3ed4") (:authors ("Riccardo Murri" . "riccardo.murri@gmail.com")) (:maintainer "Riccardo Murri" . "riccardo.murri@gmail.com"))])

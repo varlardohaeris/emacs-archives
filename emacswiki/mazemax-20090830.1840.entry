@@ -1,0 +1,2 @@
+
+(mazemax . [(20090830 1840) nil "labyrinth generation and exploration" single ((:commit . "59d5da18dd2723209dfe30ce8fa124758db9289e") (:keywords "games") (:authors ("Michele Bini" . "mibin@libero.it")) (:maintainer "Michele Bini" . "mibin@libero.it"))])

@@ -1,0 +1,2 @@
+
+(autoload+ . [(20180102 131) nil "Extensions to `autoload.el'." single ((:commit . "c57c478f8913d061a33ddd3f6e793bb389b48d8f") (:keywords "maint") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/autoload%2b.el"))])

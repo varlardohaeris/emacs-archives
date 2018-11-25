@@ -1,0 +1,2 @@
+
+(couchdb-document . [(20111001 1937) nil "couchdb document handler" single ((:commit . "e01c3dee5b04845062faf23ebccd6348efd061b1") (:keywords "file" "couchdb" "json" "org") (:authors ("Changyuan Yu" . "rei.vzy@gmail.com")) (:maintainer "Changyuan Yu" . "rei.vzy@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(wid-edit+ . [(20180102 822) nil "Extensions to standard library `wid-edit.el'." single ((:commit . "26f77dfc499c0a2f89ac04d6dbeab3becdcd7598") (:keywords "widget" "color") (:authors ("Drew Adams, Lennart Borgman")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/wid-edit%2b.el"))])

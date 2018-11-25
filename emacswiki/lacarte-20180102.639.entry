@@ -1,0 +1,2 @@
+
+(lacarte . [(20180102 639) nil "Execute menu items as commands, with completion." single ((:commit . "79779263e33736f36aad51d9d78b5b2131e83513") (:keywords "menu-bar" "menu" "command" "help" "abbrev" "minibuffer" "keys") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/lacarte.el"))])

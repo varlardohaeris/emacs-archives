@@ -1,0 +1,2 @@
+
+(fcsh-mode . [(20100517 1640) nil "Adobe Flex Compiler Shell helper" single ((:commit . "04b711bd3f5f0a6762bd80898ae7a180f8eee352") (:keywords "fcsh" "flex" "flash" "actionscript" "as3" "mxml" "adobe") (:authors ("Denis Martinez" . "deuns.martinez@gmail.com")) (:maintainer "Denis Martinez" . "deuns.martinez@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(poly-org . [(20181010 2137) ((emacs (25)) (polymode (0 1 5))) "Polymode for org-mode" single ((:commit . "3f74d3ba0ad8ffe01bbc0994fcc4e5fc7aef6121") (:keywords "languages" "multi-modes") (:authors ("Vitalie Spinu")) (:maintainer "Vitalie Spinu") (:url . "https://github.com/polymode/poly-org"))])

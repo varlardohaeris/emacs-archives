@@ -1,0 +1,2 @@
+
+(haskell-extension . [(20090830 1840) nil "Some extension for haskell mode." single ((:commit . "6a55d178a2a62ff5326946aa95a5d3d2e8662f07") (:keywords "haskell") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

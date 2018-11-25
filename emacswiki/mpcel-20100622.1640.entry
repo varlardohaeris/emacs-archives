@@ -1,0 +1,2 @@
+
+(mpcel . [(20100622 1640) nil "A mpd (Music Player Daemon) client" single ((:commit . "0abb20bc8d4dda2a4fc0828b6c4367947e2e07fd") (:keywords "music") (:authors ("Jean-Baptiste Bourgoin" . "monsieur.camille@gmail.com")) (:maintainer "Jean-Baptiste Bourgoin" . "monsieur.camille@gmail.com"))])

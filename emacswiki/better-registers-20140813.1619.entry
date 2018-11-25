@@ -1,0 +1,2 @@
+
+(better-registers . [(20140813 1619) nil "facilities for more powerful registers" single ((:commit . "8ca63c2f91bbb10c7700f3b86f767fda0324e4b1") (:keywords "register" "macro") (:authors ("Sigurd Meldgaard <yogurth @ gmail>")) (:maintainer "Sigurd Meldgaard <yogurth @ gmail>"))])

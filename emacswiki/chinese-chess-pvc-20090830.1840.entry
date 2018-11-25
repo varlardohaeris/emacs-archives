@@ -1,0 +1,2 @@
+
+(chinese-chess-pvc . [(20090830 1840) nil "a chinese chess computer player" single ((:commit . "d57d54d3d25f73f72520e9553d7c11ce0c055d68") (:authors (nil . "wenbinye@163.com")) (:maintainer nil . "wenbinye@163.com") (:url . "not distributed yet"))])

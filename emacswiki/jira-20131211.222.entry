@@ -1,0 +1,2 @@
+
+(jira . [(20131211 222) nil "Connect to JIRA issue tracking software" single ((:commit . "d36f90e5ad262335260afd269005c279bd4429f6"))])

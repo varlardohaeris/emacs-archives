@@ -1,0 +1,2 @@
+
+(doremi-cmd . [(20180922 448) ((doremi (0))) "Miscellaneous Do Re Mi commands" single ((:commit . "9affe2bd0fd3a481fe32b6e973a2b2ad2955fcb5") (:keywords "keys" "cycle" "repeat") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/doremi-cmd.el"))])

@@ -1,0 +1,2 @@
+
+(external-abook . [(20100715 1640) nil "Enable the use of external address books from within Emacs" single ((:commit . "e77ea9ded1163f627bf8dacfdfe0a440493a2edd"))])

@@ -1,0 +1,2 @@
+
+(bm-ext . [(20120106 252) nil "List all bookmarks in all buffers" single ((:commit . "08550a8793195a3c9f5071e7622974d11d6488a8"))])

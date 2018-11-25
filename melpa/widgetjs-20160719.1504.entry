@@ -1,0 +1,2 @@
+
+(widgetjs . [(20160719 1504) ((makey (0 3)) (js2-mode (20140114)) (js2-refactor (0 6 1)) (s (1 9 0))) "Widgetjs mode" single ((:commit . "7b35a8ebea4a96aadca0ec732d4504474812fd3c") (:keywords "help") (:authors ("Nicolas Petton" . "petton.nicolas@gmail.com")) (:maintainer "Nicolas Petton" . "petton.nicolas@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(steersman . [(20091121 1739) nil "Control Emacs over XMPP/Jabber" single ((:commit . "9f1cd0cb5bfb8a0e86349bbc7126696c82459da3") (:keywords "jabber" "xmpp" "remote") (:authors ("Phil Hagelberg" . "technomancy@gmail.com")) (:maintainer "Phil Hagelberg" . "technomancy@gmail.com") (:url . "http://www.emacswiki.org/cgi-bin/wiki/Steersman"))])

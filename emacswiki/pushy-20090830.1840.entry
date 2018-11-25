@@ -1,0 +1,2 @@
+
+(pushy . [(20090830 1840) nil "pushy completion" single ((:commit . "2644ca122432baadaa64fb152ecbdd84df33db05") (:keywords "completion") (:authors ("Tamas Patrovics")) (:maintainer "Tamas Patrovics") (:url . "http://www.emacswiki.org/cgi-bin/emacs/pushy.el"))])

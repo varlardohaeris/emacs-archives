@@ -1,0 +1,2 @@
+
+(dabbrev-expand-multiple . [(20090830 1840) nil "dabbrev-expand for multiple" single ((:commit . "04c2577db9f34f4b40b2ede0a416f03f542a1ccc") (:keywords "dabbrev") (:authors ("khiker" . "khiker+elisp@gmail.com")) (:maintainer "khiker" . "khiker+elisp@gmail.com"))])

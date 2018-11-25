@@ -1,0 +1,2 @@
+
+(pddl-mode . [(20090830 1840) nil "A Planning and Domain Definition Language editing mode" single ((:commit . "875148f5024ae305b1866219ca7f23a66b42bf90") (:keywords "pddl" "planning" "files") (:url . "http://www.public.asu.edu/~sksinghi/PDDL-mode.htm"))])

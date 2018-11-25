@@ -1,0 +1,2 @@
+
+(eim . [(20100528 1641) nil "emacs input method" single ((:commit . "e338bfe10d6a6ac4b28973b7fb4fa8514f7712b2") (:authors ("Ye Wenbin<wenbinye@163.com>, ChunYe Wang" . "CharlesWang@peoplemail.com.cn")) (:maintainer "Ye Wenbin<wenbinye@163.com>, ChunYe Wang" . "CharlesWang@peoplemail.com.cn"))])

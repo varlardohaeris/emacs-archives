@@ -1,0 +1,2 @@
+
+(snipplr . [(20180807 2046) nil "Emacs interface to snipplr.com" single ((:commit . "ee15c787f97d03560180f0588bdd10e3fc73c66e") (:keywords "extensions" "tools") (:authors ("Dale K. Hawkins" . "dkhawk@gmail.com")) (:maintainer "Dale K. Hawkins" . "dkhawk@gmail.com"))])

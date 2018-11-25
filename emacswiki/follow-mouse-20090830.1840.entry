@@ -1,0 +1,2 @@
+
+(follow-mouse . [(20090830 1840) nil "Automatically select the window under the mouse" single ((:commit . "b7e5e78c6e9533597bfe3eba68f92afb606eff2e") (:keywords "mouse") (:authors ("Kevin Rodgers" . "ihs_4664@yahoo.com")) (:maintainer "Kevin Rodgers" . "ihs_4664@yahoo.com"))])

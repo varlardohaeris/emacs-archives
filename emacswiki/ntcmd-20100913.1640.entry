@@ -1,0 +1,2 @@
+
+(ntcmd . [(20100913 1640) nil "major mode for editing cmd scripts" single ((:commit . "ef6bd00427e520d64ad1fc1d04c5c1fe5c3dad4d") (:keywords "languages") (:authors ("Daniel Colascione" . "dan.colascione@gmail.com")) (:maintainer "Daniel Colascione" . "dan.colascione@gmail.com"))])

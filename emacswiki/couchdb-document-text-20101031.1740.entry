@@ -1,0 +1,2 @@
+
+(couchdb-document-text . [(20101031 1740) nil "couchdb document as text" single ((:commit . "a2cb9f43ad5867e2c922fbdbc1d6848374c7da25") (:keywords "file" "couchdb" "json" "org") (:authors ("Changyuan Yu" . "rei.vzy@gmail.com")) (:maintainer "Changyuan Yu" . "rei.vzy@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(newsticker-notify . [(20090830 1840) nil "Notify newsticker news in mode-line" single ((:commit . "a2b00e8ecbca56e34f532f152d5f70fb28d3d7e5") (:keywords "newsticker" "notify") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/newsticker-notify.el"))])

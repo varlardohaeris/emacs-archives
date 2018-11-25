@@ -1,0 +1,2 @@
+
+(grep-buffers . [(20090830 1840) nil "grep through buffers (a la 'moccur')" single ((:commit . "33bb00c1b871748c2af4d425e4ddc676d3c1e445") (:keywords "grep" "buffers") (:authors ("Scott Frazer" . "frazer.scott@gmail.com")) (:maintainer "Scott Frazer" . "frazer.scott@gmail.com"))])

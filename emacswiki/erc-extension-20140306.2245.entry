@@ -1,0 +1,2 @@
+
+(erc-extension . [(20140306 2245) nil "Some extension for erc" single ((:commit . "2fb9406713c8eadf40a68229d2e0e8a75d8b475f") (:keywords "erc") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

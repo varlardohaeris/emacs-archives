@@ -1,0 +1,2 @@
+
+(jcl-command-subset . [(20120827 56) nil "Like M-x but with only a subset of commands." single ((:commit . "b758a535a9efbc9af79895a68fa0498aeae9b17a") (:keywords "menu") (:authors ("Johan Claesson" . "johan.claesson@ericsson.com")) (:maintainer "Johan Claesson" . "johan.claesson@ericsson.com"))])

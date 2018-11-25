@@ -1,0 +1,2 @@
+
+(pp-c-l . [(20180102 724) nil "Display Control-l characters in a pretty way" single ((:commit . "2cf13dc90d3eb93970fa68d6b63ac27be36381e5") (:keywords "display" "convenience" "faces") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/pp-c-l.el"))])

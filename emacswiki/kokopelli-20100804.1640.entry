@@ -1,0 +1,2 @@
+
+(kokopelli . [(20100804 1640) nil "List function declaration and jump to it  -*-mode: Emacs-Lisp; tab-width: 4;-*- ." single ((:commit . "f3d05dcca195d15841679d63d25eed761bc1ef65") (:authors ("Kobayashi Takaaki <kobapan at gmail dot com>")) (:maintainer "Kobayashi Takaaki <kobapan at gmail dot com>"))])

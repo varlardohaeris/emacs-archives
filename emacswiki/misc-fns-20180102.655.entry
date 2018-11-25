@@ -1,0 +1,2 @@
+
+(misc-fns . [(20180102 655) nil "Miscellaneous non-interactive functions." single ((:commit . "34fa7495974fe16190f35cf2dab41e2ee487f820") (:keywords "internal" "unix" "lisp" "extensions" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/misc-fns.el"))])

@@ -1,0 +1,2 @@
+
+(strings . [(20180102 754) nil "Miscellaneous string functions." single ((:commit . "4c56b25d2e88141fcab8d14f0ca2f1f612a654a6") (:keywords "internal" "strings" "text") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/strings.el"))])

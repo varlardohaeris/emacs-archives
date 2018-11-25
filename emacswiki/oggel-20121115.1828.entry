@@ -1,0 +1,2 @@
+
+(oggel . [(20121115 1828) nil "OGG encoding for EmacsLisp" single ((:commit . "a2b8027cbc67804b79e7bb5cee3e2498da93ce53") (:keywords "ripping" "encoding" "ogg-vorbis") (:authors ("Mario Domgörgen" . "kanaldrache@gmx.de")) (:maintainer "Mario Domgörgen" . "kanaldrache@gmx.de"))])

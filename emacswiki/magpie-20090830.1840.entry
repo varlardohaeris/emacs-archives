@@ -1,0 +1,2 @@
+
+(magpie . [(20090830 1840) nil "acronym expansion and others." single ((:commit . "704a144683dff0deddcf307ee4db4bbd041fe28c") (:keywords "acronym" "expansion" "dabbrev" "hippie") (:maintainer "Aidan Schofield"))])

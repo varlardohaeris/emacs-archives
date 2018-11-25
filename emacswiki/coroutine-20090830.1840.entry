@@ -1,0 +1,2 @@
+
+(coroutine . [(20090830 1840) nil "Coroutines for Emacs Lisp" single ((:commit . "3c41c97f985803cab27ec490481298134b54b4ae") (:keywords "extensions") (:authors ("Michael Abraham Shulman" . "viritrilbia@users.sourceforge.net")) (:maintainer "Michael Abraham Shulman" . "viritrilbia@users.sourceforge.net"))])

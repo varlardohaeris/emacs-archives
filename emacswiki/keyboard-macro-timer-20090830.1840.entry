@@ -1,0 +1,2 @@
+
+(keyboard-macro-timer . [(20090830 1840) nil "Run last keyboard macro with a timer" single ((:commit . "bd7fe506418038730761befdce3e22444d9f9874") (:keywords "convenience" "keyboard macros" "timers") (:authors ("Mathias Dahl <[EMAIL PROTECTED]>")) (:maintainer "Mathias Dahl <[EMAIL PROTECTED]>"))])

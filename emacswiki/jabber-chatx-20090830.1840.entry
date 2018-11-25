@@ -1,0 +1,2 @@
+
+(jabber-chatx . [(20090830 1840) nil "Add the ability to remember and extract old messages" single ((:commit . "99af7be56e52ce8c92a3e3b7d8170e9717e8c7cd") (:keywords "extensions") (:authors ("Rodrigo Lazo <rlazo.paz AT gmail.com>")) (:maintainer "Rodrigo Lazo <rlazo.paz AT gmail.com>"))])

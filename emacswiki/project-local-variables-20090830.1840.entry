@@ -1,0 +1,2 @@
+
+(project-local-variables . [(20090830 1840) nil "Set project-local variables from a file." single ((:commit . "0df7107e167fd127166c8ccc3c567c61d0fae098") (:keywords "project" "convenience") (:authors ("Ryan Davis and Phil Hagelberg")) (:maintainer "Ryan Davis and Phil Hagelberg") (:url . "http://www.emacswiki.org/cgi-bin/wiki/ProjectLocalVariables"))])

@@ -1,0 +1,2 @@
+
+(highlight-cl . [(20091013 1639) nil "Highlighting `cl' functions." single ((:commit . "3da117626148edb380afb955d8d7ee3ab88094a0") (:keywords "faces") (:authors ("Taiki SUGAWARA" . "buzz.taiki@gmail.com")) (:maintainer "Taiki SUGAWARA" . "buzz.taiki@gmail.com") (:url . "http://www.emacswiki.org/emacs/highlight-cl.el"))])

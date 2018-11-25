@@ -1,0 +1,2 @@
+
+(browse-kill-ring+ . [(20180102 204) ((browse-kill-ring (0))) "Extensions to `browse-kill-ring.el'." single ((:commit . "2031d82aa64a22279549c21022eaf7d1ca0ca51d") (:keywords "convenience") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/browse-kill-ring%2b.el"))])

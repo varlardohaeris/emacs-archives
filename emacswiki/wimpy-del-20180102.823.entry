@@ -1,0 +1,2 @@
+
+(wimpy-del . [(20180102 823) nil "Require confirmation for large region deletion." single ((:commit . "8bc3ea4a5a3664116f62d3a460df1be67bcd15fe") (:keywords "region" "cut" "kill" "copy") (:authors (nil . "Bard Bloom, bard@theory.lcs.mit.edu, Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/wimpy-del.el"))])

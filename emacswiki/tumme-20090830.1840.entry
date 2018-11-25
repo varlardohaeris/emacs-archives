@@ -1,0 +1,2 @@
+
+(tumme . [(20090830 1840) nil "use dired to browse and manipulate your images" single ((:commit . "1885a8adca719aae13e83b17fd552ee507f669ab") (:keywords "images" "thumbnails" "dired") (:authors ("Mathias Dahl" . "mathias.rem0veth1s.dahl@gmail.com")) (:maintainer "Mathias Dahl") (:url . "http://www.emacswiki.org/cgi-bin/wiki/Tumme"))])

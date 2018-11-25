@@ -1,0 +1,2 @@
+
+(columnize . [(20090830 1840) nil "Formats a list of items into columns (pillars)" single ((:commit . "04abf9edf3e59b71a8ee194e0764398f9714c625") (:keywords "tools" "convenience" "formatting") (:authors ("Rick Bielawski" . "rbielaws@i1.net")) (:maintainer "Rick Bielawski" . "rbielaws@i1.net"))])

@@ -1,0 +1,2 @@
+
+(vnesting . [(20090830 1840) nil "Show form nesting with vertical bars" single ((:commit . "e26c4541cadabc390e6d93013c55d0f5bd2d3b3c") (:authors ("Marco Baringer" . "mb@bese.it")) (:maintainer "Marco Baringer" . "mb@bese.it"))])

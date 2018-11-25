@@ -1,0 +1,2 @@
+
+(emms-player-streaming-fix . [(20120711 1658) nil "mplayer url fix" single ((:commit . "59db0be7f966cf0ce9988a8cc0ae3ad9dc12011b") (:authors ("Alessandro Di Marco" . "dmr@c0nc3pt.com")) (:maintainer "Alessandro Di Marco" . "dmr@c0nc3pt.com"))])

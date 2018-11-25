@@ -1,0 +1,2 @@
+
+(ps2pdf . [(20090830 1840) nil "Convert Postscript to PDF" single ((:commit . "820f6b756b5e4564061bd220c2ed34d742ad8fcc") (:keywords "pdf" "ps" "postscript") (:authors ("Mathias Dahl" . "mathias.removethis.dahl@gmail.com")) (:maintainer "Mathias Dahl") (:url . "http://www.emacswiki.org/cgi-bin/wiki/PostScriptToPDF"))])

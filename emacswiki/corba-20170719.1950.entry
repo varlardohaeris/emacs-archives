@@ -1,0 +1,2 @@
+
+(corba . [(20170719 1950) nil "A Client Side CORBA Implementation for Emacs" single ((:commit . "7917c60004e9d5b4a2278059a7c7ebe668b31f7e") (:authors ("Lennart Staflin" . "lenst@lysator.liu.se")) (:maintainer "Lennart Staflin" . "lenst@lysator.liu.se"))])

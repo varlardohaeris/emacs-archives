@@ -1,0 +1,2 @@
+
+(alt-font-menu . [(20090830 1840) nil "alternative (auto generated) font menu for x" single ((:commit . "05f4477d6b1be828e21f7e6371ad262ef8ae8ecc") (:keywords "mouse" "convenience") (:authors ("kahlil (kal) hodgson" . "dorge@tpg.com.au")) (:maintainer "kahlil (kal) hodgson" . "dorge@tpg.com.au") (:url . "http://www.emacswiki.org/elisp/alt-font-menu.el"))])

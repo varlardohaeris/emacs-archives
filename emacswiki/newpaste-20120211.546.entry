@@ -1,0 +1,2 @@
+
+(newpaste . [(20120211 546) nil "Paste directly from Emacs to http://paste.lisp.org using Emacs `url' library" single ((:commit . "9de2b139ea6c7c71ac73f37c1ebad6c18b6e66bb") (:authors ("Max Mikhanosha" . "max@momoland.openchat.com")) (:maintainer "Max Mikhanosha" . "max@momoland.openchat.com"))])

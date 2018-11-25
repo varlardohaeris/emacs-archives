@@ -1,0 +1,2 @@
+
+(online-search . [(20111001 1933) nil "Online dictionary or intelligent api search engine for developers" single ((:commit . "3ad46f9df0bb32c1a831943eb4179cd03af99e62") (:keywords "search") (:authors ("Denny Zhang" . "markfilebat@126.com")) (:maintainer "Denny Zhang" . "markfilebat@126.com"))])

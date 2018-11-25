@@ -1,0 +1,2 @@
+
+(hl-line+ . [(20180102 547) nil "Extensions to hl-line.el." single ((:commit . "a9b79720c7611c194d42c924f07534f4659a2a4e") (:keywords "highlight" "cursor" "accessibility") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/hl-line%2b.el"))])

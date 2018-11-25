@@ -1,0 +1,2 @@
+
+(palette . [(20180102 720) ((hexrgb (0))) "Color palette useful with RGB, HSV, and color names" single ((:commit . "18da5b735e2e2711f6ae317c01d5953927ac8762") (:keywords "color" "rgb" "hsv" "hexadecimal" "face" "frame") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/palette.el"))])

@@ -1,0 +1,2 @@
+
+(date-calc . [(20090830 1840) nil "date calculation and parsing routines" single ((:commit . "76593b3628297d74020d05500e72a149c2db6bbf") (:keywords "rfc 2445" "ical" "calendar" "schedule") (:authors ("Doug Alcorn" . "doug@lathi.net")) (:maintainer "Doug Alcorn" . "doug@lathi.net"))])

@@ -1,0 +1,2 @@
+
+(rcirc-extension . [(20090830 1840) nil "The extensions that i collect." single ((:commit . "8277eb03c31558f9487643dacb3089b9363608ac") (:keywords "rcirc") (:authors ("Emacs Guys")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com"))])

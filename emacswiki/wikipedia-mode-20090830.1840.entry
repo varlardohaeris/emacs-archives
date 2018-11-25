@@ -1,0 +1,2 @@
+
+(wikipedia-mode . [(20090830 1840) nil "Mode for editing Wikipedia articles off-line" single ((:commit . "2bec7e4190025d1e29af9539099d53c2ab80ba98") (:keywords "wiki") (:authors ("Chong Yidong <cyd at stupidchicken com>")) (:maintainer "Uwe Brauer <oub at mat.ucm.es>"))])

@@ -1,0 +1,2 @@
+
+(auto-complete-verilog . [(20120128 436) nil "Auto-completion source for verilog" single ((:commit . "fe4769094f0c8b4f22ae5d7ae35139df8ea51c6d") (:authors ("Yen-Chin,Lee")) (:maintainer "Yen-Chin,Lee") (:url . "not distributed yet"))])

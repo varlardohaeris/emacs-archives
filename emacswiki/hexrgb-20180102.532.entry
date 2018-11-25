@@ -1,0 +1,2 @@
+
+(hexrgb . [(20180102 532) nil "Functions to manipulate colors, including RGB hex strings." single ((:commit . "90e5f07f14bdb9966648977965094c75072691d4") (:keywords "number" "hex" "rgb" "color" "background" "frames" "display") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/hexrgb.el"))])

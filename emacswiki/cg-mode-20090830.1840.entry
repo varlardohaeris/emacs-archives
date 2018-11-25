@@ -1,0 +1,2 @@
+
+(cg-mode . [(20090830 1840) nil "mode for editing cg programs" single ((:commit . "246c88de4b628d08cb4d40af5a697375af3facaf") (:keywords "cg" "languages") (:maintainer nil . "seanvbd@yahoo.com"))])

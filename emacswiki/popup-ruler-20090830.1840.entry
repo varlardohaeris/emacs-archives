@@ -1,0 +1,2 @@
+
+(popup-ruler . [(20090830 1840) nil "Displays a ruler at point." single ((:commit . "f03deb46a537edae9b8fb355aefcfe6c7172d570") (:keywords "tools" "convenience") (:authors ("Rick Bielawski" . "rbielaws@i1.net")) (:maintainer "Rick Bielawski" . "rbielaws@i1.net"))])

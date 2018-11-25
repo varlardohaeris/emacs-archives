@@ -1,0 +1,2 @@
+
+(cmds-menu . [(20180102 215) nil "`Recent Commands' submenu for the menu-bar `Tools' menu." single ((:commit . "9caf24c7d03a76227d7c2574831a88b0deddf197") (:keywords "convenience" "command" "menu") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/cmds-menu.el"))])

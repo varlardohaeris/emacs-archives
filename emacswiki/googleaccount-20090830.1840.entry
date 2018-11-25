@@ -1,0 +1,2 @@
+
+(googleaccount . [(20090830 1840) nil "Google Accounts login from Emacs" single ((:commit . "34a20dd728e8af8f55fcce2481bc41f1f83103e2") (:authors ("Riccardo Murri" . "riccardo.murri@gmail.com")) (:maintainer "Riccardo Murri" . "riccardo.murri@gmail.com") (:url . "http://www.emacswiki.org/cgi-bin/emacs/googleaccount.el"))])

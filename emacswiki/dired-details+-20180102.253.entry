@@ -1,0 +1,2 @@
+
+(dired-details+ . [(20180102 253) ((dired-details (0))) "Enhancements to library `dired-details+.el'." single ((:commit . "5df85e13d5d5294dc09f279c705ff7b2a784efe0") (:keywords "dired" "frames") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/dired-details%2b.el"))])

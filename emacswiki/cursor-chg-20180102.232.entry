@@ -1,0 +1,2 @@
+
+(cursor-chg . [(20180102 232) nil "Change cursor dynamically, depending on the context." single ((:commit . "5f4fd6d1b4ec7d5ac26d2936fc0bf67ae49f0d7f") (:keywords "cursor" "accessibility") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/cursor-chg.el"))])

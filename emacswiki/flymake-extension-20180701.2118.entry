@@ -1,0 +1,2 @@
+
+(flymake-extension . [(20180701 2118) nil "Some extension for flymake" single ((:commit . "61e7787ca13f01849397f68e863870803fe7b639") (:keywords "flymake") (:authors (nil . "Andy Stewart lazycat.manatee@gmail.com")) (:maintainer nil . "Andy Stewart lazycat.manatee@gmail.com"))])

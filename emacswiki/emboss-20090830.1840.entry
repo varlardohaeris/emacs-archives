@@ -1,0 +1,2 @@
+
+(emboss . [(20090830 1840) nil "Commands to browse and write emboss code" single ((:commit . "f8c14e372c6e6bc63c4e9fa769fd883fa902a41b") (:keywords "c" "convenience") (:authors (nil . "wenbinye@gmail.com")) (:maintainer nil . "wenbinye@gmail.com"))])

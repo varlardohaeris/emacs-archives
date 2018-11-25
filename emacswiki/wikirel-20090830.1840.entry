@@ -1,0 +1,2 @@
+
+(wikirel . [(20090830 1840) nil "Visit relevant pages on the Emacs Wiki" single ((:commit . "b0211e3bfe1184177d5dd987e08563655186e1c8") (:keywords "hypermedia") (:authors ("Aaron S. Hawley")) (:maintainer "Aaron S. Hawley") (:url . "http://www.emacswiki.org/elisp/wikirel.el"))])

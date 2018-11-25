@@ -1,0 +1,2 @@
+
+(calendar+ . [(20180102 206) nil "Calendar, diary and appointments stuff." single ((:commit . "c7e1d0cf3a2933a0a5fe15c76c3a6c29eb9825d9") (:keywords "calendar" "mouse" "local") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/calendar%2b.el"))])

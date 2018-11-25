@@ -1,0 +1,2 @@
+
+(speedbar-extension . [(20090830 1840) nil "Some extensions for speedbar" single ((:commit . "75651a34b7e2c081054ed208ec5bdb45fdd5013b") (:keywords "speedbar") (:authors ("Emacs Guys" . "emacser@freedom.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "not distributed yet"))])

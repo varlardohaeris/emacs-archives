@@ -1,0 +1,2 @@
+
+(buffer-ring . [(20131029 2348) nil "A torus for buffer navigation. A ring of buffers, and a ring of buffer rings." single ((:commit . "164897ee8a3e08901953e414b1cdcadeb4b1df49") (:authors (nil . "Mike Mattie codermattie@gmail.com")) (:maintainer nil . "Mike Mattie codermattie@gmail.com"))])

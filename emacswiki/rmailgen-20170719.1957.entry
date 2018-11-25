@@ -1,0 +1,2 @@
+
+(rmailgen . [(20170719 1957) nil "generates guesses for RMAIL output files and FCC files." single ((:commit . "73b950df6ab2078dc43201cf14c98e2bc42372e5") (:keywords "rmail" "extensions") (:authors ("Lawrence R. Dodd" . "dodd@roebling.poly.edu")) (:maintainer "Lawrence R. Dodd" . "dodd@roebling.poly.edu"))])

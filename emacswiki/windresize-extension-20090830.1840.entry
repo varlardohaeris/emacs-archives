@@ -1,0 +1,2 @@
+
+(windresize-extension . [(20090830 1840) nil "Some extension functions for `windresize.el'" single ((:commit . "6388a5665862c6c7b75116813049fe131401ec13") (:keywords "windresize") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/windresize-extension.el"))])
