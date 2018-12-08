@@ -1,0 +1,2 @@
+
+(isortify . [(20181205 1404) ((emacs (25)) (pythonic (0 1 0))) "(automatically) format python buffers using isort." single ((:commit . "5b79751aed815d151c13a8def8a487e786684e3a") (:authors ("Artem Malyshev" . "proofit404@gmail.com")) (:maintainer "Artem Malyshev" . "proofit404@gmail.com") (:url . "https://github.com/proofit404/isortify"))])

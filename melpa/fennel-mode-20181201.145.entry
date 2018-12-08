@@ -1,0 +1,2 @@
+
+(fennel-mode . [(20181201 145) nil "a major-mode for editing Fennel code" single ((:commit . "67707375b0f2bbbb56d8d17176b5442d376094ad") (:keywords "languages" "tools") (:authors ("Phil Hagelberg")) (:maintainer "Phil Hagelberg") (:url . "https://gitlab.com/technomancy/fennel-mode"))])

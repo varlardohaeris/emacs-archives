@@ -1,0 +1,2 @@
+
+(xresources-theme . [(20181127 1841) nil "Use your .Xresources as your emacs theme" single ((:commit . "a36912dd953921b4cec943a0b0c20d546a889947") (:keywords "xresources" "theme") (:authors ("Marten Lienen" . "marten.lienen@gmail.com")) (:maintainer "Marten Lienen" . "marten.lienen@gmail.com"))])

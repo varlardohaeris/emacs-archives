@@ -1,0 +1,2 @@
+
+(exwm-firefox-core . [(20181126 1720) ((emacs (24 4)) (exwm (0 16))) "Firefox hotkeys to functions" single ((:commit . "222a1cf527dfa378ab5778995902c36e61f5ad40") (:keywords "extensions") (:authors ("Sebastian Wålinder" . "s.walinder@gmail.com")) (:maintainer "Sebastian Wålinder" . "s.walinder@gmail.com") (:url . "https://github.com/walseb/exwm-firefox-core"))])

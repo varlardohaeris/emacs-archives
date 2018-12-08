@@ -84,6 +84,10 @@ the following standard keys with Control are supported:
  ;; 【Ctrl++】 'text-scale-increase
  ;; 【Ctrl+-】 'text-scale-decrease
 
+To disable both Control and Meta shortcut keys, add the following lines to you init.el before (require 'xah-fly-keys):
+(setq xah-fly-use-control-key nil)
+(setq xah-fly-use-meta-key nil)
+
 I highly recommend setting 【capslock】 to send 【Home】. So that it acts as `xah-fly-command-mode-activate'.
 see
 How to Make the CapsLock Key do Home Key

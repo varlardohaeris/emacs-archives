@@ -48,12 +48,14 @@
    `zz-add-zone', `zz-add-zone-and-coalesce',
    `zz-add-zone-and-unite', `zz-add-zones-from-highlighting',
    `zz-clone-and-coalesce-zones', `zz-clone-and-unite-zones',
-   `zz-clone-zones', `zz-coalesce-zones', `zz-delete-zone',
-   `zz-narrow', `zz-narrow-repeat', `zz-query-replace-zones' (Emacs
-   25+), `zz-query-replace-regexp-zones' (Emacs 25+),
-   `zz-select-region', `zz-select-region-repeat',
-   `zz-set-izones-var', `zz-set-zones-from-highlighting',
-   `zz-unite-zones'.
+   `zz-clone-zones', `zz-coalesce-zones', `zz-create-face-zones',
+   `zz-delete-zone', `zz-narrow', `zz-narrow-repeat',
+   `zz-query-replace-zones' (Emacs 25+),
+   `zz-query-replace-regexp-zones' (Emacs 25+), `zz-select-region',
+   `zz-select-region-by-id-and-text', `zz-select-region-repeat',
+   `zz-select-zone', `zz-select-zone-by-id-and-text',
+   `zz-select-zone-repeat', `zz-set-izones-var',
+   `zz-set-zones-from-highlighting', `zz-unite-zones'.
 
  User options defined here:
 
@@ -65,14 +67,16 @@
 
  Non-interactive functions defined here:
 
-   `zz-buffer-narrowed-p' (Emacs 22-23), `zz-buffer-of-markers',
-   `zz-car-<', `zz-dot-pairs', `zz-every',
+   `zz-add-key-bindings-to-narrow-map', `zz-buffer-narrowed-p'
+   (Emacs 22-23), `zz-buffer-of-markers', `zz-car-<',
+   `zz-do-izones', `zz-do-zones', `zz-dot-pairs', `zz-every',
    `zz-izone-has-other-buffer-marker-p', `zz-izone-limits',
-   `zz-izone-limits-in-bufs', `zz-izones',
-   `zz-izones-from-noncontiguous-region' (Emacs 25+),
-   `zz-izones-from-zones', `zz-izones-p', `zz-izones-renumber',
+   `zz-izone-limits-in-bufs', `zz-izones-from-noncontiguous-region'
+   (Emacs 25+), `zz-izones-from-zones', `zz-izone-p', `zz-izones-p',
+   `zz-izones-renumber', `zz-map-izones', `zz-map-zones',
    `zz-marker-from-object', `zz-markerize', `zz-max', `zz-min',
-   `zz-narrowing-lighter', `zz-noncontiguous-region-from-izones',
+   `zz-narrow-advice', `zz-narrowing-lighter',
+   `zz-noncontiguous-region-from-izones',
    `zz-noncontiguous-region-from-zones', `zz-number-or-marker-p',
    `zz-overlays-to-zones', `zz-overlay-to-zone',
    `zz-overlay-union', `zz-rassoc-delete-all',
@@ -83,18 +87,20 @@
    `zz-remove-zones-w-other-buffer-markers', `zz-repeat-command',
    `zz-set-intersection', `zz-set-union', `zz-some',
    `zz-string-match-p', `zz-two-zone-intersection',
-   `zz-two-zone-union', `zz-zone-buffer-name',
-   `zz-zone-has-other-buffer-marker-p', `zz-zone-intersection',
-   `zz-zone-intersection-1', `zz-zone-ordered',
-   `zz-zones-complement', `zz-zones-from-noncontiguous-region'
-   (Emacs 25+), `zz-zones-overlap-p',
-   `zz-zones-same-buffer-name-p', `zz-zones-to-overlays',
-   `zz-zone-to-overlay', `zz-zone-union', `zz-zone-union-1'.
+   `zz-two-zone-union', `zz-zone-abstract-function-default',
+   `zz-zone-buffer-name', `zz-zone-has-other-buffer-marker-p',
+   `zz-zone-intersection', `zz-zone-intersection-1',
+   `zz-zone-ordered', `zz-zones-complement',
+   `zz-zones-from-noncontiguous-region' (Emacs 25+),
+   `zz-zones-overlap-p', `zz-zones-same-buffer-name-p',
+   `zz-zones-to-overlays', `zz-zone-to-overlay', `zz-zone-union',
+   `zz-zone-union-1'.
 
  Internal variables defined here:
 
-   `zz-izones', `zz-izones-var', `zz-lighter-narrowing-part',
-   `zz-add-zone-anyway-p'.
+   `zz--fringe-remapping', `zz-izones', `zz-izones-var',
+   `zz-lighter-narrowing-part', `zz-zone-abstract-function',
+   `zz-zone-abstract-limit', `zz-add-zone-anyway-p'.
 
  Macros defined here:
 
@@ -137,19 +143,23 @@
  A "basic zone" is a list of two buffer positions followed by a
  possibly empty list of extra information: (POS1 POS2 . EXTRA).
 
- An "izone" is a list whose first element is an identifier that is
- is a natural number (1, 2, 3,...)  and whose cdr is a basic zone:
- (ID POS1 POS2 . EXTRA).
+ An "izone" is a list whose first element is an identifier, ID,
+ which is a negative integer (-1, -2, -3,...), and whose cdr is a
+ basic zone.  So an izone has the form (ID POS1 POS2 . EXTRA).
 
- The positions of a zone can be natural numbers (1, 2, 3,...),
+ The ID is negative just to distinguish a basic zone whose EXTRA
+ list starts with an integer from an izone.  Interactively (e.g. in
+ prompts), references to the ID typically leave off the minus sign.
+
+ The positions of a zone can be positive integers (1, 2, 3,...),
  markers for the same buffer, or readable markers for the same
- buffer.  (Behavior is undefined if a zone has markers for
+ buffer.  (Behavior is undefined if a single zone has markers for
  different buffers.)  Each position of a given zone can take any of
  these forms.
 
  A "readable marker" is a list (marker BUFFER POSITION), where
  BUFFER is a buffer name (string) and where POSITION is a buffer
- position (number only).
+ position (as an integer, not as a marker).
 
  The content of a zone is any contiguous stretch of buffer text.
  The positions of a zone can be in either numeric order.  The
@@ -280,7 +290,7 @@
    them in any order, and using completion against BEG-END range
    names.
 
- * Select any of them as the active region.  Cycle among regions.
+ * Select any of them as the active region.  Cycle among them.
 
  * Search them (they are automatically coalesced first).  For this
    you need library `isearch-prop.el'.
@@ -298,8 +308,8 @@
 
  * Add the active region to a list of zones.
 
- * Add the region to a list of zones, and then unite (coalesce) the
-   zones.
+ * Add the active region to a list of zones, and then unite
+   (coalesce) the zones.
 
  * Delete an izone from a list of zones.
 
@@ -345,10 +355,10 @@
 
   prefix arg         buffer-local   set `zz-izones-var'
   ----------         ------------   -------------------
-   Plain `C-u'        yes            yes
-   > 0 (e.g. `C-1')   yes            no
-   = 0 (e.g. `C-0')   no             yes
-   < 0 (e.g. `C--')   no             no
+  Plain `C-u'        yes            yes
+  > 0 (e.g. `C-1')   yes            no
+  = 0 (e.g. `C-0')   no             yes
+  < 0 (e.g. `C--')   no             no
 
  For example, `C-u C-x n a' (`zz-add-zone') prompts you for a
  different variable to use, in place of the current value of
@@ -369,10 +379,11 @@
  ** Keys **
 
  Many of the commands that manipulate izones are bound on keymap
- `narrow-map'.  They are available on prefix key `C-x n', along
- with the narrowing/widening keys `C-x n d', `C-x n n', `C-x n p',
- and `C-x n w'.  (If you use Emacs 22 then there is no
- `narrow-map', so the same keys are bound on keymap `ctl-x-map'.)
+ `narrow-map'.  So they are available on prefix key `C-x n' (by
+ default), along with the narrowing/widening keys `C-x n d', `C-x n
+ n', `C-x n p', and `C-x n w'.  (If you use Emacs 22 then there is
+ no `narrow-map', so the same `n ...' keys are bound on keymap
+ `ctl-x-map'.)
 
  If you have already bound one of these keys then `zones.el' does
  not rebind that key; your bindings are respected.
@@ -389,7 +400,7 @@
  C-x n L   `zz-set-zones-from-highlighting' - Set to highlighted
  C-x n n   `narrow-to-region'
  C-x n p   `narrow-to-page'
- C-x n r   `zz-select-region-repeat' - Cycle as active regions
+ C-x n r   `zz-select-zone-repeat' - Cycle as active regions
  C-x n u   `zz-unite-zones' - Unite (coalesce) izones
  C-x n v   `zz-set-izones-var' - Set `zz-izones-var' to a variable
  C-x n w   `widen'
@@ -400,10 +411,10 @@
  ** Command `zz-narrow-repeat' **
 
  Library `zones.el' modifies commands `narrow-to-region',
- `narrow-to-defun', and `narrow-to-page' (`C-x n n', `C-x n d',
- and `C-x n p') so that the current buffer restriction
- (narrowing) is added to the izone list the current buffer (by
- default, buffer-local variable `zz-izones').
+ `narrow-to-defun', and `narrow-to-page' (`C-x n n', `C-x n d', and
+ `C-x n p') so that the current buffer restriction (narrowing) is
+ added to the izone list of the current buffer (by default,
+ buffer-local variable `zz-izones').
 
  You can then use `C-x n x' to cycle among previous buffer
  narrowings.  Repeating `x' repeats the action: `C-x n x x x x'
@@ -441,11 +452,10 @@
  `-NUM' part uses `zz-narrow-repeat' to cycle to the next
  narrowing.
 
- If option `zz-narrowing-use-fringe-flag' is non-nil, which it is
- by default, then the face of the selected frame's fringe is set to
- `zz-fringe-for-narrowing' whenever the buffer is narrowed.  This
- shows you that the current buffer is narrowed even if the
- mode-line does not.
+ If option `zz-narrowing-use-fringe-flag' is non-nil then the face
+ of the selected frame's fringe is set to `zz-fringe-for-narrowing'
+ whenever the buffer is narrowed.  This shows you that the current
+ buffer is narrowed even if the mode-line does not.
 
 
 (@* "Define Your Own Commands")
@@ -460,7 +470,8 @@
  You can define your own commands that iterate over a list of
  izones in a given buffer, or over such lists in a set of buffers.
  Utility functions `zz-izone-limits', `zz-izone-limits-in-bufs',
- and `zz-read-bufs' can help with this.
+ and `zz-read-bufs', `zz-do-zones', `zz-do-izones', `zz-map-zones',
+ and `zz-map-izones' can help with this.
 
  As examples of such commands, if you use library `highlight.el'
  then you can use `C-x n h' (command `hlt-highlight-regions') to
@@ -468,16 +479,16 @@
  `C-x n H' (command `hlt-highlight-regions-in-buffers') to do the
  same across a set of buffers that you specify (or across all
  visible buffers).  If option `hlt-auto-faces-flag' is non-nil then
- each region gets a different face.  Otherwise, all of the regions
- are highlighted with the same face.  Complementary (unbound)
- commands `hlt-unhighlight-regions' and
- `hlt-unhighlight-regions-in-buffers' unhighlight.
+ each zone gets a different face.  Otherwise, all of the zones are
+ highlighted with the same face.  Complementary (unbound) commands
+ `hlt-unhighlight-regions' and `hlt-unhighlight-regions-in-buffers'
+ unhighlight.
 
  Defining your own command can be simple or somewhat complex,
  depending on how the region is used in the code for the
  corresponding region-action Emacs command.  The definition of
  `hlt-highlight-regions' just calls existing function
- `hlt-highlight-region' once for each recorded region:
+ `hlt-highlight-region' once for each recorded zone:
 
 (defun hlt-highlight-regions (&optional regions face msgp mousep
                                         buffers)
@@ -488,6 +499,6 @@
                           face msgp mousep buffers)))
 
  That's it - just iterate over `zz-izones' with a function that
- takes the region as an argument.  What `zones.el' offers in this
+ takes a zone as an argument.  What `zones.el' offers in this
  regard is a way to easily define a set of buffer zones.
 

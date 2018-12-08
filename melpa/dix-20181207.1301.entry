@@ -1,0 +1,2 @@
+
+(dix . [(20181207 1301) ((cl-lib (0 5))) "minor mode for editing Apertium XML dictionary files" tar ((:commit . "5fdf64701e9f7b9a0799416fd42e9b9c28c99f41") (:keywords "languages") (:authors ("Kevin Brubeck Unhammer" . "unhammer@fsfe.org")) (:maintainer "Kevin Brubeck Unhammer" . "unhammer@fsfe.org") (:url . "http://wiki.apertium.org/wiki/Emacs"))])

@@ -47,15 +47,16 @@
 
    `zz-add-zone', `zz-add-zone-and-coalesce',
    `zz-add-zone-and-unite', `zz-add-zones-from-highlighting',
-   `zz-clone-and-coalesce-zones', `zz-clone-and-unite-zones',
-   `zz-clone-zones', `zz-coalesce-zones', `zz-create-face-zones',
-   `zz-delete-zone', `zz-narrow', `zz-narrow-repeat',
-   `zz-query-replace-zones' (Emacs 25+),
+   `zz-add-zones-matching-regexp', `zz-clone-and-coalesce-zones',
+   `zz-clone-and-unite-zones', `zz-clone-zones',
+   `zz-coalesce-zones', `zz-delete-zone', `zz-narrow',
+   `zz-narrow-repeat', `zz-query-replace-zones' (Emacs 25+),
    `zz-query-replace-regexp-zones' (Emacs 25+), `zz-select-region',
    `zz-select-region-by-id-and-text', `zz-select-region-repeat',
    `zz-select-zone', `zz-select-zone-by-id-and-text',
    `zz-select-zone-repeat', `zz-set-izones-var',
-   `zz-set-zones-from-highlighting', `zz-unite-zones'.
+   `zz-set-zones-from-face', `zz-set-zones-from-highlighting',
+   `zz-set-zones-matching-regexp', `zz-unite-zones'.
 
  User options defined here:
 
@@ -98,9 +99,10 @@
 
  Internal variables defined here:
 
-   `zz--fringe-remapping', `zz-izones', `zz-izones-var',
-   `zz-lighter-narrowing-part', `zz-zone-abstract-function',
-   `zz-zone-abstract-limit', `zz-add-zone-anyway-p'.
+   `zz--fringe-remapping', `zz-add-zone-anyway-p', `zz-izones',
+   `zz-izones-var', `zz-lighter-narrowing-part',
+   `zz-zone-abstract-function', `zz-zone-abstract-limit',
+   `zz-toggles-map'.
 
  Macros defined here:
 
@@ -388,23 +390,27 @@
  If you have already bound one of these keys then `zones.el' does
  not rebind that key; your bindings are respected.
 
- C-x n a   `zz-add-zone' - Add to current izones variable
- C-x n A   `zz-add-zone-and-unite' - Add izone, then unite izones
+ C-x n #   `zz-select-zone-by-id-and-text' - Select zone as region
+ C-x n a   `zz-add-zone' - Add to current izones set (variable)
+ C-x n A   `zz-add-zone-and-unite' - Add zone, then unite zones
  C-x n c   `zz-clone-zones' - Clone zones from one var to another
  C-x n C   `zz-clone-and-unite-zones' - Clone then unite zones
  C-x n d   `narrow-to-defun'
  C-x n C-d `zz-delete-zone' - Delete an izone from current var
- C-x n h   `hlt-highlight-regions' - Highlight izones
+ C-x n f   `zz-set-zones-from-face' - Set zone set to face areas
+ C-x n h   `hlt-highlight-regions' - Ad hoc zone highlighting
  C-x n H   `hlt-highlight-regions-in-buffers' - in multiple buffers
- C-x n l   `zz-add-zones-from-highlighting' - Add highlighted areas
+ C-x n l   `zz-add-zones-from-highlighting' - Add from highlighted
  C-x n L   `zz-set-zones-from-highlighting' - Set to highlighted
  C-x n n   `narrow-to-region'
  C-x n p   `narrow-to-page'
- C-x n r   `zz-select-zone-repeat' - Cycle as active regions
- C-x n u   `zz-unite-zones' - Unite (coalesce) izones
- C-x n v   `zz-set-izones-var' - Set `zz-izones-var' to a variable
+ C-x n r   `zz-add-zones-matching-regexp' - Add regexp-match zones
+ C-x n R   `zz-set-zones-matching-regexp' - Set zone set to matches
+ C-x n u   `zz-unite-zones' - Unite (coalesce) zones
+ C-x n v   `zz-set-izones-var' - Set current zones-set variable
  C-x n w   `widen'
- C-x n x   `zz-narrow-repeat' - Cycle as buffer narrowings
+ C-x n x   `zz-narrow-repeat' - Cycle zones as buffer narrowing
+ C-x n C-x `zz-select-zone-repeat' - Cycle zones as active region
 
 
 (@* "Command `zz-narrow-repeat'")

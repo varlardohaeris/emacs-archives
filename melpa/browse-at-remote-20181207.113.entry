@@ -1,0 +1,2 @@
+
+(browse-at-remote . [(20181207 113) ((f (0 17 2)) (s (1 9 0)) (cl-lib (0 5))) "Open github/gitlab/bitbucket/stash page from Emacs" single ((:commit . "08e1b92096cec38f700b8c069620fe301db68b19") (:keywords "github" "gitlab" "bitbucket" "convenience") (:authors ("Rustem Muslimov" . "r.muslimov@gmail.com")) (:maintainer "Rustem Muslimov" . "r.muslimov@gmail.com"))])

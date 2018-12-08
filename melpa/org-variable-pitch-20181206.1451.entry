@@ -1,0 +1,2 @@
+
+(org-variable-pitch . [(20181206 1451) ((emacs (25))) "Minor mode for variable pitch text in org mode." single ((:commit . "b41b899da9dec75cbf9f5fe8858d12c271391073") (:keywords "faces") (:authors ("Göktuğ Kayaalp" . "self@gkayaalp.com")) (:maintainer "Göktuğ Kayaalp" . "self@gkayaalp.com") (:url . "https://cadadr.github.io/elisp/index.html#ovp"))])

@@ -2,7 +2,7 @@ This package is a fork of rust-mode.
 
 Differences with rust-mode:
 
-- compilation popup
+- cargo popup
 - multiline error parsing
 - translation of ANSI control sequences through xterm-color
 - async org babel
