@@ -1,0 +1,2 @@
+
+(kiwix . [(0 4 0) ((emacs (24 3)) (cl-lib (2 0))) "Kiwix interface and support." tar ((:commit . "b84a5ff33efdf13dda22ed32ea37a09b15cd1690") (:keywords "kiwix" "wikipedia") (:authors ("stardiviner" . "numbchild@gmail.com")) (:maintainer "stardiviner" . "numbchild@gmail.com") (:url . "https://github.com/stardiviner/kiwix.el"))])

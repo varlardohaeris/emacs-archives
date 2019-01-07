@@ -1,0 +1,2 @@
+
+(info-colors . [(0 2) ((emacs (24))) "Extra colors for Info-mode" single ((:commit . "13dd9b6a7288e6bb692b210bcb9cd72016658dae") (:keywords "faces") (:authors ("Tuấn-Anh Nguyễn" . "ubolonton@gmail.com")) (:maintainer "Tuấn-Anh Nguyễn" . "ubolonton@gmail.com") (:url . "https://github.com/ubolonton/info-colors"))])

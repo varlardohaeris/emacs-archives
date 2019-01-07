@@ -1,0 +1,2 @@
+
+(ghub . [(3 2 0) ((emacs (25 1)) (dash (2 14 1)) (graphql (0 1 1)) (let-alist (1 0 5)) (treepy (0 1 1))) "Minuscule client libraries for Git forge APIs." tar ((:commit . "b04c7d9a3318316ef67a5d360582d990dc9f6098"))])

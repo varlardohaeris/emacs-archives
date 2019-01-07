@@ -1,0 +1,2 @@
+
+(whizzml-mode . [(0 3 0) ((emacs (24 4))) "Programming mode for editing WhizzML files" tar ((:commit . "eca56d0fd51c5f41ef3e84e363f66d717ea5b160") (:keywords "languages" "lisp") (:authors ("Jose Antonio Ortega Ruiz" . "jao@bigml.com")) (:maintainer "Jose Antonio Ortega Ruiz" . "jao@bigml.com"))])

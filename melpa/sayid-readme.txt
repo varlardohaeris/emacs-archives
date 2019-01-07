@@ -1,5 +1,5 @@
-Sayid is a debugger for clojure.  This package, sayid.el, is a client
-for the sayid nrepl middleware.
+Sayid is a debugger for Clojure.  This package, sayid.el, is a client
+for the sayid nREPL middleware.
 
 To enable, use something like this:
 

@@ -3,5 +3,12 @@ below their location in the buffer.
 
 # Setup
 
+Enable the global minor mode after Flycheck:
+
 (with-eval-after-load 'flycheck
-  (flycheck-inline-mode))
+  (global-flycheck-inline-mode))
+
+Or enable the local minor mode for all flycheck-mode buffers:
+
+(with-eval-after-load 'flycheck
+  (add-hook 'flycheck-mode-hook #'turn-on-flycheck-inline))

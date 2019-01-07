@@ -1,0 +1,2 @@
+
+(better-shell . [(1 2) ((emacs (24 4))) "Better shell management" single ((:commit . "f231404b6f8efce33b48e31e5b1566108d0ba000") (:keywords "convenience") (:authors ("Russell Black" . "killdash9@github")) (:maintainer "Russell Black" . "killdash9@github") (:url . "https://github.com/killdash9/better-shell"))])

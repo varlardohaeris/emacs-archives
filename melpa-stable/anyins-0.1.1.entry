@@ -1,0 +1,2 @@
+
+(anyins . [(0 1 1) nil "Insert content at multiple places from shell command or kill-ring" single ((:commit . "1ff4673ca197c9bf64c65f718573bf7d478fc562") (:keywords "insert" "rectangular") (:authors ("Anthony HAMON" . "hamon.anth@gmail.com")) (:maintainer "Anthony HAMON" . "hamon.anth@gmail.com") (:url . "http://github.com/antham/anyins"))])

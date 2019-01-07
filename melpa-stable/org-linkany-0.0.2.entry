@@ -1,0 +1,2 @@
+
+(org-linkany . [(0 0 2) ((log4e (0 2 0)) (yaxception (0 1))) "Insert link using anything.el/helm.el on org-mode" single ((:commit . "ed4a6614b56c9baef31647ea728b3d5fae6ed3a2") (:keywords "org" "completion") (:authors ("Hiroaki Otsu" . "ootsuhiroaki@gmail.com")) (:maintainer "Hiroaki Otsu" . "ootsuhiroaki@gmail.com") (:url . "https://github.com/aki2o/org-linkany"))])

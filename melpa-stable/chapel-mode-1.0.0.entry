@@ -1,0 +1,2 @@
+
+(chapel-mode . [(1 0 0) nil "a CC Mode for Chapel derived from derived-mode-ex.el" single ((:commit . "936a76a26bdc4f9570c4d54369f74bcd1cb0a698") (:keywords "chapel" "languages" "oop") (:authors ("Steven T Balensiefer")) (:maintainer "Russel Winder" . "russel@winder.org.uk"))])

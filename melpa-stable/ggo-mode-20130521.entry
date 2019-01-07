@@ -1,0 +1,2 @@
+
+(ggo-mode . [(20130521) nil "Gengetopt major mode" single ((:commit . "ea5097f87072309c7b77204888d459d084bf630f") (:keywords "extensions" "convenience" "local") (:authors ("Matthew K. Junker" . "junker@alum.mit.edu")) (:maintainer "Matthew K. Junker" . "junker@alum.mit.edu"))])

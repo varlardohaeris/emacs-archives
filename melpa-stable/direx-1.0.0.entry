@@ -1,0 +1,2 @@
+
+(direx . [(1 0 0) nil "Simple Directory Explorer" tar ((:commit . "423caeed13249e37afc937dc8134cb3c53e0f111") (:keywords "convenience") (:authors ("Tomohiro Matsuyama" . "m2ym.pub@gmail.com")) (:maintainer "Tomohiro Matsuyama" . "m2ym.pub@gmail.com"))])

@@ -1,0 +1,2 @@
+
+(quiz . [(1 4) ((cl-lib (0 5)) (emacs (25))) "Multiple choice quiz game" single ((:commit . "69629937eaf994a51dad39c26355e1a56b9dcb95") (:keywords "games" "trivia" "quiz") (:authors ("Dave Pearson" . "davep@davep.org")) (:maintainer "Dave Pearson" . "davep@davep.org") (:url . "https://github.com/davep/quiz.el"))])

@@ -1,0 +1,2 @@
+
+(chinese-word-at-point . [(0 2 3) ((cl-lib (0 5))) "Add `chinese-word' thing to `thing-at-point'" single ((:commit . "36a03cce32fe059d2b581cb2e029715c0be81074") (:keywords "convenience" "chinese") (:authors ("Chunyang Xu" . "xuchunyang56@gmail.com")) (:maintainer "Chunyang Xu" . "xuchunyang56@gmail.com") (:url . "https://github.com/xuchunyang/chinese-word-at-point.el"))])

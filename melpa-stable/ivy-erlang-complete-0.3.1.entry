@@ -1,0 +1,2 @@
+
+(ivy-erlang-complete . [(0 3 1) ((async (1 9)) (counsel (0 8 0)) (ivy (0 8 0)) (erlang (19 2)) (emacs (24 4))) "Erlang context sensitive completion at point using ivy. It also support xref and eldoc." tar ((:commit . "62e2b14ff25b0c143c882cb38d029b216acc3dd6"))])

@@ -1,0 +1,2 @@
+
+(macro-math . [(1 0) nil "in-buffer mathematical operations" single ((:commit . "105e03c80290d1b88984b2d265a149a13d722920") (:keywords "convenience") (:authors ("Nikolaj Schumacher <bugs * nschum de>")) (:maintainer "Nikolaj Schumacher <bugs * nschum de>") (:url . "http://nschum.de/src/emacs/macro-math/"))])

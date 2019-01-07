@@ -1,0 +1,2 @@
+
+(test-kitchen . [(0 3 0) nil "Run test-kitchen inside of emacs" single ((:commit . "ddbcb964ac4700973eaf30ae366f086e3319e51f") (:keywords "chef" "ruby" "test-kitchen") (:authors ("JJ Asghar")) (:maintainer "JJ Asghar") (:url . "http://github.com/jjasghar/test-kitchen-el"))])

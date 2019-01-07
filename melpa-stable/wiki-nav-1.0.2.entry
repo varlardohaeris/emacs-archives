@@ -1,0 +1,2 @@
+
+(wiki-nav . [(1 0 2) ((button-lock (1 0 2)) (nav-flash (1 0 0))) "Simple file navigation using [[WikiStrings]]" single ((:commit . "cd0bf4a3c2f224d851e6ed8a54a6e80c129b225f") (:keywords "mouse" "button" "hypermedia" "navigation") (:authors ("Roland Walker" . "walker@pobox.com")) (:maintainer "Roland Walker" . "walker@pobox.com") (:url . "http://github.com/rolandwalker/button-lock"))])

@@ -1,0 +1,2 @@
+
+(platformio-mode . [(0 2 2) ((projectile (0 13 0))) "PlatformIO integration" single ((:commit . "470a80c1d764a6e1680a2b41ca5a847869a07a27") (:authors ("Zach Massia" . "zmassia@gmail.com")) (:maintainer "Zach Massia" . "zmassia@gmail.com") (:url . "https://github.com/zachmassia/platformio-mode"))])

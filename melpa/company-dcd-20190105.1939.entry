@@ -1,0 +1,2 @@
+
+(company-dcd . [(20190105 1939) ((company (0 9)) (flycheck-dmd-dub (0 7)) (yasnippet (0 8)) (popwin (0 7)) (cl-lib (0 5)) (ivy (20160804 326))) "Company backend for Dlang using DCD." single ((:commit . "354b0457f57ad7162ada290b02da4010041c3785") (:keywords "languages") (:authors ("tsukimizake <shomasd_at_gmail.com>")) (:maintainer "tsukimizake <shomasd_at_gmail.com>") (:url . "http://github.com/tsukimizake/company-dcd"))])

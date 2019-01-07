@@ -1,0 +1,2 @@
+
+(tickscript-mode . [(0 4 1) ((emacs (24 1))) "A major mode for Tickscript files" single ((:commit . "6e7564593d7735acc9f3fa670ec6512991cb73a1") (:keywords "languages") (:authors ("Marc Sherry" . "msherry@gmail.com")) (:maintainer "Marc Sherry" . "msherry@gmail.com") (:url . "https://github.com/msherry/tickscript-mode"))])

@@ -1,0 +1,2 @@
+
+(robots-txt-mode . [(0 0 3) nil "Major mode for editing robots.txt" single ((:commit . "431efda01e08426d671d51fcf1f98cfbc87f8c16") (:keywords "languages" "comm" "web") (:authors ("USAMI Kenta" . "tadsan@zonu.me")) (:maintainer "USAMI Kenta" . "tadsan@zonu.me") (:url . "https://github.com/emacs-php/robots-txt-mode"))])

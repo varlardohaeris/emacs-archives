@@ -1,0 +1,2 @@
+
+(browse-url-dwim . [(0 6 8) ((string-utils (0 3 2))) "Context-sensitive external browse URL or Internet search" single ((:commit . "11f1c53126619c7ef1bb5f5d6914ce0b3cce0e30") (:keywords "hypermedia") (:authors ("Roland Walker" . "walker@pobox.com")) (:maintainer "Roland Walker" . "walker@pobox.com") (:url . "http://github.com/rolandwalker/browse-url-dwim"))])

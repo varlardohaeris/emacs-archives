@@ -1,0 +1,2 @@
+
+(osx-trash . [(0 2) ((emacs (24 1))) "System trash for OS X" tar ((:commit . "529619b84d21e18a38ec5255eb40f6b8ede38b2a") (:keywords "files" "convenience" "tools" "unix") (:authors ("Sebastian Wiesner" . "swiesner@lunaryorn.com")) (:maintainer "Sebastian Wiesner" . "swiesner@lunaryorn.com") (:url . "https://github.com/lunaryorn/osx-trash.el"))])

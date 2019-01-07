@@ -1,0 +1,2 @@
+
+(find-by-pinyin-dired . [(0 0 3) ((pinyinlib (0 1 0))) "Find file by first PinYin character of Chinese Hanzi" single ((:commit . "2c48434637bd63840fca4d2c6cf9ebd5dd44658f") (:keywords "hanzi" "chinese" "dired" "find" "file" "pinyin") (:authors ("Chen Bin" . "chenbin.sh@gmail.com")) (:maintainer "Chen Bin" . "chenbin.sh@gmail.com") (:url . "http://github.com/redguardtoo/find-by-pinyin-dired"))])

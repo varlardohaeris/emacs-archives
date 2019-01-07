@@ -1,0 +1,2 @@
+
+(sos . [(0 1) ((org (7))) "StackOverflow Search" single ((:commit . "c3906ca6872f460c0bdd276410519308626313f1") (:keywords "tools" "search" "questions") (:authors ("Rudolf Olah")) (:maintainer "Rudolf Olah") (:url . "https://github.com/omouse/emacs-sos"))])

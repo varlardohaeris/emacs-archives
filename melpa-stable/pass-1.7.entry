@@ -1,0 +1,2 @@
+
+(pass . [(1 7) ((emacs (24)) (password-store (0 1)) (f (0 17))) "Major mode for password-store.el" single ((:commit . "2ccf4f68fa4d2aab7efbdc26ebdc45ac1ef1819c") (:keywords "password-store" "password" "keychain") (:authors ("Nicolas Petton" . "petton.nicolas@gmail.com") ("Damien Cassou" . "damien@cassou.me")) (:maintainer "Nicolas Petton" . "petton.nicolas@gmail.com"))])

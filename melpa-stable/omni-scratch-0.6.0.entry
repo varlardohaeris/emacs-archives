@@ -1,0 +1,2 @@
+
+(omni-scratch . [(0 6 0) nil "Easy and mode-specific draft buffers" single ((:commit . "636374c59c7d33c2f72c97ad8ba9fb4854f2324d") (:keywords "convenience" "languages" "tools") (:authors ("Adrien Becchis" . "adriean.khisbe@live.fr")) (:maintainer "Adrien Becchis" . "adriean.khisbe@live.fr") (:url . "https://github.com/AdrieanKhisbe/omni-scratch.el"))])

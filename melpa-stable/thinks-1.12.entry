@@ -1,0 +1,2 @@
+
+(thinks . [(1 12) ((cl-lib (0 5))) "Insert text in a think bubble." single ((:commit . "7bdc418ff946d0cc9ea4cc73d38b3c71ffaa838d") (:keywords "convenience" "quoting") (:authors ("Dave Pearson" . "davep@davep.org")) (:maintainer "Dave Pearson" . "davep@davep.org") (:url . "https://github.com/davep/thinks.el"))])

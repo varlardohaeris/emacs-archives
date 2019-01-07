@@ -1,0 +1,2 @@
+
+(gmpl-mode . [(0 1 0) nil "Major mode for editing GMPL(MathProg) files" single ((:commit . "25d20f9d24594e85cb6f80d35d7c73b7e82cbc71") (:keywords "extensions") (:authors ("Junpeng Qiu" . "qjpchmail@gmail.com")) (:maintainer "Junpeng Qiu" . "qjpchmail@gmail.com"))])

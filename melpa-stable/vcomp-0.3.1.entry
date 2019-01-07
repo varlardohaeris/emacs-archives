@@ -1,0 +1,2 @@
+
+(vcomp . [(0 3 1) nil "compare version strings" single ((:commit . "a12363c3a66576b68955abcadf7280de32eaa051") (:keywords "versions") (:authors ("Jonas Bernoulli" . "jonas@bernoul.li")) (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li") (:url . "https://github.com/tarsius/vcomp"))])

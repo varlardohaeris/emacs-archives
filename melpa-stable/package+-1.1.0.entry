@@ -1,0 +1,2 @@
+
+(package+ . [(1 1 0) nil "Extensions for the package library." single ((:commit . "4a9618a44ec4f26a14e0136cd9d3c4855fceb25b") (:keywords "extensions" "tools") (:authors ("Ryan Davis" . "ryand-ruby@zenspider.com")) (:maintainer "Ryan Davis" . "ryand-ruby@zenspider.com") (:url . "TBA"))])

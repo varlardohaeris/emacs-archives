@@ -1,0 +1,2 @@
+
+(redprl . [(0 1 0) ((emacs (24 3))) "Major mode for editing RedPRL proofs and interacting with RedPRL" single ((:commit . "d06d39486348a74981b2c4c4c2ed3af95b01d5ca") (:keywords "languages") (:authors ("Jonathan Sterling" . "jon@jonmsterling.com")) (:maintainer "Jonathan Sterling" . "jon@jonmsterling.com"))])

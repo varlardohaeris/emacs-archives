@@ -1,0 +1,2 @@
+
+(org-board . [(1018) nil "bookmarking and web archival system for Org mode." single ((:commit . "405bfd630f1b31bd77158bc8e79aab86812cba65") (:keywords "org" "bookmarks" "archives") (:authors ("Charles A. Roelli " . "charles@aurox.ch")) (:maintainer "Charles A. Roelli " . "charles@aurox.ch") (:url . "https://github.com/scallywag/org-board"))])

@@ -1,0 +1,2 @@
+
+(boxquote . [(2 1) ((cl-lib (0 5))) "Quote text with a semi-box." single ((:commit . "b6a4ad3ee5b327bd3b1bf65f8733bd301fe59883") (:keywords "quoting") (:authors ("Dave Pearson" . "davep@davep.org")) (:maintainer "Dave Pearson" . "davep@davep.org") (:url . "https://github.com/davep/boxquote.el"))])

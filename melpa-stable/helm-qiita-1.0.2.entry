@@ -1,0 +1,2 @@
+
+(helm-qiita . [(1 0 2) ((helm (2 8 2))) "Qiita with helm interface" single ((:commit . "1eb97a44ba6fbfe61a0735b0c62171ee5217eda1") (:authors ("Takashi Masuda" . "masutaka.net@gmail.com")) (:maintainer "Takashi Masuda" . "masutaka.net@gmail.com") (:url . "https://github.com/masutaka/emacs-helm-qiita"))])

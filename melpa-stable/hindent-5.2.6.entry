@@ -1,0 +1,2 @@
+
+(hindent . [(5 2 6) ((cl-lib (0 5))) "Indent haskell code using the \"hindent\" program" single ((:commit . "9a58b74e99dc6c00f72168d1cb87e99a25f21e97") (:authors ("Chris Done" . "chrisdone@gmail.com")) (:maintainer "Chris Done" . "chrisdone@gmail.com") (:url . "https://github.com/chrisdone/hindent"))])

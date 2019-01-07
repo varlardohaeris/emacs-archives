@@ -1,0 +1,2 @@
+
+(ido-grid-mode . [(1 1 5) ((emacs (24 4))) "Display ido-prospects in the minibuffer in a grid." single ((:commit . "8bbd66e365d4f6f352bbb17673be5869ab26d7ab") (:keywords "convenience") (:authors ("Tom Hinton")) (:maintainer "Tom Hinton" . "t@larkery.com") (:url . "https://github.com/larkery/ido-grid-mode.el"))])

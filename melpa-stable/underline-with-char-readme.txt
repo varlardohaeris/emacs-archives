@@ -118,5 +118,3 @@ XXXX
 Worthy to be underlined
 XXXXXXXXXXXXXXXXXXXXXXX<!>
 #+end_src
-
-

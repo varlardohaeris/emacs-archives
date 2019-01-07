@@ -1,0 +1,2 @@
+
+(fireplace . [(1 1 2) nil "A cozy fireplace for emacs" single ((:commit . "2b966ed65b714c613f79e9144d004dfa3b28f1ed") (:keywords "games") (:authors ("Johan Sivertsen" . "johanvts@gmail.com")) (:maintainer "Johan Sivertsen" . "johanvts@gmail.com") (:url . "https://github.com/johanvts/emacs-fireplace"))])

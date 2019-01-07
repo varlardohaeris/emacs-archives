@@ -1,0 +1,2 @@
+
+(passthword . [(1 4) ((cl-lib (0 5))) "Simple password manager" single ((:commit . "58a91defdbeec9014b4e46f909a7411b3a627285") (:authors ("Peter Stiernström" . "peter@stiernstrom.se")) (:maintainer "Peter Stiernström" . "peter@stiernstrom.se"))])

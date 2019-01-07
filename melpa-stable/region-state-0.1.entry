@@ -1,0 +1,2 @@
+
+(region-state . [(0 1) nil "Show the number of chars/lines or rows/columns in the region" single ((:commit . "549c5f19e828f9dba3de611b40eba31ae96b0d1c") (:keywords "convenience") (:authors ("Chunyang Xu" . "mail@xuchunyang.me")) (:maintainer "Chunyang Xu" . "mail@xuchunyang.me") (:url . "https://github.com/xuchunyang/region-state.el"))])

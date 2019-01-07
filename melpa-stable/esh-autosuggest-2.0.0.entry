@@ -1,0 +1,2 @@
+
+(esh-autosuggest . [(2 0 0) ((emacs (24 4)) (company (0 9 4))) "History autosuggestions for eshell" single ((:commit . "a8a9381e76ea2e0d934bc70caa47f23209bcc155") (:keywords "completion" "company" "matching" "convenience" "abbrev") (:authors ("Diego A. Mundo" . "diegoamundo@gmail.com")) (:maintainer "Diego A. Mundo" . "diegoamundo@gmail.com") (:url . "http://github.com/dieggsy/esh-autosuggest"))])

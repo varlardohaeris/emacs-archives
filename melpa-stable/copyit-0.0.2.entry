@@ -1,0 +1,2 @@
+
+(copyit . [(0 0 2) ((emacs (24)) (cl-lib (0 5))) "Copy it, yank anything!" single ((:commit . "c973d3650208a033aaf845989d023f9c6e572ddd") (:keywords "convinience" "yank" "clipboard") (:authors ("USAMI Kenta" . "tadsan@zonu.me")) (:maintainer "USAMI Kenta" . "tadsan@zonu.me") (:url . "https://github.com/zonuexe/emacs-copyit"))])

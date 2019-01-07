@@ -1,0 +1,2 @@
+
+(magit-stgit . [(2 1 3) ((emacs (24 4)) (magit (2 1 0))) "StGit extension for Magit" single ((:commit . "1b064485d512ab547d606dcea9ad4298f355095c") (:keywords "vc" "tools") (:authors ("Lluís Vilanova" . "vilanova@ac.upc.edu")) (:maintainer "Lluís Vilanova" . "vilanova@ac.upc.edu"))])

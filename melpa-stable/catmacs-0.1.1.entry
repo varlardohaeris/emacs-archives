@@ -1,0 +1,2 @@
+
+(catmacs . [(0 1 1) nil "Simple CAT interface for Yaesu FT991A" single ((:commit . "c6e8277bd2aab3f5fbf10d419111110f3b33564f") (:keywords "catmacs" "radio" "control" "cat" "yaesu" "ft991a") (:authors ("Frank Singleton" . "b17flyboy@gmail.com")) (:maintainer "Frank Singleton" . "b17flyboy@gmail.com") (:url . "https://pymaximus@bitbucket.org/pymaximus/catmacs.git"))])

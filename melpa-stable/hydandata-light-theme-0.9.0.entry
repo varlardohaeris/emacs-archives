@@ -1,0 +1,2 @@
+
+(hydandata-light-theme . [(0 9 0) nil "A light color theme that is easy on your eyes" single ((:commit . "3b9bb5f213029a8331818b1d670194ef26d9505a") (:keywords "color-theme" "theme") (:authors ("David Chkhikvadze" . "david.chk@outlook.com")) (:maintainer "David Chkhikvadze" . "david.chk@outlook.com"))])

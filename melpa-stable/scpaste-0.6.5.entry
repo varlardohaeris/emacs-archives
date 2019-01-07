@@ -1,0 +1,2 @@
+
+(scpaste . [(0 6 5) ((htmlize (1 39))) "Paste to the web via scp." single ((:commit . "cca8f4ee5402bbf9a4bbb24e81372067cb21bba4") (:keywords "convenience" "hypermedia") (:authors ("Phil Hagelberg")) (:maintainer "Phil Hagelberg") (:url . "https://github.com/technomancy/scpaste"))])

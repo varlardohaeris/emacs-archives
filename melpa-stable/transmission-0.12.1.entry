@@ -1,0 +1,2 @@
+
+(transmission . [(0 12 1) ((emacs (24 4)) (let-alist (1 0 5))) "Interface to a Transmission session" single ((:commit . "03a36853f141387654b7cb9217c7417db096a083") (:keywords "comm" "tools") (:authors ("Mark Oteiza" . "mvoteiza@udel.edu")) (:maintainer "Mark Oteiza" . "mvoteiza@udel.edu"))])

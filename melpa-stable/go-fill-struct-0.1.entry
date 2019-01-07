@@ -1,0 +1,2 @@
+
+(go-fill-struct . [(0 1) ((emacs (24))) "Fill struct for golang." single ((:commit . "3c97c92e78f3629a7a1069404c7c641881c16d0e") (:keywords "tools") (:authors ("Sergey Kostyaev" . "feo.me@ya.ru")) (:maintainer "Sergey Kostyaev" . "feo.me@ya.ru") (:url . "https://github.com/s-kostyaev/go-fill-struct"))])

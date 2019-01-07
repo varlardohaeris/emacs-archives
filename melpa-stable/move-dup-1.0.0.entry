@@ -1,0 +1,2 @@
+
+(move-dup . [(1 0 0) nil "Eclipse-like moving and duplicating lines or rectangles." single ((:commit . "dae61de7aa5e2bf56a7bab1fa36fa3a39520a3c0") (:keywords "convenience" "wp" "edit") (:authors ("Jimmy Yuen Ho Wong" . "wyuenho@gmail.com")) (:maintainer "Jimmy Yuen Ho Wong" . "wyuenho@gmail.com") (:url . "https://github.com/wyuenho/move-dup"))])

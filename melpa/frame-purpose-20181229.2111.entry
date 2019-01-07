@@ -1,0 +1,2 @@
+
+(frame-purpose . [(20181229 2111) ((emacs (25 1)) (dash (2 12)) (dash-functional (1 2 0))) "Purpose-specific frames" single ((:commit . "bf17e2bb89ab5655355515e8b59c3c225abf29b9") (:keywords "buffers" "convenience" "frames") (:authors ("Adam Porter" . "adam@alphapapa.net")) (:maintainer "Adam Porter" . "adam@alphapapa.net") (:url . "http://github.com/alphapapa/frame-purpose.el"))])

@@ -1,0 +1,2 @@
+
+(dante . [(1 4) ((dash (2 13 0)) (emacs (25 1)) (f (0 19 0)) (flycheck (0 30)) (haskell-mode (13 14)) (s (1 11 0))) "Development mode for Haskell" single ((:commit . "1a25bf26ee8d9878ce858cfaff84b083339056d6") (:keywords "haskell" "tools") (:authors ("Jean-Philippe Bernardy" . "jeanphilippe.bernardy@gmail.com")) (:maintainer "Jean-Philippe Bernardy" . "jeanphilippe.bernardy@gmail.com") (:url . "https://github.com/jyp/dante"))])

@@ -1,0 +1,2 @@
+
+(ac-html . [(0 31) ((auto-complete (1 4)) (web-completion-data (0 1))) "auto complete source for html tags and attributes" tar ((:commit . "415a78c3b84855b0c0411832d21a0fb63239b184") (:keywords "html" "auto-complete" "rails" "ruby") (:authors ("Zhang Kai Yu" . "yeannylam@gmail.com")) (:maintainer "Zhang Kai Yu" . "yeannylam@gmail.com") (:url . "https://github.com/cheunghy/ac-html"))])

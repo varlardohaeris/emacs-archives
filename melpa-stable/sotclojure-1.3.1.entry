@@ -1,0 +1,2 @@
+
+(sotclojure . [(1 3 1) ((emacs (24 1)) (clojure-mode (4 0 0)) (cider (0 8)) (sotlisp (1 3))) "Write clojure at the speed of thought." tar ((:commit . "ceac82aa691e8d98946471be6aaff9c9a4603c32") (:keywords "convenience" "clojure") (:authors ("Artur Malabarba" . "emacs@endlessparentheses.com")) (:maintainer "Artur Malabarba" . "emacs@endlessparentheses.com") (:url . "https://github.com/Malabarba/speed-of-thought-clojure"))])

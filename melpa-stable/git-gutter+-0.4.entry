@@ -1,0 +1,2 @@
+
+(git-gutter+ . [(0 4) ((git-commit (0))) "Manage Git hunks straight from the buffer" single ((:commit . "f8daebb6569bb116086d8653da3505382e03d940") (:keywords "git" "vc") (:authors ("Syohei YOSHIDA" . "syohex@gmail.com")) (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com") (:url . "https://github.com/nonsequitur/git-gutter-plus"))])

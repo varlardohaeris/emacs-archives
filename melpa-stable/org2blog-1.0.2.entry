@@ -1,0 +1,2 @@
+
+(org2blog . [(1 0 2) ((org (8 3)) (xml-rpc (1 6 12)) (metaweblog (1 0 1)) (htmlize (1 51))) "Blog from Org mode to wordpress" tar ((:commit . "bd2028b6a79daa63fc5481deaed63c4efc681be0"))])

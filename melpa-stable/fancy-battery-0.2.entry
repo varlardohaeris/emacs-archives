@@ -1,0 +1,2 @@
+
+(fancy-battery . [(0 2) ((emacs (24 1))) "Fancy battery display" single ((:commit . "5b8115bbeb67c52d4202a12dcd5726fb66e0a1ff") (:keywords "convenience" "tools" "hardware") (:authors ("Sebastian Wiesner" . "swiesner@lunaryorn.com")) (:maintainer "Sebastian Wiesner" . "swiesner@lunaryorn.com") (:url . "https://github.com/lunaryorn/fancy-battery.el"))])

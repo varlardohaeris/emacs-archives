@@ -1,0 +1,2 @@
+
+(reason-mode . [(0 3 0) ((emacs (24 0))) "A major emacs mode for editing Reason (based on rust-mode)" tar ((:commit . "6b53815a0405be1f364a082d22fe5c900409a01a") (:keywords "languages" "ocaml") (:authors ("Mozilla")) (:maintainer "Mozilla") (:url . "https://github.com/arichiardi/reason-mode"))])

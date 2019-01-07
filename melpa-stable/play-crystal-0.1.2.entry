@@ -1,0 +1,2 @@
+
+(play-crystal . [(0 1 2) ((emacs (24 4)) (dash (2 12 0)) (request (0 2 0))) "https://play.crystal-lang.org integration." single ((:commit . "86b54346e7c832c14f8e5654a462f6490a6b11d7") (:keywords "convenience") (:authors ("Vitalii Elenhaupt")) (:maintainer "Vitalii Elenhaupt") (:url . "https://github.com/veelenga/play-crystal.el"))])

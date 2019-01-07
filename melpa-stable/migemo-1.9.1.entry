@@ -1,0 +1,2 @@
+
+(migemo . [(1 9 1) nil "Japanese incremental search through dynamic pattern expansion" single ((:commit . "97e07796573c4c47f286bfe8eeb6428cb474526e") (:authors ("Satoru Takabayashi" . "satoru-t@is.aist-nara.ac.jp")) (:maintainer "Satoru Takabayashi" . "satoru-t@is.aist-nara.ac.jp") (:url . "https://github.com/emacs-jp/migemo"))])

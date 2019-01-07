@@ -1,0 +1,2 @@
+
+(sphinx-mode . [(0 1 1) nil "Minor mode providing sphinx support." tar ((:commit . "3d6e3059350593dc077f06f54c33869b9e28f7bc"))])

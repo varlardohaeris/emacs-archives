@@ -1,0 +1,2 @@
+
+(org-page . [(0 41) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8))) "a static site generator based on org mode" tar ((:commit . "09febf89d8dcb226aeedf8164169b31937b64439"))])

@@ -1,0 +1,2 @@
+
+(killer . [(0 2 2) nil "kill and delete text" single ((:commit . "52256640aebbb8c25f8527843c2425b848031cd8") (:keywords "convenience") (:authors ("Jonas Bernoulli" . "jonas@bernoul.li")) (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li") (:url . "http://github.com/tarsius/killer"))])

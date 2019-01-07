@@ -1,0 +1,2 @@
+
+(inline-crypt . [(0 1 4) nil "Simple inline encryption via openssl" tar ((:commit . "497ce9dc29a8ccac0b6dd6854f5d120514350282"))])

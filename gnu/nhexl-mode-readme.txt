@@ -20,9 +20,10 @@ It also comes with:
 - it overrides C-u to use hexadecimal, so you can do C-u a 4 C-f
   to advance by #xa4 characters.
 
-Even though the hex addresses displayed by this mode aren't actually
-part of the buffer's text (contrary to hexl-mode, for example), you can
-search them with Isearch.
+Even though the hex addresses and hex data displayed by this mode aren't
+actually part of the buffer's text (contrary to hexl-mode, for example,
+they're only added to the display), you can search them with Isearch,
+according to nhexl-isearch-hex-addresses and nhexl-isearch-hex-bytes.
 
 Known bugs:
 

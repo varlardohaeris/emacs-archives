@@ -1,0 +1,2 @@
+
+(gh . [(0 10 0) ((emacs (24 4)) (pcache (0 3 1)) (logito (0 1))) "A GitHub library for Emacs" tar ((:commit . "d0471dd1ba279072cbf8caf6368f3008d7120f25"))])

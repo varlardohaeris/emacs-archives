@@ -1,0 +1,2 @@
+
+(charmap . [(0 0 1) nil "Unicode table for Emacs" single ((:commit . "165193d91ef96f563ae8366ed4c1a2df5a4eaed2") (:keywords "unicode" "character" "ucs") (:authors ("Daehyub Kim" . "lateau@gmail.com")) (:maintainer "Daehyub Kim" . "lateau@gmail.com") (:url . "https://github.com/lateau/charmap"))])

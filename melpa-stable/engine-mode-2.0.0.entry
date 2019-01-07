@@ -1,0 +1,2 @@
+
+(engine-mode . [(2 0 0) nil "Define and query search engines from within Emacs." single ((:commit . "243d04691475b47a4453ad7106d8268ca14d9f28") (:authors ("Harry R. Schwartz" . "hello@harryrschwartz.com")) (:maintainer "Harry R. Schwartz" . "hello@harryrschwartz.com") (:url . "https://github.com/hrs/engine-mode/engine-mode.el"))])

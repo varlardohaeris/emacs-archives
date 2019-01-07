@@ -1,0 +1,2 @@
+
+(karma . [(0 1 0) nil "Karma Test Runner Emacs Integration" single ((:commit . "f4ee856e7f59649e9d9021c46f872f9b4f5b7e6e") (:keywords "javascript" "js" "karma" "testing") (:authors ("Samuel Tonini")) (:maintainer "Samuel Tonini") (:url . "http://github.com/tonini/karma.el"))])

@@ -1,0 +1,2 @@
+
+(ruby-hash-syntax . [(0 5) nil "Toggle ruby hash syntax between classic and 1.9 styles" single ((:commit . "bc05c3130a5d3237f04c6064297e56de5f73887d") (:keywords "languages") (:authors ("Steve Purcell" . "steve@sanityinc.com")) (:maintainer "Steve Purcell" . "steve@sanityinc.com") (:url . "https://github.com/purcell/ruby-hash-syntax"))])

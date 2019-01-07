@@ -1,0 +1,2 @@
+
+(apache-mode . [(2 1) nil "major mode for editing Apache configuration files" single ((:commit . "0906559e0cb2997405d98ea6b2195954e3935d3b") (:keywords "languages" "faces") (:authors ("Karl Chen" . "quarl@nospam.quarl.org")) (:maintainer "USAMI Kenta" . "tadsan@zonu.me"))])

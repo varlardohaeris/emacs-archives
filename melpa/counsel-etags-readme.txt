@@ -5,17 +5,15 @@
 
 Usage:
 
-  "M-x counsel-etags-find-tag-at-point" to navigate.  This command will also
+  `counsel-etags-find-tag-at-point' to navigate.  This command will also
   run `counsel-etags-scan-code' AUTOMATICALLY if tags file is not built yet.
 
-  "M-x counsel-etags-scan-code" to create tags file
-  "M-x counsel-etags-grep" to grep
-  "M-x counsel-etags-grep-symbol-at-point" to grep the symbol at point
-  "M-x counsel-etags-recent-tag" to open recent tag
-  "M-x counsel-etags-find-tag" to two step tag matching use regular expression and filter
-  "M-x counsel-etags-list-tag" to list all tags
-
-That's all!
+  `counsel-etags-scan-code' to create tags file
+  `counsel-etags-grep' to grep
+  `counsel-etags-grep-symbol-at-point' to grep the symbol at point
+  `counsel-etags-recent-tag' to open recent tag
+  `counsel-etags-find-tag' to two step tag matching use regular expression and filter
+  `counsel-etags-list-tag' to list all tags
 
 Tips:
 - Add below code into "~/.emacs" to AUTOMATICALLY update tags file:

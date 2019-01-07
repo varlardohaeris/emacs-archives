@@ -1,0 +1,2 @@
+
+(dtrt-indent . [(0 7) nil "Adapt to foreign indentation offsets" tar ((:commit . "0ac070c9576e4ebab12cd6800ac2ac3abcecc2c1") (:keywords "convenience" "files" "languages" "c") (:authors ("Julian Scheid" . "julians37@googlemail.com")) (:maintainer "Julian Scheid" . "julians37@googlemail.com"))])

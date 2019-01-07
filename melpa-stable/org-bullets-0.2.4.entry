@@ -1,0 +1,2 @@
+
+(org-bullets . [(0 2 4) nil "Show bullets in org-mode as UTF-8 characters" single ((:commit . "b70ac2ec805bcb626a6e39ea696354577c681b36") (:authors ("sabof")) (:maintainer "sabof") (:url . "https://github.com/sabof/org-bullets"))])

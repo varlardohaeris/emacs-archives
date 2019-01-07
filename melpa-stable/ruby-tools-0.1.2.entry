@@ -1,0 +1,2 @@
+
+(ruby-tools . [(0 1 2) nil "Collection of handy functions for ruby-mode." tar ((:commit . "6e7fb376085bfa7010ecd3dfad63adacc6e2b4ac"))])

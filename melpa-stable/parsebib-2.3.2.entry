@@ -1,0 +1,2 @@
+
+(parsebib . [(2 3 2) ((emacs (24 3))) "A library for parsing bib files" single ((:commit . "c8d59deb20552f9a1885297b5ae0b8f753d191a5") (:keywords "text" "bibtex") (:authors ("Joost Kremers" . "joostkremers@fastmail.fm")) (:maintainer "Joost Kremers" . "joostkremers@fastmail.fm"))])

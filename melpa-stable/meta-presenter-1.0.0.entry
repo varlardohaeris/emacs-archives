@@ -1,0 +1,2 @@
+
+(meta-presenter . [(1 0 0) nil "A simple multi-file presentation tool for Emacs" single ((:commit . "7ba8d30e36ce6de6e563c7f3a41a24d288787c48") (:keywords "productivity" "presentation") (:authors ("Mohammed Ismail Ansari" . "team.terminal@gmail.com")) (:maintainer "Mohammed Ismail Ansari" . "team.terminal@gmail.com") (:url . "http://ismail.teamfluxion.com"))])

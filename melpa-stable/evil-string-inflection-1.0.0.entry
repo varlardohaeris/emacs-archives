@@ -1,0 +1,2 @@
+
+(evil-string-inflection . [(1 0 0) ((emacs (24)) (evil (1 2 13)) (string-inflection (1 0 6))) "snake_case -> CamelCase -> etc. for text objects" single ((:commit . "f6a3eca0f0fa8e56e6938e1dd48537eef1fae05f") (:authors ("Filipe Silva" . "filipe.silva@gmail.com")) (:maintainer "Filipe Silva" . "filipe.silva@gmail.com") (:url . "https://github.com/ninrod/evil-string-inflection"))])

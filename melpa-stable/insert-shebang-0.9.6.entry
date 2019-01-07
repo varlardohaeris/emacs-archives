@@ -1,0 +1,2 @@
+
+(insert-shebang . [(0 9 6) nil "Insert shebang line automatically." single ((:commit . "adfa473f07443b231914d277c20a3419b30399b6") (:keywords "shebang" "tool" "convenience") (:authors ("Sachin Patil" . "iclcoolster@gmail.com")) (:maintainer "Sachin Patil" . "iclcoolster@gmail.com") (:url . "http://github.com/psachin/insert-shebang"))])

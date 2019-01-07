@@ -1,0 +1,2 @@
+
+(poly-erb . [(0 1 5) ((emacs (25)) (polymode (0 1 5))) "Polymode for erb" single ((:commit . "aa8a40a1bb1035144b1cbc053d87305f70a442a7") (:keywords "emacs") (:authors ("Siavash Sajjadi and Vitalie Spinu")) (:maintainer "Vitalie Spinu") (:url . "https://github.com/polymode/poly-erb"))])

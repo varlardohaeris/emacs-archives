@@ -1,0 +1,2 @@
+
+(github-notifier . [(0 1) ((emacs (24))) "Displays your GitHub notifications unread count in mode-line" single ((:commit . "f8d011ebef9f626a94a27b5576c8ed06e6ff8987") (:keywords "github" "mode-line") (:authors ("Chunyang Xu" . "mail@xuchunyang.me")) (:maintainer "Chunyang Xu" . "mail@xuchunyang.me") (:url . "https://github.com/xuchunyang/github-notifier.el"))])

@@ -1,0 +1,2 @@
+
+(fancy-narrow . [(0 9 5) nil "narrow-to-region with more eye candy." single ((:commit . "c0f70b4333d4764323b7154e37a378adb1610ab7") (:keywords "faces" "convenience") (:authors ("Artur Malabarba" . "bruce.connor.am@gmail.com")) (:maintainer "Artur Malabarba" . "bruce.connor.am@gmail.com") (:url . "http://github.com/Bruce-Connor/fancy-narrow"))])

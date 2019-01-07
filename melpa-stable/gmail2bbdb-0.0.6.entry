@@ -1,0 +1,2 @@
+
+(gmail2bbdb . [(0 0 6) nil "import email and name into bbdb from vcard." single ((:commit . "181ef6039227bb30a02041d8cfdc435551a7d948") (:keywords "vcard" "bbdb" "email" "contact" "gmail") (:authors ("Chen Bin" . "chenbin.sh@gmail.com")) (:maintainer "Chen Bin" . "chenbin.sh@gmail.com") (:url . "http://github.com/redguardtoo/gmail2bbdb"))])

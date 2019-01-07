@@ -1,0 +1,2 @@
+
+(autodisass-llvm-bitcode . [(1 1) nil "Automatically disassemble LLVM bitcode" tar ((:commit . "14bb1bfe2be3b04d6e0c87a7a9d1e88ce15506d0"))])

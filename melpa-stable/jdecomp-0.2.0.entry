@@ -1,0 +1,2 @@
+
+(jdecomp . [(0 2 0) ((emacs (24 5))) "Interface to Java decompilers" single ((:commit . "1590b06f139f036c1041e1ce5c0acccaa24b31a7") (:keywords "decompile" "java" "languages" "tools") (:authors ("Tianxiang Xiong" . "tianxiang.xiong@gmail.com")) (:maintainer "Tianxiang Xiong" . "tianxiang.xiong@gmail.com") (:url . "https://github.com/xiongtx/jdecomp"))])

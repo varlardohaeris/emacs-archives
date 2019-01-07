@@ -1,0 +1,2 @@
+
+(ess-smart-underscore . [(0 79) nil "Ess Smart Underscore" tar ((:commit . "ef18a160aeb3b1a7ae5fe93759f8e92147da8746") (:keywords "ess" "underscore") (:authors ("Matthew L. Fidler")) (:maintainer "Matthew Fidler") (:url . "http://github.com/mlf176f2/ess-smart-underscore.el"))])

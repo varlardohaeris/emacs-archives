@@ -1,0 +1,2 @@
+
+(magit-org-todos . [(0 1 2) ((magit (2 0 0)) (emacs (24))) "Add local todo items to the magit status buffer" single ((:commit . "0bfa36bbc50e62de0a3406031cb93e2f57dcdc55") (:keywords "org-mode" "magit" "tools") (:authors ("Daniel Ma")) (:maintainer "Daniel Ma") (:url . "http://github.com/danielma/magit-org-todos"))])

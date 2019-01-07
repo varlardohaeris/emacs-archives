@@ -1,0 +1,2 @@
+
+(nsis-mode . [(0 44) nil "NSIS-mode" tar ((:commit . "f1bf701c37680553c8f51462e0829d0dd6c53187") (:keywords "nsis") (:authors ("Matthew L. Fidler")) (:maintainer "Matthew L. Fidler") (:url . "http://github.com/mlf176f2/nsis-mode"))])

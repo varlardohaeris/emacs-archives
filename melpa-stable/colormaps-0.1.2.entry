@@ -1,0 +1,2 @@
+
+(colormaps . [(0 1 2) ((emacs (25))) "Hex colormaps" single ((:commit . "3a88961ba66b09a49ea5aa92b2b8776b2c92d68c") (:keywords "tools") (:authors ("Abhinav Tushar" . "lepisma@fastmail.com")) (:maintainer "Abhinav Tushar" . "lepisma@fastmail.com") (:url . "https://github.com/lepisma/colormaps.el"))])

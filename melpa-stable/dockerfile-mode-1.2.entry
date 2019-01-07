@@ -1,0 +1,2 @@
+
+(dockerfile-mode . [(1 2) nil "Major mode for editing Docker's Dockerfiles" single ((:commit . "9a75fcd119c5b2a1d723d440bbe4b1db56df90cc"))])

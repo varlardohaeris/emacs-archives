@@ -1,0 +1,2 @@
+
+(octicons . [(0 1) ((cl-lib (0 5))) "octicons utility" tar ((:commit . "77bb1a49045f89b3eaf9bcffeefbb9e1abaee556") (:authors ("Syohei YOSHIDA" . "syohex@gmail.com")) (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com") (:url . "https://github.com/syohex/emacs-octicons"))])

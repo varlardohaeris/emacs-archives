@@ -1,0 +1,2 @@
+
+(elpa-mirror . [(2 1 1) ((emacs (24 4))) "Create local package repository so package upgrade never breaks" single ((:commit . "83a38b5721c459d311833522903de96f874e1a4e") (:keywords "cloud" "mirror" "elpa") (:authors ("Chen Bin" . "chenbin.sh@gmail.com")) (:maintainer "Chen Bin" . "chenbin.sh@gmail.com") (:url . "http://github.com/redguardtoo/elpa-mirror"))])

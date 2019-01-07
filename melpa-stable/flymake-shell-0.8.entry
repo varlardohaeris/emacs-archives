@@ -1,0 +1,2 @@
+
+(flymake-shell . [(0 8) ((flymake-easy (0 1))) "A flymake syntax-checker for shell scripts" single ((:commit . "ec097bd77db5523a04ceb15a128e01689d36fb90") (:authors ("Steve Purcell" . "steve@sanityinc.com")) (:maintainer "Steve Purcell" . "steve@sanityinc.com") (:url . "https://github.com/purcell/flymake-shell"))])

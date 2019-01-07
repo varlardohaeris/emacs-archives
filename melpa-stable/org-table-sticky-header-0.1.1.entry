@@ -1,0 +1,2 @@
+
+(org-table-sticky-header . [(0 1 1) ((org (8 2 10))) "Sticky header for org-mode tables" single ((:commit . "4dba2dc9a3ed63f58aa946aeec84a52d46ca4043") (:keywords "extensions") (:authors ("Junpeng Qiu" . "qjpchmail@gmail.com")) (:maintainer "Junpeng Qiu" . "qjpchmail@gmail.com"))])

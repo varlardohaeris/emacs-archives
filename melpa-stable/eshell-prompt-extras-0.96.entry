@@ -1,0 +1,2 @@
+
+(eshell-prompt-extras . [(0 96) nil "Display extra information for your eshell prompt." single ((:commit . "7581c109673c40aceff278cd524273f50ffe170d") (:keywords "eshell" "prompt") (:authors ("Wei Zhao" . "kaihaosw@gmail.com")) (:maintainer "Chunyang Xu" . "mail@xuchunyang.me") (:url . "https://github.com/hiddenlotus/eshell-prompt-extras"))])

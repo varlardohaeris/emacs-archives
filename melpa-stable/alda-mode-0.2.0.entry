@@ -1,0 +1,2 @@
+
+(alda-mode . [(0 2 0) ((emacs (24 0))) "A simple major mode for the musical programming language Alda" single ((:commit . "97c20b1fd9ad3f138e1100e3a837d05108c4c564") (:keywords "alda" "highlight") (:authors ("Jay Kamat" . "github@jgkamat.33mail.com")) (:maintainer "Jay Kamat" . "github@jgkamat.33mail.com") (:url . "http://github.com/jgkamat/alda-mode"))])

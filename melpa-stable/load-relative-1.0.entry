@@ -1,0 +1,2 @@
+
+(load-relative . [(1 0) nil "relative file load (within a multi-file Emacs package)" tar ((:commit . "15ffaa9ebf1b7bbfcc307d1716eec135253b3b8d") (:keywords "internal") (:authors ("Rocky Bernstein")) (:maintainer "Rocky Bernstein") (:url . "http://github.com/rocky/emacs-load-relative"))])

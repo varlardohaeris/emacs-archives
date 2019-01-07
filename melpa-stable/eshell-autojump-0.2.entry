@@ -1,0 +1,2 @@
+
+(eshell-autojump . [(0 2) nil "autojump command for Eshell" single ((:commit . "c0866d7f2789831665ebb01b812bae89d085bff0") (:authors ("Alex Schroeder")) (:maintainer "Yen-Chin, Lee" . "coldnew.tw@gmail.com") (:url . "http://github.com/coldnew/eshell-autojump"))])

@@ -1,0 +1,2 @@
+
+(google-maps . [(1 0 0) nil "Access Google Maps from Emacs" tar ((:commit . "90151ab59e693243ca8da660ce7b9ce361ea5126") (:keywords "comm") (:authors ("Julien Danjou" . "julien@danjou.info")) (:maintainer "Julien Danjou" . "julien@danjou.info"))])

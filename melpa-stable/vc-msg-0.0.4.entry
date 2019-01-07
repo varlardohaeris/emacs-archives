@@ -1,0 +1,2 @@
+
+(vc-msg . [(0 0 4) ((emacs (24 3)) (popup (0 5 0))) "Show commit information of current line" tar ((:commit . "091f3cf15ecb35bb4dc5de1ef7229f78735d9aee") (:keywords "git" "vc" "svn" "hg" "messenger") (:authors ("Chen Bin <chenbin DOT sh AT gmail DOT com>")) (:maintainer "Chen Bin <chenbin DOT sh AT gmail DOT com>") (:url . "http://github.com/redguardtoo/vc-msg"))])

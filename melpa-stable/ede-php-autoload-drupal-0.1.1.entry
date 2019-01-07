@@ -1,0 +1,2 @@
+
+(ede-php-autoload-drupal . [(0 1 1) ((ede-php-autoload (1 0 0)) (f (0 19 0)) (s (1 7 0))) "Drupal support for ede-php-autoload" single ((:commit . "6b62ffa7a69f52aab79067eaed80b2720f7e3fc2") (:keywords "programming" "php" "drupal") (:authors ("Thomas Fini Hansen" . "xen@xen.dk")) (:maintainer "Thomas Fini Hansen" . "xen@xen.dk"))])

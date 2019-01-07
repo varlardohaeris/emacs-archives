@@ -1,0 +1,2 @@
+
+(org-random-todo . [(0 5 2) ((emacs (24 3)) (alert (1 2))) "notify of random TODO's" single ((:commit . "60364c18725d2f3898a9099e7e546ae406dd6578") (:keywords "org" "todo" "notification") (:authors ("Kevin Brubeck Unhammer" . "unhammer@fsfe.org")) (:maintainer "Kevin Brubeck Unhammer" . "unhammer@fsfe.org"))])

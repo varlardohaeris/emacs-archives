@@ -1,0 +1,2 @@
+
+(jammer . [(0 1 1) nil "Punish yourself for using Emacs inefficiently" single ((:commit . "1ba232b71507b468c60dc53c2bc8888bef36c858") (:keywords "games") (:authors ("Vasilij Schneidermann" . "v.schneidermann@gmail.com")) (:maintainer "Vasilij Schneidermann" . "v.schneidermann@gmail.com") (:url . "https://github.com/wasamasa/jammer"))])

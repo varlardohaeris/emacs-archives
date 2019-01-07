@@ -1,0 +1,2 @@
+
+(tern-django . [(0 1 0) ((emacs (24)) (tern (0 0 1)) (f (0 17 1))) "Create tern projects for django applications." tar ((:commit . "6d616c5f802d3432c4065dc306d7977d254df49f") (:authors ("Malyshev Artem" . "proofit404@gmail.com")) (:maintainer "Malyshev Artem" . "proofit404@gmail.com") (:url . "https://github.com/proofit404/tern-django"))])

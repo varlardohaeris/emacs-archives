@@ -1,0 +1,2 @@
+
+(wcheck-mode . [(2016 1 30) nil "General interface for text checkers" tar ((:commit . "adb9dd9f39cb0bd0000d140d6e778c4864dfde08"))])

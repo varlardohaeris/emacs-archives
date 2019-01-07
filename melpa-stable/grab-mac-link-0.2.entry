@@ -1,0 +1,2 @@
+
+(grab-mac-link . [(0 2) ((emacs (24))) "Grab link from Mac Apps and insert it into Emacs" single ((:commit . "8bf05a69758fd10a4303c5c458cd91a49ab8b1b2") (:keywords "markdown" "mac" "hyperlink") (:authors ("Chunyang Xu" . "xuchunyang.me@gmail.com")) (:maintainer "Chunyang Xu" . "xuchunyang.me@gmail.com") (:url . "https://github.com/xuchunyang/grab-mac-link.el"))])

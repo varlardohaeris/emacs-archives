@@ -1,0 +1,2 @@
+
+(test-case-mode . [(1 0) ((fringe-helper (0 1 1))) "unit test front-end" single ((:commit . "26e397c0f930b7eb0be413ef7dd257b1da052bec") (:keywords "tools") (:authors ("Nikolaj Schumacher <bugs * nschum de>")) (:maintainer "Nikolaj Schumacher <bugs * nschum de>") (:url . "http://nschum.de/src/emacs/test-case-mode/"))])

@@ -1,0 +1,2 @@
+
+(caddyfile-mode . [(0 2) ((emacs (24 3))) "Major mode for Caddy configuration files" single ((:commit . "b0371063adc18d3cbd6dd673ea4fe39d27825d1b") (:keywords "languages") (:authors ("Thomas Jost" . "schnouki@schnouki.net")) (:maintainer "Thomas Jost" . "schnouki@schnouki.net") (:url . "https://github.com/Schnouki/caddyfile-mode/"))])

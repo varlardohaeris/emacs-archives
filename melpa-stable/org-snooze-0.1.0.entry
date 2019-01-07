@@ -1,0 +1,2 @@
+
+(org-snooze . [(0 1 0) ((emacs (24 4))) "Snooze your code, doc and feed" single ((:commit . "6d30b0dcdfe9538e4400e49046291b7d07274164") (:keywords "extensions") (:authors ("Bill Xue")) (:maintainer "Bill Xue") (:url . "https://github.com/xueeinstein/org-snooze.el"))])

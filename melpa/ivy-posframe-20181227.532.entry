@@ -1,0 +1,2 @@
+
+(ivy-posframe . [(20181227 532) ((emacs (26 0)) (posframe (0 1 0)) (ivy (0 10 0))) "Using posframe to show Ivy" single ((:commit . "3d98dbde1d9b1b170b87828d34d068c358de591d") (:keywords "abbrev" "convenience" "matching" "ivy") (:authors ("Feng Shu")) (:maintainer "Feng Shu" . "tumashu@163.com") (:url . "https://github.com/tumashu/ivy-posframe"))])

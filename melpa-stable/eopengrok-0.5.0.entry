@@ -1,0 +1,2 @@
+
+(eopengrok . [(0 5 0) ((s (1 9 0)) (dash (2 10 0)) (magit (2 1 0)) (cl-lib (0 5))) "opengrok interface for emacs" single ((:commit . "11c99f7e1e2c1c7d70cbda496cb5b6c7f6e4082a") (:keywords "tools") (:authors ("Youngjoo Lee" . "youngker@gmail.com")) (:maintainer "Youngjoo Lee" . "youngker@gmail.com"))])

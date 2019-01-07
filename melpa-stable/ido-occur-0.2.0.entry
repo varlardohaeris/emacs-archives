@@ -1,0 +1,2 @@
+
+(ido-occur . [(0 2 0) ((dash (2 13 0))) "Yet another `occur' with `ido'." single ((:commit . "b0e67fe4835c162cbcf8a982bdf377955b9ac5ae") (:keywords "inner" "buffer" "search") (:authors ("Danil" . "danil@kutkevich.org")) (:maintainer "Danil" . "danil@kutkevich.org") (:url . "https://github.com/danil/ido-occur"))])

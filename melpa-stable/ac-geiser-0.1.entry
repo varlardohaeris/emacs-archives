@@ -1,0 +1,2 @@
+
+(ac-geiser . [(0 1) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser" tar ((:commit . "0e2e36532336f27e3dc3b01fff55ad1a4329817d"))])

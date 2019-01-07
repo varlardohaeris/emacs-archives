@@ -1,0 +1,2 @@
+
+(python-mode . [(6 2 3) nil "Python major mode" tar ((:commit . "a0a534639bc6142c2c2f44bd7ca5878ad5f79518"))])

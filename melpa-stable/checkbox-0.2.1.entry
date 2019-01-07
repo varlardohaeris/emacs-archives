@@ -1,0 +1,2 @@
+
+(checkbox . [(0 2 1) ((emacs (24)) (cl-lib (0 5))) "Quick manipulation of textual checkboxes" single ((:commit . "2afc2011fa35ccfa0ce9ef46cb1896911fa340d1") (:keywords "convenience") (:authors ("Cameron Desautels" . "camdez@gmail.com")) (:maintainer "Cameron Desautels" . "camdez@gmail.com") (:url . "http://github.com/camdez/checkbox.el"))])

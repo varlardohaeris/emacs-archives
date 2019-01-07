@@ -1,0 +1,2 @@
+
+(smart-mode-line . [(2 12 0) ((emacs (24 3)) (rich-minority (0 1 1))) "A color coded smart mode-line." tar ((:commit . "61c0e9b74372a2887816da12a43316a7470ed4fa") (:keywords "mode-line" "faces" "themes") (:authors ("Artur Malabarba" . "emacs@endlessparentheses.com")) (:maintainer "Artur Malabarba" . "emacs@endlessparentheses.com") (:url . "http://github.com/Malabarba/smart-mode-line"))])

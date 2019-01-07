@@ -1,0 +1,2 @@
+
+(ocp-indent . [(1 7 0) nil "automatic indentation with ocp-indent" single ((:commit . "6e6ff005fc1692489fa80767a23bc381ebc987e1") (:keywords "ocaml" "languages") (:url . "http://www.typerex.org/ocp-indent.html"))])

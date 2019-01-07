@@ -1,0 +1,2 @@
+
+(geiser . [(0 10) nil "GNU Emacs and Scheme talk to each other" tar ((:commit . "775d1d734a677274fbbf4af780592bb3768d3f9b") (:url . "http://www.nongnu.org/geiser/"))])

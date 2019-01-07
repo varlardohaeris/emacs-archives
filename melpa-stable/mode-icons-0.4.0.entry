@@ -1,0 +1,2 @@
+
+(mode-icons . [(0 4 0) ((emacs (24)) (cl-lib (0 5))) "Show icons for modes" tar ((:commit . "37581ed911e4469f773ddfb7b40a85592d323b76") (:keywords "multimedia") (:authors ("Tom Willemse" . "tom@ryuslash.org")) (:maintainer "Tom Willemse" . "tom@ryuslash.org") (:url . "http://ryuslash.org/projects/mode-icons.html"))])

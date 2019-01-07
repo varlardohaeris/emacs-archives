@@ -1,0 +1,2 @@
+
+(gitter . [(1) ((emacs (24 1)) (let-alist (1 0 4))) "An Emacs Gitter client" single ((:commit . "bd2ba457109dd5d3e4b419e3ef5cbd3b5c9498d6") (:keywords "gitter" "chat" "client" "internet") (:authors ("Chunyang Xu" . "xuchunyang.me@gmail.com")) (:maintainer "Chunyang Xu" . "xuchunyang.me@gmail.com") (:url . "https://github.com/xuchunyang/gitter.el"))])

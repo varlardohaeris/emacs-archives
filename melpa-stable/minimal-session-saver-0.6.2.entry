@@ -1,0 +1,2 @@
+
+(minimal-session-saver . [(0 6 2) nil "Very lean session saver" single ((:commit . "aaba48a8525e1310b221eeb96763304c22e9a4b4") (:keywords "tools" "frames" "project") (:authors ("Roland Walker" . "walker@pobox.com")) (:maintainer "Roland Walker" . "walker@pobox.com") (:url . "http://github.com/rolandwalker/minimal-session-saver"))])

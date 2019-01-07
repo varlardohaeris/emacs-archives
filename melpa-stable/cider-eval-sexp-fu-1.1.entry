@@ -1,0 +1,2 @@
+
+(cider-eval-sexp-fu . [(1 1) ((emacs (24)) (highlight (0)) (eval-sexp-fu (0 4 0))) "Briefly highlights an evaluated sexps." single ((:commit . "6b437bf073b21543e72d76fd0392a28fba7cbfbe") (:keywords "languages" "clojure" "cider") (:authors ("Sylvain Benner" . "sylvain.benner@gmail.com")) (:maintainer "Sylvain Benner" . "sylvain.benner@gmail.com"))])

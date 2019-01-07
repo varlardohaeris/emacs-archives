@@ -1,0 +1,2 @@
+
+(kill-ring-search . [(1 1) nil "incremental search for the kill ring" single ((:commit . "3a5bc1767f742c91aa788df79ecec836a0946edb") (:keywords "convenience" "matching") (:authors ("Nikolaj Schumacher <bugs * nschum de>")) (:maintainer "Nikolaj Schumacher <bugs * nschum de>") (:url . "http://nschum.de/src/emacs/kill-ring-search/"))])

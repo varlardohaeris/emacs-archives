@@ -1,0 +1,2 @@
+
+(cubicle-mode . [(1 1 2) nil "Major mode for the Cubicle model checker" single ((:commit . "b043b0247bf9b144a5c3360e5096a4b141dd1fb6") (:authors ("Alain Mebsout")) (:maintainer "Alain Mebsout"))])

@@ -1,0 +1,2 @@
+
+(evil-rsi . [(2 0 0) ((evil (1 0 0))) "Use emacs motion keys in evil, inspired by vim-rsi" single ((:commit . "236bf6ed1e2285698db808463e5f2f69f5f5e7c0") (:keywords "evil" "rsi" "evil-rsi") (:authors ("Quang Linh LE" . "linktohack@gmail.com")) (:maintainer "Quang Linh LE" . "linktohack@gmail.com") (:url . "http://github.com/linktohack/evil-rsi"))])

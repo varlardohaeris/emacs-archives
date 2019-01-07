@@ -1,0 +1,2 @@
+
+(simple-bookmarks . [(1 8) ((cl-lib (0 5))) "Bookmark / functioncall manager" tar ((:commit . "e89e8163a0705e28e9346320a1ee13c1aae249af") (:keywords "bookmark" "functioncall") (:authors ("Julian T. Knabenschuh" . "jtkdevelopments@gmail.com")) (:maintainer "Julian T. Knabenschuh" . "jtkdevelopments@gmail.com") (:url . "https://github.com/jtkDvlp/simple-bookmarks"))])

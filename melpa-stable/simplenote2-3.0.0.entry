@@ -1,0 +1,2 @@
+
+(simplenote2 . [(3 0 0) ((request-deferred (0 2 0))) "Interact with simple-note.appspot.com" tar ((:commit . "070aa311b0a08b530394c53d0c52c6438efbc20c") (:keywords "simplenote") (:authors ("alpha22jp" . "alpha22jp@gmail.com")) (:maintainer "alpha22jp" . "alpha22jp@gmail.com"))])

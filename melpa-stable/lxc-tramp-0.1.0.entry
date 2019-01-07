@@ -1,0 +1,2 @@
+
+(lxc-tramp . [(0 1 0) ((emacs (24)) (cl-lib (0 6))) "TRAMP integration for LXC containers" single ((:commit . "17fc5962e7c27ac4f0bcc4ed7312dd5709063341") (:keywords "lxc" "convenience") (:authors ("montag451")) (:maintainer "montag451") (:url . "https://github.com/montag451/lxc-tramp"))])

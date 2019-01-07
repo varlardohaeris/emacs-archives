@@ -1,6 +1,10 @@
 [![MELPA](http://melpa.org/packages/mb-url-badge.svg)](http://melpa.org/#/mb-url)
 [![MELPA Stable](http://stable.melpa.org/packages/mb-url-badge.svg)](http://stable.melpa.org/#/mb-url)
 [![Build Status](https://travis-ci.org/dochang/mb-url.svg?branch=master)](https://travis-ci.org/dochang/mb-url)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/dochang/mb-url.svg)](http://isitmaintained.com/project/dochang/mb-url "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/dochang/mb-url.svg)](http://isitmaintained.com/project/dochang/mb-url "Percentage of issues still open")
+[![](https://img.shields.io/github/issues/dochang/mb-url.svg)](https://github.com/dochang/mb-url)
+[![](https://img.shields.io/github/issues-pr/dochang/mb-url.svg)](https://github.com/dochang/mb-url)
 
 Multiple Backends for URL package.
 
@@ -15,6 +19,12 @@ The motivation of this package is I can't connect HTTPS url behind proxy
 [#18860]: http://debbugs.gnu.org/cgi/bugreport.cgi?bug=18860
 [msg00756]: https://lists.gnu.org/archive/html/help-gnu-emacs/2015-08/msg00756.html
 [#10]: http://debbugs.gnu.org/cgi/bugreport.cgi?bug=10
+
+Notice:
+
+As the URL package has supported HTTPS over proxies supporting CONNECT since
+Emacs 26, this package is no longer recommended.  But it can still be used
+in Emacs < 26.
 
 Installation:
 
@@ -64,9 +74,13 @@ E.g.,
 
 cURL backend for `url-http'.
 
-##### `mb-url-http-curl-command'
+##### `mb-url-http-curl-program'
 
-Executable for cURL command.
+cURL program.
+
+##### `mb-url-http-curl-switches'
+
+cURL switches.
 
 #### [HTTPie][]
 
@@ -76,9 +90,13 @@ Executable for cURL command.
 
 HTTPie backend for `url-http'.
 
-##### `mb-url-http-httpie-command'
+##### `mb-url-http-httpie-program'
 
-Executable for HTTPie command.
+HTTPie program.
+
+##### `mb-url-http-httpie-switches'
+
+HTTPie switches.
 
 License:
 

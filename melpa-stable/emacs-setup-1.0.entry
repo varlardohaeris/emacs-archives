@@ -1,0 +1,2 @@
+
+(emacs-setup . [(1 0) nil "Package for maintaining your emacs configuration. Clean up your .emacs!" tar ((:commit . "cc36ad5318c6c0e65d1b9ff8dff5ea2437675de2"))])

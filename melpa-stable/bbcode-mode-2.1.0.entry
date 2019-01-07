@@ -1,0 +1,2 @@
+
+(bbcode-mode . [(2 1 0) nil "Major mode for writing BBCode markup" single ((:commit . "73c56a40301c8b017d3e64c08dccc80d1dc47e59") (:keywords "bbcode" "languages") (:authors ("Eric James Michael Ritz" . "lobbyjones@gmail.com")) (:maintainer "Lassi Kortela" . "lassi@lassi.io") (:url . "https://github.com/lassik/bbcode-mode"))])

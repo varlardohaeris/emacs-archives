@@ -1,0 +1,2 @@
+
+(helm-aws . [(1 0 0) ((helm (1 5 3))) "Manage AWS EC2 server instances directly from Emacs" single ((:commit . "172a4a3427d31c999e27e9ee06aa8e3822364a8c") (:authors ("istib")) (:maintainer "istib") (:url . "https://github.com/istib/helm-aws"))])

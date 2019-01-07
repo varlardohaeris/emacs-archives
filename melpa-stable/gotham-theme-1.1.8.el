@@ -1,11 +1,11 @@
 ;;; gotham-theme.el --- A very dark Emacs color theme.
 
-;; Copyright (C) 2014-2016 Vasilij Schneidermann <v.schneidermann@gmail.com>
+;; Copyright (C) 2014-2017 Vasilij Schneidermann <v.schneidermann@gmail.com>
 
 ;; Author: Vasilij Schneidermann <v.schneidermann@gmail.com>
 ;; URL: https://github.com/wasamasa/gotham-theme
 ;; Package-Version: 1.1.8
-;; Version: 1.1.7
+;; Version: 1.1.8
 
 ;; This file is NOT part of GNU Emacs.
 
@@ -157,7 +157,7 @@ depending on DISPLAY for keys which are either :foreground or
    (warning :foreground orange)
 
    ;; search and highlighting
-   (match :background base5)
+   (match :background base4)
    (isearch :inverse-video t)
    (isearch-fail :foreground red)
    (lazy-highlight :foreground base2 :background yellow)
@@ -186,9 +186,9 @@ depending on DISPLAY for keys which are either :foreground or
    (diff-changed :foreground cyan)
    (diff-header :foreground yellow)
    (diff-file-header :weight bold)
-   (diff-refine-added :weight bold)
-   (diff-refine-change :weight bold)
-   (diff-refine-removed :weight bold)
+   (diff-refine-added :background base3)
+   (diff-refine-change :background base3)
+   (diff-refine-removed :background base3)
    (diff-removed :foreground red)
 
    ;; erc
@@ -244,16 +244,6 @@ depending on DISPLAY for keys which are either :foreground or
    (eshell-ls-symlink :foreground blue :weight bold)
    (eshell-ls-unreadable :foreground red)
 
-   ;; elfeed
-   (elfeed-log-error-level-face :inherit error)
-   (elfeed-log-info-level-face :inherit success)
-   (elfeed-log-warn-level-face :inherit warning)
-   (elfeed-search-feed-face :foreground orange)
-   (elfeed-search-tag-face :foreground green)
-   (elfeed-search-title-face :foreground base6)
-   (elfeed-search-title-unread-face :foreground base6 :weight bold)
-   (elfeed-search-date-face :foreground violet)
-
    ;; flymake
    (flymake-errline :underline (:style wave :color red))
    (flymake-warnline :underline (:style wave :color orange))
@@ -271,7 +261,7 @@ depending on DISPLAY for keys which are either :foreground or
    (gnus-header-subject :foreground base5)
    (gnus-x-face :foreground base0 :background base6)
    (gnus-signature :inherit italic :foreground blue)
-   (mm-uu-extract :foreground base6 :background red)
+   (mm-uu-extract :foreground green :background base1)
    (gnus-cite-1 :foreground base4)
    (gnus-cite-2 :foreground base5)
    (gnus-cite-3 :foreground base6)
@@ -359,13 +349,13 @@ depending on DISPLAY for keys which are either :foreground or
    (message-separator :foreground blue)
 
    ;; outline
-   (outline-1 :foreground red)
+   (outline-1 :foreground violet)
    (outline-2 :foreground cyan)
-   (outline-3 :foreground orange)
+   (outline-3 :foreground magenta)
    (outline-4 :foreground green)
-   (outline-5 :foreground red)
+   (outline-5 :foreground violet)
    (outline-6 :foreground cyan)
-   (outline-7 :foreground orange)
+   (outline-7 :foreground magenta)
    (outline-8 :foreground green)
 
    ;; pulse
@@ -469,7 +459,7 @@ depending on DISPLAY for keys which are either :foreground or
    ;; anzu
    (anzu-mode-line :foreground orange :weight bold)
    (anzu-mode-line-no-match :foreground red :weight bold)
-   (anzu-replace-highlight :foreground base6 :background red)
+   (anzu-replace-highlight :foreground base6 :background base4)
    (anzu-match-1 :foreground base0 :background green)
    (anzu-match-2 :foreground base0 :background yellow)
    (anzu-match-3 :foreground base0 :background cyan)
@@ -502,6 +492,63 @@ depending on DISPLAY for keys which are either :foreground or
    (avy-lead-face-0 :foreground base0 :background base4)
    (avy-lead-face-1 :foreground base0 :background magenta)
    (avy-lead-face-2 :foreground base0 :background green)
+
+   ;; bookmark+
+   (bmkp-*-mark :foreground base2 :background yellow)
+   (bmkp->-mark :foreground yellow)
+   (bmkp-D-mark :foreground yellow :background red)
+   (bmkp-X-mark :foreground red)
+   (bmkp-a-mark :foreground base7 :background orange)
+   (bmkp-bad-bookmark :foreground red :background base2)
+   (bmkp-bookmark-file :foreground cyan :background base2)
+   (bmkp-bookmark-list :foreground green :background base2)
+   (bmkp-buffer :foreground green)
+   (bmkp-desktop :foreground orange :background base2)
+   (bmkp-file-handler :foreground base6 :background red)
+   (bmkp-function :foreground base5)
+   (bmkp-gnus :foreground orange)
+   (bmkp-heading :foreground yellow)
+   (bmkp-info :foreground base7)
+   (bmkp-light-autonamed :inherit highlight)
+   (bmkp-light-autonamed-region :foreground green :background base2)
+   (bmkp-light-fringe-autonamed :foreground green :background base2)
+   (bmkp-light-fringe-non-autonamed :foreground cyan :background base2)
+   (bmkp-light-mark :foreground base7 :background base1)
+   (bmkp-light-non-autonamed :foreground yellow :background base2)
+   (bmkp-light-non-autonamed-region :foreground cyan :background base2)
+   (bmkp-local-directory :foreground cyan)
+   (bmkp-local-file-with-region :foreground yellow)
+   (bmkp-local-file-without-region :foreground base6)
+   (bmkp-man :foreground magenta)
+   (bmkp-no-jump :foreground base4)
+   (bmkp-no-local :foreground yellow)
+   (bmkp-non-file :foreground base4)
+   (bmkp-remote-file :foreground orange)
+   (bmkp-sequence :foreground blue)
+   (bmkp-su-or-sudo :foreground red)
+   (bmkp-t-mark :foreground magenta)
+   (bmkp-url :foreground orange)
+   (bmkp-variable-list :foreground base5)
+
+   ;; cfw-calendar
+   (cfw:face-annotation :background base1 :foreground violet)
+   (cfw:face-day-title :background base1)
+   (cfw:face-default-content :foreground yellow)
+   (cfw:face-default-day :background base1 :weight bold)
+   (cfw:face-disable :background base1 :foreground violet)
+   (cfw:face-grid :foreground violet)
+   (cfw:face-header :foreground yellow :weight bold)
+   (cfw:face-holiday :background green :foreground base7)
+   (cfw:face-periods :foreground cyan)
+   (cfw:face-select :background base3 :foreground yellow)
+   (cfw:face-saturday :foreground violet :weight bold)
+   (cfw:face-sunday :foreground magenta :weight bold)
+   (cfw:face-title :background base0 :foreground magenta :weight bold)
+   (cfw:face-today :background base1 :foreground cyan)
+   (cfw:face-today-title :background red :foreground base7)
+   (cfw:face-toolbar :background base1)
+   (cfw:face-toolbar-button-off :foreground yellow)
+   (cfw:face-toolbar-button-on :foreground violet)
 
    ;; circe
    (circe-fool-face :inherit shadow)
@@ -543,6 +590,35 @@ depending on DISPLAY for keys which are either :foreground or
    (dired-async-message :inherit warning)
    (dired-async-mode-message :inherit success)
 
+   ;; dired plus
+   (diredp-autofile-name :background base3)
+   (diredp-compressed-file-name :foreground blue)
+   (diredp-compressed-file-suffix :foreground blue)
+   (diredp-date-time :foreground blue)
+   (diredp-deletion :foreground yellow :background red)
+   (diredp-deletion-file-name :background base3)
+   (diredp-dir-heading :foreground orange)
+   (diredp-dir-name :foreground cyan)
+   (diredp-executable-tag :foreground yellow)
+   (diredp-file-name :foreground base6)
+   (diredp-file-suffix :foreground green)
+   (diredp-flag-mark :foreground yellow :background blue)
+   (diredp-flag-mark-line :background base3)
+   (diredp-ignored-file-name :foreground base6)
+   (diredp-mode-line-flagged :foreground red)
+   (diredp-mode-line-marked :foreground red)
+   (diredp-number :foreground violet)
+   (diredp-symlink :foreground base6)
+   (diredp-tagged-autofile-name :foreground base6)
+   (diredp-no-priv :background base0)
+   (diredp-dir-priv :foreground cyan)
+   (diredp-read-priv :foreground magenta)
+   (diredp-write-priv :foreground green)
+   (diredp-exec-priv :foreground blue)
+   (diredp-link-priv :foreground yellow)
+   (diredp-rare-priv :foreground base6)
+   (diredp-other-priv :foreground base6)
+
    ;; ecb
    (ecb-default-highlight-face :background violet)
    (ecb-method-non-semantic-face :foreground orange)
@@ -550,6 +626,18 @@ depending on DISPLAY for keys which are either :foreground or
    (ecb-tag-header-face :foreground base2 :background cyan)
    (ecb-tree-guide-line-face :foreground base4)
    (ecb-type-tag-group-face :foreground magenta)
+
+   ;; elfeed
+   (elfeed-log-debug-level-face :foreground base4)
+   (elfeed-log-error-level-face :inherit error)
+   (elfeed-log-info-level-face :inherit success)
+   (elfeed-log-warn-level-face :inherit warning)
+   (elfeed-search-date-face :foreground violet)
+   (elfeed-search-feed-face :foreground orange)
+   (elfeed-search-tag-face :foreground green)
+   (elfeed-search-title-face :foreground base5)
+   (elfeed-search-unread-count-face :foreground orange)
+   (elfeed-search-unread-title-face :foreground base6 :weight bold)
 
    ;; emms
    (emms-playlist-track-face :foreground blue)
@@ -573,6 +661,9 @@ depending on DISPLAY for keys which are either :foreground or
    (enh-ruby-string-delimiter-face :foreground green)
    (erm-syn-errline :foreground red)
    (erm-syn-warnline :foreground orange)
+
+   ;; flx
+   (flx-highlight-face :foreground yellow)
 
    ;; flycheck
    (flycheck-error :underline (:style wave :color red))
@@ -600,7 +691,7 @@ depending on DISPLAY for keys which are either :foreground or
    (helm-buffer-size :foreground magenta)
    (helm-candidate-number :background base3)
    (helm-ff-directory :weight bold)
-   (helm-ff-executable :forground green)
+   (helm-ff-executable :foreground green)
    (helm-ff-invalid-symlink :foreground base2 :background red)
    (helm-ff-prefix :foreground base2 :background yellow)
    (helm-ff-symlink :foreground orange)
@@ -630,17 +721,35 @@ depending on DISPLAY for keys which are either :foreground or
    (hydra-face-pink :foreground orange :bold t)
    (hydra-face-amaranth :foreground magenta :bold t)
 
+   ;; info+
+   (info-command-ref-item :foreground green :background base2)
+   (info-constant-ref-item :foreground cyan :background base2)
+   (info-double-quoted-name :inherit font-lock-comment-face)
+   (info-file :foreground yellow :background base2)
+   (info-function-ref-item :inherit font-lock-function-name-face :background base2)
+   (info-macro-ref-item :foreground yellow :background base2)
+   (info-menu :foreground yellow)
+   (info-quoted-name :inherit font-lock-constant-face)
+   (info-reference-item :background base2)
+   (info-single-quote :inherit font-lock-keyword-face)
+   (info-special-form-ref-item :foreground yellow :background base2)
+   (info-string :inherit font-lock-string-face)
+   (info-syntax-class-item :foreground blue :background base2)
+   (info-user-option-ref-item :foreground red :background base2)
+   (info-variable-ref-item :inherit font-lock-variable-name-face :background base2)
+
    ;; ivy
    (ivy-confirm-face :foreground cyan)
    (ivy-current-match :foreground base7 :background base3)
+   (ivy-cursor :foreground base7 :background base3)
    (ivy-match-required :foreground red)
    (ivy-minibuffer-match-face-1 :foreground base0 :background base4)
    (ivy-minibuffer-match-face-2 :foreground base0 :background magenta)
    (ivy-minibuffer-match-face-3 :foreground base0 :background green)
    (ivy-minibuffer-match-face-4 :foreground base0 :background base5)
    (ivy-modified-buffer :foreground yellow)
-   (ivy-remote :foreground violet)
-   (ivy-subdir :foreground red)
+   (ivy-remote :foreground red)
+   (ivy-subdir :foreground base5)
    (ivy-virtual :foreground green)
 
    ;; jabber
@@ -805,6 +914,7 @@ depending on DISPLAY for keys which are either :foreground or
    (org-agenda-done :foreground green)
    (org-agenda-restriction-lock :inherit highlight)
    (org-agenda-structure :foreground base5)
+   (org-block :inherit default)
    (org-clock-overlay :inherit secondary-selection)
    (org-column :background base2)
    (org-column-title :inherit org-column :underline t)
@@ -826,7 +936,7 @@ depending on DISPLAY for keys which are either :foreground or
    (org-habit-ready-face :background green)
    (org-habit-ready-future-face :background green)
    (org-headline-done :foreground yellow)
-   (org-hide :background base0)
+   (org-hide :foreground base0)
    (org-latex-and-related :foreground orange)
    (org-scheduled :foreground green)
    (org-scheduled-previously :foreground orange)
@@ -883,7 +993,7 @@ depending on DISPLAY for keys which are either :foreground or
 
    ;; smartparens
    (sp-show-pair-match-face :foreground base2 :background orange)
-   (sp-show-pair-mismatch-face :foreground base2 background red)
+   (sp-show-pair-mismatch-face :foreground base2 :background red)
 
    ;; smart-mode-line
    (sml/charging :foreground green)
@@ -946,6 +1056,13 @@ depending on DISPLAY for keys which are either :foreground or
    (web-mode-param-name-face :foreground base5)
    (web-mode-symbol-face :foreground yellow)
    (web-mode-whitespace-face :foreground base7 :background red)
+
+   ;; wgrep
+   (wgrep-delete-face :foreground red)
+   (wgrep-done-face :foreground blue)
+   (wgrep-face :foreground yellow)
+   (wgrep-file-face :foreground green)
+   (wgrep-reject-face :foreground violet :weight bold)
 
    ;; undo-tree
    (undo-tree-visualizer-default-face :inherit shadow)

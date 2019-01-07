@@ -1,0 +1,2 @@
+
+(js2-closure . [(2 2 1) ((js2-mode (20150909))) "Google Closure dependency manager" single ((:commit . "74a75f001a8bc2b9c02b9e8b4557f7ee3c5f84fb") (:keywords "javascript" "closure") (:authors ("Justine Tunney" . "jart@google.com")) (:maintainer "Justine Tunney" . "jart@google.com") (:url . "http://github.com/jart/js2-closure"))])

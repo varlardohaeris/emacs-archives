@@ -1,0 +1,2 @@
+
+(solidity-flycheck . [(0 1 9) nil "Flycheck integration for solidity emacs mode" single ((:commit . "d0ff4dea49540f37301d869f2797fca2492f55d5") (:keywords "languages") (:authors ("Lefteris Karapetsas " . "lefteris@refu.co")) (:maintainer "Lefteris Karapetsas " . "lefteris@refu.co"))])

@@ -1,0 +1,2 @@
+
+(status . [(0 3) nil "This package adds support for status icons to Emacs." tar ((:commit . "b62c74bf272566f82a68622f29fb9edafea0f241"))])

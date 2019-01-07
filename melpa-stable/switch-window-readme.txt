@@ -40,7 +40,7 @@ When switch-window is enabled, user can use the below five keys:
 | "i" | Move the border up    |
 | "k" | Move the border down  |
 | "j" | Move the border left  |
-| "k" | Move the border right |
+| "l" | Move the border right |
 | "b" | Balance windows       |
 |"SPC"| Resume auto-resize    |
 
@@ -57,9 +57,10 @@ key to resume.
 *** I want to select a window with "a-z" instead of "1-9".
 #+BEGIN_EXAMPLE
 (setq switch-window-shortcut-style 'qwerty)
-(setq switch-window-qwerty-shortcuts
-      '("a" "s" "d" "f" "j" "k" "l" ";" "w" "e" "i" "o"))
 #+END_EXAMPLE
+
+Note: user can arrange qwerty shortcuts by variable
+`switch-window-qwerty-shortcuts'.
 
 *** I want to let window to show bigger label.
 The face of label is switch-window-label, user can change it :height

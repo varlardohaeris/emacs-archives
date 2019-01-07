@@ -1,0 +1,2 @@
+
+(mhc . [(1 2 0) ((calfw (20150703))) "Message Harmonized Calendaring system." tar ((:commit . "e29e69ab2f282131039a63f56f48e39d56c175d9") (:keywords "calendar") (:authors ("Yoshinari Nomura" . "nom@quickhack.net")) (:maintainer "Yoshinari Nomura" . "nom@quickhack.net") (:url . "http://www.quickhack.net/mhc"))])

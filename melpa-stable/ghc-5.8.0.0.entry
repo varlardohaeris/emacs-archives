@@ -1,0 +1,2 @@
+
+(ghc . [(5 8 0 0) ((haskell-mode (13 0))) "Sub mode for Haskell mode" tar ((:commit . "35690941aadbe44d9401102ab44a39753e0bb2b5"))])

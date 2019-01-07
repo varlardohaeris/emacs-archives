@@ -1,0 +1,2 @@
+
+(stumpwm-mode . [(0 9 8) nil "special lisp mode for evaluating code into running stumpwm" single ((:commit . "4d0603e52b5bab993b3be63e3654c74f641e677d") (:keywords "comm" "lisp" "tools") (:maintainer "Shawn Betts"))])

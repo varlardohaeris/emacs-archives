@@ -1,0 +1,2 @@
+
+(eshell-z . [(0 3 2) ((cl-lib (0 5))) "cd to frequent directory in eshell" single ((:commit . "96ec3f5f8a801c893d2c6a6b140e333ef2bfd8b5") (:keywords "convenience") (:authors ("Chunyang Xu" . "mail@xuchunyang.me")) (:maintainer "Chunyang Xu" . "mail@xuchunyang.me") (:url . "https://github.com/xuchunyang/eshell-z"))])

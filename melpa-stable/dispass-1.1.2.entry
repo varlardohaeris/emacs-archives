@@ -1,0 +1,2 @@
+
+(dispass . [(1 1 2) nil "Emacs wrapper for DisPass" single ((:commit . "38b880e72cfe5e65179b16791903b0900c73eff4") (:keywords "processes") (:authors ("Tom Willemsen" . "tom@ryuslash.org")) (:maintainer "Tom Willemsen" . "tom@ryuslash.org") (:url . "http://projects.ryuslash.org/dispass.el/"))])

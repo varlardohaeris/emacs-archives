@@ -1,0 +1,2 @@
+
+(org-babel-eval-in-repl . [(1 4) ((eval-in-repl (0 9 2)) (matlab-mode (3 3 6)) (ess (16 10)) (emacs (24))) "Eval org-mode babel code blocks in various REPLs." tar ((:commit . "3f26e3cf8bed9ec8e025e4143e708e6e470258d4") (:keywords "literate programming" "reproducible research" "async execution") (:authors ("Takeshi Teshima" . "diadochos.developer@gmail.com")) (:maintainer "Takeshi Teshima" . "diadochos.developer@gmail.com") (:url . "https://github.com/diadochos/org-babel-eval-in-repl"))])

@@ -1,0 +1,2 @@
+
+(ipython-shell-send . [(1 0 3) ((emacs (24))) "Send code (including magics) to ipython shell" single ((:commit . "ff944b436db381e6772a26c09b0b20a097eb323e") (:keywords "tools" "processes") (:authors ("Jack Kamm" . "jackkamm@gmail.com")) (:maintainer "Jack Kamm" . "jackkamm@gmail.com") (:url . "https://github.com/jackkamm/ipython-shell-send-el"))])

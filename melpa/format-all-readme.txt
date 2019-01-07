@@ -26,6 +26,7 @@ Supported languages:
 - Java (clang-format)
 - JavaScript/JSON/JSX (prettier)
 - Kotlin (ktlint)
+- Lua (lua-fmt)
 - Markdown (prettier)
 - OCaml (ocp-indent)
 - Perl (perltidy)

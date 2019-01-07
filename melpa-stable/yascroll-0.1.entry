@@ -1,0 +1,2 @@
+
+(yascroll . [(0 1) nil "Yet Another Scroll Bar Mode" single ((:commit . "0a8b531b3a3c8afe7235c8c212e08bfe2021a629") (:keywords "convenience") (:authors ("Tomohiro Matsuyama" . "tomo@cx4a.org")) (:maintainer "Tomohiro Matsuyama" . "tomo@cx4a.org"))])

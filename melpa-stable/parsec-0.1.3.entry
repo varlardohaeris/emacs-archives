@@ -1,0 +1,2 @@
+
+(parsec . [(0 1 3) ((emacs (24)) (cl-lib (0 5))) "Parser combinator library" single ((:commit . "8f0c266d8b9b0ee5fcf9b80c518644b2849ff3b3") (:keywords "extensions") (:authors ("Junpeng Qiu" . "qjpchmail@gmail.com")) (:maintainer "Junpeng Qiu" . "qjpchmail@gmail.com") (:url . "https://github.com/cute-jumper/parsec.el"))])

@@ -1,0 +1,2 @@
+
+(cpputils-cmake . [(5 5) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar ((:commit . "55e5c69554379632692a0fa20bfadeef9194fbdd"))])

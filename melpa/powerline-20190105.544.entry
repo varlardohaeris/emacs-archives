@@ -1,0 +1,2 @@
+
+(powerline . [(20190105 544) ((cl-lib (0 2))) "Rewrite of Powerline" tar ((:commit . "9bea5591718a9beb809bc33ff5e3a86615356e33") (:keywords "mode-line") (:authors ("Donald Ephraim Curtis" . "dcurtis@milkbox.net")) (:maintainer "Donald Ephraim Curtis" . "dcurtis@milkbox.net") (:url . "http://github.com/milkypostman/powerline/"))])

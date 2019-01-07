@@ -1,0 +1,2 @@
+
+(async . [(1 9 3) nil "Asynchronous processing in Emacs" tar ((:commit . "caad15ce64c1aac5e17d480c59ee6c85ebcb6bb2") (:keywords "async") (:url . "https://github.com/jwiegley/emacs-async"))])

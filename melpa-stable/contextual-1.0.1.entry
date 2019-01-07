@@ -1,0 +1,2 @@
+
+(contextual . [(1 0 1) ((emacs (24)) (dash (2 12 1)) (cl-lib (0 5))) "Contextual profile management system" single ((:commit . "8134a2d8034c624f4fdbbb0b3893de12f4257909") (:keywords "convenience" "tools") (:authors ("Alexander Kahl" . "alex@lshift.de")) (:maintainer "Alexander Kahl" . "alex@lshift.de") (:url . "https://github.com/lshift-de/contextual"))])

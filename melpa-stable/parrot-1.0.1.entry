@@ -1,0 +1,2 @@
+
+(parrot . [(1 0 1) ((emacs (24 1))) "Party Parrot rotates gracefully in mode-line." tar ((:commit . "e9fe686408214884b20c65284a6a595e1c755794") (:keywords "party" "parrot" "rotate" "sirocco" "kakapo" "games") (:authors ("Daniel Ting" . "deep.paren.12@gmail.com")) (:maintainer "Daniel Ting" . "deep.paren.12@gmail.com") (:url . "https://github.com/dp12/parrot.git"))])

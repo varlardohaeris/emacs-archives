@@ -1,0 +1,2 @@
+
+(dired-icon . [(0 5) ((emacs (24 3))) "A minor mode to display a list of associated icons in dired buffers." tar ((:commit . "dbace8d2250f84487d31b39050fcdc260fcde804") (:keywords "dired" "files") (:authors ("Hong Xu" . "hong@topbug.net")) (:maintainer "Hong Xu" . "hong@topbug.net") (:url . "https://gitlab.com/xuhdev/dired-icon"))])

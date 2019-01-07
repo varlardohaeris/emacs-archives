@@ -1,0 +1,2 @@
+
+(yequake . [(20190104 757) ((emacs (25 2)) (dash (2 14 1))) "Drop-down frames, like Yakuake" single ((:commit . "94a6be87ed635cb385388c753419dc59cc759b5f") (:keywords "convenience" "window-system" "frames") (:authors ("Adam Porter" . "adam@alphapapa.net")) (:maintainer "Adam Porter" . "adam@alphapapa.net") (:url . "http://github.com/alphapapa/yequake"))])

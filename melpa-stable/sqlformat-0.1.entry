@@ -1,0 +1,2 @@
+
+(sqlformat . [(0 1) ((emacs (24))) "Reformat SQL using sqlformat or pgformatter" single ((:commit . "b70b05bf469a27c1a2940eeaa1a5c8cc93d805fd") (:keywords "languages") (:authors ("Steve Purcell" . "steve@sanityinc.com")) (:maintainer "Steve Purcell" . "steve@sanityinc.com"))])

@@ -1,0 +1,2 @@
+
+(xquery-tool . [(0 1 10) nil "A simple interface to saxonb's xquery." single ((:commit . "b81b5862e8541aca5231840eb176afad7ab55cf3") (:keywords "xml" "xquery" "emacs") (:authors ("Patrick McAllister" . "pma@rdorte.org")) (:maintainer "Patrick McAllister" . "pma@rdorte.org") (:url . "https://github.com/paddymcall/xquery-tool.el"))])

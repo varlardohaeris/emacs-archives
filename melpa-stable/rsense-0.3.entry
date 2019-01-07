@@ -1,0 +1,2 @@
+
+(rsense . [(0 3) nil "RSense client for Emacs" single ((:commit . "e4297052ef32d06237e8bd1534a0caf70a34ad28") (:keywords "convenience") (:authors ("Tomohiro Matsuyama" . "tomo@cx4a.org")) (:maintainer "Tomohiro Matsuyama" . "tomo@cx4a.org"))])

@@ -1,0 +1,2 @@
+
+(flycheck-inline . [(20181218 1210) ((emacs (25 1)) (flycheck (32))) "Display Flycheck errors inline" single ((:commit . "242c975bce9dfae8c36f4986cddb84358a3f9e56") (:keywords "tools" "convenience") (:authors ("fmdkdd")) (:maintainer "fmdkdd") (:url . "https://github.com/flycheck/flycheck-inline"))])

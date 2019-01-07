@@ -1,0 +1,2 @@
+
+(ledger-mode . [(3 1 1) nil "Helper code for use with the \"ledger\" command-line tool" tar ((:commit . "96c4e81eed52e0ef514dc15a6ea6d877b3409a2a"))])

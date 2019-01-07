@@ -1,0 +1,2 @@
+
+(sekka . [(1 8 0) ((cl-lib (0 3)) (concurrent (0 3 1)) (popup (0 5 2))) "A client for Sekka IME server" single ((:commit . "d1fd5d47aacba723631d5d374169a45ff2051c41") (:keywords "ime" "skk" "japanese") (:authors ("Kiyoka Nishiyama" . "kiyoka@sumibi.org")) (:maintainer "Kiyoka Nishiyama" . "kiyoka@sumibi.org") (:url . "https://github.com/kiyoka/sekka"))])

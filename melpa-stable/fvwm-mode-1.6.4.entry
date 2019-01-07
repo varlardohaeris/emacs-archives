@@ -1,0 +1,2 @@
+
+(fvwm-mode . [(1 6 4) nil "major mode for editing Fvwm configuration files" single ((:commit . "d48a309bb7db21f5404b6619c6ee861fe0457704") (:keywords "files") (:authors ("Bert Geens" . "bert@lair.be")) (:maintainer "Bert Geens" . "bert@lair.be"))])

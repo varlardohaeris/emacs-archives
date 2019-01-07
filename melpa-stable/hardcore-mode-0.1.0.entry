@@ -1,0 +1,2 @@
+
+(hardcore-mode . [(0 1 0) nil "Disable arrow keys + optionally backspace and return" single ((:commit . "5ab75594a7a0ca236e2ac87882ee439ff6155d96") (:authors ("Magnar Sveen" . "magnars@gmail.com")) (:maintainer "Magnar Sveen" . "magnars@gmail.com"))])

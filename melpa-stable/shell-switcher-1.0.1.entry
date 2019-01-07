@@ -1,0 +1,2 @@
+
+(shell-switcher . [(1 0 1) nil "Provide fast switching between shell buffers." tar ((:commit . "2c5575ae859a82041a4bacd1793b844bfc24c34f"))])

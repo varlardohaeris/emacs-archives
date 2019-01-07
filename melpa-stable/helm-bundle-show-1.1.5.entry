@@ -1,0 +1,2 @@
+
+(helm-bundle-show . [(1 1 5) ((helm (1 8 0))) "bundle show with helm interface" single ((:commit . "b34523aa8a7f82ed9a1bf3643c35b65866a7877a") (:authors ("Takashi Masuda" . "masutaka.net@gmail.com")) (:maintainer "Takashi Masuda" . "masutaka.net@gmail.com") (:url . "https://github.com/masutaka/emacs-helm-bundle-show"))])

@@ -1,0 +1,2 @@
+
+(literal-string . [(0 1) ((markdown-mode (2 0)) (emacs (25))) "edit string literals in a dedicated buffer" single ((:commit . "46dd2b620df70d681261616f1a26afa4a032e2d5") (:keywords "lisp" "tools" "docs") (:authors ("Joost Diepenmaat" . "joost@zeekat.nl")) (:maintainer "Joost Diepenmaat" . "joost@zeekat.nl") (:url . "https://github.com/joodie/literal-string-mode/"))])

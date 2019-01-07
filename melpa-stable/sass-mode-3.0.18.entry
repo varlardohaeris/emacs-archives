@@ -1,0 +1,2 @@
+
+(sass-mode . [(3 0 18) ((haml-mode (3 0 15))) "Major mode for editing Sass files" single ((:commit . "26a66e331b507fb420e3bb7d0a6a8fbb04294343") (:keywords "markup" "language" "css") (:authors ("Nathan Weizenbaum")) (:maintainer "Nathan Weizenbaum") (:url . "http://github.com/nex3/haml/tree/master"))])

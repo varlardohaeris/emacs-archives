@@ -1,0 +1,2 @@
+
+(evil-org . [(0 1 1) ((evil (0)) (org (0))) "evil keybindings for org-mode" single ((:commit . "2d7c58dbeca0d4ac7b4eab5f47b77946951f27e9") (:keywords "evil" "vim-emulation" "org-mode" "key-bindings" "presets") (:authors ("Edward Tjörnhammar")) (:maintainer "Edward Tjörnhammar") (:url . "https://github.com/edwtjo/evil-org-mode.git"))])

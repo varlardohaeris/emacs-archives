@@ -1,0 +1,2 @@
+
+(wonderland . [(0 1 1) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) "declarative configuration for Emacsen" single ((:commit . "28cf6b37000c395ece9519db53147fb826a42bc4") (:keywords "configuration" "profile" "wonderland") (:authors ("Christina Whyte" . "kurisu.whyte@gmail.com")) (:maintainer "Christina Whyte" . "kurisu.whyte@gmail.com") (:url . "http://github.com/kurisuwhyte/emacs-wonderland"))])

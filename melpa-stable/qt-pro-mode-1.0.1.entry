@@ -1,0 +1,2 @@
+
+(qt-pro-mode . [(1 0 1) ((emacs (24))) "Qt Pro/Pri major mode" single ((:commit . "f4accdeba5d49b79f85f0f24f74ac25e8326d487") (:keywords "extensions") (:authors ("Todd Neal" . "tolchz@gmail.com")) (:maintainer "Todd Neal" . "tolchz@gmail.com"))])

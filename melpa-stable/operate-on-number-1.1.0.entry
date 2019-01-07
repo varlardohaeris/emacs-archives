@@ -1,0 +1,2 @@
+
+(operate-on-number . [(1 1 0) nil "Operate on number at point with arithmetic functions" single ((:commit . "6a17272e2b6e23260edb1b5eeb01905a1f37e0a6") (:keywords "editing") (:authors ("Akinori MUSHA" . "knu@iDaemons.org")) (:maintainer "Akinori MUSHA" . "knu@iDaemons.org") (:url . "https://github.com/knu/operate-on-number.el"))])

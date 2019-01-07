@@ -1,0 +1,2 @@
+
+(hl-anything . [(0 0 9) ((emacs (24 3))) "Highlight symbols, selections, enclosing parens and more." tar ((:commit . "de631c87d3a6602cdbf84c1623558334fda354fa") (:authors ("boyw165")) (:maintainer "boyw165"))])

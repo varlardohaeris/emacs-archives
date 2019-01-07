@@ -1,0 +1,2 @@
+
+(ac-php-core . [(2 0 6) ((emacs (24)) (dash (1)) (php-mode (1)) (xcscope (1)) (s (1)) (f (0 17 0)) (popup (0 5 0))) "gen tags for php" tar ((:commit . "440e4e63f88d2087305e738d0dae8edddfdcfb04") (:keywords "completion" "convenience" "intellisense") (:authors (nil . "xcwenn@qq.com [https://github.com/xcwen]")) (:maintainer nil . "xcwenn@qq.com [https://github.com/xcwen]") (:url . "https://github.com/xcwen/ac-php"))])

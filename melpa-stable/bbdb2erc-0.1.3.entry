@@ -1,0 +1,2 @@
+
+(bbdb2erc . [(0 1 3) ((bbdb (3 0))) "make bbdb show if pal is online with ERC, click i to chat" single ((:commit . "f39a36351e1e6f1105c9e32970e7502b77b0dbcd") (:keywords "irc" "contacts" "chat" "client" "internet") (:authors ("Kevin Brubeck Unhammer" . "unhammer@fsfe.org")) (:maintainer "Kevin Brubeck Unhammer" . "unhammer@fsfe.org"))])

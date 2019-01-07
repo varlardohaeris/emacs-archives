@@ -1,0 +1,2 @@
+
+(say-what-im-doing . [(0 2) nil "dictate what you're doing with text to speech" single ((:commit . "4acc16360a29646040b51db158ba7fdeb711449d") (:keywords "text to speech" "dumb" "funny") (:authors ("Benaiah Mischenko")) (:maintainer "Benaiah Mischenko") (:url . "http://github.com/benaiah/say-what-im-doing"))])

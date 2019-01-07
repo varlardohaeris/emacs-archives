@@ -3,4 +3,3 @@ References:
   http://d.hatena.ne.jp/kazu-yamamoto/mobile?date=20071029
 
 Usage: (add-hook 'js-mode-hook 'flymake-jslint-load)
-(require 'flymake)

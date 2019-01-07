@@ -1,0 +1,2 @@
+
+(zone-nyan . [(0 2 2) ((esxml (0 3 1))) "Zone out with nyan cat" single ((:commit . "e36875d83ad3dce14f23864688959fa0d98ba410") (:keywords "zone") (:authors ("Vasilij Schneidermann" . "v.schneidermann@gmail.com")) (:maintainer "Vasilij Schneidermann" . "v.schneidermann@gmail.com") (:url . "https://github.com/wasamasa/zone-nyan"))])

@@ -1,0 +1,2 @@
+
+(zotelo . [(1 3) nil "Manage Zotero collections from emacs" single ((:commit . "56eaaa76f80bd15710e68af4a1e585394af987d3") (:keywords "zotero" "emacs" "reftex" "bibtex" "mozrepl" "bibliography manager") (:authors ("Spinu Vitalie")) (:maintainer "Spinu Vitalie") (:url . "https://github.com/vitoshka/zotelo"))])

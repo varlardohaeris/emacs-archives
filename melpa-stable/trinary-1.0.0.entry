@@ -1,0 +1,2 @@
+
+(trinary . [(1 0 0) ((emacs (24))) "Trinary logic." single ((:commit . "dc10294af106ff3b110c372841eef0a8ec4c29c7") (:keywords "languages") (:authors ("Matúš Goljer" . "matus.goljer@gmail.com")) (:maintainer "Matúš Goljer" . "matus.goljer@gmail.com") (:url . "https://github.com/Fuco1/trinary-logic"))])

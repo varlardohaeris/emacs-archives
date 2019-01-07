@@ -1,0 +1,2 @@
+
+(make-color . [(0 4) nil "Alternative to picking color - update fg/bg color by pressing r/g/b/... keys" single ((:commit . "b19cb40c0619e267f2948ed37aff67b712a6deed") (:keywords "color") (:authors ("Alex Kost" . "alezost@gmail.com")) (:maintainer "Alex Kost" . "alezost@gmail.com") (:url . "http://github.com/alezost/make-color.el"))])

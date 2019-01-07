@@ -1,0 +1,2 @@
+
+(goto-gem . [(1 2) ((s (1 9 0))) "Open dired in gem directory" single ((:commit . "6f5bd405c096ef879fed1298c09d0daa0bae5dac") (:keywords "gemfile" "convenience") (:authors ("Peter Stiernström" . "peter@stiernstrom.se")) (:maintainer "Peter Stiernström" . "peter@stiernstrom.se"))])

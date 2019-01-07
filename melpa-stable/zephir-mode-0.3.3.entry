@@ -1,0 +1,2 @@
+
+(zephir-mode . [(0 3 3) ((emacs (24 3))) "Major mode for editing Zephir code" single ((:commit . "243f0fb7fd1dfebf0f0bdf94046b72d1bea4f66c") (:keywords "languages") (:authors ("Serghei Iakovlev" . "serghei@phalconphp.com")) (:maintainer "Serghei Iakovlev") (:url . "https://github.com/sergeyklay/zephir-mode"))])

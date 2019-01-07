@@ -1,0 +1,2 @@
+
+(beginend . [(2 0 0) ((emacs (24 4))) "Redefine M-< and M-> for some modes" single ((:commit . "a06a479c2279da9e852cf42628b6dfa466fff0bd"))])

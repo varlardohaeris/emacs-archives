@@ -1,0 +1,2 @@
+
+(zoom-window . [(0 5) ((emacs (24 3))) "Zoom window like tmux" single ((:commit . "eefe36d26e04a9f89aad27671d1f06e9d4736ac6") (:authors ("Syohei YOSHIDA" . "syohex@gmail.com")) (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com") (:url . "https://github.com/syohex/emacs-zoom-window"))])

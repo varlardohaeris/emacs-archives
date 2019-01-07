@@ -1,0 +1,2 @@
+
+(merlin-eldoc . [(1 3) ((emacs (24 4)) (merlin (3 0))) "eldoc for OCaml and Reason" single ((:commit . "bbb1a10f2131c09a7f7f844d4da98efd77f927ae") (:keywords "merlin" "ocaml" "languages" "eldoc") (:authors ("Louis Roché" . "louis@louisroche.net")) (:maintainer "Louis Roché" . "louis@louisroche.net") (:url . "https://github.com/khady/merlin-eldoc"))])

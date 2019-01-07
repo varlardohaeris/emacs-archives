@@ -1,0 +1,2 @@
+
+(butler . [(0 2 4) ((deferred (3 2)) (json (1 2)) (emacs (24))) "Emacs client for Jenkins" tar ((:commit . "0e91e0f01ac9c09422f076a096ee567ee138e7a4"))])

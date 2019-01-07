@@ -1,0 +1,2 @@
+
+(smmry . [(0 0 3) nil "SMMRY client" single ((:commit . "b7ee765337fa627a6c59eb4f2a91df5d280ac6df") (:keywords "api" "smmry") (:authors ("james sangho nah" . "microamp@protonmail.com")) (:maintainer "james sangho nah" . "microamp@protonmail.com") (:url . "https://github.com/microamp/smmry.el"))])

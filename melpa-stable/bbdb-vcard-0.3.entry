@@ -1,0 +1,2 @@
+
+(bbdb-vcard . [(0 3) nil "vCard import/export for BBDB" tar ((:commit . "9e11fafef1a94bc6395bd1eeacd00f94848ac560") (:keywords "data" "calendar" "mail" "news") (:authors ("Bert Burgemeister" . "trebbu@googlemail.com")) (:maintainer "Bert Burgemeister" . "trebbu@googlemail.com") (:url . "http://github.com/trebb/bbdb-vcard"))])

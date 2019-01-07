@@ -1,0 +1,2 @@
+
+(emojify . [(20181221 350) ((seq (1 11)) (ht (2 0)) (emacs (24 3))) "Display emojis in Emacs" tar ((:commit . "f2edcba0f6b19717e38a3e96adc8adc262f3b5a5") (:keywords "multimedia" "convenience") (:authors ("Iqbal Ansari" . "iqbalansari02@yahoo.com")) (:maintainer "Iqbal Ansari" . "iqbalansari02@yahoo.com") (:url . "https://github.com/iqbalansari/emacs-emojify"))])

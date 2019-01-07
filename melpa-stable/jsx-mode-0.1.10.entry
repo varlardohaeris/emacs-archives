@@ -1,0 +1,2 @@
+
+(jsx-mode . [(0 1 10) nil "major mode for JSX" single ((:commit . "1ca260b76f6e6251c528ed89501597a5b456c179") (:authors ("Takeshi Arabiki (abicky)")) (:maintainer "Takeshi Arabiki (abicky)") (:url . "https://github.com/jsx/jsx-mode.el"))])

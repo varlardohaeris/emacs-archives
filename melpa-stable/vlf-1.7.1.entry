@@ -1,0 +1,2 @@
+
+(vlf . [(1 7 1) nil "View Large Files" tar ((:commit . "a01e9ed416cd81ccddebebbf05d4ca80060b07dc") (:keywords "large files" "utilities") (:maintainer "Andrey Kotlarski" . "m00naticus@gmail.com") (:url . "https://github.com/m00natic/vlfi"))])

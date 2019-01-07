@@ -1,0 +1,2 @@
+
+(cheat-sh . [(1 7) ((emacs (24))) "Interact with cheat.sh" single ((:commit . "6409bb66241255cc9a0362f2acdcb0b34344f9f2") (:keywords "docs" "help") (:authors ("Dave Pearson" . "davep@davep.org")) (:maintainer "Dave Pearson" . "davep@davep.org") (:url . "https://github.com/davep/cheat-sh.el"))])

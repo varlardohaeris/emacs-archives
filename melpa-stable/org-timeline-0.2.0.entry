@@ -1,0 +1,2 @@
+
+(org-timeline . [(0 2 0) ((dash (2 13 0)) (emacs (24 3))) "Add graphical view of agenda to agenda buffer." single ((:commit . "5d1adbbadf3a9ad4a4a70dbf4b7199a6f9992b59") (:keywords "calendar") (:authors ("Matúš Goljer" . "matus.goljer@gmail.com")) (:maintainer "Matúš Goljer" . "matus.goljer@gmail.com") (:url . "https://github.com/Fuco1/org-timeline/"))])

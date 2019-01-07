@@ -1,0 +1,2 @@
+
+(disable-mouse . [(0 3) nil "Disable mouse commands globally" single ((:commit . "81639930bcaeedadbcc19728e91719afcac84613") (:keywords "mouse") (:authors ("Steve Purcell" . "steve@sanityinc.com")) (:maintainer "Steve Purcell" . "steve@sanityinc.com") (:url . "https://github.com/purcell/disable-mouse"))])

@@ -1,0 +1,2 @@
+
+(el-x . [(0 3 1) nil "main entry point for el-x package" tar ((:commit . "e96541c1f32e0a3aca4ad0a0eb382bd898250163") (:keywords "lisp") (:authors ("Yann Hodique" . "yann.hodique@gmail.com")) (:maintainer "Yann Hodique" . "yann.hodique@gmail.com"))])
