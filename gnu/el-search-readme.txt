@@ -13,10 +13,10 @@ patterns and your own multi-search commands.
 Key bindings
 ============
 
-Loading this file doesn't install any key bindings - but you
-probably want some.  There are two predefined installable schemes
-of key bindings.  The first scheme defines bindings mostly of the
-form "Control-Shift-Letter", e.g. C-S, C-R, C-% etc.  These can be
+Loading this file doesn't install any key bindings - but you maybe
+want some.  There are two predefined installable schemes of key
+bindings.  The first scheme defines bindings mostly of the form
+"Control-Shift-Letter", e.g. C-S, C-R, C-% etc.  These can be
 installed by calling (el-search-install-shift-bindings) - typically
 from your init file.  For console users (and others), the function
 `el-search-install-bindings-under-prefix' installs bindings of the
@@ -41,10 +41,10 @@ or
   (el-search-install-bindings-under-prefix [(meta ?s) ?e])
 
 respectively.  If you don't want to install any key bindings, you
-at least want to remember the command name "el-search-pattern" or
-its alias "el-search" to get a start, and that C-h will give you
-access to some help commands; among other things C-h b listing the
-relevant key bindings for controlling a search.
+want to remember the command name "el-search-pattern" or its alias
+"el-search" to get a start, and that after starting a search C-h
+will give you access to some help commands; among other things C-h
+b listing the relevant key bindings for controlling a search.
 
   C-S, M-s e s (`el-search-pattern')
     Start a search in the current buffer/go to the next match.
@@ -85,7 +85,7 @@ relevant key bindings for controlling a search.
   C-O or M-RET (from a search pattern prompt)
     Execute this search command as occur.
 
-  C-N, M-s e n (`el-search-continue-in-next-buffer')
+  C-X, M-s e x (`el-search-continue-in-next-buffer')
     Skip over current buffer or file.
 
   C-D, M-s e d (`el-search-skip-directory')
@@ -215,7 +215,7 @@ saved.  You can later continue searching by calling
 `el-search-jump-to-search-head' (C-J; M-s e j): this command jumps
 to the last match and re-activates the search.
 
-`el-search-continue-in-next-buffer' (C-N; n) skips all remaining
+`el-search-continue-in-next-buffer' (C-X; x) skips all remaining
 matches in the current buffer and continues searching in the next
 buffer.  `el-search-skip-directory' (C-D; d) even skips all
 subsequent files under a specified directory.
@@ -388,6 +388,17 @@ Known Limitations and Bugs
 
 
 TODO:
+
+- Add org and/or Info documentation
+
+- Could we profit from the edebug-read-storing-offsets reader?
+
+- Make currently hardcoded bindings in
+  `el-search-loop-over-bindings' configurable
+
+- When reading input, bind up and down to
+  next-line-or-history-element and
+  previous-line-or-history-element?
 
 - Make searching work in comments, too? (->
   `parse-sexp-ignore-comments').  Related: should the pattern

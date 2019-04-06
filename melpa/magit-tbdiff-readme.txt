@@ -14,19 +14,19 @@ There are three commands for calling git-tbdiff:
     it also reads a base revision, constructing the range as
     <base>..A and <base>..B.
 
-These commands are available in the popup `magit-tbdiff-popup',
-which in turn is available in the Magit diff popup, bound by
-default to "i" (for "interdiff" [2]).  So, with the default
-keybindings, you can invoke the tbdiff popup with "di".
+These commands are available in the transient `magit-tbdiff', which
+in turn is available in the Magit diff transient, bound by default
+to "i" (for "interdiff" [2]).  So, with the default keybindings,
+you can invoke the tbdiff transient with "di".
 
 As of v2.19.0, Git comes with the "range-diff" subcommand, an
 analog of tbdiff.  The option `magit-tbdiff-subcommand' controls
 which subcommand is used.
 
 When Magit-tbdiff is installed from MELPA, no additional setup is
-needed beyond installing git-tbdiff [1].  The tbdiff popup will be
-added under the Magit diff popup, and Magit-tbdiff will be loaded
-the first time that the tbdiff popup is invoked.
+needed beyond installing git-tbdiff [1].  The tbdiff transient will
+be added under the Magit diff transient, and Magit-tbdiff will be
+loaded the first time that the tbdiff transient is invoked.
 
 [1] https://github.com/trast/tbdiff
 

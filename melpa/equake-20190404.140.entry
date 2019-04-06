@@ -1,0 +1,2 @@
+
+(equake . [(20190404 140) ((emacs (25)) (dash (2 14 1)) (tco (20190309 55))) "drop-drop console for eshell & terminal emulation" single ((:commit . "ed15fd55cd4f2276161a6f712ed0b83cd10a8cdc") (:keywords "convenience" "frames" "terminals" "tools" "window-system") (:authors ("Benjamin Slade" . "slade@jnanam.net")) (:maintainer "Benjamin Slade" . "slade@jnanam.net") (:url . "https://gitlab.com/emacsomancer/equake"))])

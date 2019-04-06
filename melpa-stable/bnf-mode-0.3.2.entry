@@ -1,0 +1,2 @@
+
+(bnf-mode . [(0 3 2) ((cl-lib (0 5)) (emacs (24 3))) "Major mode for editing BNF grammars" single ((:commit . "e5f56ca65052187cfa3d4475359275e13852640d") (:keywords "languages") (:authors (nil . "Serghei Iakovlev (concat \"sadhooklay\" \"@\" \"gmail\" \".com\")")) (:maintainer "Serghei Iakovlev") (:url . "https://github.com/sergeyklay/bnf-mode"))])

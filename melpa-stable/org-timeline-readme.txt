@@ -8,7 +8,7 @@ Scheduled tasks or tasks with time ranges are rendered in the
 display with `org-timeline-block' face.  Clocked entires are
 displayed in `org-timeline-clocked' face.  The background of
 timeslots which are in the past is highlighted with
-`org-timeline-elapsed` face.
+`org-timeline-elapsed' face.
 
 You can use custom color for a task by adding the property
 `TIMELINE_FACE' with either a string which is a color name or a

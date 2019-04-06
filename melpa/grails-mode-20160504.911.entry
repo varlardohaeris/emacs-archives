@@ -1,2 +1,2 @@
 
-(grails-mode . [(20160504 911) nil "minor-mode that adds some Grails project management to a grails project" single ((:commit . "f80b6795f645aff592ffbdc6b500084955094f5c") (:keywords "languages") (:authors ("Jim Morris" . "morris@wolfman.com")) (:maintainer "Russel Winder" . "russel@winder.org.uk") (:url . "http://blog.wolfman.com"))])
+(grails-mode . [(20160504 911) nil "minor-mode that adds some Grails project management to a grails project" single ((:commit . "75741c6f558f628d515142a647ad40538d6a3151") (:keywords "languages") (:authors ("Jim Morris" . "morris@wolfman.com")) (:maintainer "Russel Winder" . "russel@winder.org.uk") (:url . "http://blog.wolfman.com"))])

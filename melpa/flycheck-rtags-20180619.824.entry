@@ -1,2 +1,2 @@
 
-(flycheck-rtags . [(20180619 824) ((emacs (24)) (flycheck (0 23)) (rtags (2 10))) "RTags Flycheck integration." single ((:commit . "6e019c7b997e3c3be74716bc6ea05343f82a8d1b") (:authors ("Christian Schwarzgruber" . "c.schwarzgruber.cs@gmail.com")) (:maintainer "Christian Schwarzgruber" . "c.schwarzgruber.cs@gmail.com") (:url . "http://rtags.net"))])
+(flycheck-rtags . [(20180619 824) ((emacs (24)) (flycheck (0 23)) (rtags (2 10))) "RTags Flycheck integration." single ((:commit . "475783249d014b5f2c4809af43573b4940775590") (:authors ("Christian Schwarzgruber" . "c.schwarzgruber.cs@gmail.com")) (:maintainer "Christian Schwarzgruber" . "c.schwarzgruber.cs@gmail.com") (:url . "http://rtags.net"))])

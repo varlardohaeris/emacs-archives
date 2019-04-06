@@ -1,0 +1,2 @@
+
+(org-wild-notifier . [(0 3 0) ((alert (1 2)) (async (1 9 3)) (dash (2 13 0)) (emacs (24 4))) "Customizable org-agenda notifications" single ((:commit . "65054365e4b279cef97acc6d20235c4ca422cf04") (:keywords "notification" "alert" "org" "org-agenda" "agenda") (:authors ("Artem Khramov" . "futu.fata@gmail.com")) (:maintainer "Artem Khramov" . "futu.fata@gmail.com") (:url . "https://github.com/akhramov/org-wild-notifier.el"))])

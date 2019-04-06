@@ -1,0 +1,2 @@
+
+(org-recent-headings . [(0 1) ((emacs (25 1)) (org (9 0 5)) (dash (2 13 0)) (frecency (0 1))) "Jump to recently used Org headings" single ((:commit . "01633b51ac3958b41cc6c79e6d3714047a91c1e9") (:keywords "hypermedia" "outlines" "org") (:authors ("Adam Porter" . "adam@alphapapa.net")) (:maintainer "Adam Porter" . "adam@alphapapa.net") (:url . "http://github.com/alphapapa/org-recent-headings"))])

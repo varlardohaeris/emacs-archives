@@ -1,0 +1,2 @@
+
+(ivy-omni-org . [(20190309 336) ((emacs (25 1)) (ivy (0 10)) (dash (2 12))) "One command to rule all Org buffers and files" single ((:commit . "e4ebcd8a2b7384d4732c4433512e6f1606235e8c") (:keywords "outlines") (:authors ("Akira Komamura" . "akira.komamura@gmail.com")) (:maintainer "Akira Komamura" . "akira.komamura@gmail.com") (:url . "https://github.com/akirak/ivy-omni-org"))])

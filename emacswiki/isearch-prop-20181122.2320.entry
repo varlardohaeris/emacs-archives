@@ -1,0 +1,2 @@
+
+(isearch-prop . [(20181122 2320) nil "Search text-property or overlay-property contexts." single ((:commit . "5e9dc44cf582d998aaa73ccd4d07cbda01248156") (:keywords "search" "matching" "invisible" "thing" "help") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/isearch-prop.el"))])

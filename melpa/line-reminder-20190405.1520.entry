@@ -1,0 +1,2 @@
+
+(line-reminder . [(20190405 1520) ((emacs (24 4)) (cl-lib (0 6))) "Line annotation similar to Visual Studio." single ((:commit . "d7fbcf449d72de3729c41c4187d6dc930b96e91e") (:authors ("Shen, Jen-Chieh" . "jcs090218@gmail.com")) (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com") (:url . "https://github.com/jcs090218/line-reminder"))])

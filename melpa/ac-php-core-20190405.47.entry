@@ -1,0 +1,2 @@
+
+(ac-php-core . [(20190405 47) ((emacs (24 4)) (dash (1)) (php-mode (1)) (s (1)) (f (0 17 0)) (popup (0 5 0))) "The core library of the ac-php." tar ((:commit . "a594ef32d74b2809c9e3bfaafaf028cb4aba5bb5") (:keywords "completion" "convenience" "intellisense") (:authors ("jim" . "xcwenn@qq.com")) (:maintainer "jim") (:url . "https://github.com/xcwen/ac-php"))])

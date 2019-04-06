@@ -1,0 +1,2 @@
+
+(elscreen-tab . [(1 0 0) ((emacs (26)) (elscreen (20180321)) (dash (2 14 1))) "minor mode to display tabs of elscreen in a dedicated buffer" single ((:commit . "29d7a65c3e134dd476049c9aebc8d029238e71f7") (:keywords "tools" "extensions") (:authors ("Aki Syunsuke" . "sunny.day.dev@gmail.com")) (:maintainer "Aki Syunsuke" . "sunny.day.dev@gmail.com") (:url . "https://github.com/aki-s/elscreen-tab"))])

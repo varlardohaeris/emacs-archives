@@ -67,7 +67,7 @@
   (define-key visual-line-mode-map [end]  'end-of-line+)
   (define-key visual-line-mode-map "\C-a" 'beginning-of-visual-line+)
   (define-key visual-line-mode-map "\C-e" 'end-of-visual-line+)
-  (global-set-key "\M-m"           'to-indentation-repeat-backward)
+  (global-set-key "\M-p"           'to-indentation-repeat-backward)
   (global-set-key "\M-n"           'to-indentation-repeat-forward)
 
   (global-set-key [remap mark-word]       'mark-whole-word)

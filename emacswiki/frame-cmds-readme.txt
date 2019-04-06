@@ -39,7 +39,7 @@
    kinds of frames.  These include: `default-frame-alist',
    `initial-frame-alist', and `special-display-frame-alist'.  The
    complete list of such frame alist variables is available using
-   function `frame-alist-var-names', defined here.
+   function `frcmds-frame-alist-var-names', defined here.
 
    Example: Suppose you change the background color of a frame and
    want to make that the default background color for new frames in
@@ -62,8 +62,9 @@
 
  User options defined here:
 
-   `available-screen-pixel-bounds', `enlarge-font-tries',
-   `frame-config-register', `frame-parameters-to-exclude',
+   `available-screen-pixel-bounds', `clone-frame-parameters',
+   `enlarge-font-tries', `frame-config-register',
+   `frame-parameters-to-exclude',
    `move-frame-wrap-within-display-flag'
    `rename-frame-when-iconify-flag', `show-hide-show-function',
    `window-mgr-title-bar-pixel-height'.

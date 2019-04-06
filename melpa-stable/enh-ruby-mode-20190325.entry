@@ -1,0 +1,2 @@
+
+(enh-ruby-mode . [(20190325) ((emacs (24))) "Major mode for editing Ruby files" tar ((:commit . "c478bdf32979f7b26068d1df0bd30d737a192b1e") (:keywords "languages" "elisp" "ruby") (:authors ("Geoff Jacobsen")) (:maintainer "Geoff Jacobsen") (:url . "http://github.com/zenspider/Enhanced-Ruby-Mode"))])

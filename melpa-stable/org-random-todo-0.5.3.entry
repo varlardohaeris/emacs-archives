@@ -1,0 +1,2 @@
+
+(org-random-todo . [(0 5 3) ((emacs (24 3)) (alert (1 2))) "show a random TODO (with alert) every so often" single ((:commit . "09228e55f1cc702053d305fdea2b094b548e6dbe") (:keywords "org" "todo" "notification" "calendar") (:authors ("Kevin Brubeck Unhammer" . "unhammer@fsfe.org")) (:maintainer "Kevin Brubeck Unhammer" . "unhammer@fsfe.org") (:url . "https://github.com/unhammer/org-random-todo"))])

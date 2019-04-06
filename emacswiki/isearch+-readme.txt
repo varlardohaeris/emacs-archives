@@ -82,13 +82,20 @@
    `isearchp-toggle-dimming-filter-failures' (Emacs 24.4+),
    `isearchp-toggle-highlighting-regexp-groups',
    `isearchp-toggle-lazy-highlight-cleanup' (Emacs 22+),
+   `isearchp-toggle-lazy-highlight-count' (Emacs 22+),
+   `isearchp-toggle-lazy-highlight-full-buffer' (Emacs 24.3+),
    `isearchp-toggle-lazy-highlighting' (Emacs 22+),
+   `isearchp-toggle-limit-match-numbers-to-region' (Emacs 24.3+),
    `isearchp-toggle-literal-replacement' (Emacs 22+),
    `isearchp-toggle-option-toggle',
    `isearchp-toggle-regexp-quote-yank',
+   `isearchp-toggle-region-deactivation' (Emacs 24.3+),
+   `isearchp-toggle-region-restriction' (Emacs 24.3+),
    `isearchp-toggle-repeat-search-if-fail' (Emacs 22+),
    `isearchp-toggle-search-invisible',
    `isearchp-toggle-set-region',
+   `isearchp-toggle-showing-filter-prompt-prefixes' (Emacs 24.4+),
+   `isearchp-toggle-showing-match-number' (Emacs 24.3+),
    `isearchp-toggle-symmetric-char-fold' (Emacs 25+),
    `isearchp-yank-char' (Emacs 22+), `isearchp-yank-line' (Emacs
    22+), `isearchp-yank-sexp-symbol-or-char' (Emacs 22+),
@@ -106,7 +113,9 @@
    `isearchp-filter-predicates-alist' (Emacs 24.4+),
    `isearchp-highlight-regexp-group-levels-flag' (Emacs 24.4+),
    `isearchp-initiate-edit-commands' (Emacs 22+),
+   `isearch-lazy-count' (Emacs 22-26),
    `isearchp-lazy-dim-filter-failures-flag' (Emacs 24.4+),
+   `isearchp-limit-match-numbers-to-region-flag' (Emacs 24.3+),
    `isearchp-mouse-2-flag', `isearchp-movement-unit-alist' (Emacs
    24.4+), `isearchp-on-demand-action-function' (Emacs 22+),
    `isearchp-prompt-for-filter-name' (Emacs 24.4+),
@@ -374,6 +383,9 @@
    `M-s h '     `isearchp-toggle-lazy-highlighting'
    `M-s C-e'    `isearchp-yank-line'
    `M-s ='      `isearchp-toggle-symmetric-char-fold' (Emacs 25+)
+   `M-s #'      `isearchp-toggle-showing-match-number' (Emacs 24.3+)
+   `M-s %'      `isearchp-toggle-limit-match-numbers-to-region'
+                (Emacs 24.3+)
    `M-s h d'    `isearchp-toggle-dimming-filter-failures'
                 (Emacs 24.4+)
    `M-s h b'    `isearchp-toggle-lazy-highlight-full-buffer'
@@ -1074,32 +1086,50 @@ Overview of Features ---------------------------------------------
    `isearchp-toggle-option-flag'.
 
  * `M-s h L' (`isearchp-toggle-lazy-highlighting') toggles the
-    value of option `isearch-lazy-highlight'.  Turning this
-    highlighting off can sometimes speed up searching considerably,
-    in particular for symmetric character folding.
+   value of option `isearch-lazy-highlight'.  Turning this
+   highlighting off can sometimes speed up searching considerably,
+   in particular for symmetric character folding.
 
  * `M-s h l' (`isearchp-toggle-lazy-highlight-cleanup') toggles the
-    value of option `lazy-highlight-cleanup'.  When the value is
-    `nil' you can continue to see the search hits highlighted from
-    the last search.  Toggle the option off, or use command
-    `isearch-lazy-highlight-cleanup', to remove the highlighting.
+   value of option `lazy-highlight-cleanup'.  When the value is
+   `nil' you can continue to see the search hits highlighted from
+   the last search.  Toggle the option off, or use command
+   `lazy-highlight-cleanup', to remove the highlighting.
 
-    When `M-s h l' turns cleanup on it also sets option
-    `isearchp-toggle-lazy-highlight-full-buffer' to nil, turning
-    off full-buffer highlighting.
+   When `M-s h l' turns cleanup on it also sets option
+   `lazy-highlight-buffer' to nil, turning off full-buffer
+   highlighting.
 
  * `M-s h b' (`isearchp-toggle-lazy-highlight-full-buffer') toggles
-    the value of option `isearch-lazy-highlight-buffer'.  When the
-    value is `t' Isearch lazy-highlights the entire buffer.  The
-    default value of `nil' means it lazy-highlights only the buffer
-    parts currently shown (but previously highlighted parts remain
-    highlighted).
+   the value of option `lazy-highlight-buffer'.  When the value is
+   `t' Isearch lazy-highlights the entire buffer.  The default
+   value of `nil' means it lazy-highlights only the buffer parts
+   currently shown (but previously highlighted parts remain
+   highlighted).  (Emacs 24.3+)
 
-    `M-s h b' also toggles option `lazy-highlight-cleanup', in the
-    other direction.  This is because in most cases where you want
-    to lazy-highlight the whole buffer you also want to keep that
-    highlighting.  You need Emacs 24.3+ to take advantage of
-    `isearch-lazy-highlight-buffer'.
+   `M-s h b' also toggles option `lazy-highlight-cleanup', in the
+   other direction.  This is because in most cases where you want
+   to lazy-highlight the whole buffer you also want to keep that
+   highlighting.  You need Emacs 24.3+ to take advantage of
+   `lazy-highlight-buffer'.
+
+ * `M-s #' (`isearchp-toggle-showing-match-number') toggles showing
+   the current match number and total matches in the Isearch prompt
+   (option `isearch-lazy-count').  (Emacs 24.3+)
+
+ * `M-s %' (`isearchp-toggle-limit-match-numbers-to-region')
+   toggles whether match number are limited to the active region
+   when option `isearchp-restrict-to-region-flag' is non-nil.
+   (Emacs 24.3+)
+
+ * There are almost 30 Isearch toggle commands, depending on
+   whether you use optional libraries such as `isearch-prop.el',
+   `zones.el', and `highlight.el'.  Each toggle is bound to a short
+   key.  In addition, they are all on prefix key `M-=', by default.
+   They are on prefix keymap `isearchp-toggles-map' which you can
+   bind to any key in `isearch-mode-map'.  If you forget a `M-='
+   toggle key, you can use `M-= C-h' while searching to show them
+   all.
 
  * Other bindings during Isearch:
 

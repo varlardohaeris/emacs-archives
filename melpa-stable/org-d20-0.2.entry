@@ -1,0 +1,2 @@
+
+(org-d20 . [(0 2) ((s (0)) (seq (0)) (dash (0))) "minor mode for tabletop roleplaying games that use a d20" single ((:commit . "8d974a69d7b3a3ac82b1ffc91ebb52c2b5b9d21a") (:keywords "roleplaying") (:authors ("Sean Whitton" . "spwhitton@spwhitton.name")) (:maintainer "Sean Whitton" . "spwhitton@spwhitton.name"))])

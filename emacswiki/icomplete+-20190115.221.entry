@@ -1,0 +1,2 @@
+
+(icomplete+ . [(20190115 221) nil "Extensions to `icomplete.el'." single ((:commit . "b82858a927cdb2b870516b6e178e7df6c8977d88") (:keywords "help" "abbrev" "internal" "extensions" "local" "completion" "matching") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/icomplete%2b.el"))])

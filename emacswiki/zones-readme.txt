@@ -36,7 +36,13 @@
    (@> "Keys")
    (@> "Command `zz-narrow-repeat'")
    (@> "Define Your Own Commands")
- (@> "Change log")
+ (@> "Change Log")
+ (@> "Compatibility Code for Older Emacs Versions")
+ (@> "Variables and Faces")
+ (@> "Advice for Standard Functions")
+ (@> "General Commands")
+ (@> "General Non-Interactive Functions")
+ (@> "Key Bindings")
 
 (@* "Things Defined Here")
 
@@ -70,16 +76,18 @@
 
    `zz-add-key-bindings-to-narrow-map', `zz-buffer-narrowed-p'
    (Emacs 22-23), `zz-buffer-of-markers', `zz-car-<',
-   `zz-do-izones', `zz-do-zones', `zz-dot-pairs', `zz-every',
-   `zz-izone-has-other-buffer-marker-p', `zz-izone-limits',
-   `zz-izone-limits-in-bufs', `zz-izones-from-noncontiguous-region'
-   (Emacs 25+), `zz-izones-from-zones', `zz-izone-p', `zz-izones-p',
+   `zz-choose-zone-by-id-and-text', `zz-do-izones',
+   `zz-dotted-zones-from-izones', `zz-do-zones', `zz-dot-pairs',
+   `zz-every', `zz-izone-has-other-buffer-marker-p',
+   `zz-izone-limits', `zz-izone-limits-in-bufs',
+   `zz-izones-from-noncontiguous-region' (Emacs 25+),
+   `zz-izones-from-zones', `zz-izone-p', `zz-izones-p',
    `zz-izones-renumber', `zz-map-izones', `zz-map-zones',
    `zz-marker-from-object', `zz-markerize', `zz-max', `zz-min',
    `zz-narrow-advice', `zz-narrowing-lighter',
    `zz-noncontiguous-region-from-izones',
    `zz-noncontiguous-region-from-zones', `zz-number-or-marker-p',
-   `zz-overlays-to-zones', `zz-overlay-to-zone',
+   `zz-order-zones', `zz-overlays-to-zones', `zz-overlay-to-zone',
    `zz-overlay-union', `zz-rassoc-delete-all',
    `zz-readable-marker', `zz-readable-marker-p',
    `zz-read-any-variable', `zz-read-bufs', `zz-regexp-car-member',
@@ -130,9 +138,8 @@
  ** Compatibility **
 
  Some of the functions defined here are not available for Emacs
- versions prior to Emacs 22.  Others are not available for versions
- prior to Emacs 23.  Still others are available only starting with
- Emacs 25.  This is mentioned where applicable.
+ versions prior to 23.  Still others are available only starting
+ with Emacs 25.  This is mentioned where applicable.
 
 
 (@* "Zones")
@@ -409,7 +416,7 @@
  C-x n u   `zz-unite-zones' - Unite (coalesce) zones
  C-x n v   `zz-set-izones-var' - Set current zones-set variable
  C-x n w   `widen'
- C-x n x   `zz-narrow-repeat' - Cycle zones as buffer narrowing
+ C-x n x   `zz-narrow-repeat' - Cycle or pop zones as narrowings
  C-x n C-x `zz-select-zone-repeat' - Cycle zones as active region
 
 
@@ -422,10 +429,10 @@
  added to the izone list of the current buffer (by default,
  buffer-local variable `zz-izones').
 
- You can then use `C-x n x' to cycle among previous buffer
- narrowings.  Repeating `x' repeats the action: `C-x n x x x x'
- etc.  Each time you hit `x' a different narrowing is made current.
- This gives you an easy way to browse your past narrowings.
+ You can then use `C-x n x' to cycle or pop previous narrowings.
+ Repeating `x' repeats the action: `C-x n x x x x' etc.  Each time
+ you hit `x' a different narrowing is made current.  This gives you
+ an easy way to browse your past narrowings.
 
  If the izone variable is not buffer-local then `zz-narrow-repeat'
  can cycle among the narrowings in different buffers, switching the
@@ -440,10 +447,14 @@
    resets (empties) the current izone variable.
 
  * A numeric prefix arg N takes you directly to the abs(N)th
-   previous buffer narrowing.  That is, it widens abs(N) times.
-   Positive and negative args work the same, except that a negative
-   arg also pops entries off the ring: it removes the ring entries
-   from the most recent back through the (-)Nth one.
+   previous buffer narrowing.  That is, it acts abs(N) times.
+
+ A negative arg work like a positive one, except that it also pops
+ entries off the ring: it removes entries from the most recent back
+ through the (-)Nth one.  For example, `C-- C-x n x x x' pops the
+ last added narrowing each time you hit `x'.  You can thus use the
+ list of recorded zones as a narrowing stack: narrow commands push
+ to the stack, and `C-- C-x n x' pops it.
 
  By default, `C-x n x' is bound to command `zz-narrow-repeat'.
  (For Emacs versions prior to 22 it is bound by default to
@@ -499,7 +510,10 @@
 (defun hlt-highlight-regions (&optional regions face msgp mousep
                                         buffers)
   "Apply `hlt-highlight-region' to regions in `zz-izones'."
-  (interactive (list (zz-izone-limits) nil t current-prefix-arg))
+  (interactive (list (zz-izone-limits zz-izones)
+                     nil
+                     t
+                     current-prefix-arg))
   (dolist (start+end  regions)
     (hlt-highlight-region (nth 0 start+end) (nth 1 start+end)
                           face msgp mousep buffers)))

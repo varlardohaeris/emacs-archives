@@ -1,1 +1,2 @@
-A dark theme  for dark minds.  > Emacs 24
+========================================
+A dark theme for dark minds.  > Emacs 24

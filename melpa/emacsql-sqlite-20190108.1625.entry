@@ -1,0 +1,2 @@
+
+(emacsql-sqlite . [(20190108 1625) ((emacs (25 1)) (emacsql (2 0 0))) "EmacSQL back-end for SQLite" tar ((:commit . "5ebd12b6ffaa9fbadefe8518eab07a028bbaf7c1") (:authors ("Christopher Wellons" . "wellons@nullprogram.com")) (:maintainer "Christopher Wellons" . "wellons@nullprogram.com") (:url . "https://github.com/skeeto/emacsql"))])

@@ -16,6 +16,8 @@ Supported languages:
 - Crystal (crystal tool format)
 - CSS/Less/SCSS (prettier)
 - D (dfmt)
+- Dart (dartfmt)
+- Dhall (dhall format)
 - Elixir (mix format)
 - Elm (elm-format)
 - Emacs Lisp (emacs)

@@ -38,7 +38,7 @@ s     - Search projects           Searches by name for a project
 N     - Add new project           Prompts for project information
 q     - Quit
 u     - Unmark a project          Removes the mark for a project
-x     - Executes actions          Executes the deletions
+x     - Executes actions          Executes the selected operations
 
 
 The multi-project-compilation-command variable can be set to a function

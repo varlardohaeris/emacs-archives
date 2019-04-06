@@ -5,13 +5,19 @@ Install the "sqlparse" (Python) package to get "sqlformat", or
 "pgformatter" to get "pg_format".
 
 Customise the `sqlformat-command' variable as desired, then call
-`sqlformat' or `sqlformat-buffer' as convenient.
+`sqlformat', `sqlformat-buffer' or `sqlformat-region' as convenient.
 
-Enable `sqlformat-mode' in SQL buffers like this:
+Enable `sqlformat-on-save-mode' in SQL buffers like this:
 
-    (add-hook 'sql-mode-hook 'sqlformat-mode)
+    (add-hook 'sql-mode-hook 'sqlformat-on-save-mode)
 
-The `sqlformat' command will then be bound to "C-c C-f" by default.
-If `sqlformat-mode-format-on-save' is enabled, this mode will apply
-the configured `sqlformat-command' to the buffer every time it is
-saved.
+or locally to your project with a form in your .dir-locals.el like
+this:
+
+    ((sql-mode
+      (mode . sqlformat-on-save)))
+
+You might like to bind `sqlformat' or `sqlformat-buffer' to a key,
+e.g. with:
+
+    (define-key 'sql-mode-map (kbd "C-c C-f") 'sqlformat)

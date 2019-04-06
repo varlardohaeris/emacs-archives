@@ -1,0 +1,2 @@
+
+(ms-python . [(20190319 229) ((emacs (26 1)) (lsp-mode (5 0))) "A lsp client for microsoft python language server." single ((:commit . "5412bb664b5c8d7fca1a98ccb50ffc5a2592a75c") (:keywords "tools") (:authors ("Yong Cheng" . "xhcoding@163.com")) (:maintainer "Yong Cheng" . "xhcoding@163.com") (:url . "https://github.com/xhcoding/ms-python"))])

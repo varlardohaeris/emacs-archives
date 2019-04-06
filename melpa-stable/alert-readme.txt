@@ -93,15 +93,19 @@ There are several builtin styles, and it is trivial to create new ones.
 The builtins are:
 
   fringe        - Changes the current frame's fringe background color
+  mode-line     - Changes the current frame's mode-line background color
   gntp          - Uses gntp, it requires gntp.el (see https://github.com/tekai/gntp.el)
   growl         - Uses Growl on OS X, if growlnotify is on the PATH
   ignore        - Ignores the alert entirely
   libnotify     - Uses libnotify if notify-send is on the PATH
   log           - Logs the alert text to *Alerts*, with a timestamp
   message       - Uses the Emacs `message' facility
+  momentary     - Uses the Emacs `momentary-string-display' facility
   notifications - Uses notifications library via D-Bus
   notifier      - Uses terminal-notifier on OS X, if it is on the PATH
+  osx-notifier  - Native OSX notifier using AppleScript
   toaster       - Use the toast notification system
+  x11 -         - Changes the urgency property of the window in the X Window System
 
 * Defining new styles
 
@@ -144,3 +148,10 @@ alert.  Here is a prototypical style definition:
                        ;; It is the same property list that was passed to
                        ;; the notifier function.
                        ))
+
+You can test a specific style with something like this:
+
+(let ((alert-user-configuration '((((:severity high)) momentary nil))))
+  (alert "Same buffer momentary alert" :title "My Alert" :severity 'high)
+  (alert "This is a momentary alert in another visible buffer" :title "My Alert"
+         :severity 'high :buffer (other-buffer (current-buffer) t)))

@@ -1,0 +1,2 @@
+
+(gruvbox-theme . [(20190401 2219) ((autothemer (0 2))) "A retro-groove colour theme for Emacs" tar ((:commit . "be411a095b8b7eb7e79bb72a2737089a24ef2233") (:authors ("Jason Milkins" . "jasonm23@gmail.com")) (:maintainer "Jason Milkins" . "jasonm23@gmail.com") (:url . "http://github.com/greduan/emacs-theme-gruvbox"))])

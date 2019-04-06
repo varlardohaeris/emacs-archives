@@ -1,40 +1,29 @@
-Auto Completion source for php.
-support  Linux and OSX,  but windows need more test
-More info and **example** at : https://github.com/xcwen/ac-php
+Auto Completion source for PHP.  Known to work on Linux and macOS systems.
+For more info and examples see URL `https://github.com/xcwen/ac-php' .
 
-============================================== For add
-add to .emacs:
+Thanks to:
+- auto-complete-clang
+- auto-java-complete (ac-php-remove-unnecessary-items-4-complete-method)
+- rtags (ac-php-location-stack-index)
 
-(add-hook 'php-mode-hook '(lambda ()
-                           (auto-complete-mode t)
-                           (require 'ac-php)
-                           (setq ac-sources  '(ac-source-php ) )
-                           (yas-global-mode 1)
+Usage:  Put this package in your Emacs Lisp path (eg. site-lisp) and add to
+your .emacs file:
 
-                           (define-key php-mode-map  (kbd "C-]") 'ac-php-find-symbol-at-point)   ;goto define
-                           (define-key php-mode-map  (kbd "C-t") 'ac-php-location-stack-back   ) ;go back
-                           ))
+  (add-hook 'php-mode-hook
+            '(lambda ()
+               (auto-complete-mode t)
+               (require 'ac-php)
+               (setq ac-sources '(ac-source-php))
+               (yas-global-mode 1)
 
+               (define-key php-mode-map (kbd "C-]")
+                 'ac-php-find-symbol-at-point)
+               (define-key php-mode-map (kbd "C-t")
+                 'ac-php-location-stack-back)))
 
-============================================== For test
-save it as .emacs  then restart emacs  and open php file to test
+Many options available under Help:Customize
+Options specific to ac-php are in
+  Convenience/Completion/Auto Complete
 
-(setq package-archives
-     '(("melpa" . "https://melpa.org/packages/")) )
-
-(package-initialize)
-(unless (package-installed-p 'ac-php )
- (package-refresh-contents)
- (package-install 'ac-php )
- )
-(require 'cl)
-(require 'php-mode)
-(add-hook 'php-mode-hook '(lambda ()
-                           (auto-complete-mode t)
-                           (require 'ac-php)
-                           (setq ac-sources  '(ac-source-php ) )
-                           (yas-global-mode 1)
-
-                           (define-key php-mode-map  (kbd "C-]") 'ac-php-find-symbol-at-point)   ;goto define
-                           (define-key php-mode-map  (kbd "C-t") 'ac-php-location-stack-back   ) ;go back
-                           ))
+Bugs: Bug tracking is currently handled using the GitHub issue tracker
+(see URL `https://github.com/xcwen/ac-php/issues')

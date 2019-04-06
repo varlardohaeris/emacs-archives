@@ -1,0 +1,2 @@
+
+(green-is-the-new-black-theme . [(0 4 0) nil "A cool and minimalist green blackened theme engine" single ((:commit . "b8307a377bfb21a99494fa2c5de0b9ba10c3fce6") (:keywords "faces" "themes") (:authors ("Fred Campos" . "fred.tecnologia@gmail.com")) (:maintainer "Fred Campos" . "fred.tecnologia@gmail.com") (:url . "https://github.com/fredcamps/green-is-the-new-black-emacs"))])

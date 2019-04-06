@@ -1,0 +1,2 @@
+
+(helm-org-rifle . [(1 6 1) ((emacs (24 4)) (dash (2 12)) (f (0 18 1)) (helm (1 9 4)) (s (1 10 0))) "Rifle through your Org files" single ((:commit . "f2c7f9e203287e3f6e5647406d21454218553e5a") (:keywords "hypermedia" "outlines") (:authors ("Adam Porter" . "adam@alphapapa.net")) (:maintainer "Adam Porter" . "adam@alphapapa.net") (:url . "http://github.com/alphapapa/helm-org-rifle"))])

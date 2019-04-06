@@ -1,0 +1,2 @@
+
+(eldoc-cmake . [(20190323 1248) ((emacs (24 4))) "Eldoc support for CMake" single ((:commit . "1347b4bd643e8011094c4036a397b0acc4d879d7") (:authors ("Kirill Ignatiev")) (:maintainer "Kirill Ignatiev") (:url . "https://github.com/ikirill/eldoc-cmake"))])

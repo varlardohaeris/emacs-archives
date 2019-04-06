@@ -29,8 +29,11 @@ Tips:
 
 - You can use ivy's negative pattern to filter candidates.
   For example, input "keyword1 !keyword2 keyword3" means:
-  "(keyword1 and (not (keyword2 or keyword3))"
+  "(keyword1 and (not (keyword2 or keyword3)))"
 
+- `counsel-etags-extra-tags-files' contains extra tags files to parse.
+  Set it like '(setq counsel-etags-extra-tags-files '("/usr/include/TAGS" "/usr/local/include/TAGS"))'
+  Tags files in `counsel-etags-extra-tags-files' should contain only tag with absolute path.
 - You can setup `counsel-etags-ignore-directories' and `counsel-etags-ignore-filenames',
   (eval-after-load 'counsel-etags
     '(progn

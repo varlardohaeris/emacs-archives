@@ -1,0 +1,2 @@
+
+(thing-edit . [(20181222 1251) nil "Extension thing edit" single ((:commit . "976e1697a4b1e00eff4103a454c887136133218c") (:keywords "thingatpt" "edit") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Andy Stewart" . "lazycat.manatee@gmail.com") (:url . "http://www.emacswiki.org/emacs/download/thing-edit.el"))])

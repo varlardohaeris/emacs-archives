@@ -1,0 +1,2 @@
+
+(grab-mac-link . [(20190302 1446) ((emacs (24))) "Grab link from Mac Apps and insert it into Emacs" single ((:commit . "94e6130d7542bafdf594e45606d1148b0a5687f7") (:keywords "mac" "hyperlink") (:authors ("Xu Chunyang" . "mail@xuchunyang.me")) (:maintainer "Xu Chunyang" . "mail@xuchunyang.me") (:url . "https://github.com/xuchunyang/grab-mac-link.el"))])

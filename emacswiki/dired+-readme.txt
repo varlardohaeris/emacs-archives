@@ -59,9 +59,10 @@
  font-locking, and this effect is established only when Dired+ is
  loaded, which defines the font-lock keywords for Dired.  These
  options include `diredp-compressed-extensions',
- `diredp-ignore-compressed-flag', and `dired-omit-extensions'.
- This means that if you change the value of such an option then you
- will see the change only in a new Emacs session.
+ `diredp-ignore-compressed-flag', `dired-omit-extensions', and
+ `diredp-omit-files-regexp'.  This means that if you change the
+ value of such an option then you will see the change only in a new
+ Emacs session.
 
  (You can see the effect in the same session if you use `C-M-x' on
  the `defvar' sexp for `diredp-font-lock-keywords-1', and then you
@@ -141,7 +142,7 @@
  from subdirs themselves.
 
  All of the `diredp-*-recursive' commands are on prefix key `M-+',
- and all are available on submenu `Marked Here and Below' of the
+ and most are available on submenu `Marked Here and Below' of the
  `Multiple' menu-bar menu.  The commands that unmark and change
  marks are also in submenu `Here and Below' of menu-bar menu
  `Marks'.
@@ -403,9 +404,10 @@
    `diredp-flag-mark-line', `diredp-get-file-or-dir-name',
    `diredp-ignored-file-name', `diredp-link-priv',
    `diredp-mode-line-flagged', `diredp-mode-line-marked'
-   `diredp-no-priv', `diredp-number', `diredp-other-priv',
-   `diredp-rare-priv', `diredp-read-priv', `diredp-symlink',
-   `diredp-tagged-autofile-name', `diredp-write-priv'.
+   `diredp-omit-file-name', `diredp-no-priv', `diredp-number',
+   `diredp-other-priv', `diredp-rare-priv', `diredp-read-priv',
+   `diredp-symlink', `diredp-tagged-autofile-name',
+   `diredp-write-priv'.
 
  Commands defined here:
 
@@ -488,23 +490,24 @@
    `diredp-marked-recursive',
    `diredp-marked-recursive-other-window',
    `diredp-mark-extension-recursive',
+   `diredp-mark-files-containing-regexp-recursive',
    `diredp-mark-files-regexp-recursive',
    `diredp-mark-files-tagged-all', `diredp-mark-files-tagged-none',
    `diredp-mark-files-tagged-not-all',
    `diredp-mark-files-tagged-some',
    `diredp-mark-files-tagged-regexp', `diredp-mark-region-files',
-   `diredp-mark/unmark-autofiles', `diredp-mark/unmark-extension',
-   `diredp-mouse-3-menu', `diredp-mouse-backup-diff',
-   `diredp-mouse-copy-tags', `diredp-mouse-describe-autofile',
-   `diredp-mouse-describe-file', `diredp-mouse-diff',
-   `diredp-mouse-do-bookmark', `diredp-mouse-do-byte-compile',
-   `diredp-mouse-do-chgrp', `diredp-mouse-do-chmod',
-   `diredp-mouse-do-chown', `diredp-mouse-do-compress',
-   `diredp-mouse-do-copy', `diredp-mouse-do-delete',
-   `diredp-mouse-do-grep', `diredp-mouse-do-hardlink',
-   `diredp-mouse-do-load', `diredp-mouse-do-print',
-   `diredp-mouse-do-remove-all-tags', `diredp-mouse-do-rename',
-   `diredp-mouse-do-set-tag-value',
+   `diredp-mark-sexp-recursive', `diredp-mark/unmark-autofiles',
+   `diredp-mark/unmark-extension', `diredp-mouse-3-menu',
+   `diredp-mouse-backup-diff', `diredp-mouse-copy-tags',
+   `diredp-mouse-describe-autofile', `diredp-mouse-describe-file',
+   `diredp-mouse-diff', `diredp-mouse-do-bookmark',
+   `diredp-mouse-do-byte-compile', `diredp-mouse-do-chgrp',
+   `diredp-mouse-do-chmod', `diredp-mouse-do-chown',
+   `diredp-mouse-do-compress', `diredp-mouse-do-copy',
+   `diredp-mouse-do-delete', `diredp-mouse-do-grep',
+   `diredp-mouse-do-hardlink', `diredp-mouse-do-load',
+   `diredp-mouse-do-print', `diredp-mouse-do-remove-all-tags',
+   `diredp-mouse-do-rename', `diredp-mouse-do-set-tag-value',
    `diredp-mouse-do-shell-command', `diredp-mouse-do-symlink',
    `diredp-mouse-do-tag', `diredp-mouse-do-untag',
    `diredp-mouse-downcase', `diredp-mouse-ediff',
@@ -561,6 +564,7 @@
    `diredp-ignore-compressed-flag',
    `diredp-image-show-this-file-use-frame-flag' (Emacs 22+),
    `diredp-max-frames', `diredp-move-file-dirs' (Emacs 24+),
+   `diredp-omit-files-regexp'
    `diredp-prompt-for-bookmark-prefix-flag',
    `diredp-visit-ignore-extensions', `diredp-visit-ignore-regexps',
    `diredp-w32-local-drives', `diredp-wrap-around-flag'.
@@ -589,7 +593,7 @@
    `diredp-hide/show-details' (Emacs 24.4+),
    `diredp-highlight-autofiles', `diredp-image-dired-required-msg',
    `diredp-get-image-filename', `diredp-internal-do-deletions',
-   `diredp-list-files', `diredp-looking-at-p',
+   `diredp-list-file', `diredp-list-files', `diredp-looking-at-p',
    `diredp-make-find-file-keys-reuse-dirs',
    `diredp-make-find-file-keys-not-reuse-dirs', `diredp-maplist',
    `diredp-marked-here', `diredp-mark-files-tagged-all/none',

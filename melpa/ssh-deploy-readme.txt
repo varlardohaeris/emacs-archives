@@ -43,6 +43,7 @@ Add to init-script: (ssh-deploy-add-find-file-hook)
   (use-package ssh-deploy
     :ensure t
     :demand
+    :after hydra
     :bind (("C-c C-z" . ssh-deploy-hydra/body))
     :hook ((after-save . ssh-deploy-after-save)
            (find-file . ssh-deploy-find-file))
