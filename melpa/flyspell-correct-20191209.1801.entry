@@ -1,0 +1,2 @@
+
+(flyspell-correct . [(20191209 1801) nil "Correcting words with flyspell via custom interface" tar ((:commit . "4c32d3ccea82f8625362cadcef0fbccc953e4f47") (:authors ("Boris Buliga" . "boris@d12frosted.io")) (:maintainer "Boris Buliga" . "boris@d12frosted.io") (:url . "https://github.com/d12frosted/flyspell-correct"))])

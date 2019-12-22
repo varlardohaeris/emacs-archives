@@ -1,0 +1,2 @@
+
+(helm-rtags . [(2 37) ((helm (2 0)) (rtags (2 10))) "A front-end for rtags" single ((:commit . "11f49ef5c488da4c744f700b5cf07a8ebcb9f4ec") (:authors ("Jan Erik Hanssen" . "jhanssen@gmail.com") ("Anders Bakken" . "agbakken@gmail.com")) (:maintainer "Jan Erik Hanssen" . "jhanssen@gmail.com") (:url . "http://rtags.net"))])

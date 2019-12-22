@@ -1,0 +1,1 @@
+simpify init.el

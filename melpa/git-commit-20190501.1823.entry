@@ -1,0 +1,2 @@
+
+(git-commit . [(20190501 1823) ((emacs (25 1)) (dash (20180910)) (with-editor (20181103))) "Edit Git commit messages" single ((:commit . "2d21705393262e3fcfdaa0bea018be5a7dc5f8d2") (:keywords "git" "tools" "vc") (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li") (:url . "https://github.com/magit/magit"))])

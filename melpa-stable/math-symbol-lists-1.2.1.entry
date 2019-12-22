@@ -1,2 +1,2 @@
 
-(math-symbol-lists . [(1 2 1) nil "Lists of Unicode math symbols and latex commands" tar ((:commit . "e15ec26a010b4f38111bc150c51ecb1a319f6bdb") (:keywords "unicode" "symbols" "mathematics") (:authors ("Vitalie Spinu")) (:maintainer "Vitalie Spinu") (:url . "https://github.com/vspinu/math-symbol-lists"))])
+(math-symbol-lists . [(1 2 1) nil "Lists of Unicode math symbols and latex commands" tar ((:commit . "499986959356f7a905fd4f2a1609c17d7ff067c3") (:keywords "unicode" "symbols" "mathematics") (:authors ("Vitalie Spinu" . "spinuvit@gmail.com")) (:maintainer "Vitalie Spinu" . "spinuvit@gmail.com") (:url . "https://github.com/vspinu/math-symbol-lists"))])

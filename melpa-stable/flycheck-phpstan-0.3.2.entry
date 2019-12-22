@@ -1,0 +1,2 @@
+
+(flycheck-phpstan . [(0 3 2) ((emacs (24 3)) (flycheck (26)) (phpstan (0 2 1))) "Flycheck integration for PHPStan" single ((:commit . "de74ebfcbce53a08daf95d324d7447dede094222") (:keywords "convenience" "php") (:authors ("USAMI Kenta" . "tadsan@zonu.me")) (:maintainer "USAMI Kenta" . "tadsan@zonu.me") (:url . "https://github.com/emacs-php/phpstan.el"))])

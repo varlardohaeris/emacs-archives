@@ -37,19 +37,19 @@ Add to init-script: (ssh-deploy-add-find-file-hook)
     (global-set-key (kbd "C-c C-z") 'ssh-deploy-prefix-map)
 
 - To set global key-bindings for the pre-defined hydra do something like this:
-    (global-set-key (kbd "C-c C-z") 'ssh-deploy-hydra/body)
+    (ssh-deploy-hydra "C-c C-z")
 
 - To install and set-up using use-package and hydra do this:
   (use-package ssh-deploy
     :ensure t
-    :demand
     :after hydra
-    :bind (("C-c C-z" . ssh-deploy-hydra/body))
+    :demand
     :hook ((after-save . ssh-deploy-after-save)
            (find-file . ssh-deploy-find-file))
     :config
     (ssh-deploy-line-mode) ;; If you want mode-line feature
     (ssh-deploy-add-menu) ;; If you want menu-bar feature
+    (ssh-deploy-hydra "C-c C-z") ;; If you the hydra feature
    )
 
 
@@ -100,3 +100,7 @@ Here is a list of other variables you can set globally or per directory:
 When integers are used as booleans, above zero means true, zero means false and nil means unset and fallback to global settings.
 
 Please see README.md from the same repository for more extended documentation.
+
+FIXME: This uses "path" in lots of places to mean "a complete file name
+starting from /", whereas the GNU convention is to only "file name" instead
+and keep "path" for lists of directories like load-path, exec-path.

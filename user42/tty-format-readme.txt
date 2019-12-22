@@ -20,16 +20,17 @@
 ;; and/or
 ;;     M-x format-decode-buffer ansi-colors
 ;;
-;; `format-decode-buffer' has completion when it prompts for a format name.
+;; `format-decode-buffer' has completion when it prompts for the format
+;; name.
 ;;
 ;; See `tty-format-guess' below for an idea to automatically notice text
 ;; files using these formats.
 ;;
 ;; Groff produces output like this (via grotty), and some of its manuals
 ;; have both ANSI and backspacing, as do various other packages with text
-;; files produced from roff input.  You might think backspacing by now would
-;; be as long gone as the teletypes it was made for, but grotty still uses
-;; it creatively.
+;; files produced from roff input.  You might wonder that backspacing by now
+;; would have gone with the teletypes it was made for, but grotty still uses
+;; it in creative ways.
 ;;
 ;; Groff actually has lots of character overstrike sequences to make ink
 ;; resembling non-ASCII characters.  There's far too many to want in the
@@ -38,6 +39,12 @@
 ;; combinations after the fact.  So the aim here is only to handle bits
 ;; found in real life documents.  One moderately frequent bit not yet
 ;; supported is | plus = for a footnote dagger.
+;;
+;; Functions and variables here are named either "ansi-format-..." or
+;; "backspace-overstrike-...".  It seemed like a good idea at the time to
+;; have these two things in a single package (in particular since they can
+;; occur together).  Such multiple prefixing in a package is generally a bad
+;; idea, but in the interests of compatibility don't want to change it now.
 ;;
 ;; See also underline.el for a couple of simple functions adding or removing
 ;; backspace underlining.

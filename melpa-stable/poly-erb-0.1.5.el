@@ -4,6 +4,7 @@
 ;; Maintainer: Vitalie Spinu
 ;; Copyright (C) 2018
 ;; Version: 0.1.5
+;; Package-Version: 0.1.5
 ;; Package-Requires: ((emacs "25") (polymode "0.1.5"))
 ;; URL: https://github.com/polymode/poly-erb
 ;; Keywords: emacs
@@ -67,3 +68,5 @@
 (add-to-list 'auto-mode-alist '("\\.html.erb$" . poly-html+erb-mode))
 
 (provide 'poly-erb)
+
+;;; poly-erb.el ends here

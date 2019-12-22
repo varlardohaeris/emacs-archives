@@ -1,0 +1,2 @@
+
+(evil-nerd-commenter . [(3 3 8) ((emacs (24 4))) "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar ((:commit . "f510a491c17192ce235bb7ce7589cacf99db8482") (:keywords "commenter" "vim" "line" "evil") (:authors ("Chen Bin" . "chenbin.sh@gmail.com")) (:maintainer "Chen Bin" . "chenbin.sh@gmail.com") (:url . "http://github.com/redguardtoo/evil-nerd-commenter"))])

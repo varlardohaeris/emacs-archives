@@ -1,0 +1,2 @@
+
+(julia-mode . [(20191220 1158) nil "Major mode for editing Julia source code" tar ((:commit . "df2ab77f14fc05c1c176f4dc0a1a1b4aba21a267") (:keywords "languages") (:url . "https://github.com/JuliaLang/julia"))])

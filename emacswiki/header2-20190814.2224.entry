@@ -1,0 +1,2 @@
+
+(header2 . [(20190814 2224) nil "Support for creation and update of file headers." single ((:commit . "e41bb4fe0e003130e8c7af199ef4546a2cf57856") (:keywords "tools" "docs" "maint" "abbrev" "local") (:authors ("Lynn Slater")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/header2.el"))])

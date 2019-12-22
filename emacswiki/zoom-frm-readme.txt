@@ -90,14 +90,24 @@
                                      mouse-wheel-down-event))
                      [C-mouse-wheel])    ; Emacs 20, 21
                    'zoom-in)
+   (global-set-key (if (boundp 'mouse-wheel-down-event) ; Emacs 22+
+                       (vector (list 'control 'meta
+                                     mouse-wheel-down-event))
+                     [C-M-mouse-wheel])  ; Emacs 20, 21
+                   'zoom-all-frames-in)
    (when (boundp 'mouse-wheel-up-event) ; Emacs 22+
-     (global-set-key (vector (list 'control mouse-wheel-up-event))
+     (global-set-key (vector (list 'control
+                                   mouse-wheel-up-event))
                      'zoom-out))
+     (global-set-key (vector (list 'control 'meta
+                                   mouse-wheel-up-event))
+                     'zoom-all-frames-out))
 
    (global-set-key [S-mouse-1]    'zoom-in)
    (global-set-key [C-S-mouse-1]  'zoom-out)
    ;; Get rid of `mouse-set-font' or `mouse-appearance-menu':
    (global-set-key [S-down-mouse-1] nil)
+
 
  Some of the commands are not autoloaded by default, because this
  library works with old as well as recent Emacs releases.  The

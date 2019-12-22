@@ -1,0 +1,2 @@
+
+(yarn-mode . [(20191208 2153) ((emacs (24 3))) "Major mode for yarn.lock files." single ((:commit . "218cdb3c53d740b4520c807cb0d8479bfecedaed") (:keywords "convenience") (:authors ("Nicolás Salas V." . "nikosalas@gmail.com")) (:maintainer "Nicolás Salas V." . "nikosalas@gmail.com") (:url . "https://github.com/anachronic/yarn-mode"))])

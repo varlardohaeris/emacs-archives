@@ -1,0 +1,2 @@
+
+(mood-line . [(1 1 0) ((emacs (24 4))) "A minimal mode-line inspired by doom-modeline." single ((:commit . "b68f003b47123f635b29f5121733372c668d496b") (:keywords "mode-line" "faces") (:authors ("Jessie Hildebrandt <jessieh.net>")) (:maintainer "Jessie Hildebrandt <jessieh.net>") (:url . "https://gitlab.com/jessieh/mood-line"))])

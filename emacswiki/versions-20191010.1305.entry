@@ -1,0 +1,2 @@
+
+(versions . [(20191010 1305) nil "version string comparison" single ((:commit . "0aa9cab3a68cd525f30f6578d69509e394bcc099") (:keywords "help" "internal" "maintenance" "debug") (:authors ("Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com") (:url . "https://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

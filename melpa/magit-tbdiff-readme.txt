@@ -1,7 +1,8 @@
-Magit-tbdiff provides a Magit interface to git-tbdiff [1,2], a Git
-extension for comparing two versions of a topic branch.
+Magit-tbdiff provides a Magit interface to git-tbdiff [1] and
+git-range-diff, subcommands for comparing two versions of a topic
+branch.
 
-There are three commands for calling git-tbdiff:
+There are three commands for creating range diffs:
 
   * `magit-tbdiff-ranges' is the most generic of the three
     commands.  It reads two ranges that represent the two series to
@@ -35,5 +36,3 @@ loaded the first time that the tbdiff transient is invoked.
     technically one.  Sorry.
 
     https://public-inbox.org/git/nycvar.QRO.7.76.6.1805062155120.77@tvgsbejvaqbjf.bet/#t
-
-[3] https://public-inbox.org/git/87ip2pfs19.fsf@linux-k42r.v.cablecom.net/

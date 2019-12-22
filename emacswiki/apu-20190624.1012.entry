@@ -1,0 +1,2 @@
+
+(apu . [(20190624 1012) nil "Apropos Unicode characters." single ((:commit . "18a31e0beb3303ecf995690446cd4794212a23b6") (:keywords "unicode" "characters" "encoding" "commands" "ucs-names") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/apu.el"))])

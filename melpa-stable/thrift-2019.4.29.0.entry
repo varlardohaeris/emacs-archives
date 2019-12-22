@@ -1,0 +1,2 @@
+
+(thrift . [(2019 4 29 0) ((emacs (24))) "major mode for fbthrift and Apache Thrift files" single ((:commit . "620b84891f42765c3dac324b3148bb5cd7e59a74") (:keywords "languages"))])

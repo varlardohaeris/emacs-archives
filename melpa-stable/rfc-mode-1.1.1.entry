@@ -1,0 +1,2 @@
+
+(rfc-mode . [(1 1 1) ((emacs (25 1)) (helm (3 2))) "RFC document browser and viewer" single ((:commit . "5cdf7172e307c0e23bb5342c61263d4439292ede") (:authors ("Nicolas Martyanoff" . "khaelin@gmail.com")) (:maintainer "Nicolas Martyanoff" . "khaelin@gmail.com") (:url . "https://github.com/galdor/rfc-mode"))])

@@ -174,26 +174,33 @@
    `isearchp-in-sentence-p' (Emacs 24.4+), `isearchp-in-sexp-p'
    (Emacs 24.4+), `isearchp-in-string-or-comment-p' (Emacs 24.4+),
    `isearchp-in-string-p' (Emacs 24.4+), `isearchp-in-symbol-p'
-   (Emacs 24.4+), `isearchp-in-url-p' (Emacs 24.4+),
-   `isearchp-in-word-p' (Emacs 24.4+),
-   `isearchp-last-isearch-advice' (Emacs 24.4+),
+   (Emacs 24.4+), `isearchp-in-thing-p' (Emacs 24.4+),
+   `isearchp-in-url-p' (Emacs 24.4+), `isearchp-in-word-p' (Emacs
+   24.4+), `isearchp-last-isearch-advice' (Emacs 24.4+),
    `isearchp-match-regexp-filter-predicate' (Emacs 24.4+),
    `isearchp-message-prefix', `isearchp-message-suffix',
    `isearchp-near-after-predicate' (Emacs 24.4+),
    `isearchp-near-before-predicate' (Emacs 24.4+),
    `isearchp-near-predicate' (Emacs 24.4+), `isearchp-not-pred'
    (Emacs 24.4+), `isearchp-not-in-color-p' (Emacs 24.4+),
+   `isearchp-not-in-comment-p' (Emacs 24.4+),
+   `isearchp-not-in-comment-or-delim-p' (Emacs 24.4+),
    `isearchp-not-in-decimal-number-p' (Emacs 24.4+),
    `isearchp-not-in-defun-p' (Emacs 24.4+),
    `isearchp-not-in-email-address-p' (Emacs 24.4+),
    `isearchp-not-in-file-name-p' (Emacs 24.4+),
+   `isearchp-not-in-file-or-url-p' (Emacs 24.4+),
    `isearchp-not-in-hex-number-p' (Emacs 24.4+),
-   `isearchp-not-in-line-p' (Emacs 24.4+), `isearchp-not-in-list-p'
-   (Emacs 24.4+), `isearchp-not-in-number-p' (Emacs 24.4+),
+   `isearchp-not-in-line-p' (Emacs 24.4+),
+   `isearchp-not-in-lisp-variable-p' (Emacs 24.4+),
+   `isearchp-not-in-list-p' (Emacs 24.4+),
+   `isearchp-not-in-number-p' (Emacs 24.4+),
    `isearchp-not-in-page-p' (Emacs 24.4+),
    `isearchp-not-in-paragraph-p' (Emacs 24.4+),
    `isearchp-not-in-sentence-p' (Emacs 24.4+),
    `isearchp-not-in-sexp-p' (Emacs 24.4+),
+   `isearchp-not-in-string-or-comment-p' (Emacs 24.4+),
+   `isearchp-not-in-string-p' (Emacs 24.4+),
    `isearchp-not-in-symbol-p' (Emacs 24.4+),
    `isearchp-not-in-url-p' (Emacs 24.4+), `isearchp-not-in-word-p'
    (Emacs 24.4+), `isearchp-not-predicate' (Emacs 24.4+),
@@ -955,8 +962,7 @@ Overview of Features ---------------------------------------------
    string.
 
  * `M-w' (`isearchp-kill-ring-save') copies the current search
-   string to the kill ring.  You can then, for example, use `C-s
-   M-y' to search for the same thing in another Emacs session.
+   string to the kill ring.
 
    (I use this all the time, but you might not use multiple Emacs
    sessions.)  Note that if you did not have this feature then you

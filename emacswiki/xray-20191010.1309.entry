@@ -1,0 +1,2 @@
+
+(xray . [(20191010 1309) nil "Display internal object structures in a temporary buffer." single ((:commit . "717eb12571a529f9bfa37293b6e8b2df5aa34383") (:keywords "help" "internal" "maintenance" "debug") (:authors ("Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com") (:url . "https://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

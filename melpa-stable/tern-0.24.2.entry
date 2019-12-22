@@ -1,0 +1,2 @@
+
+(tern . [(0 24 2) ((json (1 2)) (cl-lib (0 5)) (emacs (24))) "Tern-powered JavaScript integration" single ((:commit . "729307d17c08c9f2baf1925a51b7f36d8f035e01") (:authors ("Marijn Haverbeke")) (:maintainer "Marijn Haverbeke") (:url . "http://ternjs.net/"))])

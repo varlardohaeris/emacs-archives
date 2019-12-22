@@ -1,0 +1,2 @@
+
+(amixer . [(0 1) nil "Functions to call out to amixer." single ((:commit . "052d5a2f91e43e7dfb7bf4e7c5537ce600ae1c4a") (:keywords "convenience") (:authors ("R.W. van 't Veer")) (:maintainer "R.W. van 't Veer") (:url . "https://github.com/remvee/amixer-el"))])

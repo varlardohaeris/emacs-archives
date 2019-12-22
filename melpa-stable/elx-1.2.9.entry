@@ -1,0 +1,2 @@
+
+(elx . [(1 2 9) ((emacs (25 1))) "extract information from Emacs Lisp libraries" single ((:commit . "278fd5bacfc18476c8348b5770c32f0d3eae4fcb") (:keywords "docs" "libraries" "packages") (:authors ("Jonas Bernoulli" . "jonas@bernoul.li")) (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li") (:url . "https://github.com/emacscollective/elx"))])

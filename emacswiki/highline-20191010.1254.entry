@@ -1,0 +1,2 @@
+
+(highline . [(20191010 1254) nil "minor mode to highlight current line in buffer" single ((:commit . "cb1b62366c8f9443dc0737fd8bfae43e41859056") (:keywords "faces" "frames" "editing") (:authors ("Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com") (:url . "https://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

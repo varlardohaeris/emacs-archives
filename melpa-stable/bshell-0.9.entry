@@ -1,0 +1,2 @@
+
+(bshell . [(0 9) ((emacs (25)) (buffer-manage (0 5))) "manage and track multiple inferior shells" single ((:commit . "8d359f8a76749dcd5ca046b280a11fdb3f87cd23") (:keywords "interactive" "shell" "management") (:authors ("Paul Landes")) (:maintainer "Paul Landes") (:url . "https://github.com/plandes/bshell"))])

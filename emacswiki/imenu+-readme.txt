@@ -2,14 +2,14 @@ Extensions to `imenu.el'.
 
   User options defined here:
 
-   `imenup-sort-ignores-case-flag'.
+   `imenup-show-bookmarks-flag', `imenup-sort-ignores-case-flag'.
 
   Commands defined here:
 
    `imenup-add-defs-to-menubar',
    `imenup-toggle-case-sensitive-sorting',
    `imenup-toggle-ignoring-comments' (Emacs 22+),
-   `imenup-toggle-sort',
+   `imenup-toggle-showing-bookmarks', `imenup-toggle-sort',
 
   Non-interactive functions defined here:
 

@@ -1,0 +1,2 @@
+
+(thingatpt+ . [(20191025 2344) nil "Extensions to `thingatpt.el'." single ((:commit . "60b2bd2ce9ad6f2a72b597da8e22ea466da835d8") (:keywords "extensions" "matching" "mouse") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/thingatpt%2b.el"))])

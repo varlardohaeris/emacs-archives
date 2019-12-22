@@ -1,0 +1,2 @@
+
+(switch-file . [(20191010 1301) nil "switch from one file to another." single ((:commit . "4b6f56ba782fcc58d7061209103b1c8420b4c583") (:keywords "convenience") (:authors ("Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com") (:url . "https://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

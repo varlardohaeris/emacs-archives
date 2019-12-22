@@ -1,0 +1,2 @@
+
+(eshell-git-prompt . [(20191203 1206) ((emacs (24 1)) (cl-lib (0 5)) (dash (2 11 0))) "Some Eshell prompt for Git users" single ((:commit . "46f4f1b1f1bdd6bb1046bf3758e06634f446ab60") (:keywords "eshell" "git") (:authors ("Chunyang Xu" . "mail@xuchunyang.me")) (:maintainer "Chunyang Xu" . "mail@xuchunyang.me") (:url . "https://github.com/xuchunyang/eshell-git-prompt"))])

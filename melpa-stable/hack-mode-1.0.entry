@@ -1,0 +1,2 @@
+
+(hack-mode . [(1 0) ((emacs (25 1)) (s (1 11 0))) "Major mode for the Hack programming language" single ((:commit . "2f5d816f2bcaa9ea3ec3dcf716c3d01058d8702a") (:authors ("John Allen <jallen@fb.com>, Wilfred Hughes" . "me@wilfred.me.uk")) (:maintainer "John Allen <jallen@fb.com>, Wilfred Hughes" . "me@wilfred.me.uk") (:url . "https://github.com/hhvm/hack-mode"))])

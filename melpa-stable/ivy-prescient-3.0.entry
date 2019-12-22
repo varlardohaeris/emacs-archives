@@ -1,0 +1,2 @@
+
+(ivy-prescient . [(3 0) ((emacs (25 1)) (prescient (3 0)) (ivy (0 11 0))) "prescient.el + Ivy" single ((:commit . "f92e574e0cf71f1d568fc100a2f77c2cd64bc10e") (:keywords "extensions") (:authors ("Radon Rosborough" . "radon.neon@gmail.com")) (:maintainer "Radon Rosborough" . "radon.neon@gmail.com") (:url . "https://github.com/raxod502/prescient.el"))])

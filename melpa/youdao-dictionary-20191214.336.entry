@@ -1,0 +1,2 @@
+
+(youdao-dictionary . [(20191214 336) ((popup (0 5 0)) (pos-tip (0 4 6)) (chinese-word-at-point (0 2)) (names (0 5)) (emacs (24))) "Youdao Dictionary interface for Emacs" single ((:commit . "7e07ec669598fbe00eb7c171048b99f7eee78c3c") (:keywords "convenience" "chinese" "dictionary") (:authors ("Chunyang Xu" . "xuchunyang56@gmail.com")) (:maintainer "Chunyang Xu" . "xuchunyang56@gmail.com") (:url . "https://github.com/xuchunyang/youdao-dictionary.el"))])

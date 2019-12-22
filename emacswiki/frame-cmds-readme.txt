@@ -6,8 +6,11 @@
    Load this library from your init file (~/.emacs or _emacs).
    Add the suggested key bindings (below) to  your init file.
    Use `M-up|down|left|right' to move frames around incrementally.
-   Use `C-S-v', `M-S-v', `C-S-next', `C-S-prior' to move frames to screen edges.
+   Use `C-S-v', `M-S-v', `C-S-next', `C-S-prior' to move frames to
+       screen edges.
    Use `C-M-up|down|left|right' to resize frames incrementally.
+   Use `C-x {', `C-x }', `C-x ^', and `C-u C-x ^' to resize windows
+       incrementally.
    Use `C-M-z' or `C-x C-z' to iconify/hide all frames.
    Use `C-M-z' in a lone frame to restore all frames.
    Use `C-mouse-1' in the minibuffer to restore all frames.
@@ -77,8 +80,9 @@
    `delete/iconify-window', `delete/iconify-windows-on',
    `delete-other-frames', `delete-windows-for', `enlarge-font',
    `enlarge-frame', `enlarge-frame-horizontally',
-   `hide-everything', `hide-frame', `iconify-everything',
-   `iconify/map-frame', `iconify/show-frame',
+   `enlarge/shrink-window', `enlarge/shrink-window-repeat',
+   `enlarge-window-repeat', `hide-everything', `hide-frame',
+   `iconify-everything', `iconify/map-frame', `iconify/show-frame',
    `increase-frame-transparency' (Emacs 23+),
    `jump-to-frame-config-register', `maximize-frame',
    `maximize-frame-horizontally', `maximize-frame-vertically',
@@ -98,6 +102,7 @@
    `show-a-frame-on', `show-buffer-menu', `show-frame',
    `show-hide', `shrink-frame', `shrink-frame-horizontally',
    `split-frame-horizontally', `split-frame-vertically',
+   `shrink-window-horizontally-repeat', `shrink-window-repeat',
    `tell-customize-var-has-changed', `tile-frames',
    `tile-frames-horizontally', `tile-frames-side-by-side',
    `tile-frames-top-to-bottom', `tile-frames-vertically',
@@ -117,9 +122,9 @@
    `frcmds-frame-number', `frcmds-new-frame-position',
    `frcmds-read-args-for-tiling',
    `frcmds-read-buffer-for-delete-windows',
-   `frcmds-set-difference', `frcmds-smart-tool-bar-pixel-height',
-   `frcmds-split-frame-1', `frcmds-tile-frames', `nbutlast' (Emacs
-   20).
+   `frcmds-repeat-command', `frcmds-set-difference',
+   `frcmds-smart-tool-bar-pixel-height', `frcmds-split-frame-1',
+   `frcmds-tile-frames', `nbutlast' (Emacs 20).
 
  Error symbols defined here:
 
@@ -155,6 +160,9 @@
   (global-set-key [(control meta right)]         'enlarge-frame-horizontally)
   (global-set-key [(control meta up)]            'shrink-frame)
   (global-set-key [(control meta left)]          'shrink-frame-horizontally)
+  (global-set-key [remap enlarge-window-horizontally] 'enlarge-window-horizontally-repeat)
+  (global-set-key [remap shrink-window-horizontally]  'shrink-window-horizontally-repeat)
+  (global-set-key [remap enlarge-window]         'enlarge/shrink-window-repeat)
   (global-set-key (kbd "C-M-S-<down>")           'increase-frame-transparency)
   (global-set-key (kbd "C-M-S-<up>")             'decrease-frame-transparency)
   (global-set-key [(control ?x) (control ?z)]    'iconify-everything)

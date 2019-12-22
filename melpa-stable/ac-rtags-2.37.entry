@@ -1,0 +1,2 @@
+
+(ac-rtags . [(2 37) ((auto-complete (1 4 0)) (rtags (2 10))) "auto-complete back-end for RTags" single ((:commit . "11f49ef5c488da4c744f700b5cf07a8ebcb9f4ec") (:authors ("Jan Erik Hanssen" . "jhanssen@gmail.com") ("Anders Bakken" . "agbakken@gmail.com")) (:maintainer "Jan Erik Hanssen" . "jhanssen@gmail.com") (:url . "http://rtags.net"))])

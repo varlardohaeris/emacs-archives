@@ -1,0 +1,2 @@
+
+(google-translate . [(0 11 18) nil "Emacs interface to Google Translate." tar ((:commit . "dc118de511c433750d4c98b9dd67350118c04fd6"))])

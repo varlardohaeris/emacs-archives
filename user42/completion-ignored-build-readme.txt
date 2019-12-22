@@ -26,8 +26,14 @@
 ;;
 ;; Bugs:
 ;;
-;; When a directory name is completed together with a filename, the dynamic
-;; ignores are not applied because the directory name is not yet expanded.
-;; Pressing Tab again after the directory has expanded should ignore the
-;; built files.
+;; If a directory name is completed together with a filename (partial
+;; completion) then the dynamic ignores are not applied because the
+;; directory name is not yet expanded.  Pressing Tab again after the
+;; directory has expanded should ignore the built files.
+;;
+;; If, however, at this second Tab, the minibuffer filename exists then it
+;; is presented as a completion.  This can happen for an executable and a .c
+;; source filename.  completion-ignored-build adds the bare exe to
+;; `completion-ignored-extensions', but an exact match of the minibuffer is
+;; not subject to those ignores (or believe so).
 

@@ -5,4 +5,4 @@
  Overview of features:
 
     o   Loop though available color themes conveniently
-    o   Narrow down the list of your favorite color themes
+    o   Narrow down the list of color themes to only the ones you like

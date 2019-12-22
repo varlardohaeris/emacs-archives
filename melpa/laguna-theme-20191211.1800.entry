@@ -1,0 +1,2 @@
+
+(laguna-theme . [(20191211 1800) nil "A theme that's easy on the eyes & focuses on importance." single ((:commit . "a18f7abd00605fd50aba51b513cff58b70023903") (:authors ("Henry Newcomer" . "a.cliche.email@gmail.com")) (:maintainer "Henry Newcomer" . "a.cliche.email@gmail.com") (:url . "https://github.com/HenryNewcomer/laguna-theme"))])

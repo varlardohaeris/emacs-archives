@@ -48,7 +48,7 @@ will jump corresponding table item.
 Command `irfc-follow' will visit RFC document around point,
 example you stay cursor at "[RFC3986]", and type "o" will
 open rfc3986.txt in storage directory.  If have not found
-this file in directory, will download from `http://www.ietf.org/rfc/'
+this file in directory, will download from `https://www.ietf.org/rfc/'
 and open it when download complete.
 
 And command ‘irfc-follow’ can also use at title of RFC document.

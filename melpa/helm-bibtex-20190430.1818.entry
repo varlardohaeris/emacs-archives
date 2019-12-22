@@ -1,0 +1,2 @@
+
+(helm-bibtex . [(20190430 1818) ((helm (1 5 5)) (parsebib (1 0)) (s (1 9 0)) (dash (2 6 0)) (f (0 16 2)) (cl-lib (0 5)) (biblio (0 2))) "A bibliography manager based on Helm" tar ((:commit . "e1391a4be629b506f06d678bcdfd17d290904482") (:authors ("Titus von der Malsburg" . "malsburg@posteo.de")) (:maintainer "Titus von der Malsburg" . "malsburg@posteo.de"))])

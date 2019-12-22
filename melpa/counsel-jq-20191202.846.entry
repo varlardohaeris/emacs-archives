@@ -1,0 +1,2 @@
+
+(counsel-jq . [(20191202 846) ((ivy (0 12 0)) (emacs (24 1))) "Live preview of \"jq\" queries using counsel" single ((:commit . "c940636fe55f26d35d9d2d23adcb6f931a6df5e0") (:keywords "convenience" "data" "matching") (:authors ("Alain M. Lafon" . "alain@200ok.ch")) (:maintainer "Alain M. Lafon" . "alain@200ok.ch") (:url . "https://github.com/200ok-ch/counsel-jq"))])

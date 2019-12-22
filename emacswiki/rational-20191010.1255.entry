@@ -1,0 +1,2 @@
+
+(rational . [(20191010 1255) nil "Rational number in factorial-base format." single ((:commit . "071860fe589cf0dd5f5741c1f281894be8f93ed2") (:keywords "data" "curiosity" "mathematics") (:authors ("Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com") (:url . "https://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

@@ -1,0 +1,2 @@
+
+(tern-auto-complete . [(0 24 2) ((tern (0 0 1)) (auto-complete (1 4)) (cl-lib (0 5)) (emacs (24))) "Tern Completion by auto-complete.el" single ((:commit . "729307d17c08c9f2baf1925a51b7f36d8f035e01") (:authors ("<m.sakurai at kiwanami.net>")) (:maintainer "<m.sakurai at kiwanami.net>"))])

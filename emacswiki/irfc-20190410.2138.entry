@@ -1,0 +1,2 @@
+
+(irfc . [(20190410 2138) nil "Interface for IETF RFC document." single ((:commit . "91c2b96579dc3a358c85f1ead9f94384e9bd5803") (:keywords "rfc" "ietf") (:authors ("Andy Stewart" . "lazycat.manatee@gmail.com")) (:maintainer "Niels Widger" . "niels.widger@gmail.com") (:url . "https://www.emacswiki.org/emacs/download/irfc.el"))])

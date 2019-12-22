@@ -1,0 +1,2 @@
+
+(0x0 . [(0 1 1) ((emacs (24 1))) "Upload to 0x0.st" single ((:commit . "129585c4096e78f46b741c7729915f666bfee501") (:keywords "faces") (:authors ("Philip K." . "philip@warpmail.net")) (:maintainer "Philip K." . "philip@warpmail.net") (:url . "https://git.sr.ht/~zge/nullpointer-emacs"))])

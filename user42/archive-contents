@@ -42,14 +42,14 @@
 	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 	       (:url . "http://user42.tuxfamily.org/areabrowse/index.html"))])
  (aumix-mode .
-	     [(7)
+	     [(8)
 	      nil "run the aumix program in a buffer" single
 	      ((:authors
 		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
 	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 	       (:url . "http://user42.tuxfamily.org/aumix-mode/index.html"))])
  (bytecomp-simplify .
-		    [(18)
+		    [(19)
 		     nil "byte compile warnings for simplifications" single
 		     ((:authors
 		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -63,7 +63,7 @@
 		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		      (:url . "http://user42.tuxfamily.org/checkdoc-autoload/index.html"))])
  (checkdoc-batch .
-		 [(7)
+		 [(8)
 		  nil "batch report of M-x checkdoc things" single
 		  ((:authors
 		    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -119,7 +119,7 @@
 		       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		       (:url . "http://user42.tuxfamily.org/compilation-onewin/index.html"))])
  (compilation-perl .
-		   [(14)
+		   [(15)
 		    nil "extra error regexps for Perl" single
 		    ((:authors
 		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -154,7 +154,7 @@
 			  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 			  (:url . "http://user42.tuxfamily.org/compile-history-local/index.html"))])
  (completion-ignored-build .
-			   [(13)
+			   [(14)
 			    nil "some built completion-ignored-extensions" single
 			    ((:authors
 			      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -189,7 +189,7 @@
 		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		(:url . "http://user42.tuxfamily.org/do-not-edit/index.html"))])
  (elisp-docstring-preview .
-			  [(6)
+			  [(7)
 			   nil "preview Emacs Lisp docstring" single
 			   ((:authors
 			     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -224,7 +224,7 @@
 		       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		       (:url . "http://user42.tuxfamily.org/ffap-include-start/index.html"))])
  (ffap-makefile-vars .
-		     [(5)
+		     [(6)
 		      nil "find file with makefile variables expanded" single
 		      ((:authors
 			("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -357,7 +357,7 @@
 		      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		      (:url . "http://user42.tuxfamily.org/localedef-overlay/index.html"))])
  (mailcap-mode .
-	       [(4)
+	       [(5)
 		nil "mailcap file editing mode" single
 		((:authors
 		  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -378,7 +378,7 @@
 		  (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		  (:url . "http://user42.tuxfamily.org/makeinfo-info/index.html"))])
  (man-completion .
-		 [(37)
+		 [(38)
 		  nil "completion for M-x man" single
 		  ((:authors
 		    ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -392,7 +392,7 @@
 		(:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		(:url . "http://user42.tuxfamily.org/man-preview/index.html"))])
  (mine-sweeper-auto .
-		    [(6)
+		    [(7)
 		     nil "automated mine sweeping for mine-sweeper.el" single
 		     ((:authors
 		       ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -434,11 +434,11 @@
 	    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 	    (:url . "http://user42.tuxfamily.org/parasep/index.html"))])
  (pcf2bdf .
-	  [(14)
+	  [(15)
 	   nil "view .pcf compiled font files as bdf" single
 	   ((:authors
-	     ("Kevin Ryde" . "user42@zip.com.au"))
-	    (:maintainer "Kevin Ryde" . "user42@zip.com.au")
+	     ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 	    (:url . "http://user42.tuxfamily.org/pcf2bdf/index.html"))])
  (perl-env-substitute .
 		      [(3)
@@ -539,14 +539,14 @@
 			      (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 			      (:url . "http://user42.tuxfamily.org/startup-file-name-history/index.html"))])
  (tcd-format .
-	     [(7)
+	     [(9)
 	      nil "view XTide .tcd tide constituent database files" single
 	      ((:authors
-		("Kevin Ryde" . "user42@zip.com.au"))
-	       (:maintainer "Kevin Ryde" . "user42@zip.com.au")
+		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
+	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 	       (:url . "http://user42.tuxfamily.org/tcd-format/index.html"))])
  (tex-increase .
-	       [(6)
+	       [(7)
 		nil "increase or decrease TeX \\bigl etc" single
 		((:authors
 		  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -574,14 +574,14 @@
 		 (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		 (:url . "http://user42.tuxfamily.org/texinfo-warn/index.html"))])
  (tty-format .
-	     [(11)
+	     [(12)
 	      nil "text file backspacing and ANSI SGR as faces" single
 	      ((:authors
 		("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
 	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 	       (:url . "http://user42.tuxfamily.org/tty-format/index.html"))])
  (unicode-disp .
-	       [(12)
+	       [(13)
 		nil "display-table fallbacks for some unicode chars" single
 		((:authors
 		  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -623,7 +623,7 @@
 	       (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 	       (:url . "http://user42.tuxfamily.org/xml-coding/index.html"))])
  (xtide .
-	[(26)
+	[(27)
 	 nil "XTide display in Emacs" single
 	 ((:authors
 	   ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))

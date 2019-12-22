@@ -1,0 +1,2 @@
+
+(narrow-indirect . [(20190706 604) nil "Narrow using an indirect buffer that is a clone" single ((:commit . "5a7fffffb8278ee01574b9317873aaa371c60142") (:keywords "narrow" "indirect" "buffer" "clone" "view" "multiple-modes") (:authors ("Drew Adams")) (:maintainer "Drew Adams") (:url . "https://www.emacswiki.org/emacs/download/narrow-indirect.el"))])

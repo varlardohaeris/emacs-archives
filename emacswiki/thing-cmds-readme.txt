@@ -10,11 +10,14 @@
 
  Commands defined here:
 
-   `cycle-thing-region', `mark-enclosing-list',
-   `mark-enclosing-list-backward', `mark-enclosing-list-forward',
-   `mark-thing', `next-visible-thing', `next-visible-thing-repeat',
+   `cycle-select-something', `cycle-thing-region',
+   `mark-enclosing-list', `mark-enclosing-list-backward',
+   `mark-enclosing-list-forward', `mark-things',
+   `next-visible-thing', `next-visible-thing-repeat',
    `previous-visible-thing', `previous-visible-thing-repeat',
-   `select-thing-near-point', `thgcmd-bind-keys', `thing-region'.
+   `select-enclosing-list', `select-enclosing-list-backward',
+   `select-enclosing-list-forward', `select-thing',
+   `select-things', `thgcmd-bind-keys', `thing-region'.
 
  User options defined here:
 
@@ -22,9 +25,10 @@
 
  Non-interactive functions defined here:
 
-   `thgcmd-bounds-of-thing-at-point', `thgcmd-invisible-p',
-   `thgcmd-next-visible-thing-1', `thgcmd-next-visible-thing-2',
-   `thgcmd-repeat-command', `thgcmd-things-alist'.
+   `thgcmd-bounds-of-thing-at-point', `thgcmd-forward-op-p',
+   `thgcmd-invisible-p', `thgcmd-next-visible-thing-1',
+   `thgcmd-next-visible-thing-2', `thgcmd-repeat-command',
+   `thgcmd-things-alist'.
 
  Internal variables defined here:
 

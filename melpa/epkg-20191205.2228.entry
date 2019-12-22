@@ -1,0 +1,2 @@
+
+(epkg . [(20191205 2228) ((closql (1 0 1)) (dash (2 16 0)) (emacs (25 1))) "browse the Emacsmirror package database" tar ((:commit . "ca211c5225aa550374d77629dd9b87e2b0b0d992") (:keywords "tools") (:authors ("Jonas Bernoulli" . "jonas@bernoul.li")) (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li") (:url . "https://github.com/emacscollective/epkg"))])

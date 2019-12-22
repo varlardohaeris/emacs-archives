@@ -51,6 +51,9 @@ Description:
      `bm-highlight-style'. It is possible to have fringe-markers on
      left or right side.
 
+   - Display the number of bookmarks in the current buffer in the
+     mode line, see `bm-modeline-info' and
+     `bm-modeline-display-total'.
 
 
 Known limitations:
@@ -103,6 +106,20 @@ Configuration:
   left, add the following to line:
 
   (setq bm-marker 'bm-marker-right)
+
+
+  Mode line:
+
+  Since there are number of different packages that helps with
+  configuring the mode line, it is hard to provide integrations.
+  Below is two examples on how to add it to the standard Emacs mode
+  line:
+
+    (add-to-list 'mode-line-position '(:eval (bm-modeline-info)) t)
+
+  or
+
+    (setq global-mode-string '(:eval (bm-modeline-info)))
 
 
 

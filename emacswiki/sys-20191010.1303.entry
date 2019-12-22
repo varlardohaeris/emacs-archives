@@ -1,0 +1,2 @@
+
+(sys . [(20191010 1303) nil "Determine which kind of system Emacs is running." single ((:commit . "bdfd765e20a9e209c4160b3567a477f109e4f661") (:keywords "internal" "maintenance" "debug") (:authors ("Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com") (:url . "https://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])

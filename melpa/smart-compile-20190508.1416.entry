@@ -1,0 +1,2 @@
+
+(smart-compile . [(20190508 1416) nil "an interface to `compile'" single ((:commit . "4831a10376da3d974ad4f524a865cf3ab5d008db") (:keywords "tools" "unix") (:authors ("Seiji Zenitani" . "zenitani@mac.com")) (:maintainer "Seiji Zenitani" . "zenitani@mac.com"))])

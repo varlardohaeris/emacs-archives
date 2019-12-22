@@ -1,0 +1,2 @@
+
+(icicles . [(20190922 714) nil "Minibuffer input completion and cycling." tar ((:commit . "9e9c37d2a54771c635d00d1fe171cef5eab4d95d") (:keywords "extensions" "help" "abbrev" "local" "minibuffer" "projects") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/icicles.el"))])

@@ -1,0 +1,2 @@
+
+(lsp-treemacs . [(20191220 2131) ((emacs (25 1)) (dash (2 14 1)) (dash-functional (2 14 1)) (f (0 20 0)) (ht (2 0)) (treemacs (2 5)) (lsp-mode (6 0))) "LSP treemacs" tar ((:commit . "a8d815a1529de1f74073157e4dd8721cdb5a8676") (:keywords "languages") (:authors ("Ivan Yonchovski")) (:maintainer "Ivan Yonchovski") (:url . "https://github.com/emacs-lsp/lsp-treemacs"))])

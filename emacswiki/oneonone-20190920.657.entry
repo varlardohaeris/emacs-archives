@@ -1,0 +1,2 @@
+
+(oneonone . [(20190920 657) ((hexrgb (0))) "Frame configuration that uses one frame per window." single ((:commit . "ecea80850da26dc95a19dde2ba8892e403db5a85") (:keywords "local" "frames") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/oneonone.el"))])

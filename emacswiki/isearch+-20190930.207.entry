@@ -1,0 +1,2 @@
+
+(isearch+ . [(20190930 207) nil "Extensions to `isearch.el' (incremental search)." single ((:commit . "376a8f9f8a9666d7e61d125abcdb645847cb8619") (:keywords "help" "matching" "internal" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/isearch%2b.el"))])

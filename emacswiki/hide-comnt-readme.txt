@@ -1,6 +1,6 @@
    Hide/show comments in code.
 
- Comments are hidden by giving them and `invisible' property of
+ Comments are hidden by giving them an `invisible' property with
  value `hide-comment'.
 
 

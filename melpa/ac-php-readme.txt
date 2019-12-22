@@ -1,11 +1,6 @@
 Auto Completion source for PHP.  Known to work on Linux and macOS systems.
 For more info and examples see URL `https://github.com/xcwen/ac-php' .
 
-Thanks to:
-- auto-complete-clang
-- auto-java-complete (ac-php-remove-unnecessary-items-4-complete-method)
-- rtags (ac-php-location-stack-index)
-
 Usage:  Put this package in your Emacs Lisp path (eg. site-lisp) and add to
 your .emacs file:
 
@@ -24,6 +19,9 @@ your .emacs file:
 Many options available under Help:Customize
 Options specific to ac-php are in
   Convenience/Completion/Auto Complete
+
+Known to work with Linux and macOS.  Windows support is in beta stage.
+For more info and examples see URL `https://github.com/xcwen/ac-php' .
 
 Bugs: Bug tracking is currently handled using the GitHub issue tracker
 (see URL `https://github.com/xcwen/ac-php/issues')

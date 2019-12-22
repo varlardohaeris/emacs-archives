@@ -1,0 +1,2 @@
+
+(protobuf-mode . [(3 11 0) nil "major mode for editing protocol buffers." single ((:commit . "ab5b61bf2f0fb1ac485be1b82fffca153c2509ed") (:keywords "google" "protobuf" "languages") (:authors ("Alexandre Vassalotti" . "alexandre@peadrop.com")) (:maintainer "Alexandre Vassalotti" . "alexandre@peadrop.com"))])

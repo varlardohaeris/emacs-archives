@@ -1,0 +1,2 @@
+
+(zones . [(20190501 1029) nil "Zones of text - like multiple regions" single ((:commit . "3169815c323966ff8e252b44e3558d6d045243fe") (:keywords "narrow" "restriction" "widen" "region" "zone") (:authors ("Drew Adams")) (:maintainer "Drew Adams" . "drew.adams@oracle.com") (:url . "https://elpa.gnu.org/packages/zones.html"))])

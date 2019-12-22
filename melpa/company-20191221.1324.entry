@@ -1,0 +1,2 @@
+
+(company . [(20191221 1324) ((emacs (24 3))) "Modular text completion framework" tar ((:commit . "cf2d50b81be361675a7ffec3b1854ff39c1942b0") (:keywords "abbrev" "convenience" "matching") (:authors ("Nikolaj Schumacher")) (:maintainer "Dmitry Gutov" . "dgutov@yandex.ru") (:url . "http://company-mode.github.io/"))])

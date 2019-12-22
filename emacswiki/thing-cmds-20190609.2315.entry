@@ -1,0 +1,2 @@
+
+(thing-cmds . [(20190609 2315) ((hide-comnt (0))) "Commands that use things, as defined by `thingatpt.el'." single ((:commit . "969bf33001b094fc9046b19c00e8f356db8012cb") (:keywords "thingatpt" "thing" "region" "selection") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/thing-cmds.el"))])

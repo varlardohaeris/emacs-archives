@@ -1,0 +1,2 @@
+
+(review-mode . [(20191209 604) nil "major mode for ReVIEW" single ((:commit . "1adceab17d57c8417fc1e055259c7f0934dd9652") (:authors ("Kenshi Muto" . "kmuto@debian.org")) (:maintainer "Kenshi Muto" . "kmuto@debian.org") (:url . "https://github.com/kmuto/review-el"))])

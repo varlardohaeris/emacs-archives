@@ -64,6 +64,12 @@
  levels, the background color of the minibuffer frame is changed
  slightly with each recursion-depth change.
 
+ If `1on1-minibuffer-frame-flag' is non-nil then you can have the
+ standalone minibuffer frame be automatically repositioned near the
+ cursor (point).  To do that, customize option
+ `1on1-move-minibuffer-frame-near-point'.  Available only for Emacs
+ 24 and later.  For best results use this feature with Icicles.
+
  This library is especially useful if used in combination with
  One-on-One Emacs libraries `autofit-frame.el', which automatically
  fits frames to their sole window, and `fit-frame.el', which lets
@@ -112,7 +118,7 @@
 
    (cond ((< emacs-major-version 21)
           (remove-hook 'same-window-buffer-names "*info*"))
-         ((= emacs-version 21)
+         ((= emacs-major-version 21)
           (remove-hook 'same-window-buffer-names "*info*")
           (remove-hook 'same-window-regexps "\\`\\*Customiz.*\\*\\'"))
          (t
@@ -206,6 +212,7 @@
    `1on1-minibuffer-frame-top/bottom',
    `1on1-minibuffer-frame-width',
    `1on1-minibuffer-frame-width-percent',
+   `1on1-move-minibuffer-frame-near-point' (Emacs 24+),
    `1on1-remap-other-frame-command-flag',
    `1on1-special-display-frame-alist', `1on1-task-bar-height'
    (Emacs < 24.4).
@@ -221,8 +228,10 @@
    `1on1-display-*Completions*-frame', `1on1-display-*Help*-frame',
    `1on1-filter-no-default-minibuffer',
    `1on1-flash-ding-minibuffer-frame',
-   `1on1-minibuffer-prompt-end', `1on1-reset-minibuffer-frame',
-   `1on1-remove-if', `1on1-set-minibuffer-frame-top/bottom',
+   `1on1-last-non-minibuffer-buffer', `1on1-minibuffer-prompt-end',
+   `1on1-reset-minibuffer-frame', `1on1-remove-if',
+   `1on1-reposition-minibuffer-frame' (Emacs 24+),
+   `1on1-set-minibuffer-frame-top/bottom',
    `1on1-set-minibuffer-frame-width',
    `1on1-setup-minibuffer-frame-coloring', `1on1-setup-mode-line'.
 
@@ -244,6 +253,7 @@
    `1on1-minibuffer-frame-foreground',
    `1on1-minibuffer-frame-height',
    `1on1-minibuffer-frame-mouse-color',
+   `1on1-move-minibuffer-frame-max-left-top' (Emacs 24+),
    `1on1-special-frame-background',
    `1on1-special-frame-cursor-color', `1on1-special-frame-font',
    `1on1-special-frame-foreground',

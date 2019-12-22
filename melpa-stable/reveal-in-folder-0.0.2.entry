@@ -1,0 +1,2 @@
+
+(reveal-in-folder . [(0 0 2) ((emacs (24 3)) (f (0 20 0))) "Reveal current file in folder" single ((:commit . "715e34b7c4a93840f6188386a13d15231907257b") (:authors ("Shen, Jen-Chieh" . "jcs090218@gmail.com")) (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com") (:url . "https://github.com/jcs090218/reveal-in-folder"))])

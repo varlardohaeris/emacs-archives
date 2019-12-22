@@ -1,0 +1,2 @@
+
+(shroud . [(1 83 24) ((emacs (25)) (epg (1 0 0)) (s (1 6 0)) (bui (1 2 0)) (dash (2 15 0)) (dash-functional (2 15 0))) "Shroud secrets" tar ((:commit . "2c0366e6122dd53d3f98353227014ebfc7eff800") (:keywords "tools" "password") (:authors ("Amar Singh" . "nly@disroot.org")) (:maintainer "Amar Singh" . "nly@disroot.org") (:url . "https://github.com/o-nly/emacs-shroud"))])

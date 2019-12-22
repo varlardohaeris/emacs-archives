@@ -1,0 +1,2 @@
+
+(hide-comnt . [(20191122 20) nil "Hide/show comments in code." single ((:commit . "d1e94f5152f20b2dc7b0d42898c1db37e5be57a6") (:keywords "comment" "hide" "show") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/hide-comnt.el"))])

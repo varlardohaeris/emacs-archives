@@ -18,11 +18,12 @@
    `display-in-minibuffer', `display-lines-containing',
    `echo-in-buffer', `empty-name-p', `erase-inactive-minibuffer',
    `erase-nonempty-inactive-minibuffer', `fill-string',
-   `frame-alist', `insert-in-minibuffer', `minibuffer-empty-p',
-   `non-empty-name-p', `ordinal-suffix', `pick-some-words',
-   `read-any-variable', `read-number', `region-description',
-   `set-minibuffer-empty-p', `string-w-face',
-   `symbol-name-before-point', `word-before-point'.
+   `frame-alist', `insert-in-minibuffer', `insert-string' (Emacs
+   26+), `minibuffer-empty-p', `non-empty-name-p',
+   `ordinal-suffix', `pick-some-words', `read-any-variable',
+   `read-number', `region-description', `set-minibuffer-empty-p',
+   `string-w-face', `symbol-name-before-point',
+   `word-before-point'.
 
  Variables defined here:
 

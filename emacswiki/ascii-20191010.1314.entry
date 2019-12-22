@@ -1,0 +1,2 @@
+
+(ascii . [(20191010 1314) nil "ASCII code display." single ((:commit . "c39807ae33454c33c09bff2dc65ba8e4101db429") (:keywords "data" "ascii") (:authors ("Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com")) (:maintainer "Vinicius Jose Latorre" . "viniciusjl.gnu@gmail.com") (:url . "https://www.emacswiki.org/cgi-bin/wiki/ViniciusJoseLatorre"))])
