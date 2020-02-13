@@ -1,0 +1,2 @@
+
+(bookmark+ . [(20200125 743) nil "Bookmark+: extensions to standard library `bookmark.el'." tar ((:commit . "3184b971d8ab0f934e982164e446744be309f03d") (:keywords "bookmarks" "bookmark+" "projects" "placeholders" "annotations" "search" "info" "url" "eww" "w3m" "gnus") (:authors ("Drew Adams, Thierry Volpiatto")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/bookmark%2b.el"))])

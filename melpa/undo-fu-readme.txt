@@ -3,8 +3,8 @@ Undo/redo convenience wrappers to Emacs default undo commands.
 The redo operation can be accessed from a key binding
 and stops redoing once the initial undo action is reached.
 
-If you want to cross the initial undo step to access
-the full history, running (keyboard-quit) typically C-g.
+If you want to cross the initial undo boundary to access
+the full history, running [keyboard-quit] (typically C-g).
 lets you continue redoing for functionality not typically
 accessible with regular undo/redo.
 

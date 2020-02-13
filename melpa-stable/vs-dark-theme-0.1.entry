@@ -1,0 +1,2 @@
+
+(vs-dark-theme . [(0 1) ((emacs (24 1))) "Visual Studio IDE dark theme" single ((:commit . "c3c6b0be8bd525079b341490afc8875941b8af79") (:authors ("Jen-Chieh Shen")) (:maintainer "Jen-Chieh Shen") (:url . "https://github.com/jcs090218/vs-dark-theme"))])

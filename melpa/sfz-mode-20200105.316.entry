@@ -1,0 +1,2 @@
+
+(sfz-mode . [(20200105 316) ((emacs (25 1))) "Major mode for SFZ files" single ((:commit . "614506bac2795c531ab118840ba010ee378e96d4") (:keywords "languages") (:authors ("Jean Pierre Cimalando" . "jp-dev@inbox.ru")) (:maintainer "Jean Pierre Cimalando" . "jp-dev@inbox.ru") (:url . "https://github.com/sfztools/emacs-sfz-mode"))])

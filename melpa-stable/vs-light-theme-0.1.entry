@@ -1,0 +1,2 @@
+
+(vs-light-theme . [(0 1) ((emacs (24 1))) "Visual Studio IDE light theme" single ((:commit . "8b34cbe6294ad02676970bd72c9efbcc09981f3f") (:authors ("Jen-Chieh Shen")) (:maintainer "Jen-Chieh Shen") (:url . "https://github.com/jcs090218/vs-light-theme"))])

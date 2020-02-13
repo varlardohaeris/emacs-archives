@@ -1,0 +1,2 @@
+
+(menu-bar+ . [(20200123 651) nil "Extensions to `menu-bar.el'." single ((:commit . "26dd1e5d34ffdfde2a994191ab885b1cf570e04d") (:keywords "internal" "local" "convenience") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/menu-bar%2b.el"))])

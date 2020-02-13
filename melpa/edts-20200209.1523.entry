@@ -1,0 +1,2 @@
+
+(edts . [(20200209 1523) ((auto-complete (20170125 245)) (auto-highlight-symbol (20130313 943)) (dash (20190814 2006)) (erlang (20190404 928)) (f (20190109 906)) (popup (20160709 1429)) (s (20180406 808))) "Erlang Development Tool Suite" tar ((:commit . "0e685a5fe12d40064e06478dda9aa55a12243ef9"))])

@@ -23,7 +23,7 @@
 
             <div class="container">
 <h2 class="package">relint</h2><dl><dt>Description</dt><dd>Elisp regexp mistake finder</dd>
-<dt>Latest</dt> <dd><a href="relint-1.11.tar">relint-1.11.tar</a>, 2019-Sep-29,  140&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="relint-1.13.tar">relint-1.13.tar</a>, 2020-Jan-31,  150&nbsp;KiB</dd>
 <dt>Home page</dt> <dd><a href="https://github.com/mattiase/relint">https://github.com/mattiase/relint</a></dd>
 <dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/relint">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/relint">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
@@ -136,6 +136,14 @@ skip-syntax-backward.
     A branch in an or-expression matches a superset or subset of what
     another branch matches, like in [ab]\|a. This means that one of
     the branches can be eliminated without changing the meaning of the
+    regexp.
+
+  - Repetition subsumes/subsumed by preceding repetition
+
+    An repeating expression matches a superset or subset of what the
+    previous expression matches, in such a way that one of them is
+    unnecessary. For example, [ab]+a* matches the same text as [ab]+,
+    so the a* could be removed without changing the meaning of the
     regexp.
 
   - Uncounted repetition
@@ -283,6 +291,8 @@ skip-syntax-backward.
 
 </pre>
 <h2>Old versions</h2><table>
+<tr><td><a href="relint-1.12.tar">relint-1.12.tar</a></td><td>2020-Jan-23</td><td> 140&nbsp;KiB</td>
+<tr><td><a href="relint-1.11.tar">relint-1.11.tar</a></td><td>2019-Sep-29</td><td> 140&nbsp;KiB</td>
 <tr><td><a href="relint-1.10.el">relint-1.10.el</a></td><td>2019-Aug-10</td><td>59.3&nbsp;KiB</td>
 <tr><td><a href="relint-1.9.el">relint-1.9.el</a></td><td>2019-Aug-04</td><td>55.4&nbsp;KiB</td>
 <tr><td><a href="relint-1.8.el">relint-1.8.el</a></td><td>2019-May-26</td><td>46.0&nbsp;KiB</td>
@@ -291,6 +301,17 @@ skip-syntax-backward.
 <tr><td><a href="relint-1.5.el">relint-1.5.el</a></td><td>2019-Mar-26</td><td>40.2&nbsp;KiB</td>
 </table>
 <h2>News</h2><pre>
+Version 1.13:
+- Look in function/macro doc strings to find regexp arguments and
+  return values
+- Detect binding and mutation of some known regexp variables
+- Detect regexps as arguments to `syntax-propertize-rules'
+- More font-lock-keywords variables are scanned for regexps
+- `relint-batch' no longer outputs a summary if there were no errors
+Version 1.12:
+- Improved detection of regexps in defcustom declarations
+- Better suppression of false positives
+- Nonzero exit status upon error in `relint-batch'
 Version 1.11:
 - Improved evaluator, now handling limited local variable mutation
 - Bug fixes

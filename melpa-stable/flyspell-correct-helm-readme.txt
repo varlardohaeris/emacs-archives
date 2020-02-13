@@ -7,3 +7,10 @@ Example usage:
 
   (require 'flyspell-correct-helm)
   (define-key flyspell-mode-map (kbd "C-;") 'flyspell-correct-wrapper)
+
+Or via use-package:
+
+  (use-package flyspell-correct-helm
+    :bind ("C-M-;" . flyspell-correct-wrapper)
+    :init
+    (setq flyspell-correct-interface #'flyspell-correct-helm))

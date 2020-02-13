@@ -1,0 +1,2 @@
+
+(ppp . [(1 0 0) ((emacs (26))) "Extended pretty printer for Emacs Lisp" single ((:commit . "6aabd694bcc66775c6a4328fa653a83e39791252") (:keywords "tools") (:authors ("Naoya Yamashita" . "conao3@gmail.com")) (:maintainer "Naoya Yamashita" . "conao3@gmail.com") (:url . "https://github.com/conao3/ppp.el"))])

@@ -1,0 +1,2 @@
+
+(nodejs-repl . [(0 2 3) nil "Run Node.js REPL" single ((:commit . "492e0d7d6e059bff49ee270be51b7576ed639142") (:authors ("Takeshi Arabiki")) (:maintainer "Takeshi Arabiki"))])

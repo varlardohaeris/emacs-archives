@@ -1,0 +1,2 @@
+
+(competitive-programming-snippets . [(1 1 3) ((emacs (26)) (yasnippet (0 8 0))) "Competitive Programming snippets for Yasnippet" single ((:commit . "51fb694d590ecb19ace55de3942f7858375230eb") (:keywords "tools") (:authors ("Seong Yong-ju" . "sei40kr@gmail.com")) (:maintainer "Seong Yong-ju" . "sei40kr@gmail.com") (:url . "https://github.com/sei40kr/competitive-programming-snippets"))])

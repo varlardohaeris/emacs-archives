@@ -1,0 +1,2 @@
+
+(phpstan . [(20200122 1256) ((emacs (24 3))) "Interface to PHPStan" single ((:commit . "6744215d82ce9e82416d83e5b27fb9bac9e8d461") (:keywords "tools" "php") (:authors ("USAMI Kenta" . "tadsan@zonu.me")) (:maintainer "USAMI Kenta" . "tadsan@zonu.me") (:url . "https://github.com/emacs-php/phpstan.el"))])

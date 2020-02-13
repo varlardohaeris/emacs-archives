@@ -1,0 +1,2 @@
+
+(proportional . [(20200206 1211) ((emacs (25 1))) "use a proportional font everywhere" single ((:commit . "4c20c876b93b9b5d82931dabb42396d5ff471f50") (:keywords "faces") (:authors ("Johannes Goslar")) (:maintainer "Johannes Goslar") (:url . "https://github.com/ksjogo/proportional"))])

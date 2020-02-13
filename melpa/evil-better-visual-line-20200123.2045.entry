@@ -1,0 +1,2 @@
+
+(evil-better-visual-line . [(20200123 2045) ((evil (1 2 13))) "gj and gk visual line mode fix" single ((:commit . "7a65dfb17ab93857eb4c7a39d4018d9399705293") (:keywords "evil" "vim" "motion") (:authors ("<nuckollsp at gmail.com>")) (:maintainer "<nuckollsp at gmail.com>") (:url . "https://github.com/yourfin/evil-better-visual-line"))])

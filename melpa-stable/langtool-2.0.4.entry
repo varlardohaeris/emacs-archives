@@ -1,0 +1,2 @@
+
+(langtool . [(2 0 4) ((cl-lib (0 3))) "Grammar check utility using LanguageTool" single ((:commit . "adb80f55665db65a46fc552d364386d3cc703d94") (:keywords "docs") (:authors ("Masahiro Hayashi" . "mhayashi1120@gmail.com")) (:maintainer "Masahiro Hayashi" . "mhayashi1120@gmail.com") (:url . "https://github.com/mhayashi1120/Emacs-langtool"))])

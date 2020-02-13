@@ -1,0 +1,2 @@
+
+(popwin . [(1 0 1) nil "Popup Window Manager." single ((:commit . "4052b6e51bc6cc80cfc86007d2cadbbc4bbd55b5") (:keywords "convenience") (:authors ("Tomohiro Matsuyama" . "m2ym.pub@gmail.com")) (:maintainer "Tomohiro Matsuyama" . "m2ym.pub@gmail.com"))])

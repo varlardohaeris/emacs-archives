@@ -1,0 +1,2 @@
+
+(simpleclip . [(1 0 10) nil "Simplified access to the system clipboard" single ((:commit . "d327abe0522b9b9a26e005eae5ffa4c34ea2ba0a") (:keywords "convenience") (:authors ("Roland Walker" . "walker@pobox.com")) (:maintainer "Roland Walker" . "walker@pobox.com") (:url . "http://github.com/rolandwalker/simpleclip"))])

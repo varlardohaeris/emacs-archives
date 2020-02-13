@@ -1,0 +1,2 @@
+
+(vimgolf . [(0 10 3) nil "VimGolf interface for the One True Editor" single ((:commit . "78e91f810a1b49d68ef19565e1c6513c84855e1e") (:keywords "games" "vimgolf" "vim") (:authors ("Tim Visher" . "tim.visher@gmail.com")) (:maintainer "Tim Visher" . "tim.visher@gmail.com") (:url . "https://github.com/timvisher/vimgolf.el"))])

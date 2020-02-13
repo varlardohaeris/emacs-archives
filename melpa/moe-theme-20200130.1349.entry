@@ -1,0 +1,2 @@
+
+(moe-theme . [(20200130 1349) nil "A colorful eye-candy theme. Moe, moe, kyun!" tar ((:commit . "0bbd315f213b8768f34ea612a9c249efb2675d0a") (:url . "https://github.com/kuanyui/moe-theme.el"))])

@@ -1,0 +1,2 @@
+
+(yascroll . [(0 1 4) ((cl-lib (0 3))) "Yet Another Scroll Bar Mode" single ((:commit . "b6c924a0a14e2f90af6dadd1b6283ee546b5c436") (:keywords "convenience") (:authors ("Tomohiro Matsuyama" . "m2ym.pub@gmail.com")) (:maintainer "Tomohiro Matsuyama" . "m2ym.pub@gmail.com"))])
