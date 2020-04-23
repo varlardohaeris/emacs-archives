@@ -1,0 +1,2 @@
+
+(org-runbook . [(1 0 6) ((emacs (25 1)) (seq (2 3)) (f (0 20 0)) (s (1 12 0)) (dash (2 17 0)) (mustache (0 24)) (ht (0 9))) "Org mode for runbooks" single ((:commit . "53e8876a1587190ec4d103f9e94380f34797ce49") (:keywords "convenience" "processes" "terminals" "files") (:authors ("Tyler Dodge")) (:maintainer "Tyler Dodge") (:url . "https://github.com/tyler-dodge/org-runbook"))])

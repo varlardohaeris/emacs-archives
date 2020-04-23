@@ -1,0 +1,2 @@
+
+(stripes . [(20200323 750) ((emacs (24))) "highlight alternating lines differently" single ((:commit . "8b0010acb9f92c7ab2fb8396aaf354fccedea7c5") (:keywords "convenience" "faces") (:authors ("Michael Schierl" . "schierlm-public@gmx.de")) (:maintainer "Štěpán Němec" . "stepnem@gmail.com") (:url . "https://gitlab.com/stepnem/stripes-el"))])

@@ -4,6 +4,8 @@ Translate ANSI control sequences into text properties.
 
 * XTERM 256 colors
 
+* Truecolor (24-bit)
+
 * AIXTERM bright foreground color
 
 * AIXTERM bright background color (since 1.8)

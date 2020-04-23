@@ -1,0 +1,2 @@
+
+(owcmd . [(20200413 1009) ((emacs (26 3))) "Run a single command in the other window" single ((:commit . "f83b166f9c17a9c97f0d3c745ae2cf88dfdf9715") (:keywords "convenience") (:authors ("Jacob First" . "jacob.first@member.fsf.org")) (:maintainer "Jacob First" . "jacob.first@member.fsf.org") (:url . "https://github.com/fishyfriend/owcmd"))])

@@ -15,7 +15,13 @@ are disabled by default:
     modus-operandi-theme-slanted-constructs
     modus-operandi-theme-bold-constructs
     modus-operandi-theme-proportional-fonts
+    modus-operandi-theme-rainbow-headings
+    modus-operandi-theme-section-headings
     modus-operandi-theme-scale-headings
+    modus-operandi-theme-visible-fringes
+    modus-operandi-theme-distinct-org-blocks
+    modus-operandi-theme-3d-modeline
+    modus-operandi-theme-subtle-diffs
 
 The default scale is as follows (it can be customised as well):
 
@@ -29,19 +35,27 @@ groups (there are implicitly supported packages as well, which
 inherit from font-lock or some basic group).  You are encouraged to
 notify me of any missing package or change you would like to see.
 
+    ace-window
+    ag
     alert
     all-the-icons
     annotate
     anzu
+    apropos
     apt-sources-list
     artbollocks-mode
+    auctex and TeX
     auto-dim-other-buffers
     avy
-    ace-window
     breakpoint (provided by built-in gdb-mi.el)
+    bm
+    buffer-expose
     calendar and diary
     calfw
+    centaur-tabs
     change-log and log-view (`vc-print-log' and `vc-print-root-log')
+    cider
+    color-rg
     column-enforce-mode
     company-mode
     company-posframe
@@ -52,13 +66,14 @@ notify me of any missing package or change you would like to see.
     counsel-notmuch
     counsel-org-capture-string
     cov
+    csv-mode
+    ctrlf
     custom (M-x customize)
     dap-mode
     dashboard (emacs-dashboard)
     deadgrep
     define-word
     deft
-    disk-usage
     diff-hl
     diff-mode
     dim-autoload
@@ -69,13 +84,19 @@ notify me of any missing package or change you would like to see.
     dired-narrow
     dired-subtree
     diredfl
+    disk-usage
     doom-modeline
+    dynamic-ruler
     easy-jekyll
     easy-kill
+    ebdb
     ediff
+    eglot
     eldoc-box
     elfeed
+    elfeed-score
     emms
+    enhanced-ruby-mode
     epa
     equake
     erc
@@ -87,90 +108,161 @@ notify me of any missing package or change you would like to see.
     eww
     eyebrowse
     fancy-dabbrev
-    focus
-    font-lock (generic syntax highlighting)
     flycheck
     flycheck-indicator
     flycheck-posframe
     flymake
     flyspell
+    flyspell-correct
+    flx
+    freeze-it
+    frog-menu
+    focus
+    fold-this
+    font-lock (generic syntax highlighting)
+    forge
     fountain (fountain-mode)
     geiser
     git
     git-gutter (and variants)
     git-lens
     git-timemachine
+    git-walktree
     gnus
     helm
-    hydra
+    helm-ls-git
+    helm-switch-shell
+    helm-xref
+    helpful
     highlight-blocks
-    hl-line-mode
+    highlight-defined
+    highlight-escape-sequences (`hes-mode')
+    highlight-numbers
+    highlight-symbol
+    highlight-thing
     hl-fill-column
+    hl-line-mode
+    hl-todo
+    hydra
+    ibuffer
+    icomplete
     ido-mode
     iedit
+    iflipb
+    imenu-list
     info
     info-colors
+    interaction-log
+    ioccur
     isearch, occur, etc.
     ivy
     ivy-posframe
     jira (org-jira)
     js2-mode
+    julia
     jupyter
+    kaocha-runner
     keycast
     line numbers (`display-line-numbers-mode' and global variant)
     lsp-mode
     lsp-ui
     magit
+    magit-imerge
     markdown-mode
+    markup-faces (`adoc-mode')
     mentor
     messages
     modeline
     mood-line
     mu4e
     mu4e-conversation
+    multiple-cursors
     neotree
+    no-emoji
+    num3-mode
+    orderless
     org
     org-journal
     org-noter
     org-pomodoro
     org-recur
+    org-roam
+    org-superstar
+    org-treescope
     origami
     outline-mode
+    outline-minor-faces
     package (M-x list-packages)
+    page-break-lines
+    paradox
     paren-face
+    parrot
     pass
     persp-mode
     perspective
+    phi-grep
+    phi-search
+    pomidor
     powerline
     powerline-evil
     proced
     prodigy
     rainbow-blocks
+    rainbow-identifiers
     rainbow-delimiters
+    rcirc
     regexp-builder (also known as `re-builder')
+    rg
+    ripgrep
+    rmail
     ruler-mode
+    sallet
+    selectrum
+    sesman
     shell-script-mode
     show-paren-mode
+    side-notes
+    skewer-mode
     smart-mode-line
     smartparens
     smerge
     speedbar
+    spell-fu
+    stripes
     suggest
+    switch-window
     swiper
+    swoop
     sx
+    symbol-overlay
+    tab-bar-mode
+    tab-line-mode
+    syslog-mode
+    trashed
     telephone-line
     term
+    tomatinho
     transient (pop-up windows like Magit's)
     treemacs
     undo-tree
     vc (built-in mode line status for version control)
+    vc-annotate (C-x v g)
+    vimish-fold
+    visible-mark
     visual-regexp
+    volatile-highlights
+    vterm
+    wcheck-mode
+    web-mode
     wgrep
     which-function-mode
     which-key
     whitespace-mode
     window-divider-mode
+    winum
     writegood-mode
     xah-elisp-mode
+    xref
     xterm-color (and ansi-colors)
+    yaml-mode
     ztree

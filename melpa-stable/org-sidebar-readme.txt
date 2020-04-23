@@ -18,6 +18,11 @@ Call these commands to display sidebars:
 - `org-sidebar-tree:' Display tree-view sidebar for current Org
                       buffer.
 
+Toggling versions of those commands are also available:
+
+- `org-sidebar-toggle'
+- `org-sidebar-tree-toggle'
+
 Customization options are in the `org-sidebar' group.
 
 The functions `org-sidebar-tree-view-buffer' and

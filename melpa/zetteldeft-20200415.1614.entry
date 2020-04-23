@@ -1,0 +1,2 @@
+
+(zetteldeft . [(20200415 1614) ((emacs (25 1)) (deft (0 8))) "Turn deft into a zettelkasten system" tar ((:commit . "cba7554afe740f64adcdc615b5f4ab0e1e47c6a1") (:keywords "deft" "zettelkasten" "zetteldeft" "wp" "files") (:authors ("EFLS <Elias Storms>")) (:maintainer "EFLS <Elias Storms>") (:url . "https://efls.github.io/zetteldeft/"))])

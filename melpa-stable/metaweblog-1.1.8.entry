@@ -1,0 +1,2 @@
+
+(metaweblog . [(1 1 8) ((emacs (26 3))) "An XML-RPC MetaWeblog and WordPress API client." single ((:commit . "0177fc4e7edd705db59b82c83a24db51dc405890") (:keywords "comm") (:authors ("Puneeth Chaganti" . "punchagan+org2blog@gmail.com")) (:maintainer "Grant Rettke" . "grant@wisdomandwonder.com") (:url . "https://github.com/org2blog/org2blog"))])

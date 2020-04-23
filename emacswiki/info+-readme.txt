@@ -39,10 +39,10 @@
    `Info-describe-bookmark' (Emacs 24.2+),
    `Info-follow-nearest-node-new-window', `Info-goto-node-web',
    `Info-history-clear', `Info-make-node-unvisited', `info-manual',
-   `Info-merge-subnodes',
+   `info-manual+node-buffer-name-mode', `Info-merge-subnodes',
    `Info-mouse-follow-nearest-node-new-window',
    `Info-outline-demote', `Info-outline-promote',
-   `Info-persist-history-mode' (Emacs 24.4+),
+   `Info-persist-history-mode' (Emacs 24.4+), `info-rename-buffer',
    `Info-save-current-node', `Info-set-breadcrumbs-depth',
    `Info-set-face-for-bookmarked-xref' (Emacs 24.2+),
    `Info-toggle-breadcrumbs-in-header',
@@ -69,7 +69,7 @@
  Options (user variables) defined here:
 
    `Info-bookmarked-node-xref-faces' (Emacs 24.2+),
-   `Info-breadcrumbs-in-header-flag',
+   `Info-breadcrumbs-in-header-flag', `info-buffer-name-function',
    `Info-display-node-header-fn', `Info-emphasis-regexp',
    `Info-fit-frame-flag', `Info-fontify-angle-bracketed-flag',
    `Info-fontify-bookmarked-xrefs-flag' (Emacs 24.2+),
@@ -89,6 +89,7 @@
    `Info--pop-to-buffer-same-window', `Info-bookmark-for-node',
    `Info-bookmark-name-at-point', `Info-bookmark-named-at-point',
    `Info-bookmark-name-for-node',
+   `info-buffer-name-function-default',
    `Info-display-node-default-header', `info-fontify-quotations',
    `info-fontify-reference-items',
    `Info-insert-breadcrumbs-in-mode-line', `Info-isearch-search-p',
@@ -186,7 +187,7 @@
  -------------
 
  Library `info+.el' extends the standard Emacs library `info.el' in
- several ways.  It provides:
+ several ways.  It provides these features:
 
  * Association of additional information (metadata) with Info
    nodes.  You do this by bookmarking the nodes.  Library Bookmark+
@@ -253,23 +254,25 @@
    only once, not multiple times.  (This is controlled by option
    `Info-toc-outline-no-redundancy-flag'.)
 
-   You can have any number of such TOCs, for the same manual or for
-   different manuals.
+   - You can have any number of such TOCs, for the same manual or
+     for different manuals.
 
-   Outline minor mode lets you hide and show, and promote and
-   demote, various parts of the TOC tree for a manual.  And since
-   the TOC is editable you can make other changes to it: sort parts
-   of it, delete parts of it, duplicate parts of it, move parts
-   aroundin an ad hoc way, and so on.  Info+ makes the outlining
-   commands behave, so that hidden Info text (e.g. markup text such
-   as `*note'...`::' surrounding links) is kept hidden.
+   - Outline minor mode lets you hide and show, and promote and
+     demote, various parts of the TOC tree for a manual.  And since
+     the TOC is editable you can make other changes to it: sort
+     parts of it, delete parts of it, duplicate parts of it, move
+     parts aroundin an ad hoc way, and so on.  Info+ makes the
+     outlining commands behave, so that hidden Info text
+     (e.g. markup text such as `*note'...`::' surrounding links) is
+     kept hidden.
 
-   Especially when combined with `Info-persist-history-mode',
-   command `Info-change-visited-status' (`C-x DEL', see below), and
-   the Info+ bookmarking enhancements (e.g., special link
-   highlighting and persistently tracking the number of visits per
-   node), `Info-toc-outline' gives you a way to organize access and
-   visibility of a manual's nodes, to reflect how you use it.
+   - Especially when combined with `Info-persist-history-mode',
+     command `Info-change-visited-status' (`C-x DEL', see below),
+     and the Info+ bookmarking enhancements (e.g., special link
+     highlighting and persistently tracking the number of visits
+     per node), `Info-toc-outline' gives you a way to organize
+     access and visibility of a manual's nodes, to reflect how you
+     use it.
 
  * Additional, finer-grained Info highlighting.  This can make a
    big difference in readability.
@@ -299,19 +302,19 @@
      macros, special forms, syntax classes, user options, and other
      variables.
 
-   Be aware that such highlighting is not 100% foolproof.
-   Especially for a manual such as Emacs or Elisp, where arbitrary
-   keys and characters can be present anywhere, the highlighting
-   can be thrown off.
+   - Be aware that such highlighting is not 100% foolproof.
+     Especially for a manual such as Emacs or Elisp, where
+     arbitrary keys and characters can be present anywhere, the
+     highlighting can be thrown off.
 
-   You can toggle each of the `Info-fontify-*-flag' options from
-   the `Info' menu or using an `Info-toggle-fontify-*' command.
-   For example, command `Info-toggle-fontify-emphasis' toggles
-   option `Info-fontify-emphasis-flag'.
+   - You can toggle each of the `Info-fontify-*-flag' options from
+     the `Info' menu or using an `Info-toggle-fontify-*' command.
+     For example, command `Info-toggle-fontify-emphasis' toggles
+     option `Info-fontify-emphasis-flag'.
 
- * You can show breadcrumbs in the mode line or the header line, or
-   both. See where you are in the Info hierarchy, and access higher
-   nodes directly.
+ * Optionally showing breadcrumbs in the mode line or the header
+   line, or both. See where you are in the Info hierarchy, and
+   access higher nodes directly.
 
    - In the mode line.  Turned on by default.
 
@@ -329,7 +332,13 @@
      line, this can occasionally throw off the destination accuracy
      of cross references and searches slightly.
 
- * Some of the commands defined here:
+ * Optional automatic renaming of Info buffers to include the
+   manual (file) and node names, using minor mode
+   `info-manual+node-buffer-name-mode'.  You can use option
+   `info-buffer-name-function' to customize the format of the
+   buffer names.
+
+ * Additional commands, including:
 
    - `Info-virtual-book' (bound to `v') – Open a virtual Info
      manual of saved nodes from any number of manuals.  The nodes

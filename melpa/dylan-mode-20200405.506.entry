@@ -1,0 +1,2 @@
+
+(dylan-mode . [(20200405 506) nil "Major mode for the Dylan programming language. http://opendylan.org" tar ((:commit . "2ddf2b5ebaf0d03ea9c586e6df5d15516d725e70") (:authors ("Robert Stockton" . "rgs@cs.cmu.edu")) (:maintainer "Chris Page" . "cpage@opendylan.org"))])

@@ -18,3 +18,13 @@ Note that :
 Original idea by Stefan Kamphausen, see https://www.skamphausen.de/cgi-bin/ska/mtorus
 
 See https://github.com/chimay/torus/blob/master/README.org for more details
+
+Important note for version 1 users
+
+The version 2 of Torus is built using the Duo library of inplace list
+operations. It means a cleaner code, easier to maintain and extend,
+but also a drastic change in the data structure.
+
+In particular, the format of torus files has changed, so it is
+recommended to backup your version 1 torus files, just in case
+something would go wrong with the conversion.

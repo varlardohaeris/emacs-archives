@@ -1,0 +1,2 @@
+
+(company-org-roam . [(0 1) ((emacs (26 1)) (company (0 9 0)) (org-roam (1 0 0))) "Company backend for Org-roam" single ((:commit . "a4c3f60883de783b190d4eb8bcc85f5912d9393a") (:keywords "org-mode" "roam" "convenience") (:authors ("Jethro Kuan" . "jethrokuan95@gmail.com")) (:maintainer "Jethro Kuan" . "jethrokuan95@gmail.com") (:url . "https://github.com/jethrokuan/company-org-roam"))])

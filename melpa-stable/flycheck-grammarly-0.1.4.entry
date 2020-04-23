@@ -1,0 +1,2 @@
+
+(flycheck-grammarly . [(0 1 4) ((emacs (25 1)) (flycheck (0 14)) (grammarly (0 0 1)) (cl-lib (0 6))) "Grammarly support for Flycheck" single ((:commit . "1bcb11c3c7878c1b0d73318399e572e9a15587b1") (:authors ("Shen, Jen-Chieh" . "jcs090218@gmail.com")) (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com") (:url . "https://github.com/jcs090218/flycheck-grammarly"))])

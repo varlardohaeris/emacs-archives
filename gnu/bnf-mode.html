@@ -23,7 +23,7 @@
 
             <div class="container">
 <h2 class="package">bnf-mode</h2><dl><dt>Description</dt><dd>Major mode for editing BNF grammars.</dd>
-<dt>Latest</dt> <dd><a href="bnf-mode-0.4.3.tar">bnf-mode-0.4.3.tar</a>, 2020-Jan-20, 70.0&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="bnf-mode-0.4.4.tar">bnf-mode-0.4.4.tar</a>, 2020-Mar-03, 80.0&nbsp;KiB</dd>
 <dt>Maintainer</dt> <dd>Serghei Iakovlev &lt;egrep@protonmail.ch></dd>
 <dt>Home page</dt> <dd><a href="https://github.com/sergeyklay/bnf-mode">https://github.com/sergeyklay/bnf-mode</a></dd>
 <dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/bnf-mode">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/bnf-mode">Gitweb</a></dd>
@@ -45,9 +45,10 @@ A GNU Emacs major mode for editing BNF grammars.
 Richard Feynman
 #+end_quote
 
-Currently provides basic syntax and font-locking for BNF files. BNF notation is
+Currently provides basic syntax and font-locking for BNF files.  BNF notation is
 supported exactly form as it was first announced in the ALGOL 60 report.
-EBNF and ABNF are not supported but  in my plans for the near future.
+EBNF and ABNF are not supported but their implementation is planned in the near
+future.
 
 When developing this mode, the following documents were taken into account:
 
@@ -124,25 +125,32 @@ https://github.com/sergeyklay/bnf-mode/blob/master/NEWS .
 ** License
 
 BNF Mode is open source software licensed under the [[https://github.com/sergeyklay/bnf-mode/blob/master/LICENSE][GNU General Public Licence version 3]].
-Copyright © 2019-2020, Free Software Foundation, Inc.
+Copyright © 2019, 2020, Free Software Foundation, Inc.
 
 </pre>
 <h2>Old versions</h2><table>
+<tr><td><a href="bnf-mode-0.4.3.tar">bnf-mode-0.4.3.tar</a></td><td>2020-Jan-20</td><td>70.0&nbsp;KiB</td>
 <tr><td><a href="bnf-mode-0.4.2.tar">bnf-mode-0.4.2.tar</a></td><td>2019-May-14</td><td>90.0&nbsp;KiB</td>
 <tr><td><a href="bnf-mode-0.4.1.tar">bnf-mode-0.4.1.tar</a></td><td>2019-May-10</td><td>90.0&nbsp;KiB</td>
 </table>
 <h2>News</h2><pre>
 bnf-mode NEWS -- history of user-visible changes.
 
-Copyright (C) 2019-2020 Free Software Foundation, Inc.
+Copyright (C) 2019, 2020 Free Software Foundation, Inc.
 See the end of the file for license conditions.
 
 This file is about changes in BNF Mode.
 
+* BNF Mode 0.4.4
+** Rework documentation and provide Info-file.
+Previous releases of BNF Mode were bundled with incorrect "dir" file
+which contained an invalid link to documentation.  This was
+resolved.  All documentation now lives in "info bnf-mode".
+
 * BNF Mode 0.4.3
 ** Fixed dependency list in the Cask file.
 Dependency list was fixed by specifying `cl-lib' version as well as
-removing `rx` (`rx' is part of GNU Emacs actually).  This fixed the
+removing `rx' (`rx' is part of GNU Emacs actually).  This fixed the
 issue reported in &lt;https://github.com/sergeyklay/bnf-mode/issues/5>.
 The issue related to installation from the TAR file.
 

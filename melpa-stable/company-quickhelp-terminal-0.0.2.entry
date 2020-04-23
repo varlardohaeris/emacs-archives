@@ -1,0 +1,2 @@
+
+(company-quickhelp-terminal . [(0 0 2) ((emacs (24 4)) (company-quickhelp (2 2 0)) (popup (0 5 3))) "Terminal support for `company-quickhelp'" single ((:commit . "344e30202fb38e1947b8b17f403bb7b2208936fe") (:authors ("Shen, Jen-Chieh" . "jcs090218@gmail.com")) (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com") (:url . "https://github.com/jcs090218/company-quickhelp-terminal"))])

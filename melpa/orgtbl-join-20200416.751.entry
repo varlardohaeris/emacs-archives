@@ -1,0 +1,2 @@
+
+(orgtbl-join . [(20200416 751) ((cl-lib (0 5))) "join columns from another table" tar ((:commit . "f0b774f571db2492c68c143d86eb4dc1c13db927") (:keywords "org" "table" "join" "filtering") (:authors ("Thierry Banel tbanelwebmin at free dot fr")) (:maintainer "Thierry Banel tbanelwebmin at free dot fr"))])

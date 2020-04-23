@@ -1,0 +1,2 @@
+
+(whole-line-or-region . [(1 6) ((emacs (24 1))) "Operate on current line if region undefined" single ((:commit . "0d11174ba5e1145167000aa8f65c273a3d0db6b3") (:keywords "convenience" "wp") (:authors ("Joe Casadonte" . "emacs@northbound-train.com")) (:maintainer "Steve Purcell" . "steve@sanityinc.com") (:url . "https://github.com/purcell/whole-line-or-region"))])

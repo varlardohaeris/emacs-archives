@@ -1,0 +1,2 @@
+
+(helm-org-multi-wiki . [(0 4 0) ((emacs (25 1)) (org-multi-wiki (0 3)) (org-ql (0 4)) (dash (2 12))) "Helm interface to org-multi-wiki" single ((:commit . "80791ea872939df0578dc3a2992a2f7fd5618971") (:keywords "org" "outlines") (:authors ("Akira Komamura" . "akira.komamura@gmail.com")) (:maintainer "Akira Komamura" . "akira.komamura@gmail.com") (:url . "https://github.com/akirak/org-multi-wiki"))])

@@ -1,7 +1,7 @@
 This package mainly defines `flymake-quickdef-backend', a macro
 which helps remove some of the boilerplate code from defining new
-Flymake backend functions. Consult the function's documentation for
-full information on use. The macro defines a function which is
+Flymake backend functions.  Consult the function's documentation
+for full information on use.  The macro defines a function which is
 suitable for use with `flymake-diagnostic-functions' and handles
 running the external process, creating and removing any necessary
 files and buffers, and regex matches against diagnostic output.

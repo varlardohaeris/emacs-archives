@@ -1,0 +1,2 @@
+
+(ffmpeg-player . [(0 2 0) ((emacs (24 4)) (s (1 12 0)) (f (0 20 0))) "Play video using ffmpeg" single ((:commit . "214c08b362daa138d2e17883a6b4d096f22f5ebb") (:authors ("Shen, Jen-Chieh" . "jcs090218@gmail.com")) (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com") (:url . "https://github.com/jcs090218/ffmpeg-player"))])

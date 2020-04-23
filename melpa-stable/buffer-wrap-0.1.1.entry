@@ -1,0 +1,2 @@
+
+(buffer-wrap . [(0 1 1) ((emacs (24 4))) "Wrap the beginning and the end of buffer" single ((:commit . "813a3dab3007a34fa27cf0a1ae687dc0eae98240") (:authors ("Shen, Jen-Chieh" . "jcs090218@gmail.com")) (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com") (:url . "https://github.com/jcs090218/buffer-wrap"))])

@@ -2,7 +2,8 @@ Emacs IPython Notebook (EIN) lets you run Jupyter (formerly IPython)
 notebooks within Emacs.  It channels all the power of Emacs without the
 idiosyncrasies of in-browser editing.
 
-EIN is not tested on Doom or Spacemacs.  There are known issues with both.
+No require statements, e.g. ``require ein``, are necessary, contrary to the
+`prevailing documentation`_, which should be disregarded.
 
 Org_ users please find ob-ein_, a jupyter Babel_ backend.
 

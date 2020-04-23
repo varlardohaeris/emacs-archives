@@ -143,32 +143,18 @@ pyim 支持双拼输入模式，用户可以通过变量 `pyim-default-scheme' �
 
 注意：
 1. pyim 支持微软双拼（microsoft-shuangpin）和小鹤双拼（xiaohe-shuangpin）。
-2. 用户可以使用变量 `pyim-schemes' 添加自定义双拼方案。
+2. 用户可以使用函数 `pyim-scheme-add' 添加自定义双拼方案。
 3. 用户可能需要重新设置 `pyim-translate-trigger-char'。
 
 *** 通过 pyim 来支持 rime 所有输入法
 
 1. 安裝配置 liberime 和 pyim, 方式见：[[https://github.com/merrickluo/liberime][liberime]].
-2. 将 liberime 的 page_size 设置为 100, 这样 pyim 一次可以获取 100
-   个候选词，然后自己处理分页。用户可以按 TAB 键切换到辅助输入
-   法来输入 100 以后的词条。
-
-   手动设置方式是： 在 `liberime-user-data-dir'/default.custom.yaml
-   文件中添加类似下面的内容：
-
-   #+BEGIN_EXAMPLE
-   patch:
-        "menu/page_size": 100
-        "speller/auto_select": false
-        "speller/auto_select_unique_candidate": false
-   #+END_EXAMPLE
-
-3. 使用 rime 全拼输入法的用户，也可以使用 rime-quanpin scheme,
+2. 使用 rime 全拼输入法的用户，也可以使用 rime-quanpin scheme,
    这个 scheme 是专门针对 rime 全拼输入法定制的，支持全拼v快捷键。
    #+BEGIN_EXAMPLE
    (setq pyim-default-scheme 'rime-quanpin)
    #+END_EXAMPLE
-4. 如果通过 rime 使用微软双拼，可以用以下设置：
+3. 如果通过 rime 使用微软双拼，可以用以下设置：
    #+BEGIN_EXAMPLE
    (liberime-select-schema "double_pinyin_mspy")
    (setq pyim-default-scheme 'rime-microsoft-shuangpin)
@@ -330,7 +316,10 @@ pyim 的 tooltip 选词框默认使用 *双行显示* 的样式，在一些特
               '(probe-function1 probe-function2 probe-function3))
 #+END_EXAMPLE
 
-注：上述函数列表中，任意一个函数的返回值为 t 时，pyim 切换到英文输入模式。
+注意事项：
+1. 上述函数列表中，任意一个函数的返回值为 t 时，pyim 切换到英文输入模式。
+2. [[https://github.com/DogLooksGood/emacs-rime][Emacs-rime]] 和 [[https://github.com/laishulu/emacs-smart-input-source][smart-input-source]]
+   也有类似探针的功能，其对应函数可以直接或者简单包装后作为 pyim 探针使用，有兴趣的同学可以了解一下。
 
 **** 根据环境自动切换到半角标点输入模式
 

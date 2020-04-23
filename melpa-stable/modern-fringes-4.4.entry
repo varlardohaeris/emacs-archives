@@ -1,0 +1,2 @@
+
+(modern-fringes . [(4 4) nil "Replaces default fringe bitmaps with better looking ones" single ((:commit . "6884dd16e4d76dedd792f0c5fed48ca8a2f11222") (:keywords "themes" "fringes" "convenience") (:authors ("Quen Jankosky" . "quen.jankosky@gmail.com")) (:maintainer "Quen Jankosky" . "quen.jankosky@gmail.com") (:url . "http://github.com/specialbomb/emacs-modern-fringes"))])

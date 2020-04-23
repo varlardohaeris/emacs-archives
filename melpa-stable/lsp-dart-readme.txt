@@ -1,2 +1,1 @@
-To enable, call (lsp-dart-enable) in your dart-mode hook.
-See more at README.md
+Dart analysis server client for LSP mode

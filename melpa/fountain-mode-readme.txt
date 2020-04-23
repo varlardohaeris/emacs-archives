@@ -3,8 +3,7 @@
 Fountain Mode is a scriptwriting program for GNU Emacs using the
 Fountain plain text markup format.
 
-For more information on the Fountain format, visit
-<https://fountain.io>.
+For more information on the Fountain format, visit <https://fountain.io>.
 
 ## Features ##
 
@@ -29,7 +28,7 @@ functions and key-bindings, type C-h m.
 
 ## Requirements ##
 
-- Emacs 25.3
+- Emacs 24.5
 
 ## Exporting ##
 
@@ -70,5 +69,4 @@ See: <https://github.com/rnkn/fountain-mode/releases>
 
 ## Bugs and Feature Requests ##
 
-To report bugs either use <https://github.com/rnkn/fountain-mode/issues>
-or send an email to <code@paulwrankin.com>.
+Report bugs and feature requests at: <https://github.com/rnkn/fountain-mode/issues>

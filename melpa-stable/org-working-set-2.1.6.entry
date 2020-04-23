@@ -1,0 +1,2 @@
+
+(org-working-set . [(2 1 6) ((emacs (25 1))) "Manage a working-set of org-nodes" tar ((:commit . "d6fff111930befa52a5cce128c986b0162ddf8c4") (:authors ("Marc Ihm" . "1@2484.de")) (:maintainer "Marc Ihm" . "1@2484.de") (:url . "https://github.com/marcIhm/org-working-set"))])

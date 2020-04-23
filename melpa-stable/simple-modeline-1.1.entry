@@ -1,0 +1,2 @@
+
+(simple-modeline . [(1 1) ((emacs (26 1))) "A simple mode-line configuration for Emacs" tar ((:commit . "e7e39660dadcef88e7e877ad1f24625873e90e51") (:keywords "mode-line" "faces") (:authors ("Eder Elorriaga" . "gexplorer8@gmail.com")) (:maintainer "Eder Elorriaga" . "gexplorer8@gmail.com") (:url . "https://github.com/gexplorer/simple-modeline"))])

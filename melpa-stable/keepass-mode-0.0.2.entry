@@ -1,0 +1,2 @@
+
+(keepass-mode . [(0 0 2) ((emacs (27))) "Mode to open Keepass DB" tar ((:commit . "ad073eaab4f96ca033df023736d195dc3b611897") (:keywords "data" "files" "tools") (:authors ("Ignasi Fosch" . "natx@y10k.ws")) (:maintainer "Ignasi Fosch" . "natx@y10k.ws") (:url . "https://github.com/ifosch/keepass-mode"))])

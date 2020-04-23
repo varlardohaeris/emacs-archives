@@ -1,0 +1,2 @@
+
+(ivy-bibtex . [(20200415 1311) ((bibtex-completion (1 0 0)) (swiper (0 7 0)) (cl-lib (0 5))) "A bibliography manager based on Ivy" tar ((:commit . "1e5b50652d1f5189cfeb6b5ce3c4437e0239d4f5") (:authors ("Justin Burkett" . "justin@burkett.cc")) (:maintainer "Titus von der Malsburg" . "malsburg@posteo.de") (:url . "https://github.com/tmalsburg/helm-bibtex"))])

@@ -1,0 +1,2 @@
+
+(spell-fu . [(20200414 2251) ((emacs (26 2))) "Fast & light spelling highlighter" single ((:commit . "db0eef27ab0dcbcc2378af7c1f959850c9a19910") (:keywords "convenience") (:authors ("Campbell Barton" . "ideasman42@gmail.com")) (:maintainer "Campbell Barton" . "ideasman42@gmail.com") (:url . "https://gitlab.com/ideasman42/emacs-spell-fu-mode"))])

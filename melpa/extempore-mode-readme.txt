@@ -13,11 +13,21 @@
 
    (package-install-file "/path/to/extempore-mode.el")
 
+
+ Configuration
+
+   (optional) if you don't want to have to answer the "directory" prompt
+   every time you call `extempore-run', you can set the `extempore-path'
+   variable (either in your init file or through the customisation interface)
+
+   (setq extempore-path "/path/to/extempore/")
+
+
  Usage
 
    The most important commands are
 
-     M-x `extempore-connect-or-disconnect' (C-c C-j)
+     M-x `extempore-connect' (C-c C-j)
 
      Connect the current extempore-mode buffer to a running
      Extempore process - this is necessary to begin sending code
