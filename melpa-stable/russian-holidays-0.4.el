@@ -3,6 +3,7 @@
 ;; Author: Alexander I.Grafov <siberian@laika.name>
 ;; URL: https://github.com/grafov/russian-holidays
 ;; Package-Version: 0.4
+;; Package-Commit: b285a30f29d85c48e3ea4eb93972d34a090c167b
 ;; Version: 0.4
 
 ;; This file is not part of GNU Emacs

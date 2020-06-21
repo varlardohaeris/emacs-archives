@@ -6,6 +6,7 @@
 ;; Maintainer: Yuhei Maeda <yuhei.maeda_at_gmail.com>
 ;; Version: 1.22
 ;; Package-Version: 1.22
+;; Package-Commit: 2d964309a5415cf47f5154271e6fe7b6a7fffec7
 ;; Package-Requires: ((helm-core "1.7.8") (migemo "1.9") (cl-lib "0.5"))
 ;; Created: 2009-04-13
 ;; Keywords: matching, convenience, tools, i18n

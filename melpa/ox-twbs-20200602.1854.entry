@@ -1,0 +1,2 @@
+
+(ox-twbs . [(20200602 1854) nil "Bootstrap compatible HTML Back-End for Org" single ((:commit . "ba471dd0f7919e92b7b40c3a18d40b6b52f003e2") (:keywords "org" "html" "publish" "twitter" "bootstrap") (:authors ("Carsten Dominik <carsten at orgmode dot org>") ("Jambunathan K <kjambunathan at gmail dot com>") ("Brandon van Beekum <marsmining at gmail dot com>")) (:maintainer "Carsten Dominik <carsten at orgmode dot org>") (:url . "https://github.com/marsmining/ox-twbs"))])

@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-smeargle
 ;; Package-Version: 0.3
+;; Package-Commit: 0665b1ff5109731898bc4a0ca6d939933b804777
 ;; Version: 0.03
 ;; Package-Requires: ((emacs "24.3"))
 

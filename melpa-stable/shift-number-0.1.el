@@ -6,6 +6,7 @@
 ;; Created: 12 Apr 2016
 ;; Version: 0.1
 ;; Package-Version: 0.1
+;; Package-Commit: ba3c1f2e6b01bf14aa1433c2a49098af1c025f7c
 ;; URL: https://github.com/alezost/shift-number.el
 ;; Keywords: convenience
 

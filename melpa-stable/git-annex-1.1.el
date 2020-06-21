@@ -6,6 +6,7 @@
 ;; Created: 20 Oct 2012
 ;; Version: 1.1
 ;; Package-Version: 1.1
+;; Package-Commit: 7d41775a1709b5754a7779e9f64f15d336ea5c8c
 ;; Keywords: files data git annex
 ;; X-URL: https://github.com/jwiegley/git-annex-el
 

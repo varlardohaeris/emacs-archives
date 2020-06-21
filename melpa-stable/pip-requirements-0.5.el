@@ -6,6 +6,7 @@
 ;; Created: 11 September 2014
 ;; Version: 0.5
 ;; Package-Version: 0.5
+;; Package-Commit: 93e0595f037e3a95c1c1cd6f00f7e052a9a25912
 ;; Package-Requires: ((dash "2.8.0"))
 
 ;;; License:

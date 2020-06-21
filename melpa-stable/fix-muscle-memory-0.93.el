@@ -6,6 +6,7 @@
 ;; Created: 5 Oct 2012
 ;; Keywords: spelling typing
 ;; Package-Version: 0.93
+;; Package-Commit: df687aea23c6eac4b751f993893c2fd56e5a8a3b
 ;; Version: 0.93
 
 ;; This file is not part of GNU Emacs.

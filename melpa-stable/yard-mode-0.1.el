@@ -3,6 +3,7 @@
 ;; Author: Kyle Hargraves
 ;; URL: https://github.com/pd/yard-mode.el
 ;; Package-Version: 0.1
+;; Package-Commit: 78792f6a6fbff4f1bc955f494fdb11378e7f8095
 ;; Version: 0.1
 
 ;;; Commentary:

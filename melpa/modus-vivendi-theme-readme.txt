@@ -22,6 +22,8 @@ are disabled by default:
     modus-vivendi-theme-distinct-org-blocks
     modus-vivendi-theme-3d-modeline
     modus-vivendi-theme-subtle-diffs
+    modus-vivendi-theme-intense-standard-completions
+    modus-vivendi-theme-override-colors-alist
 
 The default scale is as follows (it can be customised as well):
 
@@ -29,6 +31,7 @@ The default scale is as follows (it can be customised as well):
     modus-vivendi-theme-scale-2 1.1
     modus-vivendi-theme-scale-3 1.15
     modus-vivendi-theme-scale-4 1.2
+    modus-vivendi-theme-scale-5 1.3
 
 What follows is the list of explicitly supported packages or face
 groups (there are implicitly supported packages as well, which
@@ -55,6 +58,7 @@ notify me of any missing package or change you would like to see.
     centaur-tabs
     change-log and log-view (`vc-print-log' and `vc-print-root-log')
     cider
+    circe
     color-rg
     column-enforce-mode
     company-mode
@@ -72,6 +76,7 @@ notify me of any missing package or change you would like to see.
     dap-mode
     dashboard (emacs-dashboard)
     deadgrep
+    debbugs
     define-word
     deft
     diff-hl
@@ -92,6 +97,7 @@ notify me of any missing package or change you would like to see.
     ebdb
     ediff
     eglot
+    el-search
     eldoc-box
     elfeed
     elfeed-score
@@ -100,6 +106,7 @@ notify me of any missing package or change you would like to see.
     epa
     equake
     erc
+    eros
     ert
     eshell
     evil (evil-mode)
@@ -129,6 +136,7 @@ notify me of any missing package or change you would like to see.
     git-timemachine
     git-walktree
     gnus
+    golden-ratio-scroll-screen
     helm
     helm-ls-git
     helm-switch-shell
@@ -137,6 +145,7 @@ notify me of any missing package or change you would like to see.
     highlight-blocks
     highlight-defined
     highlight-escape-sequences (`hes-mode')
+    highlight-indentation
     highlight-numbers
     highlight-symbol
     highlight-thing
@@ -144,12 +153,14 @@ notify me of any missing package or change you would like to see.
     hl-line-mode
     hl-todo
     hydra
+    hyperlist
     ibuffer
     icomplete
     ido-mode
     iedit
     iflipb
     imenu-list
+    indium
     info
     info-colors
     interaction-log
@@ -158,6 +169,7 @@ notify me of any missing package or change you would like to see.
     ivy
     ivy-posframe
     jira (org-jira)
+    journalctl-mode
     js2-mode
     julia
     jupyter
@@ -168,10 +180,13 @@ notify me of any missing package or change you would like to see.
     lsp-ui
     magit
     magit-imerge
+    man
     markdown-mode
     markup-faces (`adoc-mode')
     mentor
     messages
+    minibuffer-line
+    minimap
     modeline
     mood-line
     mu4e
@@ -180,6 +195,7 @@ notify me of any missing package or change you would like to see.
     neotree
     no-emoji
     num3-mode
+    nxml-mode
     orderless
     org
     org-journal
@@ -244,9 +260,11 @@ notify me of any missing package or change you would like to see.
     tomatinho
     transient (pop-up windows like Magit's)
     treemacs
+    tuareg
     undo-tree
     vc (built-in mode line status for version control)
     vc-annotate (C-x v g)
+    vdiff
     vimish-fold
     visible-mark
     visual-regexp
@@ -261,8 +279,10 @@ notify me of any missing package or change you would like to see.
     window-divider-mode
     winum
     writegood-mode
+    woman
     xah-elisp-mode
     xref
     xterm-color (and ansi-colors)
     yaml-mode
+    yasnippet
     ztree

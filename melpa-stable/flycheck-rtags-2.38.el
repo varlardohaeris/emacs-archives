@@ -5,6 +5,7 @@
 ;; Author: Christian Schwarzgruber <c.schwarzgruber.cs@gmail.com>
 ;; URL: https://github.com/Andersbakken/rtags
 ;; Package-Version: 2.38
+;; Package-Commit: 9687ccdb9e539981e7934e768ea5c84464a61139
 ;; Version: 0.2
 ;; Package-Requires: ((emacs "24") (flycheck "0.23") (rtags "2.10"))
 

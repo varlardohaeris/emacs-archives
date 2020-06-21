@@ -1,18 +1,23 @@
  Setup:
   "Ctags" (Universal Ctags is recommended) should exist.
   "GNU Find" is used if it's installed but it's optional.
-  Or else, customize `counsel-etags-update-tags-backend' to generate tags file
+  Or else, customize `counsel-etags-update-tags-backend' to generate tags file.
+  Please note etags bundled with Emacs is not supported any more.
 
 Usage:
 
   `counsel-etags-find-tag-at-point' to navigate.  This command will also
   run `counsel-etags-scan-code' AUTOMATICALLY if tags file is not built yet.
+  It also calls `counsel-etags-fallback-grep-function' if not tag is found.
 
   Run `counsel-etags-list-tag-in-current-file' to list tags in current file.
 
   Or just use native imenu with below setup,
      (setq imenu-create-index-function
            'counsel-etags-imenu-default-create-index-function)
+
+  Use `counsel-etags-imenu-excluded-names' to exclude tags by name.
+  Use `counsel-etags-imenu-excluded-types' to exclude tags by type
 
   `counsel-etags-scan-code' to create tags file
   `counsel-etags-grep' to grep
@@ -21,8 +26,12 @@ Usage:
   `counsel-etags-find-tag' to two steps tag matching use regular expression and filter
   `counsel-etags-list-tag' to list all tags
   `counsel-etags-update-tags-force' to update current tags file by force
+  `counsel-etags-ignore-config-file' specifies paths of ignore configuration files
+  (".gitignore", ".hgignore", etc).  Path is either absolute or relative to the tags file.
+
 
 Tips:
+
 - Add below code into "~/.emacs" to AUTOMATICALLY update tags file:
 
   ;; Don't ask before reloading updated tags files
@@ -76,5 +85,16 @@ Tips:
  - User could append the extra content into tags file in `counsel-etags-after-update-tags-hook'.
    The parameter of hook is full path of the tags file.  `counsel-etags-tags-line' is a tool function
    to help user
+
+ - The ignore files (.gitignore, etc) are automatically detected and append to ctags
+   cli options as "--exclude="@/ignore/file/path".
+   Set `counsel-etags-ignore-config-files' to nil to turn off this feature.
+
+ - If base configuration file  "~/.ctags.exuberant" exists, it's used to
+   generate "~/.ctags" automatically.
+   "~/.ctags.exuberant" is in Exuberant Ctags format, but the "~/.ctags" is
+   in Universal Ctags format if Universal Ctags is used.
+   You can customize `counsel-etags-ctags-options-base' to change the path of
+   base configuration file.
 
 See https://github.com/redguardtoo/counsel-etags/ for more tips.

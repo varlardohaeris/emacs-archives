@@ -6,6 +6,7 @@
 ;; Created:  8 Feb 2000
 ;; Version: 1.6
 ;; Package-Version: 1.6
+;; Package-Commit: 950bdc568e3fd08e6106170953caf98ac582a431
 ;; Keywords: lisp
 ;; X-URL: http://www.gci-net.com/users/j/johnw/emacs.html
 

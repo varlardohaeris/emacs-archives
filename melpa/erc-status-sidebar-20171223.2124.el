@@ -3,6 +3,7 @@
 ;; Author: Andrew Barbarello
 ;; Version: 0.1
 ;; Package-Version: 20171223.2124
+;; Package-Commit: ea4189a1dbfe60117359c36e681ad7c389e2968c
 ;; Package-Requires: ((emacs "24.5") (seq "2.3"))
 ;; URL: https://github.com/drewbarbs/erc-status-sidebar
 

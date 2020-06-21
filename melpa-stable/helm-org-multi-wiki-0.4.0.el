@@ -5,6 +5,7 @@
 ;; Author: Akira Komamura <akira.komamura@gmail.com>
 ;; Version: 0.3.2
 ;; Package-Version: 0.4.0
+;; Package-Commit: 80791ea872939df0578dc3a2992a2f7fd5618971
 ;; Package-Requires: ((emacs "25.1") (org-multi-wiki "0.3") (org-ql "0.4") (dash "2.12"))
 ;; Keywords: org, outlines
 ;; URL: https://github.com/akirak/org-multi-wiki

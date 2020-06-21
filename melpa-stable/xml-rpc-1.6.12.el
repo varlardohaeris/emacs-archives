@@ -10,6 +10,7 @@
 ;; Original Author: Daniel Lundin <daniel@codefactory.se>
 ;; Version: 1.6.12
 ;; Package-Version: 1.6.12
+;; Package-Commit: 0ab093d60140d19e31d217c8abdc7dbdac944486
 ;; Created: May 13 2001
 ;; Keywords: xml rpc network
 ;; URL: http://github.com/hexmode/xml-rpc-el

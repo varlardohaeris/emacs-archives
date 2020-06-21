@@ -5,6 +5,7 @@
 ;; Author: Hiroki YAMAKAWA <s06139@gmail.com>
 ;; URL: https://github.com/HKey/mozc-temp
 ;; Package-Version: 1.0.0
+;; Package-Commit: 7f5dd5fc8ceeca9b1822f7e056a4be67e2e74959
 ;; Version: 1.0.0
 ;; Package-Requires: ((emacs "24") (dash "2.10.0") (mozc "0"))
 ;; Keywords:

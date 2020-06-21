@@ -6,6 +6,7 @@
 ;; Maintainer: Matus Goljer <matus.goljer@gmail.com>
 ;; Keywords: processes
 ;; Package-Version: 0.3
+;; Package-Commit: 28172edce0f727f0f7f17d8ba71d5510d877bb45
 ;; Version: 0.0.3
 ;; Package-requires: ((dash "2.10.0"))
 ;; Created: 12th March 2014

@@ -8,6 +8,7 @@
 ;; Keyword: video ffmpeg buffering images
 ;; Version: 0.2.0
 ;; Package-Version: 0.2.0
+;; Package-Commit: 214c08b362daa138d2e17883a6b4d096f22f5ebb
 ;; Package-Requires: ((emacs "24.4") (s "1.12.0") (f "0.20.0"))
 ;; URL: https://github.com/jcs090218/ffmpeg-player
 

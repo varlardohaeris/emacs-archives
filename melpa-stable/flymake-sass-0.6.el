@@ -3,6 +3,7 @@
 ;;; Author: Steve Purcell <steve@sanityinc.com>
 ;;; URL: https://github.com/purcell/flymake-sass
 ;; Package-Version: 0.6
+;; Package-Commit: 1c7664818db539de7f3dab396c013528a3f5b8b4
 ;;; Version: DEV
 ;;; Package-Requires: ((flymake-easy "0.1"))
 ;;

@@ -4,6 +4,7 @@
 ;; Author: Kenshi Muto <kmuto@kmuto.jp>
 ;; URL: https://github.com/kmuto/review-el
 ;; Package-Version: 20200131.122
+;; Package-Commit: 09e2df58398b392f19642a12c8cb78eae726dbd2
 
 ;;; Commentary:
 

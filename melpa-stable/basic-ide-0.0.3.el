@@ -6,6 +6,7 @@
 ;; Created: 20 Feb 2020
 ;; Version: 0.0.3
 ;; Package-Version: 0.0.3
+;; Package-Commit: 5bfd5f91b9f91e46158e0419c6bb5c350e7684a1
 ;; Keywords: languages, basic
 ;; URL: https://gitlab.com/sasanidas/emacs-c64-basic-ide
 ;; Package-Requires: ((emacs "25") (basic-mode "0.4.2") (company "0.9.12") (flycheck "0.22") (dash "2.12.0") (f "0.17.0"))

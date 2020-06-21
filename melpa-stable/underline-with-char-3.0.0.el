@@ -16,6 +16,7 @@
 
 ;; Version: 3.0.0
 ;; Package-Version: 3.0.0
+;; Package-Commit: c2f4870aff70efe70a8d1b089e56d3a2d6d048b9
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: convenience
 

@@ -8,6 +8,7 @@
 ;; Homepage: https://github.com/delaanthonio/kernel-modes
 ;; Keywords: kconfig, languages, linux, kernel
 ;; Package-Version: 20190818.2030
+;; Package-Commit: 02bb919596cf673828e95872dc329f2424a99864
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.3"))
 

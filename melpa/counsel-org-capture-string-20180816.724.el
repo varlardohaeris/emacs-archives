@@ -5,6 +5,7 @@
 ;; Author: Akira Komamura <akira.komamura@gmail.com>
 ;; Version: 1.0-pre
 ;; Package-Version: 20180816.724
+;; Package-Commit: 0fd5d72397a9268a89dd26de2a6c355f127453ac
 ;; Package-Requires: ((emacs "25.1") (ivy "0.10"))
 ;; Keywords: outlines
 ;; URL: https://github.com/akirak/counsel-org-capture-string

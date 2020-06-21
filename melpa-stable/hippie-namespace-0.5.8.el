@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/rolandwalker/hippie-namespace
 ;; URL: http://raw.github.com/rolandwalker/hippie-namespace/master/hippie-namespace.el
 ;; Package-Version: 0.5.8
+;; Package-Commit: 79a662dfe9e61341e071b879f4f9101ca027ad10
 ;; Version: 0.5.8
 ;; Last-Updated: 25 Oct 2013
 ;; EmacsWiki: HippieNamespace

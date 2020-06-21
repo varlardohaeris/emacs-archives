@@ -6,6 +6,7 @@
 ;; Created: 24 Dec 2015
 ;; Version: 0.1
 ;; Package-Version: 0.1
+;; Package-Commit: 0c19a510580ebdc77e6db536f0f8ed2840b9b33e
 ;; URL: https://github.com/alezost/dim.el
 ;; Keywords: convenience
 ;; Package-Requires: ((emacs "24.4"))

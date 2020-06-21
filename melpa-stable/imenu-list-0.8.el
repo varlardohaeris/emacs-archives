@@ -5,6 +5,7 @@
 ;; Author: Bar Magal (2015)
 ;; Version: 0.8
 ;; Package-Version: 0.8
+;; Package-Commit: 27170d27c9594989587c03c23f753a809f6a0e10
 ;; Homepage: https://github.com/bmag/imenu-list
 ;; Package-Requires: ((cl-lib "0.5"))
 

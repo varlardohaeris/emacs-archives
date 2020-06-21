@@ -5,6 +5,7 @@
 ;; Author: Chen Bin <chenbin.sh@gmail.com>
 ;; URL: http://github.com/redguardtoo/find-by-pinyin-dired
 ;; Package-Version: 0.0.3
+;; Package-Commit: 2c48434637bd63840fca4d2c6cf9ebd5dd44658f
 ;; Package-Requires: ((pinyinlib "0.1.0"))
 ;; Keywords: Hanzi Chinese dired find file pinyin
 ;; Version: 0.0.3

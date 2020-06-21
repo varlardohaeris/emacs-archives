@@ -5,6 +5,7 @@
 ;; Author: Artur Malabarba <bruce.connor.am@gmail.com>
 ;; URL: http://github.com/Bruce-Connor/fancy-narrow
 ;; Package-Version: 0.9.5
+;; Package-Commit: c0f70b4333d4764323b7154e37a378adb1610ab7
 ;; Version: 0.9.4
 ;; Keywords: faces convenience
 ;; Prefix: fancy-narrow

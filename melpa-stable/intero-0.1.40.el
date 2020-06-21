@@ -12,6 +12,7 @@
 ;; Maintainer: Chris Done <chrisdone@fpcomplete.com>
 ;; URL: https://github.com/commercialhaskell/intero
 ;; Package-Version: 0.1.40
+;; Package-Commit: 107640cc3a3ea12db24ae674ff7a820f6073f3d5
 ;; Created: 3rd June 2016
 ;; Version: 0.1.13
 ;; Keywords: haskell, tools

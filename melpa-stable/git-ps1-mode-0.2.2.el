@@ -3,6 +3,7 @@
 ;; Author: 10sr <8slashes+el [at] gmail [dot] com>
 ;; URL: https://github.com/10sr/git-ps1-mode-el
 ;; Package-Version: 0.2.2
+;; Package-Commit: 288e5c4d0ff20a4e1ac9e72b6af632f67f1d7525
 ;; Version: 0.2.2
 ;; Keywords: utility mode-line git
 

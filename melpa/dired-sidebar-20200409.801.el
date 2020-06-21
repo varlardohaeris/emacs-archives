@@ -6,6 +6,7 @@
 ;; Maintainer: James Nguyen <james@jojojames.com>
 ;; URL: https://github.com/jojojames/dired-sidebar
 ;; Package-Version: 20200409.801
+;; Package-Commit: 6e569c851418890c21fd37d03a62f85343aa0900
 ;; Version: 0.0.1
 ;; Package-Requires: ((emacs "25.1") (dired-subtree "0.0.1"))
 ;; Keywords: dired, files, tools

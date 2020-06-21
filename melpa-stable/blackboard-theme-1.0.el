@@ -10,6 +10,7 @@
 ;; Author: Dong Zheng
 ;; Version: 1.0
 ;; Package-Version: 1.0
+;; Package-Commit: d8b984f2541bb86eb4363a2b4c94631e49843d4a
 ;; Package-Requires: ((emacs "24"))
 ;; URL: https://github.com/don9z/blackboard-theme
 

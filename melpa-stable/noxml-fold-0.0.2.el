@@ -5,6 +5,7 @@
 ;; Author: Patrick McAllister <pma@rdorte.org>
 ;; Keywords: xml, folding
 ;; Package-Version: 0.0.2
+;; Package-Commit: 56fbc44b25cee9f8719edb3c7f8b1c4327dc1051
 ;; URL: https://github.com/paddymcall/noxml-fold
 
 ;; This program is free software: you can redistribute it and/or modify

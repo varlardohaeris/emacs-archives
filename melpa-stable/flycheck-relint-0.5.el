@@ -4,6 +4,7 @@
 
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Keywords: lisp
+;; Package-Commit: 296cf8e2f9e85ab0c1c591816b50ecd7c766060c
 ;; Package-Version: 0.5
 ;; Package-X-Original-Version: 0-pre
 ;; URL: https://github.com/purcell/flycheck-relint

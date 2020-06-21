@@ -6,6 +6,7 @@
 ;; Created: 12 Feb 2014
 ;; Version: 1.3
 ;; Package-Version: 1.3
+;; Package-Commit: 06903d731dfde110e10b979dcc7624ef6dbb5ac8
 ;; Package-Requires: ((cl-lib "0.1") (emacs "24"))
 ;; Keywords: c tools
 ;; URL: https://github.com/liblit/demangle-mode

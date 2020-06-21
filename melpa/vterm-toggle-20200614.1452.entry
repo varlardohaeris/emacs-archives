@@ -1,0 +1,2 @@
+
+(vterm-toggle . [(20200614 1452) ((emacs (25 1)) (vterm (0 0 1)) (projectile (1 0 0))) "Toggles between the vterm buffer and other buffers." single ((:commit . "7f762d216fc7311bac4182f650e0207574c29357") (:keywords "vterm" "terminals") (:authors (nil . "jixiuf  jixiuf@qq.com")) (:maintainer nil . "jixiuf  jixiuf@qq.com") (:url . "https://github.com/jixiuf/vterm-toggle"))])

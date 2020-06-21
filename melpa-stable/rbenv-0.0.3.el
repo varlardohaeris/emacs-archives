@@ -4,6 +4,7 @@
 
 ;; URL: https://github.com/senny/rbenv.el
 ;; Package-Version: 0.0.3
+;; Package-Commit: a613ee1941efa48ef5321bad39ac1ed8ad1540b8
 ;; Author: Yves Senn <yves.senn@gmail.com>
 ;; Version: 0.0.3
 ;; Created: 10 February 2013

@@ -7,6 +7,7 @@
 ;; Package-Version: 20140225.944
 ;; Package-X-Original-Version: 20140225.114059
 ;; Keywords: local, docs
+;; Package-Commit: 6b5ab7402287dab5a091e94fec9982dc45d9d287
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

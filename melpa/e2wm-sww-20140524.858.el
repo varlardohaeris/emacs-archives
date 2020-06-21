@@ -5,6 +5,7 @@
 ;; Author: Hiroaki Otsu <ootsuhiroaki@gmail.com>
 ;; Keywords: tools, window manager
 ;; Package-Version: 20140524.858
+;; Package-Commit: 1063f9854bd34db5ac771cd1036cecc89834729d
 ;; URL: https://github.com/aki2o/e2wm-sww
 ;; Version: 0.0.2
 ;; Package-Requires: ((e2wm "1.2"))

@@ -7,6 +7,7 @@
 
 ;; Version: 1.0
 ;; Package-Version: 20200211.641
+;; Package-Commit: 389ec5b4c5067fa903c543b7fe1d804f30b6ced5
 
 ;;; Documentation:
 ;;

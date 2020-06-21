@@ -4,6 +4,7 @@
 ;; Author: Ivan 'Kurvivor' Truskov <trus19@gmail.com>
 ;; Version: 1.1
 ;; Package-Version: 1.2
+;; Package-Commit: 7ec955639865ca8e99a941843e19b12be5015a47
 ;; Created: 12 December 2017
 ;; Keywords: games
 ;; Homepage: https://github.com/Kurvivor19/rubik-mode

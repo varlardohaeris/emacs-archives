@@ -4,6 +4,7 @@
 ;; Author: Bailey Ling
 ;; URL: https://github.com/bling/evil-visualstar
 ;; Package-Version: 0.2.0
+;; Package-Commit: eb996eca0081b6e8bab70b2c0a86ef1c71087bf6
 ;; Filename: evil-visualstar.el
 ;; Description: Starts a * or # search from the visual selection
 ;; Created: 2013-09-24

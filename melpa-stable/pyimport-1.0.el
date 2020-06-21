@@ -6,6 +6,7 @@
 ;; Created: 25 Jun 2016
 ;; Version: 1.0
 ;; Package-Version: 1.0
+;; Package-Commit: 2c05712748f6b6624b15d524323f6391612683f4
 ;; Package-Requires: ((dash "2.8.0") (s "1.9.0"))
 ;;; Commentary:
 

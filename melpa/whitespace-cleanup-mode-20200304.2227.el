@@ -6,6 +6,7 @@
 ;; Package-Version: 20200304.2227
 ;; Package-X-Original-Version: 0
 ;; Package-Requires: ((emacs "24.1"))
+;; Package-Commit: 5fac49636cd72a0043e2473c9a09a788cfd68d5f
 ;; URL: https://github.com/purcell/whitespace-cleanup-mode
 ;; Keywords: convenience
 

@@ -9,6 +9,7 @@
 ;;          Mathis Hofer <mathis@fsfe.org>
 ;; Keywords: lisp,convenience
 ;; Package-Version: 0.6.2
+;; Package-Commit: 9bf3ff940011c7af3fdd172fa3ea2511c7a8a190
 ;; Version: 0.6.2
 ;; URL : https://github.com/lukhas/buffer-move
 

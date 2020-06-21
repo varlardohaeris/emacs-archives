@@ -5,6 +5,7 @@
 ;; Author: Hiroaki Otsu <ootsuhiroaki@gmail.com>
 ;; Keywords: perl, completion
 ;; Package-Version: 0.4.7
+;; Package-Commit: f6fb22607a5252b2556d2e7fa14f1bcab5d9747a
 ;; URL: https://github.com/aki2o/emacs-plsense
 ;; Version: 0.4.7
 ;; Package-Requires: ((auto-complete "1.4.0") (log4e "0.2.0") (yaxception "0.2.0"))

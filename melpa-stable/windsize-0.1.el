@@ -6,6 +6,7 @@
 ;; Created: 01 July, 2011
 ;; URL: http://github.com/grammati/windsize
 ;; Package-Version: 0.1
+;; Package-Commit: 014b0836f9ffe45fa7e0ccc84576fbef74815a59
 ;; Version: 0.1
 ;; Keywords: window, resizing, convenience
 

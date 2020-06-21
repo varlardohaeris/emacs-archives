@@ -33,7 +33,7 @@ STATE-CHANGING FUNCTIONS
 - mark-resolved (files)                         OK
 - find-admin-dir (file)                         NO is this .hg dir?
 HISTORY FUNCTIONS
-* print-log (files buffer &optional shortlog start-revision limit)  OK but graph log if shortlog
+* print-log (files buffer &optional shortlog start-revision limit)  OK
 * log-outgoing (backend remote-location)        OK
 * log-incoming (backend remote-location)        OK
 - log-search (buffer pattern)                   OK
@@ -68,6 +68,7 @@ MISCELLANEOUS
 - extra-menu ()                                 OK shelve, addremove
 - extra-dir-menu ()                             OK extra-status-menu same as extra-menu
 - conflicted-files (dir)                        OK with no respect to DIR
+- repository-url (file-or-dir)                  OK
 
 VC backend to work with hg repositories through hg command server.
 https://www.mercurial-scm.org/wiki/CommandServer

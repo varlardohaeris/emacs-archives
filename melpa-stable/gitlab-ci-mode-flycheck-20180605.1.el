@@ -4,6 +4,7 @@
 ;;
 ;; Author: Joe Wreschnig
 ;; Keywords: tools, vc, convenience
+;; Package-Commit: 30ea0eab74b24818f187242b079845785035e967
 ;; Package-Requires: ((emacs "25") (flycheck "31") (gitlab-ci-mode "1"))
 ;; Package-Version: 20180605.1
 ;; Package-X-Original-Version: 20180605.1

@@ -8,6 +8,7 @@
 ;; Modified: 30 Dec 2029
 ;; Version: 0.1
 ;; Package-Version: 0.1
+;; Package-Commit: 8430e1c01ae701fb85bb12703fe59a0f04fd0a6f
 ;; Package-Requires: ((emacs "25.1"))
 ;; Keywords: terminals convenience
 ;; URL: https://github.com/spudlyo/clipetty

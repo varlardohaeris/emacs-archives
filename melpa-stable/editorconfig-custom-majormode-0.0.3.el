@@ -3,6 +3,7 @@
 ;; Author: 10sr <8slashes+el [at] gmail [dot] com>
 ;; URL: https://github.com/10sr/editorconfig-custom-major-mode-el
 ;; Package-Version: 0.0.3
+;; Package-Commit: ae613f0a56364afbbab19d4377c108406d5cfc7c
 ;; Version: 0.0.3
 ;; Package-Requires: ((editorconfig "0.6.0"))
 ;; Keywords: editorconfig util

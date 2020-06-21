@@ -7,6 +7,7 @@
 ;; Created: 21 May 2016
 ;; Version: 0.8.13
 ;; Package-Version: 0.8.13
+;; Package-Commit: 0f69f9f45ac15018c48853509ac38e68286f9c0e
 ;; Keywords: tools esa
 ;; Package-Requires: ((cl-lib "0.3"))
 ;; URL: https://github.com/nabinno/esa.el

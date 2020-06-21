@@ -6,6 +6,7 @@
 ;; Maintainer: Paul van Dam <pvandam@m-industries.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: 0089e7c874c6d35e55be6ecd479ada2b97688a1f
 ;; Created: 13 October 2017
 ;; URL: https://github.com/M-industries/AlanForEmacs
 ;; Homepage: https://alan-platform.com/

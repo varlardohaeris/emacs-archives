@@ -3,6 +3,7 @@
 ;; Author: Fanael Linithien <fanael4@gmail.com>
 ;; URL: https://github.com/Fanael/highlight-numbers
 ;; Package-Version: 0.2.3
+;; Package-Commit: b7adef0286aaa5bca8e98a12d0ffed3a880e25aa
 ;; Version: 0.2.3
 ;; Package-Requires: ((emacs "24") (parent-mode "2.0"))
 

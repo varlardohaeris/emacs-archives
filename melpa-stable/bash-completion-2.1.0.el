@@ -1,5 +1,6 @@
 ;;; bash-completion.el --- BASH completion for the shell buffer
 ;; Package-Version: 2.1.0
+;; Package-Commit: 6aedd690006e07199b2fcd319b9b840a527650e5
 
 ;; Copyright (C) 2009 Stephane Zermatten
 

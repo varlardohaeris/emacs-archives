@@ -8,6 +8,7 @@
 ;; Modified: October 30, 2019
 ;; Version: 1.0.7
 ;; Package-Version: 1.0.7
+;; Package-Commit: 61a38c9d50fa9d1e38b2fa550d07130eb9322524
 ;; Keywords: convenience tools counsel swiper selector css less scss
 ;; Homepage: https://github.com/hlissner/emacs-counsel-css
 ;; Package-Requires: ((emacs "24.4") (counsel "0.7.0") (cl-lib "0.5"))

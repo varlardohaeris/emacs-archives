@@ -6,6 +6,7 @@
 ;; Maintainer: Kazuki Yoshida <kazukiyoshida@mail.harvard.edu>
 ;; URL: https://github.com/stan-dev/stan-mode/tree/master/company-stan
 ;; Package-Version: 20200221.2025
+;; Package-Commit: 599a0440086c660e6823622b35058f6d2d6d9637
 ;; Keywords: languages
 ;; Version: 10.1.0
 ;; Created: 2019-07-14

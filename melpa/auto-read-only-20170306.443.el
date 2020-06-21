@@ -6,6 +6,7 @@
 ;; Created: 4 Mar 2017
 ;; Version: 0.0.1
 ;; Package-Version: 20170306.443
+;; Package-Commit: 79654f8fc024f383ae7af05487c1345738236500
 ;; Keywords: files, convenience
 ;; Homepage: https://github.com/zonuexe/auto-read-only.el
 ;; Package-Requires: ((cl-lib "0.5"))

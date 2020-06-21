@@ -3,6 +3,7 @@
 ;; Author: Thorsten Jolitz <tjolitz AT gmail DOT com>
 ;; Version: 2.0
 ;; Package-Version: 2.0
+;; Package-Commit: e946cda497bae53fca6fa1579910237e216170bf
 ;; URL: https://github.com/tj64/outorg
 
 ;;;; MetaData

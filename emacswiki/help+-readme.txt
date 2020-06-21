@@ -31,7 +31,7 @@
 
  The following bindings are made here:
 
-   `C-h u'      `manual-entry'
+   `C-h u'      `man'
    `C-h C-a'    `apropos'
    `C-h C-l'    `locate-library'
    `C-h RET'    `help-on-click/key'

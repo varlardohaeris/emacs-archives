@@ -6,6 +6,7 @@
 ;; Created: 6 Jun 2016
 ;; Version: 0.0.1
 ;; Package-Version: 0.0.1
+;; Package-Commit: 0f59533bbd8494fea3172551efb6ec49f61ba285
 ;; Keywords: documentation markup converter
 ;; Homepage: https://github.com/zonuexe/pandoc.el
 ;; Package-Requires: ((emacs "24"))

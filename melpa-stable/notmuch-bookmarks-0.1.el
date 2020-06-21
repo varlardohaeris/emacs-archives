@@ -6,6 +6,7 @@
 ;; Package-Version: 0.1
 ;; Package-X-Original-Version: 0.1
 ;; Version: 0.1
+;; Package-Commit: c0071310f01dd5296600bdc4d6135667d38ef0de
 ;; Keywords: mail
 ;; Package-Requires: ((seq "2.20") (emacs "26.1"))
 ;; URL: https://github.com/publicimageltd/notmuch-bookmarks

@@ -4,6 +4,7 @@
 ;; Author: Sho Takemori <stakemorii@gmail.com>
 ;; URL: https://github.com/stakemori/auto-complete-sage
 ;; Package-Version: 0.0.5
+;; Package-Commit: a61a4e58b14134712e0737280281c0b10e56da93
 ;; Keywords: Sage, math, auto-complete
 ;; Version: 0.0.4
 ;; Package-Requires: ((auto-complete "1.5.0") (sage-shell-mode "0.0.8"))

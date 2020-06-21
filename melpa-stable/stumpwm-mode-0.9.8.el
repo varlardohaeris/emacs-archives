@@ -5,6 +5,7 @@
 ;; Maintainer: Shawn Betts
 ;; Keywords: comm, lisp, tools
 ;; Package-Version: 0.9.8
+;; Package-Commit: 4d0603e52b5bab993b3be63e3654c74f641e677d
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

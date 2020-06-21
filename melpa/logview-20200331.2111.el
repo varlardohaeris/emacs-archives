@@ -6,6 +6,7 @@
 ;; Maintainer: Paul Pogonyshev <pogonyshev@gmail.com>
 ;; Version:    0.13.1
 ;; Package-Version: 20200331.2111
+;; Package-Commit: c67298a215136617de60c9041904ee6a455dcd4f
 ;; Keywords:   files, tools
 ;; Homepage:   https://github.com/doublep/logview
 ;; Package-Requires: ((emacs "24.4") (datetime "0.6.1") (extmap "1.0"))

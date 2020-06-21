@@ -5,6 +5,7 @@
 ;; Author: Dedi Hirschfeld
 ;; URL: https://github.com/dedi/gxref
 ;; Package-Version: 0.1
+;; Package-Commit: 15723a9d910d7dd9ea18cab0336332cf988aeceb
 ;; Keywords: xref, global, tools
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "25"))

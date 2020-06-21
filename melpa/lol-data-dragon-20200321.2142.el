@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/xuchunyang/lol-data-dragon.el
 ;; Package-Requires: ((emacs "25.1"))
 ;; Package-Version: 20200321.2142
+;; Package-Commit: 6f53bb3971daad60bd0529d1e3889d5f9fedf235
 ;; Version: 0
 ;; Keywords: games hypermedia
 

@@ -5,6 +5,7 @@
 ;; Author: Akira Komamura <akira.komamura@gmail.com>
 ;; Version: 0.2.0
 ;; Package-Version: 20180624.326
+;; Package-Commit: 9212790026bea9ab5fb4ecf0da1163be8ab00776
 ;; Package-Requires: ((emacs "24.4"))
 ;; Keywords: maint
 ;; URL: https://github.com/akirak/emacs-playground

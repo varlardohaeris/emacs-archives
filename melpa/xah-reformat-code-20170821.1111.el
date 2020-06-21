@@ -5,6 +5,7 @@
 ;; Author: Xah Lee ( http://xahlee.info/ )
 ;; Version: 1.1.20170820
 ;; Package-Version: 20170821.1111
+;; Package-Commit: 7fec8b28e46b8cc2813fac5149e3bbb56c0aa6b1
 ;; Created: 13 Dec 2016
 ;; Keywords: convenience
 ;; License: GPL v3

@@ -3,6 +3,7 @@
 ;; Author: Masahiro Hayashi <mhayashi1120@gmail.com>
 ;; Keywords: extensions, tools, maint
 ;; Package-Version: 0.7.0
+;; Package-Commit: fde3fd42c815c76e8015f69518a92f6bfcfde990
 ;; URL: https://github.com/mhayashi1120/Emacs-erefactor
 ;; Emacs: GNU Emacs 23 or later
 ;; Package-Requires: ((cl-lib "0.3"))

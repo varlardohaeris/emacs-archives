@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-hcl-mode
 ;; Package-Version: 0.3
+;; Package-Commit: 6a6daf37522188a2f2fcdebc60949fc3bdabbc06
 ;; Version: 0.03
 ;; Package-Requires: ((emacs "24.3"))
 

@@ -1,0 +1,2 @@
+
+(utop . [(2 6 0) ((emacs (24))) "Universal toplevel for OCaml" single ((:commit . "df2447a63de2fea0f56d8c63d35b0bf39e11c0f2") (:keywords "ocaml" "languages") (:authors ("Jeremie Dimino" . "jeremie@dimino.org")) (:maintainer "Jeremie Dimino" . "jeremie@dimino.org") (:url . "https://github.com/diml/utop"))])

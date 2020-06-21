@@ -6,6 +6,7 @@
 ;;         Anand Reddy Pandikunta <anand21nanda AT gmail DOT com>
 ;; Version: 0.4
 ;; Package-Version: 0.4
+;; Package-Commit: 879144ca7e9bfa09a4fb57d5fe92a80250311f1e
 ;; Date: January 27, 2015
 
 ;; This file is free software; you can redistribute it and/or modify

@@ -8,6 +8,7 @@
 ;; Keyword: Common CSS Handy Sort Sorting
 ;; Version: 0.0.5
 ;; Package-Version: 20190723.1714
+;; Package-Commit: b0491d5340c5f5c516b44aa7bfef6f6cf2998484
 ;; Package-Requires: ((emacs "24.4") (s "1.12.0") (cl-lib "0.6"))
 ;; URL: https://github.com/jcs090218/com-css-sort
 

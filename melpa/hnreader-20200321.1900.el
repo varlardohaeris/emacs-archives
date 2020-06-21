@@ -5,6 +5,7 @@
 ;; Author: Thanh Vuong <thanhvg@gmail.com>
 ;; URL: https://github.com/thanhvg/emacs-hnreader/
 ;; Package-Version: 20200321.1900
+;; Package-Commit: 5dd287e932e2398aab0f34cb23b99457b81ac370
 ;; Package-Requires: ((emacs "25.1") (promise "1.1") (request "0.3.0") (org "9.2"))
 ;; Version: 0.1
 

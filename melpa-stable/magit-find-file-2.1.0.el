@@ -5,6 +5,7 @@
 ;; Author: Bradley Wright <brad@intranation.com>
 ;; Keywords: git
 ;; Package-Version: 2.1.0
+;; Package-Commit: 035da838b1a19e7a5ee135b4ca8475f4e235b61e
 ;; URL: https://github.com/bradleywright/magit-find-file.el
 ;; Version: 2.1.0
 ;; Package-Requires: ((magit "2.1.0") (dash "2.8.0"))

@@ -8,6 +8,7 @@
 ;; Keyword: line navigation
 ;; Version: 0.0.5
 ;; Package-Version: 0.0.5
+;; Package-Commit: 772fb942777a321b4698add1b94cff157f23a93b
 ;; Package-Requires: ((emacs "25"))
 ;; URL: https://github.com/jcs090218/goto-line-preview
 

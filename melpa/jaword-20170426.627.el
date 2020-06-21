@@ -19,6 +19,7 @@
 ;; Author: zk_phi
 ;; URL: http://hins11.yu-yake.com/
 ;; Package-Version: 20170426.627
+;; Package-Commit: ac062b0e5ab4bd3270497e80aa0f3ac033a0493f
 ;; Version: 1.0.0
 ;; Package-Requires: ((tinysegmenter "0.1"))
 

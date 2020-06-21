@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com> and contributors
 ;; URL: https://github.com/nonsequitur/git-gutter-fringe-plus
 ;; Package-Version: 0.1
+;; Package-Commit: ce9d594c0189e78d78df26a0c26bbcf886e373cd
 ;; Version: 0.01
 ;; Package-Requires: ((git-gutter+ "0.01") (fringe-helper "20130519.1641"))
 

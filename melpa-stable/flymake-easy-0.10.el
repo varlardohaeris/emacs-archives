@@ -5,6 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; URL: https://github.com/purcell/flymake-easy
 ;; Package-Version: 0.10
+;; Package-Commit: 2a24f260cdc3b9c8f9263b653a475d90efa1d392
 ;; Version: DEV
 ;; Keywords: convenience, internal
 

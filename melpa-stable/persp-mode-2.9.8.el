@@ -5,6 +5,7 @@
 ;; Author: Constantin Kulikov (Bad_ptr) <zxnotdead@gmail.com>
 ;; Version: 2.9.8
 ;; Package-Version: 2.9.8
+;; Package-Commit: 391a7dc248c9c04b7ad424c696bdff578e14dd2c
 ;; Package-Requires: ()
 ;; Keywords: perspectives, session, workspace, persistence, windows, buffers, convenience
 ;; URL: https://github.com/Bad-ptr/persp-mode.el

@@ -5,6 +5,7 @@
 ;; Author: David Leatherman <leathekd@gmail.com>
 ;; URL: http://www.github.com/leathekd/immutant-server.el
 ;; Package-Version: 1.2.0
+;; Package-Commit: 6f3d303354a229780a33e6bae64460a95bfefe60
 ;; Version: 1.2.0
 
 ;; This file is not part of GNU Emacs.

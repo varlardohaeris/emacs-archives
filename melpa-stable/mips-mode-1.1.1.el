@@ -8,6 +8,7 @@
 ;; Modified: March 21, 2018
 ;; Version: 1.1.1
 ;; Package-Version: 1.1.1
+;; Package-Commit: e6c25201a3325b555e64388908d584f3f81d9e32
 ;; Keywords: languages mips assembly
 ;; Homepage: https://github.com/hlissner/emacs-mips-mode
 ;;

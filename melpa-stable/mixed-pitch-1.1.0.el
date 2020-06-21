@@ -6,6 +6,7 @@
 ;; Maintainer: J. Alexander Branham <branham@utexas.edu>
 ;; URL: https://gitlab.com/jabranham/mixed-pitch
 ;; Package-Version: 1.1.0
+;; Package-Commit: 734fbdf2d2c17beee151faf39bd10174a87eea5d
 ;; Version: 1.1.0
 ;; Package-Requires: ((emacs "24.3"))
 

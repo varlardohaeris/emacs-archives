@@ -1,0 +1,2 @@
+
+(datetime . [(20200528 2004) ((emacs (24 1)) (extmap (1 0))) "Parsing, formatting and matching timestamps" tar ((:commit . "f6ec1ac75a2b1dfc21985d2cacad0eed39169278") (:keywords "lisp" "i18n") (:authors ("Paul Pogonyshev" . "pogonyshev@gmail.com")) (:maintainer "Paul Pogonyshev" . "pogonyshev@gmail.com") (:url . "https://github.com/doublep/datetime"))])

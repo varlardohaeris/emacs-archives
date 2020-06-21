@@ -5,6 +5,7 @@
 ;; Author: Julien BLANCHARD <julien@sideburns.eu>
 ;; URL: https://github.com/julienXX/dotnet.el
 ;; Package-Version: 20190415.1237
+;; Package-Commit: 932d776ed739d20d57dbd6ba49f61d1b450571fc
 ;; Version: 0.5
 ;; Keywords: .net, tools
 

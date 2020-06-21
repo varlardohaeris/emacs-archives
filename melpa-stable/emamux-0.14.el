@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-emamux
 ;; Package-Version: 0.14
+;; Package-Commit: 573dd1cf18584a1fd240efb16c7726b6fd790b73
 ;; Version: 0.14
 ;; Package-Requires: ((emacs "24.3"))
 

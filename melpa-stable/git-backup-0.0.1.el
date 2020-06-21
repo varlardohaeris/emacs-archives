@@ -5,6 +5,7 @@
 ;; Author: Anthony HAMON <hamon.anth@gmail.com>
 ;; URL: http://github.com/antham/git-backup
 ;; Package-Version: 0.0.1
+;; Package-Commit: e28d7af2d1c58fa5b8068223eb83a73f044e6a6c
 ;; Version: 0.0.1
 ;; Package-Requires: ((emacs "24.3") (s "1.8.0"))
 ;; Keywords: backup, files, tools, git

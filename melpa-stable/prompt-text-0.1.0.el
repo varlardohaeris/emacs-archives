@@ -3,6 +3,7 @@
 ;; Author: 10sr <8slashes+el [at] gmail [dot] com>
 ;; URL: https://github.com/10sr/prompt-text-el
 ;; Package-Version: 0.1.0
+;; Package-Commit: bb9265ebfada42d0e3c67c809665e1e5d980691e
 ;; Version: 0.1
 ;; Keywords: utility minibuffer
 

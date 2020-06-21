@@ -6,6 +6,7 @@
 ;; Maintainer: Matúš Goljer <matus.goljer@gmail.com>
 ;; Version: 0.3.0
 ;; Package-Version: 0.3.0
+;; Package-Commit: aed995c1db6c8bfd9db0a75a978f5e261aab38e5
 ;; Created: 16th April 2017
 ;; Package-requires: ((dash "2.13.0") (emacs "24.3"))
 ;; Keywords: calendar

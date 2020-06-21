@@ -3,6 +3,7 @@
 ;; Author: Zach Massia <zmassia@gmail.com>
 ;; URL: https://github.com/zachmassia/platformio-mode
 ;; Package-Version: 0.2.2
+;; Package-Commit: 470a80c1d764a6e1680a2b41ca5a847869a07a27
 ;; Version: 0.1.0
 ;; Package-Requires: ((projectile "0.13.0"))
 

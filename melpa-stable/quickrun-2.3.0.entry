@@ -1,0 +1,2 @@
+
+(quickrun . [(2 3 0) ((emacs (24 3))) "Run commands quickly" single ((:commit . "072ec7be93f31e9dd265fb834cd709d0c0d4a8bb") (:authors ("Syohei YOSHIDA" . "syohex@gmail.com")) (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com") (:url . "https://github.com/syohex/emacs-quickrun"))])

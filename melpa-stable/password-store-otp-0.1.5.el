@@ -5,6 +5,7 @@
 ;; Created: Tue Aug 22 13:46:01 2017 (+0200)
 ;; Version: 0.1.0
 ;; Package-Version: 0.1.5
+;; Package-Commit: a39a64a91de36e87b852339635bd3c5fb0e32441
 ;; Package-Requires: ((emacs "25") (s "1.9.0") (password-store "0.1"))
 ;; URL: https://github.com/volrath/password-store-otp.el
 ;; Keywords: tools, pass

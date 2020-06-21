@@ -6,6 +6,7 @@
 ;; Author: Diep Pham <me@favadi.com>
 ;; Keywords: convenience, tools, go
 ;; Package-Version: 0.1.4
+;; Package-Commit: 2e863429cc953cf4c14783e249df56d1ae669868
 ;; Version: 0.1.0
 ;; URL: https://github.com/favadi/flycheck-gometalinter
 ;; Package-Requires: ((emacs "24") (flycheck "0.22"))

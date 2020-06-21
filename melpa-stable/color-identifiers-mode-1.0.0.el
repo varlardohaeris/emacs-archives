@@ -5,6 +5,7 @@
 ;; Author: Ankur Dave <ankurdave@gmail.com>
 ;; Url: https://github.com/ankurdave/color-identifiers-mode
 ;; Package-Version: 1.0.0
+;; Package-Commit: 536151410dbb198b328dc62b829d9692cec0b1bd
 ;; Created: 24 Jan 2014
 ;; Version: 1.1
 ;; Keywords: faces, languages

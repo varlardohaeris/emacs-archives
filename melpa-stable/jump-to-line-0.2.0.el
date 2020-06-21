@@ -5,6 +5,7 @@
 ;; Author: ongaeshi
 ;; Keywords: jump, line, back, file, ruby, csharp, python, perl
 ;; Package-Version: 0.2.0
+;; Package-Commit: 01ef8c3529d85e6c59cc20840acbc4a8e8325bc8
 ;; Version: 0.2
 ;; Package-Requires:
 

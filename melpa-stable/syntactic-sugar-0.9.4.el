@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/rolandwalker/syntactic-sugar
 ;; URL: http://raw.github.com/rolandwalker/syntactic-sugar/master/syntactic-sugar.el
 ;; Package-Version: 0.9.4
+;; Package-Commit: 06d943c6ad9507603bb6ab6d37be2d359d0763a9
 ;; Version: 0.9.4
 ;; Last-Updated:  1 Nov 2013
 ;; EmacsWiki: SyntacticSugar

@@ -7,6 +7,7 @@
 ;; K. Scarlet, zsxh
 ;; URL: https://github.com/bastibe/org-static-blog
 ;; Package-Version: 1.3.0
+;; Package-Commit: afe250fc43cd1beffd7946b54692d712d9263ff2
 ;; Version: 1.3.0
 ;; Package-Requires: ((emacs "24.3"))
 

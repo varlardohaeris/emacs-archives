@@ -5,6 +5,7 @@
 ;; Author: Chen Bin <chenbin.sh@gmail.com>
 ;; URL: http://github.com/redguardtoo/evil-mark-replace
 ;; Package-Version: 20150424.718
+;; Package-Commit: 56cf191724a3e82239ca47a17b071c20aedb0617
 ;; Keywords: mark replace evil
 ;; Version: 0.0.4
 ;; Package-Requires: ((evil "1.0.8"))

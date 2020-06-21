@@ -5,6 +5,7 @@
 ;; Author: Joao Tavora <joaotavora [at] gmail.com>
 ;; Keywords: convenience, emulations
 ;; Package-Version: 0.6.1
+;; Package-Commit: 2d1eb81d12f71248ad305e70cceddf08d4fe2b39
 ;; X-URL: http://autopair.googlecode.com
 ;; URL: http://autopair.googlecode.com
 ;; EmacsWiki: AutoPairs

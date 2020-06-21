@@ -5,6 +5,7 @@
 ;; Author: Lluís Vilanova <vilanova@ac.upc.edu>
 ;; URL: http://www.github.com/llvilanova/info-buffer
 ;; Package-Version: 0.2
+;; Package-Commit: d35dad6e766c6e2ddb8dc6acb4ce5b6e10fbcaa7
 ;; Version: 0.2
 ;; Keywords: docs, info
 

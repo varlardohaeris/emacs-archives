@@ -4,6 +4,7 @@
 ;; Author: Clément Pit--Claudel <clement.pitclaudel@live.com>
 ;; URL: https://github.com/FStarLang/fstar.el
 ;; Package-Version: 0.9.4.0
+;; Package-Commit: 3a9be64827bbed8e34d38803b5c44d8d4f6cd688
 
 ;; Created: 27 Aug 2015
 ;; Version: 0.3

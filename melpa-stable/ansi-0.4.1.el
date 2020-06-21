@@ -6,6 +6,7 @@
 ;; Maintainer: Johan Andersson <johan.rejeep@gmail.com>
 ;; Version: 0.4.1
 ;; Package-Version: 0.4.1
+;; Package-Commit: a042c5954453bab9a74177e2b78ad17a824caebc
 ;; Keywords: color, ansi
 ;; URL: http://github.com/rejeep/ansi
 ;; Package-Requires: ((s "1.6.1") (dash "1.5.0"))

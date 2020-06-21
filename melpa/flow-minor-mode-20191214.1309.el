@@ -5,6 +5,7 @@
 
 ;; Version: 0.3
 ;; Package-Version: 20191214.1309
+;; Package-Commit: 5db3936d9eba8ccb2beca476afc84675b7b161ca
 ;; URL: https://github.com/an-sh/flow-minor-mode
 
 ;; Package-Requires: ((emacs "25.1"))

@@ -5,6 +5,7 @@
 ;; Author: Jonathan Chu <me@jonathanchu.is>
 ;; URL: https://github.com/jonathanchu/atom-one-dark-theme
 ;; Package-Version: 20190705.554
+;; Package-Commit: 623fc08252e30174401750a09168279571288c7f
 ;; Version: 0.4.0
 
 ;; This file is not part of GNU Emacs.

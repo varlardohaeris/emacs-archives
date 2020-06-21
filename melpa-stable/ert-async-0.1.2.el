@@ -6,6 +6,7 @@
 ;; Maintainer: Johan Andersson <johan.rejeep@gmail.com>
 ;; Version: 0.1.2
 ;; Package-Version: 0.1.2
+;; Package-Commit: f64a7ed5b0d2900c9a3d8cc33294bf8a79bc8526
 ;; Keywords: test
 ;; URL: http://github.com/rejeep/ert-async.el
 

@@ -4,6 +4,7 @@
 ;;; Homepage: https://github.com/purcell/flymake-json
 ;;; Version: DEV
 ;; Package-Version: 0.1
+;; Package-Commit: ad8e482db1ad29e23bdd9d089b9bc3615649ce65
 ;;; Package-Requires: ((flymake-easy "0.1"))
 ;;
 ;;; Commentary:

@@ -4,6 +4,7 @@
 
 ;; Version: 2.0.1
 ;; Package-Version: 2.0.1
+;; Package-Commit: 884203b11fdac8374ec644cca975469aab263404
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: multimethod generic predicate dispatch
 ;; Author: Christina Whyte <kurisu.whyte@gmail.com>

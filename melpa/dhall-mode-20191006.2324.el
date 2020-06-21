@@ -6,6 +6,7 @@
 ;; Maintainer: Sibi Prabakaran <sibi@psibi.in>
 ;; Keywords: languages
 ;; Package-Version: 20191006.2324
+;; Package-Commit: ef4d33debe224c6ba37e51a29b9dc8b74f20f1c2
 ;; Version: 0.1.3
 ;; Package-Requires: ((emacs "24.4") (reformatter "0.3"))
 ;; URL: https://github.com/psibi/dhall-mode

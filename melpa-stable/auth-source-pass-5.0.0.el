@@ -7,6 +7,7 @@
 ;;         Keith Amidon <camalot@picnicpark.org>
 ;; Version: 5.0.0
 ;; Package-Version: 5.0.0
+;; Package-Commit: df074612114c3cc2fa1c3023f26ff182f9b1190a
 ;; Package-Requires: ((emacs "25"))
 ;; Url: https://github.com/DamienCassou/auth-password-store
 ;; Created: 07 Jun 2015

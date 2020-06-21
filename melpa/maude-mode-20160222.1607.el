@@ -5,6 +5,7 @@
 ;; Author: Ellef Gjelstad <ellefg+maude*ifi.uio.no>
 ;; Version: 0.2
 ;; Package-Version: 20160222.1607
+;; Package-Commit: c9543bb8a172fa77af592388e7f520a4a6d38987
 ;; Maintainer: Rudi Schlatte <rudi@constantly.at>
 ;; Keywords: Maude
 ;; Time-stamp: <2008-04-23 16:20:55 rudi>

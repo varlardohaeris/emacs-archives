@@ -5,6 +5,7 @@
 ;; Author: Florian Mounier aka paradoxxxzero
 ;; Version: 0.2
 ;; Package-Version: 0.2
+;; Package-Commit: cfaa7bbe7bb290cc500440124ce89686f3e26f86
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

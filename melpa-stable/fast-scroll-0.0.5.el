@@ -6,6 +6,7 @@
 ;; Maintainer: Matthew Carter <m@ahungry.com>
 ;; URL: https://github.com/ahungry/fast-scroll
 ;; Package-Version: 0.0.5
+;; Package-Commit: 0f78d1039e5394a6b57d186189a89937453c7002
 ;; Version: 0.0.5
 ;; Keywords: ahungry convenience fast scroll scrolling
 ;; Package-Requires: ((emacs "25.1") (cl-lib "0.6.1"))

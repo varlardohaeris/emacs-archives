@@ -3,6 +3,7 @@
 ;; Author: Fanael Linithien <fanael4@gmail.com>
 ;; URL: https://github.com/Fanael/highlight-defined
 ;; Package-Version: 0.1.5
+;; Package-Commit: 9cc03c7136b56c04ea053fbe08a3a4a6af26b90e
 ;; Version: 0.1.5
 ;; Package-Requires: ((emacs "24"))
 

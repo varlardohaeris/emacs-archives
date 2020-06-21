@@ -5,6 +5,7 @@
 ;; Author: Mark Karpov <markkarpov92@gmail.com>
 ;; URL: https://github.com/mrkkrp/char-menu
 ;; Package-Version: 0.1.1
+;; Package-Commit: f4d8bf8fa6787e2aaca2ccda5223646541d7a4b2
 ;; Version: 0.1.1
 ;; Package-Requires: ((emacs "24.3") (avy-menu "0.1"))
 ;; Keywords: convenience, editing

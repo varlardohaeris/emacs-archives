@@ -5,6 +5,7 @@
 ;; Author: Junpeng Qiu <qjpchmail@gmail.com>
 ;; Keywords: extensions
 ;; Package-Version: 0.3.3
+;; Package-Commit: ba4ce159e385d695d8560e8b06b3cbe48424861c
 ;; Version: 0.3.1
 
 ;; This program is free software; you can redistribute it and/or modify

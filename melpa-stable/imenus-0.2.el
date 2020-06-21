@@ -6,6 +6,7 @@
 ;; Created: 19 Dec 2014
 ;; Version: 0.2
 ;; Package-Version: 0.2
+;; Package-Commit: ee1bbd2228dbb86df2865dc9004d375421b171ba
 ;; Package-Requires: ((cl-lib "0.5"))
 ;; URL: https://github.com/alezost/imenus.el
 ;; Keywords: tools convenience

@@ -6,6 +6,7 @@
 ;; Maintainer: Eric Crampton <eric@atdesk.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: 8275fb672f9cc4ba6682ebda0ef91db827e32992
 ;; Keywords: dedicated, buffer
 
 ;; This file is not part of GNU Emacs.

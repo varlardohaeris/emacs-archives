@@ -4,6 +4,7 @@
 ;; Author: Dave Pearson <davep@davep.org>
 ;; Version: 2.1
 ;; Package-Version: 20170802.1117
+;; Package-Commit: 7e47e0e2853bc1215739b2e28f260e9eed93b2c5
 ;; Keywords: quoting
 ;; URL: https://github.com/davep/boxquote.el
 ;; Package-Requires: ((cl-lib "0.5"))

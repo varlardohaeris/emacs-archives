@@ -5,6 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; URL: https://github.com/flycheck/flycheck-hdevtools
 ;; Package-Version: 0.3
+;; Package-Commit: fbf90b9a7d2d90f69ac55b57d18f0f4a47afed61
 ;; Keywords: convenience languages tools
 ;; Package-Requires: ((flycheck "0.15"))
 ;; Version: DEV

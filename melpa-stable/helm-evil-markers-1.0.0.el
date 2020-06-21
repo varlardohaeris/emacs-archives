@@ -4,6 +4,7 @@
 ;; Author: Bill Xue
 ;; URL: https://github.com/xueeinstein/helm-evil-markers
 ;; Package-Version: 1.0.0
+;; Package-Commit: 29f9288a73370f26fe431db1472ed948bd63190d
 ;; Created: 2019
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "24.4") (helm "2.0.0") (evil "1.2.10"))

@@ -6,6 +6,7 @@
 ;; Maintainer: Titus von der Malsburg <malsburg@posteo.de>
 ;; URL: https://github.com/emacs-helm/helm-mu
 ;; Package-Version: 20190819.1311
+;; Package-Commit: 481964fb26c59ea280a1ec7bce192d724ddf7d12
 ;; Version: 1.0.0
 ;; Package-Requires: ((helm "1.5.5"))
 

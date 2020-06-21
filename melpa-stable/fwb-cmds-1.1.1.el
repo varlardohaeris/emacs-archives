@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/tarsius/fwb-cmds
 ;; Keywords: convenience
 ;; Package-Version: 1.1.1
+;; Package-Commit: 90258a5c7dbbaa2ac227e0fb4ff6c7d5aec3628f
 
 ;; This file is not part of GNU Emacs.
 

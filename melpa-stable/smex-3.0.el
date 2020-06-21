@@ -5,6 +5,7 @@
 ;; Author: Cornelius Mika <cornelius.mika@gmail.com> and contributors
 ;; URL: http://github.com/nonsequitur/smex/
 ;; Package-Version: 3.0
+;; Package-Commit: 97b4a4d82a4449e3f1a3fa8a93387d6eb0ef9c26
 ;; Version: 3.0
 ;; Keywords: convenience, usability
 

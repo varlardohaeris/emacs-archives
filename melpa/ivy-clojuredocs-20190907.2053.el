@@ -3,6 +3,7 @@
 ;; Author: Wanderson Ferreira <iagwanderson@gmail.com>
 ;; URL: https://github.com/wandersoncferreira/ivy-clojuredocs
 ;; Package-Version: 20190907.2053
+;; Package-Commit: dd33a25f1de4339f75f05689ed60fe1b1c97f554
 ;; Package-Requires: ((edn "1.1.2") (ivy "0.12.0") (emacs "24.4"))
 ;; Version: 0.1
 ;; Keywords: matching

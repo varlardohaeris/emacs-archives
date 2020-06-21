@@ -3,6 +3,7 @@
 ;; Author: Masahiro Hayashi <mhayashi1120@gmail.com>
 ;; Keywords: multimedia, extensions
 ;; Package-Version: 0.6.2
+;; Package-Commit: 967508a6c151e6ab6e97d3ac332dc5599011830d
 ;; URL: https://github.com/mhayashi1120/Emacs-imagex
 ;; Emacs: GNU Emacs 22 or later
 ;; Version: 0.6.2

@@ -4,6 +4,7 @@
 
 ;; Url: https://github.com/sakshamsharma/emacs-smbc
 ;; Package-Version: 0.2.1
+;; Package-Commit: c377b806118d82140197d9cb1095548477e00497
 ;; Author: Saksham Sharma <saksham0808@gmail.com>
 ;; Version: 1.0
 ;; Keywords: smbc webcomic

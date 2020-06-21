@@ -5,6 +5,7 @@
 ;; Author: Akira Komamura <akira.komamura@gmail.com>
 ;; Version: 0.2.2
 ;; Package-Version: 20190407.348
+;; Package-Commit: ddf6b89652e4dbc0be5e8719213e7673c83959f1
 ;; Package-Requires: ((emacs "24.3") (ivy "0.10.0") (dash "2.0"))
 ;; URL: https://github.com/akirak/counsel-org-clock
 

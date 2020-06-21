@@ -11,6 +11,7 @@
 ;; Maintainer: Dmitri Akatov <akatov@gmail.com>
 ;; URL: https://github.com/akatov/pretty-mode
 ;; Package-Version: 2.0.3
+;; Package-Commit: 4ba8fceb7dd733361ed975d80ac2caa3612fa78b
 ;; Keywords: pretty, unicode, symbols
 ;; Version: 2.0.3
 

@@ -5,6 +5,7 @@
 ;; Author: Chunyang Xu <mail@xuchunyang.me>
 ;; URL: https://github.com/xuchunyang/github-notifier.el
 ;; Package-Version: 0.1
+;; Package-Commit: f8d011ebef9f626a94a27b5576c8ed06e6ff8987
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: github, mode-line
 ;; Version: 0.1

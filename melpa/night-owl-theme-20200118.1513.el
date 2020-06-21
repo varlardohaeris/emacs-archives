@@ -5,6 +5,7 @@
 ;; Author: Aaron Jensen <aaronjensen@gmail.com>
 ;; URL: http://github.com/aaronjensen/night-owl-theme
 ;; Package-Version: 20200118.1513
+;; Package-Commit: b52fbf83ffef1ca265c9ea273bf51827532cef67
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24"))
 

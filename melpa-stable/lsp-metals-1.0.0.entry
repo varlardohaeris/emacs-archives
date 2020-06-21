@@ -1,0 +1,2 @@
+
+(lsp-metals . [(1 0 0) ((emacs (25 2)) (lsp-mode (6 0)) (dap-mode (0 3)) (dash (2 14 1)) (dash-functional (2 14 1)) (f (0 20 0)) (ht (2 0)) (treemacs (2 5))) "Scala Client settings" tar ((:commit . "5468b638cd81b7d9ce9edc652c281b28bd775c23") (:keywords "languages" "extensions") (:authors ("Ross A. Baker" . "ross@rossabaker.com") ("Evgeny Kurnevsky" . "kurnevsky@gmail.com")) (:maintainer "Ross A. Baker" . "ross@rossabaker.com") (:url . "https://github.com/emacs-lsp/lsp-metals"))])

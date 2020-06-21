@@ -5,6 +5,7 @@
 ;; Author: Oleh Krehel <ohwoeowho@gmail.com>
 ;; URL: https://github.com/abo-abo/helm-make
 ;; Package-Version: 0.1.0
+;; Package-Commit: 6558a79d20d04465419b312da198190be6832647
 ;; Version: 0.1
 ;; Package-Requires: ((helm "1.5.3") (projectile "0.11.0"))
 ;; Keywords: makefile

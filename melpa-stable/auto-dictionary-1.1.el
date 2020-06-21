@@ -6,6 +6,7 @@
 ;; Author: Nikolaj Schumacher <bugs * nschum de>
 ;; Version: 1.1
 ;; Package-Version: 1.1
+;; Package-Commit: 0e3567a81f7bb0ad53ed9f20c7d3d1ac40c26ad1
 ;; Keywords: wp
 ;; URL: http://nschum.de/src/emacs/auto-dictionary/
 ;; Compatibility: GNU Emacs 22.x, GNU Emacs 23.x, GNU Emacs 24.x

@@ -7,6 +7,7 @@
 ;; Author: Frédéric Perrin <frederic (dot) perrin (arobas) resel (dot) fr>
 ;; URL: http://github.com/jschaf/powershell.el
 ;; Package-Version: 0.1
+;; Package-Commit: 7316f44d0b528552f5a0692f778e5f0efd964299
 ;; Version: 0.3
 ;; Package-Requires: ((emacs "24))
 ;; Keywords: powershell, languages

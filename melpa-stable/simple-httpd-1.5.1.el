@@ -5,6 +5,7 @@
 ;; Author: Christopher Wellons <wellons@nullprogram.com>
 ;; URL: https://github.com/skeeto/emacs-http-server
 ;; Package-Version: 1.5.1
+;; Package-Commit: a5eb49a6567e33586fba15dd649d63ca6e964314
 ;; Version: 1.5.1
 ;; Package-Requires: ((cl-lib "0.3"))
 

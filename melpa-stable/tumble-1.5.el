@@ -9,6 +9,7 @@
 ;; Created: 1 Dec 2008
 ;; Version: 1.5
 ;; Package-Version: 1.5
+;; Package-Commit: a1db6dac5720b9f468a79e0efce04f77c0a458e3
 ;; Keywords: tumblr
 
 ;; This file is NOT part of GNU Emacs.

@@ -5,6 +5,7 @@
 ;; Author: Muir Manders <muir+emacs@mnd.rs>
 ;; Version: 0.1.0
 ;; Package-Version: 20200213.102
+;; Package-Commit: 4553fabbcd340f3f2fa59dbfb6f3f32ecb016e6f
 ;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: theme dark nova pastel faces
 ;; URL: https://github.com/muirmanders/emacs-nova-theme

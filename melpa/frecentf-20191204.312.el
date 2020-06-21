@@ -6,6 +6,7 @@
 ;; Homepage: https://launchpad.net/frecentf.el
 ;; Keywords: files maint
 ;; Package-Version: 20191204.312
+;; Package-Commit: 1d5d641fdd93480db2374276e85ec652af0565c5
 ;; Package-Requires: ((emacs "26.1") (frecency "0.1-pre") (persist "0.4"))
 ;; Version: 0.1
 

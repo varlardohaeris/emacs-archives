@@ -11,6 +11,7 @@
 ;; Created: 4 Jan 2015
 ;; Version: See git tag.
 ;; Package-Version: 0.3.4
+;; Package-Commit: 71e475ab35555e0a1eca26d73acf1ced911e422e
 ;; Keywords: reading, convenience, chill
 ;; URL: https://github.com/marcowahl/rope-read-mode
 

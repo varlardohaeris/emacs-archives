@@ -5,6 +5,7 @@
 ;; Author: Alexander I.Grafov <grafov@gmail.com> + all the contributors (see git log)
 ;; URL: https://github.com/grafov/rust-playground
 ;; Package-Version: 0.3
+;; Package-Commit: 092c8b11d62dea23953a004744833092bac85fe1
 ;; Version: 0.2.1
 ;; Keywords: tools, rust
 ;; Package-Requires: ((emacs "24.3"))

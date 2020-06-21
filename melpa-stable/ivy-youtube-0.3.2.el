@@ -5,6 +5,7 @@
 ;; Author: Brunno dos Santos
 ;; Version: 0.3.1
 ;; Package-Version: 0.3.2
+;; Package-Commit: 23e1089d4c4fc32db20df14ba10078aabf117e87
 ;; Package-Requires: ((request "0.2.0") (ivy "0.8.0") (cl-lib "0.5"))
 ;; URL: https://github.com/squiter/ivy-youtube
 ;; Created: 2017-Jan-02

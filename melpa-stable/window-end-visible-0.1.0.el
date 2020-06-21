@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/rolandwalker/window-end-visible
 ;; URL: http://raw.github.com/rolandwalker/window-end-visible/master/window-end-visible.el
 ;; Package-Version: 0.1.0
+;; Package-Commit: bdc3d182e5f76e75f1b8cc49357194b36e48b67c
 ;; Version: 0.1.0
 ;; Last-Updated: 29 Oct 2013
 ;; EmacsWiki: WindowEndVisible

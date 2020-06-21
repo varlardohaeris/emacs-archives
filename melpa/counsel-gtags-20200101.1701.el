@@ -6,6 +6,7 @@
 ;;         Felipe Lema <felipelema@mortemale.org>
 ;; URL: https://github.com/FelipeLema/emacs-counsel-gtags
 ;; Package-Version: 20200101.1701
+;; Package-Commit: 5d2a8c2c2d358e374a576cf8a3a67f7997a8839b
 ;; Version: 0.01
 ;; Package-Requires: ((emacs "25.1") (counsel "0.8.0") (seq "1.0"))
 

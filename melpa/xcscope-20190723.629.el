@@ -9,6 +9,7 @@
 ;;         Dima Kogan <dima@secretsauce.net>
 ;; Maintainer: Dima Kogan <dima@secretsauce.net>
 ;; Keywords: languages c
+;; Package-Commit: f3e2c84bd92f5a78182cc8d81f5358979a6c241c
 ;; Homepage: https://github.com/dkogan/xcscope.el
 ;; Package-Version: 20190723.629
 ;; Package-X-Original-Version: 1.0

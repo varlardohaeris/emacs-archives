@@ -7,6 +7,7 @@
 ;; Author: Vladimir Sidorenko <yoyavova@gmail.com>
 ;; Version: 0.7
 ;; Package-Version: 0.7
+;; Package-Commit: fc1d024a497755c1abfa3eaffde1b18bd3c54865
 
 ;; This file is not currently part of GNU Emacs.
 

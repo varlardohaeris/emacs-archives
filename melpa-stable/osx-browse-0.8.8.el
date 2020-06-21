@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/rolandwalker/osx-browse
 ;; URL: http://raw.github.com/rolandwalker/osx-browse/master/osx-browse.el
 ;; Package-Version: 0.8.8
+;; Package-Commit: 6186a6020e143e90d557c8d062c44fcdba0516c7
 ;; Version: 0.8.8
 ;; Last-Updated: 26 Oct 2013
 ;; EmacsWiki: OSXBrowse

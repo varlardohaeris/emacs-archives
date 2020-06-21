@@ -5,6 +5,7 @@
 ;; Author: coldnew <coldnew.tw@gmail.com>
 ;; Keywords: Octave, auto-complete, completion
 ;; Package-Version: 0.7
+;; Package-Commit: 6d09b94a86f43de84c60e9a699b5e1be61c0f138
 ;; Package-Requires: ((auto-complete "1.4.0"))
 ;; URL: https://github.com/coldnew/ac-octave
 ;; Version: 0.7

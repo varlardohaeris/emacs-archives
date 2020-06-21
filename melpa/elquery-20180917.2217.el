@@ -8,6 +8,7 @@
 
 ;; Keywords: html hypermedia tools webscale
 ;; Package-Version: 20180917.2217
+;; Package-Commit: eac429d8550fbf1582c57d5e16fed9f320d6eb30
 ;; Homepage: https://github.com/AdamNiederer/elquery
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "25.1") (s "1.11.0") (dash "2.13.0"))

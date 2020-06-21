@@ -8,6 +8,7 @@
 ;; Created: 3 April 2019
 ;; Version: 2019.04.03
 ;; Package-Version: 0.0.2
+;; Package-Commit: 353e3481a20fbd577ad79db8bbc6113ce179c195
 ;; Homepage: https://github.com/borkdude/flycheck-clj-kondo
 ;; Package-Requires: ((flycheck "0.18"))
 

@@ -8,6 +8,7 @@
 ;; Keyword: annotation linum reminder
 ;; Version: 0.2.3
 ;; Package-Version: 0.2.3
+;; Package-Commit: ea7fc43210b5293beac4ac453b1bdde415f5183e
 ;; Package-Requires: ((emacs "24.4") (cl-lib "0.6"))
 ;; URL: https://github.com/jcs090218/line-reminder
 

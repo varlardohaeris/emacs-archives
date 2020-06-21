@@ -5,6 +5,7 @@
 ;; Author: Guillaume Papin <guillaume.papin@epitech.eu>
 ;; Keywords: convenience
 ;; Package-Version: 1.1.0
+;; Package-Commit: 52aca45bcd0f2cb0648fcafa2bbb4f8ad4b2fee7
 ;; Version: 1.1.0
 ;; URL: https://github.com/Sarcasm/company-irony/
 ;; Package-Requires: ((emacs "24.1") (company "0.8.0") (irony "1.1.0") (cl-lib "0.5"))

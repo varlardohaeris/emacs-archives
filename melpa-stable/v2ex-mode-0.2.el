@@ -5,6 +5,7 @@
 ;; Author: Aborn Jiang <aborn.jiang@gmail.com>
 ;; Version: 0.1
 ;; Package-Version: 0.2
+;; Package-Commit: 7a59ac3be2b08d873ec271ec7a3d5ace309c1407
 ;; Package-Requires: ((cl-lib "0.5") (request "0.2") (let-alist "1.0.3"))
 ;; Keywords: v2ex, v2ex.com
 ;; Homepage: https://github.com/aborn/v2ex-mode

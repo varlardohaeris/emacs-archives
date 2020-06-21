@@ -3,6 +3,7 @@
 ;; Author: wouter bolsterlee <wouter@bolsterl.ee>
 ;; Keywords: languages
 ;; Package-Version: 1.0.0
+;; Package-Commit: 79c34d11ee6a34f190f1641a133d34b0808a1143
 ;; URL: https://github.com/wbolster/emacs-gvariant
 ;; Package-Requires: ((emacs "24") (parsec "0.1.3"))
 ;; Version: 1.0.0

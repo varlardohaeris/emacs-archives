@@ -6,6 +6,7 @@
 ;; Maintainer: Matúš Goljer <matus.goljer@gmail.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: dc10294af106ff3b110c372841eef0a8ec4c29c7
 ;; Created: 25th August 2018
 ;; Package-requires: ((emacs "24"))
 ;; Keywords: languages

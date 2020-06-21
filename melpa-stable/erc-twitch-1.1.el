@@ -4,6 +4,7 @@
 
 ;; Url: https://github.com/vibhavp/erc-twitch
 ;; Package-Version: 1.1
+;; Package-Commit: 6938191c787d66fef4c13674e0a98a9d64eff364
 ;; Author: Vibhav Pant <vibhavp@gmail.com>
 ;; Version: 1.0
 ;; Package-Requires: ((json "1.3") (erc "5.0"))

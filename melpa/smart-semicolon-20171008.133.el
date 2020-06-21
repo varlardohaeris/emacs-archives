@@ -5,6 +5,7 @@
 ;; Author:    Iku Iwasa <iku.iwasa@gmail.com>
 ;; URL:       https://github.com/iquiw/smart-semicolon
 ;; Package-Version: 20171008.133
+;; Package-Commit: bcea2aa37befa40abf8b24a2d2314904e6df43b3
 ;; Version:   0.2.1
 ;; Package-Requires: ((emacs "25"))
 

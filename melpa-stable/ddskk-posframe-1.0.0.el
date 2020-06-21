@@ -6,6 +6,7 @@
 ;; Maintainer: Naoya Yamashita <conao3@gmail.com>
 ;; Keywords: convenience
 ;; Package-Version: 1.0.0
+;; Package-Commit: 322a9ef8cdb7416dd137e7d2b1be1120126c05fc
 ;; Version: 1.0.0
 ;; URL: https://github.com/conao3/ddskk-posframe.el
 ;; Package-Requires: ((emacs "26.1") (ddskk "16.2.50"))

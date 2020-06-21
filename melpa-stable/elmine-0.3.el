@@ -5,6 +5,7 @@
 ;; Author: Arthur Andersen <leoc DOT git AT gmail.com>
 ;; Version: 0.3
 ;; Package-Version: 0.3
+;; Package-Commit: 091f61c70c9e7630a74b7b127488051d143a35e7
 ;; Keywords: tools
 
 ;; This file is NOT part of GNU Emacs.

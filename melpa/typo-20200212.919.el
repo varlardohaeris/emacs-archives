@@ -4,6 +4,7 @@
 
 ;; Version: 1.1
 ;; Package-Version: 20200212.919
+;; Package-Commit: 505b4b1ead337b773863ea54066f867d07735f9e
 ;; Author: Jorgen Schaefer <forcer@forcix.cx>
 ;; URL: https://github.com/jorgenschaefer/typoel
 ;; Created: 6 Feb 2012

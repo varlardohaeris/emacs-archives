@@ -4,6 +4,7 @@
 ;;; Homepage: https://github.com/purcell/flymake-css
 ;;; Version: DEV
 ;; Package-Version: 0.3
+;; Package-Commit: 3e56d47d3c53e39741aa4f702bb9fb827cce22ed
 ;;; Package-Requires: ((flymake-easy "0.1"))
 ;;
 ;;; Commentary:

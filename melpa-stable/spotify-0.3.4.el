@@ -7,6 +7,7 @@
 ;; Created: 18 Oct 2012
 ;; Keywords: convenience
 ;; Package-Version: 0.3.4
+;; Package-Commit: 29577cf1188161f98b8358c149aaf47b2c137902
 ;; Version: 0.3.4
 ;; URL: https://github.com/remvee/spotify-el
 ;; Package-Requires: ((cl-lib "0.5"))

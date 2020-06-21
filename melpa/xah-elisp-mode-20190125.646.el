@@ -5,6 +5,7 @@
 ;; Author: Xah Lee ( http://xahlee.info/ )
 ;; Version: 3.4.20190124224629
 ;; Package-Version: 20190125.646
+;; Package-Commit: a09c51e450bf4b39bdc3f4063c2946baec7ae3b1
 ;; Created: 23 Mar 2013
 ;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: lisp, languages

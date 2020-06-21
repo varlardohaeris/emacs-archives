@@ -9,6 +9,7 @@
 ;; Author: Bozhidar Batsov
 ;; URL: http://github.com/minad/emacs-slim
 ;; Package-Version: 1.1
+;; Package-Commit: fe8abb644b7b9cc0ed1e76d9ca8d6c01edccbdb8
 ;; Version: 1.1
 ;; Keywords: markup, language
 

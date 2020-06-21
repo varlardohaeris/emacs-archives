@@ -5,6 +5,7 @@
 ;; Author: Tomohiro Matsuyama <tomo@cx4a.org>
 ;; Keywords: convenience
 ;; Package-Version: 0.1
+;; Package-Commit: 939f4e9a3f08d83925b41dd3d23b2321f3f6b09c
 ;; Version: 0.1
 
 ;; This program is free software; you can redistribute it and/or modify

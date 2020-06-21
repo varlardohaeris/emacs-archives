@@ -5,6 +5,7 @@
 ;; Author:  Sergey Kostyaev <feo.me@ya.ru>
 ;; Keywords: tools
 ;; Package-Version: 0.1
+;; Package-Commit: 3c97c92e78f3629a7a1069404c7c641881c16d0e
 
 ;; Version:  0.1.0
 ;; URL: https://github.com/s-kostyaev/go-fill-struct

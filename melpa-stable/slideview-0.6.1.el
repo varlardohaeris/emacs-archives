@@ -3,6 +3,7 @@
 ;; Author: Masahiro Hayashi <mhayashi1120@gmail.com>
 ;; URL: https://github.com/mhayashi1120/Emacs-slideview/raw/master/slideview.el
 ;; Package-Version: 0.6.1
+;; Package-Commit: ec2340e7b0e74201206d14e3eaef1e77149f122d
 ;; Keywords: files
 ;; Emacs: GNU Emacs 22 or later
 ;; Version: 0.6.1

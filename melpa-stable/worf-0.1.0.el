@@ -5,6 +5,7 @@
 ;; Author: Oleh Krehel <ohwoeowho@gmail.com>
 ;; URL: https://github.com/abo-abo/worf
 ;; Package-Version: 0.1.0
+;; Package-Commit: f36755447b588b739b2bf6ab0fb5eb5f4d8db3df
 ;; Version: 0.1
 ;; Package-Requires: ((swiper "0.7.0") (ace-link "0.1.0") (hydra "0.13.0"))
 ;; Keywords: lisp

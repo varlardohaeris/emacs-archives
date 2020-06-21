@@ -5,6 +5,7 @@
 ;; Author: Magnar Sveen <magnars@gmail.com>
 ;; Version: 0.1.0
 ;; Package-Version: 0.1.0
+;; Package-Commit: 5ab75594a7a0ca236e2ac87882ee439ff6155d96
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

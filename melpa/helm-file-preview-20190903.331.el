@@ -8,6 +8,7 @@
 ;; Keyword: file helm preview select selection
 ;; Version: 0.1.4
 ;; Package-Version: 20190903.331
+;; Package-Commit: 6ab26c5fb414a0c1232974fd3f888839b6844203
 ;; Package-Requires: ((emacs "24.4") (helm "2.0"))
 ;; URL: https://github.com/jcs090218/helm-file-preview
 

@@ -8,6 +8,7 @@
 ;; Created: 5 Oct 2003
 ;; Version: 0.2
 ;; Package-Version: 1.2
+;; Package-Commit: 556270ce8b97668a65e9ec20a05f78c3dffeac60
 ;; Keywords: nemerle, mode, languages
 ;; Website: http://nemerle.org
 

@@ -4,6 +4,7 @@
 ;; Author: Dave Pearson <davep@davep.org>
 ;; Version: 1.4
 ;; Package-Version: 1.4
+;; Package-Commit: 74be68b94143f042ce461b2a69202f515acaf20c
 ;; Keywords: games, trivia, maths, numbers
 ;; URL: https://github.com/davep/numbers.el
 ;; Package-Requires: ((emacs "24"))

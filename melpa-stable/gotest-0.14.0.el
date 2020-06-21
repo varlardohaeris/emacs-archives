@@ -3,6 +3,7 @@
 ;; Author: Nicolas Lamirault <nicolas.lamirault@gmail.com>
 ;; URL: https://github.com/nlamirault/gotest.el
 ;; Package-Version: 0.14.0
+;; Package-Commit: 8a5ef7363f83edb3b77c5e23876f13dd8c23b2b9
 ;; Version: 0.14.0
 ;; Keywords: languages, go, tests
 

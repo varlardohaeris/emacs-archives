@@ -5,6 +5,7 @@
 ;; Author: Aldric Giacomoni <trevoke@gmail.com>
 ;; URL: https://github.com/trevoke/sqlup-mode.el
 ;; Package-Version: 0.8.0
+;; Package-Commit: 04970977b4abb4d44301651618bbf1cdb0b263dd
 ;; Created: Jun 25 2014
 ;; Version: 0.8.0
 ;; Keywords: sql, tools, redis, upcase

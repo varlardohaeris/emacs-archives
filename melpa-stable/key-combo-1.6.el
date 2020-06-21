@@ -27,6 +27,7 @@
 ;; Maintainer: Vitalie Spinu <spinuvit@gmail.com>
 ;; URL: https://github.com/uk-ar/key-combo
 ;; Package-Version: 1.6
+;; Package-Commit: 0bc0cf6466a4257047a21a6d01913e92e6862165
 ;; Created: 30 November 2011
 ;; Version: 1.5.9
 ;; Keywords: keyboard input

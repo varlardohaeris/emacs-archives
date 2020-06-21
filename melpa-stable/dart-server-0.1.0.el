@@ -5,6 +5,7 @@
 ;; Maintainer: Brady Trainor <mail@bradyt.com>
 ;; URL: https://github.com/bradyt/dart-server
 ;; Package-Version: 0.1.0
+;; Package-Commit: bbc66eb981d17046ab98584c950baf963ac5da61
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.5") (cl-lib "0.5") (dash "2.10.0") (flycheck "0.23") (s "1.10"))
 ;; Keywords: languages

@@ -5,6 +5,7 @@
 ;; Author: Xah Lee ( http://xahlee.info/ )
 ;; Version: 2.11.20200309092113
 ;; Package-Version: 20200309.1750
+;; Package-Commit: 43dbab2b8c35bd6892fe80bf064b41bd731545ff
 ;; Created: 18 April 2013
 ;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: languages, convenience, css, color

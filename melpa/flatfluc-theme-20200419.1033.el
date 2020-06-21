@@ -18,6 +18,7 @@
 ;; Author: Sébastien Le Maguer <lemagues@tcd.ie>
 ;; URL: https://github.com/seblemaguer/flatfluc-theme
 ;; Package-Version: 20200419.1033
+;; Package-Commit: f81bb130be69e9f321e2085b627387074d23a253
 ;; Keywords: lisp
 ;; Version: 0.5
 ;; Package-Requires: ((emacs "26.1"))

@@ -5,6 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; URL: https://github.com/purcell/ac-slime
 ;; Package-Version: 0.8
+;; Package-Commit: df6c4e88b5ba2d15d47a651ecf7edc0986624112
 ;; Version: DEV
 ;; Package-Requires: ((auto-complete "1.4") (slime "2.9") (cl-lib "0.5"))
 

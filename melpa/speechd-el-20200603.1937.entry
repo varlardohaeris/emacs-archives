@@ -1,0 +1,2 @@
+
+(speechd-el . [(20200603 1937) nil "Client to speech synthesizers and Braille displays." tar ((:commit . "3b32ed964e8a18bab47fe54d64425ec03a7230a6"))])

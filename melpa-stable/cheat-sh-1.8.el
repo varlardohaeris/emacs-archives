@@ -4,6 +4,7 @@
 ;; Author: Dave Pearson <davep@davep.org>
 ;; Version: 1.8
 ;; Package-Version: 1.8
+;; Package-Commit: bd970d7c576b8720d63a1e7fd88ea8a943f2160b
 ;; Keywords: docs, help
 ;; URL: https://github.com/davep/cheat-sh.el
 ;; Package-Requires: ((emacs "25.1"))

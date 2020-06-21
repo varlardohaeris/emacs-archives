@@ -3,6 +3,7 @@
 ;; Author: Alex Griffin <a@ajgrf.com>
 ;; URL: https://github.com/ajgrf/parchment
 ;; Package-Version: 0.3.0
+;; Package-Commit: b4dabed7939f8cf052c858ba29e295eee3f0ca13
 ;; Version: 0.3.0
 ;; Package-Requires: ((emacs "24"))
 

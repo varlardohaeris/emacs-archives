@@ -2,6 +2,7 @@
 
 ;; Authors: stardiviner <numbchild@gmail.com>
 ;; Package-Requires: ((emacs "24.4") (cl-lib "0.5"))
+;; Package-Commit: 1aac19daaec811deb9afe45eea4929309c09ac8b
 ;; Package-Version: 20180121.920
 ;; Package-X-Original-Version: 0.1
 ;; Keywords: dict goldendict

@@ -6,6 +6,7 @@
 ;; Maintainer: Joe Bloggs <vapniks@yahoo.com>
 ;; Version: 20130623.1701
 ;; Package-Version: 20130623.1701
+;; Package-Commit: 4bfb4c6f4769bd6c637e4c18bbf65506832fc9f0
 ;; Last-Updated: 2013-06-23 16:42:00
 ;;           By: Joe Bloggs
 ;; URL: https://github.com/vapniks/hide-lines

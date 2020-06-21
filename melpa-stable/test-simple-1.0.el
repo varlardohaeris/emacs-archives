@@ -6,6 +6,7 @@
 ;; Author: Rocky Bernstein
 ;; URL: http://github.com/rocky/emacs-test-simple
 ;; Package-Version: 1.0
+;; Package-Commit: 75eea25bae04d8e5e3e835a2770f02f0ff4602c4
 ;; Keywords: unit-test
 ;; Version: 1.0
 

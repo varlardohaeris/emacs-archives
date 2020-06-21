@@ -5,6 +5,7 @@
 ;; Author: Hiroaki Otsu <ootsuhiroaki@gmail.com>
 ;; Keywords: convenience
 ;; Package-Version: 0.0.5
+;; Package-Commit: 279f3ab79bd77fe69cb3148a79896b9bf118a9b3
 ;; URL: https://github.com/aki2o/caskxy
 ;; Version: 0.0.5
 ;; Package-Requires: ((log4e "0.2.0") (yaxception "0.1"))

@@ -5,6 +5,7 @@
 
 ;; Version: 1.0.8
 ;; Package-Version: 1.0.8
+;; Package-Commit: bf76d717c60f33d223cdac35513105e9f9244885
 ;; Author: Shin Aoyama <smihica@gmail.com>
 ;; URL: https://github.com/smihica/emmet-mode
 ;; Last-Updated: 2014-02-19 Wed

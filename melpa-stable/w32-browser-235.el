@@ -8,6 +8,7 @@
 ;; Created: Thu Mar 11 13:40:52 2004
 ;; Version: 0
 ;; Package-Version: 235
+;; Package-Commit: a8126b60bf18193e8e4ec6f699b5694b6f71a062
 ;; Package-Requires: ()
 ;; Last-Updated: Thu Dec 26 09:55:59 2013 (-0800)
 ;;           By: dradams

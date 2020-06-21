@@ -7,6 +7,7 @@
 ;; Compatibility: GNU Emacs 24.1+
 ;; Package-Requires: ((emacs "24") (cl-lib "0.5"))
 ;; Package-Version: 1.1
+;; Package-Commit: 6fe38fdd48ef5305a908b94a043a966ac3f2053a
 
 ;; This file is not part of GNU Emacs.
 

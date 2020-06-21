@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-sourcemap
 ;; Package-Version: 0.3
+;; Package-Commit: 64c89d296186f48d9135fb8aad501de19f64bceb
 ;; Version: 0.03
 ;; Package-Requires: ((emacs "24.3"))
 

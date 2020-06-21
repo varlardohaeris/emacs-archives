@@ -5,6 +5,7 @@
 ;; Author: Nathan Weizenbaum
 ;; URL: http://github.com/nex3/haml/tree/master
 ;; Package-Version: 3.0.18
+;; Package-Commit: 26a66e331b507fb420e3bb7d0a6a8fbb04294343
 ;; Version: 3.0.16
 ;; Created: 2007-03-15
 ;; By: Nathan Weizenbaum

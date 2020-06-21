@@ -5,6 +5,7 @@
 ;; Author: 0x60DF <0x60DF@gmail.com>
 ;; URL: https://github.com/0x60df/ox-qmd
 ;; Package-Version: 20170402.1657
+;; Package-Commit: 3a24c7a0b3ec80e494b977e14a3dfb94c9f1d8ec
 ;; Version: 1.0.0
 ;; Package-Requires: ((org "8.0"))
 ;; Keywords: org, wp, markdown, qiita

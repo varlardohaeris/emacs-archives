@@ -6,6 +6,7 @@
 ;; Package-Version: 20180527.1
 ;; Package-X-Original-Version: 20180527.1
 ;; Package-Requires: ((emacs "24.4"))
+;; Package-Commit: c62f4e04c7b73835c399f0348bea0ade2720bcbb
 ;; URL: https://github.com/joewreschnig/auto-minor-mode
 ;; Keywords: convenience
 ;;

@@ -1,5 +1,6 @@
 ;; gitolite-conf-mode.el --- major-mode for editing gitolite config files
 ;; Package-Version: 0.3
+;; Package-Commit: 1a53e548277eb9c669bbeda4bee9be32be7a82ec
 ;;
 ;; Provides navigation utilities, syntax highlighting and indentation for
 ;; gitolite configuration files (gitolite.conf)

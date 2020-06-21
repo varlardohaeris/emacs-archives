@@ -4,6 +4,7 @@
 
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Keywords: convenience
+;; Package-Commit: 59770cf3572bd36c3e9ba044846dc420c0dca09b
 ;; Package-Version: 0.1
 ;; Package-X-Original-Version: 0
 ;; Package-Requires: ((cl-lib "0.5"))

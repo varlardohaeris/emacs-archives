@@ -3,6 +3,7 @@
 ;;; Author: Steve Purcell <steve@sanityinc.com>
 ;;; URL: https://github.com/purcell/flymake-hlint
 ;; Package-Version: 0.2
+;; Package-Commit: d540e250a80a09da3036c16bf86f9deb6d738c9c
 ;;; Version: DEV
 ;;; Package-Requires: ((flymake-easy "0.1"))
 ;;;

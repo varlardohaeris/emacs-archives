@@ -9,6 +9,7 @@
 ;; Maintainer: Ryan C. Thompson <rct@thompsonclan.org>
 ;; URL: http://github.com/DarwinAwardWinner/amx/
 ;; Package-Version: 3.3
+;; Package-Commit: 394734e42aa8c43940df358e77a69248b42f2a9c
 ;; Package-Requires: ((emacs "24.4") (s "0"))
 ;; Version: 3.3
 ;; Keywords: convenience, usability

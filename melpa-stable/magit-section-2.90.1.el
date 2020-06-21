@@ -1,5 +1,6 @@
 ;;; magit-section.el --- section functionality  -*- lexical-binding: t -*-
 ;; Package-Version: 2.90.1
+;; Package-Commit: 791901b2f1d26fa0a383147fe77948a9abc753da
 
 ;; Copyright (C) 2010-2018  The Magit Project Contributors
 ;;

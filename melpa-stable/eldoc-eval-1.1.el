@@ -5,6 +5,7 @@
 ;; Author: Thierry Volpiatto <thierry.volpiatto@gmail.com>
 ;; Version: 0.1
 ;; Package-Version: 1.1
+;; Package-Commit: deca5e39f31282a06531002d289258cd099433c0
 
 ;; This file is part of GNU Emacs.
 

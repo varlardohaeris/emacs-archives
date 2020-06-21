@@ -6,6 +6,7 @@
 ;; Created: 2020-02-11
 ;; URL: https://github.com/danielsz/meyvn-el
 ;; Package-Version: 1.0
+;; Package-Commit: 3119214ff45db630789f9371f956d5ac06229b1d
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "25.1"))
 

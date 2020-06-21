@@ -5,6 +5,7 @@
 ;; Author: Ivan Malison <IvanMalison@gmail.com>
 ;; Keywords: org-mode projectile todo tools outlines
 ;; Package-Version: 1.1.0
+;; Package-Commit: 48f621b595e748c5e03431f237facf258ffc9443
 ;; URL: https://github.com/IvanMalison/org-projectile
 ;; Version: 1.1.0
 ;; Package-Requires: ((projectile "0.11.0") (dash "2.10.0") (emacs "24") (s "1.9.0") (org-category-capture "0.0.0"))

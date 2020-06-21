@@ -6,6 +6,7 @@
 ;; Maintainer: Phillip Lord <phillip.lord@newcastle.ac.uk>
 ;; Version: 4.1
 ;; Package-Version: 4.1
+;; Package-Commit: 127a8b10cf352b0491fefd2f4178ba78ee587564
 
 ;; The contents of this file are subject to the GPL License, Version 3.0.
 ;;

@@ -6,6 +6,7 @@
 
 ;; Package-Requires: ((emacs "24.3") (s "1.11.0"))
 ;; Package-Version: 1.0.0
+;; Package-Commit: 0f51b174a0ee6c9820baf9d79783923b270f3ffc
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

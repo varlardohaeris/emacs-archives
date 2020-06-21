@@ -21,6 +21,7 @@
 ;; Keywords	    : files
 ;; Package-Requires : ((emacs "25.1"))
 ;; Package-Version: 0.1
+;; Package-Commit: 32cf3b6f90dc56f6ff271c28d827aab303bc6221
 ;; URL		    : https://github.com/mattiasb/.emacs.d
 ;; Doc URL	    : TBA
 

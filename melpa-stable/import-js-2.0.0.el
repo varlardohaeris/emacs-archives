@@ -4,6 +4,7 @@
 ;; Author: Kevin Kehl <kevin.kehl@gmail.com>
 ;; URL: http://github.com/Galooshi/emacs-import-js/
 ;; Package-Version: 2.0.0
+;; Package-Commit: 0a1032894445062b87dbe4e2c8cdba35ac25c250
 ;; Package-Requires: ((grizzl "0.1.0") (emacs "24"))
 ;; Version: 1.0.0
 ;; Keywords: javascript

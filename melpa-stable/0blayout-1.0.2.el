@@ -4,6 +4,7 @@
 
 ;; Author: Elis "etu" Axelsson
 ;; URL: https://github.com/etu/0blayout
+;; Package-Commit: b8bb44b5336965b5519b9a826a0f46f8ee31c471
 ;; Package-Version: 1.0.2
 ;; Package-X-Original-Version: 20160918.0
 ;; Version: 1.0.2

@@ -19,6 +19,7 @@
 ;; Created: Tue Nov  3 22:33:41 2012 (-0500)
 ;; Version: 0.5
 ;; Package-Version: 0.5
+;; Package-Commit: e40d2821ff941695e50a9b003a8c96d32c19bfdc
 ;; URL: https://github.com/cestdiego/sweetgreen.el
 ;; Package-Requires: ((dash "2.12.1") (helm "1.5.6") (request "0.2.0") (cl-lib "0.5"))
 ;; Keywords: salad, food, sweetgreen, request

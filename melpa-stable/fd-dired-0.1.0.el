@@ -6,6 +6,7 @@
 ;; Created:  3 July 2018
 ;; Keywords: tools, fd, find, dired
 ;; Package-Version: 0.1.0
+;; Package-Commit: d90ec902f417c194e44697f73a9d6cbfd0cf7216
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

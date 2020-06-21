@@ -4,6 +4,7 @@
 
 ;; Version: 1.0.6
 ;; Package-Version: 1.0.6
+;; Package-Commit: 4e1c254d74bc1773c92f1613c3865cdcb4bc7095
 ;; Author: Shingo Fukuyama - http://fukuyama.co
 ;; URL: https://github.com/ShingoFukuyama/ov.el
 ;; Created: Mar 20 2014

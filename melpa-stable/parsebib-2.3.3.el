@@ -8,6 +8,7 @@
 ;; Created: 2014
 ;; Version: 2.3
 ;; Package-Version: 2.3.3
+;; Package-Commit: 683c970a6fb51591bc88ee80e295fedee876e044
 ;; Keywords: text bibtex
 ;; Package-Requires: ((emacs "24.3"))
 

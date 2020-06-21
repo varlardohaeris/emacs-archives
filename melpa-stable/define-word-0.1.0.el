@@ -5,6 +5,7 @@
 ;; Author: Oleh Krehel <ohwoeowho@gmail.com>
 ;; URL: https://github.com/abo-abo/define-word
 ;; Package-Version: 0.1.0
+;; Package-Commit: 38e2f94779652fc6280a51b68dc910431513a8e1
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.1"))
 ;; Keywords: dictionary, convenience

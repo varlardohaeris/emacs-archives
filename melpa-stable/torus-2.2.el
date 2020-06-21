@@ -7,6 +7,7 @@
 ;; Package-Version: 2.2
 ;; Package-X-Original-Version: 2.0
 ;; Package-requires: ((emacs "26") (duo "0"))
+;; Package-Commit: 2fa2c92bf2c66d87ddcd519277e469f67c6615a9
 ;; Keywords: files, buffers, groups, persistent, history, layout, tabs
 ;; URL: https://github.com/chimay/torus
 

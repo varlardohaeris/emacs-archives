@@ -5,6 +5,7 @@
 ;; Author: Eric Dallo
 ;; Version: 0.1.0
 ;; Package-Version: 1.1.3
+;; Package-Commit: 6f9ed1a6517e3a43ef2deafc2f86c70b2abce008
 ;; Package-Requires: ((emacs "24.5"))
 ;; Keywords: hover, flutter, mobile, tools
 ;; URL: https://github.com/ericdallo/hover.el

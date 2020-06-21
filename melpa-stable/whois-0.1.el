@@ -5,6 +5,7 @@
 ;; Author: Lassi Kortela <lassi@lassi.io>
 ;; URL: https://github.com/lassik/emacs-whois
 ;; Package-Version: 0.1
+;; Package-Commit: b4cdab4d25225c6e834727a7d85cdb0d493da152
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: network comm

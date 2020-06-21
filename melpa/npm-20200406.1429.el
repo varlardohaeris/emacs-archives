@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/shaneikennedy/npm.el
 ;; Package-Requires: ((emacs "25.1") (transient "0.1.0"))
 ;; Package-Version: 20200406.1429
+;; Package-Commit: 187ddd2732deb49df1e87fbaace153afb8a3e7e1
 ;; Keywords: tools
 ;; Version: 0
 

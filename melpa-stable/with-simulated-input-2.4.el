@@ -7,6 +7,7 @@
 ;; Created: Thu Jul 20 11:56:23 2017 (-0700)
 ;; Version: 2.4
 ;; Package-Version: 2.4
+;; Package-Commit: 3d881793521c5618cdb0968a85879e0e49da7fca
 ;; Package-Requires: ((emacs "24.4") (seq "2.0") (s "0"))
 ;; URL:
 ;; Keywords: lisp, tools, extensions

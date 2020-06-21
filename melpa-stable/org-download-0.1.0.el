@@ -5,6 +5,7 @@
 ;; Author: Oleh Krehel
 ;; URL: https://github.com/abo-abo/org-download
 ;; Package-Version: 0.1.0
+;; Package-Commit: a57beffd0f09b218a9487d1750960878c1d5b12c
 ;; Version: 0.1.0
 ;; Package-Requires: ((async "1.2"))
 ;; Keywords: images, screenshots, download

@@ -5,6 +5,7 @@
 ;; Author: Stephen Pegoraro <spegoraro@tutive.com>
 ;; Version: 0.1.0
 ;; Package-Version: 0.1.0
+;; Package-Commit: 685c18aa5ce994360c7f9e8bbf49590c412187ac
 ;; Package-Requires: ((s "1.10.0") (dash "2.12.0") (alert "1.2"))
 ;; Keywords: org, org-mode, notify, notifications
 ;; URL: https://github.com/groksteve/org-alert

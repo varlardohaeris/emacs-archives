@@ -5,6 +5,7 @@
 ;; Author: ZHOU Feng <zf.pascal@gmail.com>
 ;; URL: http://github.com/zweifisch/enlive
 ;; Package-Version: 0.0.1
+;; Package-Commit: 60facaf8bc48b660d209551c0ce4d17e5c907ab8
 ;; Keywords: css selector query
 ;; Version: 0.0.1
 ;; Created: 2st July 2015

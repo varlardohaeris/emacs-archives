@@ -3,6 +3,7 @@
 ;; Author: Masahiro Hayashi <mhayashi1120@gmail.com>
 ;; Keywords: matching, convenience, tools
 ;; Package-Version: 1.1.0
+;; Package-Commit: 303af57dd2ae0fc1363a3d1a84d475167f58c84a
 ;; URL: https://github.com/mhayashi1120/Emacs-gather/raw/master/gather.el
 ;; Emacs: GNU Emacs 21 or later
 ;; Version: 1.1.0

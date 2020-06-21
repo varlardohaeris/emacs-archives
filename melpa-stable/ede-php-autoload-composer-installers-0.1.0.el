@@ -6,6 +6,7 @@
 ;; Created: January 29, 2017
 ;; Version: 0.1.0
 ;; Package-Version: 0.1.0
+;; Package-Commit: f9942e07d0773444040084ac84652e69f0fd46d5
 ;; Package-Requires: ((ede-php-autoload "20170212.450") (f "0.19.0") (s "1.7.0"))
 ;; Keywords: programming, php
 ;; Homepage: https://github.com/xendk/ede-php-autoload-composer-installers

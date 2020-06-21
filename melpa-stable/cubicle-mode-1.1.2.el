@@ -3,6 +3,7 @@
 ;; Author: Alain Mebsout
 ;; Version: 0.2
 ;; Package-Version: 1.1.2
+;; Package-Commit: b043b0247bf9b144a5c3360e5096a4b141dd1fb6
 
 ;; (C) Copyright 2011-2017 Sylvain Conchon and Alain Mebsout, Universite
 ;; Paris-Sud 11.

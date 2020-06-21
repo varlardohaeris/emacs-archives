@@ -6,6 +6,7 @@
 ;; Maintainer: Matthew Carter <m@ahungry.com>
 ;; URL: https://github.com/ahungry/color-theme-ahungry
 ;; Package-Version: 1.10.0
+;; Package-Commit: 45bf75f17752c8e8dd4c8a4531c0aa419cdccb84
 ;; Version: 1.10.0
 ;; Keywords: ahungry palette color theme emacs color-theme deftheme
 ;; Package-Requires: ((emacs "24"))

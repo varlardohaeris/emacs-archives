@@ -6,6 +6,7 @@
 ;; Maintainer: Kris Jenkins <krisajenkins@gmail.com>
 ;; Keywords: lisp languages
 ;; Package-Version: 0.3.5
+;; Package-Commit: 9a4200085e2a15725a58616d131a56f5edce214b
 ;; URL: https://github.com/krisajenkins/lispyscript-mode
 ;; Created: 16th April 2013
 ;; Version: 0.3.4

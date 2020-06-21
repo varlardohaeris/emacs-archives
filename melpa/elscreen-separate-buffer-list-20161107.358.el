@@ -3,6 +3,7 @@
 ;; Author: wamei <wamei.cho@gmail.com>
 ;; Keywords: elscreen
 ;; Package-Version: 20161107.358
+;; Package-Commit: 7652d827aa1b8c1b04303c5b4b0bda5e8f85565e
 ;; Version: 0.1.3
 ;; Package-Requires: ((emacs "24.4") (elscreen "1.4.6"))
 

@@ -9,6 +9,7 @@
 ;; Author:           Cayetano Santos
 ;; Keywords: languages, convenience
 ;; Package-Version: 6.2
+;; Package-Commit: 5202db4c6a511a90a950a723293d11d55ec05264
 ;; Filename: vhdl-tools.el
 ;; Description: Utilities for navigating vhdl sources.
 ;; URL: https://github.com/csantosb/vhdl-tools/wiki

@@ -1,0 +1,2 @@
+
+(haskell-tab-indent . [(0 3) nil "tab-based indentation for haskell-mode" single ((:commit . "1127f46eca40a48be9cd2380df2cfc5f0b694e63") (:keywords "indentation" "haskell") (:authors ("Sean Whitton" . "spwhitton@spwhitton.name")) (:maintainer "Sean Whitton" . "spwhitton@spwhitton.name") (:url . "https://spwhitton.name/tech/code/haskell-tab-indent/"))])

@@ -5,6 +5,7 @@
 ;; Author: Anthony HAMON <hamon.anth@gmail.com>
 ;; URL: http://github.com/antham/anyins
 ;; Package-Version: 0.1.1
+;; Package-Commit: 1ff4673ca197c9bf64c65f718573bf7d478fc562
 ;; Version: 0.1.0
 ;; Keywords: insert, rectangular
 

@@ -3,6 +3,7 @@
 ;; Author: Fernando Jascovich
 ;; Keywords: android, gradle, java, tools, convenience
 ;; Package-Version: 20190720.1927
+;; Package-Commit: dcb0bff0e77257266201cf1ccf17e7ca94e67fb1
 ;; Version: 0.1
 ;; Url: https://github.com/fernando-jascovich/android-env.el
 ;; Package-Requires: ((emacs "24.3"))

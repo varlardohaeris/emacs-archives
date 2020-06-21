@@ -7,6 +7,7 @@
 ;; Maintainer: Roman Gonzalez <romanandreg@gmail.com>
 ;; Version: 0.0.11
 ;; Package-Version: 0.0.11
+;; Package-Commit: 4a4831ed4e42e18976edd16b844cb16cb78f3c17
 ;; Package-Requires: ((projectile "0.11.0") (dash "2.10"))
 ;; Keywords: org
 

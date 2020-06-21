@@ -4,6 +4,7 @@
 ;; Maintainer: Augustin Fabre <augustin@augfab.fr>
 ;; Package-Requires: ((emacs "24") (slime "2.3.1"))
 ;; Package-Version: 20190426.1414
+;; Package-Commit: fdd0c7a75a217abca2ff16ab9281d55f392bd841
 ;; Keywords: lisp
 ;; URL: https://gitlab.com/augfab/slime-repl-ansi-color
 ;; Version: 0.1

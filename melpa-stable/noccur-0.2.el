@@ -5,6 +5,7 @@
 ;; Author: Nicolas Petton <petton.nicolas@gmail.com>
 ;; Keywords: convenience
 ;; Package-Version: 0.2
+;; Package-Commit: 6cc02ce07178a61ae38a849f80472c01969272bc
 ;; Version: 0.2
 ;; Package: noccur
 ;; Package-Requires: ()

@@ -5,6 +5,7 @@
 ;; Author: Hiroki YAMAKAWA <s06139@gmail.com>
 ;; URL: https://github.com/HKey/el-init
 ;; Package-Version: 0.2.0
+;; Package-Commit: 25fd21d820bca1cf576b8f70c8d5a3bc76792597
 ;; Version: 0.2.0
 ;; Package-Requires: ((emacs "24") (cl-lib "0.5") (anaphora "1.0.0"))
 ;; Keywords:

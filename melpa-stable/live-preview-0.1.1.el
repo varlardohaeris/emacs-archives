@@ -5,6 +5,7 @@
 ;; Author: Lassi Kortela <lassi@lassi.io>
 ;; URL: https://github.com/lassik/emacs-live-preview
 ;; Package-Version: 0.1.1
+;; Package-Commit: 448d6d2b0912a46acd7d9a9b186b53425b1a7626
 ;; Version: 0.1.1
 ;; Package-Requires: ((emacs "24.4"))
 ;; Keywords: languages util

@@ -5,6 +5,7 @@
 ;; Author: Kiyoka Nishiyama <kiyoka@sumibi.org>
 ;; Version: 1.8.0          ;;SEKKA-VERSION
 ;; Package-Version: 1.8.0
+;; Package-Commit: d1fd5d47aacba723631d5d374169a45ff2051c41
 ;; Keywords: ime, skk, japanese
 ;; Package-Requires: ((cl-lib "0.3") (concurrent "0.3.1") (popup "0.5.2"))
 ;; URL: https://github.com/kiyoka/sekka

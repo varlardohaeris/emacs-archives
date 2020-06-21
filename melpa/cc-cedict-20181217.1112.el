@@ -7,6 +7,7 @@
 ;; Created: 2018-12-03
 ;; Version: 0.1
 ;; Package-Version: 20181217.1112
+;; Package-Commit: 0dd9bcd5337c8f16fc9c8d27daba4a9362695c99
 ;; Package-Requires: ((emacs "25"))
 
 ;; This program is free software; you can redistribute it and/or modify

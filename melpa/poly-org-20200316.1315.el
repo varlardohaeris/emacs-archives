@@ -5,6 +5,7 @@
 ;; Copyright (C) 2013-2020 Vitalie Spinu
 ;; Version: 0.2.2
 ;; Package-Version: 20200316.1315
+;; Package-Commit: 8f4d11489532be98a291258ca27405aa528fc126
 ;; Package-Requires: ((emacs "25") (polymode "0.2.2"))
 ;; URL: https://github.com/polymode/poly-org
 ;; Keywords: languages, multi-modes

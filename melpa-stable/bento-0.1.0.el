@@ -5,6 +5,7 @@
 ;; Author: Ash Zahlen <ash@returntocorp.com>
 ;; License: GPLv3
 ;; URL: https://github.com/returntocorp/bento-emacs
+;; Package-Commit: 116839c7d50342e62a2832715ba850d8bf04362e
 ;; Version: 0.1.0
 ;; Package-Version: 0.1.0
 ;; Package-X-Original-Version: 0.1.0

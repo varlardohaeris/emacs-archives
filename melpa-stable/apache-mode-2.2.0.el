@@ -9,6 +9,7 @@
 ;; License: GPL-2.0-or-later
 ;; Keywords: languages, faces
 ;; Package-Version: 2.2.0
+;; Package-Commit: 354f9302a8d805ac80d846adcd1cef10830b3d51
 ;; Version: 2.2.0
 
 ;; apache-mode.el is free software; you can redistribute it and/or modify it

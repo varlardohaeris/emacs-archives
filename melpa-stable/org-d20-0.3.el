@@ -5,6 +5,7 @@
 ;; Author: Sean Whitton <spwhitton@spwhitton.name>
 ;; URL: https://spwhitton.name/tech/code/org-d20/
 ;; Package-Version: 0.3
+;; Package-Commit: e0fb2c04a55c55cbf59a85a0b2e23ef18370ca61
 ;; Version: 0.3
 ;; Package-Requires: ((s "1.11.0") (seq "2.19") (dash "2.12.0") (emacs "24"))
 ;; Keywords: outlines games

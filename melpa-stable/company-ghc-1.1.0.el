@@ -5,6 +5,7 @@
 ;; Author:    Iku Iwasa <iku.iwasa@gmail.com>
 ;; URL:       https://github.com/iquiw/company-ghc
 ;; Package-Version: 1.1.0
+;; Package-Commit: 64e4f9d0cf9377138a8dee34c69e7d578fd71090
 ;; Version:   1.1.0
 ;; Package-Requires: ((cl-lib "0.5") (company "0.8.0") (ghc "5.1.0") (emacs "24"))
 ;; Keywords:  haskell, completion

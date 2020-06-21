@@ -6,6 +6,7 @@
 ;; X-URL: https://github.com/purcell/unfill
 ;; Version: DEV
 ;; Package-Version: 0.2
+;; Package-Commit: 88186dce0de69e8f4aeaf2bfdc77d62210f19cd8
 ;; Keywords: utilities
 
 ;;; Commentary:

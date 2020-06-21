@@ -5,6 +5,7 @@
 ;; Author: Artem Malyshev <proofit404@gmail.com>
 ;; URL: https://github.com/proofit404/anaconda-mode
 ;; Package-Version: 20200129.1718
+;; Package-Commit: 10299bd9ff38c4f0da1d892905d02ef828e7fdce
 ;; Version: 0.1.13
 ;; Package-Requires: ((emacs "25.1") (pythonic "0.1.0") (dash "2.6.0") (s "1.9") (f "0.16.2"))
 

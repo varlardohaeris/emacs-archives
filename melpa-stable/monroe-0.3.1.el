@@ -6,6 +6,7 @@
 ;; Author: Sanel Zukan <sanelz@gmail.com>
 ;; URL: http://www.github.com/sanel/monroe
 ;; Package-Version: 0.3.1
+;; Package-Commit: 0b9b043f042145bf62969add7ec476ea51da7cbd
 ;; Version: 0.3.1
 ;; Keywords: languages, clojure, nrepl, lisp
 

@@ -5,6 +5,7 @@
 ;; Author: Sylvain Benner <sylvain.benner@gmail.com>
 ;; Keywords: convenience editing evil iedit mnemonic
 ;; Package-Version: 1.1
+;; Package-Commit: eab7d5e3e7d25c4a852fedb6c0c7f50dd9e9bd7c
 ;; Created: 12 Dec 2014
 ;; Version: 1.1
 ;; Package-Requires: ((evil "1.0.9") (iedit "0.97"))

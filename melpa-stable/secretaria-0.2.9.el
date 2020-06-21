@@ -4,6 +4,7 @@
 
 ;; Author: Jorge Araya Navarro <jorge@esavara.cr>
 ;; Keywords: org, convenience
+;; Package-Commit: 91c56311b48a26aa6ef5a113b0a828e174059b0a
 ;; Package-Requires: ((emacs "24.4") (alert "1.2") (s "1.12") (f "0.19.0"))
 ;; Package-Version: 0.2.9
 ;; Package-X-Original-Version: 0.2.9

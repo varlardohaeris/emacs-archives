@@ -10,6 +10,7 @@
 ;;               Marcelo Muñoz Araya <ma.munoz.araya@gmail.com>
 ;; Version: 1.4.0
 ;; Package-Version: 1.4.0
+;; Package-Commit: a03f142455e8b39f77fbd57ee1c1e44478c1f9e2
 ;; Package-Requires: ((emacs "24.1") (gh "0.10.0"))
 ;; Keywords: tools
 ;; Homepage: https://github.com/defunkt/gist.el

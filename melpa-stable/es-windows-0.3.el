@@ -2,6 +2,7 @@
 
 ;;; Version: 0.3
 ;; Package-Version: 0.3
+;; Package-Commit: 7ebe6c6e0831373847d7adbedeaa2e506b54b2af
 ;;; Author: sabof
 ;;; URL: https://github.com/sabof/es-windows
 ;;; Package-Requires: ((cl-lib "0.3") (emacs "24"))

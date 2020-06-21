@@ -5,6 +5,7 @@
 ;; Author: codefalling <code.falling@gmail.com>
 ;; Keywords: languages
 ;; Package-Version: 0.4
+;; Package-Commit: 48ff04657613f39848d0e66e9dd367aa2dc19e89
 
 ;; Version: 0.4.0
 ;; Package-Requires: ((mmm-mode "0.5.5") (vue-html-mode "0.2") (ssass-mode "0.2") (edit-indirect "0.1.4"))

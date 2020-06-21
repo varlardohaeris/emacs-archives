@@ -3,6 +3,7 @@
 ;; Authors: Sean T Allen <sean@monkeysnatchbanana.com>
 ;; Version: 0.2.2
 ;; Package-Version: 0.2.2
+;; Package-Commit: 9356cbcd404eaf381ab0c4b0f9c47232f723fa7e
 ;; URL: https://github.com/seantallen/flycheck-pony
 ;; Keywords: tools, convenience
 ;; Package-Requires: ((flycheck "0.25.1"))

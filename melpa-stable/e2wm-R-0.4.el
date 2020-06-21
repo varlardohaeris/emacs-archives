@@ -3,6 +3,7 @@
 ;; Author: myuhe
 ;; URL: 
 ;; Package-Version: 0.4
+;; Package-Commit: fe17906bf48324032a1beaec9af32b9b49ea9125
 ;; Version: 0.4
 ;; Created: 2011-03-15
 ;; Keywords:  window manager, convenience, e2wm

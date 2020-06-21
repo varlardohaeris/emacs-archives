@@ -6,6 +6,7 @@
 ;; Created: 19 Feb 2015
 ;; Version: 0.1
 ;; Package-Version: 20170906.1224
+;; Package-Commit: e34135555f3748b578c7f8706dfd0c888fb87581
 ;; Package-Requires: ((s "1.2.0"))
 ;; Keywords: Tinkerer, blog, wrapper
 ;; X-URL: https://github.com/yyr/tinkerer.el

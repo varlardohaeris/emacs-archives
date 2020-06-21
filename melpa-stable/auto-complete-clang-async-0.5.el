@@ -9,6 +9,7 @@
 ;;          Many others
 ;; Keywords: completion, convenience
 ;; Package-Version: 0.5
+;; Package-Commit: a5114e3477793ccb9420acc5cd6a1cb26be65964
 ;; Version: 0
 
 ;; This program is free software; you can redistribute it and/or modify

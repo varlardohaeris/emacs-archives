@@ -17,6 +17,7 @@
 
 ;; Version: 0.1
 ;; Package-Version: 0.2
+;; Package-Commit: 6ec648fcde85e81393db1ed1364860f960179c92
 
 ;;; Commentary:
 ;;

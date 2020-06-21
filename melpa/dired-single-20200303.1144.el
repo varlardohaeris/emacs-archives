@@ -5,6 +5,7 @@
 
 ;; Version:    0.1.3
 ;; Package-Version: 20200303.1144
+;; Package-Commit: 90ade369ba478fdebf61957f837c0b10cef128b1
 ;; Author:     Joe Casadonte <emacs@northbound-train.com>
 ;; Maintainer: crocket <crockabiscuit@gmail.com>
 ;; Created:    August 17, 2000

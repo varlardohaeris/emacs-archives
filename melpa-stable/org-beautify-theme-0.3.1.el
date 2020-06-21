@@ -4,6 +4,7 @@
 ;; Author: Jonathan Arkell <jonnay@jonnay.net>
 ;; Version: 0.3.1
 ;; Package-Version: 0.3.1
+;; Package-Commit: 7b7a7cbd4f25f77e8bd81783f517b2b182220fd9
 ;; Created: 5 Oct 2012
 ;; Keywords: org theme
 

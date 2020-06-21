@@ -5,6 +5,7 @@
 ;; Author: Arne Brasseur <arne@arnebrasseur.net>
 ;; Keywords: lisp clojure edn parser
 ;; Package-Version: 0.1.0
+;; Package-Commit: ddf824bc1df1585867cb7f27f2dd8ca8df760569
 ;; Package-Requires: ((emacs "25") (a "0.1.0alpha4") (parseclj "0.1.0"))
 ;; Version: 0.1.0
 

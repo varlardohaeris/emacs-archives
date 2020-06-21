@@ -4,6 +4,7 @@
 ;; Contributors: Philipp Haselwarter <philipp.haselwarter AT gmx.de>
 ;; Version: 1.4
 ;; Package-Version: 1.4
+;; Package-Commit: 210c70f0021ee78e724f1d8e00ca96e1e99928ca
 ;; URL: http://www.thregr.org/~wavexx/hacks/gnus-desktop-notify/
 ;; GIT: git://src.thregr.org/gnus-desktop-notify/
 ;; Package-Requires: ((gnus "1.0"))

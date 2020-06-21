@@ -5,6 +5,7 @@
 ;; Author: John Foerch <jjfoerch@earthlink.net>
 ;; Version: 0.6.1
 ;; Package-Version: 0.6.1
+;; Package-Commit: 8b350b7a143219b3f927cb3a1aeb16a299363f05
 ;; Date: 2020-03-22
 ;; Keywords: languages
 

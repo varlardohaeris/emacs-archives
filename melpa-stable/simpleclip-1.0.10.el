@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/rolandwalker/simpleclip
 ;; URL: http://raw.githubusercontent.com/rolandwalker/simpleclip/master/simpleclip.el
 ;; Package-Version: 1.0.10
+;; Package-Commit: d327abe0522b9b9a26e005eae5ffa4c34ea2ba0a
 ;; Version: 1.0.10
 ;; Last-Updated: 10 Feb 2020
 ;; Keywords: convenience

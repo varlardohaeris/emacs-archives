@@ -4,6 +4,7 @@
 ;; Created: November 08, 2015
 ;; Version: 1.0.1
 ;; Package-Version: 1.0.1
+;; Package-Commit: f2a8fe3d9d6104f3dd61fabbb385a596363b360b
 ;; Package-Requires: ((alert "0.5.10") (cl-lib "0.5"))
 
 ;; This file is free software; you can redistribute it and/or modify

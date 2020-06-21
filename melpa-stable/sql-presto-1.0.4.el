@@ -4,6 +4,7 @@
 ;; Author: Katherine Cox-Buday <cox.katherine.e@gmail.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.4
+;; Package-Commit: bcda455e300a1af75c7bb805882329bc844703b2
 ;; Keywords: sql presto database
 ;; Package-Requires: ((emacs "24.4"))
 

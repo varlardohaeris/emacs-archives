@@ -6,6 +6,7 @@
 ;; Package-Version: 0.6
 ;; Package-X-Original-Version: 0
 ;; URL: https://github.com/purcell/ruby-hash-syntax
+;; Package-Commit: 89fc364a837d7a78ecce34380f09c073a83e30e0
 ;; Keywords: languages
 
 ;; This program is free software; you can redistribute it and/or modify

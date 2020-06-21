@@ -5,6 +5,7 @@
 ;; Author: Yann Hodique <yann.hodique@gmail.com>
 ;; Keywords:
 ;; Package-Version: 0.4.2
+;; Package-Commit: 025ef2411fa1bf82a9ac61dfdb7bd4cedaf2d740
 ;; Version: 0.4.2
 ;; Package-Requires: ((eieio "1.3"))
 

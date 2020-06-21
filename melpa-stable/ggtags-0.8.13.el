@@ -5,6 +5,7 @@
 ;; Author: Leo Liu <sdl.web@gmail.com>
 ;; Version: 0.8.13
 ;; Package-Version: 0.8.13
+;; Package-Commit: 17a121af1b375a6a5c5acec52f2ffd2b9715d244
 ;; Keywords: tools, convenience
 ;; Created: 2013-01-29
 ;; URL: https://github.com/leoliu/ggtags

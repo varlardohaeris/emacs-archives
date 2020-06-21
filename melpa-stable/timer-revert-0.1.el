@@ -7,6 +7,7 @@
 ;; Created: Tuesday, January 20 2015
 ;; Keywords: timer, revert, auto-revert.
 ;; Package-Version: 0.1
+;; Package-Commit: 31ad8d94b85807cd9f63fcba0c90c3e9a9515fa2
 ;; Version: 0.1
 ;; URL: http://github.com/yyr/timer-revert
 

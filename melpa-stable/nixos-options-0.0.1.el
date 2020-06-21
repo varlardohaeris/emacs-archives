@@ -8,6 +8,7 @@
 
 ;; Keywords: unix
 ;; Package-Version: 0.0.1
+;; Package-Commit: 5fc8fa29bea9dd8e9c822af92f9bc6ddc223635f
 ;; Homepage: http://www.github.com/travisbhartwell/nix-emacs/
 ;; Version: 0.0.1
 ;; Package-Requires: ((emacs "24") (json "1.4"))

@@ -5,6 +5,7 @@
 ;; Author: 任文山 (Ren Wenshan) <renws1990 at gmail.com>
 ;; URL: https://github.com/RenWenshan/emacs-moz-controller
 ;; Package-Version: 1.0
+;; Package-Commit: 42fd842039620de7fb122f7e4ffc1ab802ee97c5
 ;; Version: 0.0.1
 ;; Package-Requires: ((moz "0"))
 

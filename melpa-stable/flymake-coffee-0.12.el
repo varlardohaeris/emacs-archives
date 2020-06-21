@@ -4,6 +4,7 @@
 ;;; Homepage: https://github.com/purcell/flymake-coffee
 ;;; Version: DEV
 ;; Package-Version: 0.12
+;; Package-Commit: d4ef325255ea36d1dd622f29284fe72c3fc9abc0
 ;;; Package-Requires: ((flymake-easy "0.1"))
 ;;
 ;;; Commentary:

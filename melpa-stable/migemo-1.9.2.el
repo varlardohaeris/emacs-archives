@@ -6,6 +6,7 @@
 ;; Author: Satoru Takabayashi <satoru-t@is.aist-nara.ac.jp>
 ;; URL: https://github.com/emacs-jp/migemo
 ;; Package-Version: 1.9.2
+;; Package-Commit: f42832c8ac462ecbec9a16eb781194f876fba64a
 ;; Version: 1.9.2
 ;; Keywords:
 ;; Package-Requires: ((cl-lib "0.5"))

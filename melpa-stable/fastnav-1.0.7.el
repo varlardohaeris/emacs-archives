@@ -5,6 +5,7 @@
 
 ;; Version: 1.0.7
 ;; Package-Version: 1.0.7
+;; Package-Commit: 54626e9e7cc7be5bc2bd01732e95ed2afc2312a1
 ;; Author: Zsolt Terek <zsolt@google.com>
 ;; Keywords: nav fast fastnav navigation
 ;; Compatibility: GNU Emacs 22, 23

@@ -4,6 +4,7 @@
 ;; Copyright (C) 2013 
 ;; Keywords: lisp, widget
 ;; Package-Version: 0.0.2
+;; Package-Commit: 2576e6f0c35d8dedfa9c2cd6ea4fb4c14cb72b63
 ;; Version: 0.0.2
 
 ;; This program is free software; you can redistribute it and/or modify

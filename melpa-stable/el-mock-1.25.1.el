@@ -6,6 +6,7 @@
 ;; Maintainer: Johan Andersson <johan.rejeep@gmail.com>
 ;; Version: 1.25.1
 ;; Package-Version: 1.25.1
+;; Package-Commit: 3069931de75bb6704ecf565af5390009dc4dae00
 ;; Keywords: lisp, testing, unittest
 ;; URL: http://github.com/rejeep/el-mock.el
 

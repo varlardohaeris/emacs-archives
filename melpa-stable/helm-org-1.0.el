@@ -5,6 +5,7 @@
 
 ;; URL: https://github.com/emacs-helm/helm-org
 ;; Package-Version: 1.0
+;; Package-Commit: 3a20d0eca0e95943cd9fdd40882cec65628f4a67
 ;; Package-Requires: ((helm "3.3") (emacs "24.4"))
 ;; Version: 1.0
 

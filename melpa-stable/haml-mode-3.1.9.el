@@ -5,6 +5,7 @@
 ;; Author: Nathan Weizenbaum
 ;; URL: http://github.com/nex3/haml/tree/master
 ;; Package-Version: 3.1.9
+;; Package-Commit: 5e0baf7b795b9e41ac03b55f8feff6b51027c43b
 ;; Package-Requires: ((ruby-mode "1.0"))
 ;; Version: DEV
 ;; Created: 2007-03-08

@@ -8,6 +8,7 @@
 ;; Keyword: buffer tool wrap
 ;; Version: 0.1.2
 ;; Package-Version: 20200223.605
+;; Package-Commit: 460f90bc024b6c287ed8afac3ff1bed2a147c777
 ;; Package-Requires: ((emacs "24.4"))
 ;; URL: https://github.com/jcs090218/buffer-wrap
 

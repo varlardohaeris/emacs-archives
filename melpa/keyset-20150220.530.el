@@ -5,6 +5,7 @@
 ;; Author: Hiroki YAMAKAWA <s06139@gmail.com>
 ;; URL: https://github.com/HKey/keyset
 ;; Package-Version: 20150220.530
+;; Package-Commit: 41bbfc4dbed5de6ecf3ec1dba634c7c26241ca84
 ;; Version: 0.1.2
 ;; Package-Requires: ((dash "2.8.0") (cl-lib "0.5"))
 ;; Keywords:

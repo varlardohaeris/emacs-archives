@@ -1,30 +1,46 @@
 1. Setup
-Please install either aspell or hunspell and its corresponding dictionaries.
+Please install either aspell or hunspell and their dictionaries.
 
 2. Usage
-Run `wucuo-start' to setup and start `flyspell-mode'.
-It spell check camel case words in code.
+Insert below code into ".emacs",
+  (add-hook 'prog-mode-hook 'wucuo-start)
+  (add-hook 'text-mode-hook 'wucuo-start)
 
-To enable wucuo for all languages, insert below code into ".emacs",
+The spell checking starts when current buffer is saved.
 
-  (setq wucuo-flyspell-start-mode "lite") ; optional
-  (defun prog-mode-hook-setup ()
-    (wucuo-start t))
-  (add-hook 'prog-mode-hook 'prog-mode-hook-setup)
+Please note `flyspell-prog-mode' and `flyspell-mode' should be turned off
+before using this program.
 
-If `wucuo-flyspell-start-mode' is "lite", `wucuo-start' calls
-`flyspell-buffer' periodically.
-The interval of buffer checking is controlled by `wucuo-update-interval'.
-It's more light weight than running `flyspell-mode'.
+User's configuration for the package flyspell still works.
+Flyspell provides two minor modes, `flyspell-prog-mode' and `flyspell-mode'.
+They are replaced by this program.  But all the other commands and configuration
+for flyspell is still valid.
 
-The `flyspell-mode' is turned on by `wucuo-start' by default.
-See `wucuo-flyspell-start-mode' for other options.
+3. Tips
+If `wucuo-flyspell-start-mode' is "normal", `wucuo-start' runs `flyspell-buffer'.
+If it's "normal", `wucuo-start' runs `flyspell-region' to check visible region
+in current window.
 
-Please note `flyspell-prog-mode' should not be enabled when using "wucuo".
-`flyspell-prog-mode' could be replaced by "wucuo".
+The interval of checking is set by `wucuo-update-interval'.
 
-Or add one line setup if you prefer running `flyspell-buffer' manually:
-  (setq flyspell-generic-check-word-predicate #'wucuo-generic-check-word-predicate)
+See `wucuo-check-nil-font-face' on how to check plain text (text without font)
 
-Or setup for only one major mode when major mode has its own flyspell setup:
-  (wucuo-setup-major-mode "js2-mode")
+Use `wucuo-current-font-face' to detect font face at point.
+
+You can define a function in `wucuo-spell-check-buffer-predicate'.
+If the function returns t, the spell checking of current buffer will continue.
+If it returns nil, the spell checking is skipped.
+
+Here is sample to skip checking in specified major modes,
+  (setq wucuo-spell-check-buffer-predicate
+        (lambda ()
+          (not (memq major-mode
+                     '(dired-mode
+                       log-edit-mode
+                       compilation-mode
+                       help-mode
+                       profiler-report-mode
+                       speedbar-mode
+                       gud-mode
+                       calc-mode
+                       Info-mode)))))

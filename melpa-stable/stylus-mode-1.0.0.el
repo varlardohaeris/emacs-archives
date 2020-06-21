@@ -2,6 +2,7 @@
 ;;;
 ;;; URL: https://github.com/brianc/jade-mode
 ;; Package-Version: 1.0.0
+;; Package-Commit: 4e7a20db492719062f40b225ed730ed50be5db56
 ;;; Author: Brian M. Carlson and other contributors
 ;;; Package-Requires: ((sws-mode "0"))
 ;;;

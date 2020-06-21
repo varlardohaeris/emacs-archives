@@ -18,6 +18,7 @@
 
 ;; Version: 1.0.2
 ;; Package-Version: 20150225.842
+;; Package-Commit: f6803b448079f4a81cc699cec7442ef543cd5818
 ;; Author: zk_phi
 ;; URL: http://hins11.yu-yake.com/
 ;; Package-Requires: ((popwin "0.7.0alpha"))

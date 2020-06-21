@@ -5,6 +5,7 @@
 ;; Author: Junpeng Qiu <qjpchmail@gmail.com>
 ;; Keywords: extensions
 ;; Package-Version: 0.2.3
+;; Package-Commit: 6d552ab44234ed78ce9a50f2412f56197266bc9f
 ;; URL: https://github.com/cute-jumper/fcitx.el
 
 ;; This program is free software; you can redistribute it and/or modify

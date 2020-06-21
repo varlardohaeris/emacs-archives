@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-helm-themes
 ;; Package-Version: 0.5
+;; Package-Commit: 8c979f4efc6174eed7df5f3b62db955246202818
 ;; Version: 0.05
 ;; Package-Requires: ((helm "1.0"))
 

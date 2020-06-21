@@ -5,6 +5,7 @@
 ;; Author: Tomohiro Matsuyama <m2ym.pub@gmail.com>
 ;; Keywords: convenience
 ;; Package-Version: 20200122.1440
+;; Package-Commit: d69dca5c9ec4b08f5268ff2d6b5097618d4082d7
 ;; Version: 1.0.0
 
 ;; This program is free software; you can redistribute it and/or modify

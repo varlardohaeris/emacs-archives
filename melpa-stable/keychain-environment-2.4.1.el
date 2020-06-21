@@ -9,6 +9,7 @@
 ;; Homepage: https://github.com/tarsius/keychain-environment
 ;; Keywords: gnupg, pgp, ssh
 ;; Package-Version: 2.4.1
+;; Package-Commit: d3643196de6dc79ea77f9f4805028350fd76100b
 
 ;; This file is not part of GNU Emacs.
 

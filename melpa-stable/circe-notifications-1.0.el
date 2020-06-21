@@ -4,6 +4,7 @@
 
 ;; Version: 1.0
 ;; Package-Version: 1.0
+;; Package-Commit: 80c44441ecd3ae04ae63760aa20afa837c1ed05b
 ;; Author: Ruben Maher <r@rkm.id.au>
 ;; URL: https://github.com/eqyiel/circe-notifications
 ;; Package-Requires: ((emacs "24.4") (circe "2.3") (alert "1.2"))

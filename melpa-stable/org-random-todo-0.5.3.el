@@ -5,6 +5,7 @@
 ;; Author: Kevin Brubeck Unhammer <unhammer@fsfe.org>
 ;; Version: 0.5.3
 ;; Package-Version: 0.5.3
+;; Package-Commit: 09228e55f1cc702053d305fdea2b094b548e6dbe
 ;; Homepage: https://github.com/unhammer/org-random-todo
 ;; Package-Requires: ((emacs "24.3") (alert "1.2"))
 ;; Keywords: org todo notification calendar

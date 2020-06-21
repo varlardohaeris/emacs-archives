@@ -12,6 +12,7 @@
 ;; Author: Peter Vasil <mail@petervasil.net>
 ;; Keywords: languages, snippets
 ;; Package-Version: 1.0
+;; Package-Commit: 228bc56369675787d60f637223b50ce3a1afebbd
 ;; Version: 1.0
 ;; Package-Requires: ((yasnippet "0.8.0"))
 ;;

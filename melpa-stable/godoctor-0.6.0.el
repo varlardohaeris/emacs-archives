@@ -5,6 +5,7 @@
 ;; Author: Sangho Na <microamp@protonmail.com>
 ;; Version: 0.6.0
 ;; Package-Version: 0.6.0
+;; Package-Commit: 4b45ff3d0572f0e84056e4c3ba91fcc178199859
 ;; Keywords: go golang refactoring
 ;; Homepage: https://github.com/microamp/godoctor.el
 

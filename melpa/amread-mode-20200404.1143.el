@@ -4,6 +4,7 @@
 
 ;; Authors: stardiviner <numbchild@gmail.com>
 ;; Package-Requires: ((emacs "24.3") (cl-lib "0.6.1"))
+;; Package-Commit: a595828fcc2257f765139b576beb6c33b4fc3bce
 ;; Package-Version: 20200404.1143
 ;; Package-X-Original-Version: 0.1
 ;; Keywords: wp

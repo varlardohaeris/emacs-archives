@@ -8,6 +8,7 @@
 ;; Modified: February 09, 2018
 ;; Version: 1.3.9
 ;; Package-Version: 1.3.9
+;; Package-Commit: cb35914ffabb4f65d22ab2f812ff6e7622cc5c26
 ;; Keywords: multiple cursors, editing, iedit
 ;; Homepage: https://github.com/hlissner/evil-multiedit
 ;; Package-Requires: ((emacs "24.4") (evil "1.2.12") (iedit "0.9") (cl-lib "0.5"))

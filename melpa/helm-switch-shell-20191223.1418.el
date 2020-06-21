@@ -5,6 +5,7 @@
 ;; Author: James N. V. Cash <james.cash@occasionallycogent.com>
 ;; URL: https://github.com/jamesnvc/helm-switch-shell
 ;; Package-Version: 20191223.1418
+;; Package-Commit: 690e20f0d95f81151b34cb424a201f39d93eb430
 ;; Package-Requires: ((emacs "25") (helm "2.8.8") (dash "2.16.0") (s "1.12.0"))
 ;; Version: 1.0
 ;; Keywords: matching, processes, terminals, tools

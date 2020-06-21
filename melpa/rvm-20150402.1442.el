@@ -5,6 +5,7 @@
 ;; Author: Yves Senn <yves.senn@gmx.ch>
 ;; URL: http://www.emacswiki.org/emacs/RvmEl
 ;; Package-Version: 20150402.1442
+;; Package-Commit: 134497bc460990c71ab8fa75431156e62c17da2d
 ;; Version: 1.4.0
 ;; Created: 5 April 2010
 ;; Keywords: ruby rvm

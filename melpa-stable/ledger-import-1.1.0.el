@@ -5,6 +5,7 @@
 ;; Author: Damien Cassou <damien@cassou.me>
 ;; Url: https://gitlab.petton.fr/mpdel/libmpdel
 ;; Package-Version: 1.1.0
+;; Package-Commit: 2c199fcc8671c2ec82e62cea7716289426b7407c
 ;; Package-requires: ((emacs "25.1") (ledger-mode "3.1.1"))
 ;; Version: 1.0.0
 

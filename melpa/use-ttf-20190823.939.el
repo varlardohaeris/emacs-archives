@@ -8,6 +8,7 @@
 ;; Keyword: customize font install ttf
 ;; Version: 0.0.5
 ;; Package-Version: 20190823.939
+;; Package-Commit: edfc3f4b50aec2234792c0cc894774e4916ce26a
 ;; Package-Requires: ((emacs "24.4") (s "1.12.0"))
 ;; URL: https://github.com/jcs090218/use-ttf
 

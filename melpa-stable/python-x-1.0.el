@@ -3,6 +3,7 @@
 ;; Author: Yuri D'Elia <wavexx@thregr.org>
 ;; Version: 1.0
 ;; Package-Version: 1.0
+;; Package-Commit: e606469aafec2e6beda8c589540b88a5a6f6f33f
 ;; URL: https://github.com/wavexx/python-x.el
 ;; Package-Requires: ((python "0.24") (folding "0"))
 ;; Keywords: python, eval, folding

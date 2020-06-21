@@ -5,6 +5,7 @@
 ;; Author: Sachin Patil <iclcoolster@gmail.com>
 ;; URL: http://github.com/psachin/insert-shebang
 ;; Package-Version: 0.9.6
+;; Package-Commit: adfa473f07443b231914d277c20a3419b30399b6
 ;; Keywords: shebang, tool, convenience
 ;; Version: 0.9.6
 

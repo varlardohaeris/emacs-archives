@@ -7,6 +7,7 @@
 ;;
 ;; URL: http://github.com/areina/helm-dash
 ;; Package-Version: 1.3.0
+;; Package-Commit: 9a230125a7a11f5fa90aa048b61abd95eb78ddfe
 ;; Version: 1.3.0
 ;; Package-Requires: ((helm "1.9.2") (cl-lib "0.5"))
 ;; Keywords: docs

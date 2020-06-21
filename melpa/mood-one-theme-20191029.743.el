@@ -4,6 +4,7 @@
 ;; Homepage: https://gitlab.com/jessieh/mood-one-theme
 ;; Keywords: mode-line faces
 ;; Package-Version: 20191029.743
+;; Package-Commit: 77ff4bfd954d46bc7580175ef443a9168938f9cd
 ;; Version: 1.0.5
 ;; Package-Requires: ((emacs "24.4"))
 

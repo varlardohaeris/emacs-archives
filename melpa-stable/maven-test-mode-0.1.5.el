@@ -5,6 +5,7 @@
 ;; Author: Renan Ranelli
 ;; URL: http://github.com/rranelli/maven-test-mode
 ;; Package-Version: 0.1.5
+;; Package-Commit: f79409907375591283291eb96af4754b1ccc0e6f
 ;; Version: 0.1.5
 ;; Keywords: java, maven, test
 ;; Package-Requires: ((s "1.9") (emacs "24"))

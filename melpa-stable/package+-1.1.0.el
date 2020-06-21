@@ -5,6 +5,7 @@
 ;; Author: Ryan Davis <ryand-ruby@zenspider.com>
 ;; Keywords: extensions, tools
 ;; Package-Version: 1.1.0
+;; Package-Commit: 4a9618a44ec4f26a14e0136cd9d3c4855fceb25b
 ;; Package-Requires: ()
 ;; URL: TBA
 ;; Doc URL: TBA

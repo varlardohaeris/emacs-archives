@@ -5,6 +5,7 @@
 ;; Author: Jiahao Li <jiahaowork@gmail.com>
 ;; Version: 0.1.0
 ;; Package-Version: 20180415.1219
+;; Package-Commit: 7078e439ee0433a8fbd1cb174464496f9a9d00fa
 ;; Keywords: abbrev, tools
 ;; Homepage: https://github.com/jiahaowork/muban.el
 ;; Package-Requires: ((emacs "25"))

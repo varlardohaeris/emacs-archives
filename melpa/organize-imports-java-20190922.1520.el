@@ -8,6 +8,7 @@
 ;; Keyword: organize imports java handy eclipse
 ;; Version: 0.1.3
 ;; Package-Version: 20190922.1520
+;; Package-Commit: 8299bdfd65105feb8d7fb85d2951954d73671cd2
 ;; Package-Requires: ((emacs "24") (f "0.20.0") (s "1.12.0") (cl-lib "0.6"))
 ;; URL: https://github.com/jcs090218/organize-imports-java
 

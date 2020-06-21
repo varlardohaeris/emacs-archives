@@ -6,6 +6,7 @@
 ;; Created: 14 May 2016
 ;; Version: 0.2
 ;; Package-Version: 0.2
+;; Package-Commit: a21e41b905b423e762eeb4da3a236c8b1aea8c49
 ;; Package-Requires: ((emacs "24.4") (restclient "0"))
 ;; Homepage: https://github.com/simenheg/restclient-test.el
 

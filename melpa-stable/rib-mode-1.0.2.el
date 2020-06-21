@@ -4,6 +4,7 @@
 ;; Author: Remik Ziemlinski and Daniel Blezek <daniel.blezek@gmail.com>
 ;; URL: https://github.com/blezek/rib-mode
 ;; Package-Version: 1.0.2
+;; Package-Commit: 4172e902fd66f235184c0eb6db7fd4a73dbd0866
 ;; Version: 1.0
 ;; Copyright © 2006 Remik Ziemlinski
 ;; Package-Requires: ((emacs "24"))

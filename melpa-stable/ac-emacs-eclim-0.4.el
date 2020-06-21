@@ -4,6 +4,7 @@
 ;;
 ;; Package-Requires: ((eclim "0.3") (auto-complete "1.5"))
 ;; Package-Version: 0.4
+;; Package-Commit: 8203fbf8544e65324a948a67718f7a16ba2d52e6
 ;;
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

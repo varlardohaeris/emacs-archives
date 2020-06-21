@@ -24,6 +24,7 @@ possible layout values:
 'programer-dvorak
 'qwerty
 'qwerty-abnt
+'qwerty-no (qwerty Norwegian)
 'qwertz
 'workman
 'norman

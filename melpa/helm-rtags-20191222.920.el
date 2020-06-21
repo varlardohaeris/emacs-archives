@@ -6,6 +6,7 @@
 ;;         Anders Bakken <agbakken@gmail.com>
 ;; URL: https://github.com/Andersbakken/rtags
 ;; Package-Version: 20191222.920
+;; Package-Commit: 4ecf19b605a943869a8cd1ff572aea222d890b48
 ;; Version: 0.2
 ;; Package-Requires: ((helm "2.0") (rtags "2.10"))
 

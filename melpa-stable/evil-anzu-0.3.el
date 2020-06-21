@@ -6,6 +6,7 @@
 ;;         Fredrik Bergroth <fbergroth@gmail.com>
 ;; URL: https://github.com/syohex/emacs-evil-anzu
 ;; Package-Version: 0.3
+;; Package-Commit: 64cc08a3546373f28cd7bfd76a3e93bd78efa251
 ;; Version: 0.02
 ;; Package-Requires: ((evil "1.0.0") (anzu "0.46"))
 

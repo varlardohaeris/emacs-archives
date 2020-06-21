@@ -6,6 +6,7 @@
 ;; Maintainer: Mustafa Shameem
 ;; URL: https://github.com/promethial/paxedit
 ;; Package-Version: 1.1.8
+;; Package-Commit: 644eb7036a475fbcba4de5d46d6940b1e8ef33cd
 ;; Created: November 2, 2014
 ;; Version: 1.1.8
 ;; Keywords: lisp, refactoring, context

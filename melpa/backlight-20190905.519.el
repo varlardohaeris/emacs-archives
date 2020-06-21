@@ -5,6 +5,7 @@
 ;; Author: Michael Schuldt <mbschuldt@gmail.com>
 ;; Version: 1.3
 ;; Package-Version: 20190905.519
+;; Package-Commit: 3e5b971b4ee89299240a89614db92d2c4034e954
 ;; URL: https://github.com/mschuldt/backlight.el
 ;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: hardware

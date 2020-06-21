@@ -6,6 +6,7 @@
 ;; Created: 28 Feb 2016
 ;; Version: 0.0.2
 ;; Package-Version: 0.0.2
+;; Package-Commit: 2e56f3b627f0f19fbfce4968180b4d736f7afb5d
 ;; Keywords: wp text shiftjis mlt yaruo
 ;; Package-Requires: ((emacs "24.3") (navi2ch "2.0.0"))
 

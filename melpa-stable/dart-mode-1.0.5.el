@@ -5,6 +5,7 @@
 ;; Maintainer: Brady Trainor <mail@bradyt.com>
 ;; URL: https://github.com/bradyt/dart-mode
 ;; Package-Version: 1.0.5
+;; Package-Commit: d414a5faf22f7fafbb0a8208b88cecd6324704bf
 ;; Version: 1.0.5
 ;; Package-Requires: ((emacs "24.5") (cl-lib "0.5") (dash "2.10.0") (flycheck "0.23") (s "1.10"))
 ;; Keywords: languages

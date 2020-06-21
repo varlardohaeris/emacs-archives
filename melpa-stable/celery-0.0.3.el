@@ -5,6 +5,7 @@
 ;; Author: ardumont <eniotna.t@gmail.com>
 ;; Keywords: celery, convenience
 ;; Package-Version: 0.0.3
+;; Package-Commit: 163ebede3f6a7f59202ff319675b0873dd1de365
 ;; Package-Requires: ((emacs "24") (dash-functional "2.11.0") (s "1.9.0") (deferred "0.3.2"))
 ;; Version: 0.0.3
 ;; URL: https://github.com/ardumont/emacs-celery

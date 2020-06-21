@@ -33,6 +33,7 @@
 
 ;; Author: Daniel Ma <danielhgma@gmail.com> and contributors
 ;; URL: https://github.com/danielma/rufo.el
+;; Package-Commit: 4e7413fafd0320f30190ae9835ab021cf7a9ebdc
 ;; Version: 0.3.0
 ;; Package-Version: 0.3.0
 ;; Package-X-Original-Version: 0.3.0

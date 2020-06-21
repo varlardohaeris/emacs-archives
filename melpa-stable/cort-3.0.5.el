@@ -5,6 +5,7 @@
 ;; Author: Naoya Yamashita
 ;; Keywords: test
 ;; Package-Version: 3.0.5
+;; Package-Commit: 1df178e296feaf4465967567b1cfdce1dda5a09b
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

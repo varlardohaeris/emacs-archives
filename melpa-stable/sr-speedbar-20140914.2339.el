@@ -9,6 +9,7 @@
 ;; Created: 2008
 ;; Version: 20140914.2339
 ;; Package-Version: 20140914.2339
+;; Package-Commit: 4f816528a32eb421197a768d6dcf3a05de83f642
 ;; X-Original-Version: 0.1.10
 ;; Last-Updated: 2014-08-03 11:30:00
 ;; URL: http://www.emacswiki.org/emacs/download/sr-speedbar.el

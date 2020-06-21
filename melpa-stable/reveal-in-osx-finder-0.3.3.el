@@ -5,6 +5,7 @@
 ;; Author: Kazuki YOSHIDA
 ;; Keywords: OS X, Finder
 ;; Package-Version: 0.3.3
+;; Package-Commit: 5710e5936e47139a610ec9a06899f72e77ddc7bc
 ;; URL: https://github.com/kaz-yos/reveal-in-osx-finder
 ;; Version: 0.3.3
 

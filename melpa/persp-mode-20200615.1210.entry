@@ -1,0 +1,2 @@
+
+(persp-mode . [(20200615 1210) ((emacs (24 3))) "windows/buffers sets shared among frames + save/load." single ((:commit . "6af919f1cc838fda24edfc5a603b82bb325f52be") (:keywords "perspectives" "session" "workspace" "persistence" "windows" "buffers" "convenience") (:authors ("Constantin Kulikov (Bad_ptr)" . "zxnotdead@gmail.com")) (:maintainer "Constantin Kulikov (Bad_ptr)" . "zxnotdead@gmail.com") (:url . "https://github.com/Bad-ptr/persp-mode.el"))])

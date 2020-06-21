@@ -5,6 +5,7 @@
 ;; Author: Wilfred Hughes <me@wilfred.me.uk>
 ;; Version: 2.2
 ;; Package-Version: 2.2
+;; Package-Commit: a23a72342fda1eb3cc8d792f86efabe45eb0d1fd
 ;; Keywords: hash table, hash map, hash
 ;; Package-Requires: ((dash "2.12.0"))
 

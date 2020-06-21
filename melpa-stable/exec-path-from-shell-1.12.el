@@ -4,6 +4,7 @@
 
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Keywords: unix, environment
+;; Package-Commit: 76cd6e3fa8a7dac937af7e40507843dfae4f9184
 ;; URL: https://github.com/purcell/exec-path-from-shell
 ;; Package-Version: 1.12
 ;; Package-X-Original-Version: 0

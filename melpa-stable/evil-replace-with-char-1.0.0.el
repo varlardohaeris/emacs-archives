@@ -5,6 +5,7 @@
 ;; Author: Filipe Silva <filipe.silva@gmail.com>
 ;; URL: https://github.com/ninrod/evil-replace-with-char
 ;; Package-Version: 1.0.0
+;; Package-Commit: dddbbafdd620cc48dd0a257baf4010e1b415ebe8
 ;; Version: 0.0.1
 ;; Package-Requires: ((evil "1.2.13") (emacs "24"))
 

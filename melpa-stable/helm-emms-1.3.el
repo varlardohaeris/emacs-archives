@@ -4,6 +4,7 @@
 
 ;; Version: 1.3
 ;; Package-Version: 1.3
+;; Package-Commit: d7da090af0f63b92c5d735197992c732adbeef3d
 ;; Package-Requires: ((helm "1.5") (emms "0.0") (cl-lib "0.5") (emacs "24.1"))
 
 ;; X-URL: https://github.com/emacs-helm/helm-emms

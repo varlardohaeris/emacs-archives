@@ -5,6 +5,7 @@
 ;; Author: Quang Linh LE <linktohack@gmail.com>
 ;; URL: http://github.com/linktohack/ox-latexty-subfigure
 ;; Package-Version: 0.0.2
+;; Package-Commit: b7445849ae1f16b4b28f7a080301a0a61edf1c83
 ;; Version: 0.0.2
 ;; Keywords: ox latex subfigure org org-mode
 ;; Package-Requires: ()

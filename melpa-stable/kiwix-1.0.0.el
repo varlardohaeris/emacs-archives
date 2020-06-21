@@ -5,6 +5,7 @@
 ;; Maintainer: stardiviner <numbchild@gmail.com>
 ;; Keywords: kiwix wikipedia
 ;; Package-Version: 1.0.0
+;; Package-Commit: c662f3dc5d924a4b64b7af4af28f15f27b7cea1e
 ;; URL: https://github.com/stardiviner/kiwix.el
 ;; Created: 23th July 2016
 ;; Version: 1.0.0

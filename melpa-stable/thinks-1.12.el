@@ -4,6 +4,7 @@
 ;; Author: Dave Pearson <davep@davep.org>
 ;; Version: 1.12
 ;; Package-Version: 1.12
+;; Package-Commit: 7bdc418ff946d0cc9ea4cc73d38b3c71ffaa838d
 ;; Keywords: convenience, quoting
 ;; URL: https://github.com/davep/thinks.el
 ;; Package-Requires: ((cl-lib "0.5"))

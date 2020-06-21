@@ -1,6 +1,7 @@
 ;;; counsel-jq.el --- Live preview of "jq" queries using counsel. -*- lexical-binding: t; -*-
 ;;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: 33d709f5b73a68093ec9414c774844d5f4983aee
 ;;; Author: Alain M. Lafon <alain@200ok.ch)
 ;;; Package-Requires: ((swiper "0.12.0") (emacs "24.1"))
 ;;; Keywords: convenience, data, matching

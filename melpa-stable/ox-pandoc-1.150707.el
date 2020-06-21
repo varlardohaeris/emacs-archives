@@ -8,6 +8,7 @@
 ;; Created: 2014-07-20
 ;; Version: 1.150707
 ;; Package-Version: 1.150707
+;; Package-Commit: 035f1d60a0139349232c382cfd23a96902b7003d
 ;; Package-Requires: ((org "8.2") (emacs "24") (dash "2.8") (ht "2.0"))
 ;; Keywords: tools
 ;; URL: https://github.com/kawabata/ox-pandoc

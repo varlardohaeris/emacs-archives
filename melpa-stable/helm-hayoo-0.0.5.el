@@ -6,6 +6,7 @@
 ;; Maintainer: Markus Hauck <markus1189@gmail.com>
 ;; Keywords: helm
 ;; Package-Version: 0.0.5
+;; Package-Commit: f49a77e8b8704bb7eb0d1097eefb8010a6617664
 ;; Version: 0.0.3
 ;; Package-requires: ((helm "1.6.0") (json "1.2") (haskell-mode "13.07"))
 

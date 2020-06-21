@@ -8,6 +8,7 @@
 ;; Modified:   April 2011
 ;; Version:    0.1
 ;; Package-Version: 20150324.2225
+;; Package-Commit: fb2871a4492d75d03d72e60474919ab89adb267b
 ;; Keywords:   vala languages oop
 
 ;; This program is free software; you can redistribute it and/or modify

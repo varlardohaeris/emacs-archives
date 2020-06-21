@@ -6,6 +6,7 @@
 ;; Maintainer: Alex Murray <murray.alex@gmail.com>
 ;; URL: https://github.com/alexmurray/flycheck-bashate
 ;; Package-Version: 20160630.440
+;; Package-Commit: 77fa03dbc578c34fe71ca44926bac2aff8f2b021
 ;; Version: 0.1
 ;; Package-Requires: ((flycheck "0.24") (emacs "24.4"))
 

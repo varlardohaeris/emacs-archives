@@ -19,6 +19,7 @@
 ;; Author: zk_phi
 ;; URL: http://hins11.yu-yake.com/
 ;; Package-Version: 20191106.241
+;; Package-Commit: 8597f4db70732d6e479396e2f2a7e78742387253
 ;; Version: 0.4.0
 ;; Package-Requires: ((cl-lib "0.5") (emacs "24.3"))
 

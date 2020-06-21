@@ -3,6 +3,7 @@
 ;; Author: Joe Heyming <joeheyming@gmail.com>
 ;; URL: https://github.com/syohex/requirejs-emacs
 ;; Package-Version: 1.1
+;; Package-Commit: 7d73453653b6b97cca59fcde8d529b5a228fbc01
 ;; Version: 1.1
 ;; Keywords: javascript, requirejs
 ;; Package-Requires: ((js2-mode "20150713")(popup "0.5.3")(s "1.9.0")(cl-lib "0.5"))

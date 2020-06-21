@@ -5,6 +5,7 @@
 ;; Author: Naoya Yamashita <conao3@gmail.com>
 ;; URL: https://github.com/ksqsf/pest-mode
 ;; Package-Version: 20200317.1503
+;; Package-Commit: 4ae88a9c81d499bbe99978ff0216b645fed70023
 ;; Keywords: convenience flycheck
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "26.3") (flycheck "31") (pest-mode "0.1"))

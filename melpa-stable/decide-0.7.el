@@ -4,6 +4,7 @@
 ;; Author: Pelle Nilsson <perni@lysator.liu.se>
 ;; Version: 0.7
 ;; Package-Version: 0.7
+;; Package-Commit: 90133687118c236142b8110571c463304b3192f9
 ;;
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

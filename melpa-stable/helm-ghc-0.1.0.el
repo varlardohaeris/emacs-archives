@@ -6,6 +6,7 @@
 ;; Maintainer: David Raymond Christiansen <david@davidchristiansen.dk>
 ;; Keywords: languages, helm
 ;; Package-Version: 0.1.0
+;; Package-Commit: d3603ee18299b789be255297dc42af16dd431869
 ;; Package-Requires: ((emacs "24") (cl-lib "0.5") (helm "1.6.4") (ghc "5.2.1.0"))
 ;; Version: 0.1.0
 

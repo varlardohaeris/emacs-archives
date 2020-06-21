@@ -5,6 +5,7 @@
 ;; Author: Bozhidar Batsov
 ;; URL: https://github.com/bbatsov/guru-mode
 ;; Package-Version: 20170730.731
+;; Package-Commit: c180e05ebc1484764aad245c85b69de779826e4e
 ;; Version: 0.2
 ;; Keywords: convenience
 

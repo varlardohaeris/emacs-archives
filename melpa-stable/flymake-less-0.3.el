@@ -5,6 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Version: DEV
 ;; Package-Version: 0.3
+;; Package-Commit: 8cbb5e41c8f4b988cee3ef4449cfa9aea3540893
 ;; Keywords: languages
 ;; Package-Requires: ((less-css-mode "0.15"))
 

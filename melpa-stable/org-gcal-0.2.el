@@ -3,6 +3,7 @@
 ;; Author: myuhe <yuhei.maeda_at_gmail.com>
 ;; URL: https://github.com/myuhe/org-gcal.el
 ;; Package-Version: 0.2
+;; Package-Commit: badd3629e6243563c30ff1dd0452b7601f6cc036
 ;; Version: 0.2
 ;; Maintainer: myuhe
 ;; Copyright (C) :2014 myuhe all rights reserved.

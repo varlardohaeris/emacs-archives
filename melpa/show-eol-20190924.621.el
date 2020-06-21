@@ -8,6 +8,7 @@
 ;; Keyword: end eol line
 ;; Version: 0.0.3
 ;; Package-Version: 20190924.621
+;; Package-Commit: bd0e47d7d61bf04a923a1d1689693a47af3a2b22
 ;; Package-Requires: ((emacs "24.4"))
 ;; URL: https://github.com/jcs090218/show-eol
 

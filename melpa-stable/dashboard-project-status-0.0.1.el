@@ -5,6 +5,7 @@
 ;; Author:  Jason Duncan <jasond496@msn.com>
 ;; Version: 0.0.1
 ;; Package-Version: 0.0.1
+;; Package-Commit: 42fc624937b965d05c9f9d017661fa0420164df7
 ;; URL: https://github.com/functionreturnfurnction/dashboard-project-status
 ;; Package-Requires: ((emacs "24") (git "0.1.1") (dashboard "1.2.5"))
 

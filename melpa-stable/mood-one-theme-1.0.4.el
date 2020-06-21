@@ -3,6 +3,7 @@
 ;; Author: Jessie Hildebrandt <jessieh.net>
 ;; Homepage: https://gitlab.com/jessieh/mood-one-theme
 ;; Keywords: mode-line faces
+;; Package-Commit: 98c2f3ca27dce87cec1bd7ffd322b48129213588
 ;; Package-Version: 1.0.4
 ;; Package-X-Original-Version: 20190911.2031
 ;; Version: 1.0.4

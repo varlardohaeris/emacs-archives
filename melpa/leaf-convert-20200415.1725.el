@@ -5,6 +5,7 @@
 ;; Author: Naoya Yamashita <conao3@gmail.com>
 ;; Version: 1.1.6
 ;; Package-Version: 20200415.1725
+;; Package-Commit: 2a8ec045d5d36e85e7deb2a46aefacaecf4bfafe
 ;; Keywords: tools
 ;; Package-Requires: ((emacs "26.1") (leaf "3.6.0") (leaf-keywords "1.1.0") (ppp "2.1"))
 ;; URL: https://github.com/conao3/leaf-convert.el

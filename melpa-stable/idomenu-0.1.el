@@ -5,6 +5,7 @@
 ;; Author: Georg Brandl <georg@python.org>
 ;; URL: https://github.com/birkenfeld/idomenu
 ;; Package-Version: 0.1
+;; Package-Commit: 5daaf7e06e4704ae43c825488109d7eb8c049321
 ;; Version: 0.1
 ;; Keywords: extensions convenience
 

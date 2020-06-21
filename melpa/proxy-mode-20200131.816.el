@@ -2,6 +2,7 @@
 
 ;; Authors: stardiviner <numbchild@gmail.com>
 ;; Package-Requires: ((emacs "25"))
+;; Package-Commit: e9b2a4bb032aaf13b006b74eec309a9bf2249cf0
 ;; Package-Version: 20200131.816
 ;; Package-X-Original-Version: 0.1
 ;; Keywords: comm proxy

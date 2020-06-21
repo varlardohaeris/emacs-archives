@@ -5,6 +5,7 @@
 ;; Author: Mohammed Ismail Ansari <team.terminal@gmail.com>
 ;; Version: 1.1
 ;; Package-Version: 1.1.0
+;; Package-Commit: 3d8c762a7dd7ac39032a3601bd6a717f206e670d
 ;; Keywords: productivity, presentation
 ;; Maintainer: Mohammed Ismail Ansari <team.terminal@gmail.com>
 ;; Created: 2014/12/22

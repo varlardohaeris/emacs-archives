@@ -1,7 +1,8 @@
  Setup:
   "Ctags" (Universal Ctags is recommended) should exist.
   "GNU Find" is used if it's installed but it's optional.
-  Or else, customize `counsel-etags-update-tags-backend' to generate tags file
+  Or else, customize `counsel-etags-update-tags-backend' to generate tags file.
+  Please note etags bundled with Emacs is not supported any more.
 
 Usage:
 
@@ -14,6 +15,9 @@ Usage:
      (setq imenu-create-index-function
            'counsel-etags-imenu-default-create-index-function)
 
+  Use `counsel-etags-imenu-excluded-names' to exclude tags by name.
+  Use `counsel-etags-imenu-excluded-types' to exclude tags by type
+
   `counsel-etags-scan-code' to create tags file
   `counsel-etags-grep' to grep
   `counsel-etags-grep-current-directory' to grep in current directory
@@ -21,8 +25,12 @@ Usage:
   `counsel-etags-find-tag' to two steps tag matching use regular expression and filter
   `counsel-etags-list-tag' to list all tags
   `counsel-etags-update-tags-force' to update current tags file by force
+  `counsel-etags-ignore-config-file' specifies paths of ignore configuration files
+  (".gitignore", ".hgignore", etc).  Path is either absolute or relative to the tags file.
+
 
 Tips:
+
 - Add below code into "~/.emacs" to AUTOMATICALLY update tags file:
 
   ;; Don't ask before reloading updated tags files
@@ -46,14 +54,13 @@ Tips:
   Files in `counsel-etags-extra-tags-files' have only symbol with absolute path.
 
 - You can set up `counsel-etags-ignore-directories' and `counsel-etags-ignore-filenames',
-  (eval-after-load 'counsel-etags
-    '(progn
-       ;; counsel-etags-ignore-directories does NOT support wildcast
-       (push "build_clang" counsel-etags-ignore-directories)
-       (push "build_clang" counsel-etags-ignore-directories)
-       ;; counsel-etags-ignore-filenames supports wildcast
-       (push "TAGS" counsel-etags-ignore-filenames)
-       (push "*.json" counsel-etags-ignore-filenames)))
+  (with-eval-after-load 'counsel-etags
+     ;; counsel-etags-ignore-directories does NOT support wildcast
+     (push "build_clang" counsel-etags-ignore-directories)
+     (push "build_clang" counsel-etags-ignore-directories)
+     ;; counsel-etags-ignore-filenames supports wildcast
+     (push "TAGS" counsel-etags-ignore-filenames)
+     (push "*.json" counsel-etags-ignore-filenames))
 
  - Rust programming language is supported.
    The easiest setup is to use ".dir-locals.el".
@@ -77,5 +84,16 @@ Tips:
  - User could append the extra content into tags file in `counsel-etags-after-update-tags-hook'.
    The parameter of hook is full path of the tags file.  `counsel-etags-tags-line' is a tool function
    to help user
+
+ - The ignore files (.gitignore, etc) are automatically detected and append to ctags
+   cli options as "--exclude="@/ignore/file/path".
+   Set `counsel-etags-ignore-config-files' to nil to turn off this feature.
+
+ - If base configuration file  "~/.ctags.exuberant" exists, it's used to
+   generate "~/.ctags" automatically.
+   "~/.ctags.exuberant" is in Exuberant Ctags format, but the "~/.ctags" is
+   in Universal Ctags format if Universal Ctags is used.
+   You can customize `counsel-etags-ctags-options-base' to change the path of
+   base configuration file.
 
 See https://github.com/redguardtoo/counsel-etags/ for more tips.

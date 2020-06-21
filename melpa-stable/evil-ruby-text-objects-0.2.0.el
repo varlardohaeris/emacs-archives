@@ -5,6 +5,7 @@
 ;; Author: Sergio Gil <sgilperez@gmail.com>
 ;; Version: 0.1
 ;; Package-Version: 0.2.0
+;; Package-Commit: e69abb6aad7687222cb47a8a64dc4dd66ef96a9e
 ;; Keywords: languages
 ;; URL: https://github.com/porras/evil-ruby-text-objects
 ;; Package-Requires: ((emacs "25.1") (evil "1.2.0"))

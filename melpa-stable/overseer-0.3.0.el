@@ -6,6 +6,7 @@
 
 ;; URL: http://www.github.com/tonini/overseer.el
 ;; Package-Version: 0.3.0
+;; Package-Commit: cf532a4e373e3da2077ccbaa48d4bfacd14661ba
 ;; Version: 0.3.0
 ;; Package-Requires: ((emacs "24") (dash "2.10.0") (pkg-info "0.4"))
 ;; Keywords:

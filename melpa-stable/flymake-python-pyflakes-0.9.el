@@ -5,6 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; URL: https://github.com/purcell/flymake-python-pyflakes
 ;; Package-Version: 0.9
+;; Package-Commit: 78806a25b0f01f03df4210a79a6eaeec59511d7a
 ;; Version: DEV
 ;; Package-Requires: ((flymake-easy "0.8"))
 

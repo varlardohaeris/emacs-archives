@@ -6,6 +6,7 @@
 ;; Created: 2020-02-11
 ;; URL: https://github.com/danielsz/meyvn-el
 ;; Package-Version: 20200311.2209
+;; Package-Commit: 5eb0423d4b7083cb330a73ef1cfd3e0dd8538567
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "25.1") (cider "0.23") (projectile "2.1") (s "1.12") (dash "2.17") (parseedn "0.1.0"))
 

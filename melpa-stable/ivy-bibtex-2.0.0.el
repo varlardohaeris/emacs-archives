@@ -4,6 +4,7 @@
 ;; Maintainer: Titus von der Malsburg <malsburg@posteo.de>
 ;; Version: 1.0.0
 ;; Package-Version: 2.0.0
+;; Package-Commit: d6a98ac6f28d2a6a05e203115211c98333d40aca
 ;; Package-Requires: ((swiper "0.7.0") (parsebib "1.0") (s "1.9.0") (dash "2.6.0") (f "0.16.2") (cl-lib "0.5") (biblio "0.2"))
 
 ;; This program is free software; you can redistribute it and/or modify

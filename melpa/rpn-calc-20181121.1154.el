@@ -19,6 +19,7 @@
 ;; Author: zk_phi
 ;; URL: https://github.com/zk-phi/rpn-calc
 ;; Package-Version: 20181121.1154
+;; Package-Commit: 27279f89c80eb3f28ff9f981eff06502056943e2
 ;; Version: 1.1.1
 ;; Package-Requires: ((popup "0.4"))
 

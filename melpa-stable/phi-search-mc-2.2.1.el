@@ -28,6 +28,7 @@
 ;; Author: Akinori MUSHA <knu@iDaemons.org>
 ;; URL: https://github.com/knu/phi-search-mc.el
 ;; Package-Version: 2.2.1
+;; Package-Commit: 4c6d2d39feb502febb81fc98b7b5854d88150c69
 ;; Created: 25 Aug 2013
 ;; Version: 2.2.1
 ;; Package-Requires: ((phi-search "2.0.0") (multiple-cursors "1.2.1"))

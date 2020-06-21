@@ -5,6 +5,7 @@
 ;; Author: Tobias Svensson <tob@tobiassvensson.co.uk>
 ;; URL: http://github.com/tobiassvn/
 ;; Package-Version: 1.1.0
+;; Package-Commit: 4cb4fafe092d587cc9e58ff61cf900fb7f409adf
 ;; Keywords: bundler ruby
 ;; Created: 31 Dec 2011
 ;; Version: 1.1.0

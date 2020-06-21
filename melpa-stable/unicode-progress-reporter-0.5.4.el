@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/rolandwalker/unicode-progress-reporter
 ;; URL: http://raw.github.com/rolandwalker/unicode-progress-reporter/master/unicode-progress-reporter.el
 ;; Package-Version: 0.5.4
+;; Package-Commit: f4705332412b12fc72ca868b77c78465561bda75
 ;; Version: 0.5.4
 ;; Last-Updated:  6 Nov 2013
 ;; EmacsWiki: UnicodeProgressReporter

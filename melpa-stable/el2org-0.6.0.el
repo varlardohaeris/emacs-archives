@@ -8,6 +8,7 @@
 ;; Homepage: https://github.com/tumashu/el2org
 ;; Keywords: convenience
 ;; Package-Version: 0.6.0
+;; Package-Commit: 4a33469cd305e581603d7ef63bc2a1f2156f2e2e
 ;; Package-Requires: ((emacs "25.1"))
 ;; Version: 0.10
 

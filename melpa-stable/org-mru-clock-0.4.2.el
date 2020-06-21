@@ -5,6 +5,7 @@
 ;; Author: Kevin Brubeck Unhammer <unhammer@fsfe.org>
 ;; Version: 0.4.2
 ;; Package-Version: 0.4.2
+;; Package-Commit: 50bf0ec93b3c60eaed7272149bd317bba69a5b6f
 ;; Package-Requires: ((emacs "24.3"))
 ;; URL: https://github.com/unhammer/org-mru-clock
 ;; Keywords: convenience, calendar

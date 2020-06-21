@@ -5,6 +5,7 @@
 ;; Author: Francesc Rocher <francesc.rocher@gmail.com>
 ;; URL: http://github.com/rocher/ubuntu-theme
 ;; Package-Version: 4.2
+;; Package-Commit: 41f09ca6c203da93bdadb2077556efd48e3b5d5a
 ;; Version: 0.4b
 
 ;; This program is free software; you can redistribute it and/or modify

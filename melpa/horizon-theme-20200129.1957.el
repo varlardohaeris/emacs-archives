@@ -5,6 +5,7 @@
 ;; Authors: Aodnait Étaín <aodhneine@tuta.io>
 ;; Version: 0.1.5
 ;; Package-Version: 20200129.1957
+;; Package-Commit: 040d19abd397d2132508a50e1266e86d324f7c69
 ;; URL: https://github.com/aodhneine/horizon-theme.el
 ;; Package-Requires: ((emacs "24.3"))
 

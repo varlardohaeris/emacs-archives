@@ -5,6 +5,7 @@
 ;; Author: Hiroaki Otsu <ootsuhiroaki@gmail.com>
 ;; Keywords: org, completion
 ;; Package-Version: 0.0.2
+;; Package-Commit: 9cbbda79e2fe964ded3f39cf7a2e74f1be3d6b9a
 ;; URL: https://github.com/aki2o/org-ac
 ;; Version: 0.0.2
 ;; Package-Requires: ((auto-complete-pcmp "0.0.1") (log4e "0.2.0") (yaxception "0.1"))

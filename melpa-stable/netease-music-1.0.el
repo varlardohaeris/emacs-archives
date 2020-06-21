@@ -3,6 +3,7 @@
 ;; Copyright (C) 2018  hiro方圆
 ;; Version: 1.0
 ;; Package-Version: 1.0
+;; Package-Commit: f3bba59664e1c4c4ed47f16fa786151272d99a70
 ;; URL: https://github.com/nicehiro/netease-music
 
 ;; Author: hiro方圆 <wfy11235813@gmail.com>

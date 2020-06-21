@@ -3,6 +3,7 @@
 ;; Author: Thorsten Jolitz <tjolitz AT gmail DOT com>
 ;; Version: 2.0
 ;; Package-Version: 2.0
+;; Package-Commit: 5c979b3b3873b0e67751a1321a9e271d066f2022
 ;; URL: https://github.com/tj64/navi
 
 ;;;; MetaData

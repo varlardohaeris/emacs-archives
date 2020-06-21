@@ -4,6 +4,7 @@
 
 ;; Author: Sean Allred <code@seanallred.com>
 ;; Keywords: hypermedia, tools, lisp
+;; Package-Commit: 672dd9ebd7e67d8089388b0c484cd650e76565f3
 ;; Homepage: https://github.com/vermiculus/graphql.el
 ;; Package-Version: 0.1.1
 ;; Package-X-Original-Version: 0.1.1

@@ -5,6 +5,7 @@
 ;; Author:  Hiroki YAMAKAWA <s06139@gmail.com>
 ;; Version: 0.1.0
 ;; Package-Version: 0.1.0
+;; Package-Commit: dcc595ba51b5aff972292278aa528c7ddb46f1b5
 ;; Package-Requires: ((emacs "24") (cl-lib "0.5") (ctable "0.1.2") (dash "2.10.0") (anaphora "1.0.0") (el-init "0.1.4"))
 ;; Keywords:
 

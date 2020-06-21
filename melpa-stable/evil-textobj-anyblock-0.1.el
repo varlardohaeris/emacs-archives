@@ -3,6 +3,7 @@
 ;; Author: Lit Wakefield <noct@openmailbox.org>
 ;; URL: https://github.com/noctuid/evil-textobj-anyblock
 ;; Package-Version: 0.1
+;; Package-Commit: 068d26a625cd6202aaf70a8ff399f9130c0ffa68
 ;; Keywords: evil
 ;; Package-Requires: ((cl-lib "0.5") (evil "1.1.0"))
 ;; Version: 0.1

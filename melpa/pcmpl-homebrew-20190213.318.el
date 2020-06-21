@@ -5,6 +5,7 @@
 ;; Git: https://github.com/zwild/pcmpl-homebrew.git
 ;; Version: 0.97.3
 ;; Package-Version: 20190213.318
+;; Package-Commit: 39f2e8faf4d866410a625bbcf88f2504940c8982
 ;; Created: 2014-08-11
 ;; Keywords: pcomplete, homebrew, tools, cask, services
 

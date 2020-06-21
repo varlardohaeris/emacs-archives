@@ -5,6 +5,7 @@
 ;; Author: Junpeng Qiu <qjpchmail@gmail.com>
 ;; Keywords: extensions
 ;; Package-Version: 0.1.1
+;; Package-Commit: 4dba2dc9a3ed63f58aa946aeec84a52d46ca4043
 ;; Version: 0.1.0
 ;; Package-Requires: ((org "8.2.10"))
 

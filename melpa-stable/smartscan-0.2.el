@@ -6,6 +6,7 @@
 ;; Maintainer: Mickey Petersen <mickey@masteringemacs.org>
 ;; Keywords: extensions
 ;; Package-Version: 0.2
+;; Package-Commit: 13c9fd6c0e38831f78dec55051e6b4a643963176
 ;; Version: 0.2
 
 ;;; Contributions

@@ -9,6 +9,7 @@
 ;; Created: Sep 17 2004
 ;; Keywords: mediawiki wikipedia network wiki
 ;; Package-Version: 20170813.555
+;; Package-Commit: 8473e12d1839f5287a4227586bf117dad820f867
 ;; URL: https://github.com/hexmode/mediawiki-el
 ;; Last Modified: <2017-08-13 01:53:37 mah>
 

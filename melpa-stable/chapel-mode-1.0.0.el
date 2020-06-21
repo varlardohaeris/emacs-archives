@@ -6,6 +6,7 @@
 ;; Created:    December 2002
 ;; Version:    201601260655
 ;; Package-Version: 1.0.0
+;; Package-Commit: 936a76a26bdc4f9570c4d54369f74bcd1cb0a698
 ;; Keywords:   Chapel languages oop
 
 ;;;; NB Version number is date and time yyyymmddhhMM UTC.

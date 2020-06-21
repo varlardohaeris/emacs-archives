@@ -6,6 +6,7 @@
 ;; Created: 11 Sep 2016
 ;; Version: 0.0.2
 ;; Package-Version: 0.0.2
+;; Package-Commit: 8d348ac70bdd6dc320c13a12941b32b38140e264
 ;; Keywords: project, convenience
 ;; Homepage: https://github.com/zonuexe/projectile-variable
 ;; Package-Requires: ((emacs "24") (cl-lib "0.5"))

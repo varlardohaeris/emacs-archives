@@ -4,6 +4,7 @@
 ;;
 ;; Version: 3.0.1
 ;; Package-Version: 3.0.1
+;; Package-Commit: 8ece9b1379a73e7dc0b6e682dd5a573f88a5cb32
 ;; Keywords: convenience, files, matching
 ;; Compatibility: GNU Emacs 24.3+
 ;;

@@ -6,6 +6,7 @@
 ;; Maintainer: Justin Burkett <justin@burkett.cc>
 ;; URL: https://github.com/justbur/emacs-vdiff
 ;; Package-Version: 0.2.2
+;; Package-Commit: f55acdbfcbb14e463d0850cfd041614c7002669e
 ;; Version: 0.2.2
 ;; Keywords: diff
 ;; Package-Requires: ((emacs "24.4") (hydra "0.13.0"))

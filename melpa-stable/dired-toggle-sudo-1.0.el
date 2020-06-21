@@ -5,6 +5,7 @@
 ;; Author: Sebastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org>
 ;; Keywords: emacs, dired
 ;; Package-Version: 1.0
+;; Package-Commit: 02449dbda4e168f99fe5352c9628df5d39e11483
 ;; Created: 2011-07-06
 ;; Last changed: 2015-11-09 11:03:27
 ;; Licence: WTFPL, grab your copy here: http://sam.zoy.org/wtfpl/

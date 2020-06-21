@@ -1,0 +1,2 @@
+
+(helm-wikipedia . [(20200614 737) ((helm (3 6)) (emacs (25 1))) "Wikipedia suggestions" single ((:commit . "543425c66d8bf27a73d1ad29d0a1aca447be35e3") (:url . "https://github.com/emacs-helm/helm-wikipedia"))])

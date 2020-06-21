@@ -3,6 +3,7 @@
 ;; Author: Masahiro Hayashi <mhayashi1120@gmail.com>
 ;; Keywords: data, convenience
 ;; Package-Version: 0.9.0
+;; Package-Commit: 4fa74851cd928f30e9f2ee1aa27ee6074ad253ea
 ;; URL: https://github.com/mhayashi1120/Emacs-kaesar/raw/master/cipher/kaesar-mode.el
 ;; Emacs: GNU Emacs 22 or later
 ;; Version: 0.9.0

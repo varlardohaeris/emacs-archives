@@ -5,6 +5,7 @@
 ;; Author: Quang Linh LE <linktohack@gmail.com>
 ;; URL: http://github.com/linktohack/evil-space
 ;; Package-Version: 0.0.6
+;; Package-Commit: f77860fa00662e2def3e1885adac777f051e1e61
 ;; Version: 0.0.6
 ;; Keywords: space repeat motion
 ;; Package-Requires: ((evil "1.0.0"))

@@ -9,6 +9,7 @@
 ;; Adapted-By: Yesudeep Mangalapilly
 ;; Keywords: tango palette color theme emacs
 ;; Package-Version: 20170924.1509
+;; Package-Commit: e2f2ea9c35f06dfc43a29c91c14cf0cdb19f2144
 ;; URL: https://github.com/juba/color-theme-tangotango
 ;; Version: 0.0.6
 

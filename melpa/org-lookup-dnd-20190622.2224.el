@@ -9,6 +9,7 @@
 ;; Created: May 2019
 ;; Version: 0.1
 ;; Package-Version: 20190622.2224
+;; Package-Commit: bba86a9b9979bd79e9bfaf4a7b472682b9435490
 ;; URL: https://gitlab.com/maltelau/org-lookup-dnd
 ;; Package-Requires: ((emacs "24.4") (org-pdfview "0.1"))
 

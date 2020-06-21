@@ -6,6 +6,7 @@
 
 ;; Keywords: textmate osx mac
 ;; Package-Version: 1
+;; Package-Commit: 484845493a3c9b570799aea5195a5435a5a01b76
 ;; Created: 22 Nov 2008
 ;; Author: Chris Wanstrath <chris@ozmm.org>
 ;; Version: 1

@@ -8,6 +8,7 @@
 ;; Keyword: character navigation
 ;; Version: 0.0.1
 ;; Package-Version: 20190418.829
+;; Package-Commit: c0209143fbeafcc9ba93bc2333dd08e72211fa20
 ;; Package-Requires: ((emacs "24.3"))
 ;; URL: https://github.com/jcs090218/goto-char-preview
 

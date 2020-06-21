@@ -5,6 +5,7 @@
 ;; Author: Tyler Smith <tyler@plantarum.ca>
 ;; Version: 0.1
 ;; Package-Version: 0.1
+;; Package-Commit: 23ca856ca979fec0f90196b357f2b74fe1cc3a73
 ;; Package-Requires: ((cl-lib "0.2"))
 ;; Keywords: GRASS, GIS
 

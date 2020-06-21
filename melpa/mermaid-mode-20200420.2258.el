@@ -19,6 +19,7 @@
 
 ;; Version: 1.0
 ;; Package-Version: 20200420.2258
+;; Package-Commit: b8673381ff8bbfbdf3f165ae928e7c775a3117e9
 ;; Author: Adrien Brochard
 ;; Keywords: mermaid graphs tools processes
 ;; URL: https://github.com/abrochard/mermaid-mode

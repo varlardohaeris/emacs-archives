@@ -6,6 +6,7 @@
 ;; Created: 31 Dec 2014
 ;; Version: 0.1
 ;; Package-Version: 0.1
+;; Package-Commit: 662f8350a83311503dc0aae47a28752f9f1270c9
 ;; URL: https://gitorious.org/alezost-emacs/date-at-point
 ;; URL: https://github.com/alezost/date-at-point.el
 ;; Keywords: convenience

@@ -6,6 +6,7 @@
 ;; Author: Arun I <arunisaac@systemreboot.net>
 ;; Version: 0.3.2
 ;; Package-Version: 0.3.2
+;; Package-Commit: c1058d99c34e62b99dbfca13ada47519fb51bf73
 ;; Keywords: data
 ;; Homepage: https://git.systemreboot.net/exiftool.el
 ;; Package-Requires: ((emacs "25"))

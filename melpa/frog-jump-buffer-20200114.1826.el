@@ -5,6 +5,7 @@
 ;; Author: Justin Talbott
 ;; URL: https://github.com/waymondo/frog-jump-buffer
 ;; Package-Version: 20200114.1826
+;; Package-Commit: 1eb289c9b2a4bbebb3065076750f54216ac9c718
 ;; Version: 0.1.4
 ;; Package-Requires: ((emacs "24") (avy "0.4.0") (dash "2.4.0") (frog-menu "0.2.8"))
 ;; License: GNU General Public License version 3, or (at your option) any later version

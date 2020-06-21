@@ -3,6 +3,7 @@
 ;; Author: Wouter Bolsterlee <wouter@bolsterl.ee>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: 56bc201e265a6bd482a7c41a7c81d2238341ef3a
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: evil key swap numbers symbols
 ;; URL: https://github.com/wbolster/evil-swap-keys

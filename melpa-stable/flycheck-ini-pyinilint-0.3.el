@@ -5,6 +5,7 @@
 ;; Author: Daniel J. R. May <daniel.may@danieljrmay.com>
 ;; URL: https://gitlab.com/danieljrmay/flycheck-ini-pyinilint
 ;; Package-Version: 0.3
+;; Package-Commit: 54744a78d06373404933fedc3ca836916e83de51
 ;; Package-Requires: ((flycheck "31"))
 ;; Created: 12 March 2019
 ;; Version: 0.3

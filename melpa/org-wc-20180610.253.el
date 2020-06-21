@@ -1,5 +1,6 @@
 ;;; org-wc.el --- Count words in org mode trees.  -*- lexical-binding: t -*-
 ;; Package-Version: 20180610.253
+;; Package-Commit: 0716c1e8276f6953e139e357e97566e792c8be19
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

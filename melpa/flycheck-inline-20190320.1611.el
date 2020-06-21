@@ -5,6 +5,7 @@
 ;; Author: fmdkdd
 ;; URL: https://github.com/flycheck/flycheck-inline
 ;; Package-Version: 20190320.1611
+;; Package-Commit: cf9eceabff8370f3b834b943a5777b9f914583f9
 ;; Keywords: tools, convenience
 ;; Version: 0.1-cvs
 ;; Package-Requires: ((emacs "25.1") (flycheck "32"))

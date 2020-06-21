@@ -6,6 +6,7 @@
 ;; Maintainer: Justin Burkett <justin@burkett.cc>
 ;; URL: https://github.com/justbur/emacs-vdiff-magit
 ;; Package-Version: 0.3.2
+;; Package-Commit: 7e841dc7225300dd4d5560faad04e5c44cd8b267
 ;; Version: 0.3.2
 ;; Keywords: diff
 ;; Package-Requires: ((emacs "24.4") (vdiff "0.3") (magit "2.10.0"))

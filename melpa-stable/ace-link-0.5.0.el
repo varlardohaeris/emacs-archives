@@ -5,6 +5,7 @@
 ;; Author: Oleh Krehel <ohwoeowho@gmail.com>
 ;; URL: https://github.com/abo-abo/ace-link
 ;; Package-Version: 0.5.0
+;; Package-Commit: 7b9bc8d916b60a501c32b63ce81f315486ad44e9
 ;; Version: 0.5.0
 ;; Package-Requires: ((avy "0.4.0"))
 ;; Keywords: convenience, links, avy

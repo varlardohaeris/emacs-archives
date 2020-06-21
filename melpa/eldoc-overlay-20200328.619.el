@@ -5,6 +5,7 @@
 ;; Maintainer: stardiviner <numbchild@gmail.com>
 ;; Keywords: documentation, eldoc, overlay
 ;; Package-Version: 20200328.619
+;; Package-Commit: ec318acb564ac5679285b51b7d979410d393fac9
 ;; URL: https://github.com/stardiviner/eldoc-overlay
 ;; Created:  14th Jan 2017
 ;; Modified: 18th Dec 2017

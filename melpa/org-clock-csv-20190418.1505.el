@@ -5,6 +5,7 @@
 ;; Author: Aaron Jacobs <atheriel@gmail.com>
 ;; URL: https://github.com/atheriel/org-clock-csv
 ;; Package-Version: 20190418.1505
+;; Package-Commit: e2fbaa1ad1a1be40fceecde603a600b292b76acc
 ;; Keywords: calendar, data, org
 ;; Version: 1.2
 ;; Package-Requires: ((org "8.3") (s "1.0"))

@@ -5,6 +5,7 @@
 ;; Author: Phil Hagelberg, Eric Schulte
 ;; URL: https://github.com/eschulte/rinari
 ;; Package-Version: 2.11
+;; Package-Commit: e2ed2fa55ac3435a86b1cf6a4f2d29aebc309135
 ;; Version: DEV
 ;; Created: 2006-11-10
 ;; Keywords: ruby, rails, project, convenience, web

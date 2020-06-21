@@ -5,6 +5,7 @@
 ;; Author: Anders Lindgren
 ;; Keywords: faces, languages
 ;; Package-Version: 20200103.1702
+;; Package-Commit: 9e0fcd1ee2cf316f661f2d652368b12f83a4ec9c
 ;; Created: 2012-12-05
 ;; Version: 0.1.6
 ;; Package-Requires: ((cmake-mode "0.0"))

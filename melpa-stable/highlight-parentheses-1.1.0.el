@@ -6,6 +6,7 @@
 ;; Maintainer: Tassilo Horn <tsdh@gnu.org>
 ;; Version: 1.1.0
 ;; Package-Version: 1.1.0
+;; Package-Commit: 5aa800a68e3795716de1e7f2722e836781190f31
 ;; Keywords: faces, matching
 ;; URL: https://github.com/tsdh/highlight-parentheses.el
 ;;      http://nschum.de/src/emacs/highlight-parentheses/ (old website)

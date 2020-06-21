@@ -8,6 +8,7 @@
 ;; Repository: https://github.com/takaxp/org-tree-slide
 ;; Keywords: org-mode, presentation, narrowing
 ;; Package-Version: 2.8.4
+;; Package-Commit: dccd80418a4444df5e8301695ff0d0dfe86a3c21
 ;;
 ;; Committers: Yuuki ARISAWA (@uk-ar)
 ;;             Eric S Fraga

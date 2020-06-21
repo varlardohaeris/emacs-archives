@@ -7,6 +7,7 @@
 ;; Maintainer: Roman Gonzalez <romanandreg@gmail.com>
 ;; Version: 0.2.7
 ;; Package-Version: 0.2.7
+;; Package-Commit: 4546d4e4dfbec20ee8c423c045408a3388a9eab9
 ;; Package-Requires: ((s "1.9.0") (dash "1.5.0") (multi-term "0.8.14"))
 ;; Keywords: terminal
 

@@ -6,6 +6,7 @@
 ;;          Matus Goljer <matus.goljer@gmail.com>
 ;; Version: 2.0.1
 ;; Package-Version: 2.1.0
+;; Package-Commit: 0710e25138c1cec40ccf78d704741143c5bac735
 ;; URL: https://github.com/DamienCassou/beginend
 ;; Package-Requires: ((emacs "25.3"))
 ;; Created: 01 Jun 2015

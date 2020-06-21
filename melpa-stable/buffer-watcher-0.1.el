@@ -6,6 +6,7 @@
 ;; Package: buffer-watcher
 ;; Package-Requires: ((f "0.16.2"))
 ;; Package-Version: 0.1
+;; Package-Commit: 353d76882c65d44341b6f28bd86279dda00c3440
 ;; Version: 0.1
 
 ;; This file is not part of GNU Emacs.

@@ -5,6 +5,7 @@
 ;; Author: Ingo Lohmar <i.lohmar@gmail.com>
 ;; URL: https://github.com/company-mode/company-statistics
 ;; Package-Version: 0.2.2
+;; Package-Commit: 906d8137224c1a5bd1dc913940e0d32ffecf5523
 ;; Version: 0.2.2
 ;; Keywords: abbrev, convenience, matching
 ;; Package-Requires: ((emacs "24.3") (company "0.8.5"))

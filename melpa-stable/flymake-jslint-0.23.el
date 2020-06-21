@@ -4,6 +4,7 @@
 ;;; Homepage: https://github.com/purcell/flymake-jslint
 ;;; Version: DEV
 ;; Package-Version: 0.23
+;; Package-Commit: 30693f75059bab53a9d2eb676c68751f4d8b091c
 ;;
 ;;; Commentary:
 ;;

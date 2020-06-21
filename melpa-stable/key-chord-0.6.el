@@ -26,6 +26,7 @@
 ;; Created: 27 April 2003
 ;; Version: 0.6 (2012-10-23)
 ;; Package-Version: 0.6
+;; Package-Commit: 8468998946367157830df19a1e92785d22a34178
 ;; Keywords: keyboard chord input
 
 ;;; Commentary:

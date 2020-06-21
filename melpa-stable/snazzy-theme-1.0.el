@@ -8,6 +8,7 @@
 
 ;; Keywords: faces, theme, color, snazzy
 ;; Package-Version: 1.0
+;; Package-Commit: 578d7ebc4ed91c0a630b652c4b6fdd54d9ae16cd
 ;; URL: https://github.com/weijiangan/emacs-snazzy/
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "24") (base16-theme "2.1"))

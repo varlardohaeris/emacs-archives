@@ -5,6 +5,7 @@
 ;; Author: Philipp Middendorf
 ;; URL: https://github.com/plapadoo/vdf-mode
 ;; Package-Version: 20191122.823
+;; Package-Commit: 35f5c3531b256b6578b9878ac2ce1ed79b3c8511
 ;; Version: 1.2
 ;; Package-Requires: ((emacs "24.3"))
 

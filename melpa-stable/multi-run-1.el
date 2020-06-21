@@ -5,6 +5,7 @@
 ;; Author: Sagar Jha
 ;; URL: https://www.github.com/sagarjha/multi-run
 ;; Package-Version: 1
+;; Package-Commit: 87d9eed414999fd94685148d39e5308c099e65ca
 ;; Package-Requires: ((emacs "24") (window-layout "1.4"))
 ;; Version: 1.0
 ;; Keywords: tools, terminals

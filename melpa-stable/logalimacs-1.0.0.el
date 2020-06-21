@@ -5,6 +5,7 @@
 ;; Author: Yuta Yamada <yamada@clear-code.com>
 ;; URL: https://github.com/logaling/logalimacs
 ;; Package-Version: 1.0.0
+;; Package-Commit: cfd7aaa925934f876eee6e8c550cf6e7a239a2ac
 ;; Version: 0.9.0
 
 ;;; Licence:

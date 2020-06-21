@@ -5,6 +5,7 @@
 ;; Author: Mihai Olteanu <mihai_olteanu@fastmail.fm>
 ;; Version: 1.2
 ;; Package-Version: 20200320.1839
+;; Package-Commit: 54636059512adec0176950e8fce3b9bf7423619d
 ;; Package-Requires: ((emacs "26.1") (request "0.3.0") (anaphora "1.0.4") (memoize "1.1") (elquery "0.1.0") (s "1.12.0"))
 ;; Keywords: multimedia, api
 ;; URL: https://github.com/mihaiolteanu/lastfm.el/

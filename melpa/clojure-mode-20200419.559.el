@@ -10,6 +10,7 @@
 ;;       Artur Malabarba <bruce.connor.am@gmail.com>
 ;; URL: http://github.com/clojure-emacs/clojure-mode
 ;; Package-Version: 20200419.559
+;; Package-Commit: da9f1ec717dac1194404b4a4562dba6bd9a4ee3a
 ;; Keywords: languages clojure clojurescript lisp
 ;; Version: 5.12.0-snapshot
 ;; Package-Requires: ((emacs "25.1"))

@@ -5,6 +5,7 @@
 ;; Author: Sviridov Alexander <sviridov.vmi@gmail.com>
 ;; URL: https://github.com/sviridov/undercover.el
 ;; Package-Version: 20191122.2126
+;; Package-Commit: 9f4fbd04cd25c61397a7058bf2bad33c7b669aa4
 ;; Created: Sat Sep 27 2014
 ;; Keywords: lisp, tests, coverage, tools
 ;; Version: 0.6.1

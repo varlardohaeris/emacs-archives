@@ -4,6 +4,7 @@
 ;; Author: Lautaro García <https://github.com/Lautaro-Garcia>
 ;; URL: https://github.com/Lautaro-Garcia/counsel-spotify
 ;; Package-Version: 20200326.156
+;; Package-Commit: 5d23a898483de19cb60773492c9846facb8ae281
 ;; Package: counsel-spotify
 ;; Package-Requires: ((emacs "25.1") (ivy "0.13.0"))
 ;; Version: 0.4.0

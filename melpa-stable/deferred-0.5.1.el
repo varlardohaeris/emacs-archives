@@ -5,6 +5,7 @@
 ;; Author: SAKURAI Masashi <m.sakurai at kiwanami.net>
 ;; Version: 0.5.1
 ;; Package-Version: 0.5.1
+;; Package-Commit: d012a1ab50edcc2c44e3e49006f054dbff47cb6c
 ;; Keywords: deferred, async
 ;; Package-Requires: ((emacs "24.4"))
 ;; URL: https://github.com/kiwanami/emacs-deferred

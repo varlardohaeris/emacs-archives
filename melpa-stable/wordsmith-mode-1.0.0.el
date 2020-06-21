@@ -6,6 +6,7 @@
 
 ;; Version: 20140202.001
 ;; Package-Version: 1.0.0
+;; Package-Commit: 41b10f2fe3589da9812395cb417c3dcf906f0969
 
 ;;; Documentation:
 ;;

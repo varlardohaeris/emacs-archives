@@ -6,6 +6,7 @@
 ;; Created: 12 May 2019
 ;; Version: 0.0.1
 ;; Package-Version: 0.0.1
+;; Package-Commit: 310579e5db57c344460f74239bd1a8fc0d6ddf33
 ;; Keywords: languages, php
 ;; Homepage: https://github.com/emacs-php/phpt-mode
 ;; Package-Requires: ((emacs "25") (polymode "0.1.5") (php-mode "1.21.2"))

@@ -5,6 +5,7 @@
 ;; Author: Ivan Malison <IvanMalison@gmail.com>
 ;; Keywords: org projectile todo helm outlines
 ;; Package-Version: 1.1.0
+;; Package-Commit: 48f621b595e748c5e03431f237facf258ffc9443
 ;; URL: https://github.com/IvanMalison/org-projectile
 ;; Version: 0.0.0
 ;; Package-Requires: ((org-projectile "1.0.0") (helm "2.3.1") (emacs "25"))

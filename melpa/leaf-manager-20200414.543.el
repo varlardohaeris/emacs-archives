@@ -5,6 +5,7 @@
 ;; Author: Naoya Yamashita <conao3@gmail.com>
 ;; Version: 1.0.0
 ;; Package-Version: 20200414.543
+;; Package-Commit: f2ae35e02ebe218daa3076a0e9d83b4feadfbb0a
 ;; Keywords: convenience leaf
 ;; Package-Requires: ((emacs "26.1") (leaf "4.1") (leaf-convert "1.0") (ppp "2.1"))
 ;; URL: https://github.com/conao3/leaf-manager.el

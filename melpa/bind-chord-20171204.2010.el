@@ -5,6 +5,7 @@
 ;; Author: Justin Talbott <justin@waymondo.com>
 ;; Keywords: convenience, tools, extensions
 ;; Package-Version: 20171204.2010
+;; Package-Commit: 2b8f8a3f156e61ae6d8c7b7ce1deea3f0f6e1599
 ;; URL: https://github.com/waymondo/use-package-chords
 ;; Version: 0.2
 ;; Package-Requires: ((bind-key "1.0") (key-chord "0.6"))

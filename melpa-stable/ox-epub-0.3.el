@@ -7,6 +7,7 @@
 
 ;; URL: http://github.com/ofosos/org-epub
 ;; Package-Version: 0.3
+;; Package-Commit: 3d958203e169cbfb2204c43cb4c5543befec0b9d
 ;; Keywords: hypermedia
 
 ;; Version: 0.1.0

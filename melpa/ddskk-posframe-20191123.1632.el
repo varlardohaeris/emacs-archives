@@ -6,6 +6,7 @@
 ;; Maintainer: Naoya Yamashita <conao3@gmail.com>
 ;; Keywords: tooltip convenience posframe
 ;; Package-Version: 20191123.1632
+;; Package-Commit: 8a37953b37d397ba406bc308eb908bd966d34af6
 ;; Version: 1.0.8
 ;; URL: https://github.com/conao3/ddskk-posframe.el
 ;; Package-Requires: ((emacs "26.1") (posframe "0.4.3") (ddskk "16.2.50"))

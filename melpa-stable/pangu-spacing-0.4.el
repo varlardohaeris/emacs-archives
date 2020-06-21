@@ -6,6 +6,7 @@
 ;; Kyewords: converience
 ;; Version: 0.4
 ;; Package-Version: 0.4
+;; Package-Commit: 034b4ef8a1b29bf7bfed6a916380941506ed26ed
 ;; X-URL: http://github.com/coldnew/pangu-spacing
 
 ;; This file is free software: you can redistribute it and/or modify

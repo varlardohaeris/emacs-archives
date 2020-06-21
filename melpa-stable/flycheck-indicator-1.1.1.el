@@ -3,6 +3,7 @@
 ;; Author: Eder Elorriaga <gexplorer8@gmail.com>
 ;; URL: https://github.com/gexplorer/flycheck-indicator
 ;; Package-Version: 1.1.1
+;; Package-Commit: e00d9a20cbc21d6814c27cc9206296da394478e8
 ;; Keywords: convenience language tools
 ;; Version: 1.1
 ;; Package-Requires: ((flycheck "0.15"))

@@ -1,0 +1,2 @@
+
+(mugur . [(20200602 642) ((emacs (26 1)) (s (1 12 0)) (anaphora (1 0 4))) "A high-level configurator for the ErgoDox EZ keyboard" single ((:commit . "5333d0ff56cb4d1448e4cdf48278abcbc32e96eb") (:keywords "multimedia") (:authors ("Mihai Olteanu" . "mihai_olteanu@fastmail.fm")) (:maintainer "Mihai Olteanu" . "mihai_olteanu@fastmail.fm") (:url . "https://github.com/mihaiolteanu/mugur"))])

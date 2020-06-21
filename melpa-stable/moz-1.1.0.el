@@ -2,6 +2,7 @@
 
 ;; URL: http://github.com/bard/mozrepl/raw/master/chrome/content/moz.el
 ;; Package-Version: 1.1.0
+;; Package-Commit: 646208b67e6c9c56d188db1eba999846d518935f
 
 ;; Copyright (C) 2006 by Massimiliano Mirra
 ;;

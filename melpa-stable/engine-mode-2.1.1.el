@@ -3,6 +3,7 @@
 ;; Author: Harry R. Schwartz <hello@harryrschwartz.com>
 ;; Version: 2.1.1
 ;; Package-Version: 2.1.1
+;; Package-Commit: 96b3488a6de2f50b8ba3a101e04ebcbe9821a989
 ;; URL: https://github.com/hrs/engine-mode
 ;; Package-Requires: ((cl-lib "0.5"))
 

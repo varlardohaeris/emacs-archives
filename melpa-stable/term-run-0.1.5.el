@@ -3,6 +3,7 @@
 ;; Author: 10sr <8slashes+el [at] gmail [dot] com>
 ;; URL: https://github.com/10sr/term-run-el
 ;; Package-Version: 0.1.5
+;; Package-Commit: 54650dbbabb13cb2a6c0670ff6b24b29717a6a8b
 ;; Version: 0.1.5
 ;; Keywords: utility shell command term-mode
 

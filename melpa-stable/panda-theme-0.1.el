@@ -6,6 +6,7 @@
 
 ;; Author: jamiecollinson
 ;; Version: 0.1
+;; Package-Commit: ae24179e7a8a9667b169f00dbd891257530c1d22
 ;; Package-Version: 0.1
 ;; Package-X-Original-Version: 20180114t1941
 ;; Package-Requires: ((emacs "24"))

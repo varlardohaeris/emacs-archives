@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/xuchunyang/code-stats-emacs
 ;; Package-Requires: ((emacs "25") (request "0.3.0"))
 ;; Package-Version: 0.1
+;; Package-Commit: 20d60ded0743f01206c3c2e92ab73788def9adcb
 ;; Created: 2018-07-13T13:29:18+08:00
 ;; Version: 0.1
 

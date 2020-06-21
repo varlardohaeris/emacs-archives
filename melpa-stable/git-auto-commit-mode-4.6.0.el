@@ -6,6 +6,7 @@
 ;; Created: Jan 9, 2012
 ;; Version: 4.6.0
 ;; Package-Version: 4.6.0
+;; Package-Commit: ae69e61233417a7f14efba35e42bd842b707aeb0
 ;; Keywords: vc
 ;; URL: http://projects.ryuslash.org/git-auto-commit-mode/
 

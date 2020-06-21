@@ -4,6 +4,7 @@
 ;; Author: Bailey Ling
 ;; URL: https://github.com/bling/pt.el
 ;; Package-Version: 0.0.3
+;; Package-Commit: a539dc11ecb2d69760ff50f76c96f49895ce1e1e
 ;; Filename: pt.el
 ;; Description: A front-end for pt, the Platinum Searcher
 ;; Created: 2014-04-27

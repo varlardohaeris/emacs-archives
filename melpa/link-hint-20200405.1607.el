@@ -3,6 +3,7 @@
 ;; Author: Fox Kiester <noct@posteo.net>
 ;; URL: https://github.com/noctuid/link-hint.el
 ;; Package-Version: 20200405.1607
+;; Package-Commit: 7440704cacb5c0fab35fff8ec59d30fbea17f44a
 ;; Keywords: convenience url avy link links hyperlink
 ;; Package-Requires: ((avy "0.4.0") (emacs "24.1") (cl-lib "0.5"))
 ;; Version: 0.1

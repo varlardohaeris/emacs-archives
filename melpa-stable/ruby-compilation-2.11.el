@@ -5,6 +5,7 @@
 ;; Author: Eric Schulte
 ;; URL: https://github.com/eschulte/rinari
 ;; Package-Version: 2.11
+;; Package-Commit: e2ed2fa55ac3435a86b1cf6a4f2d29aebc309135
 ;; Version: 0.17
 ;; Created: 2008-08-23
 ;; Keywords: test convenience

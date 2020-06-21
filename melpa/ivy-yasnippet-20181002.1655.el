@@ -4,6 +4,7 @@
 ;; Author: Michał Krzywkowski <k.michal@zoho.com>
 ;; URL: https://github.com/mkcms/ivy-yasnippet
 ;; Package-Version: 20181002.1655
+;; Package-Commit: ebf05761cd890bccd8072051f988dae7ab11c9ce
 ;; Package-Requires: ((emacs "24") (ivy "0.10.0") (yasnippet "0.12.2") (dash "2.14.1") (cl-lib))
 ;; Version: 0.0.1
 ;; Keywords: convenience

@@ -6,6 +6,7 @@
 ;; Created: 2019/05/28
 ;; Version: 0.1.1
 ;; Package-Version: 20191229.1929
+;; Package-Commit: 48ecee2aa7b3d085a3deff809fb3ae31ae4ef9dd
 ;; Package-Requires: ((emacs "24.4"))
 ;; URL: https://github.com/twlz0ne/elpl
 ;; Keywords: lisp, tool

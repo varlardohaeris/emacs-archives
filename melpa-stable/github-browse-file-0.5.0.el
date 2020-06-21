@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/osener/github-browse-file
 ;; Version: 0.5.0
 ;; Package-Version: 0.5.0
+;; Package-Commit: fa5cc00a40869430fb44596792961a4cddf9c265
 ;; Keywords: convenience vc git github
 ;; Package-Requires: ((cl-lib "0.5"))
 

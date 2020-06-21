@@ -1,0 +1,2 @@
+
+(ivy-avy . [(20200615 938) ((emacs (24 5)) (ivy (0 13 0)) (avy (0 5 0))) "Avy integration for Ivy" single ((:commit . "a007ba637d6c6e232fb894e10a40cfc1142a24ae") (:keywords "convenience") (:authors ("Oleh Krehel" . "ohwoeowho@gmail.com")) (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com") (:url . "https://github.com/abo-abo/swiper"))])

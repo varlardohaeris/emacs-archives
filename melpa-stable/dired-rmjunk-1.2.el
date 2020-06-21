@@ -5,6 +5,7 @@
 ;; Author: Jakob L. Kreuze <zerodaysfordays@sdf.lonestar.org>
 ;; Version: 1.2
 ;; Package-Version: 1.2
+;; Package-Commit: 6a9fa6a35498e53e8c57282e3b08dedc896d880d
 ;; Package-Requires (cl-lib dired)
 ;; Keywords: files matching
 ;; URL: https://git.sr.ht/~jakob/dired-rmjunk

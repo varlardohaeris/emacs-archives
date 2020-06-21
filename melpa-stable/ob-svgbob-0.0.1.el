@@ -5,6 +5,7 @@
 ;; Author: Marcio Giaxa <i@mgxm.me>
 ;; Keywords: literate programming, svg, ascii
 ;; Package-Version: 0.0.1
+;; Package-Commit: 9a930b1ed93e5ce1818029b2ec9e7662c098dbf4
 ;; Homepage: https://github.com/mgxm/ob-svgbob
 ;; Version:  0.0.1
 

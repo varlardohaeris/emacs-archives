@@ -7,6 +7,7 @@
 ;; Maintainer: Jean-Philippe Bernardy <jeanphilippe.bernardy@gmail.com>
 ;; URL: https://github.com/jyp/attrap
 ;; Package-Version: 1.1
+;; Package-Commit: 4cf3e4a16255997e7c3c39682a72866a0a37dd4b
 ;; Created: February 2018
 ;; Keywords: programming, tools
 ;; Package-Requires: ((dash "2.12.0") (emacs "25.1") (f "0.19.0") (flycheck "0.30") (s "1.11.0"))

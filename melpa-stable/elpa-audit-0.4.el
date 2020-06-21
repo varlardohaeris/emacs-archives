@@ -5,6 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Version: DEV
 ;; Package-Version: 0.4
+;; Package-Commit: a7a1806278c73ea6cb6d235714e7bc8088971df5
 ;; URL: https://github.com/purcell/elpa-audit
 ;; Keywords: maint
 

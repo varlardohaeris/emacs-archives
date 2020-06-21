@@ -5,6 +5,7 @@
 ;; Author: Jim Myhrberg <contact@jimeh.me>
 ;; Version: 0.3.0
 ;; Package-Version: 0.3.0
+;; Package-Commit: 16d4ff2606789b506f0d2f53d12f02d5b1b64f9b
 ;; Keywords: themes
 ;; URL: https://github.com/jimeh/twilight-anti-bright-theme.el
 ;;

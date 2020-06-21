@@ -8,6 +8,7 @@
 
 ;; Keywords: unix
 ;; Package-Version: 0.0.1
+;; Package-Commit: 5fc8fa29bea9dd8e9c822af92f9bc6ddc223635f
 ;; Homepage: http://www.github.com/travisbhartwell/nix-emacs/
 ;; Version: "0.1.0"
 ;; Package-Requires: ((company "0.8.0") (nixos-options "0.0.1") (cl-lib "0.5.0"))

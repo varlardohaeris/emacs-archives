@@ -4,6 +4,7 @@
 
 ;; Version: 1.1
 ;; Package-Version: 1.1
+;; Package-Commit: daef49974446ed4c1001e0549c3f74679bca6bd3
 ;; Keywords: eww, browse, conkeror
 ;; Author: Andrey Kotlarski <m00naticus@gmail.com>
 ;; URL: https://github.com/m00natic/eww-lnum

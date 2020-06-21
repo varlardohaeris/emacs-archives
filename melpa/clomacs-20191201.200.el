@@ -5,6 +5,7 @@
 ;; Author: Kostafey <kostafey@gmail.com>
 ;; URL: https://github.com/clojure-emacs/clomacs
 ;; Package-Version: 20191201.200
+;; Package-Commit: 88b8fc6d1b7105adae009578ef24fedaf157f341
 ;; Keywords: clojure, interaction
 ;; Version: 0.0.4
 ;; Package-Requires: ((emacs "24.3") (cider "0.22.1") (s "1.12.0") (simple-httpd "1.4.6"))

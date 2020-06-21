@@ -5,6 +5,7 @@
 ;; Author: Adam Porter <adam@alphapapa.net
 ;; URL: http://github.com/alphapapa/ts.el
 ;; Package-Version: 0.2
+;; Package-Commit: 540f6a5adab5d881cc5f50835c0a3fe70e74b992
 ;; Version: 0.2
 ;; Package-Requires: ((emacs "26.1") (dash "2.14.1") (s "1.12.0"))
 ;; Keywords: date time timestamp

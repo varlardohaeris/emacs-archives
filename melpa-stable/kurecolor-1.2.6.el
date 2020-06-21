@@ -4,6 +4,7 @@
 
 ;;; Version: 1.2.6
 ;; Package-Version: 1.2.6
+;; Package-Commit: a27153f6a01f38226920772dc4917b73166da5e6
 
 ;;; Commentary:
 ;;

@@ -7,6 +7,7 @@
 ;; Homepage: https://github.com/raxod502/blackout
 ;; Keywords: extensions
 ;; Package-Version: 1.0
+;; Package-Commit: 87822abd1ed46411368ef91752a7f51c0ef2aee0
 ;; Package-Requires: ((emacs "26"))
 ;; Version: 1.0
 

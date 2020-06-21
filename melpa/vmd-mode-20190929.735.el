@@ -4,6 +4,7 @@
 
 ;; Author: Blake Miller <blak3mill3r@gmail.com>
 ;; Version: 0.2.0
+;; Package-Commit: aa9b753601ee1ed31b4f717629179ce7a2cacba5
 ;; Package-Version: 20190929.735
 ;; Package-X-Original-Version: 20161106.125
 ;; Keywords: markdown, preview, live, vmd

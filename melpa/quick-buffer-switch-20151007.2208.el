@@ -5,6 +5,7 @@
 ;; Author: Sebastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org>
 ;; Keywords: emacs, configuration
 ;; Package-Version: 20151007.2208
+;; Package-Commit: d5fdd67b4c9f04b7a7122da2215e4ae076a03b1b
 ;; Version: 0.1
 ;; Created: 2010-07-06
 ;; Last changed: 2014-11-12 11:50:15

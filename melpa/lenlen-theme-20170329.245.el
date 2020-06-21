@@ -19,6 +19,7 @@
 ;; Author: zk_phi
 ;; URL: http://hins11.yu-yake.com/
 ;; Package-Version: 20170329.245
+;; Package-Commit: b8a6412c81633b10fb98ba0930f55b25071c084a
 ;; Version: 1.0.0
 ;; Package-Requires: ((color-theme-solarized "20150110"))
 

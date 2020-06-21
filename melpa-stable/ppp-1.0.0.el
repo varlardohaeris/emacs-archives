@@ -5,6 +5,7 @@
 ;; Author: Naoya Yamashita <conao3@gmail.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: 6aabd694bcc66775c6a4328fa653a83e39791252
 ;; Keywords: tools
 ;; Package-Requires: ((emacs "26"))
 ;; License: AGPL-3.0

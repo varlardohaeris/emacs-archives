@@ -5,6 +5,7 @@
 ;; Author: Ian Yang <me (at) iany.me>
 ;; Keywords: ido completion
 ;; Package-Version: 1.1
+;; Package-Commit: ad9baaec10e06be3f85db97b6c8fd970cf20df77
 ;; Filename: ido-complete-space-or-hyphen.el
 ;; Description: Complete SPACE or HYPHEN when type SPACE in ido
 ;; Created: 2012-11-07 13:58

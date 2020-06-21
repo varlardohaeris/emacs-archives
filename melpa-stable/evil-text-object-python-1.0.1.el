@@ -3,6 +3,7 @@
 ;; Author: Wouter Bolsterlee <wouter@bolsterl.ee>
 ;; Version: 1.0.1
 ;; Package-Version: 1.0.1
+;; Package-Commit: 3b3fb01e7ad7eeeeae1143695547fe75148cc44f
 ;; Package-Requires: ((emacs "24") (evil "1.2.12"))
 ;; Keywords: evil python text-object
 ;; URL: https://github.com/wbolster/evil-text-object-python

@@ -5,6 +5,7 @@
 ;; Author : Rich Alesi <https://github.com/ralesi>
 ;; Version: 0.9.8.3
 ;; Package-Version: 0.9.8.5
+;; Package-Commit: 584e4ae8cce1c54a44b40dd4c77fbb2f06d73ecb
 ;; Keywords: files, convenience
 ;; Homepage: https://github.com/ralesi/ranger
 ;; Package-Requires: ((emacs "24.4"))

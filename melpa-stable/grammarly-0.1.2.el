@@ -8,6 +8,7 @@
 ;; Keyword: grammar api interface english
 ;; Version: 0.1.2
 ;; Package-Version: 0.1.2
+;; Package-Commit: cd2e75f21989a586c9cc71540fc6e3b5df8a5ce0
 ;; Package-Requires: ((emacs "24.4") (cl-lib "0.6") (s "1.12.0") (request "0.3.0") (websocket "1.6"))
 ;; URL: https://github.com/jcs-elpa/grammarly
 

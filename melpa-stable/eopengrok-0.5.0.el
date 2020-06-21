@@ -5,6 +5,7 @@
 ;; Author: Youngjoo Lee <youngker@gmail.com>
 ;; Version: 0.5.0
 ;; Package-Version: 0.5.0
+;; Package-Commit: 11c99f7e1e2c1c7d70cbda496cb5b6c7f6e4082a
 ;; Keywords: tools
 ;; Package-Requires: ((s "1.9.0") (dash "2.10.0") (magit "2.1.0") (cl-lib "0.5"))
 

@@ -3,6 +3,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; URL: https://github.com/purcell/hippie-expand-slime
 ;; Package-Version: 0.1
+;; Package-Commit: de31fbc9f9d55891a006463bcee7670b47084015
 ;; Version: DEV
 
 ;;; Commentary:

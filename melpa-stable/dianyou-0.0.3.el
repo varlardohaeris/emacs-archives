@@ -4,6 +4,7 @@
 ;;
 ;; Version: 0.0.2
 ;; Package-Version: 0.0.3
+;; Package-Commit: 1a1fe6da3196f91db7b76b6c552ca4f2629e36bf
 ;; Keywords: mail
 ;; Author: Chen Bin <chenbin DOT sh AT gmail DOT com>
 ;; URL: http://github.com/redguardtoo/dianyou

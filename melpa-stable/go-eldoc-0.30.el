@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-go-eldoc
 ;; Package-Version: 0.30
+;; Package-Commit: f1ad302ec4073354801e613293be2f55ba770618
 ;; Version: 0.30
 ;; Package-Requires: ((emacs "24.3") (go-mode "1.0.0"))
 

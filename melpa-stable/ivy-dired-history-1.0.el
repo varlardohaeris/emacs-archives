@@ -5,6 +5,7 @@
 ;; Created:  2017-06-14
 ;; Version: 1.0
 ;; Package-Version: 1.0
+;; Package-Commit: 3604840f85e4ff2d7ecab6233e820cb2ec5c8733
 ;; X-URL:https://github.com/jixiuf/ivy-dired-history
 ;; Package-Requires: ((ivy "0.9.0")(counsel "0.9.0")(cl-lib "0.5"))
 ;;

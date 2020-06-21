@@ -6,6 +6,7 @@
 ;; Created: 19 Dec 2014
 ;; Version: 0.0.3
 ;; Package-Version: 0.0.3
+;; Package-Commit: 4dd9caf749190fab8f0b33862b3894b635de46c5
 ;; Keywords: novel pixiv
 
 ;; This file is NOT part of GNU Emacs.

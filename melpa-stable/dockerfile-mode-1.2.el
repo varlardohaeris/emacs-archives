@@ -1,5 +1,6 @@
 ;;; dockerfile-mode.el --- Major mode for editing Docker's Dockerfiles
 ;; Package-Version: 1.2
+;; Package-Commit: 9a75fcd119c5b2a1d723d440bbe4b1db56df90cc
 
 ;; Copyright (c) 2013 Spotify AB
 ;;

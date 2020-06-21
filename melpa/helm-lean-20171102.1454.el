@@ -10,6 +10,7 @@
 ;; Created: Jan 09, 2014
 ;; Keywords: languages
 ;; Package-Version: 20171102.1454
+;; Package-Commit: 00498c2a62270dec496c7aebc3d792c676bbd614
 ;; Package-Requires: ((emacs "24.3") (dash "2.12.0") (helm "2.8.0") (lean-mode "3.3.0"))
 ;; URL: https://github.com/leanprover/lean-mode
 

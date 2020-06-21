@@ -4,6 +4,7 @@
 
 ;; Version: 1.8
 ;; Package-Version: 1.9.1
+;; Package-Commit: 8aa2b6d35a557864ff64762774fd5b4960cbeff0
 
 ;; Author: Sebastien Chapuis <sebastien@chapu.is>
 ;; Maintainer: Yuan Fu <casouri@gmail.com>

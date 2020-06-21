@@ -6,6 +6,7 @@
 ;; Author: Juan-Leon Lahoz <juanleon1@gmail.com>
 ;; Version: 0.8
 ;; Package-Version: 0.8
+;; Package-Commit: 2b849bc5c09d0b752a177495ea1b851ee821f5bf
 ;; Keywords: dired, environment, files, renaming
 
 ;; This program is free software; you can redistribute it and/or modify it

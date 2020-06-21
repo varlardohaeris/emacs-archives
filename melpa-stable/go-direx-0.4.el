@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-go-direx
 ;; Package-Version: 0.4
+;; Package-Commit: aecb9fef4d56d04d230d37c75c260c8392b5ad9f
 ;; Version: 0.04
 ;; Package-Requires: ((direx "1.0.0") (cl-lib "0.5"))
 

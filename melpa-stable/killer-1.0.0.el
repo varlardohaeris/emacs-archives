@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/tarsius/killer
 ;; Keywords: convenience
 ;; Package-Version: 1.0.0
+;; Package-Commit: ace0547944933440384ceeb5876b1f68c082d540
 
 ;; This file is not part of GNU Emacs.
 

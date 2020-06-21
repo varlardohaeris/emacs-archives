@@ -4,6 +4,7 @@
 ;; Author: Al Scott
 ;; URL: http://github.com/scottaj/mocha.el
 ;; Package-Version: 1.1
+;; Package-Commit: 4ca9495d4b00b753f055152bd4256c07d7b208f4
 ;; Created: 2016
 ;; Version: 1.1
 ;; Keywords: javascript mocha jasmine

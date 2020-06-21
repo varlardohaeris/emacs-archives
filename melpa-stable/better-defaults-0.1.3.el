@@ -5,6 +5,7 @@
 ;; Author: Phil Hagelberg
 ;; URL: https://github.com/technomancy/better-defaults
 ;; Package-Version: 0.1.3
+;; Package-Commit: 90df5752a0a0602feb47aadfd3542aa7fc841bd8
 ;; Version: 0.1.3
 ;; Created: 2013-04-16
 ;; Keywords: convenience

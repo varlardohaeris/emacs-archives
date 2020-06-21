@@ -9,6 +9,7 @@
 ;; Created: 2015
 ;; Version: 1.9
 ;; Package-Version: 1.11
+;; Package-Commit: 57c2a72d46900117ea92e0a01b97e19481800503
 ;; Package-Requires: ((emacs "24.3"))
 
 ;; This file is NOT part of GNU Emacs.

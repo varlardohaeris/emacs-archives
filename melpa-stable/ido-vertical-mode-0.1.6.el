@@ -6,6 +6,7 @@
 ;; Maintainer: Daniel Gempesaw <gempesaw@gmail.com>
 ;; Version: 0.1.5
 ;; Package-Version: 0.1.6
+;; Package-Commit: c3e0514405ba5c15b5527e7f8e2d42dff259788f
 ;; Keywords: convenience
 ;; URL: https://github.com/gempesaw/ido-vertical-mode.el
 

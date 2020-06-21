@@ -1,0 +1,2 @@
+
+(rtags . [(20200507 1824) ((emacs (24 3))) "A front-end for rtags" single ((:commit . "4ecf19b605a943869a8cd1ff572aea222d890b48") (:authors ("Jan Erik Hanssen" . "jhanssen@gmail.com") ("Anders Bakken" . "agbakken@gmail.com")) (:maintainer "Jan Erik Hanssen" . "jhanssen@gmail.com") (:url . "https://github.com/Andersbakken/rtags"))])

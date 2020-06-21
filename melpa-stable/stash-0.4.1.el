@@ -5,6 +5,7 @@
 ;; Author: Sean Allred <code@seanallred.com>
 ;; URL: https://www.github.com/vermiculus/stash.el/
 ;; Package-Version: 0.4.1
+;; Package-Commit: 638ae8a4f6d33af54fe77d57c2c0eb1800dd2e19
 ;; Version: 0.4
 ;; Keywords: extensions, data, internal, lisp
 

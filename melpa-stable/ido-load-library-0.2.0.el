@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/rolandwalker/ido-load-library
 ;; URL: http://raw.github.com/rolandwalker/ido-load-library/master/ido-load-library.el
 ;; Package-Version: 0.2.0
+;; Package-Commit: 8589cb1e4303066eb333f1cfc789835d1cbe21df
 ;; Version: 0.2.0
 ;; Last-Updated: 28 Oct 2013
 ;; EmacsWiki: IdoLoadLibrary

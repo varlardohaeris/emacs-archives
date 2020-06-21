@@ -5,6 +5,7 @@
 ;; Author: Tianxiang Xiong <tianxiang.xiong@gmail.com>
 ;; Keywords: decompile, java, languages, tools
 ;; Package-Version: 0.2.0
+;; Package-Commit: 1590b06f139f036c1041e1ce5c0acccaa24b31a7
 ;; Package-Requires: ((emacs "24.5"))
 ;; URL: https://github.com/xiongtx/jdecomp
 ;; Version: 0.2.0

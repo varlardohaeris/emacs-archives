@@ -5,6 +5,7 @@
 ;; Author: Jonathan Kotta <jpkotta@gmail.com>
 ;; Version: 0.2
 ;; Package-Version: 0.2
+;; Package-Commit: 01b27feac37eb60cf73ff80374004d9e847e637d
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

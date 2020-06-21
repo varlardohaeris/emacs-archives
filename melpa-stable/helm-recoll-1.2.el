@@ -12,6 +12,7 @@
 ;; Description: helm interface for the recoll desktop search tool.
 ;; URL: https://github.com/emacs-helm/helm-recoll
 ;; Package-Version: 1.2
+;; Package-Commit: 8548b157f40f5e7a4940a54abe5ca0016fd9bdee
 ;; Keywords: convenience
 ;; Version: 1.2
 ;; Package-Requires: ((helm "3.3") (emacs "24.4"))

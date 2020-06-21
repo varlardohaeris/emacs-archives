@@ -1,0 +1,2 @@
+
+(smart-input-source . [(20200619 550) ((names (0 5)) (emacs (25))) "Switch OS native input source smartly" single ((:commit . "331535ed45351d183ac236117f768687a340a417") (:keywords "convenience") (:url . "https://github.com/laishulu/emacs-smart-input-source"))])

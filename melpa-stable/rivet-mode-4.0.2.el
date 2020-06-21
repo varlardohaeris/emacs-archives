@@ -4,6 +4,7 @@
 ;; Copyright (c) 2019 Jade Michael Thornton
 ;; Package-Requires: ((emacs "24") (web-mode "16"))
 ;; Package-Version: 4.0.2
+;; Package-Commit: b40bc13761e0b14b4ba67a0c600d69fd129c8746
 ;; URL: https://gitlab.com/thornjad/rivet
 ;; Version: 4.0.2
 ;;

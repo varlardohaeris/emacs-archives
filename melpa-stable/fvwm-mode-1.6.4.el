@@ -7,6 +7,7 @@
 ;; Created: 15 Jul 2005
 ;; Version: 1.6.4
 ;; Package-Version: 1.6.4
+;; Package-Commit: d48a309bb7db21f5404b6619c6ee861fe0457704
 ;; Keywords: files
 ;;
 ;; This file is not part of GNU Emacs.

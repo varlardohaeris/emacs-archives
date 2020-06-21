@@ -3,6 +3,7 @@
 ;; Author: 10sr <8.slashes [at] gmail [dot] com>
 ;; URL: https://github.com/10sr/with-venv-el
 ;; Package-Version: 0.0.1
+;; Package-Commit: d12341b93420f4acd7a277ed0cd4a54767bc5bd6
 ;; Version: 0.0.1
 ;; Keywords: processes python venv
 ;; Package-Requires: ((cl-lib "0.5") (emacs "24.4"))

@@ -2,6 +2,7 @@
 ;; Author: grugrut <grugruglut+github@gmail.com>
 ;; URL: https://github.com/grugrut/helm-books
 ;; Package-Version: 1.0.1
+;; Package-Commit: b4c57d2aed596faad41a753dccbcd0a31a717b76
 ;; Version: 1.0
 ;; Package-Requires: ((helm "1.7.7"))
 

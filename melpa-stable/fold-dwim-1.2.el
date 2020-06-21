@@ -5,6 +5,7 @@
 ;; Author: Peter Heslin <p.j.heslin@dur.ac.uk>
 ;; URL: http://www.dur.ac.uk/p.j.heslin/emacs/download/fold-dwim.el
 ;; Package-Version: 1.2
+;; Package-Commit: 4764b0246a722d37eb8ec9f204ffaccaad1755d0
 ;; Version: 1.2
 ;;
 ;; This program is free software; you can redistribute it and/or modify

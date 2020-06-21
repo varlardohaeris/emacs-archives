@@ -5,6 +5,7 @@
 ;; Author   : winterTTr <winterTTr@gmail.com>
 ;; URL      : https://github.com/winterTTr/ace-jump-mode/
 ;; Package-Version: 2.0
+;; Package-Commit: a62a6867811cd739dd98a5e00a2d2e17edfb5b71
 ;; Version  : 2.0.RC
 ;; Keywords : motion, location, cursor
 

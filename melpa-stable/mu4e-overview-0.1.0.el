@@ -5,6 +5,7 @@
 ;; Author: Michał Krzywkowski <k.michal@zoho.com>
 ;; Keywords: mail, tools
 ;; Package-Version: 0.1.0
+;; Package-Commit: c34f45b3ab9cce892835e14c6701b531a4f54cce
 ;; Version: 0.1.0
 ;; Homepage: https://github.com/mkcms/mu4e-overview
 ;; Package-Requires: ((emacs "26"))

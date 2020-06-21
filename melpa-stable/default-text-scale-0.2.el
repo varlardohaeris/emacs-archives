@@ -4,6 +4,7 @@
 
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; URL: https://github.com/purcell/default-text-scale
+;; Package-Commit: f425d3765c4dea3f2e550720278f9d424579ee5d
 ;; Keywords: frames, faces
 ;; Package-Version: 0.2
 ;; Package-X-Original-Version: 0

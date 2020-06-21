@@ -5,6 +5,7 @@
 ;; Author: Ian Eure <ian.eure@gmail.com>
 ;; Keywords: multimedia
 ;; Package-Version: 1.1
+;; Package-Commit: d976414ba6aa576ad524b5ee5bfa620efd072258
 ;; URL: https://github.com/ieure/ql-el
 ;; Package-Requires: ((emacs "24"))
 ;; Version: 1.1

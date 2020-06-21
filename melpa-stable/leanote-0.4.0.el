@@ -5,6 +5,7 @@
 ;; Author: Aborn Jiang <aborn.jiang@gmail.com>
 ;; Version: 0.4.0
 ;; Package-Version: 0.4.0
+;; Package-Commit: 1bd49fdf13ef707bae7edaa724a1592aa7fb002f
 ;; Package-Requires: ((emacs "24.4") (cl-lib "0.5") (request "0.2") (let-alist "1.0.3") (pcache "0.4.0") (s "1.10.0") (async "1.9"))
 ;; Keywords: leanote, note, markdown
 ;; Homepage: https://github.com/aborn/leanote-emacs

@@ -4,6 +4,7 @@
 ;; Author: Vitalii Elenhaupt
 ;; URL: https://github.com/veelenga/ameba.el
 ;; Package-Version: 0.1.0
+;; Package-Commit: ca5faaa0d5115dc2c301e06e062e653a7b9cb927
 ;; Keywords: convenience
 ;; Package-Requires: ((emacs "24.4"))
 

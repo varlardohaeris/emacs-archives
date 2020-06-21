@@ -5,6 +5,7 @@
 ;; Author: Damien Cassou <damien@cassou.me>
 ;; Version: 0.1.0
 ;; Package-Version: 0.2.0
+;; Package-Commit: 4232676e93ca5ace8e51f6605bec223c3205beea
 ;; GIT: https://github.com/DamienCassou/vdirel
 ;; Package-Requires: ((emacs "24.4") (org-vcard "0.1.0") (helm "1.7.0") (seq "1.11"))
 ;; Created: 09 Dec 2015

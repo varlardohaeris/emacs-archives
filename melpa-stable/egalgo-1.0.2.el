@@ -5,6 +5,7 @@
 ;; Author: ROCKTAKEY <rocktakey@gmail.com>
 ;; Keywords: data
 ;; Package-Version: 1.0.2
+;; Package-Commit: 85c8c01c3424e69528f4111a384092dfa721196a
 
 ;; Version: 1.0.2
 

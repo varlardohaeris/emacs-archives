@@ -1,0 +1,2 @@
+
+(treemacs-projectile . [(20200530 2129) ((emacs (25 2)) (projectile (0 14 0)) (treemacs (0 0))) "Projectile integration for treemacs" single ((:commit . "7d6c0c6e410be00d3d36bec3baaa685e69b4fca1") (:authors ("Alexander Miller" . "alexanderm@web.de")) (:maintainer "Alexander Miller" . "alexanderm@web.de") (:url . "https://github.com/Alexander-Miller/treemacs"))])

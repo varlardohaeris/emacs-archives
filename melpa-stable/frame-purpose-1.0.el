@@ -3,6 +3,7 @@
 ;; Author: Adam Porter <adam@alphapapa.net>
 ;; URL: http://github.com/alphapapa/frame-purpose.el
 ;; Package-Version: 1.0
+;; Package-Commit: 60778ef3c02cb09a7ccc323732c89bf374dfbffe
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "25.1") (dash "2.12") (dash-functional "1.2.0"))
 ;; Keywords: buffers, convenience, frames

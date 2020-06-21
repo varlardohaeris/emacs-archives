@@ -5,6 +5,7 @@
 ;; Author: Chunyang Xu <xuchunyang.me@gmail.com>
 ;; URL: https://github.com/xuchunyang/gitter.el
 ;; Package-Version: 1
+;; Package-Commit: bd2ba457109dd5d3e4b419e3ef5cbd3b5c9498d6
 ;; Package-Requires: ((emacs "24.1") (let-alist "1.0.4"))
 ;; Keywords: Gitter, chat, client, Internet
 ;; Version: 1

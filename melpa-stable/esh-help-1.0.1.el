@@ -5,6 +5,7 @@
 ;; Author: Tomoya Tanjo <ttanjo@gmail.com>
 ;; URL: https://github.com/tom-tan/esh-help/
 ;; Package-Version: 1.0.1
+;; Package-Commit: 8a8a9d4d9852f8bd96da3b94e95ff57097ac8ec6
 ;; Package-Requires: ((dash "1.4.0"))
 ;; Keywords: eshell, extensions
 

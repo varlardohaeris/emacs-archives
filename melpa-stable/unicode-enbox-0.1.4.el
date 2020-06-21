@@ -6,6 +6,7 @@
 ;; Homepage: http://github.com/rolandwalker/unicode-enbox
 ;; URL: http://raw.github.com/rolandwalker/unicode-enbox/master/unicode-enbox.el
 ;; Package-Version: 0.1.4
+;; Package-Commit: ff313f6778bb96481c0ee3291b07a7db46f21ff5
 ;; Version: 0.1.4
 ;; Last-Updated:  6 Nov 2013
 ;; EmacsWiki: UnicodeEnbox

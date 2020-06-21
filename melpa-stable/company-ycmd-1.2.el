@@ -6,6 +6,7 @@
 ;;          Peter Vasil <mail@petervasil.net>
 ;; version: 0.2
 ;; Package-Version: 1.2
+;; Package-Commit: d042a673b4d717c3ca9d641f120bfe16c994c740
 ;; URL: https://github.com/abingham/emacs-ycmd
 ;; Package-Requires: ((ycmd "1.2") (company "0.9.3") (deferred "0.5.1") (s "1.11.0") (dash "2.13.0") (let-alist "1.0.5") (f "0.19.0"))
 ;;

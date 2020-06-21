@@ -6,6 +6,7 @@
 ;; Author: Prassee <prassee.sathian@gmail.com>
 ;; URL: http://github.com/prassee/prassee-emacs-theme
 ;; Package-Version: 1.0
+;; Package-Commit: 9850c806d39acffdef8e91e1a31b54a7620cbae3
 ;; Version: 1.0
 
 

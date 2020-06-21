@@ -5,6 +5,7 @@
 ;; Author: Ivan Malison <IvanMalison@gmail.com>
 ;; Keywords: imenu browse structure hook mode matching tools convenience files
 ;; Package-Version: 20200415.2353
+;; Package-Commit: f110bc77415a7594742f3b12551571c4069c9157
 ;; URL: https://github.com/IvanMalison/flimenu
 ;; Version: 0.0.0
 ;; Package-Requires: ((emacs "24.4"))

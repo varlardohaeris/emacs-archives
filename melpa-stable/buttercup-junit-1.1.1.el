@@ -7,6 +7,7 @@
 ;; Created: Oct 2, 2016
 ;; Keywords: tools test unittest buttercup ci
 ;; Package-Version: 1.1.1
+;; Package-Commit: 6bc28b6b0f36fb71b0915c9e45963c840c64a8df
 ;; Version: 1.1.1
 ;; Package-Requires: ((emacs "24.3") (buttercup "1.15"))
 ;; URL: https://bitbucket.org/olanilsson/buttercup-junit

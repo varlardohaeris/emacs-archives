@@ -4,6 +4,7 @@
 ;; Author:  Mihai Bazon <mihai.bazon@gmail.com>
 ;; Version: 0.1.0
 ;; Package-Version: 0.1.0
+;; Package-Commit: bf38d12cf65eebc8b81866fd03f6a0389bb2a9ed
 ;; URL: http://mihai.bazon.net/projects/editing-javascript-with-emacs-js2-mode/js2-highlight-vars-mode
 ;; Package-Requires: ((js2-mode "20150909"))
 

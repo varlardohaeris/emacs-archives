@@ -6,6 +6,7 @@
 ;; Created: February 16, 2017
 ;; Version: 0.1.0
 ;; Package-Version: 0.1.1
+;; Package-Commit: 6b62ffa7a69f52aab79067eaed80b2720f7e3fc2
 ;; Package-Requires: ((ede-php-autoload "1.0.0") (f "0.19.0") (s "1.7.0"))
 ;; Keywords: programming, php, drupal
 

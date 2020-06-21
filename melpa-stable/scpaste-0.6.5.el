@@ -5,6 +5,7 @@
 ;; Author: Phil Hagelberg
 ;; URL: https://github.com/technomancy/scpaste
 ;; Package-Version: 0.6.5
+;; Package-Commit: cca8f4ee5402bbf9a4bbb24e81372067cb21bba4
 ;; Version: 0.6.5
 ;; Created: 2008-04-02
 ;; Keywords: convenience hypermedia

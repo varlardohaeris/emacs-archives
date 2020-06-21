@@ -4,6 +4,7 @@
 ;; Author: Diego A. Mundo <diegoamundo@gmail.com>
 ;; URL: http://github.com/therockmandolinist/turing-machine
 ;; Package-Version: 0.2.0
+;; Package-Commit: ad1dccc9c445f9e4465e1c67cbbfea9583153047
 ;; Git-Repository: git://github.com/therockmandolinist/turing-machine
 ;; Created: 2017-05-04
 ;; Version: 0.2.0

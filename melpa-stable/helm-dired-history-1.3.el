@@ -5,6 +5,7 @@
 ;; Created: 2011-03-26
 ;; Version: 1.2
 ;; Package-Version: 1.3
+;; Package-Commit: 281523f9fc46cf00fafd670ba5cd16552a607212
 ;; X-URL:https://github.com/jixiuf/helm-dired-history
 ;; Keywords: helm, dired history
 ;; Package-Requires: ((helm "1.9.8")(cl-lib "0.5"))

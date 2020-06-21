@@ -5,6 +5,7 @@
 ;; Author: Sylvain Benner <sylvain.benner@gmail.com>
 ;; Keywords: convenience language tools
 ;; Package-Version: 0.3
+;; Package-Commit: c85319f8d2579e770c9060bfef11bedc1370d8be
 ;; Version: 0.3
 ;; Package-Requires: ((flycheck "0.15") (dash "1.2") (emacs "24.1"))
  

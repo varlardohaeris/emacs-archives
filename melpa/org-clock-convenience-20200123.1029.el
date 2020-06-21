@@ -3,6 +3,7 @@
 ;; Author: Derek Feichtinger <dfeich.gmail.com>
 ;; Keywords: org
 ;; Package-Version: 20200123.1029
+;; Package-Commit: 4e522706a90a504c75d377161005f9543575ea02
 ;; Package-Requires: ((cl-lib "0.5") (org "8") (emacs "24.3"))
 ;; Homepage: https://github.com/dfeich/org-clock-convenience
 ;; Version: 1.2

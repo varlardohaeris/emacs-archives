@@ -5,6 +5,7 @@
 ;; Author: Joel Rosdahl <joel@rosdahl.net>
 ;; Version: 1.4
 ;; Package-Version: 1.4
+;; Package-Commit: a5ad1fbd1173cff5228dab265515c92c0778f86a
 ;; License: BSD-3-clause
 ;; URL: https://github.com/jrosdahl/iflipb
 ;;

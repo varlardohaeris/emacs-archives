@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/tarsius/backline
 ;; Keywords: outlines
 ;; Package-Version: 0.1.5
+;; Package-Commit: cde271f5e01ed44de239f776c3d0bb27e30953de
 
 ;; Package-Requires: ((emacs "25.1") (outline-minor-faces "0.1.2"))
 

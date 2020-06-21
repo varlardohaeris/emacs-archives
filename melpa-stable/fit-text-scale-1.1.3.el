@@ -9,6 +9,7 @@
 ;; Created: 2017
 ;; Version: 1.1.2
 ;; Package-Version: 1.1.3
+;; Package-Commit: 75f74aa14bb38ab00f184ae0a51262eaab07a27c
 ;; Package-Requires: ((emacs "25.1"))
 ;; Keywords: convenience
 ;; URL: https://gitlab.com/marcowahl/fit-text-scale

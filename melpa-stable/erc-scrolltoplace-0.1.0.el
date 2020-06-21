@@ -4,6 +4,7 @@
 ;; Author: Jay Kamat <jaygkamat@gmail.com>
 ;; Version: 0.0.1
 ;; Package-Version: 0.1.0
+;; Package-Commit: 7539654e4a72edcc5bba07a101961e5bf0a9d449
 ;; Keywords: erc, module, comm, scrolltobottom, keep-place
 ;; URL: http://github.com/jgkamat/erc-scrolltoplace
 ;; Package-Requires: ((emacs "24.0") (switch-buffer-functions "0.0.1"))

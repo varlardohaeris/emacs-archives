@@ -19,6 +19,7 @@
 ;; Author: zk_phi
 ;; URL: http://hins11.yu-yake.com/
 ;; Package-Version: 20160206.1336
+;; Package-Commit: fee011589671cc8f1296cb6aa81553e5bb699819
 ;; Package-Requires: ((scad-mode "91.0"))
 ;; Version: 0.1.1
 

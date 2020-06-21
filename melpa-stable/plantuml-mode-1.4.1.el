@@ -6,6 +6,7 @@
 ;; Author: Zhang Weize (zwz)
 ;; Maintainer: Carlo Sciolla (skuro)
 ;; Keywords: uml plantuml ascii
+;; Package-Commit: 5889166b6cfe94a37532ea27fc8de13be2ebfd02
 ;; Version: 1.2.9
 ;; Package-Version: 1.4.1
 ;; Package-X-Original-Version: 1.2.9

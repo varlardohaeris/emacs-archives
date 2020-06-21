@@ -5,6 +5,7 @@
 ;; Author:    Austin Seipp <aseipp [@at] pobox [dot] com>
 ;; URL:       http://github.com/thoughtpolice/cryptol-mode
 ;; Package-Version: 0.1.0
+;; Package-Commit: a54d000d24757fad2a91ae2853b16a97ebe52771
 ;; Keywords:  cryptol cryptography
 ;; Version:   0.1.0
 ;; Released:  3 March 2013

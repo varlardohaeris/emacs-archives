@@ -6,6 +6,7 @@
 ;; Maintainer: Samuel Tonini
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: 6c313a39e20702ddcebc12d146f69db1ce668901
 ;; URL:
 ;; Keywords: git, gitconfig, git-config
 

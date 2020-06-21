@@ -5,6 +5,7 @@
 ;; Author: Nathan Kot <nk@nathankot.com>
 ;; URL: https://github.com/nathankot/company-sourcekit
 ;; Package-Version: 0.2.0
+;; Package-Commit: 8ba62ac25bf533b7f148f333bcb5c1db799f749b
 ;; Keywords: tools, processes
 ;; Version: 0.2.0
 ;; Package-Requires: ((emacs "24.3") (dash "2.12.1") (dash-functional "1.2.0") (request "0.2.0"))

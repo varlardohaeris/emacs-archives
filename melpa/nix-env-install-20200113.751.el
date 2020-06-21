@@ -5,6 +5,7 @@
 ;; Author: Akira Komamura <akira.komamura@gmail.com>
 ;; Version: 0.1
 ;; Package-Version: 20200113.751
+;; Package-Commit: b343a7e885206e78544da7313b860442abbd7440
 ;; Package-Requires: ((emacs "25.1"))
 ;; Keywords: processes tools
 ;; URL: https://github.com/akirak/nix-env-install

@@ -5,6 +5,7 @@
 ;; Author: Artur Malabarba <bruce.connor.am@gmail.com>
 ;; URL: http://github.com/Bruce-Connor/html-to-markdown
 ;; Package-Version: 1.5.1
+;; Package-Commit: 0fa0effd71acd8981a425ef11e0e63d53aea3199
 ;; Version: 1.5.1
 ;; Keywords: tools wp languages
 ;; Prefix: htm

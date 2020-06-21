@@ -4,6 +4,7 @@
 ;;
 ;; Author: Joe Wreschnig
 ;; Keywords: tools, vc
+;; Package-Commit: 2651e831aed84ee2512245952fac94901b086549
 ;; Package-Requires: ((emacs "25") (yaml-mode "0.0.12"))
 ;; Package-Version: 20190824.12.2
 ;; Package-X-Original-Version: 20190824.12.2

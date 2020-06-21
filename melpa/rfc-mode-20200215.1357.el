@@ -3,6 +3,7 @@
 ;; Author: Nicolas Martyanoff <khaelin@gmail.com>
 ;; URL: https://github.com/galdor/rfc-mode
 ;; Package-Version: 20200215.1357
+;; Package-Commit: 88e6577a0e50f523f7da04de9f939b0bc168b514
 ;; Version: 1.2.0
 ;; Package-Requires: ((emacs "25.1") (helm "3.2"))
 

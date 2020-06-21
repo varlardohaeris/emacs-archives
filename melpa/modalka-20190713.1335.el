@@ -5,6 +5,7 @@
 ;; Author: Mark Karpov <markkarpov92@gmail.com>
 ;; URL: https://github.com/mrkkrp/modalka
 ;; Package-Version: 20190713.1335
+;; Package-Commit: 8f71e0a85c2f6039111663e65d9a13f3310f12ed
 ;; Version: 0.1.5
 ;; Package-Requires: ((emacs "24.4"))
 ;; Keywords: modal editing

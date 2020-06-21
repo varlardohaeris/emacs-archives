@@ -5,6 +5,7 @@
 ;; Author: Vladimir S. Ivanov <ivvl82@gmail.com>
 ;; Version: 0.1
 ;; Package-Version: 0.1
+;; Package-Commit: c1ac46793eb9bf22b1a601e841947428be5c9766
 
 ;; This file is not part of GNU Emacs.
 

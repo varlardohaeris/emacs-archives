@@ -4,6 +4,7 @@
 ;; Author:  François Févotte <fevotte@gmail.com>
 ;; URL: https://github.com/ffevotte/desktop-plus
 ;; Package-Version: 0.2
+;; Package-Commit: a9cb8dd0af5071d9f148211b408c54306239381c
 ;; Version: 0.1.1
 ;; Package-Requires: ((emacs "24.4") (dash "2.11.0") (f "0.17.2"))
 

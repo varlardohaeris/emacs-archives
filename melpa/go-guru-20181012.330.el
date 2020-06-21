@@ -6,6 +6,7 @@
 
 ;; Version: 0.1
 ;; Package-Version: 20181012.330
+;; Package-Commit: 734d5232455ffde088021ea5908849ac570e890f
 ;; Package-Requires: ((go-mode "1.3.1") (cl-lib "0.5"))
 ;; Keywords: tools
 

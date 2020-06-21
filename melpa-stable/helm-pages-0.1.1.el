@@ -5,6 +5,7 @@
 ;; Author: David Christiansen <david@davidchristiansen.dk>
 ;; Keywords: convenience, helm, outlines
 ;; Package-Version: 0.1.1
+;; Package-Commit: e334ca3312e51d6fdfa989df5d3ebe683d673c0e
 ;; Package-Requires: ((helm "1.6.5") (emacs "24") (cl-lib "0.5"))
 ;; Version: 0.1.1
 

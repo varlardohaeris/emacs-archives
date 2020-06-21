@@ -1,0 +1,2 @@
+
+(liberime . [(0 0 6) ((emacs (24 1))) "Rime elisp binding" tar ((:commit . "f13a98ddd7be658e742b0f42988b02db9d779e85") (:keywords "input method" "rime") (:authors ("A.I.")) (:maintainer "A.I."))])

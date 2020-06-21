@@ -5,6 +5,7 @@
 ;; Author: Mohammed Ismail Ansari <team.terminal@gmail.com>
 ;; Version: 1.3
 ;; Package-Version: 1.3.0
+;; Package-Commit: df144b269bc274162602e50c692be20ac9b90547
 ;; Keywords: convenience, shortcuts
 ;; Maintainer: Mohammed Ismail Ansari <team.terminal@gmail.com>
 ;; Created: 2015/04/17

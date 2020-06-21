@@ -1,0 +1,2 @@
+
+(flycheck-guile . [(20200615 18) ((emacs (24 1)) (flycheck (0 22)) (geiser (0 11))) "A Flycheck checker for GNU Guile" single ((:commit . "63a86663a1ad252a87d98d4eaf69eb9c8d757841") (:authors ("Ricardo Wurmus" . "rekado@elephly.net")) (:maintainer "Andrew Whatson" . "whatson@gmail.com") (:url . "https://github.com/flatwhatson/flycheck-guile"))])

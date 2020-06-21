@@ -1,0 +1,2 @@
+
+(color-identifiers-mode . [(20200603 342) ((dash (2 5 0)) (emacs (24))) "Color identifiers based on their names" single ((:commit . "75a837548b58d0ade286f32559e3d49bae844d6d") (:keywords "faces" "languages") (:authors ("Ankur Dave" . "ankurdave@gmail.com")) (:maintainer "Ankur Dave" . "ankurdave@gmail.com") (:url . "https://github.com/ankurdave/color-identifiers-mode"))])

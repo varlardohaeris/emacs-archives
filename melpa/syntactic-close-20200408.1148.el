@@ -5,6 +5,7 @@
 
 ;; Version: 0.1
 ;; Package-Version: 20200408.1148
+;; Package-Commit: c21ffdf6a2f8c2a83d3efc729852cd2b09fe03a6
 
 ;; URL: https://github.com/emacs-berlin/syntactic-close
 

@@ -4,6 +4,7 @@
 ;; Author: Dave Pearson <davep@davep.org>
 ;; Version: 1.3
 ;; Package-Version: 20200402.919
+;; Package-Commit: 3ce753c5841dfc13c530663ece20857f6b68847c
 ;; Keywords: hypermedia, bookmarking, reading, pinboard
 ;; URL: https://github.com/davep/pinboard.el
 ;; Package-Requires: ((emacs "25.1") (cl-lib "0.5"))

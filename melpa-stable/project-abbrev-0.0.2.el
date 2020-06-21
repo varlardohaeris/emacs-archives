@@ -8,6 +8,7 @@
 ;; Keyword: abbreviation customizable shortcut
 ;; Version: 0.0.2
 ;; Package-Version: 0.0.2
+;; Package-Commit: fc4e9f774cae42a6fe135833774daaecf2b3dac0
 ;; Package-Requires: ((emacs "24.4"))
 ;; URL: https://github.com/jcs090218/project-abbrev
 

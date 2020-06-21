@@ -5,6 +5,7 @@
 ;; Author: Svend Sorensen <svend@svends.net>
 ;; Version: 1.0.1
 ;; Package-Version: 1.7.3
+;; Package-Commit: 74fdfb5022f317ad48d449e29543710bdad1afda
 ;; URL: https://www.passwordstore.org/
 ;; Package-Requires: ((emacs "24") (f "0.11.0") (s "1.9.0") (with-editor "2.5.11"))
 ;; Keywords: tools pass password password-store

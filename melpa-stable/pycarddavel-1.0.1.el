@@ -5,6 +5,7 @@
 ;; Author: Damien Cassou <damien@cassou.me>
 ;; Version: 0.1
 ;; Package-Version: 1.0.1
+;; Package-Commit: 6ead921066fa0156f20155b7126e5875ce11c328
 ;; GIT: https://github.com/DamienCassou/pycarddavel
 ;; Package-Requires: ((helm "1.7.0") (emacs "24.0"))
 ;; Created: 07 Jun 2015

@@ -5,6 +5,7 @@
 ;; Author: Samuel Hoffstaetter <samuel@hoffstaetter.com>
 ;; Keywords: files, convenience, repository, project, source control
 ;; Package-Version: 1.2
+;; Package-Commit: 8b888f85029a2ff9159a724b42aeacdb051c3420
 ;; URL: https://github.com/hoffstaetter/find-file-in-repository
 ;; Version: 1.2
 

@@ -6,6 +6,7 @@
 ;;; Author: David Chkhikvadze <david.chk@outlook.com>
 ;;; Version: 0.2
 ;; Package-Version: 0.9.0
+;; Package-Commit: 3b9bb5f213029a8331818b1d670194ef26d9505a
 ;;; Created: 01 January 2016
 ;;; Keywords: color-theme theme
 

@@ -7,6 +7,7 @@
 ;; Homepage: https://github.com/kostajh/harvest.el
 ;; Keywords: harvest
 ;; Package-Version: 0.3.8
+;; Package-Commit: 69041907bdca68d3ab6802e08ec698c3448f28a1
 ;; Package-Requires: ((swiper "0.7.0") (hydra "0.13.0") (s "1.11.0"))
 ;;
 ;; This file is not part of GNU Emacs.

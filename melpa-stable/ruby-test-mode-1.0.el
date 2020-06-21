@@ -9,6 +9,7 @@
 ;; Created: 09.02.08
 ;; Version: 1.0
 ;; Package-Version: 1.0
+;; Package-Commit: 7d3c04b60721665af93ffb4abc2a7b3191926431
 ;; Keywords: ruby unit test rspec
 
 ;; This software can be redistributed. GPL v2 applies.

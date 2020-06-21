@@ -22,6 +22,7 @@
 
 ;; URL: http://github.com/ananthakumaran/typescript.el
 ;; Package-Version: 0.3
+;; Package-Commit: 7a5c74d88e3c5513cc4431a837003736f905a75e
 ;; Version: 0.1
 ;; Keywords: typescript languages
 ;; Package-Requires: ()

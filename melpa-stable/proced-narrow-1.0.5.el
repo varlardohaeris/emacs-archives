@@ -6,6 +6,7 @@
 ;; Maintainer: Travis Jeffery <tj@travisjeffery.com>
 ;; URL: https://github.com/travisjeffery/proced-narrow
 ;; Package-Version: 1.0.5
+;; Package-Commit: df5cce50b3d1219b23d28e23cbf68e0c7807a15c
 ;; Keywords: processes, proced
 ;; Created: 15th July 2019
 ;; Version: 1.0.5

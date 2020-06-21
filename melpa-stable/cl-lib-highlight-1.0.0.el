@@ -5,6 +5,7 @@
 ;; Author: Christopher Wellons <wellons@nullprogram.com>
 ;; URL: https://github.com/skeeto/cl-lib-highlight
 ;; Package-Version: 1.0.0
+;; Package-Commit: c117451df8455769701af6c8e92a8fb29c05e1fa
 ;; Version: 1.0.0
 ;; Package-Requires: ((cl-lib "0.3"))
 

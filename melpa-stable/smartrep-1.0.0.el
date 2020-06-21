@@ -8,6 +8,7 @@
 ;; Created: :2011-12-19
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: 0b73bf3d1a3c795671bfee0a36cecfaa54729446
 ;; Keywords: convenience
 ;; URL: https://github.com/myuhe/smartrep.el
 

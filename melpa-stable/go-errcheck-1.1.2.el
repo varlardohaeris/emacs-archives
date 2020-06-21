@@ -5,6 +5,7 @@
 ;; Author: Dominik Honnef <dominikh@fork-bomb.org>
 ;; Version: 1.1.2
 ;; Package-Version: 1.1.2
+;; Package-Commit: 1b0cd6af048a8b2074ace14ab51fb6c987beb430
 
 ;; This file is NOT part of GNU Emacs.
 

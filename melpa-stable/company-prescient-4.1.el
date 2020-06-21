@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/raxod502/prescient.el
 ;; Keywords: extensions
 ;; Package-Version: 4.1
+;; Package-Commit: aa3110281a0622fa7b5da115cefb71a319b5b1a0
 ;; Created: 7 May 2018
 ;; Package-Requires: ((emacs "25.1") (prescient "4.1") (company "0.9.6"))
 ;; Version: 4.1

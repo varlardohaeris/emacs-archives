@@ -8,6 +8,7 @@
 ;; Modified: June 23, 2017
 ;; Version: 2.0.8
 ;; Package-Version: 2.0.8
+;; Package-Commit: dc62ac317fd29f018e9785c1b3b7dd7ad57b3938
 ;; Keywords: emulation, vim, evil, sneak, seek
 ;; Homepage: https://github.com/hlissner/evil-snipe
 ;; Package-Requires: ((emacs "24.4") (evil "1.2.12") (cl-lib "0.5"))

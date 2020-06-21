@@ -4,6 +4,7 @@
 
 ;; Author: Sylvain Rousseau <thisirs at gmail dot com>
 ;; Keywords: convenience, workspaces
+;; Package-Commit: 258fe1cba00bdc2c600f866bb0406c719661d0a6
 ;; Package-Requires: ((emacs "24"))
 ;; Package-Version: 20180627.1956
 ;; Package-X-Original-Version: 0.1

@@ -5,6 +5,7 @@
 ;; Author: Zhu Zihao <all_but_last@163.com>
 ;; URL: https://github.com/cireu/fuz.el
 ;; Package-Version: 20200104.524
+;; Package-Commit: 0b6b64cebde5675be3a28520ee16234db48d3b8b
 ;; Version: 1.4.0
 ;; Package-Requires: ((emacs "25.1") (fuz "1.4.0") (helm "3.6"))
 ;; Keywords: convenience

@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/chmouel/tox.el
 ;; Version: 0.4.0
 ;; Package-Version: 0.4.0
+;; Package-Commit: 7655eb254038d5e34433e8a9d66b3ffc9c72e40c
 ;; Keywords: convenience, tox, python, tests
 
 ;;; Installation:

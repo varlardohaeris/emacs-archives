@@ -3,6 +3,7 @@
 ;; Author: Sliim <sliim@mailoo.org>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: df63a21b9118f9639f0f4a336127b4fb8ec6deec
 ;; Package-Requires: ((helm "1.5.2") (project-persist "0.1.4"))
 ;; Keywords: project-persist project helm
 

@@ -6,6 +6,7 @@
 ;; Maintainer: Johan Andersson <johan.rejeep@gmail.com>
 ;; Version: 0.7.3
 ;; Package-Version: 0.7.3
+;; Package-Commit: 5a910ad23ebb0649e644bf62ad042587341da5da
 ;; Keywords: speed, convenience
 ;; URL: http://github.com/rejeep/wrap-region
 ;; Package-Requires: ((dash "1.0.3"))

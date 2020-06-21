@@ -5,6 +5,7 @@
 ;; Author: Masashı Mıyaura
 ;; URL: https://github.com/masasam/emacs-helm-directory
 ;; Package-Version: 0.6.4
+;; Package-Commit: 2c6d45404506ba744888dcdb65e9f63878f2da16
 ;; Version: 0.6.4
 ;; Package-Requires: ((emacs "24.4") (helm "2.0"))
 

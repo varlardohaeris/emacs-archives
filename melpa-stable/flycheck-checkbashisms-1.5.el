@@ -6,6 +6,7 @@
 ;; Author: Cuong Le <cuong.manhle.vn@gmail.com>
 ;; Keywords: convenience, tools, sh, unix
 ;; Package-Version: 1.5
+;; Package-Commit: 39362240b8e38e6ddc1da2e2c2229e3fecdf6057
 ;; Version: 1.4-git
 ;; URL: https://github.com/Gnouc/flycheck-checkbashisms
 ;; Package-Requires: ((emacs "24") (flycheck "0.25"))

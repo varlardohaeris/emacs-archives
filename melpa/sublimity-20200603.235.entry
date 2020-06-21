@@ -1,0 +1,2 @@
+
+(sublimity . [(20200603 235) ((cl-lib (0 3))) "smooth-scrolling, minimap and distraction-free mode" tar ((:commit . "2d946f0c9359ad71b0be3b4fcb0f4224065d72be") (:authors ("zk_phi")) (:maintainer "zk_phi") (:url . "https://github.com/zk-phi/sublimity"))])

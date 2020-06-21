@@ -7,6 +7,7 @@
 ;; Homepage: https://github.com/raxod502/el-patch
 ;; Keywords: extensions
 ;; Package-Version: 2.3
+;; Package-Commit: 278a27477a4d7032fe06bb56ab01701cb10df808
 ;; Package-Requires: ((emacs "25"))
 ;; Version: 2.3
 

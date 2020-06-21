@@ -6,6 +6,7 @@
 ;; Maintainer: Naoya Yamashita <conao3@gmail.com>
 ;; Keywords: lisp html
 ;; Package-Version: 1.5.0
+;; Package-Commit: f62f7a9f5e18ef8f370444a1fce710770227b0f5
 ;; Version: 1.5.0
 ;; URL: https://github.com/conao3/seml-mode
 ;; Package-Requires: ((emacs "25") (simple-httpd "1.5") (htmlize "1.5"))

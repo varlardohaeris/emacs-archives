@@ -3,6 +3,7 @@
 ;; Author: Romain Leroux <romain@leroux.dev>
 ;; URL: https://github.com/lerouxrgd/helm-fd
 ;; Package-Version: 0.1.0
+;; Package-Commit: 2891ca941b5a70facf35d5a8bbc791fc41ab0284
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "26.2") (helm "3.3"))
 ;; Keywords: fd, find, files, helm, fast

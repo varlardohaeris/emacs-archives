@@ -5,6 +5,7 @@
 ;; Author: Ruslan Spivak <ruslan.spivak@gmail.com>
 ;; URL: http://github.com/rspivak/httpcode.el
 ;; Package-Version: 0.1
+;; Package-Commit: 2c8eb3b5455254ba70fb71f7178886bfc2d3af90
 ;; Version: 0.1
 ;;
 ;; This program is free software; you can redistribute it and/or

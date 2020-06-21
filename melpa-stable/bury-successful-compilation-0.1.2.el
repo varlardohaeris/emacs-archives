@@ -1,5 +1,6 @@
 ;;; bury-successful-compilation.el --- Bury the *compilation* buffer after successful compilation
 ;; Version: 0.0.20140308
+;; Package-Commit: 064817b44a431476305099301311def0a2d9d543
 
 ;; Copyright (C) 2015 Eric Crosson
 

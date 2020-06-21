@@ -5,6 +5,7 @@
 ;; Author: Hiroki YAMAKAWA <s06139@gmail.com>
 ;; Version: 0.1.2
 ;; Package-Version: 0.1.2
+;; Package-Commit: 25658ef79d26971ce41d9df207dff58d38daa091
 ;; Package-Requires: ((dash "2.8.0") (cl-lib "0.5"))
 ;; Keywords:
 

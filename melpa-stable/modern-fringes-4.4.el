@@ -5,6 +5,7 @@
 ;; Author: Quen Jankosky <quen.jankosky@gmail.com>
 ;; Keywords: themes, fringes, convenience
 ;; Package-Version: 4.4
+;; Package-Commit: 6884dd16e4d76dedd792f0c5fed48ca8a2f11222
 ;; URL: http://github.com/specialbomb/emacs-modern-fringes
 ;; SPDX-License-Identifier: MIT 
 ;; Version: 4.4

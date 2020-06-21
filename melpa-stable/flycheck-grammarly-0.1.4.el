@@ -8,6 +8,7 @@
 ;; Keyword: grammar check
 ;; Version: 0.1.4
 ;; Package-Version: 0.1.4
+;; Package-Commit: 1bcb11c3c7878c1b0d73318399e572e9a15587b1
 ;; Package-Requires: ((emacs "25.1") (flycheck "0.14") (grammarly "0.0.1") (cl-lib "0.6"))
 ;; URL: https://github.com/jcs090218/flycheck-grammarly
 

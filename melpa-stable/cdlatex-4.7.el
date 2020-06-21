@@ -4,6 +4,7 @@
 ;; Author: Carsten Dominik <carsten.dominik@gmail.com>
 ;; Keywords: tex
 ;; Package-Version: 4.7
+;; Package-Commit: b7183c2200392b6d85fca69390f4a65fac7a7b19
 ;; Version: 4.7
 ;;
 ;; This file is not part of GNU Emacs.

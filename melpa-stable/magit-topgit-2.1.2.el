@@ -6,6 +6,7 @@
 ;; Maintainer: Robin Green <greenrd@greenrd.org>
 ;; Keywords: vc tools
 ;; Package-Version: 2.1.2
+;; Package-Commit: 11489ea798bc88d0ea5244bbf725285eedfefbef
 ;; Package: magit-topgit
 ;; Package-Requires: ((emacs "24.4") (magit "2.1.0"))
 

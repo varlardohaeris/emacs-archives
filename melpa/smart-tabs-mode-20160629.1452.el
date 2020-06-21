@@ -13,6 +13,7 @@
 ;; Maintainer: Joel C. Salomon <joelcsalomon@gmail.com>
 ;; URL: http://www.emacswiki.org/emacs/SmartTabs
 ;; Package-Version: 20160629.1452
+;; Package-Commit: 9cc2594b82b03e7d68645a4878f9359f8b8c34c5
 ;; Created: 19 Sep 2011
 ;; Version: 1.0
 ;; Keywords: languages

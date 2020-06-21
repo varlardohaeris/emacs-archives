@@ -4,6 +4,7 @@
 
 ;; Author: Tobias Zawada <i@tn-home.de>
 ;; Keywords: tex, languages, wp
+;; Package-Commit: 270a8a4b5dadddc5b226d9a9c6c7868ea6bfe86f
 ;; Package-Version: 1.0.1
 ;; Package-X-Original-Version: 1.0.1
 ;; URL: https://github.com/TobiasZawada/texfrag

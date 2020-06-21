@@ -5,6 +5,7 @@
 ;; Author: Cameron Desautels <camdez@gmail.com>
 ;; Version: 0.2.1
 ;; Package-Version: 0.2.1
+;; Package-Commit: 2afc2011fa35ccfa0ce9ef46cb1896911fa340d1
 ;; Package-Requires: ((emacs "24") (cl-lib "0.5"))
 ;; Keywords: convenience
 ;; Homepage: http://github.com/camdez/checkbox.el

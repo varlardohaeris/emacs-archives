@@ -3,6 +3,7 @@
 ;; Author: Neil Okamoto <neil.okamoto+melpa@gmail.com>
 ;; Version: 0.3.0
 ;; Package-Version: 0.3.0
+;; Package-Commit: 50414eaac3dbeb67a1329833b912d26b164873eb
 ;; Keywords: games
 ;; URL: https://github.com/gonewest818/adafruit-wisdom.el
 ;; Package-Requires: ((emacs "25") (request "0.3.1"))

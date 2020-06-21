@@ -8,6 +8,7 @@
 ;; Maintainer: Katherine Whitlock
 ;; Version: 1.3
 ;; Package-Version: 1.3
+;; Package-Commit: 5e2d3f54e5b84eaa533cbdb6cf17b1b6009f0730
 ;; Keywords: xml, doom
 ;; Package-Requires: ((cl-lib "0.5"))
 ;; URL: http://www.github.com/toroidal-code/doom.el/

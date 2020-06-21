@@ -5,6 +5,7 @@
 ;; Author: Saúl Gutiérrez <me@sggc.me>
 ;; URL: https://github.com/shopClerk/mexican-holidays
 ;; Package-Version: 20190506.245
+;; Package-Commit: 663633be1d693f6081d7d000e05d15ddbf71aa10
 ;; Version: 0.0.9
 ;; Keywords: calendar
 

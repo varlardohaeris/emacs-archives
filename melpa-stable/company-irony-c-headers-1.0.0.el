@@ -5,6 +5,7 @@
 ;; Author: Yutian Li <hotpxless@gmail.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: ba304fe7eebdff90bbc7dea063b45b82638427fa
 ;; URL: https://github.com/hotpxl/company-irony-c-headers
 ;; Keywords: c company
 ;; Package-Requires: ((cl-lib "0.5") (company "0.9.0") (irony "0.2.0"))

@@ -5,6 +5,7 @@
 ;; Author: james sangho nah <microamp@protonmail.com>
 ;; Version: 0.0.3
 ;; Package-Version: 0.0.3
+;; Package-Commit: b7ee765337fa627a6c59eb4f2a91df5d280ac6df
 ;; Keywords: api smmry
 ;; Homepage: https://github.com/microamp/smmry.el
 

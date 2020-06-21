@@ -4,6 +4,7 @@
 
 ;; Version: 2.0.0
 ;; Package-Version: 2.0.0
+;; Package-Commit: c5ec1f3acfb07155273c2de021f3521e198e4a9d
 ;; Author: Shingo Fukuyama - http://fukuyama.co
 ;; URL: https://github.com/ShingoFukuyama/helm-swoop
 ;; Created: Oct 24 2013

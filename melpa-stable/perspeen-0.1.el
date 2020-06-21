@@ -5,6 +5,7 @@
 ;; Author: Peng Li <seudut@gmail.com>
 ;; Keywords: lisp
 ;; Package-Version: 0.1
+;; Package-Commit: 30ee14339cf8fe2e59e5384085afee3f8eb58dda
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

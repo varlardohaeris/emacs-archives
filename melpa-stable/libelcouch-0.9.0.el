@@ -5,6 +5,7 @@
 ;; Author: Damien Cassou <damien@cassou.me>
 ;; Keywords: tools
 ;; Package-Version: 0.9.0
+;; Package-Commit: fd90ff7989632452434fc19a609805f7276821f3
 ;; Url: https://gitlab.petton.fr/elcouch/libelcouch/
 ;; Package-requires: ((emacs "25.1") (request "0.3.0"))
 ;; Version: 0.9.0

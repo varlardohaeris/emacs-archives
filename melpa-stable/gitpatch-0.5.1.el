@@ -8,6 +8,7 @@
 ;; Homepage: https://github.com/tumashu/gitpatch
 ;; Keywords: convenience
 ;; Package-Version: 0.5.1
+;; Package-Commit: 94d40a2ee2b7cd7b209546ea02568079176b0034
 ;; Package-Requires: ((emacs "24.3"))
 ;; Version: 0.5.1
 

@@ -6,6 +6,7 @@
 ;; Maintainer: Johan Andersson <johan.rejeep@gmail.com>
 ;; Version: 0.1.1
 ;; Package-Version: 0.1.1
+;; Package-Commit: 8b7f1477ef367b5b7de452589dd9a8ab30150d0a
 ;; Keywords: git
 ;; URL: http://github.com/rejeep/git.el
 ;; Package-Requires: ((s "1.7.0") (dash "2.2.0") (f "0.10.0"))

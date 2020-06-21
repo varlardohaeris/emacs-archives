@@ -5,6 +5,7 @@
 ;; Author: SAKURAI Masashi <m.sakurai at kiwanami.net>
 ;; URL: https://github.com/kiwanami/emacs-ctable
 ;; Package-Version: 0.1.2
+;; Package-Commit: 08a017bde6d24ea585e39ce2637bebe28774d316
 ;; Version: 0.1.2
 ;; Keywords: table
 

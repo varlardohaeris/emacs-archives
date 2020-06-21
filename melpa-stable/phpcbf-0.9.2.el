@@ -5,6 +5,7 @@
 ;; Author: nishimaki10
 ;; URL: https://github.com/nishimaki10/emacs-phpcbf
 ;; Package-Version: 0.9.2
+;; Package-Commit: b556b548ceb061b002389d6165d2cc63d8bddb5d
 ;; Version: 0.9.2
 ;; Package-Requires: ((s "1.9.0"))
 ;; Keywords: tools, php

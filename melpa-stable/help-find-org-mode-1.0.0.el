@@ -5,6 +5,7 @@
 ;; Author: Eric Crosson <eric.s.crosson@utexas.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: c6fa2c8a8e9381572190010a9fa01f2be78f2790
 ;; Keywords: convenience
 ;; URL: https://github.com/EricCrosson/help-find-org-mode
 ;; Package-Requires: ((emacs "24.4"))

@@ -5,6 +5,7 @@
 ;; Author: Junpeng Qiu <qjpchmail@gmail.com>
 ;; URL: https://github.com/cute-jumper/ace-pinyin
 ;; Package-Version: 0.2.5
+;; Package-Commit: c444d8d6861dafd06dd41e694dc9db32652e3b7c
 ;; Version: 0.2
 ;; Package-Requires: ((ace-jump-mode "2.0") (avy "0.2.0") (pinyinlib "0.1.0"))
 ;; Keywords: extensions

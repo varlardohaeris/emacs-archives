@@ -6,6 +6,7 @@
 ;; Created: 31 May 2015
 ;; Keywords: emoji font config
 ;; Package-Version: 0.1.1
+;; Package-Commit: e460c9a08e48ec4103e38a7a04acae20880149a9
 
 ;; This file is NOT part of GNU Emacs.
 

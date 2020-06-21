@@ -5,6 +5,7 @@
 ;; Author: tastytea <tastytea@tastytea.de>
 ;; Version: 0.4.3
 ;; Package-Version: 0.4.3
+;; Package-Commit: e30883a7085ad1f4e1113dc84f5f2222ac4bcd37
 ;; Package-Requires: ((emacs "25.3"))
 ;; Keywords: convenience
 ;; URL: https://schlomp.space/tastytea/register-quicknav

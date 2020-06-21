@@ -5,6 +5,7 @@
 ;; Author: Chunyang Xu <xuchunyang56@gmail.com>
 ;; URL: https://github.com/xuchunyang/helm-commandlinefu
 ;; Package-Version: 0.3
+;; Package-Commit: e11cd3e961c1c4c973b51d8d12592e7235a4971b
 ;; Package-Requires: ((emacs "24.1") (helm "1.7.0") (json "1.3") (let-alist "1.0.3"))
 ;; Keywords: commandlinefu.com
 ;; Version: 0.3

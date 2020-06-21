@@ -5,6 +5,7 @@
 ;; Author: David Vazquez Pua <davazp@gmail.com>
 ;; Keywords: languages
 ;; Package-Version: 20191024.1221
+;; Package-Commit: 7c37aee28bf8c8ffb3da73df5571c4e1e352562b
 ;; Package-Requires: ((emacs "24.3"))
 
 ;; This program is free software; you can redistribute it and/or modify

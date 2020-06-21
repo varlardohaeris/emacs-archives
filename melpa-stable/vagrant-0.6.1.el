@@ -2,6 +2,7 @@
 
 ;;; Version: 0.6.1
 ;; Package-Version: 0.6.1
+;; Package-Commit: ef3022d290ee26597e21b17ab87acbd8d4f1071f
 ;;; Author: Robert Crim <rob@servermilk.com>
 ;;; Url: https://github.com/ottbot/vagrant.el
 ;;; Keywords: vagrant chef

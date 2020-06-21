@@ -5,6 +5,7 @@
 ;; Author: Chunyang Xu <mail@xuchunyang.me>
 ;; URL: https://github.com/xuchunyang/shr-tag-pre-highlight.el
 ;; Package-Version: 20171113.914
+;; Package-Commit: 6182f43a36b0f82ba6edcf6e423b5f69a46a814e
 ;; Package-Requires: ((emacs "25.1") (language-detection "0.1.0"))
 ;; Keywords: html
 ;; Version: 2

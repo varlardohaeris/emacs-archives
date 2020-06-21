@@ -5,6 +5,7 @@
 ;; Author: Clemens Radermacher <clemera@posteo.net>
 ;; URL: https://github.com/clemera/ivy-explorer
 ;; Package-Version: 0.3.2
+;; Package-Commit: 14adb6164f1d1646f503c3e4bd9aa559805f93d7
 ;; Version: 0.3.2
 ;; Package-Requires: ((emacs "25") (ivy "0.10.0"))
 ;; Keywords: convenience, files, matching

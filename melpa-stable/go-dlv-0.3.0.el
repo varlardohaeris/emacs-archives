@@ -5,6 +5,7 @@
 ;; Author: Marko Bencun <mbencun@gmail.com>
 ;; URL: https://github.com/benma/go-dlv.el/
 ;; Package-Version: 0.3.0
+;; Package-Commit: d3cca689e76b71e0ef0ab827c7e01cd9042d2095
 ;; Version: 0.3
 ;; Package-Requires: ((go-mode "1.3.1"))
 ;; Keywords: Go, debug, debugger, delve, interactive, gud

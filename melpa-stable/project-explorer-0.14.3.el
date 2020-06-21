@@ -5,6 +5,7 @@
 
 ;;; Version: 0.14.3
 ;; Package-Version: 0.14.3
+;; Package-Commit: 7c2cc86a81f679dda355110f916366b64893a5d4
 ;;; Author: sabof
 ;;; URL: https://github.com/sabof/project-explorer
 ;;; Package-Requires: ((cl-lib "0.3") (es-lib "0.3") (es-windows "0.1") (emacs "24"))

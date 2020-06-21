@@ -6,6 +6,7 @@
 ;; Author: Jonas Bernoulli <jonas@bernoul.li>
 ;; Package-Requires: ((emacs "24.3") (dash "2.12.1") (org "9.3"))
 ;; Package-Version: 20200413.2124
+;; Package-Commit: a5f5da06174d22dc21bbac167a8c2361fa84bf2b
 ;; Homepage: https://github.com/tarsius/orglink
 ;; Keywords: hypertext
 

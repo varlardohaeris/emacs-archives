@@ -4,6 +4,7 @@
 ;; Adam Simpson <adam@adamsimpson.net>
 ;; Version: 0.1.1
 ;; Package-Version: 0.1.2
+;; Package-Commit: df6f5928f1e5a614fb770f6f4b9aefe0bf4d1c25
 ;; Package-Requires: ((loop "1.4"))
 ;; Keywords: pinboard
 ;; URL: https://github.com/asimpson/pinboard-popular

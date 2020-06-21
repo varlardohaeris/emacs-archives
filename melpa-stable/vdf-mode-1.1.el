@@ -5,6 +5,7 @@
 ;; Author: Philipp Middendorf
 ;; URL: https://github.com/plapadoo/vdf-mode
 ;; Package-Version: 1.1
+;; Package-Commit: f474047a35a2779e4ebaf9166f3d54f359cf9f3c
 ;; Version: 1.0
 
 ;; This program is free software; you can redistribute it and/or modify

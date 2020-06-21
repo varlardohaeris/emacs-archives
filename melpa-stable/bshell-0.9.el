@@ -4,6 +4,7 @@
 
 ;; Version: 0.4
 ;; Package-Version: 0.9
+;; Package-Commit: 8d359f8a76749dcd5ca046b280a11fdb3f87cd23
 ;; Author: Paul Landes
 ;; Maintainer: Paul Landes
 ;; Keywords: interactive shell management

@@ -3,6 +3,7 @@
 ;; Author: Philip K. <philip@warpmail.net>
 ;; Version: 1.0.0
 ;; Package-Version: 1.1.0
+;; Package-Commit: de3b668b83a73da5ce189c536a58aa1d4f5d492c
 ;; Keywords: languages, abbrev, convenience
 ;; Package-Requires: ((emacs "24.4"))
 ;; URL: https://git.sr.ht/~zge/go-capf

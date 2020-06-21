@@ -6,6 +6,7 @@
 ;; Created: 28 Jan 2017
 ;; Version: 0.0.4
 ;; Package-Version: 0.0.4
+;; Package-Commit: 6b077b3421a0b2c0b98a6906b8ab0d14d9d7bf50
 ;; Keywords: tools php
 ;; Package-Requires: ((emacs "24") (composer "0.0.8") (f "0.17"))
 ;; URL: https://github.com/emacs-php/phan.el

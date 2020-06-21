@@ -5,6 +5,7 @@
 ;; Author: Hiroaki Otsu <ootsuhiroaki@gmail.com>
 ;; Keywords: help convenience Tooltip
 ;; Package-Version: 0.0.1
+;; Package-Commit: e08b2585228529aeaae5e0ae0948f898e83a6200
 ;; URL: https://github.com/aki2o/guide-key-tip
 ;; Version: 0.0.1
 ;; Package-Requires: ((guide-key "1.2.3") (pos-tip "0.4.5"))

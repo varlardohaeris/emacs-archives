@@ -7,6 +7,7 @@
 ;; Project: nord-emacs
 ;; Version: 0.5.0
 ;; Package-Version: 0.5.0
+;; Package-Commit: 0f5295f99005a200191ce7b660e56cd0510cf710
 ;; URL: https://github.com/arcticicestudio/nord-emacs
 ;; Author: Arctic Ice Studio <development@arcticicestudio.com>
 ;; Package-Requires: ((emacs "24"))

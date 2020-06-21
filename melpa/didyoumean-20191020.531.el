@@ -3,6 +3,7 @@
 ;; Authors: Kisaragi Hiu <mail@kisaragi-hiu.com>
 ;; URL: https://gitlab.com/kisaragi-hiu/didyoumean.el
 ;; Package-Version: 20191020.531
+;; Package-Commit: 4a6049f2de36801e0a50e93b17a375501f16cf28
 ;; Version: 0.4.0
 ;; Package-Requires: ((emacs "24.4"))
 ;; Keywords: convenience

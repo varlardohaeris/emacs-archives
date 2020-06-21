@@ -5,6 +5,7 @@
 ;; Author: Vindarel
 ;; URL: https://gitlab.com/emacs-stuff/git-commit-insert-issue/
 ;; Package-Version: 0.3.1
+;; Package-Commit: 5f08c17bf93b17915415d435ee41923d924fe20b
 ;; Keywords: git, github, gitlab, bitbucket, commit, issues
 ;; Version: 0.2.0
 ;; Package-Requires: ((helm "0") (projectile "0") (s "0") (github-issues "0") (gitlab "0") (bitbucket "0"))

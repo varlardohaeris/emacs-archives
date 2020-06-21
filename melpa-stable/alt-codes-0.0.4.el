@@ -8,6 +8,7 @@
 ;; Keyword: alt codes insertion meta
 ;; Version: 0.0.4
 ;; Package-Version: 0.0.4
+;; Package-Commit: 7dcd9cdcc41cfb991801ea1e2f5b3c925a5309ee
 ;; Package-Requires: ((emacs "24.4"))
 ;; URL: https://github.com/jcs090218/alt-codes
 

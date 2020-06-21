@@ -5,6 +5,7 @@
 ;; Author: Tom Willemse <tom@ryuslash.org>
 ;; Keywords: faces
 ;; Package-Version: 20200422.208
+;; Package-Commit: caa83e4475885a2c9a126630f0feec1ce2eb0c4e
 ;; Version: 6.2.0
 ;; URL: http://projects.ryuslash.org/yoshi-theme/
 

@@ -6,6 +6,7 @@
 ;; Created: 29 Dec 2019
 ;; Version: 0.1
 ;; Package-Version: 20200312.1153
+;; Package-Commit: 4d8ccde889b112896c7299cad9f1e9305bde8cb3
 ;; Keywords: languages
 ;; Homepage: https://github.com/sfztools/emacs-sfz-mode
 ;; Package-Requires: ((emacs "25.1"))

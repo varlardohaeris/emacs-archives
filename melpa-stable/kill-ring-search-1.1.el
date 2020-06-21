@@ -5,6 +5,7 @@
 ;; Author: Nikolaj Schumacher <bugs * nschum de>
 ;; Version: 1.1
 ;; Package-Version: 1.1
+;; Package-Commit: 3a5bc1767f742c91aa788df79ecec836a0946edb
 ;; Keywords: convenience, matching
 ;; URL: http://nschum.de/src/emacs/kill-ring-search/
 ;; Compatibility: GNU Emacs 21.x, GNU Emacs 22.x, GNU Emacs 22.x

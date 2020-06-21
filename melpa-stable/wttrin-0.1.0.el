@@ -5,6 +5,7 @@
 ;;         ono hiroko (kuanyui) <azazabc123@gmail.com>
 ;; Version: 0.2.0
 ;; Package-Version: 0.1.0
+;; Package-Commit: d595240d92788791da2218d12efd6a77eee06217
 ;; Package-Requires: ((emacs "24.4") (xterm-color "1.0"))
 ;; Keywords: comm, weather, wttrin
 ;; URL: https://github.com/bcbcarl/emacs-wttrin

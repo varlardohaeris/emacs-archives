@@ -5,6 +5,7 @@
 ;;; Author: Todd Neal <tolchz@gmail.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.1
+;; Package-Commit: f4accdeba5d49b79f85f0f24f74ac25e8326d487
 ;; Keywords: extensions
 ;; Package-Requires: ((emacs "24"))
 ;;

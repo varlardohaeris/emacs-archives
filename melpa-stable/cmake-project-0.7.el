@@ -6,6 +6,7 @@
 ;; Maintainer: Alexander Lamaison <alexander.lamaison@gmail>
 ;; URL: http://github.com/alamaison/emacs-cmake-project
 ;; Package-Version: 0.7
+;; Package-Commit: ec61f687772cccdb699f64ebe1e8dc8ba83f790f
 ;; Version: 0.7
 ;; Keywords: c cmake languages tools
 

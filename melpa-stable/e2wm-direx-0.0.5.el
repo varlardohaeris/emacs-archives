@@ -5,6 +5,7 @@
 ;; Author: Hiroaki Otsu <ootsuhiroaki@gmail.com>
 ;; Keywords: tools, window manager, convenience
 ;; Package-Version: 0.0.5
+;; Package-Commit: f319625b56c44e601af7c17fc6dbb88e5d70ebae
 ;; URL: https://github.com/aki2o/e2wm-direx
 ;; Version: 0.0.5
 ;; Package-Requires: ((e2wm "1.2") (direx "0.1alpha"))

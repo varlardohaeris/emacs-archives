@@ -5,6 +5,7 @@
 ;; Author: Jules Tamagnan <jtamagnan@gmail.com>
 ;; URL: http://github.com/jtamagnan/magit-reviewboard
 ;; Package-Version: 20190211.2244
+;; Package-Commit: f3d5ed914243e3930f9c06f59021305e7e43e67d
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "25.2") (magit "2.13.0") (s "1.12.0") (request "0.3.0"))
 ;; Keywords: magit, vc

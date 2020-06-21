@@ -5,6 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Keywords: languages, tools
 ;; Package-Version: 0.2
+;; Package-Commit: 593001930f1d68c85233f34c5f6fb04173fc98d6
 ;; Version: DEV
 ;; Package-Requires: ((skewer-mode "1.5.3"))
 

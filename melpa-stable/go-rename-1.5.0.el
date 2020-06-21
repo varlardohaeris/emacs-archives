@@ -6,6 +6,7 @@
 
 ;; Version: 0.1
 ;; Package-Version: 1.5.0
+;; Package-Commit: 35f6826e435c3004dabf134d0f2ae2f31ea7b6a2
 ;; Package-Requires: ((go-mode "1.3.1"))
 ;; Keywords: tools
 

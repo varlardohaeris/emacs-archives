@@ -4,6 +4,7 @@
 ;; Author: Ryan McGeary
 ;; Version: 0.5
 ;; Package-Version: 0.5
+;; Package-Commit: 4f1dbbe68048864037eae277b9280b90fd701ff1
 ;; Keywords: display frame window maximize
 
 ;; This code is free; you can redistribute it and/or modify it under the

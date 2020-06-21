@@ -4,6 +4,7 @@
 
 ;; Version: 1.1
 ;; Package-Version: 1.1
+;; Package-Commit: d07d269586233787b4bea4c40df43d6357a40f58
 ;; Author: Shingo Fukuyama - http://fukuyama.co
 ;; URL: https://github.com/ShingoFukuyama/manage-minor-mode
 ;; Created: Mar 8 2014

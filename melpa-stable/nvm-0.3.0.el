@@ -6,6 +6,7 @@
 ;; Maintainer: Johan Andersson <johan.rejeep@gmail.com>
 ;; Version: 0.3.0
 ;; Package-Version: 0.3.0
+;; Package-Commit: e93e5216e311c665c593ac68c5456d624120ea42
 ;; Keywords: node, nvm
 ;; URL: http://github.com/rejeep/nvm.el
 ;; Package-Requires: ((s "1.8.0") (dash "2.4.0") (f "0.14.0") (dash-functional "2.4.0"))

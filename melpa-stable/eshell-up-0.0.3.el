@@ -6,6 +6,7 @@
 ;; Maintainer: Peter W. V. Tran-Jørgensen <peter.w.v.jorgensen@gmail.com>
 ;; URL: https://github.com/peterwvj/eshell-up
 ;; Package-Version: 0.0.3
+;; Package-Commit: 653121392acd607d5dfbca0832927e06806a2d39
 ;; Created: 14th October 2016
 ;; Version: 0.0.3
 ;; Package-Requires: ((emacs "24"))

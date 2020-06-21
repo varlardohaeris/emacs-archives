@@ -6,6 +6,7 @@
 ;; Maintainer: Yanghao Xie <yhaoxie@gmail.com>
 ;; URL: https://github.com/yanghaoxie/which-key-posframe
 ;; Package-Version: 0.2.0
+;; Package-Commit: 75e73e187da78d823a5dc01c21e09e808e4fb938
 ;; Version: 0.2.0
 ;; Keywords: convenience, bindings, tooltip
 ;; Package-Requires: ((emacs "26.0")(posframe "0.4.3")(which-key "3.3.2"))

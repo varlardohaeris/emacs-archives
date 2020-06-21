@@ -3,6 +3,7 @@
 ;; Author: k32
 ;; Keywords: tools
 ;; Package-Version: 0.1.0
+;; Package-Commit: 07398e929978b0eaf2bf119e97cba7b9f9e90d2a
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

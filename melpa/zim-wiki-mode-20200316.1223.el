@@ -2,6 +2,7 @@
 
 ;; URL: https://github.com/WillForan/zim-wiki-mode
 ;; Package-Version: 20200316.1223
+;; Package-Commit: 410fa67d5947b8801b03a58fcb2bd414cb5294f7
 ;; Author: Will Foran <willforan+zim-wiki-mode@gmail.com>
 ;; Keywords: outlines
 ;; Package-Requires: ((emacs "25") (helm-ag "0.58") (helm-projectile "0.14.0") (dokuwiki-mode "0.1.1") (link-hint "0.1") (pretty-hydra "0.2.2"))

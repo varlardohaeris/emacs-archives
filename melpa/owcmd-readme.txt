@@ -5,6 +5,10 @@ window, like scroll the buffer, jump to a definition, paste some text,
 or quit a temporary buffer.  It is a sort of generalization of the
 built-in commands `scroll-other-window' and `scroll-other-window-down'.
 
+This commentary provides a getting-started guide.  For additional
+details including alternative packages and information for
+contributors, see the README file at this package's homepage URL.
+
 Installation:
 
 Put owcmd.el somewhere in your `load-path', then load it.
@@ -44,5 +48,9 @@ As this example shows, prefix arguments are supported by default.
 
 Configuration:
 
-You can configure the package's behavior through variables whose names
-are prefixed with "owcmd-".
+You can configure the package's behavior through variables whose
+names are prefixed with "owcmd-".  Here is one suggested
+customization to try:
+
+  ;; Use C-g to abort owcmd and stay in the selected window.
+  (add-to-list 'owcmd-cancel-reselect-commands 'keyboard-quit)

@@ -5,6 +5,7 @@
 ;; Author: Hiroki YAMAKAWA <s06139@gmail.com>
 ;; URL: https://github.com/HKey/caseformat
 ;; Package-Version: 0.1.0
+;; Package-Commit: 72707c9f0f0819b4e2aa45876432a293aa07f814
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24") (cl-lib "0.5") (dash "2.12.1") (s "1.10.0"))
 ;; Keywords: convenience

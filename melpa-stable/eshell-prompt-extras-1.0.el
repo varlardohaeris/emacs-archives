@@ -7,6 +7,7 @@
 ;; Maintainer: Chunyang Xu <mail@xuchunyang.me>
 ;; URL: https://github.com/zwild/eshell-prompt-extras
 ;; Package-Version: 1.0
+;; Package-Commit: 356a540f9365b2f37f8a8cfb9c0e0e1994d12f4a
 ;; Version: 1.0
 ;; Created: 2014-08-16
 ;; Keywords: eshell, prompt

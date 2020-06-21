@@ -7,6 +7,7 @@
 ;; Maintainer: Alex Bennée <alex@bennee.com>
 ;; Version: 1.14
 ;; Package-Version: 1.15
+;; Package-Commit: 4e959de2f78268b348d2eaac4e43c846792d345f
 ;; Homepage: https://github.com/stsquad/emacs_chrome
 
 ;; This file is not part of GNU Emacs.

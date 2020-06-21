@@ -3,6 +3,7 @@
 ;; Author: IMAKADO <ken.imakado@gmail.com>
 ;; URL: https://github.com/emacs-jp/init-loader/
 ;; Package-Version: 0.2
+;; Package-Commit: 128ee76adbf431f0b8c30a3a29cb20c9c5100cde
 ;; Version: 0.02
 
 ;; This file is free software; you can redistribute it and/or modify

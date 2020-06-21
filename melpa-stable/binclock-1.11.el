@@ -4,6 +4,7 @@
 ;; Author: Dave Pearson <davep@davep.org>
 ;; Version: 1.11
 ;; Package-Version: 1.11
+;; Package-Commit: b964e437311e5406a31c0ec7038b3bf1fd02b876
 ;; Keywords: games, time, display
 ;; URL: https://github.com/davep/binclock.el
 ;; Package-Requires: ((cl-lib "0.5"))

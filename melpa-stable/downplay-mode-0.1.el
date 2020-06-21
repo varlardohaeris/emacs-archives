@@ -5,6 +5,7 @@
 ;; Author: Toby Crawley <toby@tcrawley.org>
 ;; URL: https://github.com/tobias/downplay-mode/
 ;; Package-Version: 0.1
+;; Package-Commit: 225a4b3ca09e6f463dfdd54941c98b02be8d574c
 ;; Created: 2013-12-21
 ;; Version: 0.1
 

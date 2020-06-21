@@ -6,6 +6,7 @@
 ;; Created: 22 Jan 2017
 ;; Version: 3.1.1
 ;; Package-Version: 3.1.1
+;; Package-Commit: a1043b7cdb1ea98055a2c99f8d37584a553ca362
 ;; Keywords: lisp
 ;; Homepage: https://github.com/nickmccurdy/add-hooks
 

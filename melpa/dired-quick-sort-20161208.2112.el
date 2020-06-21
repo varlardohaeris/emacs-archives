@@ -5,6 +5,7 @@
 ;; Author: Hong Xu <hong@topbug.net>
 ;; URL: https://gitlab.com/xuhdev/dired-quick-sort#dired-quick-sort
 ;; Package-Version: 20161208.2112
+;; Package-Commit: 1845f978d313f750a5b70b832457ed803c4ffbdb
 ;; Version: 0.1+
 ;; Package-Requires: ((hydra "0.13.0"))
 ;; Keywords: convenience, files

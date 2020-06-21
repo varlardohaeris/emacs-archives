@@ -6,6 +6,7 @@
 ;; Author: Sebastian Wiesner <swiesner@lunaryorn.com>
 ;; URL: https://github.com/flycheck/flycheck-ocaml
 ;; Package-Version: 0.3
+;; Package-Commit: 9b4cd83ad2a87cc94b5d4e1ac26ac235475f1e6c
 ;; Keywords: convenience, tools, languages
 ;; Version: 0.3
 ;; Package-Requires: ((emacs "24.1") (flycheck "0.22") (merlin "2.3") (let-alist "1.0.3"))

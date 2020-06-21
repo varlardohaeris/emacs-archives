@@ -5,6 +5,7 @@
 ;; Author: Krzysztof Magosa <krzysztof@magosa.pl>
 ;; URL: https://github.com/krzysztof-magosa/flycheck-yamllint
 ;; Package-Version: 0.1.0
+;; Package-Commit: aa211b1243168a4f752888c0014c5b9d2da178b1
 ;; Package-Requires: ((flycheck "30"))
 ;; Created: 25 March 2017
 ;; Version: 0.1.0

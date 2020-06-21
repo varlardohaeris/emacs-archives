@@ -6,6 +6,7 @@
 ;; Maintainer: Christopher R. Genovese <genovese@cmu.edu>
 ;; URL: http://www.stat.cmu.edu/~genovese/emacs/win-switch/
 ;; Package-Version: 1.1.4
+;; Package-Commit: 954eb5e4c5737f0c06368c42a7f1c3dd374d782f
 
 ;; Version: 1.1.4
 ;; Update#: 25

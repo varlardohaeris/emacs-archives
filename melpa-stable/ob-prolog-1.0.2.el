@@ -5,6 +5,7 @@
 ;; Author: Bjarte Johansen
 ;; Keywords: literate programming, reproducible research
 ;; Package-Version: 1.0.2
+;; Package-Commit: efa86bb70fd1907806f3e43705aff54d35582442
 ;; URL: https://github.com/ljos/ob-prolog
 ;; Version: 1.0.2
 

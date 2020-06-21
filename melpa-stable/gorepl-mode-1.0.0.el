@@ -6,6 +6,7 @@
 ;; Maintainer: Manuel Alonso <manuteali@gmail.com>
 ;; URL: http://www.github.com/manute/gorepl-mode
 ;; Package-Version: 1.0.0
+;; Package-Commit: 17e025951f5964a0542a4b353ddddbc734c01eed
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: languages, go, golang, gorepl

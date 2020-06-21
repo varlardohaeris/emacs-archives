@@ -9,6 +9,7 @@
 
 ;; Version: 0.1.0
 ;; Package-Version: 20191121.2120
+;; Package-Commit: 4703650c20cb77f08833747529b55be13d450bae
 ;; Url: https://github.com/ukari/speedbar-git-respect
 ;; Author: Muromi Ukari <chendianbuji@gmail.com>
 ;; Package-Requires: ((f "0.8.0") (emacs "25.1"))

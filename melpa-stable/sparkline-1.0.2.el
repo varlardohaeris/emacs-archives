@@ -6,6 +6,7 @@
 ;; Created: July 2013
 ;; Version: 1.0.2
 ;; Package-Version: 1.0.2
+;; Package-Commit: e44498cf1a58fb165991198fe5104d51c92ea904
 ;; Keywords: extensions
 ;; Package-Requires: ((cl-lib "0.3"))
 

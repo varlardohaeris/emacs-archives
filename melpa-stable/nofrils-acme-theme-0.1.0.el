@@ -6,6 +6,7 @@
 ;; Author: Eric Sessoms <esessoms@protonmail.com>
 ;; Package-Requires: ((emacs "24"))
 ;; Package-Version: 0.1.0
+;; Package-Commit: 7825f88cb881a84eaa5cd1689772819a18eb2943
 ;; URL: https://gitlab.com/esessoms/nofrils-theme
 ;; Version: 0.1.0
 

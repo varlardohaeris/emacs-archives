@@ -5,6 +5,7 @@
 ;; Author: Mark Karpov <markkarpov92@gmail.com>
 ;; URL: https://github.com/mrkkrp/kill-or-bury-alive
 ;; Package-Version: 0.1.3
+;; Package-Commit: 51daf55565034b8cb6aa3ca2aa0a827e31751041
 ;; Version: 0.1.3
 ;; Package-Requires: ((emacs "24.4") (cl-lib "0.5"))
 ;; Keywords: buffer, killing, convenience

@@ -1,5 +1,6 @@
 ;;; pkgbuild-mode.el --- Interface to the ArchLinux package manager
 ;; Package-Version: 0.14
+;; Package-Commit: 6bb7cb3b0599ac0ae3c1d8d5014aefc1ecff7965
 
 ;; Copyright (C) 2005-2015 Juergen Hoetzel
 

@@ -4,6 +4,7 @@
 ;; Author: Julien Blanchard <https://github.com/julienXX>
 ;; URL: https://github.com/julienXX/ivy-lobsters
 ;; Package-Version: 20171202.2041
+;; Package-Commit: 4364df4b3685fd1b50865ac9360fb948c0288dd1
 ;; Package: ivy-lobsters
 ;; Package-Requires: ((ivy "0.8.0") (cl-lib "0.5"))
 ;; Version: 0.1

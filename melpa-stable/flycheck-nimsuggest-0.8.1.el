@@ -6,6 +6,7 @@
 
 ;; Version: 0.8.1
 ;; Package-Version: 0.8.1
+;; Package-Commit: 8b1c69e9aa924368bc4dadd4cde818ff158cd3f0
 ;; Package-Requires: ((flycheck "0.23") (nim-mode "0.4.1") (emacs "24"))
 ;; URL: https://github.com/yuutayamada/flycheck-nimsuggest
 

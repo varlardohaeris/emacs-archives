@@ -5,6 +5,7 @@
 ;; Author: lugecy <lugecy@gmail.com>
 ;; URL: http://github.com/lugecy/lingr-el
 ;; Package-Version: 0.2
+;; Package-Commit: c9c20dd9b4967aa2f8873d6890d6797e6a498d23
 ;; Keywords: chat, client, Internet
 ;; Version: 0.2
 

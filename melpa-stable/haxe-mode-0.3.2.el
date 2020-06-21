@@ -4,6 +4,7 @@
 ;; Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
 ;; URL: https://github.com/elpa-host/haxe-mode
 ;; Package-Version: 0.3.2
+;; Package-Commit: ed99906a808ff4a00bf6b0e231c30c240a563954
 ;; Version: 0.3.2
 
 ;;; Commentary:

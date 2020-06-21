@@ -5,6 +5,7 @@
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-helm-ispell
 ;; Package-Version: 0.1
+;; Package-Commit: 640723ace794d21b8a5892012db99f963149415b
 ;; Version: 0.01
 ;; Package-Requires: ((helm-core "1.7.7"))
 

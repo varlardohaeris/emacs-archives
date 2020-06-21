@@ -5,6 +5,7 @@
 ;; Author: Hiroki YAMAKAWA <s06139@gmail.com>
 ;; URL: https://github.com/HKey/dired-atool
 ;; Package-Version: 20181228.1422
+;; Package-Commit: dd1bcb65bc75d08a668b5b342f92d7590303d94d
 ;; Version: 1.2.0
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: files

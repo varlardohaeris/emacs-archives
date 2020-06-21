@@ -8,6 +8,7 @@
 ;; Author: Takeshi Banse <takebi@laafc.net>
 ;; URL: https://github.com/emacs-helm/helm-slime
 ;; Package-Version: 0.4.0
+;; Package-Commit: e0dbf04d447098a1d074bc04e125764ff82091b7
 ;; Version: 0.4.0
 ;; Keywords: convenience, helm, slime
 ;; Package-Requires: ((emacs "24") (helm "3.2") (slime "2.18") (cl-lib "0.5"))

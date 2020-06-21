@@ -6,6 +6,7 @@
 ;; Created: 5 April 2016
 ;; Version: 1.1.0
 ;; Package-Version: 20200309.1556
+;; Package-Commit: d11537a2060df7e992217ede8f65d6c11de49458
 ;; Keywords: theme, zenburn
 ;; URL: https://github.com/ksjogo/labburn-theme
 

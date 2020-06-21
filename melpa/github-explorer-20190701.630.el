@@ -5,6 +5,7 @@
 ;; Author: Giap Tran <txgvnn@gmail.com>
 ;; URL: https://github.com/TxGVNN/github-explorer
 ;; Package-Version: 20190701.630
+;; Package-Commit: e3a410dd1113bdff382a745465ea48d9b1fe860b
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "24.4"))
 ;; Keywords: comm

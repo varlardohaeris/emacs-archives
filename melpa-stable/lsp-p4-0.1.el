@@ -4,6 +4,7 @@
 
 ;; Author: Dmitri Makarov
 ;; Version: 1.0
+;; Package-Commit: 9ebc597ba37e6f8fccbc08327cf57ca8ec793ffe
 ;; Package-Version: 0.1
 ;; Package-X-Original-Version: 20180408
 ;; Package-Requires: ((lsp-mode "3.0"))

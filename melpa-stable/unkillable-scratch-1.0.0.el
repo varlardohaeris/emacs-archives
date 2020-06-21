@@ -5,6 +5,7 @@
 ;; Author: Eric Crosson <eric.s.crosson@utexas.com>
 ;; Version: 1.0.0
 ;; Package-Version: 1.0.0
+;; Package-Commit: dac9dbed946a26829e6227ac15c0fa1d07ccd05f
 ;; Keywords: convenience
 ;; URL: https://github.com/EricCrosson/unkillable-scratch
 ;; Package-Requires: ((emacs "24"))

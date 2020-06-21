@@ -5,6 +5,7 @@
 ;; Author: Damien Cassou <damien.cassou@gmail.com>
 ;; Version: 0.1
 ;; Package-Version: 1.0.0
+;; Package-Commit: f0f48ccc0f96d4aa2a676ff609d9dddd71748e6f
 
 ;; This file is not part of GNU Emacs.
 

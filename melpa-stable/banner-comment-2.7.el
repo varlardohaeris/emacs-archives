@@ -5,6 +5,7 @@
 ;; Author: James Ferguson <james@faff.org>
 ;; URL: https://github.com/WJCFerguson/banner-comment
 ;; Package-Version: 2.7
+;; Package-Commit: ac52f6b24e590787a385c08cc3751d6f2ddca815
 ;; Package-Requires: ((emacs "24.4"))
 ;; Version: 2.6.2
 ;; Keywords: convenience

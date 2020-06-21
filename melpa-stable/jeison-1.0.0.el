@@ -5,6 +5,7 @@
 ;; Authors: Valeriy Savchenko <sinmipt@gmail.com>
 ;; URL: http://github.com/SavchenkoValeriy/jeison
 ;; Package-Version: 1.0.0
+;; Package-Commit: 4b68ba9e001594f3e33d98cf89580d0aee02b258
 ;; Version: 1.0.0
 ;; Package-Requires: ((emacs "25.1") (dash "2.16.0"))
 ;; Keywords: lisp json data-types

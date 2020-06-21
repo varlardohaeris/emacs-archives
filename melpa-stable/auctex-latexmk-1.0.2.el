@@ -5,6 +5,7 @@
 ;; Author: Tomoya Tanjo <ttanjo@gmail.com>
 ;; URL: https://github.com/tom-tan/auctex-latexmk/
 ;; Package-Version: 1.0.2
+;; Package-Commit: 4d353522650d7685acbf1d38f7dbc504f734bd84
 ;; Package-Requires: ((auctex "11.87"))
 ;; Keywords: tex
 

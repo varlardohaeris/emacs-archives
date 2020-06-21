@@ -6,6 +6,7 @@
 ;; Maintainer: Alexander Yarygin <yarygin.alexander@gmail.com>
 ;; Version: 0.1
 ;; Package-Version: 0.1
+;; Package-Commit: aca98ea79f8b26a95f9dbdd4142b01fdd2def866
 ;; Homepage: https://github.com/zpp0/flycheck-checkpatch
 ;; Package-Requires: ((emacs "25") (flycheck "30"))
 

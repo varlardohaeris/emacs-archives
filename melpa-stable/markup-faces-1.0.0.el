@@ -5,6 +5,7 @@
 ;; Author: Florian Kaufmann <sensorflo@gmail.com>
 ;; URL: https://github.com/sensorflo/markup-faces
 ;; Package-Version: 1.0.0
+;; Package-Commit: c43612633c6c161857a3bab5752ae192bb03f5f3
 ;; Version: 1.0.0
 ;; Created: 2010
 ;; Keywords: wp faces

@@ -6,6 +6,7 @@
 ;; Created: 10 Feb 2017
 ;; Version: 0.1
 ;; Package-Version: 1.0.0
+;; Package-Commit: 5984d6172c179528adf9aeba414598604dfb5c9a
 
 ;; Keywords: tools
 ;; Homepage: https://github.com/astahlman/ob-async

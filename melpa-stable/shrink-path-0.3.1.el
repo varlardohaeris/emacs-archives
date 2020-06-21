@@ -5,6 +5,7 @@
 ;; Author: Benjamin Andresen
 ;; Version: 0.3.1
 ;; Package-Version: 0.3.1
+;; Package-Commit: 9b8cfb59a2dcee8b39b680ab9adad5ecb1f53c0b
 ;; Keywords: path
 ;; URL: https://gitlab.com/bennya/shrink-path.el
 ;; Package-Requires: ((s "1.6.1") (dash "1.8.0") (f "0.10.0"))

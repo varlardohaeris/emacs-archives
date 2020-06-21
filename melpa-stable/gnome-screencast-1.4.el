@@ -4,6 +4,7 @@
 
 ;; Version: 1.4
 ;; Package-Version: 1.4
+;; Package-Commit: 261844a88c75f10d98b60577ac8121fcd6721564
 ;; Author: Jürgen Hötzel <juergen@hoetzel.info>
 ;; Keywords: tools, multimedia
 ;; Package-Requires: ((emacs "25"))

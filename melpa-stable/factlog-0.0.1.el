@@ -1,5 +1,6 @@
 ;;; factlog.el --- File activity logger
 ;; Package-Version: 0.0.1
+;; Package-Commit: c834fdab81ec5b1bdc0ee2721a12cecb48a319bf
 
 ;; Copyright (C) 2012 Takafumi Arakaki
 

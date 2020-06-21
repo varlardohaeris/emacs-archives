@@ -5,6 +5,7 @@
 ;; Author: Tim Krones <t.krones@gmx.net>
 ;; Version: 1.0
 ;; Package-Version: 1.0
+;; Package-Commit: 7da7f2acec0b1d1252d7474b13190ae88e5b205d
 ;; Package-Requires: ((s "1.9.0"))
 ;; URL: https://github.com/itsjeyd/git-wip-timemachine
 ;; Keywords: git

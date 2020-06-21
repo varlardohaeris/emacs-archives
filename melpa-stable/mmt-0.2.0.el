@@ -5,6 +5,7 @@
 ;; Author: Mark Karpov <markkarpov@openmailbox.org>
 ;; URL: https://github.com/mrkkrp/mmt
 ;; Package-Version: 0.2.0
+;; Package-Commit: f7db836a10720ee50217012e7e2597ebcf624f90
 ;; Version: 0.2.0
 ;; Package-Requires: ((emacs "24.1") (cl-lib "0.3"))
 ;; Keywords: macro, emacs-lisp

@@ -12,6 +12,7 @@
 ;; Created: Sat Jan  5 16:49:23 2013 (+0800)
 ;; Version: 0.6
 ;; Package-Version: 0.6
+;; Package-Commit: 323b651dd70ee40a25accc940b8f80c3a3185205
 ;; Last-Updated:
 ;;           By:
 ;; URL: https://github.com/lewang/ws-butler

@@ -5,6 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Keywords: languages
 ;; Package-Version: 0.1
+;; Package-Commit: b70b05bf469a27c1a2940eeaa1a5c8cc93d805fd
 ;; Package-Requires: ((emacs "24"))
 ;; Version: 0
 

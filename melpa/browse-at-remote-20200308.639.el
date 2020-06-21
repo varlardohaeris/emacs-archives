@@ -5,6 +5,7 @@
 ;; Author:     Rustem Muslimov <r.muslimov@gmail.com>
 ;; Version:    0.14.0
 ;; Package-Version: 20200308.639
+;; Package-Commit: 6aecae4b5d202e582425fc8aa2c9c2b6a4779f25
 ;; Keywords:   github, gitlab, bitbucket, gist, stash, phabricator, sourcehut, pagure
 ;; Package-Requires: ((f "0.17.2") (s "1.9.0") (cl-lib "0.5"))
 

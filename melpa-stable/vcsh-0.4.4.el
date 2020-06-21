@@ -4,6 +4,7 @@
 ;; Created: 2019-07-15 00:46:28 Monday +0200
 ;; URL: https://gitlab.com/stepnem/vcsh-el
 ;; Package-Version: 0.4.4
+;; Package-Commit: 7e376436b8f450a5571e19246136ccf77bbdd4f1
 ;; Keywords: vc, files
 ;; License: public domain
 ;; Version: 0.4.4

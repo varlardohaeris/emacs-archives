@@ -5,6 +5,7 @@
 ;; Author: Chunyang Xu <mail@xuchunyang.me>
 ;; URL: https://github.com/xuchunyang/eshell-git-prompt
 ;; Package-Version: 0.1.2
+;; Package-Commit: b6bb2d7bd4e393b4170b29891cfefb72ae020aab
 ;; Package-Requires: ((emacs "24.1") (cl-lib "0.5") (dash "2.11.0"))
 ;; Keywords: eshell git
 ;; Version: 0.1.2

@@ -5,6 +5,7 @@
 ;; Author: Chen Bin <chenbin.sh@gmail.com>
 ;; URL: http://github.com/redguardtoo/elpa-mirror
 ;; Package-Version: 2.1.1
+;; Package-Commit: 83a38b5721c459d311833522903de96f874e1a4e
 ;; Package-Requires: ((emacs "24.4"))
 ;; Version: 2.1.1
 ;; Keywords: cloud mirror elpa

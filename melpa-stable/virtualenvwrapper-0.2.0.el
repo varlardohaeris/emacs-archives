@@ -5,6 +5,7 @@
 ;; Author: James J Porter <porterjamesj@gmail.com>
 ;; URL: http://github.com/porterjamesj/virtualenvwrapper.el
 ;; Package-Version: 0.2.0
+;; Package-Commit: f753e5ad91c2ff5d11bec424aa8cec141efa6925
 ;; Version: 20151123
 ;; Keywords: python, virtualenv, virtualenvwrapper
 ;; Package-Requires: ((dash "1.5.0") (s "1.6.1"))

@@ -4,6 +4,7 @@
 
 ;; Author: Sean Allred <code@seanallred.com>
 ;; Keywords: tools, maint, convenience
+;; Package-Commit: e4c9c57d6620a788ec8a715ff1bb50542edea3a6
 ;; Homepage: https://github.com/vermiculus/apiwrap.el
 ;; Package-Requires: ((emacs "25"))
 ;; Package-Version: 0.5

@@ -6,6 +6,7 @@
 ;; Author: Peter Jones <pjones@pmade.com>
 ;; URL: https://github.com/pjones/bufshow
 ;; Package-Version: 0.1.0
+;; Package-Commit: d8424e412d63dcc721c64fbd2ddd2420a03b4e8b
 ;; Version: 0.1.0
 ;;
 ;; This file is not part of GNU Emacs.

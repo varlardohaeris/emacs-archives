@@ -4,6 +4,7 @@
 ;; Author: Vitalie Spinu  <spinuvit.list[ aaattt ]gmail[ dot ]com>
 ;; Version: 1.1.4
 ;; Package-Version: 1.1.4
+;; Package-Commit: fc7f0fd2f19e5ebee70156a99bf87393123893e3
 ;; Keywords: ido, imenu, tags
 ;; URL: https://github.com/vitoshka/imenu-anywhere
 ;; Package-Requires: ((cl-lib "0.5"))

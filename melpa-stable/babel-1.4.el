@@ -6,6 +6,7 @@
 ;;;         Juergen Hoetzel <juergen@hoetzel.info>
 ;;; Keywords: translation, web
 ;; Package-Version: 1.4
+;; Package-Commit: 65b55ad89017c9b3a1c8c241ac4b4541eabdaf5f
 ;;; Copyright: (C) 1999-2001 Eric Marsden
 ;;;                2005-2009 Juergen Hoetzel
 ;;

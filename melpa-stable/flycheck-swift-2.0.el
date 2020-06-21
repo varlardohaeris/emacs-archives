@@ -8,6 +8,7 @@
 ;;       Arthur Evstifeev <lod@pisem.net>
 ;; Version: 2.0
 ;; Package-Version: 2.0
+;; Package-Commit: 822d1415eabfd464adc52063f9c44da1c87f0ff9
 ;; Package-Requires: ((emacs "24.4") (flycheck "0.25"))
 ;; Keywords: languages swift
 

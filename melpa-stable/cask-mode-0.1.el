@@ -5,6 +5,7 @@
 ;; Author: Wilfred Hughes <me@wilfred.me.uk>
 ;; Version: 0.1
 ;; Package-Version: 0.1
+;; Package-Commit: 5203b1beac4dd2ee07a6e993bc86719f5f35dbbf
 ;; Package-Requires: ((emacs "24.3"))
 
 ;; This program is free software; you can redistribute it and/or modify

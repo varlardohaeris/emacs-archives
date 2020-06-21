@@ -1,0 +1,2 @@
+
+(po-mode . [(20200610 1743) nil "major mode for GNU gettext PO files" single ((:commit . "3114e245c2ee6208e9b506f3e65e631e1b236019") (:keywords "i18n" "gettext"))])

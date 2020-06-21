@@ -6,6 +6,7 @@
 ;; Maintainer: Sibi Prabakaran <sibi@psibi.in>
 ;; Keywords: languages
 ;; Package-Version: 20200413.450
+;; Package-Commit: 41c99057d0406c7fb3895a03da777af3961a648d
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.4") (reformatter "0.3"))
 ;; URL: https://github.com/psibi/rego-mode

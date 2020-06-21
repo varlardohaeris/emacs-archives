@@ -5,6 +5,7 @@
 ;; Author: Jerry Peng <pr2jerry@gmail.com>
 ;; URL: https://github.com/jerrypnz/major-mode-hydra.el
 ;; Package-Version: 0.2.2
+;; Package-Commit: bba876b86f0b80495004bf185b2b1f6083a1ff3a
 ;; Version: 0.2.2
 ;; Package-Requires: ((dash "2.15.0") (pretty-hydra "0.2.2") (emacs "25"))
 
