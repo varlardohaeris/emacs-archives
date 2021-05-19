@@ -1,0 +1,11 @@
+Package: xo
+Fetcher: github
+Source:  https://github.com/j-em/xo-emacs.git
+
+Updating /mnt/store/melpa/working/xo/
+Built xo in 4.307s, finished at Wed May 19 04:16:39 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:16 packages/xo-20160403.646.el
+4.0K -rw-r--r-- 1 root root  290 May 19 04:16 packages/xo-20160403.646.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:16 packages/xo-badge.svg
+4.0K -rw-r--r-- 1 root root  111 May 19 04:16 packages/xo-readme.txt

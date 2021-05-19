@@ -1,0 +1,6 @@
+Package: molecule
+Fetcher: gitlab
+Source:  https://gitlab.com/drymerisnothere/molecule-el.git
+
+Updating /mnt/store/melpa/working/molecule/
+No valid stable versions found for molecule

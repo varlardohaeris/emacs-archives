@@ -1,0 +1,21 @@
+Package: fabric
+Fetcher: github
+Source:  https://github.com/nlamirault/fabric.el.git
+
+Updating /mnt/store/melpa/working/fabric/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fabric/
+  to /tmp/fabricIotuVM/fabric-0.2.0
+    fabric.el -> fabric.el
+    fabric.el-pkg.el -> fabric.el-pkg.el
+Created fabric-0.2.0.tar containing:
+  fabric-0.2.0/
+  fabric-0.2.0/fabric-pkg.el
+  fabric-0.2.0/fabric.el
+  fabric-0.2.0/fabric.el-pkg.el
+Built fabric in 6.057s, finished at Wed May 19 04:33:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  351 May 19 04:33 packages-stable/fabric-0.2.0.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 04:33 packages-stable/fabric-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/fabric-badge.svg
+4.0K -rw-r--r-- 1 root root  154 May 19 04:33 packages-stable/fabric-readme.txt

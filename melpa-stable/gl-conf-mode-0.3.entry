@@ -1,2 +1,4 @@
-
-(gl-conf-mode . [(0 3) nil "No description available." single ((:commit . "1a53e548277eb9c669bbeda4bee9be32be7a82ec"))])
+(gl-conf-mode .
+	      [(0 3)
+	       nil "No description available." single
+	       ((:commit . "1a53e548277eb9c669bbeda4bee9be32be7a82ec"))])

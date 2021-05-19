@@ -1,0 +1,6 @@
+Package: sfz-mode
+Fetcher: github
+Source:  https://github.com/sfztools/emacs-sfz-mode.git
+
+Updating /mnt/store/melpa/working/sfz-mode/
+No valid stable versions found for sfz-mode

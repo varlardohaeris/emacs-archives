@@ -1,0 +1,6 @@
+Package: smblog
+Fetcher: github
+Source:  https://github.com/aaptel/smblog-mode.git
+
+Updating /mnt/store/melpa/working/smblog/
+No valid stable versions found for smblog

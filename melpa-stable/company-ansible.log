@@ -1,0 +1,21 @@
+Package: company-ansible
+Fetcher: github
+Source:  https://github.com/krzysztof-magosa/company-ansible.git
+
+Updating /mnt/store/melpa/working/company-ansible/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-ansible/
+  to /tmp/company-ansiblelYtLLI/company-ansible-0.8.0
+    company-ansible-keywords.el -> company-ansible-keywords.el
+    company-ansible.el -> company-ansible.el
+Created company-ansible-0.8.0.tar containing:
+  company-ansible-0.8.0/
+  company-ansible-0.8.0/company-ansible-keywords.el
+  company-ansible-0.8.0/company-ansible-pkg.el
+  company-ansible-0.8.0/company-ansible.el
+Built company-ansible in 3.057s, finished at Wed May 19 04:24:16 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  416 May 19 04:24 packages-stable/company-ansible-0.8.0.entry
+352K -rw-r--r-- 1 root root 350K May 19 04:24 packages-stable/company-ansible-0.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-ansible-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/company-ansible-readme.txt

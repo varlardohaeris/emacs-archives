@@ -1,0 +1,2 @@
+
+(frame-cmds . [(20210423 7) ((frame-fns (0))) "Frame and window commands (interactive functions)." single ((:commit . "7c9a30bae30c113e267dee3364e618a682fbaac8") (:keywords "internal" "extensions" "mouse" "frames" "windows" "convenience") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/frame-cmds.el"))])

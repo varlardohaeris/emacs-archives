@@ -1,0 +1,11 @@
+Package: eopengrok
+Fetcher: github
+Source:  https://github.com/youngker/eopengrok.el.git
+
+Updating /mnt/store/melpa/working/eopengrok/
+Built eopengrok in 2.503s, finished at Wed May 19 04:31:07 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:31 packages-stable/eopengrok-0.6.0.el
+4.0K -rw-r--r-- 1 root root  393 May 19 04:31 packages-stable/eopengrok-0.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eopengrok-badge.svg
+4.0K -rw-r--r-- 1 root root   92 May 19 04:31 packages-stable/eopengrok-readme.txt

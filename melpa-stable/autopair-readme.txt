@@ -1,3 +1,4 @@
+
 Another stab at making braces and quotes pair like in
 TextMate:
 
@@ -9,7 +10,7 @@ TextMate:
 Autopair deduces from the current syntax table which characters to
 pair, skip or delete.
 
-Installation:
+; Installation:
 
   (require 'autopair)
   (autopair-global-mode) ;; to enable in all buffers
@@ -29,3 +30,4 @@ like:
           #'(lambda ()
             (setq autopair-dont-activate t)
             (autopair-mode -1)))
+

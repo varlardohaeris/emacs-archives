@@ -1,0 +1,28 @@
+Package: monky
+Fetcher: github
+Source:  https://github.com/ananthakumaran/monky.git
+
+Updating /mnt/store/melpa/working/monky/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/monky/
+  to /tmp/monkywKpFNn/monky-20210417.12
+    monky.el -> monky.el
+    monky.info -> monky.info
+    style => style
+Created monky-20210417.12.tar containing:
+  monky-20210417.12/
+  monky-20210417.12/dir
+  monky-20210417.12/monky-pkg.el
+  monky-20210417.12/monky.el
+  monky-20210417.12/monky.info
+  monky-20210417.12/style/
+  monky-20210417.12/style/files
+  monky-20210417.12/style/files-status
+  monky-20210417.12/style/log-graph
+  monky-20210417.12/style/tags
+Built monky in 4.110s, finished at Wed May 19 03:44:56 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  327 May 19 03:44 packages/monky-20210417.12.entry
+132K -rw-r--r-- 1 root root 130K May 19 03:44 packages/monky-20210417.12.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:44 packages/monky-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 03:44 packages/monky-readme.txt

@@ -1,0 +1,23 @@
+Package: org-babel-eval-in-repl
+Fetcher: github
+Source:  https://github.com/diadochos/org-babel-eval-in-repl.git
+
+Updating /mnt/store/melpa/working/org-babel-eval-in-repl/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-babel-eval-in-repl/
+  to /tmp/org-babel-eval-in-repl6OM219/org-babel-eval-in-repl-1.6
+    eval-in-repl-ess.el -> eval-in-repl-ess.el
+    eval-in-repl-matlab.el -> eval-in-repl-matlab.el
+    org-babel-eval-in-repl.el -> org-babel-eval-in-repl.el
+Created org-babel-eval-in-repl-1.6.tar containing:
+  org-babel-eval-in-repl-1.6/
+  org-babel-eval-in-repl-1.6/eval-in-repl-ess.el
+  org-babel-eval-in-repl-1.6/eval-in-repl-matlab.el
+  org-babel-eval-in-repl-1.6/org-babel-eval-in-repl-pkg.el
+  org-babel-eval-in-repl-1.6/org-babel-eval-in-repl.el
+Built org-babel-eval-in-repl in 2.745s, finished at Wed May 19 01:38:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  573 May 19 01:38 packages-stable/org-babel-eval-in-repl-1.6.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:38 packages-stable/org-babel-eval-in-repl-1.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/org-babel-eval-in-repl-badge.svg
+4.0K -rw-r--r-- 1 root root  612 May 19 01:38 packages-stable/org-babel-eval-in-repl-readme.txt

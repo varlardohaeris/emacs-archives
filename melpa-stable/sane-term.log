@@ -1,0 +1,6 @@
+Package: sane-term
+Fetcher: github
+Source:  https://github.com/adamrt/sane-term.git
+
+Updating /mnt/store/melpa/working/sane-term/
+No valid stable versions found for sane-term

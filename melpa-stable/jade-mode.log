@@ -1,0 +1,10 @@
+Package: jade-mode
+Fetcher: github
+Source:  https://github.com/brianc/jade-mode.git
+
+Updating /mnt/store/melpa/working/jade-mode/
+Built jade-mode in 2.727s, finished at Wed May 19 04:44:12 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:44 packages-stable/jade-mode-1.0.0.el
+4.0K -rw-r--r-- 1 root root  326 May 19 04:44 packages-stable/jade-mode-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/jade-mode-badge.svg

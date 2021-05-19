@@ -1,3 +1,4 @@
+
 This package lets you enable minor modes based on file name and
 contents.  To find the right modes, it checks filenames against
 patterns in ‘auto-minor-mode-alist’ and file contents against

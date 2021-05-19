@@ -1,0 +1,11 @@
+Package: kakapo-mode
+Fetcher: github
+Source:  https://github.com/listx/kakapo-mode.git
+
+Updating /mnt/store/melpa/working/kakapo-mode/
+Built kakapo-mode in 3.494s, finished at Wed May 19 04:45:24 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K May 19 04:45 packages-stable/kakapo-mode-1.2.el
+4.0K -rw-r--r-- 1 root root  310 May 19 04:45 packages-stable/kakapo-mode-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kakapo-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 3.0K May 19 04:45 packages-stable/kakapo-mode-readme.txt

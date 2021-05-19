@@ -1,0 +1,6 @@
+Package: pov-mode
+Fetcher: github
+Source:  https://github.com/melmothx/pov-mode.git
+
+Updating /mnt/store/melpa/working/pov-mode/
+No valid stable versions found for pov-mode

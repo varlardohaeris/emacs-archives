@@ -1,0 +1,11 @@
+Package: pact-mode
+Fetcher: github
+Source:  https://github.com/kadena-io/pact-mode.git
+
+Updating /mnt/store/melpa/working/pact-mode/
+Built pact-mode in 2.903s, finished at Wed May 19 01:41:47 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K May 19 01:41 packages-stable/pact-mode-0.0.5.el
+4.0K -rw-r--r-- 1 root root  430 May 19 01:41 packages-stable/pact-mode-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/pact-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   97 May 19 01:41 packages-stable/pact-mode-readme.txt

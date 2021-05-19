@@ -1,0 +1,11 @@
+Package: warm-night-theme
+Fetcher: github
+Source:  https://github.com/mswift42/warm-night-theme.git
+
+Updating /mnt/store/melpa/working/warm-night-theme/
+Built warm-night-theme in 5.069s, finished at Wed May 19 04:14:07 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:14 packages/warm-night-theme-20161101.1428.el
+4.0K -rw-r--r-- 1 root root  265 May 19 04:14 packages/warm-night-theme-20161101.1428.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:14 packages/warm-night-theme-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:14 packages/warm-night-theme-readme.txt

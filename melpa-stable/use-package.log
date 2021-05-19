@@ -1,0 +1,57 @@
+Package: use-package
+Fetcher: github
+Source:  https://github.com/jwiegley/use-package.git
+
+Updating /mnt/store/melpa/working/use-package/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/use-package/
+  to /tmp/use-packageGsJOlh/use-package-2.4.1
+    use-package-bind-key.el -> use-package-bind-key.el
+    use-package-core.el -> use-package-core.el
+    use-package-delight.el -> use-package-delight.el
+    use-package-diminish.el -> use-package-diminish.el
+    use-package-ensure.el -> use-package-ensure.el
+    use-package-jump.el -> use-package-jump.el
+    use-package-lint.el -> use-package-lint.el
+    use-package.el -> use-package.el
+    use-package.texi -> use-package.texi
+Created /tmp/use-packageGsJOlh/use-package-2.4.1/use-package.info
+Created use-package-2.4.1.tar containing:
+  use-package-2.4.1/
+  use-package-2.4.1/dir
+  use-package-2.4.1/use-package-bind-key.el
+  use-package-2.4.1/use-package-core.el
+  use-package-2.4.1/use-package-delight.el
+  use-package-2.4.1/use-package-diminish.el
+  use-package-2.4.1/use-package-ensure.el
+  use-package-2.4.1/use-package-jump.el
+  use-package-2.4.1/use-package-lint.el
+  use-package-2.4.1/use-package-pkg.el
+  use-package-2.4.1/use-package.el
+  use-package-2.4.1/use-package.info
+Built use-package in 8.519s, finished at Wed May 19 01:53:44 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  466 May 19 01:53 packages-stable/use-package-2.4.1.entry
+140K -rw-r--r-- 1 root root 140K May 19 01:53 packages-stable/use-package-2.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/use-package-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 01:53 packages-stable/use-package-chords-2.4.1.el
+4.0K -rw-r--r-- 1 root root  551 May 19 01:53 packages-stable/use-package-chords-2.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/use-package-chords-badge.svg
+4.0K -rw-r--r-- 1 root root  139 May 19 01:53 packages-stable/use-package-chords-readme.txt
+4.0K -rw-r--r-- 1 root root  605 May 19 01:53 packages-stable/use-package-chords.log
+4.0K -rw-r--r-- 1 root root 2.5K May 19 01:53 packages-stable/use-package-el-get-0.1.el
+4.0K -rw-r--r-- 1 root root  454 May 19 01:53 packages-stable/use-package-el-get-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/use-package-el-get-badge.svg
+4.0K -rw-r--r-- 1 root root  152 May 19 01:53 packages-stable/use-package-el-get-readme.txt
+4.0K -rw-r--r-- 1 root root  606 May 19 01:53 packages-stable/use-package-el-get.log
+4.0K -rw-r--r-- 1 root root 2.8K May 19 01:53 packages-stable/use-package-ensure-system-package-2.4.1.el
+4.0K -rw-r--r-- 1 root root  526 May 19 01:53 packages-stable/use-package-ensure-system-package-2.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/use-package-ensure-system-package-badge.svg
+4.0K -rw-r--r-- 1 root root  124 May 19 01:53 packages-stable/use-package-ensure-system-package-readme.txt
+4.0K -rw-r--r-- 1 root root  710 May 19 01:53 packages-stable/use-package-ensure-system-package.log
+4.0K -rw-r--r-- 1 root root 3.2K May 19 01:53 packages-stable/use-package-hydra-0.2.el
+4.0K -rw-r--r-- 1 root root  448 May 19 01:53 packages-stable/use-package-hydra-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/use-package-hydra-badge.svg
+4.0K -rw-r--r-- 1 root root  104 May 19 01:53 packages-stable/use-package-hydra-readme.txt
+4.0K -rw-r--r-- 1 root root  597 May 19 01:53 packages-stable/use-package-hydra.log
+4.0K -rw-r--r-- 1 root root  432 May 19 01:53 packages-stable/use-package-readme.txt

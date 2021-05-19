@@ -1,0 +1,11 @@
+Package: ctrlf
+Fetcher: github
+Source:  https://github.com/raxod502/ctrlf.git
+
+Updating /mnt/store/melpa/working/ctrlf/
+Built ctrlf in 3.889s, finished at Wed May 19 04:26:10 2021
+ ✓ Success:
+ 52K -rw-r--r-- 1 root root  52K May 19 04:26 packages-stable/ctrlf-1.3.el
+4.0K -rw-r--r-- 1 root root  345 May 19 04:26 packages-stable/ctrlf-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/ctrlf-badge.svg
+4.0K -rw-r--r-- 1 root root  496 May 19 04:26 packages-stable/ctrlf-readme.txt

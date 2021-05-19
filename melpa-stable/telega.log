@@ -1,0 +1,150 @@
+Package: telega
+Fetcher: github
+Source:  https://github.com/zevlg/telega.el.git
+
+Updating /mnt/store/melpa/working/telega/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/telega/
+  to /tmp/telegaN8vuNn/telega-0.7.24
+    telega-chat.el -> telega-chat.el
+    telega-company.el -> telega-company.el
+    telega-core.el -> telega-core.el
+    telega-customize.el -> telega-customize.el
+    telega-ffplay.el -> telega-ffplay.el
+    telega-filter.el -> telega-filter.el
+    telega-folders.el -> telega-folders.el
+    telega-i18n.el -> telega-i18n.el
+    telega-info.el -> telega-info.el
+    telega-inline.el -> telega-inline.el
+    telega-ins.el -> telega-ins.el
+    telega-media.el -> telega-media.el
+    telega-modes.el -> telega-modes.el
+    telega-msg.el -> telega-msg.el
+    telega-notifications.el -> telega-notifications.el
+    telega-obsolete.el -> telega-obsolete.el
+    telega-root.el -> telega-root.el
+    telega-server.el -> telega-server.el
+    telega-sort.el -> telega-sort.el
+    telega-sticker.el -> telega-sticker.el
+    telega-tdlib-events.el -> telega-tdlib-events.el
+    telega-tdlib.el -> telega-tdlib.el
+    telega-tme.el -> telega-tme.el
+    telega-user.el -> telega-user.el
+    telega-util.el -> telega-util.el
+    telega-voip.el -> telega-voip.el
+    telega-vvnote.el -> telega-vvnote.el
+    telega-webpage.el -> telega-webpage.el
+    telega.el -> telega.el
+    etc => etc
+    server => server
+    contrib => contrib
+    Makefile -> Makefile
+Created telega-0.7.24.tar containing:
+  telega-0.7.24/
+  telega-0.7.24/Makefile
+  telega-0.7.24/contrib/
+  telega-0.7.24/contrib/ol-telega.el
+  telega-0.7.24/contrib/telega-alert.el
+  telega-0.7.24/contrib/telega-dashboard.el
+  telega-0.7.24/contrib/telega-dired-dwim.el
+  telega-0.7.24/contrib/telega-live-location.el
+  telega-0.7.24/contrib/telega-mnz.el
+  telega-0.7.24/contrib/telega-status-history.el
+  telega-0.7.24/contrib/telega-stories.el
+  telega-0.7.24/contrib/telega-transient.el
+  telega-0.7.24/contrib/telega-url-shorten.el
+  telega-0.7.24/etc/
+  telega-0.7.24/etc/TODO-tdlib-1.4.0.org
+  telega-0.7.24/etc/TODO-tdlib-1.5.0.org
+  telega-0.7.24/etc/TODO-tdlib-1.6.0.org
+  telega-0.7.24/etc/TODO-tdlib-1.7.0.org
+  telega-0.7.24/etc/chat_emacs_telega.svg
+  telega-0.7.24/etc/emacs-stories.svg
+  telega-0.7.24/etc/emacs-stories64.png
+  telega-0.7.24/etc/emojis.alist
+  telega-0.7.24/etc/fa-brands/
+  telega-0.7.24/etc/fa-brands/github-octocat.svg
+  telega-0.7.24/etc/fa-brands/github.svg
+  telega-0.7.24/etc/fa-brands/gitlab-rgb.svg
+  telega-0.7.24/etc/fa-brands/gitlab.svg
+  telega-0.7.24/etc/fa-brands/instagram-rgb.svg
+  telega-0.7.24/etc/fa-brands/instagram.svg
+  telega-0.7.24/etc/fa-brands/wikipedia-rgb.svg
+  telega-0.7.24/etc/fa-brands/wikipedia.svg
+  telega-0.7.24/etc/fa-brands/youtube-rgb.svg
+  telega-0.7.24/etc/fa-brands/youtube.svg
+  telega-0.7.24/etc/guix.scm
+  telega-0.7.24/etc/langs/
+  telega-0.7.24/etc/langs/en.plist
+  telega-0.7.24/etc/langs/zh.plist
+  telega-0.7.24/etc/sounds/
+  telega-0.7.24/etc/sounds/call_busy.mp3
+  telega-0.7.24/etc/sounds/call_connect.mp3
+  telega-0.7.24/etc/sounds/call_end.mp3
+  telega-0.7.24/etc/sounds/call_incoming.mp3
+  telega-0.7.24/etc/sounds/call_outgoing.mp3
+  telega-0.7.24/etc/sounds/msg_incoming.mp3
+  telega-0.7.24/etc/td-api-1.3.0.tl
+  telega-0.7.24/etc/td-api-1.4.0.tl
+  telega-0.7.24/etc/td-api-1.5.0.tl
+  telega-0.7.24/etc/td-api-1.6.0.tl
+  telega-0.7.24/etc/td-api-1.6.6.tl
+  telega-0.7.24/etc/td-api-1.7.0.tl
+  telega-0.7.24/etc/telega-logo.png
+  telega-0.7.24/etc/telega-logo.svg
+  telega-0.7.24/etc/telega-logo.xpm
+  telega-0.7.24/etc/telega-logo64.png
+  telega-0.7.24/etc/telega-make.el
+  telega-0.7.24/etc/telegram-logo.png
+  telega-0.7.24/etc/telegram-logo.svg
+  telega-0.7.24/etc/telegram-logo.xpm
+  telega-0.7.24/etc/telegram-msgin.wav
+  telega-0.7.24/etc/ton-lite-client-test1.config.json
+  telega-0.7.24/etc/tonlib_api.tl
+  telega-0.7.24/etc/verified.svg
+  telega-0.7.24/server/
+  telega-0.7.24/server/Makefile
+  telega-0.7.24/server/run_tests.py
+  telega-0.7.24/server/telega-appindicator.c
+  telega-0.7.24/server/telega-dat.c
+  telega-0.7.24/server/telega-dat.h
+  telega-0.7.24/server/telega-emoji.h
+  telega-0.7.24/server/telega-pngext.c
+  telega-0.7.24/server/telega-server.c
+  telega-0.7.24/server/telega-voip.cpp
+  telega-0.7.24/telega-chat.el
+  telega-0.7.24/telega-company.el
+  telega-0.7.24/telega-core.el
+  telega-0.7.24/telega-customize.el
+  telega-0.7.24/telega-ffplay.el
+  telega-0.7.24/telega-filter.el
+  telega-0.7.24/telega-folders.el
+  telega-0.7.24/telega-i18n.el
+  telega-0.7.24/telega-info.el
+  telega-0.7.24/telega-inline.el
+  telega-0.7.24/telega-ins.el
+  telega-0.7.24/telega-media.el
+  telega-0.7.24/telega-modes.el
+  telega-0.7.24/telega-msg.el
+  telega-0.7.24/telega-notifications.el
+  telega-0.7.24/telega-obsolete.el
+  telega-0.7.24/telega-pkg.el
+  telega-0.7.24/telega-root.el
+  telega-0.7.24/telega-server.el
+  telega-0.7.24/telega-sort.el
+  telega-0.7.24/telega-sticker.el
+  telega-0.7.24/telega-tdlib-events.el
+  telega-0.7.24/telega-tdlib.el
+  telega-0.7.24/telega-tme.el
+  telega-0.7.24/telega-user.el
+  telega-0.7.24/telega-util.el
+  telega-0.7.24/telega-voip.el
+  telega-0.7.24/telega-vvnote.el
+  telega-0.7.24/telega-webpage.el
+  telega-0.7.24/telega.el
+Built telega in 4.152s, finished at Wed May 19 01:51:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  393 May 19 01:51 packages-stable/telega-0.7.24.entry
+4.2M -rw-r--r-- 1 root root 4.2M May 19 01:51 packages-stable/telega-0.7.24.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/telega-badge.svg
+4.0K -rw-r--r-- 1 root root   88 May 19 01:51 packages-stable/telega-readme.txt

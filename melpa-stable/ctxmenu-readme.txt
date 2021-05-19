@@ -1,30 +1,31 @@
+
 This extension provides a context menu like right-click.
 
 For more infomation, see <https://github.com/aki2o/emacs-ctxmenu/blob/master/README.md>
 
-Dependencies:
+; Dependencies:
 
 - popup.el ( bundled auto-complete.el. see <https://github.com/auto-complete/auto-complete> )
 - yaxception.el ( see <https://github.com/aki2o/yaxception> )
 - log4e.el ( see <https://github.com/aki2o/log4e> )
 
-Installation:
+; Installation:
 
 Put this to your load-path.
 And put the following lines in your .emacs or site-start.el file.
 
 (require 'ctxmenu)
 
-Configuration:
+; Configuration:
 
-Key Binding
+;; Key Binding
 (define-key global-map (kbd "M-@") 'ctxmenu:show)
 
-Also, you need to define the contents of context menu into `ctxmenu:global-sources'/`ctxmenu:sources'.
-`ctxmenu:add-source' is a helper function for it.
-Moreover I have a basic configuration, see <https://github.com/aki2o/emacs-ctxmenu/blob/master/README.md>
+;; Also, you need to define the contents of context menu into `ctxmenu:global-sources'/`ctxmenu:sources'.
+;; `ctxmenu:add-source' is a helper function for it.
+;; Moreover I have a basic configuration, see <https://github.com/aki2o/emacs-ctxmenu/blob/master/README.md>
 
-Customization:
+; Customization:
 
 [EVAL] (autodoc-document-lisp-buffer :type 'user-variable :prefix "ctxmenu:[^:]" :docstring t)
 `ctxmenu:default-menu-list-function'

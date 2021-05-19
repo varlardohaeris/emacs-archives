@@ -1,0 +1,20 @@
+Package: inline-crypt
+Fetcher: github
+Source:  https://github.com/Sodel-the-Vociferous/inline-crypt-el.git
+
+Updating /mnt/store/melpa/working/inline-crypt/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/inline-crypt/
+  to /tmp/inline-crypt2weyNw/inline-crypt-0.1.4
+    inline-crypt-pkg.el -> inline-crypt-pkg.el
+    inline-crypt.el -> inline-crypt.el
+Created inline-crypt-0.1.4.tar containing:
+  inline-crypt-0.1.4/
+  inline-crypt-0.1.4/inline-crypt-pkg.el
+  inline-crypt-0.1.4/inline-crypt.el
+Built inline-crypt in 2.669s, finished at Wed May 19 04:43:24 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  361 May 19 04:43 packages-stable/inline-crypt-0.1.4.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:43 packages-stable/inline-crypt-0.1.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/inline-crypt-badge.svg
+4.0K -rw-r--r-- 1 root root  504 May 19 04:43 packages-stable/inline-crypt-readme.txt

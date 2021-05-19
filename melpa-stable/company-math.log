@@ -1,0 +1,11 @@
+Package: company-math
+Fetcher: github
+Source:  https://github.com/vspinu/company-math.git
+
+Updating /mnt/store/melpa/working/company-math/
+Built company-math in 3.292s, finished at Wed May 19 04:24:35 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:24 packages-stable/company-math-1.4.el
+4.0K -rw-r--r-- 1 root root  447 May 19 04:24 packages-stable/company-math-1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-math-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/company-math-readme.txt

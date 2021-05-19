@@ -11,10 +11,10 @@ Feature:
 
 Example config
 ----------------------------------------------------------------
-Require
-async.el   https://github.com/jwiegley/emacs-async
-pcre2el.el https://github.com/joddie/pcre2el
-ht.el      https://github.com/Wilfred/ht.el
+;; Require
+;; async.el   https://github.com/jwiegley/emacs-async
+;; pcre2el.el https://github.com/joddie/pcre2el
+;; ht.el      https://github.com/Wilfred/ht.el
 (require 'swoop)
 (global-set-key (kbd "C-o")   'swoop)
 (global-set-key (kbd "C-M-o") 'swoop-multi)
@@ -22,17 +22,17 @@ ht.el      https://github.com/Wilfred/ht.el
 (global-set-key (kbd "C-S-o") 'swoop-back-to-last-position)
 (global-set-key (kbd "H-6")   'swoop-migemo)
 
-Transition
-isearch     > press [C-o] > swoop
-evil-search > press [C-o] > swoop
-swoop       > press [C-o] > swoop-multi
+;; Transition
+;; isearch     > press [C-o] > swoop
+;; evil-search > press [C-o] > swoop
+;; swoop       > press [C-o] > swoop-multi
 (define-key isearch-mode-map (kbd "C-o") 'swoop-from-isearch)
 (define-key evil-motion-state-map (kbd "C-o") 'swoop-from-evil-search)
 (define-key swoop-map (kbd "C-o") 'swoop-multi-from-swoop)
 
-Resume
-C-u M-x swoop : Use last used query
+;; Resume
+;; C-u M-x swoop : Use last used query
 
-Swoop Edit Mode
-During swoop, press [C-c C-e]
-You can edit synchronously
+;; Swoop Edit Mode
+;; During swoop, press [C-c C-e]
+;; You can edit synchronously

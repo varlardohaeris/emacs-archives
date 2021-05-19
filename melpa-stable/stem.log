@@ -1,0 +1,6 @@
+Package: stem
+Fetcher: github
+Source:  https://github.com/yuutayamada/stem.git
+
+Updating /mnt/store/melpa/working/stem/
+No valid stable versions found for stem

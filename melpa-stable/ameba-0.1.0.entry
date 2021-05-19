@@ -1,2 +1,11 @@
-
-(ameba . [(0 1 0) ((emacs (24 4))) "An Emacs interface to [Ameba](https://github.com/veelenga/ameba)" single ((:commit . "ca5faaa0d5115dc2c301e06e062e653a7b9cb927") (:keywords "convenience") (:authors ("Vitalii Elenhaupt")) (:maintainer "Vitalii Elenhaupt") (:url . "https://github.com/veelenga/ameba.el"))])
+(ameba .
+       [(0 1 0)
+	((emacs
+	  (24 4)))
+	"An Emacs interface to [Ameba](https://github.com/veelenga/ameba)" single
+	((:commit . "ca5faaa0d5115dc2c301e06e062e653a7b9cb927")
+	 (:authors
+	  ("Vitalii Elenhaupt"))
+	 (:maintainer "Vitalii Elenhaupt")
+	 (:keywords "convenience")
+	 (:url . "https://github.com/veelenga/ameba.el"))])

@@ -1,0 +1,22 @@
+Package: flymake-haskell-multi
+Fetcher: github
+Source:  https://github.com/purcell/flymake-haskell-multi.git
+
+Updating /mnt/store/melpa/working/flymake-haskell-multi/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flymake-haskell-multi/
+  to /tmp/flymake-haskell-multiXA52Mh/flymake-haskell-multi-0.3
+    flymake-haskell-multi-pkg.el -> flymake-haskell-multi-pkg.el
+    flymake-haskell-multi.el -> flymake-haskell-multi.el
+    haskell_multi -> haskell_multi
+Created flymake-haskell-multi-0.3.tar containing:
+  flymake-haskell-multi-0.3/
+  flymake-haskell-multi-0.3/flymake-haskell-multi-pkg.el
+  flymake-haskell-multi-0.3/flymake-haskell-multi.el
+  flymake-haskell-multi-0.3/haskell_multi
+Built flymake-haskell-multi in 3.192s, finished at Wed May 19 04:35:33 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  378 May 19 04:35 packages-stable/flymake-haskell-multi-0.3.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 04:35 packages-stable/flymake-haskell-multi-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-haskell-multi-badge.svg
+4.0K -rw-r--r-- 1 root root  167 May 19 04:35 packages-stable/flymake-haskell-multi-readme.txt

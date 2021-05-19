@@ -1,0 +1,6 @@
+Package: wedge-ws
+Fetcher: github
+Source:  https://github.com/aes/wedge-ws.git
+
+Updating /mnt/store/melpa/working/wedge-ws/
+No valid stable versions found for wedge-ws

@@ -1,0 +1,6 @@
+Package: org-clock-convenience
+Fetcher: github
+Source:  https://github.com/dfeich/org-clock-convenience.git
+
+Updating /mnt/store/melpa/working/org-clock-convenience/
+No valid stable versions found for org-clock-convenience

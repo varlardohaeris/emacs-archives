@@ -1,0 +1,23 @@
+Package: elpher
+Fetcher: git
+Source:  https://thelambdalab.xyz/git/elpher.git
+
+Updating /mnt/store/melpa/working/elpher/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elpher/
+  to /tmp/elpheru1TY4W/elpher-2.10.2
+    elpher.el -> elpher.el
+    elpher.texi -> elpher.texi
+Created /tmp/elpheru1TY4W/elpher-2.10.2/elpher.info
+Created elpher-2.10.2.tar containing:
+  elpher-2.10.2/
+  elpher-2.10.2/dir
+  elpher-2.10.2/elpher-pkg.el
+  elpher-2.10.2/elpher.el
+  elpher-2.10.2/elpher.info
+Built elpher in 7.395s, finished at Wed May 19 04:30:33 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  344 May 19 04:30 packages-stable/elpher-2.10.2.entry
+120K -rw-r--r-- 1 root root 120K May 19 04:30 packages-stable/elpher-2.10.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elpher-badge.svg
+4.0K -rw-r--r-- 1 root root  930 May 19 04:30 packages-stable/elpher-readme.txt

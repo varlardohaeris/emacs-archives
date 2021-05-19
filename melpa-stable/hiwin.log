@@ -1,0 +1,6 @@
+Package: hiwin
+Fetcher: github
+Source:  https://github.com/yoshida-mediba/hiwin-mode.git
+
+Updating /mnt/store/melpa/working/hiwin/
+No valid stable versions found for hiwin

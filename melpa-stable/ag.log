@@ -1,0 +1,11 @@
+Package: ag
+Fetcher: github
+Source:  https://github.com/Wilfred/ag.el.git
+
+Updating /mnt/store/melpa/working/ag/
+Built ag in 3.568s, finished at Wed May 19 04:18:54 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  27K May 19 04:18 packages-stable/ag-0.48.el
+4.0K -rw-r--r-- 1 root root  367 May 19 04:18 packages-stable/ag-0.48.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ag-badge.svg
+4.0K -rw-r--r-- 1 root root  100 May 19 04:18 packages-stable/ag-readme.txt

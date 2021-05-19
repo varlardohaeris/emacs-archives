@@ -1,0 +1,6 @@
+Package: nanowrimo
+Fetcher: gitlab
+Source:  https://gitlab.com/gvol/nanowrimo.el.git
+
+Updating /mnt/store/melpa/working/nanowrimo/
+No valid stable versions found for nanowrimo

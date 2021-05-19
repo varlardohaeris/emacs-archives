@@ -1,0 +1,6 @@
+Package: peertube
+Fetcher: git
+Source:  https://git.sr.ht/~yoctocell/peertube
+
+Updating /mnt/store/melpa/working/peertube/
+No valid stable versions found for peertube

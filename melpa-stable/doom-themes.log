@@ -1,0 +1,61 @@
+Package: doom-themes
+Fetcher: github
+Source:  https://github.com/hlissner/emacs-doom-themes.git
+
+Updating /mnt/store/melpa/working/doom-themes/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/doom-themes/
+  to /tmp/doom-themes47KE4h/doom-themes-2.1.6
+    doom-themes-common.el -> doom-themes-common.el
+    doom-themes-neotree.el -> doom-themes-neotree.el
+    doom-themes-org.el -> doom-themes-org.el
+    doom-themes-treemacs.el -> doom-themes-treemacs.el
+    doom-themes.el -> doom-themes.el
+  ! themes/doom-challenger-deep-theme.el -> doom-challenger-deep-theme.el
+  ! themes/doom-city-lights-theme.el -> doom-city-lights-theme.el
+  ! themes/doom-dracula-theme.el -> doom-dracula-theme.el
+  ! themes/doom-molokai-theme.el -> doom-molokai-theme.el
+  ! themes/doom-nord-light-theme.el -> doom-nord-light-theme.el
+  ! themes/doom-nord-theme.el -> doom-nord-theme.el
+  ! themes/doom-nova-theme.el -> doom-nova-theme.el
+  ! themes/doom-one-light-theme.el -> doom-one-light-theme.el
+  ! themes/doom-one-theme.el -> doom-one-theme.el
+  ! themes/doom-opera-light-theme.el -> doom-opera-light-theme.el
+  ! themes/doom-opera-theme.el -> doom-opera-theme.el
+  ! themes/doom-peacock-theme.el -> doom-peacock-theme.el
+  ! themes/doom-solarized-light-theme.el -> doom-solarized-light-theme.el
+  ! themes/doom-spacegrey-theme.el -> doom-spacegrey-theme.el
+  ! themes/doom-tomorrow-day-theme.el -> doom-tomorrow-day-theme.el
+  ! themes/doom-tomorrow-night-theme.el -> doom-tomorrow-night-theme.el
+  ! themes/doom-vibrant-theme.el -> doom-vibrant-theme.el
+Created doom-themes-2.1.6.tar containing:
+  doom-themes-2.1.6/
+  doom-themes-2.1.6/doom-challenger-deep-theme.el
+  doom-themes-2.1.6/doom-city-lights-theme.el
+  doom-themes-2.1.6/doom-dracula-theme.el
+  doom-themes-2.1.6/doom-molokai-theme.el
+  doom-themes-2.1.6/doom-nord-light-theme.el
+  doom-themes-2.1.6/doom-nord-theme.el
+  doom-themes-2.1.6/doom-nova-theme.el
+  doom-themes-2.1.6/doom-one-light-theme.el
+  doom-themes-2.1.6/doom-one-theme.el
+  doom-themes-2.1.6/doom-opera-light-theme.el
+  doom-themes-2.1.6/doom-opera-theme.el
+  doom-themes-2.1.6/doom-peacock-theme.el
+  doom-themes-2.1.6/doom-solarized-light-theme.el
+  doom-themes-2.1.6/doom-spacegrey-theme.el
+  doom-themes-2.1.6/doom-themes-common.el
+  doom-themes-2.1.6/doom-themes-neotree.el
+  doom-themes-2.1.6/doom-themes-org.el
+  doom-themes-2.1.6/doom-themes-pkg.el
+  doom-themes-2.1.6/doom-themes-treemacs.el
+  doom-themes-2.1.6/doom-themes.el
+  doom-themes-2.1.6/doom-tomorrow-day-theme.el
+  doom-themes-2.1.6/doom-tomorrow-night-theme.el
+  doom-themes-2.1.6/doom-vibrant-theme.el
+Built doom-themes in 3.116s, finished at Wed May 19 04:28:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  524 May 19 04:28 packages-stable/doom-themes-2.1.6.entry
+232K -rw-r--r-- 1 root root 230K May 19 04:28 packages-stable/doom-themes-2.1.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/doom-themes-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:28 packages-stable/doom-themes-readme.txt

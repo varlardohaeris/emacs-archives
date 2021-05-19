@@ -1,0 +1,11 @@
+Package: uuidgen
+Fetcher: github
+Source:  https://github.com/kanru/uuidgen-el.git
+
+Updating /mnt/store/melpa/working/uuidgen/
+Built uuidgen in 3.040s, finished at Wed May 19 01:53:44 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 01:53 packages-stable/uuidgen-1.0.el
+4.0K -rw-r--r-- 1 root root  295 May 19 01:53 packages-stable/uuidgen-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/uuidgen-badge.svg
+4.0K -rw-r--r-- 1 root root  401 May 19 01:53 packages-stable/uuidgen-readme.txt

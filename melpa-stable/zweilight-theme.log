@@ -1,0 +1,6 @@
+Package: zweilight-theme
+Fetcher: github
+Source:  https://github.com/philiparvidsson/Zweilight-Theme-for-Emacs.git
+
+Updating /mnt/store/melpa/working/zweilight-theme/
+No valid stable versions found for zweilight-theme

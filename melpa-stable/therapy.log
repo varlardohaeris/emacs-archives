@@ -1,0 +1,6 @@
+Package: therapy
+Fetcher: github
+Source:  https://github.com/abingham/therapy.git
+
+Updating /mnt/store/melpa/working/therapy/
+No valid stable versions found for therapy

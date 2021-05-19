@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'unicode-whitespace)
@@ -148,7 +149,7 @@ TODO
     changing display, seen here (http://emacswiki.org/emacs/BlankMode).
     However, the stipple face is dependent on frame-char-width/height.
 
-License
+; License
 
 Simplified BSD License:
 

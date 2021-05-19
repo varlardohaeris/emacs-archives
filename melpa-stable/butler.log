@@ -1,0 +1,24 @@
+Package: butler
+Fetcher: github
+Source:  https://github.com/AshtonKem/Butler.git
+
+Updating /mnt/store/melpa/working/butler/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/butler/
+  to /tmp/butlerK9yih9/butler-0.2.4
+    butler-pkg.el -> butler-pkg.el
+    butler-servers.el -> butler-servers.el
+    butler-util.el -> butler-util.el
+    butler.el -> butler.el
+Created butler-0.2.4.tar containing:
+  butler-0.2.4/
+  butler-0.2.4/butler-pkg.el
+  butler-0.2.4/butler-servers.el
+  butler-0.2.4/butler-util.el
+  butler-0.2.4/butler.el
+Built butler in 2.841s, finished at Wed May 19 04:22:24 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  411 May 19 04:22 packages-stable/butler-0.2.4.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:22 packages-stable/butler-0.2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/butler-badge.svg
+4.0K -rw-r--r-- 1 root root   58 May 19 04:22 packages-stable/butler-readme.txt

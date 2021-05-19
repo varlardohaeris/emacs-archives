@@ -1,0 +1,6 @@
+Package: vc-check-status
+Fetcher: github
+Source:  https://github.com/thisirs/vc-check-status.git
+
+Updating /mnt/store/melpa/working/vc-check-status/
+No valid stable versions found for vc-check-status

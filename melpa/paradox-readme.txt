@@ -1,3 +1,4 @@
+
 Paradox can be installed from Melpa with M-x `package-install' RET
 paradox.
 It can also be installed manually in the usual way, just be mindful of

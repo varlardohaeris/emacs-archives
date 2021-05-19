@@ -1,0 +1,6 @@
+Package: flycheck-posframe
+Fetcher: github
+Source:  https://github.com/alexmurray/flycheck-posframe.git
+
+Updating /mnt/store/melpa/working/flycheck-posframe/
+No valid stable versions found for flycheck-posframe

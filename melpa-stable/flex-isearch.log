@@ -1,0 +1,6 @@
+Package: flex-isearch
+Fetcher: github
+Source:  https://github.com/jpkotta/flex-isearch.git
+
+Updating /mnt/store/melpa/working/flex-isearch/
+No valid stable versions found for flex-isearch

@@ -1,0 +1,21 @@
+Package: org-ml
+Fetcher: github
+Source:  https://github.com/ndwarshuis/org-ml.git
+
+Updating /mnt/store/melpa/working/org-ml/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-ml/
+  to /tmp/org-mlMstUNG/org-ml-5.6.2
+    org-ml-macs.el -> org-ml-macs.el
+    org-ml.el -> org-ml.el
+Created org-ml-5.6.2.tar containing:
+  org-ml-5.6.2/
+  org-ml-5.6.2/org-ml-macs.el
+  org-ml-5.6.2/org-ml-pkg.el
+  org-ml-5.6.2/org-ml.el
+Built org-ml in 3.085s, finished at Wed May 19 01:39:34 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  397 May 19 01:39 packages-stable/org-ml-5.6.2.entry
+320K -rw-r--r-- 1 root root 320K May 19 01:39 packages-stable/org-ml-5.6.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-ml-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-ml-readme.txt

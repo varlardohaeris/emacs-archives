@@ -1,0 +1,6 @@
+Package: jest
+Fetcher: github
+Source:  https://github.com/Emiller88/emacs-jest.git
+
+Updating /mnt/store/melpa/working/jest/
+No valid stable versions found for jest

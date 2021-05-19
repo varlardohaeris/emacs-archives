@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'dired-x)
@@ -92,7 +93,7 @@ TODO
 
     Complete eshell action.
 
-License
+; License
 
 Simplified BSD License:
 

@@ -1,0 +1,6 @@
+Package: auto-virtualenvwrapper
+Fetcher: github
+Source:  https://github.com/robert-zaremba/auto-virtualenvwrapper.el.git
+
+Updating /mnt/store/melpa/working/auto-virtualenvwrapper/
+No valid stable versions found for auto-virtualenvwrapper

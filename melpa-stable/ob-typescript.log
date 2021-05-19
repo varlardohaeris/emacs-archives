@@ -1,0 +1,6 @@
+Package: ob-typescript
+Fetcher: github
+Source:  https://github.com/lurdan/ob-typescript.git
+
+Updating /mnt/store/melpa/working/ob-typescript/
+No valid stable versions found for ob-typescript

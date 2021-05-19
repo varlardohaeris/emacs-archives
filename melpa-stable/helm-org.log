@@ -1,0 +1,28 @@
+Package: helm-org
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-org.git
+
+Updating /mnt/store/melpa/working/helm-org/
+Note: helm-org :files spec is equivalent to the default.
+Built helm-org in 3.340s, finished at Wed May 19 04:40:48 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  21K May 19 04:40 packages-stable/helm-org-1.0.el
+4.0K -rw-r--r-- 1 root root  398 May 19 04:40 packages-stable/helm-org-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-org-badge.svg
+ 12K -rw-r--r-- 1 root root  11K May 19 04:40 packages-stable/helm-org-multi-wiki-0.4.0.el
+4.0K -rw-r--r-- 1 root root  511 May 19 04:40 packages-stable/helm-org-multi-wiki-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-org-multi-wiki-badge.svg
+4.0K -rw-r--r-- 1 root root   58 May 19 04:40 packages-stable/helm-org-multi-wiki-readme.txt
+4.0K -rw-r--r-- 1 root root  613 May 19 04:40 packages-stable/helm-org-multi-wiki.log
+ 12K -rw-r--r-- 1 root root 8.5K May 19 04:40 packages-stable/helm-org-ql-0.5.el
+4.0K -rw-r--r-- 1 root root  313 May 19 01:26 packages-stable/helm-org-ql-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-org-ql-badge.svg
+4.0K -rw-r--r-- 1 root root  293 May 19 01:26 packages-stable/helm-org-ql-readme.txt
+4.0K -rw-r--r-- 1 root root  134 May 19 04:40 packages-stable/helm-org-ql.log
+4.0K -rw-r--r-- 1 root root   48 May 19 04:40 packages-stable/helm-org-readme.txt
+4.0K -rw-r--r-- 1 root root  284 May 19 04:40 packages-stable/helm-org-recent-headings.log
+ 84K -rw-r--r-- 1 root root  82K May 19 01:26 packages-stable/helm-org-rifle-1.7.1.el
+4.0K -rw-r--r-- 1 root root  460 May 19 01:26 packages-stable/helm-org-rifle-1.7.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-org-rifle-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 01:26 packages-stable/helm-org-rifle-readme.txt
+4.0K -rw-r--r-- 1 root root  143 May 19 04:40 packages-stable/helm-org-rifle.log

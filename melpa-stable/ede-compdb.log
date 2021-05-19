@@ -1,0 +1,6 @@
+Package: ede-compdb
+Fetcher: github
+Source:  https://github.com/randomphrase/ede-compdb.git
+
+Updating /mnt/store/melpa/working/ede-compdb/
+No valid stable versions found for ede-compdb

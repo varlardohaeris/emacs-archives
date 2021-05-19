@@ -1,0 +1,6 @@
+Package: company-racer
+Fetcher: github
+Source:  https://github.com/emacsattic/company-racer.git
+
+Updating /mnt/store/melpa/working/company-racer/
+No valid stable versions found for company-racer

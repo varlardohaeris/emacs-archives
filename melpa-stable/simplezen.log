@@ -1,0 +1,11 @@
+Package: simplezen
+Fetcher: github
+Source:  https://github.com/magnars/simplezen.el.git
+
+Updating /mnt/store/melpa/working/simplezen/
+Built simplezen in 3.150s, finished at Wed May 19 01:48:41 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K May 19 01:48 packages-stable/simplezen-0.1.1.el
+4.0K -rw-r--r-- 1 root root  273 May 19 01:48 packages-stable/simplezen-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/simplezen-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 01:48 packages-stable/simplezen-readme.txt

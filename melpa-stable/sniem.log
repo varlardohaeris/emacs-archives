@@ -1,0 +1,6 @@
+Package: sniem
+Fetcher: github
+Source:  https://github.com/SpringHan/sniem.git
+
+Updating /mnt/store/melpa/working/sniem/
+No valid stable versions found for sniem

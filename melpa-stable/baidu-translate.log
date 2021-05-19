@@ -1,0 +1,6 @@
+Package: baidu-translate
+Fetcher: github
+Source:  https://github.com/liShiZhensPi/baidu-translate.git
+
+Updating /mnt/store/melpa/working/baidu-translate/
+No valid stable versions found for baidu-translate

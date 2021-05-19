@@ -1,0 +1,41 @@
+Package: tree-sitter
+Fetcher: github
+Source:  https://github.com/ubolonton/emacs-tree-sitter.git
+
+Updating /mnt/store/melpa/working/tree-sitter/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tree-sitter/
+  to /tmp/tree-sitterYB73xZ/tree-sitter-0.15.1
+  ! lisp/tree-sitter-cli.el -> tree-sitter-cli.el
+  ! lisp/tree-sitter-debug.el -> tree-sitter-debug.el
+  ! lisp/tree-sitter-extras.el -> tree-sitter-extras.el
+  ! lisp/tree-sitter-hl.el -> tree-sitter-hl.el
+  ! lisp/tree-sitter-load.el -> tree-sitter-load.el
+  ! lisp/tree-sitter-query.el -> tree-sitter-query.el
+  ! lisp/tree-sitter.el -> tree-sitter.el
+Created tree-sitter-0.15.1.tar containing:
+  tree-sitter-0.15.1/
+  tree-sitter-0.15.1/tree-sitter-cli.el
+  tree-sitter-0.15.1/tree-sitter-debug.el
+  tree-sitter-0.15.1/tree-sitter-extras.el
+  tree-sitter-0.15.1/tree-sitter-hl.el
+  tree-sitter-0.15.1/tree-sitter-load.el
+  tree-sitter-0.15.1/tree-sitter-pkg.el
+  tree-sitter-0.15.1/tree-sitter-query.el
+  tree-sitter-0.15.1/tree-sitter.el
+Built tree-sitter in 4.251s, finished at Wed May 19 01:52:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  455 May 19 01:52 packages-stable/tree-sitter-0.15.1.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 01:52 packages-stable/tree-sitter-0.15.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tree-sitter-badge.svg
+ 24K -rw-r--r-- 1 root root  21K May 19 01:52 packages-stable/tree-sitter-indent-0.3.el
+4.0K -rw-r--r-- 1 root root  523 May 18 22:38 packages-stable/tree-sitter-indent-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:38 packages-stable/tree-sitter-indent-badge.svg
+4.0K -rw-r--r-- 1 root root  532 May 18 22:38 packages-stable/tree-sitter-indent-readme.txt
+4.0K -rw-r--r-- 1 root root  163 May 19 01:52 packages-stable/tree-sitter-indent.log
+4.0K -rw-r--r-- 1 root root  482 May 18 22:38 packages-stable/tree-sitter-langs-0.10.0.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 01:52 packages-stable/tree-sitter-langs-0.10.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:38 packages-stable/tree-sitter-langs-badge.svg
+4.0K -rw-r--r-- 1 root root  786 May 19 01:52 packages-stable/tree-sitter-langs-readme.txt
+4.0K -rw-r--r-- 1 root root 2.0K May 19 01:52 packages-stable/tree-sitter-langs.log
+4.0K -rw-r--r-- 1 root root  318 May 19 01:52 packages-stable/tree-sitter-readme.txt

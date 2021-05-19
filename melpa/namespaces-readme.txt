@@ -1,3 +1,4 @@
+
   (require 'namespaces)
 
   (namespace foo :export [hello])

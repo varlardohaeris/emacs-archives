@@ -1,0 +1,6 @@
+Package: evil-exchange
+Fetcher: github
+Source:  https://github.com/Dewdrops/evil-exchange.git
+
+Updating /mnt/store/melpa/working/evil-exchange/
+No valid stable versions found for evil-exchange

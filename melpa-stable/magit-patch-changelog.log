@@ -1,0 +1,6 @@
+Package: magit-patch-changelog
+Fetcher: github
+Source:  https://github.com/dickmao/magit-patch-changelog.git
+
+Updating /mnt/store/melpa/working/magit-patch-changelog/
+No valid stable versions found for magit-patch-changelog

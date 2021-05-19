@@ -1,0 +1,6 @@
+Package: apparmor-mode
+Fetcher: github
+Source:  https://github.com/alexmurray/apparmor-mode.git
+
+Updating /mnt/store/melpa/working/apparmor-mode/
+No valid stable versions found for apparmor-mode

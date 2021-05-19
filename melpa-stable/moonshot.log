@@ -1,0 +1,6 @@
+Package: moonshot
+Fetcher: github
+Source:  https://github.com/ageldama/moonshot.git
+
+Updating /mnt/store/melpa/working/moonshot/
+No valid stable versions found for moonshot

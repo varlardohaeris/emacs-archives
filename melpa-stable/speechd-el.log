@@ -1,0 +1,6 @@
+Package: speechd-el
+Fetcher: github
+Source:  https://github.com/brailcom/speechd-el.git
+
+Updating /mnt/store/melpa/working/speechd-el/
+No valid stable versions found for speechd-el

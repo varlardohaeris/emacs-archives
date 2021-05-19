@@ -1,0 +1,6 @@
+Package: dakrone-theme
+Fetcher: github
+Source:  https://github.com/dakrone/dakrone-theme.git
+
+Updating /mnt/store/melpa/working/dakrone-theme/
+No valid stable versions found for dakrone-theme

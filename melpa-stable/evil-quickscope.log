@@ -1,0 +1,11 @@
+Package: evil-quickscope
+Fetcher: github
+Source:  https://github.com/blorbx/evil-quickscope.git
+
+Updating /mnt/store/melpa/working/evil-quickscope/
+Built evil-quickscope in 3.002s, finished at Wed May 19 04:32:31 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:32 packages-stable/evil-quickscope-0.1.4.el
+4.0K -rw-r--r-- 1 root root  412 May 19 04:32 packages-stable/evil-quickscope-0.1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-quickscope-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-quickscope-readme.txt

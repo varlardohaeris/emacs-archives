@@ -1,0 +1,6 @@
+Package: flymake-vnu
+Fetcher: github
+Source:  https://github.com/theneosloth/flymake-vnu.git
+
+Updating /mnt/store/melpa/working/flymake-vnu/
+No valid stable versions found for flymake-vnu

@@ -1,0 +1,11 @@
+Package: project-abbrev
+Fetcher: github
+Source:  https://github.com/jcs-elpa/project-abbrev.git
+
+Updating /mnt/store/melpa/working/project-abbrev/
+Built project-abbrev in 2.864s, finished at Wed May 19 01:44:11 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.7K May 19 01:44 packages-stable/project-abbrev-0.0.4.el
+4.0K -rw-r--r-- 1 root root  358 May 19 01:44 packages-stable/project-abbrev-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/project-abbrev-badge.svg
+4.0K -rw-r--r-- 1 root root   50 May 19 01:44 packages-stable/project-abbrev-readme.txt

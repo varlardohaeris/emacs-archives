@@ -1,0 +1,27 @@
+Package: motion-mode
+Fetcher: github
+Source:  https://github.com/ainame/motion-mode.git
+
+Updating /mnt/store/melpa/working/motion-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/motion-mode/
+  to /tmp/motion-mode4QSigA/motion-mode-20140920.156
+    motion-mode.el -> motion-mode.el
+    bin => bin
+    lib => lib
+Created motion-mode-20140920.156.tar containing:
+  motion-mode-20140920.156/
+  motion-mode-20140920.156/bin/
+  motion-mode-20140920.156/bin/code_converter.rb
+  motion-mode-20140920.156/bin/make_dict.rb
+  motion-mode-20140920.156/lib/
+  motion-mode-20140920.156/lib/motion/
+  motion-mode-20140920.156/lib/motion/code_converter.rb
+  motion-mode-20140920.156/motion-mode-pkg.el
+  motion-mode-20140920.156/motion-mode.el
+Built motion-mode in 4.343s, finished at Wed May 19 03:45:13 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  354 May 19 03:45 packages/motion-mode-20140920.156.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 03:45 packages/motion-mode-20140920.156.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:45 packages/motion-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 03:45 packages/motion-mode-readme.txt

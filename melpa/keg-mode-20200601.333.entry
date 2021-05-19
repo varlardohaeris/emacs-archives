@@ -1,2 +1,11 @@
-
-(keg-mode . [(20200601 333) ((emacs (24 4))) "Major mode for editing Keg files" single ((:commit . "3b290dded57f651ba432eb21b2078fbffc85fe2b") (:keywords "convenience") (:authors ("Naoya Yamashita" . "conao3@gmail.com")) (:maintainer "Naoya Yamashita" . "conao3@gmail.com") (:url . "https://github.com/conao3/keg.el"))])
+(keg-mode .
+	  [(20200601 333)
+	   ((emacs
+	     (24 4)))
+	   "Major mode for editing Keg files" single
+	   ((:commit . "e4c7d9d8f823fa717df5f0e7039d525758429fc9")
+	    (:authors
+	     ("Naoya Yamashita" . "conao3@gmail.com"))
+	    (:maintainer "Naoya Yamashita" . "conao3@gmail.com")
+	    (:keywords "convenience")
+	    (:url . "https://github.com/conao3/keg.el"))])

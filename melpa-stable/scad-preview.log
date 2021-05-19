@@ -1,0 +1,6 @@
+Package: scad-preview
+Fetcher: github
+Source:  https://github.com/zk-phi/scad-preview.git
+
+Updating /mnt/store/melpa/working/scad-preview/
+No valid stable versions found for scad-preview

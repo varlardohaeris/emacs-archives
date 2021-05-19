@@ -1,0 +1,6 @@
+Package: counsel-web
+Fetcher: github
+Source:  https://github.com/mnewt/counsel-web.git
+
+Updating /mnt/store/melpa/working/counsel-web/
+No valid stable versions found for counsel-web

@@ -1,0 +1,6 @@
+Package: org-octopress
+Fetcher: github
+Source:  https://github.com/yoshinari-nomura/org-octopress.git
+
+Updating /mnt/store/melpa/working/org-octopress/
+No valid stable versions found for org-octopress

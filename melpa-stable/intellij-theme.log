@@ -1,0 +1,11 @@
+Package: intellij-theme
+Fetcher: gitlab
+Source:  https://gitlab.com/fommil/emacs-intellij-theme.git
+
+Updating /mnt/store/melpa/working/intellij-theme/
+Built intellij-theme in 3.679s, finished at Wed May 19 04:43:31 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:43 packages-stable/intellij-theme-1.3.el
+4.0K -rw-r--r-- 1 root root  292 May 19 04:43 packages-stable/intellij-theme-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/intellij-theme-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:43 packages-stable/intellij-theme-readme.txt

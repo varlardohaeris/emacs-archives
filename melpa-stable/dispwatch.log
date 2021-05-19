@@ -1,0 +1,6 @@
+Package: dispwatch
+Fetcher: github
+Source:  https://github.com/mnp/dispwatch.git
+
+Updating /mnt/store/melpa/working/dispwatch/
+No valid stable versions found for dispwatch

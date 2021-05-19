@@ -1,0 +1,6 @@
+Package: helm-bibtexkey
+Fetcher: github
+Source:  https://github.com/kenbeese/helm-bibtexkey.git
+
+Updating /mnt/store/melpa/working/helm-bibtexkey/
+No valid stable versions found for helm-bibtexkey

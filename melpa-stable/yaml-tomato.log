@@ -1,0 +1,6 @@
+Package: yaml-tomato
+Fetcher: github
+Source:  https://github.com/RadekMolenda/yaml-tomato.git
+
+Updating /mnt/store/melpa/working/yaml-tomato/
+No valid stable versions found for yaml-tomato

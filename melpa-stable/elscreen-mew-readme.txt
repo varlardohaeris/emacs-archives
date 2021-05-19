@@ -1,6 +1,6 @@
 This package is ElScreen Add-On for Mew.
 
-Installation:
+; Installation:
 Put `elscreen-mew.el' in the `load-path' and add
 
   (require 'elscreen-mew)

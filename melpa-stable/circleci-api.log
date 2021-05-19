@@ -1,0 +1,6 @@
+Package: circleci-api
+Fetcher: github
+Source:  https://github.com/sulami/circleci-api.el.git
+
+Updating /mnt/store/melpa/working/circleci-api/
+No valid stable versions found for circleci-api

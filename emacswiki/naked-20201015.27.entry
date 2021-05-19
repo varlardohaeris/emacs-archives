@@ -1,0 +1,2 @@
+
+(naked . [(20201015 27) nil "Provide for naked key descriptions: no angle brackets." single ((:commit . "2e7aa49b98920d2d27aee13af635eb9c11ec28cb") (:keywords "lisp" "key" "print" "format" "help") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/naked.el"))])

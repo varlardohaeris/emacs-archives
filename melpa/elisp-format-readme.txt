@@ -1,3 +1,4 @@
+
 This package is format elisp code.
 This package is format by itself, so you can view format effect.
 
@@ -55,7 +56,7 @@ I can't ensure this package can perfect work with all situations.
 So please let me know if you have suggestion or bug.
 
 
-Installation:
+; Installation:
 
 Put elisp-format.el to your load-path.
 The load-path is usually ~/elisp/.

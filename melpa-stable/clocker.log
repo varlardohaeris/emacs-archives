@@ -1,0 +1,12 @@
+Package: clocker
+Fetcher: github
+Source:  https://github.com/roman/clocker.el.git
+
+Updating /mnt/store/melpa/working/clocker/
+Note: clocker :files spec is equivalent to the default.
+Built clocker in 2.868s, finished at Wed May 19 04:23:36 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:23 packages-stable/clocker-0.0.11.el
+4.0K -rw-r--r-- 1 root root  333 May 19 04:23 packages-stable/clocker-0.0.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clocker-badge.svg
+4.0K -rw-r--r-- 1 root root  875 May 19 04:23 packages-stable/clocker-readme.txt

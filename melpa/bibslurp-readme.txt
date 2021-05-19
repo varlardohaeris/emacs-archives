@@ -11,7 +11,7 @@ to the kill ring.  Typing 'a' instead pulls up the abstract page.
 At anytime, you can hit 'q' to quit bibslurp-mode and restore the
 previous window configuration.
 
-Example usage:
+; Example usage:
 
 add an entry to a bibtex buffer:
   M-x bibslurp-query-ads RET ^Quataert 2008 RET
@@ -30,7 +30,7 @@ corresponding number before pressing RET:
 For more examples and information see the project page at
 http://astro.berkeley.edu/~mkmcc/software/bibslurp.html
 
-Advanced search
+; Advanced search
 You can turn to the ADS advanced search interface, akin to
 http://adsabs.harvard.edu/abstract_service.html, either by pressing
 C-c C-c after having issued `bibslurp-query-ads', or directly with
@@ -41,7 +41,7 @@ then send the query either with C-c C-c or by pressing the button
 "Send Query".  Use TAB to move through fields, and q outside an
 input field to quit the search interface.
 
-Other features
+; Other features
 In the ADS search result buffer you can also visit some useful
 pages related to each entry:
  - on-line data at other data centers, with d
@@ -60,7 +60,7 @@ abstract by prefixing the command with a number.  For example,
 will fire up your browser to the arXiv version of the seventh
 abstract in the list.
 
-Notes about the implementation:
+; Notes about the implementation:
 
 1. As far as I know, ADS doesn't have an API for searching its
   database, and emacs doesn't have functionality to parse html.
@@ -76,7 +76,7 @@ Notes about the implementation:
    end of `bibslurp-mode', so you can inject your own code at that
    point.
 
-Installation:
+; Installation:
 
 Use package.el. You'll need to add MELPA to your archives:
 

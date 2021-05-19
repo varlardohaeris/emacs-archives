@@ -1,0 +1,27 @@
+Package: hy-mode
+Fetcher: github
+Source:  https://github.com/hylang/hy-mode.git
+
+Updating /mnt/store/melpa/working/hy-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/hy-mode/
+  to /tmp/hy-mode1x01se/hy-mode-1.0.4
+    hy-base.el -> hy-base.el
+    hy-font-lock.el -> hy-font-lock.el
+    hy-jedhy.el -> hy-jedhy.el
+    hy-mode.el -> hy-mode.el
+    hy-shell.el -> hy-shell.el
+Created hy-mode-1.0.4.tar containing:
+  hy-mode-1.0.4/
+  hy-mode-1.0.4/hy-base.el
+  hy-mode-1.0.4/hy-font-lock.el
+  hy-mode-1.0.4/hy-jedhy.el
+  hy-mode-1.0.4/hy-mode-pkg.el
+  hy-mode-1.0.4/hy-mode.el
+  hy-mode-1.0.4/hy-shell.el
+Built hy-mode in 3.212s, finished at Wed May 19 04:42:19 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  312 May 19 04:42 packages-stable/hy-mode-1.0.4.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 04:42 packages-stable/hy-mode-1.0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hy-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  576 May 19 04:42 packages-stable/hy-mode-readme.txt

@@ -1,0 +1,6 @@
+Package: atom-dark-theme
+Fetcher: github
+Source:  https://github.com/whitlockjc/atom-dark-theme-emacs.git
+
+Updating /mnt/store/melpa/working/atom-dark-theme/
+No valid stable versions found for atom-dark-theme

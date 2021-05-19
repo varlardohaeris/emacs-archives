@@ -1,0 +1,10 @@
+(atl-markup .
+	    [(0 1 5)
+	     ((emacs
+	       (24 3)))
+	     "Automatically truncate lines for markup languages" single
+	     ((:commit . "876d8a31d5e233d5234231f1428f8edb013e30eb")
+	      (:authors
+	       ("Shen, Jen-Chieh" . "jcs090218@gmail.com"))
+	      (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com")
+	      (:url . "https://github.com/jcs-elpa/atl-markup"))])

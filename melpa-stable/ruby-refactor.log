@@ -1,0 +1,6 @@
+Package: ruby-refactor
+Fetcher: github
+Source:  https://github.com/ajvargo/ruby-refactor.git
+
+Updating /mnt/store/melpa/working/ruby-refactor/
+No valid stable versions found for ruby-refactor

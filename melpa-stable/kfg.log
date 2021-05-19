@@ -1,0 +1,6 @@
+Package: kfg
+Fetcher: github
+Source:  https://github.com/czipperz/kfg.git
+
+Updating /mnt/store/melpa/working/kfg/
+No valid stable versions found for kfg

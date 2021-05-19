@@ -1,0 +1,6 @@
+Package: msgpack
+Fetcher: github
+Source:  https://github.com/xuchunyang/msgpack.el.git
+
+Updating /mnt/store/melpa/working/msgpack/
+No valid stable versions found for msgpack

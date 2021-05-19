@@ -1,0 +1,6 @@
+Package: djangonaut
+Fetcher: github
+Source:  https://github.com/pythonic-emacs/djangonaut.git
+
+Updating /mnt/store/melpa/working/djangonaut/
+No valid stable versions found for djangonaut

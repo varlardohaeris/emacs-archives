@@ -1,0 +1,6 @@
+Package: messages-are-flowing
+Fetcher: github
+Source:  https://github.com/legoscia/messages-are-flowing.git
+
+Updating /mnt/store/melpa/working/messages-are-flowing/
+No valid stable versions found for messages-are-flowing

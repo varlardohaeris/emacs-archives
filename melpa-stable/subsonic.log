@@ -1,0 +1,6 @@
+Package: subsonic
+Fetcher: git
+Source:  https://git.sr.ht/~amk/subsonic.el
+
+Updating /mnt/store/melpa/working/subsonic/
+No valid stable versions found for subsonic

@@ -1,0 +1,6 @@
+Package: general
+Fetcher: github
+Source:  https://github.com/noctuid/general.el.git
+
+Updating /mnt/store/melpa/working/general/
+No valid stable versions found for general

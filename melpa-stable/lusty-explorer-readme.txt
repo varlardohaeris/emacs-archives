@@ -29,7 +29,7 @@ compile this library:
 session.)  Then, restart Emacs or M-x load-library and choose the newly
 generated lusty-explorer.elc file.
 
-Customization:
+; Customization:
  --------------
 
 To modify the keybindings, use something like:
@@ -45,7 +45,7 @@ Development:    <http://github.com/sjbach/lusty-emacs>
 Further info:   <http://www.emacswiki.org/cgi-bin/wiki/LustyExplorer>
 
 
-Contributors:
+; Contributors:
 
 Tassilo Horn
 Jan Rehders

@@ -1,0 +1,6 @@
+Package: ivy-clipmenu
+Fetcher: github
+Source:  https://github.com/wpcarro/ivy-clipmenu.el.git
+
+Updating /mnt/store/melpa/working/ivy-clipmenu/
+No valid stable versions found for ivy-clipmenu

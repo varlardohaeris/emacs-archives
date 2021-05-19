@@ -1,0 +1,21 @@
+Package: material-theme
+Fetcher: github
+Source:  https://github.com/cpaulik/emacs-material-theme.git
+
+Updating /mnt/store/melpa/working/material-theme/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/material-theme/
+  to /tmp/material-theme9iRFCA/material-theme-1.4
+    material-light-theme.el -> material-light-theme.el
+    material-theme.el -> material-theme.el
+Created material-theme-1.4.tar containing:
+  material-theme-1.4/
+  material-theme-1.4/material-light-theme.el
+  material-theme-1.4/material-theme-pkg.el
+  material-theme-1.4/material-theme.el
+Built material-theme in 3.437s, finished at Wed May 19 01:34:19 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  390 May 19 01:34 packages-stable/material-theme-1.4.entry
+112K -rw-r--r-- 1 root root 110K May 19 01:34 packages-stable/material-theme-1.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/material-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  116 May 19 01:34 packages-stable/material-theme-readme.txt

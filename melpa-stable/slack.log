@@ -1,0 +1,6 @@
+Package: slack
+Fetcher: github
+Source:  https://github.com/yuya373/emacs-slack.git
+
+Updating /mnt/store/melpa/working/slack/
+No valid stable versions found for slack

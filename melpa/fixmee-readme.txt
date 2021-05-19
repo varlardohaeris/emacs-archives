@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'fixmee)
@@ -180,7 +181,7 @@ TODO
     Some kind of extra comment indicating a notice is to be ignored?
     Lead with a backwhack?
 
-License
+; License
 
    Simplified BSD License
 

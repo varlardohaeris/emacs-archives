@@ -1,3 +1,4 @@
+
 dired-rsync is a command that can be run from a dired buffer to
 copy files using rsync rather than tramps in-built mechanism.
 This is especially useful for copying large files to/from remote

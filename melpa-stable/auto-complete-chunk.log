@@ -1,0 +1,6 @@
+Package: auto-complete-chunk
+Fetcher: github
+Source:  https://github.com/tkf/auto-complete-chunk.git
+
+Updating /mnt/store/melpa/working/auto-complete-chunk/
+No valid stable versions found for auto-complete-chunk

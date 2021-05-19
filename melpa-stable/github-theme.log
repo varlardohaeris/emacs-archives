@@ -1,0 +1,6 @@
+Package: github-theme
+Fetcher: github
+Source:  https://github.com/philiparvidsson/GitHub-Theme-for-Emacs.git
+
+Updating /mnt/store/melpa/working/github-theme/
+No valid stable versions found for github-theme

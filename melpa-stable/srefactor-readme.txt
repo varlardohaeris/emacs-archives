@@ -1,3 +1,4 @@
+
 Semantic is a package that provides a framework for writing
 parsers. Parsing is a process of analyzing source code based on
 programming language syntax. This package relies on Semantic for
@@ -49,7 +50,7 @@ other tags in current file or any other file.
 with relevant variables turned into function parameters and
 preserve full type information.
 
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -63,3 +64,5 @@ General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with GNU Emacs.  If not, see <http://www.gnu.org/licenses/>.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

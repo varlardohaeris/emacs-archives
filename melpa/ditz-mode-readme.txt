@@ -1,3 +1,4 @@
+
 This is an Emacs interface to the Ditz distributed issue tracking
 system, which can be found at http://rubygems.org/gems/ditz.
 

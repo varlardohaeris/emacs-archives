@@ -1,0 +1,23 @@
+Package: opener
+Fetcher: github
+Source:  https://github.com/0robustus1/opener.el.git
+
+Updating /mnt/store/melpa/working/opener/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/opener/
+  to /tmp/openerN4EFph/opener-0.2.2
+    opener.el -> opener.el
+    opener.texi -> opener.texi
+Created /tmp/openerN4EFph/opener-0.2.2/opener.info
+Created opener-0.2.2.tar containing:
+  opener-0.2.2/
+  opener-0.2.2/dir
+  opener-0.2.2/opener-pkg.el
+  opener-0.2.2/opener.el
+  opener-0.2.2/opener.info
+Built opener in 6.352s, finished at Wed May 19 01:38:49 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  396 May 19 01:38 packages-stable/opener-0.2.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:38 packages-stable/opener-0.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/opener-badge.svg
+4.0K -rw-r--r-- 1 root root  571 May 19 01:38 packages-stable/opener-readme.txt

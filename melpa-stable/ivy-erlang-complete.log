@@ -1,0 +1,26 @@
+Package: ivy-erlang-complete
+Fetcher: github
+Source:  https://github.com/s-kostyaev/ivy-erlang-complete.git
+
+Updating /mnt/store/melpa/working/ivy-erlang-complete/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ivy-erlang-complete/
+  to /tmp/ivy-erlang-completeM4B5H4/ivy-erlang-complete-0.3.2
+    ivy-erlang-complete-pkg.el -> ivy-erlang-complete-pkg.el
+    ivy-erlang-complete.el -> ivy-erlang-complete.el
+    bin => bin
+Created ivy-erlang-complete-0.3.2.tar containing:
+  ivy-erlang-complete-0.3.2/
+  ivy-erlang-complete-0.3.2/bin/
+  ivy-erlang-complete-0.3.2/bin/exported-funcs.sh
+  ivy-erlang-complete-0.3.2/bin/exported-types.sh
+  ivy-erlang-complete-0.3.2/bin/find-deps-dir
+  ivy-erlang-complete-0.3.2/bin/parse-record
+  ivy-erlang-complete-0.3.2/ivy-erlang-complete-pkg.el
+  ivy-erlang-complete-0.3.2/ivy-erlang-complete.el
+Built ivy-erlang-complete in 3.025s, finished at Wed May 19 04:43:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  507 May 19 04:43 packages-stable/ivy-erlang-complete-0.3.2.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 04:43 packages-stable/ivy-erlang-complete-0.3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-erlang-complete-badge.svg
+4.0K -rw-r--r-- 1 root root   93 May 19 04:43 packages-stable/ivy-erlang-complete-readme.txt

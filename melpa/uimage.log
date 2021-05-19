@@ -1,0 +1,11 @@
+Package: uimage
+Fetcher: github
+Source:  https://github.com/lujun9972/uimage.git
+
+Updating /mnt/store/melpa/working/uimage/
+Built uimage in 4.508s, finished at Wed May 19 04:12:01 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K May 19 04:12 packages/uimage-20160901.1221.el
+4.0K -rw-r--r-- 1 root root  304 May 19 04:12 packages/uimage-20160901.1221.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:12 packages/uimage-badge.svg
+4.0K -rw-r--r-- 1 root root  558 May 19 04:12 packages/uimage-readme.txt

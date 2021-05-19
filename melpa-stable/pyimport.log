@@ -1,0 +1,11 @@
+Package: pyimport
+Fetcher: github
+Source:  https://github.com/Wilfred/pyimport.git
+
+Updating /mnt/store/melpa/working/pyimport/
+Built pyimport in 3.046s, finished at Wed May 19 01:44:53 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K May 19 01:44 packages-stable/pyimport-1.0.el
+4.0K -rw-r--r-- 1 root root  290 May 19 01:44 packages-stable/pyimport-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pyimport-badge.svg
+4.0K -rw-r--r-- 1 root root   81 May 19 01:44 packages-stable/pyimport-readme.txt

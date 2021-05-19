@@ -1,0 +1,6 @@
+Package: haste
+Fetcher: github
+Source:  https://github.com/rlister/emacs-haste-client.git
+
+Updating /mnt/store/melpa/working/haste/
+No valid stable versions found for haste

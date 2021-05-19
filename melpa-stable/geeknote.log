@@ -1,0 +1,6 @@
+Package: geeknote
+Fetcher: github
+Source:  https://github.com/avendael/emacs-geeknote.git
+
+Updating /mnt/store/melpa/working/geeknote/
+No valid stable versions found for geeknote

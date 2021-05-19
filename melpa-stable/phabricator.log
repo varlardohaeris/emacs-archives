@@ -1,0 +1,6 @@
+Package: phabricator
+Fetcher: github
+Source:  https://github.com/ajtulloch/phabricator.el.git
+
+Updating /mnt/store/melpa/working/phabricator/
+No valid stable versions found for phabricator

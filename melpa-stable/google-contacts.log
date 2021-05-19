@@ -1,0 +1,6 @@
+Package: google-contacts
+Fetcher: github
+Source:  https://github.com/jd/google-contacts.el.git
+
+Updating /mnt/store/melpa/working/google-contacts/
+No valid stable versions found for google-contacts

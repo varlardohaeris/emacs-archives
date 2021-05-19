@@ -1,0 +1,6 @@
+Package: web
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-web.git
+
+Updating /mnt/store/melpa/working/web/
+No valid stable versions found for web

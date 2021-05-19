@@ -1,0 +1,6 @@
+Package: meow
+Fetcher: github
+Source:  https://github.com/DogLooksGood/meow.git
+
+Updating /mnt/store/melpa/working/meow/
+No valid stable versions found for meow

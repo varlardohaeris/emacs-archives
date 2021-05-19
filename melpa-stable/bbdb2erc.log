@@ -1,0 +1,11 @@
+Package: bbdb2erc
+Fetcher: github
+Source:  https://github.com/unhammer/bbdb2erc.git
+
+Updating /mnt/store/melpa/working/bbdb2erc/
+Built bbdb2erc in 3.064s, finished at Wed May 19 04:20:54 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.3K May 19 04:20 packages-stable/bbdb2erc-0.1.5.el
+4.0K -rw-r--r-- 1 root root  381 May 19 04:20 packages-stable/bbdb2erc-0.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/bbdb2erc-badge.svg
+4.0K -rw-r--r-- 1 root root  786 May 19 04:20 packages-stable/bbdb2erc-readme.txt

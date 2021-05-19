@@ -1,0 +1,6 @@
+Package: smart-tab
+Fetcher: git
+Source:  https://git.genehack.net/genehack/smart-tab.git
+
+Updating /mnt/store/melpa/working/smart-tab/
+No valid stable versions found for smart-tab

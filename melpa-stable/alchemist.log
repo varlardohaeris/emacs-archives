@@ -1,0 +1,112 @@
+Package: alchemist
+Fetcher: github
+Source:  https://github.com/tonini/alchemist.el.git
+
+Updating /mnt/store/melpa/working/alchemist/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/alchemist/
+  to /tmp/alchemist0YF3Hg/alchemist-1.8.2
+    alchemist-company.el -> alchemist-company.el
+    alchemist-compile.el -> alchemist-compile.el
+    alchemist-complete.el -> alchemist-complete.el
+    alchemist-eval.el -> alchemist-eval.el
+    alchemist-execute.el -> alchemist-execute.el
+    alchemist-file.el -> alchemist-file.el
+    alchemist-goto.el -> alchemist-goto.el
+    alchemist-help.el -> alchemist-help.el
+    alchemist-hex.el -> alchemist-hex.el
+    alchemist-hooks.el -> alchemist-hooks.el
+    alchemist-iex.el -> alchemist-iex.el
+    alchemist-info.el -> alchemist-info.el
+    alchemist-interact.el -> alchemist-interact.el
+    alchemist-key.el -> alchemist-key.el
+    alchemist-macroexpand.el -> alchemist-macroexpand.el
+    alchemist-message.el -> alchemist-message.el
+    alchemist-mix.el -> alchemist-mix.el
+    alchemist-phoenix.el -> alchemist-phoenix.el
+    alchemist-project.el -> alchemist-project.el
+    alchemist-refcard.el -> alchemist-refcard.el
+    alchemist-report.el -> alchemist-report.el
+    alchemist-scope.el -> alchemist-scope.el
+    alchemist-server.el -> alchemist-server.el
+    alchemist-test-mode.el -> alchemist-test-mode.el
+    alchemist-utils.el -> alchemist-utils.el
+    alchemist.el -> alchemist.el
+    alchemist-server => alchemist-server
+Created alchemist-1.8.2.tar containing:
+  alchemist-1.8.2/
+  alchemist-1.8.2/alchemist-company.el
+  alchemist-1.8.2/alchemist-compile.el
+  alchemist-1.8.2/alchemist-complete.el
+  alchemist-1.8.2/alchemist-eval.el
+  alchemist-1.8.2/alchemist-execute.el
+  alchemist-1.8.2/alchemist-file.el
+  alchemist-1.8.2/alchemist-goto.el
+  alchemist-1.8.2/alchemist-help.el
+  alchemist-1.8.2/alchemist-hex.el
+  alchemist-1.8.2/alchemist-hooks.el
+  alchemist-1.8.2/alchemist-iex.el
+  alchemist-1.8.2/alchemist-info.el
+  alchemist-1.8.2/alchemist-interact.el
+  alchemist-1.8.2/alchemist-key.el
+  alchemist-1.8.2/alchemist-macroexpand.el
+  alchemist-1.8.2/alchemist-message.el
+  alchemist-1.8.2/alchemist-mix.el
+  alchemist-1.8.2/alchemist-phoenix.el
+  alchemist-1.8.2/alchemist-pkg.el
+  alchemist-1.8.2/alchemist-project.el
+  alchemist-1.8.2/alchemist-refcard.el
+  alchemist-1.8.2/alchemist-report.el
+  alchemist-1.8.2/alchemist-scope.el
+  alchemist-1.8.2/alchemist-server.el
+  alchemist-1.8.2/alchemist-server/
+  alchemist-1.8.2/alchemist-server/.gitignore
+  alchemist-1.8.2/alchemist-server/.travis.yml
+  alchemist-1.8.2/alchemist-server/Makefile
+  alchemist-1.8.2/alchemist-server/README.md
+  alchemist-1.8.2/alchemist-server/lib/
+  alchemist-1.8.2/alchemist-server/lib/api/
+  alchemist-1.8.2/alchemist-server/lib/api/comp.exs
+  alchemist-1.8.2/alchemist-server/lib/api/defl.exs
+  alchemist-1.8.2/alchemist-server/lib/api/docl.exs
+  alchemist-1.8.2/alchemist-server/lib/api/eval.exs
+  alchemist-1.8.2/alchemist-server/lib/api/info.exs
+  alchemist-1.8.2/alchemist-server/lib/api/ping.exs
+  alchemist-1.8.2/alchemist-server/lib/api/version.exs
+  alchemist-1.8.2/alchemist-server/lib/helpers/
+  alchemist-1.8.2/alchemist-server/lib/helpers/capture_io.exs
+  alchemist-1.8.2/alchemist-server/lib/helpers/complete.exs
+  alchemist-1.8.2/alchemist-server/lib/helpers/module_info.exs
+  alchemist-1.8.2/alchemist-server/lib/helpers/process_commands.exs
+  alchemist-1.8.2/alchemist-server/lib/helpers/response.exs
+  alchemist-1.8.2/alchemist-server/lib/server.exs
+  alchemist-1.8.2/alchemist-server/lib/server/
+  alchemist-1.8.2/alchemist-server/lib/server/io.exs
+  alchemist-1.8.2/alchemist-server/lib/server/socket.exs
+  alchemist-1.8.2/alchemist-server/run.exs
+  alchemist-1.8.2/alchemist-server/test/
+  alchemist-1.8.2/alchemist-server/test/api/
+  alchemist-1.8.2/alchemist-server/test/api/comp_test.exs
+  alchemist-1.8.2/alchemist-server/test/api/defl_test.exs
+  alchemist-1.8.2/alchemist-server/test/api/docl_test.exs
+  alchemist-1.8.2/alchemist-server/test/api/ping_test.exs
+  alchemist-1.8.2/alchemist-server/test/api_test.exs
+  alchemist-1.8.2/alchemist-server/test/fixtures/
+  alchemist-1.8.2/alchemist-server/test/fixtures/.gitkeep
+  alchemist-1.8.2/alchemist-server/test/helpers/
+  alchemist-1.8.2/alchemist-server/test/helpers/complete_test.exs
+  alchemist-1.8.2/alchemist-server/test/helpers/module_info_test.exs
+  alchemist-1.8.2/alchemist-server/test/helpers/process_commands_test.exs
+  alchemist-1.8.2/alchemist-server/test/server/
+  alchemist-1.8.2/alchemist-server/test/server/socket_test.exs
+  alchemist-1.8.2/alchemist-server/test/server_test.exs
+  alchemist-1.8.2/alchemist-server/test/test_helper.exs
+  alchemist-1.8.2/alchemist-test-mode.el
+  alchemist-1.8.2/alchemist-utils.el
+  alchemist-1.8.2/alchemist.el
+Built alchemist in 4.396s, finished at Wed May 19 04:19:05 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  559 May 19 04:19 packages-stable/alchemist-1.8.2.entry
+292K -rw-r--r-- 1 root root 290K May 19 04:19 packages-stable/alchemist-1.8.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/alchemist-badge.svg
+4.0K -rw-r--r-- 1 root root  449 May 19 04:19 packages-stable/alchemist-readme.txt

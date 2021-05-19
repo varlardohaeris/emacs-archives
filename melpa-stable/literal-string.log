@@ -1,0 +1,11 @@
+Package: literal-string
+Fetcher: github
+Source:  https://github.com/joodie/literal-string-mode.git
+
+Updating /mnt/store/melpa/working/literal-string/
+Built literal-string in 2.969s, finished at Wed May 19 01:32:34 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:32 packages-stable/literal-string-0.5.el
+4.0K -rw-r--r-- 1 root root  418 May 19 01:32 packages-stable/literal-string-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/literal-string-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 01:32 packages-stable/literal-string-readme.txt

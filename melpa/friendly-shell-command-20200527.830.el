@@ -4,7 +4,7 @@
 ;;
 ;; Version: 0.2.2
 ;; Package-Version: 20200527.830
-;; Package-Commit: 5c0eda312d8da6de0848d56abca1b0f5840e81e6
+;; Package-Commit: ad4ac00662829fa18858be02b322753ad091ffe3
 ;; Keywords: processes, terminals
 ;; URL: https://github.com/p3r7/friendly-shell
 ;; Package-Requires: ((emacs "24.1")(cl-lib "0.6.1")(dash "2.17.0")(with-shell-interpreter "0.2.3"))

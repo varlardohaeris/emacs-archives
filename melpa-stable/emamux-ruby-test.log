@@ -1,0 +1,6 @@
+Package: emamux-ruby-test
+Fetcher: github
+Source:  https://github.com/emacsorphanage/emamux-ruby-test.git
+
+Updating /mnt/store/melpa/working/emamux-ruby-test/
+No valid stable versions found for emamux-ruby-test

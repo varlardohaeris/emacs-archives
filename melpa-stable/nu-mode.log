@@ -1,0 +1,6 @@
+Package: nu-mode
+Fetcher: github
+Source:  https://github.com/pyluyten/emacs-nu.git
+
+Updating /mnt/store/melpa/working/nu-mode/
+No valid stable versions found for nu-mode

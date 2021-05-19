@@ -1,0 +1,6 @@
+Package: code-cells
+Fetcher: github
+Source:  https://github.com/astoff/code-cells.el.git
+
+Updating /mnt/store/melpa/working/code-cells/
+No valid stable versions found for code-cells

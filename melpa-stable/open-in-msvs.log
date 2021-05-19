@@ -1,0 +1,6 @@
+Package: open-in-msvs
+Fetcher: github
+Source:  https://github.com/evgeny-panasyuk/open-in-msvs.el.git
+
+Updating /mnt/store/melpa/working/open-in-msvs/
+No valid stable versions found for open-in-msvs

@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC>
-<html>
+<html lang="en" xml:lang="en">
     <head>
         <title>GNU ELPA - rich-minority</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -23,9 +23,10 @@
 
             <div class="container">
 <h2 class="package">rich-minority</h2><dl><dt>Description</dt><dd>Clean-up and Beautify the list of minor-modes.</dd>
-<dt>Latest</dt> <dd><a href="rich-minority-1.0.1.el">rich-minority-1.0.1.el</a>, 2015-Dec-01, 11.1&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="rich-minority-1.0.3.tar">rich-minority-1.0.3.tar</a>, 2021-Mar-16, 60.0&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>Artur Malabarba &lt;emacs@endlessparentheses.com></dd>
 <dt>Home page</dt> <dd><a href="https://github.com/Malabarba/rich-minority">https://github.com/Malabarba/rich-minority</a></dd>
-<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/tree/packages/rich-minority">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=tree;f=packages/rich-minority">Gitweb</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/rich-minority">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/rich-minority">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">rich-minority</span> RET</pre><h2>Full description</h2><pre>
 #+OPTIONS: tags:nil 
@@ -50,7 +51,14 @@ three variables:
 
 - ~rm-blacklist~ :: List of minor mode names that will be hidden
      from the minor-modes list. Use this to hide *only* a few modes that
-     are always active and don’t really contribute information.
+     are always active and don’t really contribute information. eg:
+#+begin_src emacs-lisp
+(setq rm-blacklist
+      (format "^ \\(%s\\)$"
+              (mapconcat #'identity
+                         '("Fly.*" "Projectile.*" "PgLn")
+                         "\\|")))
+#+end_src
 - ~rm-whitelist~ :: List of minor mode names that are allowed on
      the minor-modes list. Use this to hide *all but* a few modes.
 - ~rm-text-properties~ :: List text properties to apply to each
@@ -63,6 +71,15 @@ handles the minor-modes list. What can rich-minority /offer in contrast/?
 
 - rich-minority is more versatile:
   1. It accepts *regexps*, instead of having to specify each minor-mode individually;
+     That is, where in diminish.el you would do this:
+     #+begin_src emacs-lisp
+     (diminish 'auto-fill-function)
+     #+end_src
+     rich-minority does this:
+     #+BEGIN_SRC emacs-lisp
+     (add-to-list " Fill" 'rm-blacklist)
+     #+END_SRC
+     where ~" Fill"~ could be any regular expression.
   2. It also offers a *whitelist* behaviour, in addition to the blacklist;
   3. It supports *highlighting* specific minor-modes with completely arbitrary text properties.
 - rich-minority takes a cleaner, functional approach. It doesn’t hack
@@ -79,8 +96,13 @@ whatever string you want and that will function as a replacement.
 This package is available from GNU Elpa and Melpa, you may install it
 by calling =M-x list-packages=.
 
+** License
+
+rich-minority is released under the GPLv3 or newer.
+
 </pre>
 <h2>Old versions</h2><table>
-<tr><td><a href="rich-minority-1.0.el">rich-minority-1.0.el</a></td><td>2015-Oct-01</td><td>10.8&nbsp;KiB</td>
+<tr><td><a href="rich-minority-1.0.1.el.lz">rich-minority-1.0.1.el.lz</a></td><td>2015-Dec-01</td><td>3.56&nbsp;KiB</td>
+<tr><td><a href="rich-minority-1.0.el.lz">rich-minority-1.0.el.lz</a></td><td>2015-Oct-01</td><td>3.49&nbsp;KiB</td>
 </table>
 </body>

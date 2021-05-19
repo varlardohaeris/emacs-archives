@@ -1,0 +1,6 @@
+Package: clean-aindent-mode
+Fetcher: github
+Source:  https://github.com/pmarinov/clean-aindent-mode.git
+
+Updating /mnt/store/melpa/working/clean-aindent-mode/
+No valid stable versions found for clean-aindent-mode

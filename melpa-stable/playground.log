@@ -1,0 +1,6 @@
+Package: playground
+Fetcher: github
+Source:  https://github.com/akirak/emacs-playground.git
+
+Updating /mnt/store/melpa/working/playground/
+No valid stable versions found for playground

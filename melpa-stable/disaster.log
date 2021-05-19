@@ -1,0 +1,6 @@
+Package: disaster
+Fetcher: github
+Source:  https://github.com/jart/disaster.git
+
+Updating /mnt/store/melpa/working/disaster/
+No valid stable versions found for disaster

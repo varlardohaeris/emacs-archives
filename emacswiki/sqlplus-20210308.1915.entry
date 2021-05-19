@@ -1,0 +1,2 @@
+
+(sqlplus . [(20210308 1915) nil "User friendly interface to SQL*Plus and support for PL/SQL compilation" single ((:commit . "2b0b67448d9bc98d232f2ef109fd803c4882df3f") (:keywords "sql" "sqlplus" "oracle" "plsql") (:authors ("Peter Karpiuk <piotr.karpiuk (at) gmail (dot) com>")) (:maintainer "Peter Karpiuk <piotr.karpiuk (at) gmail (dot) com>"))])

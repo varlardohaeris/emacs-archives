@@ -1,0 +1,6 @@
+Package: org-dotemacs
+Fetcher: github
+Source:  https://github.com/vapniks/org-dotemacs.git
+
+Updating /mnt/store/melpa/working/org-dotemacs/
+No valid stable versions found for org-dotemacs

@@ -1,0 +1,6 @@
+Package: docker-api
+Fetcher: github
+Source:  https://github.com/Silex/docker-api.el.git
+
+Updating /mnt/store/melpa/working/docker-api/
+No valid stable versions found for docker-api

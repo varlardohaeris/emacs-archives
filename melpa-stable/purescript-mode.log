@@ -1,0 +1,6 @@
+Package: purescript-mode
+Fetcher: github
+Source:  https://github.com/purescript-emacs/purescript-mode.git
+
+Updating /mnt/store/melpa/working/purescript-mode/
+No valid stable versions found for purescript-mode

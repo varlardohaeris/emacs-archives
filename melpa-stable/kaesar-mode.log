@@ -1,0 +1,11 @@
+Package: kaesar-mode
+Fetcher: github
+Source:  https://github.com/mhayashi1120/Emacs-kaesar.git
+
+Updating /mnt/store/melpa/working/kaesar-mode/
+Built kaesar-mode in 4.028s, finished at Wed May 19 04:45:24 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:45 packages-stable/kaesar-mode-0.9.0.el
+4.0K -rw-r--r-- 1 root root  485 May 19 04:45 packages-stable/kaesar-mode-0.9.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kaesar-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  340 May 19 04:45 packages-stable/kaesar-mode-readme.txt

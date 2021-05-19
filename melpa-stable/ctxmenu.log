@@ -1,0 +1,21 @@
+Package: ctxmenu
+Fetcher: github
+Source:  https://github.com/aki2o/emacs-ctxmenu.git
+
+Updating /mnt/store/melpa/working/ctxmenu/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ctxmenu/
+  to /tmp/ctxmenuUPVtKb/ctxmenu-0.3.0
+    ctxmenu-config.el -> ctxmenu-config.el
+    ctxmenu.el -> ctxmenu.el
+Created ctxmenu-0.3.0.tar containing:
+  ctxmenu-0.3.0/
+  ctxmenu-0.3.0/ctxmenu-config.el
+  ctxmenu-0.3.0/ctxmenu-pkg.el
+  ctxmenu-0.3.0/ctxmenu.el
+Built ctxmenu in 3.210s, finished at Wed May 19 04:26:11 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  422 May 19 04:26 packages-stable/ctxmenu-0.3.0.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:26 packages-stable/ctxmenu-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/ctxmenu-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:26 packages-stable/ctxmenu-readme.txt

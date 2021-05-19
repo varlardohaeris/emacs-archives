@@ -1,0 +1,6 @@
+Package: audio-notes-mode
+Fetcher: github
+Source:  https://github.com/Malabarba/audio-notes-mode.git
+
+Updating /mnt/store/melpa/working/audio-notes-mode/
+No valid stable versions found for audio-notes-mode

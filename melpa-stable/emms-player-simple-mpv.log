@@ -1,0 +1,27 @@
+Package: emms-player-simple-mpv
+Fetcher: github
+Source:  https://github.com/momomo5717/emms-player-simple-mpv.git
+
+Updating /mnt/store/melpa/working/emms-player-simple-mpv/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emms-player-simple-mpv/
+  to /tmp/emms-player-simple-mpvNfKtJb/emms-player-simple-mpv-0.4.0
+    emms-player-simple-mpv-control-functions.el -> emms-player-simple-mpv-control-functions.el
+    emms-player-simple-mpv-e.g.hydra.el -> emms-player-simple-mpv-e.g.hydra.el
+    emms-player-simple-mpv-e.g.playlist-fname.el -> emms-player-simple-mpv-e.g.playlist-fname.el
+    emms-player-simple-mpv-e.g.time-display.el -> emms-player-simple-mpv-e.g.time-display.el
+    emms-player-simple-mpv.el -> emms-player-simple-mpv.el
+Created emms-player-simple-mpv-0.4.0.tar containing:
+  emms-player-simple-mpv-0.4.0/
+  emms-player-simple-mpv-0.4.0/emms-player-simple-mpv-control-functions.el
+  emms-player-simple-mpv-0.4.0/emms-player-simple-mpv-e.g.hydra.el
+  emms-player-simple-mpv-0.4.0/emms-player-simple-mpv-e.g.playlist-fname.el
+  emms-player-simple-mpv-0.4.0/emms-player-simple-mpv-e.g.time-display.el
+  emms-player-simple-mpv-0.4.0/emms-player-simple-mpv-pkg.el
+  emms-player-simple-mpv-0.4.0/emms-player-simple-mpv.el
+Built emms-player-simple-mpv in 2.531s, finished at Wed May 19 04:30:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  409 May 19 04:30 packages-stable/emms-player-simple-mpv-0.4.0.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:30 packages-stable/emms-player-simple-mpv-0.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emms-player-simple-mpv-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:30 packages-stable/emms-player-simple-mpv-readme.txt

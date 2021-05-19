@@ -1,0 +1,6 @@
+Package: comware-router-mode
+Fetcher: github
+Source:  https://github.com/daviderestivo/comware-router-mode.git
+
+Updating /mnt/store/melpa/working/comware-router-mode/
+No valid stable versions found for comware-router-mode

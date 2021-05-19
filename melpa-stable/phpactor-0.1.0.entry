@@ -1,2 +1,15 @@
-
-(phpactor . [(0 1 0) ((emacs (24 3)) (cl-lib (0 5)) (f (0 17))) "Interface to Phpactor" tar ((:commit . "61e4eab638168b7034eef0f11e35a89223fa7687") (:keywords "tools" "php") (:authors ("USAMI Kenta" . "tadsan@zonu.me")) (:maintainer "USAMI Kenta" . "tadsan@zonu.me") (:url . "https://github.com/emacs-php/phpactor.el"))])
+(phpactor .
+	  [(0 1 0)
+	   ((emacs
+	     (24 3))
+	    (cl-lib
+	     (0 5))
+	    (f
+	     (0 17)))
+	   "Interface to Phpactor" tar
+	   ((:commit . "61e4eab638168b7034eef0f11e35a89223fa7687")
+	    (:authors
+	     ("USAMI Kenta" . "tadsan@zonu.me"))
+	    (:maintainer "USAMI Kenta" . "tadsan@zonu.me")
+	    (:keywords "tools" "php")
+	    (:url . "https://github.com/emacs-php/phpactor.el"))])

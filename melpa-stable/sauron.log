@@ -1,0 +1,34 @@
+Package: sauron
+Fetcher: github
+Source:  https://github.com/djcb/sauron.git
+
+Updating /mnt/store/melpa/working/sauron/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sauron/
+  to /tmp/sauronofK00j/sauron-0.10
+    sauron-dbus.el -> sauron-dbus.el
+    sauron-erc.el -> sauron-erc.el
+    sauron-identica.el -> sauron-identica.el
+    sauron-jabber.el -> sauron-jabber.el
+    sauron-notifications.el -> sauron-notifications.el
+    sauron-org.el -> sauron-org.el
+    sauron-twittering.el -> sauron-twittering.el
+    sauron.el -> sauron.el
+  ! sauron-pkg.el.in -> sauron-pkg.el
+Created sauron-0.10.tar containing:
+  sauron-0.10/
+  sauron-0.10/sauron-dbus.el
+  sauron-0.10/sauron-erc.el
+  sauron-0.10/sauron-identica.el
+  sauron-0.10/sauron-jabber.el
+  sauron-0.10/sauron-notifications.el
+  sauron-0.10/sauron-org.el
+  sauron-0.10/sauron-pkg.el
+  sauron-0.10/sauron-twittering.el
+  sauron-0.10/sauron.el
+Built sauron in 2.953s, finished at Wed May 19 01:47:26 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  305 May 19 01:47 packages-stable/sauron-0.10.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 01:47 packages-stable/sauron-0.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/sauron-badge.svg
+4.0K -rw-r--r-- 1 root root  192 May 19 01:47 packages-stable/sauron-readme.txt

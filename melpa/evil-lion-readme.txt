@@ -1,3 +1,4 @@
+
 Evil align operator, port of vim-lion by Tom McDonald (https://github.com/tommcdo/vim-lion)
 
 Usage:

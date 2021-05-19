@@ -1,2 +1,14 @@
-
-(el-init . [(0 2 0) ((emacs (24)) (cl-lib (0 5)) (anaphora (1 0 0))) "A loader inspired by init-loader" single ((:commit . "25fd21d820bca1cf576b8f70c8d5a3bc76792597") (:authors ("Hiroki YAMAKAWA" . "s06139@gmail.com")) (:maintainer "Hiroki YAMAKAWA" . "s06139@gmail.com") (:url . "https://github.com/HKey/el-init"))])
+(el-init .
+	 [(0 2 0)
+	  ((emacs
+	    (24))
+	   (cl-lib
+	    (0 5))
+	   (anaphora
+	    (1 0 0)))
+	  "A loader inspired by init-loader" single
+	  ((:commit . "25fd21d820bca1cf576b8f70c8d5a3bc76792597")
+	   (:authors
+	    ("Hiroki YAMAKAWA" . "s06139@gmail.com"))
+	   (:maintainer "Hiroki YAMAKAWA" . "s06139@gmail.com")
+	   (:url . "https://github.com/HKey/el-init"))])

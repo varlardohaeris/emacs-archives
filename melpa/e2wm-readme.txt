@@ -11,7 +11,7 @@ The current implementation has following perspectives:
 * dashboard : showing plug-ins like dashboard in Mac OSX
 * array     : selecting buffers like expose in Mac OSX
 
-Installation:
+; Installation:
 
 (1) Put e2wm.el and window-layout.el in load-path.
 (2) Put the following code in your .emacs file,
@@ -20,7 +20,7 @@ Installation:
 To stop e2wm, M-x e2wm:stop-management or [C-c ; Q].
 
 
-Customization
+; Customization
 
 * Layout recipe (`e2wm:c-PST-NAME-recipe'):
 
@@ -78,7 +78,7 @@ e2wm has additional options.
                  : documentation for use of this option.
                  : (type: any lisp objecct)
 
-Development memo:
+; Development memo:
 
 See readme for further documentation.
 

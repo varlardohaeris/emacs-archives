@@ -1,0 +1,6 @@
+Package: flycheck-keg
+Fetcher: github
+Source:  https://github.com/conao3/keg.el.git
+
+Updating /mnt/store/melpa/working/flycheck-keg/
+No valid stable versions found for flycheck-keg

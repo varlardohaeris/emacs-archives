@@ -1,0 +1,11 @@
+Package: helm-exwm
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-exwm.git
+
+Updating /mnt/store/melpa/working/helm-exwm/
+Built helm-exwm in 3.296s, finished at Wed May 19 04:40:14 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  10K May 19 04:40 packages-stable/helm-exwm-0.0.2.el
+4.0K -rw-r--r-- 1 root root  427 May 19 04:40 packages-stable/helm-exwm-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-exwm-badge.svg
+4.0K -rw-r--r-- 1 root root  659 May 19 04:40 packages-stable/helm-exwm-readme.txt

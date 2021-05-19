@@ -1,0 +1,6 @@
+Package: avandu
+Fetcher: github
+Source:  https://github.com/ryuslash/avandu.git
+
+Updating /mnt/store/melpa/working/avandu/
+No valid stable versions found for avandu

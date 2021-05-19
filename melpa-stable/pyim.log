@@ -1,0 +1,43 @@
+Package: pyim
+Fetcher: github
+Source:  https://github.com/tumashu/pyim.git
+
+Updating /mnt/store/melpa/working/pyim/
+Note: pyim :files spec is equivalent to the default.
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pyim/
+  to /tmp/pyim6GcBtm/pyim-3.2
+    pyim-common.el -> pyim-common.el
+    pyim-dhashcache.el -> pyim-dhashcache.el
+    pyim-dregcache.el -> pyim-dregcache.el
+    pyim-probe.el -> pyim-probe.el
+    pyim-pymap.el -> pyim-pymap.el
+    pyim.el -> pyim.el
+Created pyim-3.2.tar containing:
+  pyim-3.2/
+  pyim-3.2/pyim-common.el
+  pyim-3.2/pyim-dhashcache.el
+  pyim-3.2/pyim-dregcache.el
+  pyim-3.2/pyim-pkg.el
+  pyim-3.2/pyim-probe.el
+  pyim-3.2/pyim-pymap.el
+  pyim-3.2/pyim.el
+Built pyim in 3.572s, finished at Wed May 19 01:44:50 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  462 May 19 01:44 packages-stable/pyim-3.2.entry
+312K -rw-r--r-- 1 root root 310K May 19 01:44 packages-stable/pyim-3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pyim-badge.svg
+4.0K -rw-r--r-- 1 root root  367 May 18 22:30 packages-stable/pyim-basedict-0.3.1.entry
+2.2M -rw-r--r-- 1 root root 2.2M May 18 22:30 packages-stable/pyim-basedict-0.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/pyim-basedict-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/pyim-basedict-readme.txt
+4.0K -rw-r--r-- 1 root root  143 May 19 01:44 packages-stable/pyim-basedict.log
+4.0K -rw-r--r-- 1 root root  208 May  1 18:49 packages-stable/pyim-cangjie5dict.log
+4.0K -rw-r--r-- 1 root root  204 May 19 01:44 packages-stable/pyim-cangjiedict.log
+ 24K -rw-r--r-- 1 root root  22K May 19 01:44 packages-stable/pyim-readme.txt
+4.0K -rw-r--r-- 1 root root  143 May 19 01:44 packages-stable/pyim-smzmdict.log
+4.0K -rw-r--r-- 1 root root  400 May 18 22:30 packages-stable/pyim-wbdict-0.1.entry
+1.2M -rw-r--r-- 1 root root 1.2M May 18 22:30 packages-stable/pyim-wbdict-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/pyim-wbdict-badge.svg
+4.0K -rw-r--r-- 1 root root  490 May 18 22:30 packages-stable/pyim-wbdict-readme.txt
+4.0K -rw-r--r-- 1 root root  137 May 19 01:44 packages-stable/pyim-wbdict.log

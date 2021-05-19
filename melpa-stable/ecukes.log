@@ -1,0 +1,65 @@
+Package: ecukes
+Fetcher: github
+Source:  https://github.com/ecukes/ecukes.git
+
+Updating /mnt/store/melpa/working/ecukes/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ecukes/
+  to /tmp/ecukesjybDJZ/ecukes-0.6.17
+    ecukes-byte-compile.el -> ecukes-byte-compile.el
+    ecukes-cli.el -> ecukes-cli.el
+    ecukes-core.el -> ecukes-core.el
+    ecukes-def.el -> ecukes-def.el
+    ecukes-helpers.el -> ecukes-helpers.el
+    ecukes-hooks.el -> ecukes-hooks.el
+    ecukes-load.el -> ecukes-load.el
+    ecukes-new.el -> ecukes-new.el
+    ecukes-parse.el -> ecukes-parse.el
+    ecukes-pkg.el -> ecukes-pkg.el
+    ecukes-project.el -> ecukes-project.el
+    ecukes-reporter.el -> ecukes-reporter.el
+    ecukes-run.el -> ecukes-run.el
+    ecukes-stats.el -> ecukes-stats.el
+    ecukes-steps.el -> ecukes-steps.el
+    ecukes-template.el -> ecukes-template.el
+    ecukes.el -> ecukes.el
+    templates => templates
+    bin => bin
+    reporters => reporters
+Created ecukes-0.6.17.tar containing:
+  ecukes-0.6.17/
+  ecukes-0.6.17/bin/
+  ecukes-0.6.17/bin/ecukes
+  ecukes-0.6.17/ecukes-byte-compile.el
+  ecukes-0.6.17/ecukes-cli.el
+  ecukes-0.6.17/ecukes-core.el
+  ecukes-0.6.17/ecukes-def.el
+  ecukes-0.6.17/ecukes-helpers.el
+  ecukes-0.6.17/ecukes-hooks.el
+  ecukes-0.6.17/ecukes-load.el
+  ecukes-0.6.17/ecukes-new.el
+  ecukes-0.6.17/ecukes-parse.el
+  ecukes-0.6.17/ecukes-pkg.el
+  ecukes-0.6.17/ecukes-project.el
+  ecukes-0.6.17/ecukes-reporter.el
+  ecukes-0.6.17/ecukes-run.el
+  ecukes-0.6.17/ecukes-stats.el
+  ecukes-0.6.17/ecukes-steps.el
+  ecukes-0.6.17/ecukes-template.el
+  ecukes-0.6.17/ecukes.el
+  ecukes-0.6.17/reporters/
+  ecukes-0.6.17/reporters/ecukes-reporter-dot.el
+  ecukes-0.6.17/reporters/ecukes-reporter-landing.el
+  ecukes-0.6.17/reporters/ecukes-reporter-magnars.el
+  ecukes-0.6.17/reporters/ecukes-reporter-progress.el
+  ecukes-0.6.17/reporters/ecukes-reporter-spec.el
+  ecukes-0.6.17/templates/
+  ecukes-0.6.17/templates/env.tpl
+  ecukes-0.6.17/templates/feature.tpl
+  ecukes-0.6.17/templates/missing-step.tpl
+  ecukes-0.6.17/templates/step-definition.tpl
+Built ecukes in 3.203s, finished at Wed May 19 04:29:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  245 May 19 04:29 packages-stable/ecukes-0.6.17.entry
+112K -rw-r--r-- 1 root root 110K May 19 04:29 packages-stable/ecukes-0.6.17.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/ecukes-badge.svg

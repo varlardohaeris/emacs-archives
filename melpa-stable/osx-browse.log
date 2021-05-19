@@ -1,0 +1,11 @@
+Package: osx-browse
+Fetcher: github
+Source:  https://github.com/rolandwalker/osx-browse.git
+
+Updating /mnt/store/melpa/working/osx-browse/
+Built osx-browse in 4.128s, finished at Wed May 19 01:41:06 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  21K May 19 01:41 packages-stable/osx-browse-0.8.8.el
+4.0K -rw-r--r-- 1 root root  444 May 19 01:41 packages-stable/osx-browse-0.8.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/osx-browse-badge.svg
+8.0K -rw-r--r-- 1 root root 5.1K May 19 01:41 packages-stable/osx-browse-readme.txt

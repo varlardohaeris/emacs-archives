@@ -1,0 +1,11 @@
+Package: monroe
+Fetcher: github
+Source:  https://github.com/sanel/monroe.git
+
+Updating /mnt/store/melpa/working/monroe/
+Built monroe in 3.242s, finished at Wed May 19 01:35:55 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 01:35 packages-stable/monroe-0.3.1.el
+4.0K -rw-r--r-- 1 root root  333 May 19 01:35 packages-stable/monroe-0.3.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/monroe-badge.svg
+4.0K -rw-r--r-- 1 root root  151 May 19 01:35 packages-stable/monroe-readme.txt

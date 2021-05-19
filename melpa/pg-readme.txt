@@ -1,4 +1,4 @@
-Overview ==========================================================
+; Overview ==========================================================
 
 This module lets you access the PostgreSQL object-relational DBMS
 from Emacs, using its socket-level frontend/backend protocol. The
@@ -8,7 +8,7 @@ and won't be useful to end users. Should work with GNU Emacs 19.34
 and up, and XEmacs 20 and up. Performance is very poor when not
 byte-compiled.
 
-Entry points =======================================================
+; Entry points =======================================================
 
 (with-pg-connection con (dbname user [password host port]) &body body)
     A macro which opens a connection to database DBNAME, executes the
@@ -217,14 +217,14 @@ description):
    end of the tunnel, since pg.el defaults to this value.
 
 
-INSTALL =========================================================
+; INSTALL =========================================================
 
 Place this file in a directory somewhere in the load-path, then
 byte-compile it (do a `B' on it in dired, for example). Place a
 line such as `(require 'pg)' in your emacs initialization file.
 
 
-TODO ============================================================
+; TODO ============================================================
 
 * add a mechanism for parsing user-defined types. The user should
   be able to define a parse function and a type-name; we query

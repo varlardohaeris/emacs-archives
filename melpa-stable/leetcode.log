@@ -1,0 +1,11 @@
+Package: leetcode
+Fetcher: github
+Source:  https://github.com/kaiwk/leetcode.el.git
+
+Updating /mnt/store/melpa/working/leetcode/
+Built leetcode in 5.442s, finished at Wed May 19 01:32:03 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  43K May 19 01:32 packages-stable/leetcode-0.1.18.el
+4.0K -rw-r--r-- 1 root root  479 May 19 01:32 packages-stable/leetcode-0.1.18.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/leetcode-badge.svg
+4.0K -rw-r--r-- 1 root root  199 May 19 01:32 packages-stable/leetcode-readme.txt

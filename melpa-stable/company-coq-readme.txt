@@ -1,3 +1,4 @@
+
 This package includes a collection of company-mode backends for
 Proof-General's Coq mode, and many useful extensions to Proof-General.
 

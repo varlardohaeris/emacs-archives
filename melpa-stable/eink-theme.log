@@ -1,0 +1,11 @@
+Package: eink-theme
+Fetcher: github
+Source:  https://github.com/maio/eink-emacs.git
+
+Updating /mnt/store/melpa/working/eink-theme/
+Built eink-theme in 2.871s, finished at Wed May 19 04:29:41 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K May 19 04:29 packages-stable/eink-theme-1.0.0.el
+4.0K -rw-r--r-- 1 root root  327 May 19 04:29 packages-stable/eink-theme-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eink-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   78 May 19 04:29 packages-stable/eink-theme-readme.txt

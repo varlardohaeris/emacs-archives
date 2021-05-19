@@ -1,0 +1,6 @@
+Package: cursor-test
+Fetcher: github
+Source:  https://github.com/ainame/cursor-test.el.git
+
+Updating /mnt/store/melpa/working/cursor-test/
+No valid stable versions found for cursor-test

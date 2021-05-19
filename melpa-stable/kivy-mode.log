@@ -1,0 +1,10 @@
+Package: kivy-mode
+Fetcher: github
+Source:  https://github.com/kivy/kivy.git
+
+Updating /mnt/store/melpa/working/kivy-mode/
+Built kivy-mode in 3.850s, finished at Wed May 19 01:31:22 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K May 19 01:31 packages-stable/kivy-mode-2.0.0.el
+4.0K -rw-r--r-- 1 root root  270 May 19 01:31 packages-stable/kivy-mode-2.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/kivy-mode-badge.svg

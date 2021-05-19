@@ -1,0 +1,21 @@
+Package: term-manager
+Fetcher: github
+Source:  https://github.com/IvanMalison/term-manager.git
+
+Updating /mnt/store/melpa/working/term-manager/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/term-manager/
+  to /tmp/term-managerFxHs1d/term-manager-0.1.1
+    term-manager-indexed-mapping.el -> term-manager-indexed-mapping.el
+    term-manager.el -> term-manager.el
+Created term-manager-0.1.1.tar containing:
+  term-manager-0.1.1/
+  term-manager-0.1.1/term-manager-indexed-mapping.el
+  term-manager-0.1.1/term-manager-pkg.el
+  term-manager-0.1.1/term-manager.el
+Built term-manager in 4.248s, finished at Wed May 19 01:51:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  401 May 19 01:51 packages-stable/term-manager-0.1.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:51 packages-stable/term-manager-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/term-manager-badge.svg
+4.0K -rw-r--r-- 1 root root   69 May 19 01:51 packages-stable/term-manager-readme.txt

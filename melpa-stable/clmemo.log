@@ -1,0 +1,6 @@
+Package: clmemo
+Fetcher: github
+Source:  https://github.com/ataka/clmemo.git
+
+Updating /mnt/store/melpa/working/clmemo/
+No valid stable versions found for clmemo

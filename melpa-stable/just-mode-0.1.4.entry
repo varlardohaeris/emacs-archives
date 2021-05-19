@@ -1,0 +1,11 @@
+(just-mode .
+	   [(0 1 4)
+	    ((emacs
+	      (26 1)))
+	    "Justfile editing mode" single
+	    ((:commit . "8c0d9bec38f717be1549e74839360e35587739e0")
+	     (:authors
+	      ("Leon Barrett" . "leon@barrettnexus.com"))
+	     (:maintainer "Leon Barrett" . "leon@barrettnexus.com")
+	     (:keywords "files" "languages" "tools")
+	     (:url . "https://github.com/leon-barrett/just-mode.el"))])

@@ -1,0 +1,6 @@
+Package: mongo
+Fetcher: github
+Source:  https://github.com/emacsorphanage/mongo.git
+
+Updating /mnt/store/melpa/working/mongo/
+No valid stable versions found for mongo

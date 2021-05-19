@@ -1,0 +1,6 @@
+Package: vc-darcs
+Fetcher: github
+Source:  https://github.com/velkyel/vc-darcs.git
+
+Updating /mnt/store/melpa/working/vc-darcs/
+No valid stable versions found for vc-darcs

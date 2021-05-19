@@ -1,0 +1,6 @@
+Package: eyebrowse
+Fetcher: git
+Source:  https://depp.brause.cc/eyebrowse.git
+
+Updating /mnt/store/melpa/working/eyebrowse/
+No valid stable versions found for eyebrowse

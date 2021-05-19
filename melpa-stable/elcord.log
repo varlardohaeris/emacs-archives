@@ -1,0 +1,6 @@
+Package: elcord
+Fetcher: github
+Source:  https://github.com/Mstrodl/elcord.git
+
+Updating /mnt/store/melpa/working/elcord/
+No valid stable versions found for elcord

@@ -1,4 +1,4 @@
-Introduction:
+;; Introduction:
 
 [Config::General](http://search.cpan.org/dist/Config-General/) is a
 Perl   module  for   parsing  config   files  with   some  enhanced
@@ -12,7 +12,7 @@ It is based on `conf-mode' with the following features:
 - automatic indenting
 - jump to include file with `C-return'
 
-Installation:
+;; Installation:
 
 To use, save config-general-mode.el to a directory in your load-path.
 

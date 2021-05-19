@@ -1,0 +1,6 @@
+Package: ob-swift
+Fetcher: github
+Source:  https://github.com/zweifisch/ob-swift.git
+
+Updating /mnt/store/melpa/working/ob-swift/
+No valid stable versions found for ob-swift

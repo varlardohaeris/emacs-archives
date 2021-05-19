@@ -1,0 +1,6 @@
+Package: uncrustify-mode
+Fetcher: github
+Source:  https://github.com/koko1000ban/emacs-uncrustify-mode.git
+
+Updating /mnt/store/melpa/working/uncrustify-mode/
+No valid stable versions found for uncrustify-mode

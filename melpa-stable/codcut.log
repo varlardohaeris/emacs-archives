@@ -1,0 +1,6 @@
+Package: codcut
+Fetcher: github
+Source:  https://github.com/codcut/codcut-emacs.git
+
+Updating /mnt/store/melpa/working/codcut/
+No valid stable versions found for codcut

@@ -1,0 +1,6 @@
+Package: org-parser
+Fetcher: hg
+Source:  https://hg.sr.ht/~zck/org-parser
+
+Updating /mnt/store/melpa/working/org-parser/
+hg exited with status 255

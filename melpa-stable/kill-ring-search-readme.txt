@@ -1,3 +1,4 @@
+
 To install, add the following to your .emacs file:
 (autoload 'kill-ring-search "kill-ring-search"
  "Search the kill ring in the minibuffer."

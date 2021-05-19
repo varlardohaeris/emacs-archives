@@ -1,0 +1,6 @@
+Package: magrant
+Fetcher: github
+Source:  https://github.com/p3r7/magrant.git
+
+Updating /mnt/store/melpa/working/magrant/
+No valid stable versions found for magrant

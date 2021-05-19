@@ -1,0 +1,23 @@
+Package: el-x
+Fetcher: github
+Source:  https://github.com/sigma/el-x.git
+
+Updating /mnt/store/melpa/working/el-x/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/el-x/
+  to /tmp/el-xzbqFjy/el-x-0.3.1
+  ! lisp/dflet.el -> dflet.el
+  ! lisp/el-x.el -> el-x.el
+  ! lisp/subr-compat.el -> subr-compat.el
+Created el-x-0.3.1.tar containing:
+  el-x-0.3.1/
+  el-x-0.3.1/dflet.el
+  el-x-0.3.1/el-x-pkg.el
+  el-x-0.3.1/el-x.el
+  el-x-0.3.1/subr-compat.el
+Built el-x in 6.542s, finished at Sat May  8 17:29:05 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  286 May  8 17:29 packages-stable/el-x-0.3.1.entry
+ 20K -rw-r--r-- 1 root root  20K May  8 17:29 packages-stable/el-x-0.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May  8 17:29 packages-stable/el-x-badge.svg
+4.0K -rw-r--r-- 1 root root   46 May  8 17:29 packages-stable/el-x-readme.txt

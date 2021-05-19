@@ -1,0 +1,6 @@
+Package: rand-theme
+Fetcher: github
+Source:  https://github.com/gopar/rand-theme.git
+
+Updating /mnt/store/melpa/working/rand-theme/
+No valid stable versions found for rand-theme

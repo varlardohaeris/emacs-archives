@@ -1,0 +1,6 @@
+Package: symbolist
+Fetcher: github
+Source:  https://github.com/lassik/emacs-symbolist.git
+
+Updating /mnt/store/melpa/working/symbolist/
+No valid stable versions found for symbolist

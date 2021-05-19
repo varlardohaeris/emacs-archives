@@ -1,0 +1,6 @@
+Package: ob-go
+Fetcher: github
+Source:  https://github.com/pope/ob-go.git
+
+Updating /mnt/store/melpa/working/ob-go/
+No valid stable versions found for ob-go

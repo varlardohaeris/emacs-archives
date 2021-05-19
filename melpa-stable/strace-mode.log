@@ -1,0 +1,6 @@
+Package: strace-mode
+Fetcher: github
+Source:  https://github.com/pkmoore/strace-mode.git
+
+Updating /mnt/store/melpa/working/strace-mode/
+No valid stable versions found for strace-mode

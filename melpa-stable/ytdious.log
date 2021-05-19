@@ -1,0 +1,6 @@
+Package: ytdious
+Fetcher: github
+Source:  https://github.com/spiderbit/ytdious.git
+
+Updating /mnt/store/melpa/working/ytdious/
+No valid stable versions found for ytdious

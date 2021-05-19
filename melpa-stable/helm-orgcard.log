@@ -1,0 +1,11 @@
+Package: helm-orgcard
+Fetcher: github
+Source:  https://github.com/emacs-jp/helm-orgcard.git
+
+Updating /mnt/store/melpa/working/helm-orgcard/
+Built helm-orgcard in 2.986s, finished at Wed May 19 04:40:53 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.5K May 19 04:40 packages-stable/helm-orgcard-0.2.el
+4.0K -rw-r--r-- 1 root root  358 May 19 04:40 packages-stable/helm-orgcard-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-orgcard-badge.svg
+4.0K -rw-r--r-- 1 root root  181 May 19 04:40 packages-stable/helm-orgcard-readme.txt

@@ -74,7 +74,7 @@ Buy Xah Emacs Tutorial
 http://ergoemacs.org/emacs/buy_xah_emacs_tutorial.html
 Thank you.
 
-INSTALL
+; INSTALL
 
 To install manually, place this file in the directory 〔~/.emacs.d/lisp/〕
 
@@ -87,10 +87,10 @@ Then, place the following code in your emacs init file
 (autoload 'xah-find-replace-text-regex "xah-find" "find replace" t)
 (autoload 'xah-find-count "xah-find" "find replace" t)
 
-HISTORY
+; HISTORY
 
 version 2.1.0, 2015-05-30 Complete rewrite.
 version 1.0, 2012-04-02 First version.
 
-CONTRIBUTOR
+; CONTRIBUTOR
 2015-12-09 Peter Buckley (dx-pbuckley). defcustom for result highlight color.

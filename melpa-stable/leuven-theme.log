@@ -1,0 +1,6 @@
+Package: leuven-theme
+Fetcher: github
+Source:  https://github.com/fniessen/emacs-leuven-theme.git
+
+Updating /mnt/store/melpa/working/leuven-theme/
+No matching file(s) found in /mnt/store/melpa/working/leuven-theme/: (lisp/*.el)

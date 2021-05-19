@@ -1,3 +1,4 @@
+
 Purpose
 -------
 maxframe provides the ability to maximize the emacs frame and stay within

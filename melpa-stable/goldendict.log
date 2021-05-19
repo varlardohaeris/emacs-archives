@@ -1,0 +1,6 @@
+Package: goldendict
+Fetcher: github
+Source:  https://github.com/stardiviner/goldendict.el.git
+
+Updating /mnt/store/melpa/working/goldendict/
+No valid stable versions found for goldendict

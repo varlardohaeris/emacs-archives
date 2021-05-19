@@ -1,0 +1,6 @@
+Package: eldoc-cmake
+Fetcher: github
+Source:  https://github.com/ikirill/eldoc-cmake.git
+
+Updating /mnt/store/melpa/working/eldoc-cmake/
+No valid stable versions found for eldoc-cmake

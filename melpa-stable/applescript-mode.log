@@ -1,0 +1,11 @@
+Package: applescript-mode
+Fetcher: github
+Source:  https://github.com/emacsorphanage/applescript-mode.git
+
+Updating /mnt/store/melpa/working/applescript-mode/
+Built applescript-mode in 2.912s, finished at Wed May 19 04:19:41 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 04:19 packages-stable/applescript-mode-0.1.el
+4.0K -rw-r--r-- 1 root root  321 May 19 04:19 packages-stable/applescript-mode-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/applescript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   17 May 19 04:19 packages-stable/applescript-mode-readme.txt

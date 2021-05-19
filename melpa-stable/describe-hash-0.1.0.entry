@@ -1,0 +1,5 @@
+(describe-hash .
+	       [(0 1 0)
+		nil "Help function for examining a hash map" single
+		((:commit . "20dbbbea630055b2401f13a55fbb21216960dc46")
+		 (:url . "https://github.com/Junker/describe-hash"))])

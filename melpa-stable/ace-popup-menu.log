@@ -1,0 +1,11 @@
+Package: ace-popup-menu
+Fetcher: github
+Source:  https://github.com/mrkkrp/ace-popup-menu.git
+
+Updating /mnt/store/melpa/working/ace-popup-menu/
+Built ace-popup-menu in 3.564s, finished at Wed May 19 04:18:44 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.4K May 19 04:18 packages-stable/ace-popup-menu-0.2.1.el
+4.0K -rw-r--r-- 1 root root  430 May 19 04:18 packages-stable/ace-popup-menu-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ace-popup-menu-badge.svg
+4.0K -rw-r--r-- 1 root root  372 May 19 04:18 packages-stable/ace-popup-menu-readme.txt

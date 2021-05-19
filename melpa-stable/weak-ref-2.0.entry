@@ -1,2 +1,8 @@
-
-(weak-ref . [(2 0) nil "weak references for Emacs Lisp" single ((:commit . "434e7d7cc84d0813bd06606a04c08fc96cd9eec8") (:authors ("Christopher Wellons" . "wellons@nullprogram.com")) (:maintainer "Christopher Wellons" . "wellons@nullprogram.com") (:url . "https://github.com/skeeto/elisp-weak-ref"))])
+(weak-ref .
+	  [(2 0)
+	   nil "weak references for Emacs Lisp" single
+	   ((:commit . "434e7d7cc84d0813bd06606a04c08fc96cd9eec8")
+	    (:authors
+	     ("Christopher Wellons" . "wellons@nullprogram.com"))
+	    (:maintainer "Christopher Wellons" . "wellons@nullprogram.com")
+	    (:url . "https://github.com/skeeto/elisp-weak-ref"))])

@@ -1,0 +1,43 @@
+Package: omnisharp
+Fetcher: github
+Source:  https://github.com/OmniSharp/omnisharp-emacs.git
+
+Updating /mnt/store/melpa/working/omnisharp/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/omnisharp/
+  to /tmp/omnisharphdzO5G/omnisharp-4.2
+    omnisharp-auto-complete-actions.el -> omnisharp-auto-complete-actions.el
+    omnisharp-current-symbol-actions.el -> omnisharp-current-symbol-actions.el
+    omnisharp-format-actions.el -> omnisharp-format-actions.el
+    omnisharp-helm-integration.el -> omnisharp-helm-integration.el
+    omnisharp-http-utils.el -> omnisharp-http-utils.el
+    omnisharp-navigation-actions.el -> omnisharp-navigation-actions.el
+    omnisharp-server-actions.el -> omnisharp-server-actions.el
+    omnisharp-server-installation.el -> omnisharp-server-installation.el
+    omnisharp-server-management.el -> omnisharp-server-management.el
+    omnisharp-settings.el -> omnisharp-settings.el
+    omnisharp-solution-actions.el -> omnisharp-solution-actions.el
+    omnisharp-utils.el -> omnisharp-utils.el
+    omnisharp.el -> omnisharp.el
+Created omnisharp-4.2.tar containing:
+  omnisharp-4.2/
+  omnisharp-4.2/omnisharp-auto-complete-actions.el
+  omnisharp-4.2/omnisharp-current-symbol-actions.el
+  omnisharp-4.2/omnisharp-format-actions.el
+  omnisharp-4.2/omnisharp-helm-integration.el
+  omnisharp-4.2/omnisharp-http-utils.el
+  omnisharp-4.2/omnisharp-navigation-actions.el
+  omnisharp-4.2/omnisharp-pkg.el
+  omnisharp-4.2/omnisharp-server-actions.el
+  omnisharp-4.2/omnisharp-server-installation.el
+  omnisharp-4.2/omnisharp-server-management.el
+  omnisharp-4.2/omnisharp-settings.el
+  omnisharp-4.2/omnisharp-solution-actions.el
+  omnisharp-4.2/omnisharp-utils.el
+  omnisharp-4.2/omnisharp.el
+Built omnisharp in 3.340s, finished at Wed May 19 01:38:40 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  681 May 19 01:38 packages-stable/omnisharp-4.2.entry
+152K -rw-r--r-- 1 root root 150K May 19 01:38 packages-stable/omnisharp-4.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/omnisharp-badge.svg
+4.0K -rw-r--r-- 1 root root  278 May 19 01:38 packages-stable/omnisharp-readme.txt

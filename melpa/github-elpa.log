@@ -1,0 +1,22 @@
+Package: github-elpa
+Fetcher: github
+Source:  https://github.com/10sr/github-elpa.git
+
+Updating /mnt/store/melpa/working/github-elpa/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/github-elpa/
+  to /tmp/github-elpaGNx4Lh/github-elpa-20200129.417
+    github-elpa.el -> github-elpa.el
+    bin => bin
+Created github-elpa-20200129.417.tar containing:
+  github-elpa-20200129.417/
+  github-elpa-20200129.417/bin/
+  github-elpa-20200129.417/bin/github-elpa
+  github-elpa-20200129.417/github-elpa-pkg.el
+  github-elpa-20200129.417/github-elpa.el
+Built github-elpa in 4.232s, finished at Wed May 19 03:26:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  429 May 19 03:26 packages/github-elpa-20200129.417.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 03:26 packages/github-elpa-20200129.417.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:26 packages/github-elpa-badge.svg
+4.0K -rw-r--r-- 1 root root  389 May 19 03:26 packages/github-elpa-readme.txt

@@ -1,3 +1,4 @@
+
 Extension of hippie-expand.
 
 I created this program to let `hippie-expand' expand only unibyte
@@ -17,7 +18,7 @@ Example:
 
 -ex [M-x hippie-expand-dabbrev-limited-chars] -> hippie-expand
 
-Installation:
+; Installation:
 
 Put hippie-exp-ext.el to your load-path.
 The load-path is usually ~/elisp/.

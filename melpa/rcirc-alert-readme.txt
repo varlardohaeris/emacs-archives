@@ -1,3 +1,4 @@
+
 This code implements a notification (alert) library on top of emacs rcirc IRC client.
 
 This code integrates part of the original sources. It departs from the original in two ways
@@ -27,4 +28,4 @@ Useful variables to customize alerts are described in the *Variables section of 
 These may be used in a per-buffer basis to specify individual needs on given chats (notify anything on twitter channel, alert when
 given nick appears online at #emacs, keywords on #archlinux, etc.)
 
-TODO
+; TODO

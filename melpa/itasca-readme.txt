@@ -27,13 +27,13 @@ itasca-flac-mode) use:
 To set the major mode on a per-file basis: put a comment in the
 following form at the top of the file.
 
--*- mode: itasca-general -*-
--*- mode: itasca-flac -*-
--*- mode: itasca-flac3d -*-
--*- mode: itasca-pfc -*-
--*- mode: itasca-pfc5 -*-
--*- mode: itasca-udec -*-
--*- mode: itasca-3dec -*-
+;; -*- mode: itasca-general -*-
+;; -*- mode: itasca-flac -*-
+;; -*- mode: itasca-flac3d -*-
+;; -*- mode: itasca-pfc -*-
+;; -*- mode: itasca-pfc5 -*-
+;; -*- mode: itasca-udec -*-
+;; -*- mode: itasca-3dec -*-
 
 Code navigation, auto-complete and snippets are provided. For a
 detailed introduction see:

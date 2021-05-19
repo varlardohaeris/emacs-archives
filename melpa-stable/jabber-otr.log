@@ -1,0 +1,6 @@
+Package: jabber-otr
+Fetcher: github
+Source:  https://github.com/legoscia/emacs-jabber-otr.git
+
+Updating /mnt/store/melpa/working/jabber-otr/
+No valid stable versions found for jabber-otr

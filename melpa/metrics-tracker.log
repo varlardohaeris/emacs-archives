@@ -1,0 +1,11 @@
+Package: metrics-tracker
+Fetcher: github
+Source:  https://github.com/ianxm/emacs-tracker.git
+
+Updating /mnt/store/melpa/working/metrics-tracker/
+Built metrics-tracker in 4.120s, finished at Wed May 19 03:43:59 2021
+ ✓ Success:
+ 72K -rw-r--r-- 1 root root  72K May 19 03:43 packages/metrics-tracker-20210207.1100.el
+4.0K -rw-r--r-- 1 root root  411 May 19 03:43 packages/metrics-tracker-20210207.1100.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:43 packages/metrics-tracker-badge.svg
+4.0K -rw-r--r-- 1 root root  107 May 19 03:43 packages/metrics-tracker-readme.txt

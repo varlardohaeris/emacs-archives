@@ -1,3 +1,4 @@
+
 This package provides a function to load a list of files into a
 temporary buffer for viewing.  The buffer (*look*) is writable,
 so when used with eimp.el (Emacs Image Manipulation Package), one

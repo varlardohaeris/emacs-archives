@@ -1,0 +1,6 @@
+Package: counsel-mairix
+Fetcher: git
+Source:  https://git.sr.ht/~ane/counsel-mairix
+
+Updating /mnt/store/melpa/working/counsel-mairix/
+No valid stable versions found for counsel-mairix

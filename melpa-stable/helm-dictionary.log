@@ -1,0 +1,6 @@
+Package: helm-dictionary
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-dictionary.git
+
+Updating /mnt/store/melpa/working/helm-dictionary/
+No valid stable versions found for helm-dictionary

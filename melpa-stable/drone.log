@@ -1,0 +1,6 @@
+Package: drone
+Fetcher: github
+Source:  https://github.com/olymk2/emacs-drone.git
+
+Updating /mnt/store/melpa/working/drone/
+No valid stable versions found for drone

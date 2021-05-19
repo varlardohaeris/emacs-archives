@@ -1,0 +1,6 @@
+Package: git-msg-prefix
+Fetcher: github
+Source:  https://github.com/kidd/git-msg-prefix.el.git
+
+Updating /mnt/store/melpa/working/git-msg-prefix/
+No valid stable versions found for git-msg-prefix

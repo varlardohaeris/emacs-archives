@@ -1,0 +1,11 @@
+Package: vimgolf
+Fetcher: github
+Source:  https://github.com/timvisher/vimgolf.el.git
+
+Updating /mnt/store/melpa/working/vimgolf/
+Built vimgolf in 3.582s, finished at Wed May 19 01:54:11 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  21K May 19 01:54 packages-stable/vimgolf-0.10.3.el
+4.0K -rw-r--r-- 1 root root  354 May 19 01:54 packages-stable/vimgolf-0.10.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/vimgolf-badge.svg
+4.0K -rw-r--r-- 1 root root  744 May 19 01:54 packages-stable/vimgolf-readme.txt

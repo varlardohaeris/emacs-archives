@@ -1,0 +1,29 @@
+Package: opensource
+Fetcher: github
+Source:  https://github.com/OpenSourceOrg/el-opensourceorg.git
+
+Updating /mnt/store/melpa/working/opensource/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/opensource/
+  to /tmp/opensource3zdUsf/opensource-0.2.0
+    opensource-api.el -> opensource-api.el
+    opensource-http.el -> opensource-http.el
+    opensource-licenses.el -> opensource-licenses.el
+    opensource-utils.el -> opensource-utils.el
+    opensource-version.el -> opensource-version.el
+    opensource.el -> opensource.el
+Created opensource-0.2.0.tar containing:
+  opensource-0.2.0/
+  opensource-0.2.0/opensource-api.el
+  opensource-0.2.0/opensource-http.el
+  opensource-0.2.0/opensource-licenses.el
+  opensource-0.2.0/opensource-pkg.el
+  opensource-0.2.0/opensource-utils.el
+  opensource-0.2.0/opensource-version.el
+  opensource-0.2.0/opensource.el
+Built opensource in 2.913s, finished at Wed May 19 01:38:46 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  505 May 19 01:38 packages-stable/opensource-0.2.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:38 packages-stable/opensource-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/opensource-badge.svg
+4.0K -rw-r--r-- 1 root root  324 May 19 01:38 packages-stable/opensource-readme.txt

@@ -1,0 +1,6 @@
+Package: package-filter
+Fetcher: github
+Source:  https://github.com/milkypostman/package-filter.git
+
+Updating /mnt/store/melpa/working/package-filter/
+No valid stable versions found for package-filter

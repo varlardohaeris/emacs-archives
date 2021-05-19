@@ -1,3 +1,4 @@
+
 This is an extension of emms-player-simple.el for mpv JSON IPC.
 It provides macros and functions for defining emms simple players of mpv.
 emms-player-simple-mpv-control-functions.el provides other functions to control mpv.
@@ -14,13 +15,13 @@ Other Requirements:
 Setup:
 
 (require 'emms-player-simple-mpv)
-This plugin provides control functions (e.g. ab-loop, speed, fullscreen).
+;; This plugin provides control functions (e.g. ab-loop, speed, fullscreen).
 (require 'emms-player-simple-mpv-control-functions)
 
 Usage:
 
-An example of setting like emms-player-mplayer.el
-`emms-player-my-mpv' is defined in this case.
+;; An example of setting like emms-player-mplayer.el
+;; `emms-player-my-mpv' is defined in this case.
 (define-emms-simple-player-mpv my-mpv '(file url streamlist playlist)
     (concat "\\`\\(http[s]?\\|mms\\)://\\|"
             (apply #'emms-player-simple-regexp
@@ -34,7 +35,7 @@ An example of setting like emms-player-mplayer.el
 
 (add-to-list 'emms-player-list 'emms-player-my-mpv)
 
-Playing YouTube playlist in reverse order.
+;; Playing YouTube playlist in reverse order.
 `emms-player-my-mpv-ytpl-reverse' will be defined in this case.
 (define-emms-simple-player-mpv my-mpv-ytpl-reverse '(url)
   "\\`http[s]://www\\.youtube\\.com/playlist\\?list="
@@ -43,7 +44,7 @@ Playing YouTube playlist in reverse order.
 
 (add-to-list 'emms-player-list 'emms-player-my-mpv-ytpl-reverse)
 
-M-x emms-player-simple-mpv-playlist-popup can display playlist
+;; M-x emms-player-simple-mpv-playlist-popup can display playlist
 
 The following example configuration files are available:
 

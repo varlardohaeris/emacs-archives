@@ -1,3 +1,4 @@
+
 latex-extra
 ===========
 
@@ -83,7 +84,7 @@ The buffer used to display LaTeX errors is typically a regular text
 buffer in `fundamental-mode'. *latex-extra* switches it to
 `special-mode' and adds some colors to the display.
 
-Instructions:
+; Instructions:
 
 INSTALLATION
 

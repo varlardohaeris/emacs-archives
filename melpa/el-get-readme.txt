@@ -1,3 +1,4 @@
+
 Version String are now inspired by how Emacs itself numbers its version.
 First is the major version number, then a dot, then the minor version
 number.  The minor version number is 0 when still developping the next

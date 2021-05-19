@@ -24,7 +24,7 @@ from RGB to/from HSLUV and HPLUV:
   (hsluv-rgb-to-hsluv (list R G B))
   (hsluv-rgb-to-hpluv (list R G B))
 
-Changelog
+; Changelog
 
 2017/04/15 v1.0  First version
 2018/08/07       Split off testing

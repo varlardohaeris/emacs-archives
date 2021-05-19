@@ -14,7 +14,7 @@ very limited implementation:
 - not much in the way of error feedback.
 - cannot handle table or list input.
 
-Requirements:
+; Requirements:
 
 - You must have go1 installed and the go should be in your `exec-path'. If
   not, feel free to modify `org-babel-go-command' to the location of your

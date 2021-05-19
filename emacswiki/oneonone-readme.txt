@@ -56,7 +56,7 @@
  Options `1on1-fit-minibuffer-frame-max-height' and
  `1on1-fit-minibuffer-frame-max-height-percent' define the maximum
  possible height for this behavior.  In addition, if you bind
- `1on1-fit-minibuffer-frame' to a key (I use `C-o'), then you can
+ `1on1-fit-minibuffer-frame' to a key (I use `M-up'), then you can
  use that key repeatedly to increase the height by one line, even
  beyond the maximum.
 
@@ -116,23 +116,49 @@
  display in their own frames.  Which code to use depends on your
  version of GNU Emacs.
 
-   (cond ((< emacs-major-version 21)
-          (remove-hook 'same-window-buffer-names "*info*"))
-         ((= emacs-major-version 21)
-          (remove-hook 'same-window-buffer-names "*info*")
-          (remove-hook 'same-window-regexps "\\`\\*Customiz.*\\*\\'"))
-         (t
-          (remove-hook 'same-window-regexps "\\*info\\*\\(\\|<[0-9]+>\\)")
-          (remove-hook 'same-window-regexps "\\`\\*Customiz.*\\*\\'")))
+   (cond
+    ((< emacs-major-version 21)
+     (remove-hook 'same-window-buffer-names "*info*"))
+    ((= emacs-major-version 21)
+     (remove-hook 'same-window-buffer-names "*info*")
+     (remove-hook 'same-window-regexps "\\`\\*Customiz.*\\*\\'"))
+    (t
+     (remove-hook 'same-window-regexps "\\*info\\*\\(\\|<[0-9]+>\\)")
+     (remove-hook 'same-window-regexps "\\`\\*Customiz.*\\*\\'")))
 
- Recommended key bindings (requires library `fit-frame.el'):
+ Recommended `M-up' key bindings (requires library `fit-frame.el').
+ (The reason for the conditionals is to handle all Emacs versions.)
 
-   (define-key minibuffer-local-map "\C-o"
-               '1on1-fit-minibuffer-frame)
-   (define-key minibuffer-local-must-match-map "\C-o"
-               '1on1-fit-minibuffer-frame)
-   (define-key minibuffer-local-completion-map "\C-o"
-               '1on1-fit-minibuffer-frame)
+   (define-key minibuffer-local-map
+               [(meta up)] '1on1-fit-minibuffer-frame)
+   (unless (eq minibuffer-local-map
+               (keymap-parent minibuffer-local-completion-map))
+     (define-key minibuffer-local-must-match-map
+                 [(meta up)] '1on1-fit-minibuffer-frame)
+     (define-key minibuffer-local-completion-map
+                 [(meta up)] '1on1-fit-minibuffer-frame))
+   (when (boundp 'minibuffer-local-filename-completion-map)
+     (define-key minibuffer-local-filename-completion-map
+                 [(meta up)] '1on1-fit-minibuffer-frame))
+   (when (boundp 'minibuffer-local-must-match-filename-map)
+     (define-key minibuffer-local-must-match-filename-map
+                 [(meta up)] '1on1-fit-minibuffer-frame))
+   (when (boundp 'minibuffer-local-filename-must-match-map)
+     (define-key minibuffer-local-filename-must-match-map
+                 [(meta up)] '1on1-fit-minibuffer-frame))
+   (when (boundp 'minibuffer-local-isearch-map)
+     (unless (eq minibuffer-local-map
+                 (keymap-parent minibuffer-local-isearch-map))
+       (define-key minibuffer-local-isearch-map
+                   [(meta up)] '1on1-fit-minibuffer-frame)))
+   (when (boundp 'minibuffer-local-shell-command-map)
+     (unless (eq minibuffer-local-map
+                 (keymap-parent minibuffer-local-shell-command-map))
+       (define-key minibuffer-local-shell-command-map
+                   [(meta up)] '1on1-fit-minibuffer-frame)))
+   (when (boundp 'minibuffer-inactive-mode-map)
+     (define-key minibuffer-inactive-mode-map
+                 [(meta up)] '1on1-fit-minibuffer-frame))))
 
  By default, `oneonone.el' sets the width of the bottom and right
  dividers, which separate Emacs windows, to 2 instead of 0.  This

@@ -1,0 +1,39 @@
+Package: calibredb
+Fetcher: github
+Source:  https://github.com/chenyanming/calibredb.el.git
+
+Updating /mnt/store/melpa/working/calibredb/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/calibredb/
+  to /tmp/calibredbPak96c/calibredb-2.8.0
+    calibredb-annotation.el -> calibredb-annotation.el
+    calibredb-core.el -> calibredb-core.el
+    calibredb-faces.el -> calibredb-faces.el
+    calibredb-helm.el -> calibredb-helm.el
+    calibredb-ivy.el -> calibredb-ivy.el
+    calibredb-library.el -> calibredb-library.el
+    calibredb-search.el -> calibredb-search.el
+    calibredb-show.el -> calibredb-show.el
+    calibredb-transient.el -> calibredb-transient.el
+    calibredb-utils.el -> calibredb-utils.el
+    calibredb.el -> calibredb.el
+Created calibredb-2.8.0.tar containing:
+  calibredb-2.8.0/
+  calibredb-2.8.0/calibredb-annotation.el
+  calibredb-2.8.0/calibredb-core.el
+  calibredb-2.8.0/calibredb-faces.el
+  calibredb-2.8.0/calibredb-helm.el
+  calibredb-2.8.0/calibredb-ivy.el
+  calibredb-2.8.0/calibredb-library.el
+  calibredb-2.8.0/calibredb-pkg.el
+  calibredb-2.8.0/calibredb-search.el
+  calibredb-2.8.0/calibredb-show.el
+  calibredb-2.8.0/calibredb-transient.el
+  calibredb-2.8.0/calibredb-utils.el
+  calibredb-2.8.0/calibredb.el
+Built calibredb in 2.941s, finished at Wed May 19 04:22:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  450 May 19 04:22 packages-stable/calibredb-2.8.0.entry
+180K -rw-r--r-- 1 root root 180K May 19 04:22 packages-stable/calibredb-2.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/calibredb-badge.svg
+4.0K -rw-r--r-- 1 root root  381 May 19 04:22 packages-stable/calibredb-readme.txt

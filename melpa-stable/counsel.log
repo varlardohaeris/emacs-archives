@@ -1,0 +1,70 @@
+Package: counsel
+Fetcher: github
+Source:  https://github.com/abo-abo/swiper.git
+
+Updating /mnt/store/melpa/working/counsel/
+Built counsel in 3.992s, finished at Wed May 19 04:25:21 2021
+ ✓ Success:
+268K -rw-r--r-- 1 root root 265K May 19 04:25 packages-stable/counsel-0.13.4.el
+4.0K -rw-r--r-- 1 root root  426 May 19 04:25 packages-stable/counsel-0.13.4.entry
+4.0K -rw-r--r-- 1 root root  206 May 19 04:25 packages-stable/counsel-ag-popup.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/counsel-badge.svg
+8.0K -rw-r--r-- 1 root root 7.8K May 19 04:25 packages-stable/counsel-bbdb-0.0.4.el
+4.0K -rw-r--r-- 1 root root  420 May 19 04:25 packages-stable/counsel-bbdb-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/counsel-bbdb-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:25 packages-stable/counsel-bbdb-readme.txt
+4.0K -rw-r--r-- 1 root root  567 May 19 04:25 packages-stable/counsel-bbdb.log
+4.0K -rw-r--r-- 1 root root  219 May 19 04:25 packages-stable/counsel-codesearch.log
+ 12K -rw-r--r-- 1 root root 8.5K May 19 01:10 packages-stable/counsel-css-1.0.7.el
+4.0K -rw-r--r-- 1 root root  508 May 19 01:10 packages-stable/counsel-css-1.0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/counsel-css-badge.svg
+4.0K -rw-r--r-- 1 root root  142 May 19 01:10 packages-stable/counsel-css-readme.txt
+4.0K -rw-r--r-- 1 root root  144 May 19 04:25 packages-stable/counsel-css.log
+4.0K -rw-r--r-- 1 root root 3.2K May 19 01:10 packages-stable/counsel-dash-0.1.3.el
+4.0K -rw-r--r-- 1 root root  468 May 19 01:10 packages-stable/counsel-dash-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/counsel-dash-badge.svg
+4.0K -rw-r--r-- 1 root root   82 May 19 01:10 packages-stable/counsel-dash-readme.txt
+4.0K -rw-r--r-- 1 root root  145 May 19 04:25 packages-stable/counsel-dash.log
+ 48K -rw-r--r-- 1 root root  47K May 19 01:10 packages-stable/counsel-edit-mode-0.6.1.el
+4.0K -rw-r--r-- 1 root root  464 May 19 01:10 packages-stable/counsel-edit-mode-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/counsel-edit-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  128 May 19 01:10 packages-stable/counsel-edit-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  159 May 19 04:25 packages-stable/counsel-edit-mode.log
+ 72K -rw-r--r-- 1 root root  69K May 19 01:10 packages-stable/counsel-etags-1.9.16.el
+4.0K -rw-r--r-- 1 root root  427 May 19 01:10 packages-stable/counsel-etags-1.9.16.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/counsel-etags-badge.svg
+8.0K -rw-r--r-- 1 root root 4.9K May 19 01:10 packages-stable/counsel-etags-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:25 packages-stable/counsel-etags.log
+   0 -rw-r--r-- 1 root root    0 May 19 04:25 packages-stable/counsel-fd.log
+   0 -rw-r--r-- 1 root root    0 May 19 04:25 packages-stable/counsel-ffdata.log
+ 16K -rw-r--r-- 1 root root  16K May 19 01:10 packages-stable/counsel-gtags-0.1.el
+4.0K -rw-r--r-- 1 root root  344 May 19 01:10 packages-stable/counsel-gtags-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/counsel-gtags-badge.svg
+4.0K -rw-r--r-- 1 root root   59 May 19 01:10 packages-stable/counsel-gtags-readme.txt
+4.0K -rw-r--r-- 1 root root  576 May 19 01:10 packages-stable/counsel-gtags.log
+4.0K -rw-r--r-- 1 root root 2.3K May 19 01:10 packages-stable/counsel-jq-1.1.el
+4.0K -rw-r--r-- 1 root root  474 May 19 01:10 packages-stable/counsel-jq-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/counsel-jq-badge.svg
+4.0K -rw-r--r-- 1 root root   37 May 19 01:10 packages-stable/counsel-jq-readme.txt
+4.0K -rw-r--r-- 1 root root  544 May 19 01:10 packages-stable/counsel-jq.log
+4.0K -rw-r--r-- 1 root root  185 May 19 01:10 packages-stable/counsel-mairix.log
+4.0K -rw-r--r-- 1 root root  206 May 19 01:10 packages-stable/counsel-notmuch.log
+4.0K -rw-r--r-- 1 root root  243 May 19 01:10 packages-stable/counsel-org-capture-string.log
+4.0K -rw-r--r-- 1 root root  207 May 19 01:10 packages-stable/counsel-org-clock.log
+4.0K -rw-r--r-- 1 root root  203 May 19 01:10 packages-stable/counsel-osx-app.log
+ 72K -rw-r--r-- 1 root root  69K May 19 01:11 packages-stable/counsel-projectile-0.3.1.el
+4.0K -rw-r--r-- 1 root root  414 May 19 01:11 packages-stable/counsel-projectile-0.3.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:11 packages-stable/counsel-projectile-badge.svg
+4.0K -rw-r--r-- 1 root root  538 May 19 01:11 packages-stable/counsel-projectile-readme.txt
+4.0K -rw-r--r-- 1 root root  613 May 19 01:11 packages-stable/counsel-projectile.log
+4.0K -rw-r--r-- 1 root root  188 May 19 01:11 packages-stable/counsel-pydoc.log
+4.0K -rw-r--r-- 1 root root  535 May 19 04:25 packages-stable/counsel-readme.txt
+4.0K -rw-r--r-- 1 root root  207 May 19 01:11 packages-stable/counsel-spotify.log
+4.0K -rw-r--r-- 1 root root  188 May 19 01:11 packages-stable/counsel-test.log
+8.0K -rw-r--r-- 1 root root 8.0K May 19 01:11 packages-stable/counsel-tramp-0.7.5.el
+4.0K -rw-r--r-- 1 root root  336 May 19 01:11 packages-stable/counsel-tramp-0.7.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:11 packages-stable/counsel-tramp-badge.svg
+4.0K -rw-r--r-- 1 root root  259 May 19 01:11 packages-stable/counsel-tramp-readme.txt
+4.0K -rw-r--r-- 1 root root  577 May 19 01:11 packages-stable/counsel-tramp.log
+4.0K -rw-r--r-- 1 root root  182 May 19 01:11 packages-stable/counsel-web.log
+4.0K -rw-r--r-- 1 root root  217 May 19 01:11 packages-stable/counsel-world-clock.log

@@ -1,0 +1,11 @@
+Package: iter2
+Fetcher: github
+Source:  https://github.com/doublep/iter2.git
+
+Updating /mnt/store/melpa/working/iter2/
+Built iter2 in 3.111s, finished at Wed May 19 04:43:46 2021
+ ✓ Success:
+ 56K -rw-r--r-- 1 root root  55K May 19 04:43 packages-stable/iter2-1.0.el
+4.0K -rw-r--r-- 1 root root  352 May 19 04:43 packages-stable/iter2-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/iter2-badge.svg
+4.0K -rw-r--r-- 1 root root  328 May 19 04:43 packages-stable/iter2-readme.txt

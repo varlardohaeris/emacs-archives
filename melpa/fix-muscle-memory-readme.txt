@@ -1,3 +1,4 @@
+
    When spell correcting, this package forces you to fix your mistakes
    three times to re-write your muscle memory into typing it correctly.
 

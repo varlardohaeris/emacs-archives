@@ -1,0 +1,11 @@
+Package: js-comint
+Fetcher: github
+Source:  https://github.com/redguardtoo/js-comint.git
+
+Updating /mnt/store/melpa/working/js-comint/
+Built js-comint in 4.768s, finished at Wed May 19 04:44:58 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:44 packages-stable/js-comint-1.2.0.el
+4.0K -rw-r--r-- 1 root root  416 May 19 04:44 packages-stable/js-comint-1.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/js-comint-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K May 19 04:44 packages-stable/js-comint-readme.txt

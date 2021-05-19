@@ -1,0 +1,6 @@
+Package: no-emoji
+Fetcher: github
+Source:  https://github.com/ecraven/no-emoji.git
+
+Updating /mnt/store/melpa/working/no-emoji/
+No valid stable versions found for no-emoji

@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'simpleclip)
@@ -94,7 +95,7 @@ TODO
 
     Support non-string data types.
 
-License
+; License
 
 Simplified BSD License:
 

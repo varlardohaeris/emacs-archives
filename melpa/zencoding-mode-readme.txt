@@ -1,3 +1,4 @@
+
 Unfold CSS-selector-like expressions to markup. Intended to be used
 with sgml-like languages; xml, html, xhtml, xsl, etc.
 
@@ -20,3 +21,5 @@ See ``Test cases'' section for a complete set of expression types.
 If you are hacking on this project, eval (zencoding-test-cases) to
 ensure that your changes have not broken anything. Feel free to add
 new test cases if you add new features.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,6 @@
+Package: company-inf-ruby
+Fetcher: github
+Source:  https://github.com/company-mode/company-inf-ruby.git
+
+Updating /mnt/store/melpa/working/company-inf-ruby/
+No valid stable versions found for company-inf-ruby

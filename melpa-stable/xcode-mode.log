@@ -1,0 +1,6 @@
+Package: xcode-mode
+Fetcher: github
+Source:  https://github.com/nicklanasa/xcode-mode.git
+
+Updating /mnt/store/melpa/working/xcode-mode/
+No valid stable versions found for xcode-mode

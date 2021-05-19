@@ -1,0 +1,11 @@
+Package: historyf
+Fetcher: github
+Source:  https://github.com/k1LoW/emacs-historyf.git
+
+Updating /mnt/store/melpa/working/historyf/
+Built historyf in 3.067s, finished at Wed May 19 04:41:53 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:41 packages-stable/historyf-0.0.9.el
+4.0K -rw-r--r-- 1 root root  421 May 19 04:41 packages-stable/historyf-0.0.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/historyf-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:41 packages-stable/historyf-readme.txt

@@ -1,0 +1,20 @@
+Package: ruby-tools
+Fetcher: github
+Source:  https://github.com/rejeep/ruby-tools.el.git
+
+Updating /mnt/store/melpa/working/ruby-tools/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ruby-tools/
+  to /tmp/ruby-toolshu8prM/ruby-tools-0.1.2
+    ruby-tools-pkg.el -> ruby-tools-pkg.el
+    ruby-tools.el -> ruby-tools.el
+Created ruby-tools-0.1.2.tar containing:
+  ruby-tools-0.1.2/
+  ruby-tools-0.1.2/ruby-tools-pkg.el
+  ruby-tools-0.1.2/ruby-tools.el
+Built ruby-tools in 3.316s, finished at Wed May 19 01:47:13 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  395 May 19 01:47 packages-stable/ruby-tools-0.1.2.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 01:47 packages-stable/ruby-tools-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/ruby-tools-badge.svg
+4.0K -rw-r--r-- 1 root root  378 May 19 01:47 packages-stable/ruby-tools-readme.txt

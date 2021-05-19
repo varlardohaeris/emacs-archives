@@ -1,0 +1,6 @@
+Package: elpa-deploy
+Fetcher: github
+Source:  https://github.com/oitofelix/elpa-deploy.git
+
+Updating /mnt/store/melpa/working/elpa-deploy/
+No valid stable versions found for elpa-deploy

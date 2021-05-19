@@ -1,0 +1,6 @@
+Package: rcirc-groups
+Fetcher: github
+Source:  https://github.com/dimitri/rcirc-groups.git
+
+Updating /mnt/store/melpa/working/rcirc-groups/
+No valid stable versions found for rcirc-groups

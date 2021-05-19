@@ -1,0 +1,6 @@
+Package: auctex-lua
+Fetcher: github
+Source:  https://github.com/vermiculus/auctex-lua.git
+
+Updating /mnt/store/melpa/working/auctex-lua/
+No valid stable versions found for auctex-lua

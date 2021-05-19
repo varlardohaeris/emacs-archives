@@ -1,9 +1,10 @@
+;
 An external contrib for SLY that enables different readtables to be
 active in different parts of the same file.
 
 SLY lives at https://github.com/capitaomorte/sly.
 
-Installation:
+; Installation:
 
 Since this is an external contrib with both Elisp and Lisp parts,
 merely loading the Elisp will have little effect. The contrib has

@@ -5,7 +5,7 @@
 ;; Author: Mark Karpov <markkarpov92@gmail.com>
 ;; URL: https://github.com/mmark-md/flycheck-mmark
 ;; Package-Version: 20190713.1323
-;; Package-Commit: f8fdd59ccb9ddc7d81efbf3dde096dc66e3f9fa1
+;; Package-Commit: 2f5f7502c1e422c1df5b347b8142d67d5cd5caa7
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.4") (flycheck "0.29"))
 ;; Keywords: convenience, text

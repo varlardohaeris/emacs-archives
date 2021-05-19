@@ -1,0 +1,6 @@
+Package: flycheck-flow
+Fetcher: github
+Source:  https://github.com/lbolla/emacs-flycheck-flow.git
+
+Updating /mnt/store/melpa/working/flycheck-flow/
+No valid stable versions found for flycheck-flow

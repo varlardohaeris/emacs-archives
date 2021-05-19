@@ -1,0 +1,11 @@
+Package: phpcbf
+Fetcher: github
+Source:  https://github.com/nishimaki10/emacs-phpcbf.git
+
+Updating /mnt/store/melpa/working/phpcbf/
+Built phpcbf in 2.557s, finished at Thu Feb  4 20:54:15 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.3K Feb  4 20:54 packages-stable/phpcbf-0.9.2.el
+4.0K -rw-r--r-- 1 root root  320 Feb  4 20:54 packages-stable/phpcbf-0.9.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Feb  4 20:54 packages-stable/phpcbf-badge.svg
+4.0K -rw-r--r-- 1 root root  308 Feb  4 20:54 packages-stable/phpcbf-readme.txt

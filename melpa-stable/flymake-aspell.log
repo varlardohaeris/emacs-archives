@@ -1,0 +1,6 @@
+Package: flymake-aspell
+Fetcher: github
+Source:  https://github.com/leotaku/flycheck-aspell.git
+
+Updating /mnt/store/melpa/working/flymake-aspell/
+No valid stable versions found for flymake-aspell

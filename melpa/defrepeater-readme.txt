@@ -30,23 +30,23 @@ call `winner-undo' 3 times.
 
     (global-set-key (kbd "C-x o") (defrepeater #'other-window))
 
-Installation
+;; Installation
 
-MELPA
+;;; MELPA
 
 If you installed from MELPA, you're done.
 
-Manual
+;;; Manual
 
 Put this file in your load-path, and put this in your init file:
 
 (require 'defrepeater)
 
-Usage
+;; Usage
 
 Use the `defrepeater' macro as described above.
 
-Credits
+;; Credits
 
 This was inspired by this answer by Drew Adams: <https://emacs.stackexchange.com/a/13102>
 Thanks also to Fox Keister <https://github.com/noctuid> for his feedback.

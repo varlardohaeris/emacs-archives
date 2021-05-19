@@ -1,0 +1,11 @@
+Package: quickrun
+Fetcher: github
+Source:  https://github.com/emacsorphanage/quickrun.git
+
+Updating /mnt/store/melpa/working/quickrun/
+Built quickrun in 3.281s, finished at Wed May 19 01:45:16 2021
+ ✓ Success:
+ 60K -rw-r--r-- 1 root root  60K May 19 01:45 packages-stable/quickrun-2.3.1.el
+4.0K -rw-r--r-- 1 root root  324 May 19 01:45 packages-stable/quickrun-2.3.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/quickrun-badge.svg
+4.0K -rw-r--r-- 1 root root  389 May 19 01:45 packages-stable/quickrun-readme.txt

@@ -1,0 +1,6 @@
+Package: gams-ac
+Fetcher: github
+Source:  https://github.com/ShiroTakeda/gams-ac.git
+
+Updating /mnt/store/melpa/working/gams-ac/
+No valid stable versions found for gams-ac

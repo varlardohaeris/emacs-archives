@@ -5,7 +5,7 @@
 ;; Author: Uros Perisic
 ;; URL: https://gitlab.com/jjzmajic/ewal
 ;; Package-Version: 20190911.1315
-;; Package-Commit: 4ecc355dae9c7d648cd2874e01a15dfa02b9350d
+;; Package-Commit: e2a04f5c97b7d5e087af26e646c0b45a24522e56
 ;;
 ;; Version: 1.0
 ;; Keywords: faces

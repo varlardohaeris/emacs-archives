@@ -1,0 +1,6 @@
+Package: comment-or-uncomment-sexp
+Fetcher: github
+Source:  https://github.com/Malabarba/comment-or-uncomment-sexp.git
+
+Updating /mnt/store/melpa/working/comment-or-uncomment-sexp/
+No valid stable versions found for comment-or-uncomment-sexp

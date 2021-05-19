@@ -1,2 +1,11 @@
-
-(flycheck-ini-pyinilint . [(0 3) ((flycheck (31))) "Flycheck integration for PyINILint" single ((:commit . "54744a78d06373404933fedc3ca836916e83de51") (:keywords "convenience" "files" "tools") (:authors ("Daniel J. R. May" . "daniel.may@danieljrmay.com")) (:maintainer "Daniel J. R. May" . "daniel.may@danieljrmay.com") (:url . "https://gitlab.com/danieljrmay/flycheck-ini-pyinilint"))])
+(flycheck-ini-pyinilint .
+			[(0 3)
+			 ((flycheck
+			   (31)))
+			 "Flycheck integration for PyINILint" single
+			 ((:commit . "54744a78d06373404933fedc3ca836916e83de51")
+			  (:authors
+			   ("Daniel J. R. May" . "daniel.may@danieljrmay.com"))
+			  (:maintainer "Daniel J. R. May" . "daniel.may@danieljrmay.com")
+			  (:keywords "convenience" "files" "tools")
+			  (:url . "https://gitlab.com/danieljrmay/flycheck-ini-pyinilint"))])

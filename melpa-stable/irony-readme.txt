@@ -1,3 +1,4 @@
+
 This file provides `irony-mode', a minor mode for C, C++ and Objective-C.
 
 Usage:

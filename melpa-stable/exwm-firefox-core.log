@@ -1,0 +1,6 @@
+Package: exwm-firefox-core
+Fetcher: github
+Source:  https://github.com/walseb/exwm-firefox-core.git
+
+Updating /mnt/store/melpa/working/exwm-firefox-core/
+No valid stable versions found for exwm-firefox-core

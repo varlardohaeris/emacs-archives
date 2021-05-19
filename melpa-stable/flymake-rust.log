@@ -1,0 +1,6 @@
+Package: flymake-rust
+Fetcher: github
+Source:  https://github.com/jxs/flymake-rust.git
+
+Updating /mnt/store/melpa/working/flymake-rust/
+No valid stable versions found for flymake-rust

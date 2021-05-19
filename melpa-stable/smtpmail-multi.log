@@ -1,0 +1,6 @@
+Package: smtpmail-multi
+Fetcher: github
+Source:  https://github.com/vapniks/smtpmail-multi.git
+
+Updating /mnt/store/melpa/working/smtpmail-multi/
+No valid stable versions found for smtpmail-multi

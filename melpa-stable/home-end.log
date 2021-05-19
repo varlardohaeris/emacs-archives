@@ -1,0 +1,11 @@
+Package: home-end
+Fetcher: github
+Source:  https://github.com/Boruch-Baum/emacs-home-end.git
+
+Updating /mnt/store/melpa/working/home-end/
+Built home-end in 4.025s, finished at Wed May 19 04:42:04 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.8K May 19 04:42 packages-stable/home-end-1.0.el
+4.0K -rw-r--r-- 1 root root  442 May 19 04:42 packages-stable/home-end-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/home-end-badge.svg
+4.0K -rw-r--r-- 1 root root  913 May 19 04:42 packages-stable/home-end-readme.txt

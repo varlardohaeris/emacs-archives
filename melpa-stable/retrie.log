@@ -1,0 +1,6 @@
+Package: retrie
+Fetcher: github
+Source:  https://github.com/Ailrun/emacs-retrie.git
+
+Updating /mnt/store/melpa/working/retrie/
+No valid stable versions found for retrie

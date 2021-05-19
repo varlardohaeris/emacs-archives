@@ -1,0 +1,6 @@
+Package: springboard
+Fetcher: github
+Source:  https://github.com/jwiegley/springboard.git
+
+Updating /mnt/store/melpa/working/springboard/
+No valid stable versions found for springboard

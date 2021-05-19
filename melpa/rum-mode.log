@@ -1,0 +1,11 @@
+Package: rum-mode
+Fetcher: github
+Source:  https://github.com/rumlang/rum-mode.git
+
+Updating /mnt/store/melpa/working/rum-mode/
+Built rum-mode in 4.342s, finished at Wed May 19 04:02:00 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.9K May 19 04:01 packages/rum-mode-20180127.22.el
+4.0K -rw-r--r-- 1 root root  265 May 19 04:01 packages/rum-mode-20180127.22.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:01 packages/rum-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   67 May 19 04:01 packages/rum-mode-readme.txt

@@ -1,0 +1,11 @@
+Package: amx
+Fetcher: github
+Source:  https://github.com/DarwinAwardWinner/amx.git
+
+Updating /mnt/store/melpa/working/amx/
+Built amx in 2.989s, finished at Wed May 19 04:19:19 2021
+ ✓ Success:
+ 52K -rw-r--r-- 1 root root  50K May 19 04:19 packages-stable/amx-3.4.el
+4.0K -rw-r--r-- 1 root root  472 May 19 04:19 packages-stable/amx-3.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/amx-badge.svg
+4.0K -rw-r--r-- 1 root root  182 May 19 04:19 packages-stable/amx-readme.txt

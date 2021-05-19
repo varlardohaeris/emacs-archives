@@ -1,0 +1,6 @@
+Package: mynt-mode
+Fetcher: github
+Source:  https://github.com/cbrst/mynt-mode.git
+
+Updating /mnt/store/melpa/working/mynt-mode/
+No valid stable versions found for mynt-mode

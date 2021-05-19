@@ -31,10 +31,10 @@ you’ll need to add something like this to your init file (thanks to
     ;; For Linux
     (set-fontset-font t 'symbol (font-spec :family "Symbola") frame 'prepend)))
 
-For when Emacs is started in GUI mode:
+;; For when Emacs is started in GUI mode:
 (--set-emoji-font nil)
-Hook for when a frame is created with emacsclient
-see https://www.gnu.org/software/emacs/manual/html_node/elisp/Creating-Frames.html
+;; Hook for when a frame is created with emacsclient
+;; see https://www.gnu.org/software/emacs/manual/html_node/elisp/Creating-Frames.html
 (add-hook 'after-make-frame-functions '--set-emoji-font)
 ```
 

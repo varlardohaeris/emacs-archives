@@ -1,0 +1,11 @@
+Package: gtk-variant
+Fetcher: github
+Source:  https://github.com/bepvte/gtk-variant.el.git
+
+Updating /mnt/store/melpa/working/gtk-variant/
+Built gtk-variant in 7.826s, finished at Wed May 19 04:39:05 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.7K May 19 04:39 packages-stable/gtk-variant-1.0.4.el
+4.0K -rw-r--r-- 1 root root  370 May 19 04:39 packages-stable/gtk-variant-1.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/gtk-variant-badge.svg
+4.0K -rw-r--r-- 1 root root  257 May 19 04:39 packages-stable/gtk-variant-readme.txt

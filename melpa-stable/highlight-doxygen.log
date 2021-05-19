@@ -1,0 +1,6 @@
+Package: highlight-doxygen
+Fetcher: github
+Source:  https://github.com/Lindydancer/highlight-doxygen.git
+
+Updating /mnt/store/melpa/working/highlight-doxygen/
+No valid stable versions found for highlight-doxygen

@@ -4,7 +4,7 @@
 
 ;; Author: Jong-Hyouk Yun <ageldama@gmail.com>
 ;; URL: https://github.com/ageldama/moonshot
-;; Package-Commit: 83a9933cd4af234ae15fdc3a39e660d646b0c246
+;; Package-Commit: c9f363b1b5f2b92006e03116580540dadb7364ea
 ;; Package-Version: 20200210.2356
 ;; Package-X-Original-Version: 1.0.0
 ;; Version: 1.0.0

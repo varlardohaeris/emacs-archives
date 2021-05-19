@@ -1,0 +1,6 @@
+Package: helm-flymake
+Fetcher: github
+Source:  https://github.com/tam17aki/helm-flymake.git
+
+Updating /mnt/store/melpa/working/helm-flymake/
+No valid stable versions found for helm-flymake

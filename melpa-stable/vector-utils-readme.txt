@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'vector-utils)
@@ -54,7 +55,7 @@ Bugs
 
 TODO
 
-License
+; License
 
 Simplified BSD License:
 

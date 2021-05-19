@@ -1,0 +1,6 @@
+Package: bliss-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-bliss-theme.git
+
+Updating /mnt/store/melpa/working/bliss-theme/
+No valid stable versions found for bliss-theme

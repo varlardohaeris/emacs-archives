@@ -1,0 +1,6 @@
+Package: thingopt
+Fetcher: github
+Source:  https://github.com/emacsorphanage/thingopt.git
+
+Updating /mnt/store/melpa/working/thingopt/
+No valid stable versions found for thingopt

@@ -1,0 +1,6 @@
+Package: flymake-yaml
+Fetcher: github
+Source:  https://github.com/yasuyk/flymake-yaml.git
+
+Updating /mnt/store/melpa/working/flymake-yaml/
+No valid stable versions found for flymake-yaml

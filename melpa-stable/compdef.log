@@ -1,0 +1,6 @@
+Package: compdef
+Fetcher: github
+Source:  https://github.com/wurosh/compdef.git
+
+Updating /mnt/store/melpa/working/compdef/
+No valid stable versions found for compdef

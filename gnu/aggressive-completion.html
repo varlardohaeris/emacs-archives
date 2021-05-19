@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC>
+<html lang="en" xml:lang="en">
+    <head>
+        <title>GNU ELPA - aggressive-completion</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="shortcut icon" type="image/png" href="../favicon.png">
+        <link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
+        <link rel="stylesheet" type="text/css" href="../layout.css">
+        <script src="../javascript/jquery.min.js" type="text/javascript"></script>
+        <script src="../javascript/jquery.filtertable.min.js" type="text/javascript"></script>
+        <script src="../javascript/package-search.js" type="text/javascript"></script>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,width=device-width" />
+    </head>
+    <body>
+
+        <div class="wrapper">
+
+            <div class="header small">
+                <div class="container">
+                    <h1><a href="index.html">GNU ELPA</a> - aggressive-completion</h1>
+                </div>
+            </div>
+
+            <div class="container">
+<h2 class="package">aggressive-completion</h2><dl><dt>Description</dt><dd>Automatic minibuffer completion</dd>
+<dt>Latest</dt> <dd><a href="aggressive-completion-1.6.tar">aggressive-completion-1.6.tar</a>, 2021-Apr-18, 20.0&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>Tassilo Horn &lt;tsdh@gnu.org></dd>
+<dt>Home page</dt> <dd><a href="https://elpa.gnu.org/packages/aggressive-completion.html">https://elpa.gnu.org/packages/aggressive-completion.html</a></dd>
+<dt>Browse repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/aggressive-completion">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/aggressive-completion">Gitweb</a></dd>
+</dl><p>To install this package, run in Emacs:</p>
+                       <pre>M-x <span class="kw">package-install</span> RET <span class="kw">aggressive-completion</span> RET</pre><h2>Full description</h2><pre>
+Aggressive completion mode (`aggressive-completion-mode') is a minor mode
+which automatically completes for you after a short delay
+(`aggressive-completion-delay') and shows all possible completions using the
+standard completion help (unless the number of possible completions exceeds
+`aggressive-completion-max-shown-completions' or
+`aggressive-completion-auto-completion-help' is set to nil).
+
+Automatic completion is done after all commands in
+`aggressive-completion-auto-complete-commands'.  The function doing
+auto-completion is defined by `aggressive-completion-auto-complete-fn' which
+defaults to `minibuffer-complete'.
+
+Aggressive completion can be toggled using
+`aggressive-completion-toggle-auto-complete' (bound to `M-t' by default)
+which is especially useful when trying to find a not yet existing file or
+switch to a new buffer.
+
+You can switch from minibuffer to *Completions* buffer and back again using
+`aggressive-completion-switch-to-completions' (bound to `M-c' by default).
+All keys bound to this command in `aggressive-completion-minibuffer-map'
+will be bound to `other-window' in `completion-list-mode-map' so that those
+keys act as switch-back-and-forth commands.
+
+Aggressive completion can be used together, in theory, with other completion
+UIs.  Using the following configuration, it works quite well with the
+vertico package:
+
+Disable completion help since vertico shows the candidates anyhow.
+
+(setq aggressive-completion-auto-completion-help nil)
+
+A command which just expands the common part without selecting a candidate.
+
+(defun th/vertico-complete ()
+  (interactive)
+  (minibuffer-complete)
+  (when vertico--count-ov ;; Only if vertico is active.
+    (vertico--exhibit)))
+
+Use that for auto-completion.
+
+(setq aggressive-completion-auto-complete-fn #'th/vertico-complete)
+
+The inline help messages like "Next char not uniqe" make point bump to the
+right because of vertico's overlays which is a bit annoying.  And since you
+already see your candidates anyhow, the messages aren't important anyhow.
+
+(setq completion-show-inline-help nil)
+</pre>
+<h2>Old versions</h2><table>
+<tr><td><a href="aggressive-completion-1.5.tar.lz">aggressive-completion-1.5.tar.lz</a></td><td>2021-Apr-10</td><td>2.98&nbsp;KiB</td>
+<tr><td><a href="aggressive-completion-1.4.tar.lz">aggressive-completion-1.4.tar.lz</a></td><td>2021-Apr-05</td><td>2.56&nbsp;KiB</td>
+<tr><td><a href="aggressive-completion-1.3.tar.lz">aggressive-completion-1.3.tar.lz</a></td><td>2021-Apr-04</td><td>2.57&nbsp;KiB</td>
+<tr><td><a href="aggressive-completion-1.1.tar.lz">aggressive-completion-1.1.tar.lz</a></td><td>2021-Apr-04</td><td>2.67&nbsp;KiB</td>
+<tr><td><a href="aggressive-completion-1.0.tar.lz">aggressive-completion-1.0.tar.lz</a></td><td>2021-Apr-03</td><td>2.62&nbsp;KiB</td>
+</table>
+</body>

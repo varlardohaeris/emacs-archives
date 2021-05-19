@@ -1,0 +1,11 @@
+Package: audio-notes-mode
+Fetcher: github
+Source:  https://github.com/Malabarba/audio-notes-mode.git
+
+Updating /mnt/store/melpa/working/audio-notes-mode/
+Built audio-notes-mode in 5.060s, finished at Wed May 19 02:59:59 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 02:59 packages/audio-notes-mode-20170611.2159.el
+4.0K -rw-r--r-- 1 root root  420 May 19 02:59 packages/audio-notes-mode-20170611.2159.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 02:59 packages/audio-notes-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 02:59 packages/audio-notes-mode-readme.txt

@@ -1,0 +1,6 @@
+Package: pbcopy
+Fetcher: github
+Source:  https://github.com/emacsfodder/pbcopy.el.git
+
+Updating /mnt/store/melpa/working/pbcopy/
+No valid stable versions found for pbcopy

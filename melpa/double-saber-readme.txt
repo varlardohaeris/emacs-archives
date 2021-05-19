@@ -1,3 +1,4 @@
+
 A minor mode for filtering search buffer output.
 
 With double-saber-mode enabled, use "d" to delete words and "x" to narrow.

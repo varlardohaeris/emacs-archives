@@ -1,0 +1,11 @@
+Package: dimmer
+Fetcher: github
+Source:  https://github.com/gonewest818/dimmer.el.git
+
+Updating /mnt/store/melpa/working/dimmer/
+Built dimmer in 7.285s, finished at Wed May 19 04:27:32 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  24K May 19 04:27 packages-stable/dimmer-0.4.2.el
+4.0K -rw-r--r-- 1 root root  309 May 19 04:27 packages-stable/dimmer-0.4.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dimmer-badge.svg
+4.0K -rw-r--r-- 1 root root 3.1K May 19 04:27 packages-stable/dimmer-readme.txt

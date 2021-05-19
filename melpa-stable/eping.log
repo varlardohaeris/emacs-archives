@@ -1,0 +1,23 @@
+Package: eping
+Fetcher: github
+Source:  https://github.com/sean-hut/eping.git
+
+Updating /mnt/store/melpa/working/eping/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eping/
+  to /tmp/epingCwHbIc/eping-0.1.1
+    eping.el -> eping.el
+    eping.info -> eping.info
+    eping.texinfo -> eping.texinfo
+Created eping-0.1.1.tar containing:
+  eping-0.1.1/
+  eping-0.1.1/dir
+  eping-0.1.1/eping-pkg.el
+  eping-0.1.1/eping.el
+  eping-0.1.1/eping.info
+Built eping in 2.607s, finished at Wed May 19 04:31:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  410 May 19 04:31 packages-stable/eping-0.1.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:31 packages-stable/eping-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eping-badge.svg
+4.0K -rw-r--r-- 1 root root  143 May 19 04:31 packages-stable/eping-readme.txt

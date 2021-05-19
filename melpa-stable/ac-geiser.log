@@ -1,0 +1,20 @@
+Package: ac-geiser
+Fetcher: github
+Source:  https://github.com/xiaohanyu/ac-geiser.git
+
+Updating /mnt/store/melpa/working/ac-geiser/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ac-geiser/
+  to /tmp/ac-geiserCyBiVb/ac-geiser-0.1
+    ac-geiser-pkg.el -> ac-geiser-pkg.el
+    ac-geiser.el -> ac-geiser.el
+Created ac-geiser-0.1.tar containing:
+  ac-geiser-0.1/
+  ac-geiser-0.1/ac-geiser-pkg.el
+  ac-geiser-0.1/ac-geiser.el
+Built ac-geiser in 2.860s, finished at Wed May 19 04:18:22 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  380 May 19 04:18 packages-stable/ac-geiser-0.1.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 04:18 packages-stable/ac-geiser-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ac-geiser-badge.svg
+4.0K -rw-r--r-- 1 root root   68 May 19 04:18 packages-stable/ac-geiser-readme.txt

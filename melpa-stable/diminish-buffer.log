@@ -1,0 +1,11 @@
+Package: diminish-buffer
+Fetcher: github
+Source:  https://github.com/jcs-elpa/diminish-buffer.git
+
+Updating /mnt/store/melpa/working/diminish-buffer/
+Built diminish-buffer in 5.924s, finished at Wed May 19 04:27:30 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.1K May 19 04:27 packages-stable/diminish-buffer-0.1.1.el
+4.0K -rw-r--r-- 1 root root  362 May 19 04:27 packages-stable/diminish-buffer-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/diminish-buffer-badge.svg
+4.0K -rw-r--r-- 1 root root   43 May 19 04:27 packages-stable/diminish-buffer-readme.txt

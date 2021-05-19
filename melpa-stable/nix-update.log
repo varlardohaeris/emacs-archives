@@ -1,0 +1,6 @@
+Package: nix-update
+Fetcher: github
+Source:  https://github.com/jwiegley/nix-update-el.git
+
+Updating /mnt/store/melpa/working/nix-update/
+No valid stable versions found for nix-update

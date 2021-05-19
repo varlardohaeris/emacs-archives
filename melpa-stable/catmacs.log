@@ -1,0 +1,11 @@
+Package: catmacs
+Fetcher: git
+Source:  https://bitbucket.org/pymaximus/catmacs
+
+Updating /mnt/store/melpa/working/catmacs/
+Built catmacs in 2.681s, finished at Wed May 19 04:22:45 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:22 packages-stable/catmacs-0.1.1.el
+4.0K -rw-r--r-- 1 root root  398 May 19 04:22 packages-stable/catmacs-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/catmacs-badge.svg
+4.0K -rw-r--r-- 1 root root  333 May 19 04:22 packages-stable/catmacs-readme.txt

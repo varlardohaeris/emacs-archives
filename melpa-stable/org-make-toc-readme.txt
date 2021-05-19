@@ -2,14 +2,14 @@ This package makes it easy to have one or more customizable tables of contents i
 They can be updated manually, or automatically when the file is saved.  Links to headings are
 created compatible with GitHub's Org renderer.
 
-Installation
+;; Installation
 
 Install the packages `dash' and `s'.  Then put this file in your `load-path', and put this in
 your init file:
 
   (require 'org-make-toc)
 
-Usage
+;; Usage
 
 A document may have any number of tables of contents (TOCs), each of
 which may list entries in a highly configurable way.  To make a basic

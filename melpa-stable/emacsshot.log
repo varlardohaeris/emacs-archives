@@ -1,0 +1,21 @@
+Package: emacsshot
+Fetcher: gitlab
+Source:  https://gitlab.com/marcowahl/emacsshot.git
+
+Updating /mnt/store/melpa/working/emacsshot/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsshot/
+  to /tmp/emacsshotme3QBm/emacsshot-0.5.0
+    emacsshot.el -> emacsshot.el
+    test-emacsshot.el -> test-emacsshot.el
+Created emacsshot-0.5.0.tar containing:
+  emacsshot-0.5.0/
+  emacsshot-0.5.0/emacsshot-pkg.el
+  emacsshot-0.5.0/emacsshot.el
+  emacsshot-0.5.0/test-emacsshot.el
+Built emacsshot in 2.747s, finished at Wed May 19 04:30:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  357 May 19 04:30 packages-stable/emacsshot-0.5.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:30 packages-stable/emacsshot-0.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emacsshot-badge.svg
+8.0K -rw-r--r-- 1 root root 4.4K May 19 04:30 packages-stable/emacsshot-readme.txt

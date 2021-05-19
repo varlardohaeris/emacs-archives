@@ -1,0 +1,21 @@
+Package: linguistic
+Fetcher: github
+Source:  https://github.com/andcarnivorous/linguistic.git
+
+Updating /mnt/store/melpa/working/linguistic/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/linguistic/
+  to /tmp/linguisticJzBBvh/linguistic-0.2
+    linguistic.el -> linguistic.el
+    graphs.org -> graphs.org
+Created linguistic-0.2.tar containing:
+  linguistic-0.2/
+  linguistic-0.2/graphs.org
+  linguistic-0.2/linguistic-pkg.el
+  linguistic-0.2/linguistic.el
+Built linguistic in 2.938s, finished at Wed May 19 01:32:20 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  424 May 19 01:32 packages-stable/linguistic-0.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:32 packages-stable/linguistic-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/linguistic-badge.svg
+4.0K -rw-r--r-- 1 root root  265 May 19 01:32 packages-stable/linguistic-readme.txt

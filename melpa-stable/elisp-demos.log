@@ -1,0 +1,21 @@
+Package: elisp-demos
+Fetcher: github
+Source:  https://github.com/xuchunyang/elisp-demos.git
+
+Updating /mnt/store/melpa/working/elisp-demos/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elisp-demos/
+  to /tmp/elisp-demosEWU72b/elisp-demos-2020.2.19
+    elisp-demos.el -> elisp-demos.el
+    elisp-demos.org -> elisp-demos.org
+Created elisp-demos-2020.2.19.tar containing:
+  elisp-demos-2020.2.19/
+  elisp-demos-2020.2.19/elisp-demos-pkg.el
+  elisp-demos-2020.2.19/elisp-demos.el
+  elisp-demos-2020.2.19/elisp-demos.org
+Built elisp-demos in 4.408s, finished at Wed May 19 04:30:11 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  323 May 19 04:30 packages-stable/elisp-demos-2020.2.19.entry
+260K -rw-r--r-- 1 root root 260K May 19 04:30 packages-stable/elisp-demos-2020.2.19.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elisp-demos-badge.svg
+4.0K -rw-r--r-- 1 root root   16 May 19 04:30 packages-stable/elisp-demos-readme.txt

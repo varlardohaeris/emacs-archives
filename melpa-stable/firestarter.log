@@ -1,0 +1,6 @@
+Package: firestarter
+Fetcher: git
+Source:  https://depp.brause.cc/firestarter.git
+
+Updating /mnt/store/melpa/working/firestarter/
+No valid stable versions found for firestarter

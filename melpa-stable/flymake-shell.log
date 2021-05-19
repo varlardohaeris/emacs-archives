@@ -1,0 +1,11 @@
+Package: flymake-shell
+Fetcher: github
+Source:  https://github.com/purcell/flymake-shell.git
+
+Updating /mnt/store/melpa/working/flymake-shell/
+Built flymake-shell in 3.147s, finished at Wed May 19 04:35:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.6K May 19 04:35 packages-stable/flymake-shell-0.8.el
+4.0K -rw-r--r-- 1 root root  348 May 19 04:35 packages-stable/flymake-shell-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-shell-badge.svg
+4.0K -rw-r--r-- 1 root root  152 May 19 04:35 packages-stable/flymake-shell-readme.txt

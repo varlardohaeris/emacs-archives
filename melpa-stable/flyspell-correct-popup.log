@@ -1,0 +1,11 @@
+Package: flyspell-correct-popup
+Fetcher: github
+Source:  https://github.com/d12frosted/flyspell-correct.git
+
+Updating /mnt/store/melpa/working/flyspell-correct-popup/
+Built flyspell-correct-popup in 3.065s, finished at Wed May 19 04:35:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.1K May 19 04:35 packages-stable/flyspell-correct-popup-0.6.1.el
+4.0K -rw-r--r-- 1 root root  439 May 19 04:35 packages-stable/flyspell-correct-popup-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flyspell-correct-popup-badge.svg
+4.0K -rw-r--r-- 1 root root  482 May 19 04:35 packages-stable/flyspell-correct-popup-readme.txt

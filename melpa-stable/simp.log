@@ -1,0 +1,6 @@
+Package: simp
+Fetcher: github
+Source:  https://github.com/re5et/simp.git
+
+Updating /mnt/store/melpa/working/simp/
+No valid stable versions found for simp

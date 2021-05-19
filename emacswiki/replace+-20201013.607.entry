@@ -1,0 +1,2 @@
+
+(replace+ . [(20201013 607) nil "Extensions to `replace.el'." single ((:commit . "1f5ed20221fd9dc4f2e275a353c43c246b47bc3b") (:keywords "matching" "help" "internal" "tools" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/replace%2b.el"))])

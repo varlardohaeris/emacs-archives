@@ -1,0 +1,11 @@
+Package: evil-numbers
+Fetcher: github
+Source:  https://github.com/juliapath/evil-numbers.git
+
+Updating /mnt/store/melpa/working/evil-numbers/
+Built evil-numbers in 3.029s, finished at Wed May 19 04:32:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.1K May 19 04:32 packages-stable/evil-numbers-0.4.el
+4.0K -rw-r--r-- 1 root root  418 May 19 04:32 packages-stable/evil-numbers-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-numbers-badge.svg
+4.0K -rw-r--r-- 1 root root  791 May 19 04:32 packages-stable/evil-numbers-readme.txt

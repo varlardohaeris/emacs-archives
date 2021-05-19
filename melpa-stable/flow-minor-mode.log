@@ -1,0 +1,11 @@
+Package: flow-minor-mode
+Fetcher: github
+Source:  https://github.com/an-sh/flow-minor-mode.git
+
+Updating /mnt/store/melpa/working/flow-minor-mode/
+Built flow-minor-mode in 3.479s, finished at Wed May 19 04:34:20 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:34 packages-stable/flow-minor-mode-0.3.el
+4.0K -rw-r--r-- 1 root root  223 May 19 04:34 packages-stable/flow-minor-mode-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flow-minor-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  588 May 19 04:34 packages-stable/flow-minor-mode-readme.txt

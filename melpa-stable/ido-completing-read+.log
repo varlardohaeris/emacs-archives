@@ -1,0 +1,11 @@
+Package: ido-completing-read+
+Fetcher: github
+Source:  https://github.com/DarwinAwardWinner/ido-completing-read-plus.git
+
+Updating /mnt/store/melpa/working/ido-completing-read+/
+Built ido-completing-read+ in 3.381s, finished at Wed May 19 04:42:42 2021
+ ✓ Success:
+ 52K -rw-r--r-- 1 root root  52K May 19 04:42 packages-stable/ido-completing-read+-4.13.el
+4.0K -rw-r--r-- 1 root root  448 May 19 04:42 packages-stable/ido-completing-read+-4.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/ido-completing-read+-badge.svg
+4.0K -rw-r--r-- 1 root root 3.0K May 19 04:42 packages-stable/ido-completing-read+-readme.txt

@@ -4,7 +4,7 @@ Note: pretty-rendering is shamelessly stolen from haskell-mode.
 
 Here are some example of configuration:
 
-Installation:
+; Installation:
 
 You can either manually install minizinc-mode or automatically
 install from melpa. Add the following line into your ~/.emacs

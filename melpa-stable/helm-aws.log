@@ -1,0 +1,11 @@
+Package: helm-aws
+Fetcher: github
+Source:  https://github.com/istib/helm-aws.git
+
+Updating /mnt/store/melpa/working/helm-aws/
+Built helm-aws in 2.965s, finished at Wed May 19 04:39:46 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K May 19 04:39 packages-stable/helm-aws-1.0.0.el
+4.0K -rw-r--r-- 1 root root  288 May 19 04:39 packages-stable/helm-aws-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-aws-badge.svg
+4.0K -rw-r--r-- 1 root root  305 May 19 04:39 packages-stable/helm-aws-readme.txt

@@ -1,0 +1,6 @@
+Package: company-ghci
+Fetcher: github
+Source:  https://github.com/horellana/company-ghci.git
+
+Updating /mnt/store/melpa/working/company-ghci/
+No valid stable versions found for company-ghci

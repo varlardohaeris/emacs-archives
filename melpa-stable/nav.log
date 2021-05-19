@@ -1,0 +1,6 @@
+Package: nav
+Fetcher: github
+Source:  https://github.com/ijt/emacs-nav.git
+
+Updating /mnt/store/melpa/working/nav/
+No valid stable versions found for nav

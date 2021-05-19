@@ -1,0 +1,6 @@
+Package: handlebars-mode
+Fetcher: github
+Source:  https://github.com/danielevans/handlebars-mode.git
+
+Updating /mnt/store/melpa/working/handlebars-mode/
+No valid stable versions found for handlebars-mode

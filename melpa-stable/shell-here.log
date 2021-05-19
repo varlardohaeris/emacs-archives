@@ -1,0 +1,6 @@
+Package: shell-here
+Fetcher: github
+Source:  https://github.com/ieure/shell-here.git
+
+Updating /mnt/store/melpa/working/shell-here/
+No valid stable versions found for shell-here

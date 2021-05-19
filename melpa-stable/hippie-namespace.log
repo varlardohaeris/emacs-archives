@@ -1,0 +1,11 @@
+Package: hippie-namespace
+Fetcher: github
+Source:  https://github.com/rolandwalker/hippie-namespace.git
+
+Updating /mnt/store/melpa/working/hippie-namespace/
+Built hippie-namespace in 3.048s, finished at Wed May 19 04:41:51 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  31K May 19 04:41 packages-stable/hippie-namespace-0.5.8.el
+4.0K -rw-r--r-- 1 root root  418 May 19 04:41 packages-stable/hippie-namespace-0.5.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/hippie-namespace-badge.svg
+8.0K -rw-r--r-- 1 root root 4.7K May 19 04:41 packages-stable/hippie-namespace-readme.txt

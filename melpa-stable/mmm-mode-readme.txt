@@ -4,7 +4,7 @@ function `mmm-mode' for more detailed information. This file
 contains mode on/off functions and the mode keymap, but mostly
 just loads all the subsidiary files.
 
-{{{ Parameter Naming
+;{{{ Parameter Naming
 
 Since version 0.3.7, I've tried to use a uniform scheme for naming
 parameters. Here's a brief summary.
@@ -15,8 +15,8 @@ FRONT- and BACK-OFFSET are the offsets from delimiter matches.
 FRONT-BEG through BACK-END are the endings of the delimiters.
 START and STOP bound actions, like searching, fontification, etc.
 
-}}}
-{{{ CL and Parameters
+;}}}
+;{{{ CL and Parameters
 
 Keyword parameters can be nice because it makes it easier to see
 what's getting passed as what. But I try not to use them in user

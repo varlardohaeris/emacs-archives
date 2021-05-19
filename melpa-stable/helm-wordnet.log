@@ -1,0 +1,6 @@
+Package: helm-wordnet
+Fetcher: github
+Source:  https://github.com/raghavgautam/helm-wordnet.git
+
+Updating /mnt/store/melpa/working/helm-wordnet/
+No valid stable versions found for helm-wordnet

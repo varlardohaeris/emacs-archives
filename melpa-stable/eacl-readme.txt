@@ -7,6 +7,9 @@ You can override the project root by setting `eacl-project-root',
 List of commands,
 
 `eacl-complete-line' complete single line.
+Line candidates are extracted in project root or N level of parent directory.
+N is the optional parameter of `eacl-complete-line'.
+
 `eacl-complete-multiline' completes multiline code or html tag.
 
 Modify `grep-find-ignored-directories' and `grep-find-ignored-files'
@@ -43,5 +46,6 @@ The content of ".dir-locals.el":
 
 "git grep" is automatically used for grepping in git repository.
 Please note "git grep" does NOT use `grep-find-ignored-directories' OR
-`grep-find-ignored-files'. You could set `eacl-git-grep-untracked' to tell
-git whether untracked files should be grepped in the repository.
+`grep-find-ignored-files'.
+
+Set `eacl-git-grep-untracked' if untracked files should be git grepped.

@@ -1,0 +1,6 @@
+Package: zlc
+Fetcher: github
+Source:  https://github.com/mooz/emacs-zlc.git
+
+Updating /mnt/store/melpa/working/zlc/
+No valid stable versions found for zlc

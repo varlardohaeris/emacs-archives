@@ -1,0 +1,6 @@
+Package: keg-mode
+Fetcher: github
+Source:  https://github.com/conao3/keg.el.git
+
+Updating /mnt/store/melpa/working/keg-mode/
+No valid stable versions found for keg-mode

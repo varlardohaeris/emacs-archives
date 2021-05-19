@@ -1,0 +1,11 @@
+Package: flycheck-checkpatch
+Fetcher: github
+Source:  https://github.com/zpp0/flycheck-checkpatch.git
+
+Updating /mnt/store/melpa/working/flycheck-checkpatch/
+Built flycheck-checkpatch in 2.921s, finished at Wed May 19 04:34:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.6K May 19 04:34 packages-stable/flycheck-checkpatch-0.1.el
+4.0K -rw-r--r-- 1 root root  431 May 19 04:34 packages-stable/flycheck-checkpatch-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-checkpatch-badge.svg
+4.0K -rw-r--r-- 1 root root  228 May 19 04:34 packages-stable/flycheck-checkpatch-readme.txt

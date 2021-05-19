@@ -1,0 +1,6 @@
+Package: minizinc-mode
+Fetcher: github
+Source:  https://github.com/m00nlight/minizinc-mode.git
+
+Updating /mnt/store/melpa/working/minizinc-mode/
+No valid stable versions found for minizinc-mode

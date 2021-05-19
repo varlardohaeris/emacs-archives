@@ -1,0 +1,12 @@
+Package: right-click-context
+Fetcher: github
+Source:  https://github.com/zonuexe/right-click-context.git
+
+Updating /mnt/store/melpa/working/right-click-context/
+Built right-click-context in 2.983s, finished at Wed May 19 01:46:47 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.3K Jan  5  2019 packages-stable/right-click-context-0.2.0.el
+ 12K -rw-r--r-- 1 root root 9.6K May 19 01:46 packages-stable/right-click-context-0.3.0.el
+4.0K -rw-r--r-- 1 root root  459 May 19 01:46 packages-stable/right-click-context-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/right-click-context-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/right-click-context-readme.txt

@@ -1,0 +1,11 @@
+Package: niceify-info
+Fetcher: github
+Source:  https://github.com/aaron-em/niceify-info.el.git
+
+Updating /mnt/store/melpa/working/niceify-info/
+Built niceify-info in 2.900s, finished at Wed May 19 01:37:18 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 01:37 packages-stable/niceify-info-1.0.1.el
+4.0K -rw-r--r-- 1 root root  152 May 19 01:37 packages-stable/niceify-info-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/niceify-info-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K May 19 01:37 packages-stable/niceify-info-readme.txt

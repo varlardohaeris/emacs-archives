@@ -1,0 +1,6 @@
+Package: unicode-troll-stopper
+Fetcher: github
+Source:  https://github.com/camsaul/emacs-unicode-troll-stopper.git
+
+Updating /mnt/store/melpa/working/unicode-troll-stopper/
+No valid stable versions found for unicode-troll-stopper

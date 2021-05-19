@@ -1,0 +1,6 @@
+Package: chinese-number
+Fetcher: github
+Source:  https://github.com/zhcosin/chinese-number.git
+
+Updating /mnt/store/melpa/working/chinese-number/
+No valid stable versions found for chinese-number

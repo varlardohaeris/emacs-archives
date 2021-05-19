@@ -1,0 +1,11 @@
+Package: turing-machine
+Fetcher: github
+Source:  https://github.com/dieggsy/turing-machine.git
+
+Updating /mnt/store/melpa/working/turing-machine/
+Built turing-machine in 4.447s, finished at Wed May 19 04:11:45 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 8.0K May 19 04:11 packages/turing-machine-20180222.438.el
+4.0K -rw-r--r-- 1 root root  413 May 19 04:11 packages/turing-machine-20180222.438.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/turing-machine-badge.svg
+4.0K -rw-r--r-- 1 root root  122 May 19 04:11 packages/turing-machine-readme.txt

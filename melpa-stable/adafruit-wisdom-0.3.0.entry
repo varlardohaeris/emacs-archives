@@ -1,2 +1,13 @@
-
-(adafruit-wisdom . [(0 3 0) ((emacs (25)) (request (0 3 1))) "Get/display adafruit.com quotes" single ((:commit . "50414eaac3dbeb67a1329833b912d26b164873eb") (:keywords "games") (:authors ("Neil Okamoto" . "neil.okamoto+melpa@gmail.com")) (:maintainer "Neil Okamoto" . "neil.okamoto+melpa@gmail.com") (:url . "https://github.com/gonewest818/adafruit-wisdom.el"))])
+(adafruit-wisdom .
+		 [(0 3 0)
+		  ((emacs
+		    (25))
+		   (request
+		    (0 3 1)))
+		  "Get/display adafruit.com quotes" single
+		  ((:commit . "50414eaac3dbeb67a1329833b912d26b164873eb")
+		   (:authors
+		    ("Neil Okamoto" . "neil.okamoto+melpa@gmail.com"))
+		   (:maintainer "Neil Okamoto" . "neil.okamoto+melpa@gmail.com")
+		   (:keywords "games")
+		   (:url . "https://github.com/gonewest818/adafruit-wisdom.el"))])

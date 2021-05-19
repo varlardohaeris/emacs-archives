@@ -1,0 +1,6 @@
+Package: undo-propose
+Fetcher: github
+Source:  https://github.com/jackkamm/undo-propose-el.git
+
+Updating /mnt/store/melpa/working/undo-propose/
+No valid stable versions found for undo-propose

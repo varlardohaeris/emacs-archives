@@ -1,3 +1,4 @@
+
 `ruby-electric-mode' accelerates code writing in ruby by making
 some keys "electric" and automatically supplying with closing
 parentheses and "end" as appropriate.

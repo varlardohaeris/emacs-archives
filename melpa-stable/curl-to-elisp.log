@@ -1,0 +1,6 @@
+Package: curl-to-elisp
+Fetcher: github
+Source:  https://github.com/xuchunyang/curl-to-elisp.git
+
+Updating /mnt/store/melpa/working/curl-to-elisp/
+No valid stable versions found for curl-to-elisp

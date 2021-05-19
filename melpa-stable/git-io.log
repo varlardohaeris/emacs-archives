@@ -1,0 +1,6 @@
+Package: git-io
+Fetcher: github
+Source:  https://github.com/tejasbubane/emacs-git-io.git
+
+Updating /mnt/store/melpa/working/git-io/
+No valid stable versions found for git-io

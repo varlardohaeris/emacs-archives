@@ -1,0 +1,6 @@
+Package: simple-call-tree
+Fetcher: github
+Source:  https://github.com/vapniks/simple-call-tree.git
+
+Updating /mnt/store/melpa/working/simple-call-tree/
+No valid stable versions found for simple-call-tree

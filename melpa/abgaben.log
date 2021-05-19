@@ -1,0 +1,11 @@
+Package: abgaben
+Fetcher: gitlab
+Source:  https://gitlab.com/akoehn/abgaben.git
+
+Updating /mnt/store/melpa/working/abgaben/
+Built abgaben in 4.578s, finished at Wed May 19 02:57:32 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 02:57 packages/abgaben-20171119.646.el
+4.0K -rw-r--r-- 1 root root  411 May 19 02:57 packages/abgaben-20171119.646.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 02:57 packages/abgaben-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K May 19 02:57 packages/abgaben-readme.txt

@@ -1,0 +1,6 @@
+Package: apt-sources-list
+Fetcher: git
+Source:  https://git.korewanetadesu.com/apt-sources-list.git
+
+Updating /mnt/store/melpa/working/apt-sources-list/
+No valid stable versions found for apt-sources-list

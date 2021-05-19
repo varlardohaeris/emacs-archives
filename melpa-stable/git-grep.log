@@ -1,0 +1,6 @@
+Package: git-grep
+Fetcher: github
+Source:  https://github.com/tychoish/git-grep.el.git
+
+Updating /mnt/store/melpa/working/git-grep/
+No valid stable versions found for git-grep

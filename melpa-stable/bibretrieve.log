@@ -1,0 +1,6 @@
+Package: bibretrieve
+Fetcher: github
+Source:  https://github.com/pzorin/bibretrieve.git
+
+Updating /mnt/store/melpa/working/bibretrieve/
+No valid stable versions found for bibretrieve

@@ -1,0 +1,11 @@
+Package: eacl
+Fetcher: github
+Source:  https://github.com/redguardtoo/eacl.git
+
+Updating /mnt/store/melpa/working/eacl/
+Built eacl in 3.202s, finished at Wed May 19 04:29:09 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 04:29 packages-stable/eacl-2.0.4.el
+4.0K -rw-r--r-- 1 root root  386 May 19 04:29 packages-stable/eacl-2.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eacl-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 04:29 packages-stable/eacl-readme.txt

@@ -1,0 +1,6 @@
+Package: load-bash-alias
+Fetcher: github
+Source:  https://github.com/daviderestivo/load-bash-alias.git
+
+Updating /mnt/store/melpa/working/load-bash-alias/
+No valid stable versions found for load-bash-alias

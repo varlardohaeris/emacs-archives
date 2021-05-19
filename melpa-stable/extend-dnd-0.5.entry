@@ -1,2 +1,9 @@
-
-(extend-dnd . [(0 5) nil "R drag and Drop" tar ((:commit . "a1923d57f8f5e862cc66c189b5e6627bc84a2119") (:keywords "extend" "drag and drop") (:authors ("Matthew L. Fidler")) (:maintainer "Matthew L. Fidler") (:url . "https://github.com/mlf176f2/extend-dnd"))])
+(extend-dnd .
+	    [(0 5)
+	     nil "R drag and Drop" tar
+	     ((:commit . "a1923d57f8f5e862cc66c189b5e6627bc84a2119")
+	      (:authors
+	       ("Matthew L. Fidler"))
+	      (:maintainer "Matthew L. Fidler")
+	      (:keywords "extend" "drag and drop")
+	      (:url . "https://github.com/mlf176f2/extend-dnd"))])

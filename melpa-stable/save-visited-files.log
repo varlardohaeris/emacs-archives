@@ -1,0 +1,6 @@
+Package: save-visited-files
+Fetcher: github
+Source:  https://github.com/nflath/save-visited-files.git
+
+Updating /mnt/store/melpa/working/save-visited-files/
+No valid stable versions found for save-visited-files

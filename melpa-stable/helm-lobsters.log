@@ -1,0 +1,6 @@
+Package: helm-lobsters
+Fetcher: github
+Source:  https://github.com/julienXX/helm-lobste.rs.git
+
+Updating /mnt/store/melpa/working/helm-lobsters/
+Single file helm-lobste.rs.el does not match package name helm-lobsters

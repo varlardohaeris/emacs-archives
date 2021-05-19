@@ -1,0 +1,53 @@
+Package: clojure-snippets
+Fetcher: github
+Source:  https://github.com/mpenet/clojure-snippets.git
+
+Updating /mnt/store/melpa/working/clojure-snippets/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/clojure-snippets/
+  to /tmp/clojure-snippetslUHvTO/clojure-snippets-1.0.1
+    clojure-snippets-pkg.el -> clojure-snippets-pkg.el
+    clojure-snippets.el -> clojure-snippets.el
+    snippets => snippets
+Created clojure-snippets-1.0.1.tar containing:
+  clojure-snippets-1.0.1/
+  clojure-snippets-1.0.1/clojure-snippets-pkg.el
+  clojure-snippets-1.0.1/clojure-snippets.el
+  clojure-snippets-1.0.1/snippets/
+  clojure-snippets-1.0.1/snippets/clojure-mode/
+  clojure-snippets-1.0.1/snippets/clojure-mode/bench
+  clojure-snippets-1.0.1/snippets/clojure-mode/com
+  clojure-snippets-1.0.1/snippets/clojure-mode/def
+  clojure-snippets-1.0.1/snippets/clojure-mode/defm
+  clojure-snippets-1.0.1/snippets/clojure-mode/defn
+  clojure-snippets-1.0.1/snippets/clojure-mode/defr
+  clojure-snippets-1.0.1/snippets/clojure-mode/deft
+  clojure-snippets-1.0.1/snippets/clojure-mode/doseq
+  clojure-snippets-1.0.1/snippets/clojure-mode/fn
+  clojure-snippets-1.0.1/snippets/clojure-mode/for
+  clojure-snippets-1.0.1/snippets/clojure-mode/if
+  clojure-snippets-1.0.1/snippets/clojure-mode/ifl
+  clojure-snippets-1.0.1/snippets/clojure-mode/import
+  clojure-snippets-1.0.1/snippets/clojure-mode/is
+  clojure-snippets-1.0.1/snippets/clojure-mode/let
+  clojure-snippets-1.0.1/snippets/clojure-mode/letfn
+  clojure-snippets-1.0.1/snippets/clojure-mode/main
+  clojure-snippets-1.0.1/snippets/clojure-mode/map
+  clojure-snippets-1.0.1/snippets/clojure-mode/map.lambda
+  clojure-snippets-1.0.1/snippets/clojure-mode/mdoc
+  clojure-snippets-1.0.1/snippets/clojure-mode/ns
+  clojure-snippets-1.0.1/snippets/clojure-mode/opts
+  clojure-snippets-1.0.1/snippets/clojure-mode/pr
+  clojure-snippets-1.0.1/snippets/clojure-mode/print
+  clojure-snippets-1.0.1/snippets/clojure-mode/reduce
+  clojure-snippets-1.0.1/snippets/clojure-mode/require
+  clojure-snippets-1.0.1/snippets/clojure-mode/test
+  clojure-snippets-1.0.1/snippets/clojure-mode/try
+  clojure-snippets-1.0.1/snippets/clojure-mode/use
+  clojure-snippets-1.0.1/snippets/clojure-mode/when
+  clojure-snippets-1.0.1/snippets/clojure-mode/whenl
+Built clojure-snippets in 2.975s, finished at Wed May 19 04:23:40 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  294 May 19 04:23 packages-stable/clojure-snippets-1.0.1.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 04:23 packages-stable/clojure-snippets-1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clojure-snippets-badge.svg

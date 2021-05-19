@@ -1,0 +1,6 @@
+Package: arduino-mode
+Fetcher: github
+Source:  https://github.com/stardiviner/arduino-mode.git
+
+Updating /mnt/store/melpa/working/arduino-mode/
+No valid stable versions found for arduino-mode

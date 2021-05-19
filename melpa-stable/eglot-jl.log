@@ -1,0 +1,25 @@
+Package: eglot-jl
+Fetcher: github
+Source:  https://github.com/non-Jedi/eglot-jl.git
+
+Updating /mnt/store/melpa/working/eglot-jl/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eglot-jl/
+  to /tmp/eglot-jlxH7FnD/eglot-jl-2.1.1
+    eglot-jl.el -> eglot-jl.el
+    eglot-jl.jl -> eglot-jl.jl
+    Manifest.toml -> Manifest.toml
+    Project.toml -> Project.toml
+Created eglot-jl-2.1.1.tar containing:
+  eglot-jl-2.1.1/
+  eglot-jl-2.1.1/Manifest.toml
+  eglot-jl-2.1.1/Project.toml
+  eglot-jl-2.1.1/eglot-jl-pkg.el
+  eglot-jl-2.1.1/eglot-jl.el
+  eglot-jl-2.1.1/eglot-jl.jl
+Built eglot-jl in 2.712s, finished at Wed May 19 04:29:37 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  438 May 19 04:29 packages-stable/eglot-jl-2.1.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:29 packages-stable/eglot-jl-2.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eglot-jl-badge.svg
+4.0K -rw-r--r-- 1 root root  332 May 19 04:29 packages-stable/eglot-jl-readme.txt

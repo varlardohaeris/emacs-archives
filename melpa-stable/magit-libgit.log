@@ -1,0 +1,6 @@
+Package: magit-libgit
+Fetcher: github
+Source:  https://github.com/magit/magit.git
+
+Updating /mnt/store/melpa/working/magit-libgit/
+No matching file(s) found in /mnt/store/melpa/working/magit-libgit/: (lisp/magit-libgit.el)

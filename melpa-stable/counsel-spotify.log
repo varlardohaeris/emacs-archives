@@ -1,0 +1,6 @@
+Package: counsel-spotify
+Fetcher: github
+Source:  https://github.com/Lautaro-Garcia/counsel-spotify.git
+
+Updating /mnt/store/melpa/working/counsel-spotify/
+No valid stable versions found for counsel-spotify

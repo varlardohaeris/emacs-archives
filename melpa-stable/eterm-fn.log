@@ -1,0 +1,6 @@
+Package: eterm-fn
+Fetcher: github
+Source:  https://github.com/oitofelix/eterm-fn.git
+
+Updating /mnt/store/melpa/working/eterm-fn/
+No valid stable versions found for eterm-fn

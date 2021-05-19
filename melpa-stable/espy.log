@@ -1,0 +1,6 @@
+Package: espy
+Fetcher: github
+Source:  https://github.com/walseb/espy.git
+
+Updating /mnt/store/melpa/working/espy/
+No valid stable versions found for espy

@@ -4,7 +4,7 @@ Major mode for editing newLISP script.
 - keyword completion
 - support for inferior processes
 
-Installation:
+; Installation:
 
 You should add this to .emacs file after putting it on your load-path:
 

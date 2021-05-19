@@ -1,0 +1,6 @@
+Package: constant-theme
+Fetcher: github
+Source:  https://github.com/Jannis/emacs-constant-theme.git
+
+Updating /mnt/store/melpa/working/constant-theme/
+No valid stable versions found for constant-theme

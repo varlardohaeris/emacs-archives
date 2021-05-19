@@ -1,0 +1,11 @@
+Package: ivy-dired-history
+Fetcher: github
+Source:  https://github.com/jixiuf/ivy-dired-history.git
+
+Updating /mnt/store/melpa/working/ivy-dired-history/
+Built ivy-dired-history in 4.167s, finished at Wed May 19 04:43:52 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:43 packages-stable/ivy-dired-history-1.0.el
+4.0K -rw-r--r-- 1 root root  418 May 19 04:43 packages-stable/ivy-dired-history-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-dired-history-badge.svg
+4.0K -rw-r--r-- 1 root root  603 May 19 04:43 packages-stable/ivy-dired-history-readme.txt

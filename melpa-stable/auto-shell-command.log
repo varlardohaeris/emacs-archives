@@ -1,0 +1,11 @@
+Package: auto-shell-command
+Fetcher: github
+Source:  https://github.com/ongaeshi/auto-shell-command.git
+
+Updating /mnt/store/melpa/working/auto-shell-command/
+Built auto-shell-command in 2.855s, finished at Wed May 19 04:20:21 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.6K May 19 04:20 packages-stable/auto-shell-command-1.0.2.el
+4.0K -rw-r--r-- 1 root root  405 May 19 04:20 packages-stable/auto-shell-command-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/auto-shell-command-badge.svg
+4.0K -rw-r--r-- 1 root root  560 May 19 04:20 packages-stable/auto-shell-command-readme.txt

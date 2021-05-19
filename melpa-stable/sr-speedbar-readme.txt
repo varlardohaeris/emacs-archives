@@ -1,3 +1,4 @@
+
 The sr-speedbar.el was created just because I could not believe what I
 read on http://www.emacswiki.org/cgi-bin/wiki/Speedbar.  They wrote there
 that it is not possible to show the speedbar in the same frame.  But, as
@@ -21,7 +22,7 @@ Below are commands you can use:
 Enjoy! ;)
 
 
-Installation:
+; Installation:
 
 Copy sr-speedbar.el to your load-path and add to your ~/.emacs
 

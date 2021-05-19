@@ -35,3 +35,5 @@ and MouseTerm
 plus(https://github.com/saitoha/mouseterm-plus/releases) to use
 evil-terminal-cursor-changer. That makes to support VT's DECSCUSR
 sequence.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

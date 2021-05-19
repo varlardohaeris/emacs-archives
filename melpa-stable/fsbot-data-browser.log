@@ -1,0 +1,11 @@
+Package: fsbot-data-browser
+Fetcher: github
+Source:  https://github.com/Benaiah/fsbot-data-browser.git
+
+Updating /mnt/store/melpa/working/fsbot-data-browser/
+Built fsbot-data-browser in 2.809s, finished at Wed May 19 04:36:24 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.9K May 19 04:36 packages-stable/fsbot-data-browser-0.3.el
+4.0K -rw-r--r-- 1 root root  385 May 19 04:36 packages-stable/fsbot-data-browser-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fsbot-data-browser-badge.svg
+4.0K -rw-r--r-- 1 root root  848 May 19 04:36 packages-stable/fsbot-data-browser-readme.txt

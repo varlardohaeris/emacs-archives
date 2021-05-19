@@ -57,3 +57,4 @@ C-c C-o u - howdoi-query
 C-c C-o l - howdoi-query-line-at-point
 C-c C-o r - howdoi-query-line-at-point-replace-by-code-snippet
 C-c C-o i - howdoi-query-insert-code-snippet-at-point
+

@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'minimal-session-saver)
@@ -75,7 +76,7 @@ TODO
 
     don't count already marked buffers in buff-menu function
 
-License
+; License
 
 Simplified BSD License:
 

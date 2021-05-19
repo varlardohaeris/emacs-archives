@@ -1,0 +1,6 @@
+Package: smart-forward
+Fetcher: github
+Source:  https://github.com/magnars/smart-forward.el.git
+
+Updating /mnt/store/melpa/working/smart-forward/
+No valid stable versions found for smart-forward

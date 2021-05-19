@@ -1,0 +1,6 @@
+Package: realgud-node-debug
+Fetcher: github
+Source:  https://github.com/realgud/realgud-node-debug.git
+
+Updating /mnt/store/melpa/working/realgud-node-debug/
+No valid stable versions found for realgud-node-debug

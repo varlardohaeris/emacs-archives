@@ -1,0 +1,11 @@
+Package: cubicle-mode
+Fetcher: github
+Source:  https://github.com/cubicle-model-checker/cubicle.git
+
+Updating /mnt/store/melpa/working/cubicle-mode/
+Built cubicle-mode in 3.472s, finished at Wed May 19 04:26:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.0K May 19 04:26 packages-stable/cubicle-mode-1.1.2.el
+4.0K -rw-r--r-- 1 root root  227 May 19 04:26 packages-stable/cubicle-mode-1.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/cubicle-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1002 May 19 04:26 packages-stable/cubicle-mode-readme.txt

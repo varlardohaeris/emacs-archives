@@ -1,0 +1,6 @@
+Package: ox-trac
+Fetcher: github
+Source:  https://github.com/JalapenoGremlin/ox-trac.git
+
+Updating /mnt/store/melpa/working/ox-trac/
+No valid stable versions found for ox-trac

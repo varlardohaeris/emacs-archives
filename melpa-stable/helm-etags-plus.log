@@ -1,0 +1,11 @@
+Package: helm-etags-plus
+Fetcher: github
+Source:  https://github.com/jixiuf/helm-etags-plus.git
+
+Updating /mnt/store/melpa/working/helm-etags-plus/
+Built helm-etags-plus in 3.350s, finished at Wed May 19 04:40:12 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  29K May 19 04:40 packages-stable/helm-etags-plus-1.1.el
+4.0K -rw-r--r-- 1 root root  379 May 19 04:40 packages-stable/helm-etags-plus-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-etags-plus-badge.svg
+4.0K -rw-r--r-- 1 root root 2.8K May 19 04:40 packages-stable/helm-etags-plus-readme.txt

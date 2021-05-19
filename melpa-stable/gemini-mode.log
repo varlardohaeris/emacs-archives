@@ -1,0 +1,11 @@
+Package: gemini-mode
+Fetcher: git
+Source:  https://git.carcosa.net/jmcbray/gemini.el.git
+
+Updating /mnt/store/melpa/working/gemini-mode/
+Built gemini-mode in 4.097s, finished at Wed May 19 04:36:52 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K May 19 04:36 packages-stable/gemini-mode-1.0.0.el
+4.0K -rw-r--r-- 1 root root  544 May 19 04:36 packages-stable/gemini-mode-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/gemini-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  795 May 19 04:36 packages-stable/gemini-mode-readme.txt

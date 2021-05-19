@@ -1,0 +1,6 @@
+Package: lodgeit
+Fetcher: github
+Source:  https://github.com/ionrock/lodgeit-el.git
+
+Updating /mnt/store/melpa/working/lodgeit/
+No valid stable versions found for lodgeit

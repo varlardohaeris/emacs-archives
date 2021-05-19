@@ -1,0 +1,6 @@
+Package: ido-sort-mtime
+Fetcher: github
+Source:  https://github.com/pkkm/ido-sort-mtime.git
+
+Updating /mnt/store/melpa/working/ido-sort-mtime/
+No valid stable versions found for ido-sort-mtime

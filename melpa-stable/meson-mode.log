@@ -1,0 +1,21 @@
+Package: meson-mode
+Fetcher: github
+Source:  https://github.com/wentasah/meson-mode.git
+
+Updating /mnt/store/melpa/working/meson-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/meson-mode/
+  to /tmp/meson-mode5hRYuV/meson-mode-0.3
+    meson-mode.el -> meson-mode.el
+    utils.el -> utils.el
+Created meson-mode-0.3.tar containing:
+  meson-mode-0.3/
+  meson-mode-0.3/meson-mode-pkg.el
+  meson-mode-0.3/meson-mode.el
+  meson-mode-0.3/utils.el
+Built meson-mode in 7.287s, finished at Wed May 19 01:35:03 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  401 May 19 01:35 packages-stable/meson-mode-0.3.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:35 packages-stable/meson-mode-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/meson-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  411 May 19 01:35 packages-stable/meson-mode-readme.txt

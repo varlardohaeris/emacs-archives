@@ -1,7 +1,7 @@
 This packages integrates flawfinder with flycheck to automatically check for
 possible security weaknesses within your C/C++ code on the fly.
 
-Setup
+;; Setup
 
 (with-eval-after-load 'flycheck
   (require 'flycheck-flawfinder)

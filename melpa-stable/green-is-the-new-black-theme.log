@@ -1,0 +1,11 @@
+Package: green-is-the-new-black-theme
+Fetcher: github
+Source:  https://github.com/fredcamps/green-is-the-new-black-emacs.git
+
+Updating /mnt/store/melpa/working/green-is-the-new-black-theme/
+Built green-is-the-new-black-theme in 4.817s, finished at Wed May 19 04:38:39 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:38 packages-stable/green-is-the-new-black-theme-1.0.0.el
+4.0K -rw-r--r-- 1 root root  427 May 19 04:38 packages-stable/green-is-the-new-black-theme-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/green-is-the-new-black-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   70 May 19 04:38 packages-stable/green-is-the-new-black-theme-readme.txt

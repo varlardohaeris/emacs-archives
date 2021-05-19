@@ -1,0 +1,6 @@
+Package: pytest
+Fetcher: github
+Source:  https://github.com/ionrock/pytest-el.git
+
+Updating /mnt/store/melpa/working/pytest/
+No valid stable versions found for pytest

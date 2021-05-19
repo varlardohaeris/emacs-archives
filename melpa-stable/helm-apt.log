@@ -1,0 +1,11 @@
+Package: helm-apt
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-apt.git
+
+Updating /mnt/store/melpa/working/helm-apt/
+Built helm-apt in 3.009s, finished at Wed May 19 04:39:46 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:39 packages-stable/helm-apt-1.0.el
+4.0K -rw-r--r-- 1 root root  401 May 19 04:39 packages-stable/helm-apt-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-apt-badge.svg
+4.0K -rw-r--r-- 1 root root   39 May 19 04:39 packages-stable/helm-apt-readme.txt

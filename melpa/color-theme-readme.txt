@@ -14,7 +14,7 @@ with `color-theme' to the `deftheme' format.  It also ports a
 few third-party themes.  Its documentation contains setup
 instructions.  Don't forget to uninstall `color-theme'.
 
-Thanks
+; Thanks
 
 Deepak Goel  <deego@glue.umd.edu>
 S. Pokrovsky <pok@nbsp.nsk.su> for ideas and discussion.

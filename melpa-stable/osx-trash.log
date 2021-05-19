@@ -1,0 +1,21 @@
+Package: osx-trash
+Fetcher: github
+Source:  https://github.com/emacsorphanage/osx-trash.git
+
+Updating /mnt/store/melpa/working/osx-trash/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/osx-trash/
+  to /tmp/osx-trasheygdVk/osx-trash-0.2.1
+    osx-trash.el -> osx-trash.el
+    trashfile.AppleScript -> trashfile.AppleScript
+Created osx-trash-0.2.1.tar containing:
+  osx-trash-0.2.1/
+  osx-trash-0.2.1/osx-trash-pkg.el
+  osx-trash-0.2.1/osx-trash.el
+  osx-trash-0.2.1/trashfile.AppleScript
+Built osx-trash in 2.954s, finished at Wed May 19 01:41:10 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  406 May 19 01:41 packages-stable/osx-trash-0.2.1.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 01:41 packages-stable/osx-trash-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/osx-trash-badge.svg
+4.0K -rw-r--r-- 1 root root  720 May 19 01:41 packages-stable/osx-trash-readme.txt

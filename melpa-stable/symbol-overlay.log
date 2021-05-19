@@ -1,0 +1,11 @@
+Package: symbol-overlay
+Fetcher: github
+Source:  https://github.com/wolray/symbol-overlay.git
+
+Updating /mnt/store/melpa/working/symbol-overlay/
+Built symbol-overlay in 3.469s, finished at Wed May 19 01:50:56 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  32K May 19 01:50 packages-stable/symbol-overlay-4.2.el
+4.0K -rw-r--r-- 1 root root  390 May 19 01:50 packages-stable/symbol-overlay-4.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/symbol-overlay-badge.svg
+4.0K -rw-r--r-- 1 root root 2.6K May 19 01:50 packages-stable/symbol-overlay-readme.txt

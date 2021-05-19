@@ -1,4 +1,5 @@
-Installation:
+
+; Installation:
 
   (require 'projector)
   (setq alert-default-style 'notifier) ; for background alerts

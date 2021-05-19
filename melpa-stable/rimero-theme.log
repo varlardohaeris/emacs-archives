@@ -1,0 +1,6 @@
+Package: rimero-theme
+Fetcher: github
+Source:  https://github.com/yveszoundi/emacs-rimero-theme.git
+
+Updating /mnt/store/melpa/working/rimero-theme/
+No valid stable versions found for rimero-theme

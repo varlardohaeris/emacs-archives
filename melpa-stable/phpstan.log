@@ -1,0 +1,11 @@
+Package: phpstan
+Fetcher: github
+Source:  https://github.com/emacs-php/phpstan.el.git
+
+Updating /mnt/store/melpa/working/phpstan/
+Built phpstan in 4.155s, finished at Wed May 19 01:42:53 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:42 packages-stable/phpstan-0.5.0.el
+4.0K -rw-r--r-- 1 root root  362 May 19 01:42 packages-stable/phpstan-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phpstan-badge.svg
+4.0K -rw-r--r-- 1 root root 1013 May 19 01:42 packages-stable/phpstan-readme.txt

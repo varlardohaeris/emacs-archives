@@ -1,0 +1,11 @@
+Package: lxc-tramp
+Fetcher: github
+Source:  https://github.com/montag451/lxc-tramp.git
+
+Updating /mnt/store/melpa/working/lxc-tramp/
+Built lxc-tramp in 3.008s, finished at Wed May 19 01:33:20 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.6K May 19 01:33 packages-stable/lxc-tramp-1.0.0.el
+4.0K -rw-r--r-- 1 root root  360 May 19 01:33 packages-stable/lxc-tramp-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lxc-tramp-badge.svg
+4.0K -rw-r--r-- 1 root root  304 May 19 01:33 packages-stable/lxc-tramp-readme.txt

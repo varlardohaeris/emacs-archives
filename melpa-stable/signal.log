@@ -1,0 +1,6 @@
+Package: signal
+Fetcher: github
+Source:  https://github.com/mola-T/signal.git
+
+Updating /mnt/store/melpa/working/signal/
+No valid stable versions found for signal

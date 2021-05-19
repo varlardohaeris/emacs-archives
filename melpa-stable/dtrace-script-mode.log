@@ -1,0 +1,6 @@
+Package: dtrace-script-mode
+Fetcher: github
+Source:  https://github.com/dotemacs/dtrace-script-mode.git
+
+Updating /mnt/store/melpa/working/dtrace-script-mode/
+No valid stable versions found for dtrace-script-mode

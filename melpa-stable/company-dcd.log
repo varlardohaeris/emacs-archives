@@ -1,0 +1,6 @@
+Package: company-dcd
+Fetcher: github
+Source:  https://github.com/tsukimizake/company-dcd.git
+
+Updating /mnt/store/melpa/working/company-dcd/
+No valid stable versions found for company-dcd

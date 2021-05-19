@@ -1,0 +1,6 @@
+Package: ghci-completion
+Fetcher: github
+Source:  https://github.com/manzyuk/ghci-completion.git
+
+Updating /mnt/store/melpa/working/ghci-completion/
+No valid stable versions found for ghci-completion

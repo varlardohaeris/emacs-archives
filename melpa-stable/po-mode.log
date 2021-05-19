@@ -1,0 +1,24 @@
+Package: po-mode
+Fetcher: github
+Source:  https://github.com/emacsmirror/po-mode.git
+
+Updating /mnt/store/melpa/working/po-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/po-mode/
+  to /tmp/po-modeXdGwzj/po-mode-0.21
+    po-compat.el -> po-compat.el
+    po-mode.el -> po-mode.el
+    start-po.el -> start-po.el
+Created po-mode-0.21.tar containing:
+  po-mode-0.21/
+  po-mode-0.21/po-compat.el
+  po-mode-0.21/po-mode-pkg.el
+  po-mode-0.21/po-mode.el
+  po-mode-0.21/start-po.el
+Built po-mode in 2.975s, finished at Wed May 19 01:43:24 2021
+ ✓ Success:
+132K -rw-r--r-- 1 root root 132K Aug 15  2020 packages-stable/po-mode-0.21.el
+4.0K -rw-r--r-- 1 root root  165 May 19 01:43 packages-stable/po-mode-0.21.entry
+152K -rw-r--r-- 1 root root 150K May 19 01:43 packages-stable/po-mode-0.21.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/po-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 01:43 packages-stable/po-mode-readme.txt

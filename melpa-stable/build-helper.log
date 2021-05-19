@@ -1,0 +1,6 @@
+Package: build-helper
+Fetcher: github
+Source:  https://github.com/afonso360/build-helper.git
+
+Updating /mnt/store/melpa/working/build-helper/
+No valid stable versions found for build-helper

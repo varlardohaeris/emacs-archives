@@ -1,0 +1,6 @@
+Package: ytel
+Fetcher: github
+Source:  https://github.com/gRastello/ytel.git
+
+Updating /mnt/store/melpa/working/ytel/
+No valid stable versions found for ytel

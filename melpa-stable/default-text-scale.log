@@ -1,0 +1,11 @@
+Package: default-text-scale
+Fetcher: github
+Source:  https://github.com/purcell/default-text-scale.git
+
+Updating /mnt/store/melpa/working/default-text-scale/
+Built default-text-scale in 2.856s, finished at Wed May 19 04:26:54 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.6K May 19 04:26 packages-stable/default-text-scale-0.2.el
+4.0K -rw-r--r-- 1 root root  384 May 19 04:26 packages-stable/default-text-scale-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/default-text-scale-badge.svg
+4.0K -rw-r--r-- 1 root root  394 May 19 04:26 packages-stable/default-text-scale-readme.txt

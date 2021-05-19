@@ -1,0 +1,6 @@
+Package: matlab-mode
+Fetcher: git
+Source:  https://git.code.sf.net/p/matlab-emacs/src
+
+Updating /mnt/store/melpa/working/matlab-mode/
+No valid stable versions found for matlab-mode

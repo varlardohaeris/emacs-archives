@@ -1,0 +1,36 @@
+Package: eldev
+Fetcher: github
+Source:  https://github.com/doublep/eldev.git
+
+Updating /mnt/store/melpa/working/eldev/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eldev/
+  to /tmp/eldevcMxSQ6/eldev-0.9.1
+    eldev-buttercup.el -> eldev-buttercup.el
+    eldev-ert.el -> eldev-ert.el
+    eldev-plugins.el -> eldev-plugins.el
+    eldev-util.el -> eldev-util.el
+    eldev-vc.el -> eldev-vc.el
+    eldev.el -> eldev.el
+    bin/eldev -> bin/eldev
+    bin/eldev.bat -> bin/eldev.bat
+    bin/eldev.ps1 -> bin/eldev.ps1
+Created eldev-0.9.1.tar containing:
+  eldev-0.9.1/
+  eldev-0.9.1/bin/
+  eldev-0.9.1/bin/eldev
+  eldev-0.9.1/bin/eldev.bat
+  eldev-0.9.1/bin/eldev.ps1
+  eldev-0.9.1/eldev-buttercup.el
+  eldev-0.9.1/eldev-ert.el
+  eldev-0.9.1/eldev-pkg.el
+  eldev-0.9.1/eldev-plugins.el
+  eldev-0.9.1/eldev-util.el
+  eldev-0.9.1/eldev-vc.el
+  eldev-0.9.1/eldev.el
+Built eldev in 2.965s, finished at Wed May 19 04:29:55 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  332 May 19 04:29 packages-stable/eldev-0.9.1.entry
+412K -rw-r--r-- 1 root root 410K May 19 04:29 packages-stable/eldev-0.9.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eldev-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:29 packages-stable/eldev-readme.txt

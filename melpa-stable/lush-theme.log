@@ -1,0 +1,6 @@
+Package: lush-theme
+Fetcher: github
+Source:  https://github.com/andre-richter/emacs-lush-theme.git
+
+Updating /mnt/store/melpa/working/lush-theme/
+No valid stable versions found for lush-theme

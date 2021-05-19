@@ -1,0 +1,6 @@
+Package: emms-bilibili
+Fetcher: github
+Source:  https://github.com/iBytePress/emms-bilibili.git
+
+Updating /mnt/store/melpa/working/emms-bilibili/
+No valid stable versions found for emms-bilibili

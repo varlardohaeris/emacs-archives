@@ -1,3 +1,4 @@
+
 This package use `helm' as an interface to find tag with Etags.
 
  it support multiple tag files.
@@ -31,7 +32,7 @@ add this line to to init file after loading etags-table.el
        '(".*\\.[ch]$" "/usr/local/include/TAGS")
        ))
 
-Installation:
+; Installation:
 
 Just put helm-etags-plus.el to your load-path.
 The load-path is usually ~/elisp/.
@@ -47,11 +48,11 @@ No need more.
 I use GNU/Emacs,and this is my config file about etags
 (require 'helm-etags-plus)
 (global-set-key "\M-." 'helm-etags-plus-select)
-list all visited tags
+;;list all visited tags
 (global-set-key "\M-*" 'helm-etags-plus-history)
-go back directly
+;;go back directly
 (global-set-key "\M-," 'helm-etags-plus-history-go-back)
-go forward directly
+;;go forward directly
 (global-set-key "\M-/" 'helm-etags-plus-history-go-forward)
 
  if you do not want use bm.el for navigating history

@@ -1,0 +1,6 @@
+Package: helm-frame
+Fetcher: github
+Source:  https://github.com/chee/helm-frame.git
+
+Updating /mnt/store/melpa/working/helm-frame/
+No valid stable versions found for helm-frame

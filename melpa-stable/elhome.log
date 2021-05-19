@@ -1,0 +1,6 @@
+Package: elhome
+Fetcher: github
+Source:  https://github.com/demyanrogozhin/elhome.git
+
+Updating /mnt/store/melpa/working/elhome/
+No valid stable versions found for elhome

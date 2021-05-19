@@ -1,0 +1,6 @@
+Package: point-stack
+Fetcher: github
+Source:  https://github.com/dgutov/point-stack.git
+
+Updating /mnt/store/melpa/working/point-stack/
+No valid stable versions found for point-stack

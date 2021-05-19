@@ -1,0 +1,11 @@
+Package: win-switch
+Fetcher: github
+Source:  https://github.com/genovese/win-switch.git
+
+Updating /mnt/store/melpa/working/win-switch/
+Built win-switch in 5.937s, finished at Wed May 19 04:15:03 2021
+ ✓ Success:
+ 68K -rw-r--r-- 1 root root  68K May 19 04:15 packages/win-switch-20161009.1627.el
+4.0K -rw-r--r-- 1 root root  459 May 19 04:15 packages/win-switch-20161009.1627.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/win-switch-badge.svg
+ 12K -rw-r--r-- 1 root root 8.1K May 19 04:15 packages/win-switch-readme.txt

@@ -1,0 +1,11 @@
+Package: rust-playground
+Fetcher: github
+Source:  https://github.com/grafov/rust-playground.git
+
+Updating /mnt/store/melpa/working/rust-playground/
+Built rust-playground in 3.550s, finished at Wed May 19 01:47:18 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K May 19 01:47 packages-stable/rust-playground-0.3.el
+4.0K -rw-r--r-- 1 root root  396 May 19 01:47 packages-stable/rust-playground-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/rust-playground-badge.svg
+4.0K -rw-r--r-- 1 root root  394 May 19 01:47 packages-stable/rust-playground-readme.txt

@@ -1,0 +1,24 @@
+Package: hyde
+Fetcher: github
+Source:  https://github.com/nibrahim/Hyde.git
+
+Updating /mnt/store/melpa/working/hyde/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/hyde/
+  to /tmp/hydez5L2s7/hyde-0.2
+    hyde-git.el -> hyde-git.el
+    hyde-md.el -> hyde-md.el
+    hyde.el -> hyde.el
+    sample-dot-hyde.el -> sample-dot-hyde.el
+Created hyde-0.2.tar containing:
+  hyde-0.2/
+  hyde-0.2/hyde-git.el
+  hyde-0.2/hyde-md.el
+  hyde-0.2/hyde-pkg.el
+  hyde-0.2/hyde.el
+  hyde-0.2/sample-dot-hyde.el
+Built hyde in 2.827s, finished at Wed May 19 04:42:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  130 May 19 04:42 packages-stable/hyde-0.2.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:42 packages-stable/hyde-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hyde-badge.svg

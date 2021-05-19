@@ -1,0 +1,6 @@
+Package: shell-current-directory
+Fetcher: github
+Source:  https://github.com/metaperl/shell-current-directory.git
+
+Updating /mnt/store/melpa/working/shell-current-directory/
+No valid stable versions found for shell-current-directory

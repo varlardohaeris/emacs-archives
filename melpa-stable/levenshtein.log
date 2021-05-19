@@ -1,0 +1,6 @@
+Package: levenshtein
+Fetcher: github
+Source:  https://github.com/emacsorphanage/levenshtein.git
+
+Updating /mnt/store/melpa/working/levenshtein/
+No valid stable versions found for levenshtein

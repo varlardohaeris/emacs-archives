@@ -1,0 +1,6 @@
+Package: dir-treeview
+Fetcher: github
+Source:  https://github.com/tilmanrassy/emacs-dir-treeview.git
+
+Updating /mnt/store/melpa/working/dir-treeview/
+No valid stable versions found for dir-treeview

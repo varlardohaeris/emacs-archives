@@ -1,0 +1,23 @@
+Package: ssh-deploy
+Fetcher: github
+Source:  https://github.com/cjohansson/emacs-ssh-deploy.git
+
+Updating /mnt/store/melpa/working/ssh-deploy/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ssh-deploy/
+  to /tmp/ssh-deploySloPVr/ssh-deploy-3.1
+    ssh-deploy-diff-mode.el -> ssh-deploy-diff-mode.el
+    ssh-deploy-hydra.el -> ssh-deploy-hydra.el
+    ssh-deploy.el -> ssh-deploy.el
+Created ssh-deploy-3.1.tar containing:
+  ssh-deploy-3.1/
+  ssh-deploy-3.1/ssh-deploy-diff-mode.el
+  ssh-deploy-3.1/ssh-deploy-hydra.el
+  ssh-deploy-3.1/ssh-deploy-pkg.el
+  ssh-deploy-3.1/ssh-deploy.el
+Built ssh-deploy in 2.688s, finished at Wed May 19 01:50:14 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  420 May 19 01:50 packages-stable/ssh-deploy-3.1.entry
+100K -rw-r--r-- 1 root root 100K May 19 01:50 packages-stable/ssh-deploy-3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/ssh-deploy-badge.svg
+8.0K -rw-r--r-- 1 root root 5.1K May 19 01:50 packages-stable/ssh-deploy-readme.txt

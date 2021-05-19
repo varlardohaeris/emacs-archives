@@ -1,0 +1,11 @@
+Package: treepy
+Fetcher: github
+Source:  https://github.com/volrath/treepy.el.git
+
+Updating /mnt/store/melpa/working/treepy/
+Built treepy in 4.672s, finished at Wed May 19 04:11:31 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K May 19 04:11 packages/treepy-20191108.2217.el
+4.0K -rw-r--r-- 1 root root  374 May 19 04:11 packages/treepy-20191108.2217.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/treepy-badge.svg
+4.0K -rw-r--r-- 1 root root  970 May 19 04:11 packages/treepy-readme.txt

@@ -1,0 +1,11 @@
+Package: popup-imenu
+Fetcher: github
+Source:  https://github.com/ancane/popup-imenu.git
+
+Updating /mnt/store/melpa/working/popup-imenu/
+Built popup-imenu in 2.896s, finished at Wed May 19 01:43:47 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K May 19 01:43 packages-stable/popup-imenu-0.6.1.el
+4.0K -rw-r--r-- 1 root root  429 May 19 01:43 packages-stable/popup-imenu-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/popup-imenu-badge.svg
+4.0K -rw-r--r-- 1 root root  134 May 19 01:43 packages-stable/popup-imenu-readme.txt

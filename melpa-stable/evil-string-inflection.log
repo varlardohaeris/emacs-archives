@@ -1,0 +1,11 @@
+Package: evil-string-inflection
+Fetcher: github
+Source:  https://github.com/ninrod/evil-string-inflection.git
+
+Updating /mnt/store/melpa/working/evil-string-inflection/
+Built evil-string-inflection in 2.939s, finished at Wed May 19 04:32:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:32 packages-stable/evil-string-inflection-1.0.1.el
+4.0K -rw-r--r-- 1 root root  446 May 19 04:32 packages-stable/evil-string-inflection-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-string-inflection-badge.svg
+4.0K -rw-r--r-- 1 root root  197 May 19 04:32 packages-stable/evil-string-inflection-readme.txt

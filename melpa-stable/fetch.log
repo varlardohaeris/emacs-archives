@@ -1,0 +1,6 @@
+Package: fetch
+Fetcher: github
+Source:  https://github.com/cbrst/fetch.el.git
+
+Updating /mnt/store/melpa/working/fetch/
+No valid stable versions found for fetch

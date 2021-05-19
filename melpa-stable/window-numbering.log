@@ -1,0 +1,12 @@
+Package: window-numbering
+Fetcher: github
+Source:  https://github.com/nschum/window-numbering.el.git
+
+Updating /mnt/store/melpa/working/window-numbering/
+Note: window-numbering :files spec is equivalent to the default.
+Built window-numbering in 3.701s, finished at Wed May 19 01:55:13 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.2K May 19 01:55 packages-stable/window-numbering-1.1.2.el
+4.0K -rw-r--r-- 1 root root  371 May 19 01:55 packages-stable/window-numbering-1.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/window-numbering-badge.svg
+4.0K -rw-r--r-- 1 root root  727 May 19 01:55 packages-stable/window-numbering-readme.txt

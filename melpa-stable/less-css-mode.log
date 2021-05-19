@@ -1,0 +1,11 @@
+Package: less-css-mode
+Fetcher: github
+Source:  https://github.com/purcell/less-css-mode.git
+
+Updating /mnt/store/melpa/working/less-css-mode/
+Built less-css-mode in 4.215s, finished at Wed May 19 01:32:06 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K May 19 01:32 packages-stable/less-css-mode-0.21.el
+4.0K -rw-r--r-- 1 root root  368 May 19 01:32 packages-stable/less-css-mode-0.21.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/less-css-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 01:32 packages-stable/less-css-mode-readme.txt

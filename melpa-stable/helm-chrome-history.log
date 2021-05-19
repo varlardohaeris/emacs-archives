@@ -1,0 +1,6 @@
+Package: helm-chrome-history
+Fetcher: github
+Source:  https://github.com/xuchunyang/helm-chrome-history.git
+
+Updating /mnt/store/melpa/working/helm-chrome-history/
+No valid stable versions found for helm-chrome-history

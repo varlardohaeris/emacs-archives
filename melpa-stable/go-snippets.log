@@ -1,0 +1,6 @@
+Package: go-snippets
+Fetcher: github
+Source:  https://github.com/toumorokoshi/go-snippets.git
+
+Updating /mnt/store/melpa/working/go-snippets/
+No valid stable versions found for go-snippets

@@ -1,0 +1,11 @@
+Package: ggtags
+Fetcher: github
+Source:  https://github.com/leoliu/ggtags.git
+
+Updating /mnt/store/melpa/working/ggtags/
+Built ggtags in 2.956s, finished at Wed May 19 04:36:57 2021
+ ✓ Success:
+104K -rw-r--r-- 1 root root 103K May 19 04:36 packages-stable/ggtags-0.8.13.el
+4.0K -rw-r--r-- 1 root root  377 May 19 04:36 packages-stable/ggtags-0.8.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/ggtags-badge.svg
+4.0K -rw-r--r-- 1 root root  653 May 19 04:36 packages-stable/ggtags-readme.txt

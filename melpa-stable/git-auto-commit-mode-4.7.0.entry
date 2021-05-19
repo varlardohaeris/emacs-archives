@@ -1,0 +1,9 @@
+(git-auto-commit-mode .
+		      [(4 7 0)
+		       nil "Emacs Minor mode to automatically commit and push" single
+		       ((:commit . "df07899acdb3f9c114b72fdab77107c924b3172c")
+			(:authors
+			 ("Tom Willemse" . "tom@ryuslash.org"))
+			(:maintainer "Tom Willemse" . "tom@ryuslash.org")
+			(:keywords "vc")
+			(:url . "https://github.com/ryuslash/git-auto-commit-mode"))])

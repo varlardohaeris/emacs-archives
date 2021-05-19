@@ -1,0 +1,11 @@
+Package: shakespeare-mode
+Fetcher: github
+Source:  https://github.com/CodyReichert/shakespeare-mode.git
+
+Updating /mnt/store/melpa/working/shakespeare-mode/
+Built shakespeare-mode in 3.278s, finished at Wed May 19 01:48:11 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:48 packages-stable/shakespeare-mode-0.0.2.el
+4.0K -rw-r--r-- 1 root root  374 May 19 01:48 packages-stable/shakespeare-mode-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shakespeare-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  931 May 19 01:48 packages-stable/shakespeare-mode-readme.txt

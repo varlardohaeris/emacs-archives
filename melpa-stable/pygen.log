@@ -1,0 +1,6 @@
+Package: pygen
+Fetcher: github
+Source:  https://github.com/JackCrawley/pygen.git
+
+Updating /mnt/store/melpa/working/pygen/
+No valid stable versions found for pygen

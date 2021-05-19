@@ -1,4 +1,4 @@
-Installation:
+; Installation:
 
 Available as a package in melpa
 

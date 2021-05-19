@@ -1,0 +1,11 @@
+Package: git-lens
+Fetcher: gitlab
+Source:  https://gitlab.com/pidu/git-lens.git
+
+Updating /mnt/store/melpa/working/git-lens/
+Built git-lens in 3.276s, finished at Wed May 19 04:37:19 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K May 19 04:37 packages-stable/git-lens-0.7.0.el
+4.0K -rw-r--r-- 1 root root  393 May 19 04:37 packages-stable/git-lens-0.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-lens-badge.svg
+4.0K -rw-r--r-- 1 root root  134 May 19 04:37 packages-stable/git-lens-readme.txt

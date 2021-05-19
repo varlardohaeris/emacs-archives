@@ -1,0 +1,21 @@
+Package: solidity-mode
+Fetcher: github
+Source:  https://github.com/ethereum/emacs-solidity.git
+
+Updating /mnt/store/melpa/working/solidity-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/solidity-mode/
+  to /tmp/solidity-mode1shoZf/solidity-mode-0.1.10
+    solidity-common.el -> solidity-common.el
+    solidity-mode.el -> solidity-mode.el
+Created solidity-mode-0.1.10.tar containing:
+  solidity-mode-0.1.10/
+  solidity-mode-0.1.10/solidity-common.el
+  solidity-mode-0.1.10/solidity-mode-pkg.el
+  solidity-mode-0.1.10/solidity-mode.el
+Built solidity-mode in 2.916s, finished at Wed May 19 01:49:37 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  315 May 19 01:49 packages-stable/solidity-mode-0.1.10.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:49 packages-stable/solidity-mode-0.1.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/solidity-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  215 May 19 01:49 packages-stable/solidity-mode-readme.txt

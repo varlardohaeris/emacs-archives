@@ -1,0 +1,6 @@
+Package: digitalocean-helm
+Fetcher: gitlab
+Source:  https://gitlab.com/olymk2/emacs-digitalocean-helm.git
+
+Updating /mnt/store/melpa/working/digitalocean-helm/
+No valid stable versions found for digitalocean-helm

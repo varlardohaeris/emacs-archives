@@ -1,0 +1,11 @@
+Package: helm-switch-to-repl
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-switch-to-repl.git
+
+Updating /mnt/store/melpa/working/helm-switch-to-repl/
+Built helm-switch-to-repl in 2.627s, finished at Wed May 19 04:41:19 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:41 packages-stable/helm-switch-to-repl-0.1.2.el
+4.0K -rw-r--r-- 1 root root  415 May 19 04:41 packages-stable/helm-switch-to-repl-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-switch-to-repl-badge.svg
+4.0K -rw-r--r-- 1 root root  467 May 19 04:41 packages-stable/helm-switch-to-repl-readme.txt

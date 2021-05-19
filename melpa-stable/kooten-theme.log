@@ -1,0 +1,6 @@
+Package: kooten-theme
+Fetcher: github
+Source:  https://github.com/kootenpv/emacs-kooten-theme.git
+
+Updating /mnt/store/melpa/working/kooten-theme/
+No valid stable versions found for kooten-theme

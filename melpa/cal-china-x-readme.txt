@@ -18,7 +18,7 @@ To use, add something like the following to your .emacs:
 
 Note: for emacs22, please use version 1.1.
 
-History
+; History
 
 This is an early derived work from `chinese-calendar.el' written by
 Charles Wang <charleswang@peoplemail.com.cn>.

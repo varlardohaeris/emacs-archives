@@ -1,0 +1,6 @@
+Package: gerrit
+Fetcher: github
+Source:  https://github.com/thisch/gerrit.el.git
+
+Updating /mnt/store/melpa/working/gerrit/
+No valid stable versions found for gerrit

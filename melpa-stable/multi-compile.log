@@ -1,0 +1,6 @@
+Package: multi-compile
+Fetcher: github
+Source:  https://github.com/ReanGD/emacs-multi-compile.git
+
+Updating /mnt/store/melpa/working/multi-compile/
+No valid stable versions found for multi-compile

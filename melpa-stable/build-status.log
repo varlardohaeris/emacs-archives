@@ -1,0 +1,11 @@
+Package: build-status
+Fetcher: github
+Source:  https://github.com/sshaw/build-status.git
+
+Updating /mnt/store/melpa/working/build-status/
+Built build-status in 3.145s, finished at Wed May 19 04:22:19 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:22 packages-stable/build-status-0.0.2.el
+4.0K -rw-r--r-- 1 root root  387 May 19 04:22 packages-stable/build-status-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/build-status-badge.svg
+4.0K -rw-r--r-- 1 root root   71 May 19 04:22 packages-stable/build-status-readme.txt

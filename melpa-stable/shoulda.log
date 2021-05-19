@@ -1,0 +1,6 @@
+Package: shoulda
+Fetcher: github
+Source:  https://github.com/marcwebbie/shoulda.el.git
+
+Updating /mnt/store/melpa/working/shoulda/
+No valid stable versions found for shoulda

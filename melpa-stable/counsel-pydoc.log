@@ -1,0 +1,6 @@
+Package: counsel-pydoc
+Fetcher: github
+Source:  https://github.com/co-dh/pydoc_utils.git
+
+Updating /mnt/store/melpa/working/counsel-pydoc/
+No valid stable versions found for counsel-pydoc

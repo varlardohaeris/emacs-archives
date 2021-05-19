@@ -1,0 +1,6 @@
+Package: evil-goggles
+Fetcher: github
+Source:  https://github.com/edkolev/evil-goggles.git
+
+Updating /mnt/store/melpa/working/evil-goggles/
+No valid stable versions found for evil-goggles

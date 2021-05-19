@@ -1,0 +1,6 @@
+Package: ergoemacs-status
+Fetcher: github
+Source:  https://github.com/ergoemacs/ergoemacs-status.git
+
+Updating /mnt/store/melpa/working/ergoemacs-status/
+No valid stable versions found for ergoemacs-status

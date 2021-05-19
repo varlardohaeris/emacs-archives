@@ -1,0 +1,6 @@
+Package: gherkin-mode
+Fetcher: github
+Source:  https://github.com/candera/gherkin-mode.git
+
+Updating /mnt/store/melpa/working/gherkin-mode/
+No valid stable versions found for gherkin-mode

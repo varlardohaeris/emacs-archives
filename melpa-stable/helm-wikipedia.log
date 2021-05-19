@@ -1,0 +1,6 @@
+Package: helm-wikipedia
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-wikipedia.git
+
+Updating /mnt/store/melpa/working/helm-wikipedia/
+No valid stable versions found for helm-wikipedia

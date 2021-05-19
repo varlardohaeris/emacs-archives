@@ -1,0 +1,48 @@
+Package: e2wm
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-window-manager.git
+
+Updating /mnt/store/melpa/working/e2wm/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/e2wm/
+  to /tmp/e2wmMsrgW7/e2wm-1.4
+    e2wm.el -> e2wm.el
+    e2wm-vcs.el -> e2wm-vcs.el
+Created e2wm-1.4.tar containing:
+  e2wm-1.4/
+  e2wm-1.4/e2wm-pkg.el
+  e2wm-1.4/e2wm-vcs.el
+  e2wm-1.4/e2wm.el
+Built e2wm in 3.638s, finished at Wed May 19 04:29:04 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  334 May 19 04:29 packages-stable/e2wm-1.4.entry
+172K -rw-r--r-- 1 root root 170K May 19 04:29 packages-stable/e2wm-1.4.tar
+ 40K -rw-r--r-- 1 root root  37K May 19 04:29 packages-stable/e2wm-R-0.4.el
+4.0K -rw-r--r-- 1 root root  260 May 19 01:14 packages-stable/e2wm-R-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:14 packages-stable/e2wm-R-badge.svg
+4.0K -rw-r--r-- 1 root root  148 May 19 01:14 packages-stable/e2wm-R-readme.txt
+4.0K -rw-r--r-- 1 root root  125 May 19 04:29 packages-stable/e2wm-R.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/e2wm-badge.svg
+4.0K -rw-r--r-- 1 root root  193 May 19 04:29 packages-stable/e2wm-bookmark.log
+8.0K -rw-r--r-- 1 root root 5.3K May 19 01:14 packages-stable/e2wm-direx-0.0.7.el
+4.0K -rw-r--r-- 1 root root  445 May 19 01:14 packages-stable/e2wm-direx-0.0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:14 packages-stable/e2wm-direx-badge.svg
+4.0K -rw-r--r-- 1 root root   65 May 19 01:14 packages-stable/e2wm-direx-readme.txt
+4.0K -rw-r--r-- 1 root root  132 May 19 04:29 packages-stable/e2wm-direx.log
+ 12K -rw-r--r-- 1 root root 9.2K May 19 01:14 packages-stable/e2wm-pkgex4pl-0.0.1.el
+4.0K -rw-r--r-- 1 root root  426 May 19 01:14 packages-stable/e2wm-pkgex4pl-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:14 packages-stable/e2wm-pkgex4pl-badge.svg
+4.0K -rw-r--r-- 1 root root   68 May 19 01:14 packages-stable/e2wm-pkgex4pl-readme.txt
+4.0K -rw-r--r-- 1 root root  141 May 19 04:29 packages-stable/e2wm-pkgex4pl.log
+4.0K -rw-r--r-- 1 root root 4.0K May 19 04:29 packages-stable/e2wm-readme.txt
+4.0K -rw-r--r-- 1 root root  147 May 19 04:29 packages-stable/e2wm-svg-clock.log
+ 16K -rw-r--r-- 1 root root  14K May 19 01:14 packages-stable/e2wm-sww-0.0.3.el
+4.0K -rw-r--r-- 1 root root  387 May 19 01:14 packages-stable/e2wm-sww-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:14 packages-stable/e2wm-sww-badge.svg
+4.0K -rw-r--r-- 1 root root   63 May 19 01:14 packages-stable/e2wm-sww-readme.txt
+4.0K -rw-r--r-- 1 root root  126 May 19 04:29 packages-stable/e2wm-sww.log
+ 60K -rw-r--r-- 1 root root  60K May 19 01:14 packages-stable/e2wm-term-0.0.5.el
+4.0K -rw-r--r-- 1 root root  463 May 19 01:14 packages-stable/e2wm-term-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:14 packages-stable/e2wm-term-badge.svg
+4.0K -rw-r--r-- 1 root root  617 May 19 01:14 packages-stable/e2wm-term-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:29 packages-stable/e2wm-term.log

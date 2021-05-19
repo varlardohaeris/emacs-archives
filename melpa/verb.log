@@ -1,0 +1,21 @@
+Package: verb
+Fetcher: github
+Source:  https://github.com/federicotdn/verb.git
+
+Updating /mnt/store/melpa/working/verb/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/verb/
+  to /tmp/verbBr2izy/verb-20210429.2113
+    ob-verb.el -> ob-verb.el
+    verb.el -> verb.el
+Created verb-20210429.2113.tar containing:
+  verb-20210429.2113/
+  verb-20210429.2113/ob-verb.el
+  verb-20210429.2113/verb-pkg.el
+  verb-20210429.2113/verb.el
+Built verb in 4.263s, finished at Wed May 19 04:13:16 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  358 May 19 04:13 packages/verb-20210429.2113.entry
+112K -rw-r--r-- 1 root root 110K May 19 04:13 packages/verb-20210429.2113.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/verb-badge.svg
+4.0K -rw-r--r-- 1 root root  133 May 19 04:13 packages/verb-readme.txt

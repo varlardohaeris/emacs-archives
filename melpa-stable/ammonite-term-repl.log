@@ -1,0 +1,6 @@
+Package: ammonite-term-repl
+Fetcher: github
+Source:  https://github.com/zwild/ammonite-term-repl.git
+
+Updating /mnt/store/melpa/working/ammonite-term-repl/
+No valid stable versions found for ammonite-term-repl

@@ -1,0 +1,11 @@
+Package: dynamic-ruler
+Fetcher: github
+Source:  https://github.com/rocher/dynamic-ruler.git
+
+Updating /mnt/store/melpa/working/dynamic-ruler/
+Built dynamic-ruler in 4.288s, finished at Wed May 19 04:29:02 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:29 packages-stable/dynamic-ruler-0.1.6.el
+4.0K -rw-r--r-- 1 root root  375 May 19 04:29 packages-stable/dynamic-ruler-0.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/dynamic-ruler-badge.svg
+4.0K -rw-r--r-- 1 root root  653 May 19 04:29 packages-stable/dynamic-ruler-readme.txt

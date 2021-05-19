@@ -1,0 +1,6 @@
+Package: maude-mode
+Fetcher: github
+Source:  https://github.com/rudi/maude-mode.git
+
+Updating /mnt/store/melpa/working/maude-mode/
+No valid stable versions found for maude-mode

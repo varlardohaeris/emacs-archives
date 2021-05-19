@@ -42,3 +42,5 @@ Emacs 26) which you can use by below config:
   FYI:
   might be supproted in the future, but not for now
   (add-hook 'nimsuggest-mode-hook 'nimsuggest-mode)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

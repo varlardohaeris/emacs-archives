@@ -1,0 +1,6 @@
+Package: world-time-mode
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-world-time-mode.git
+
+Updating /mnt/store/melpa/working/world-time-mode/
+No valid stable versions found for world-time-mode

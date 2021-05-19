@@ -1,3 +1,4 @@
+
 This tool is similar to `pop-global-mark' but more powerful. You can go
 through the whole history without losing them. Actually, `pop-global-mark'
 will use the latest record but also discard it. But this tool will preserve
@@ -56,3 +57,5 @@ Customization
 TODO:
 -----
 n/a
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

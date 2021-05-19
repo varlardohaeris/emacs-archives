@@ -1,0 +1,11 @@
+Package: mqtt-mode
+Fetcher: github
+Source:  https://github.com/andrmuel/mqtt-mode.git
+
+Updating /mnt/store/melpa/working/mqtt-mode/
+Built mqtt-mode in 3.888s, finished at Wed May 19 01:36:17 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K May 19 01:36 packages-stable/mqtt-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  396 May 19 01:36 packages-stable/mqtt-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mqtt-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  117 May 19 01:36 packages-stable/mqtt-mode-readme.txt

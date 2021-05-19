@@ -1,0 +1,6 @@
+Package: slime-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-slime-theme.git
+
+Updating /mnt/store/melpa/working/slime-theme/
+No valid stable versions found for slime-theme

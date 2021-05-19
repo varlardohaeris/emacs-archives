@@ -1,0 +1,6 @@
+Package: flycheck-dialyzer
+Fetcher: github
+Source:  https://github.com/lbolla/emacs-flycheck-dialyzer.git
+
+Updating /mnt/store/melpa/working/flycheck-dialyzer/
+No valid stable versions found for flycheck-dialyzer

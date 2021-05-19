@@ -1,0 +1,28 @@
+Package: codic
+Fetcher: github
+Source:  https://github.com/emacsorphanage/codic.git
+
+Updating /mnt/store/melpa/working/codic/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/codic/
+  to /tmp/codiccvwR74/codic-0.3
+    codic.el -> codic.el
+    dict/english-entry.csv -> dict/english-entry.csv
+    dict/english-translation.csv -> dict/english-translation.csv
+    dict/naming-entry.csv -> dict/naming-entry.csv
+    dict/naming-translation.csv -> dict/naming-translation.csv
+Created codic-0.3.tar containing:
+  codic-0.3/
+  codic-0.3/codic-pkg.el
+  codic-0.3/codic.el
+  codic-0.3/dict/
+  codic-0.3/dict/english-entry.csv
+  codic-0.3/dict/english-translation.csv
+  codic-0.3/dict/naming-entry.csv
+  codic-0.3/dict/naming-translation.csv
+Built codic in 2.838s, finished at Wed May 19 04:23:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  334 May 19 04:23 packages-stable/codic-0.3.entry
+1.2M -rw-r--r-- 1 root root 1.2M May 19 04:23 packages-stable/codic-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/codic-badge.svg
+4.0K -rw-r--r-- 1 root root  366 May 19 04:23 packages-stable/codic-readme.txt

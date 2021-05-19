@@ -1,0 +1,6 @@
+Package: php-boris-minor-mode
+Fetcher: git
+Source:  https://framagit.org/steckerhalter/php-boris-minor-mode.git
+
+Updating /mnt/store/melpa/working/php-boris-minor-mode/
+No valid stable versions found for php-boris-minor-mode

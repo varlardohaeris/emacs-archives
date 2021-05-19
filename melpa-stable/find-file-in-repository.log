@@ -1,0 +1,11 @@
+Package: find-file-in-repository
+Fetcher: github
+Source:  https://github.com/h/find-file-in-repository.git
+
+Updating /mnt/store/melpa/working/find-file-in-repository/
+Built find-file-in-repository in 3.027s, finished at Wed May 19 04:33:57 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K May 19 04:33 packages-stable/find-file-in-repository-1.2.el
+4.0K -rw-r--r-- 1 root root  478 May 19 04:33 packages-stable/find-file-in-repository-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/find-file-in-repository-badge.svg
+4.0K -rw-r--r-- 1 root root 1004 May 19 04:33 packages-stable/find-file-in-repository-readme.txt

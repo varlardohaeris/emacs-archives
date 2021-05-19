@@ -1,0 +1,6 @@
+Package: hl-indent
+Fetcher: github
+Source:  https://github.com/ikirill/hl-indent.git
+
+Updating /mnt/store/melpa/working/hl-indent/
+No valid stable versions found for hl-indent

@@ -1,0 +1,6 @@
+Package: dynaring
+Fetcher: github
+Source:  https://github.com/countvajhula/dynaring.git
+
+Updating /mnt/store/melpa/working/dynaring/
+Single file dynamic-ring.el does not match package name dynaring

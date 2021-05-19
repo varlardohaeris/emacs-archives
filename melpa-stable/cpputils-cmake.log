@@ -1,0 +1,19 @@
+Package: cpputils-cmake
+Fetcher: github
+Source:  https://github.com/redguardtoo/cpputils-cmake.git
+
+Updating /mnt/store/melpa/working/cpputils-cmake/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cpputils-cmake/
+  to /tmp/cpputils-cmakeskp8wS/cpputils-cmake-5.5
+    cpputils-cmake-pkg.el -> cpputils-cmake-pkg.el
+    cpputils-cmake.el -> cpputils-cmake.el
+Created cpputils-cmake-5.5.tar containing:
+  cpputils-cmake-5.5/
+  cpputils-cmake-5.5/cpputils-cmake-pkg.el
+  cpputils-cmake-5.5/cpputils-cmake.el
+Built cpputils-cmake in 3.984s, finished at Wed May 19 04:25:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  400 May 19 04:25 packages-stable/cpputils-cmake-5.5.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 04:25 packages-stable/cpputils-cmake-5.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/cpputils-cmake-badge.svg

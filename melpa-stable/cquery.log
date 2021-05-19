@@ -1,0 +1,6 @@
+Package: cquery
+Fetcher: github
+Source:  https://github.com/cquery-project/emacs-cquery.git
+
+Updating /mnt/store/melpa/working/cquery/
+No valid stable versions found for cquery

@@ -1,0 +1,11 @@
+Package: org-repo-todo
+Fetcher: github
+Source:  https://github.com/waymondo/org-repo-todo.git
+
+Updating /mnt/store/melpa/working/org-repo-todo/
+Built org-repo-todo in 2.931s, finished at Wed May 19 01:39:55 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.6K May 19 01:39 packages-stable/org-repo-todo-0.0.3.el
+4.0K -rw-r--r-- 1 root root  362 May 19 01:39 packages-stable/org-repo-todo-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-repo-todo-badge.svg
+4.0K -rw-r--r-- 1 root root  638 May 19 01:39 packages-stable/org-repo-todo-readme.txt

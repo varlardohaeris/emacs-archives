@@ -1,0 +1,6 @@
+Package: howdoi
+Fetcher: github
+Source:  https://github.com/atykhonov/emacs-howdoi.git
+
+Updating /mnt/store/melpa/working/howdoi/
+No valid stable versions found for howdoi

@@ -1,0 +1,6 @@
+Package: magma-mode
+Fetcher: github
+Source:  https://github.com/ThibautVerron/magma-mode.git
+
+Updating /mnt/store/melpa/working/magma-mode/
+No valid stable versions found for magma-mode

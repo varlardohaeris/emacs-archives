@@ -1,0 +1,6 @@
+Package: gobgen
+Fetcher: github
+Source:  https://github.com/gergelypolonkai/gobgen.el.git
+
+Updating /mnt/store/melpa/working/gobgen/
+No valid stable versions found for gobgen

@@ -1,0 +1,6 @@
+Package: cycle-themes
+Fetcher: github
+Source:  https://github.com/toroidal-code/cycle-themes.el.git
+
+Updating /mnt/store/melpa/working/cycle-themes/
+No valid stable versions found for cycle-themes

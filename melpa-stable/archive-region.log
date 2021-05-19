@@ -1,0 +1,6 @@
+Package: archive-region
+Fetcher: github
+Source:  https://github.com/rubikitch/archive-region.git
+
+Updating /mnt/store/melpa/working/archive-region/
+No valid stable versions found for archive-region

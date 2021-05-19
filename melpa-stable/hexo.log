@@ -1,0 +1,6 @@
+Package: hexo
+Fetcher: github
+Source:  https://github.com/kuanyui/hexo.el.git
+
+Updating /mnt/store/melpa/working/hexo/
+No valid stable versions found for hexo

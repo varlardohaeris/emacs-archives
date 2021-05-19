@@ -1,0 +1,11 @@
+Package: dired-fdclone
+Fetcher: github
+Source:  https://github.com/knu/dired-fdclone.el.git
+
+Updating /mnt/store/melpa/working/dired-fdclone/
+Built dired-fdclone in 5.861s, finished at Wed May 19 04:27:43 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  40K May 19 04:27 packages-stable/dired-fdclone-1.5.6.el
+4.0K -rw-r--r-- 1 root root  365 May 19 04:27 packages-stable/dired-fdclone-1.5.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-fdclone-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:27 packages-stable/dired-fdclone-readme.txt

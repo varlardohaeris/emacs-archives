@@ -1,0 +1,2 @@
+
+(facemenu+ . [(20201106 729) nil "Extensions to `facemenu.el'." single ((:commit . "ad5e0990ff345c55d64e59f97941c3729096a390") (:keywords "faces" "extensions" "convenience" "menus" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/facemenu%2b.el"))])

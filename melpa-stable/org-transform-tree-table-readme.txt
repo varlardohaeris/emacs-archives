@@ -1,3 +1,4 @@
+
 Transform an org-mode outline and its properties to a table format
 (org-table, CSV).
 
@@ -11,7 +12,7 @@ More about column view:
 * http://orgmode.org/manual/Column-view.html
 
 
-Usage
+; Usage
 -----
 
 ### From org tree to table
@@ -98,7 +99,7 @@ first time you go back to a tree representation, you'll get more diffs
 than subsequent ones.
 
 
-Installation
+; Installation
 ------------
 
 Install org-transform-tree-table using MELPA.
@@ -112,7 +113,7 @@ and initialize with:
    (require 'org-transform-tree-table)
 
 
-Changes
+; Changes
 -------
 
 2014-12-28 - 0.1.3
@@ -131,7 +132,7 @@ Changes
 * Initial release
 
 
-Contributors
+; Contributors
 ------------
 
 * Syohei YOSHIDA - https://github.com/syohex

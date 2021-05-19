@@ -1,0 +1,6 @@
+Package: swap-regions
+Fetcher: github
+Source:  https://github.com/xuchunyang/swap-regions.el.git
+
+Updating /mnt/store/melpa/working/swap-regions/
+No valid stable versions found for swap-regions

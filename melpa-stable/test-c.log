@@ -1,0 +1,6 @@
+Package: test-c
+Fetcher: github
+Source:  https://github.com/aaptel/test-c.git
+
+Updating /mnt/store/melpa/working/test-c/
+No valid stable versions found for test-c

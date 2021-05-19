@@ -1,0 +1,11 @@
+Package: calfw-org
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-calfw.git
+
+Updating /mnt/store/melpa/working/calfw-org/
+Built calfw-org in 2.928s, finished at Wed May 19 04:22:35 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 04:22 packages-stable/calfw-org-1.6.el
+4.0K -rw-r--r-- 1 root root  308 May 19 04:22 packages-stable/calfw-org-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/calfw-org-badge.svg
+4.0K -rw-r--r-- 1 root root  283 May 19 04:22 packages-stable/calfw-org-readme.txt

@@ -1,0 +1,11 @@
+Package: flycheck-ledger
+Fetcher: github
+Source:  https://github.com/purcell/flycheck-ledger.git
+
+Updating /mnt/store/melpa/working/flycheck-ledger/
+Built flycheck-ledger in 2.969s, finished at Wed May 19 04:34:57 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.6K May 19 04:34 packages-stable/flycheck-ledger-0.5.el
+4.0K -rw-r--r-- 1 root root  432 May 19 04:34 packages-stable/flycheck-ledger-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-ledger-badge.svg
+4.0K -rw-r--r-- 1 root root  205 May 19 04:34 packages-stable/flycheck-ledger-readme.txt

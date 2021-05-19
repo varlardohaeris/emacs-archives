@@ -1,0 +1,21 @@
+Package: psci
+Fetcher: github
+Source:  https://github.com/purescript-emacs/emacs-psci.git
+
+Updating /mnt/store/melpa/working/psci/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/psci/
+  to /tmp/psciyUgw0u/psci-0.0.6
+    psci-dev.el -> psci-dev.el
+    psci.el -> psci.el
+Created psci-0.0.6.tar containing:
+  psci-0.0.6/
+  psci-0.0.6/psci-dev.el
+  psci-0.0.6/psci-pkg.el
+  psci-0.0.6/psci.el
+Built psci in 3.189s, finished at Wed May 19 01:44:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  474 May 19 01:44 packages-stable/psci-0.0.6.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:44 packages-stable/psci-0.0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/psci-badge.svg
+4.0K -rw-r--r-- 1 root root  629 May 19 01:44 packages-stable/psci-readme.txt

@@ -1,0 +1,59 @@
+Package: elscreen
+Fetcher: github
+Source:  https://github.com/knu/elscreen.git
+
+Updating /mnt/store/melpa/working/elscreen/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elscreen/
+  to /tmp/elscreenPvfnGM/elscreen-20180321
+    elscreen-buffer-list.el -> elscreen-buffer-list.el
+    elscreen-color-theme.el -> elscreen-color-theme.el
+    elscreen-dired.el -> elscreen-dired.el
+    elscreen-dnd.el -> elscreen-dnd.el
+    elscreen-gf.el -> elscreen-gf.el
+    elscreen-goby.el -> elscreen-goby.el
+    elscreen-howm.el -> elscreen-howm.el
+    elscreen-server.el -> elscreen-server.el
+    elscreen-speedbar.el -> elscreen-speedbar.el
+    elscreen-w3m.el -> elscreen-w3m.el
+    elscreen-wl.el -> elscreen-wl.el
+    elscreen.el -> elscreen.el
+Created elscreen-20180321.tar containing:
+  elscreen-20180321/
+  elscreen-20180321/elscreen-buffer-list.el
+  elscreen-20180321/elscreen-color-theme.el
+  elscreen-20180321/elscreen-dired.el
+  elscreen-20180321/elscreen-dnd.el
+  elscreen-20180321/elscreen-gf.el
+  elscreen-20180321/elscreen-goby.el
+  elscreen-20180321/elscreen-howm.el
+  elscreen-20180321/elscreen-pkg.el
+  elscreen-20180321/elscreen-server.el
+  elscreen-20180321/elscreen-speedbar.el
+  elscreen-20180321/elscreen-w3m.el
+  elscreen-20180321/elscreen-wl.el
+  elscreen-20180321/elscreen.el
+Built elscreen in 3.151s, finished at Wed May 19 04:30:33 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  364 May 19 04:30 packages-stable/elscreen-20180321.entry
+152K -rw-r--r-- 1 root root 150K May 19 04:30 packages-stable/elscreen-20180321.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elscreen-badge.svg
+4.0K -rw-r--r-- 1 root root  225 May 19 04:30 packages-stable/elscreen-buffer-group.log
+8.0K -rw-r--r-- 1 root root 7.5K May 19 04:30 packages-stable/elscreen-fr-0.0.3.el
+4.0K -rw-r--r-- 1 root root  388 May 19 01:15 packages-stable/elscreen-fr-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/elscreen-fr-badge.svg
+4.0K -rw-r--r-- 1 root root  904 May 19 01:15 packages-stable/elscreen-fr-readme.txt
+4.0K -rw-r--r-- 1 root root  136 May 19 04:30 packages-stable/elscreen-fr.log
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:30 packages-stable/elscreen-mew-1.0.2.el
+4.0K -rw-r--r-- 1 root root  355 May 19 01:15 packages-stable/elscreen-mew-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/elscreen-mew-badge.svg
+4.0K -rw-r--r-- 1 root root  158 May 19 01:15 packages-stable/elscreen-mew-readme.txt
+4.0K -rw-r--r-- 1 root root  141 May 19 04:30 packages-stable/elscreen-mew.log
+4.0K -rw-r--r-- 1 root root  214 May 19 04:30 packages-stable/elscreen-multi-term.log
+4.0K -rw-r--r-- 1 root root  272 May 19 04:30 packages-stable/elscreen-readme.txt
+4.0K -rw-r--r-- 1 root root  189 May 19 04:30 packages-stable/elscreen-separate-buffer-list.log
+4.0K -rw-r--r-- 1 root root  454 May 19 01:15 packages-stable/elscreen-tab-1.1.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:15 packages-stable/elscreen-tab-1.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/elscreen-tab-badge.svg
+4.0K -rw-r--r-- 1 root root  647 May 19 01:15 packages-stable/elscreen-tab-readme.txt
+4.0K -rw-r--r-- 1 root root  138 May 19 04:30 packages-stable/elscreen-tab.log

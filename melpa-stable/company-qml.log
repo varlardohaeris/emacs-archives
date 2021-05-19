@@ -1,0 +1,6 @@
+Package: company-qml
+Fetcher: github
+Source:  https://github.com/cute-jumper/company-qml.git
+
+Updating /mnt/store/melpa/working/company-qml/
+No valid stable versions found for company-qml

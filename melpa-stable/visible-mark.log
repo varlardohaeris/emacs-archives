@@ -1,0 +1,6 @@
+Package: visible-mark
+Fetcher: git
+Source:  https://git.sr.ht/~iank/visible-mark
+
+Updating /mnt/store/melpa/working/visible-mark/
+No valid stable versions found for visible-mark

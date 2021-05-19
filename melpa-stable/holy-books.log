@@ -1,0 +1,6 @@
+Package: holy-books
+Fetcher: github
+Source:  https://github.com/alhassy/holy-books.git
+
+Updating /mnt/store/melpa/working/holy-books/
+No valid stable versions found for holy-books

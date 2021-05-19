@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'hardhat)
@@ -104,7 +105,7 @@ Bugs
 
 TODO
 
-License
+; License
 
 Simplified BSD License:
 

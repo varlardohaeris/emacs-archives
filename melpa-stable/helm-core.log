@@ -1,0 +1,25 @@
+Package: helm-core
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm.git
+
+Updating /mnt/store/melpa/working/helm-core/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm-core/
+  to /tmp/helm-corerhEVLJ/helm-core-3.7.1
+    helm-core-pkg.el -> helm-core-pkg.el
+    helm.el -> helm.el
+    helm-lib.el -> helm-lib.el
+    helm-source.el -> helm-source.el
+    helm-multi-match.el -> helm-multi-match.el
+Created helm-core-3.7.1.tar containing:
+  helm-core-3.7.1/
+  helm-core-3.7.1/helm-core-pkg.el
+  helm-core-3.7.1/helm-lib.el
+  helm-core-3.7.1/helm-multi-match.el
+  helm-core-3.7.1/helm-source.el
+  helm-core-3.7.1/helm.el
+Built helm-core in 4.154s, finished at Wed May 19 04:40:03 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  186 May 19 04:40 packages-stable/helm-core-3.7.1.entry
+452K -rw-r--r-- 1 root root 450K May 19 04:40 packages-stable/helm-core-3.7.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-core-badge.svg

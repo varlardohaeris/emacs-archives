@@ -1,0 +1,6 @@
+Package: e2wm-bookmark
+Fetcher: github
+Source:  https://github.com/myuhe/e2wm-bookmark.el.git
+
+Updating /mnt/store/melpa/working/e2wm-bookmark/
+No valid stable versions found for e2wm-bookmark

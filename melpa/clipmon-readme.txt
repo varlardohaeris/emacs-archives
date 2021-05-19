@@ -1,4 +1,5 @@
-Description
+
+;; Description
 ----------------------------------------------------------------------------
 
 Clipmon is a clipboard monitor - it watches the system clipboard and can
@@ -65,7 +66,7 @@ knows about the last one copied, but with clipmon mode on, it will monitor
 the system clipboard and add any new text it sees to the kill ring.)
 
 
-Installation
+;; Installation
 ----------------------------------------------------------------------------
 
 It's simplest to use the package manager:
@@ -76,7 +77,7 @@ It will then be ready to use, and will also be available the next time you
 start Emacs.
 
 
-Usage
+;; Usage
 ----------------------------------------------------------------------------
 
 To give it a try, do M-: (clipmon-autoinsert-toggle) - this will turn on
@@ -104,7 +105,7 @@ text faster than the timer interval is set it may miss some changes, but you
 can adjust the interval.
 
 
-Using as a clipboard manager
+;; Using as a clipboard manager
 ----------------------------------------------------------------------------
 
 To try out clipmon as a clipboard manager, make sure clipmon-mode is on by
@@ -153,7 +154,7 @@ To see how much space the kill-ring is taking up, you can call this function:
     => 29670 characters
 
 
-Options
+;; Options
 ----------------------------------------------------------------------------
 
 There are various options you can set with customize:
@@ -177,8 +178,9 @@ before inserting the text, transformations are performed on it in this order:
     (setq clipmon-transform-function nil)  ; additional transform function
 
 
-Todo
+;; Todo
 ----------------------------------------------------------------------------
 
 - Prefix with C-u to set a target point, then allow cut/copy/pasting from
   within Emacs, eg to take notes from another buffer, or move text elsewhere.
+

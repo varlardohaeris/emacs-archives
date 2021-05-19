@@ -1,0 +1,11 @@
+Package: poet-client
+Fetcher: github
+Source:  https://github.com/wailo/emacs-poet.git
+
+Updating /mnt/store/melpa/working/poet-client/
+Built poet-client in 4.449s, finished at Wed May 19 03:56:13 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 03:56 packages/poet-client-20190124.654.el
+4.0K -rw-r--r-- 1 root root  322 May 19 03:56 packages/poet-client-20190124.654.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:56 packages/poet-client-badge.svg
+4.0K -rw-r--r-- 1 root root  190 May 19 03:56 packages/poet-client-readme.txt

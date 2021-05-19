@@ -1,0 +1,6 @@
+Package: extempore-mode
+Fetcher: github
+Source:  https://github.com/extemporelang/extempore-emacs-mode.git
+
+Updating /mnt/store/melpa/working/extempore-mode/
+No valid stable versions found for extempore-mode

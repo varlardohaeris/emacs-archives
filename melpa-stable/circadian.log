@@ -1,0 +1,11 @@
+Package: circadian
+Fetcher: github
+Source:  https://github.com/guidoschmidt/circadian.el.git
+
+Updating /mnt/store/melpa/working/circadian/
+Built circadian in 3.457s, finished at Wed May 19 04:23:20 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.9K May 19 04:23 packages-stable/circadian-0.3.2.el
+4.0K -rw-r--r-- 1 root root  354 May 19 04:23 packages-stable/circadian-0.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/circadian-badge.svg
+4.0K -rw-r--r-- 1 root root  462 May 19 04:23 packages-stable/circadian-readme.txt

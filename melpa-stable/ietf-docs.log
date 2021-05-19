@@ -1,0 +1,6 @@
+Package: ietf-docs
+Fetcher: github
+Source:  https://github.com/choppsv1/ietf-docs.git
+
+Updating /mnt/store/melpa/working/ietf-docs/
+No valid stable versions found for ietf-docs

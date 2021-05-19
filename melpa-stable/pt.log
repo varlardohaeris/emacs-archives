@@ -1,0 +1,10 @@
+Package: pt
+Fetcher: github
+Source:  https://github.com/bling/pt.el.git
+
+Updating /mnt/store/melpa/working/pt/
+Built pt in 3.390s, finished at Wed May 19 01:44:32 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 4.0K May 19 01:44 packages-stable/pt-0.0.3.el
+4.0K -rw-r--r-- 1 root root  316 May 19 01:44 packages-stable/pt-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pt-badge.svg

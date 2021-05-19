@@ -1,0 +1,6 @@
+Package: mandm-theme
+Fetcher: github
+Source:  https://github.com/choppsv1/emacs-mandm-theme.git
+
+Updating /mnt/store/melpa/working/mandm-theme/
+No valid stable versions found for mandm-theme

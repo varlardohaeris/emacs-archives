@@ -1,0 +1,21 @@
+Package: stan-mode
+Fetcher: github
+Source:  https://github.com/stan-dev/stan-mode.git
+
+Updating /mnt/store/melpa/working/stan-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/stan-mode/
+  to /tmp/stan-modeOipH0a/stan-mode-10.2.0
+  ! stan-mode/stan-keywords.el -> stan-keywords.el
+  ! stan-mode/stan-mode.el -> stan-mode.el
+Created stan-mode-10.2.0.tar containing:
+  stan-mode-10.2.0/
+  stan-mode-10.2.0/stan-keywords.el
+  stan-mode-10.2.0/stan-mode-pkg.el
+  stan-mode-10.2.0/stan-mode.el
+Built stan-mode in 3.516s, finished at Wed May 19 01:50:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  528 May 19 01:50 packages-stable/stan-mode-10.2.0.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 01:50 packages-stable/stan-mode-10.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/stan-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  242 May 19 01:50 packages-stable/stan-mode-readme.txt

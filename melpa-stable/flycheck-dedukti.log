@@ -1,0 +1,6 @@
+Package: flycheck-dedukti
+Fetcher: github
+Source:  https://github.com/rafoo/flycheck-dedukti.git
+
+Updating /mnt/store/melpa/working/flycheck-dedukti/
+No valid stable versions found for flycheck-dedukti

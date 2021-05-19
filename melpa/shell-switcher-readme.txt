@@ -1,3 +1,4 @@
+
 After you add the following line to your Emacs init file you will
 switch easily between shell buffers:
 

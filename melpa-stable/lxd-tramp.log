@@ -1,0 +1,6 @@
+Package: lxd-tramp
+Fetcher: github
+Source:  https://github.com/onixie/lxd-tramp.git
+
+Updating /mnt/store/melpa/working/lxd-tramp/
+No valid stable versions found for lxd-tramp

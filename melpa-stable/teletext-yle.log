@@ -1,0 +1,6 @@
+Package: teletext-yle
+Fetcher: github
+Source:  https://github.com/lassik/emacs-teletext-yle.git
+
+Updating /mnt/store/melpa/working/teletext-yle/
+No valid stable versions found for teletext-yle

@@ -1,0 +1,6 @@
+Package: flycheck-jest
+Fetcher: github
+Source:  https://github.com/jojojames/flycheck-jest.git
+
+Updating /mnt/store/melpa/working/flycheck-jest/
+No valid stable versions found for flycheck-jest

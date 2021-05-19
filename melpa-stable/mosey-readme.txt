@@ -15,7 +15,7 @@ functions to `defmosey', and it'll cook up six functions:
 `mosey-backward-cycle'.  Then you can pick your fav-o-rite ones and
 forget about the rest!
 
-Installation
+; Installation
 
 Best thing to do is just mosey on over to http://melpa.org/ and
 install the package called `mosey'.
@@ -27,7 +27,7 @@ mosey.el in your `load-path' and then put this in your init file:
 
 ...and then you can start moseying around.
 
-Usage
+; Usage
 
 You can use these commands right off the bat to move within the
 current line:
@@ -54,7 +54,7 @@ You might even want to rebind your keys to 'em, maybe like this:
           ("C-e" . mosey-forward-bounce)
           ))
 
-Make your own moseys
+;; Make your own moseys
 
 It's easy to make your own moseys with defmosey, somethin' like
 this (this example uses functions from smartparens):
@@ -83,7 +83,7 @@ somethin' like this:
            ("C-a" . mosey-lisp-backward-cycle)
            ("C-e" . mosey-lisp-forward-cycle))
 
-Credits
+; Credits
 
 This package was inspired by Alex Kost's fantastic `mwim' package.
 It has even more features, so check it out!

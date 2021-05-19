@@ -1,0 +1,32 @@
+Package: org-roam-server
+Fetcher: github
+Source:  https://github.com/org-roam/org-roam-server.git
+
+Updating /mnt/store/melpa/working/org-roam-server/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-roam-server/
+  to /tmp/org-roam-serverMDNl0E/org-roam-server-1.1.2
+    org-roam-server.el -> org-roam-server.el
+    index.html -> index.html
+    assets => assets
+Created org-roam-server-1.1.2.tar containing:
+  org-roam-server-1.1.2/
+  org-roam-server-1.1.2/assets/
+  org-roam-server-1.1.2/assets/bootstrap-toggle.min.css
+  org-roam-server-1.1.2/assets/bootstrap-toggle.min.js
+  org-roam-server-1.1.2/assets/bootstrap.min.css
+  org-roam-server-1.1.2/assets/bootstrap.min.js
+  org-roam-server-1.1.2/assets/jquery-3.5.0.min.js
+  org-roam-server-1.1.2/assets/org.css
+  org-roam-server-1.1.2/assets/select2.min.css
+  org-roam-server-1.1.2/assets/select2.min.js
+  org-roam-server-1.1.2/assets/vis-network.min.js
+  org-roam-server-1.1.2/index.html
+  org-roam-server-1.1.2/org-roam-server-pkg.el
+  org-roam-server-1.1.2/org-roam-server.el
+Built org-roam-server in 3.539s, finished at Wed May 19 01:39:59 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  523 May 19 01:39 packages-stable/org-roam-server-1.1.2.entry
+1.3M -rw-r--r-- 1 root root 1.3M May 19 01:39 packages-stable/org-roam-server-1.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-roam-server-badge.svg
+4.0K -rw-r--r-- 1 root root  166 May 19 01:39 packages-stable/org-roam-server-readme.txt

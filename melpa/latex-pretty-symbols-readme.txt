@@ -6,7 +6,7 @@ Quick start:
   add this file to load path, then (require 'latex-pretty-symbols)
 
 
-TODO: The most pressing isue is a way to let not only single symbols be
+; TODO: The most pressing isue is a way to let not only single symbols be
   displayed, but also strings.  Then we can e.g display "⟨⟨C⟩⟩" instead of
   atldiamond.  Currently the 5 symbols gets placed on top of each other,
   resulting in a mighty mess.  This problem might be demomposed into two

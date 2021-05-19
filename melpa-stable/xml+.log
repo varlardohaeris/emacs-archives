@@ -1,0 +1,6 @@
+Package: xml+
+Fetcher: github
+Source:  https://github.com/bddean/xml-plus.git
+
+Updating /mnt/store/melpa/working/xml+/
+No valid stable versions found for xml+

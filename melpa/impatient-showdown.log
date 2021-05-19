@@ -1,0 +1,21 @@
+Package: impatient-showdown
+Fetcher: github
+Source:  https://github.com/jcs-elpa/impatient-showdown.git
+
+Updating /mnt/store/melpa/working/impatient-showdown/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/impatient-showdown/
+  to /tmp/impatient-showdown0QNC84/impatient-showdown-20200914.221
+    impatient-showdown.el -> impatient-showdown.el
+    preview.html -> preview.html
+Created impatient-showdown-20200914.221.tar containing:
+  impatient-showdown-20200914.221/
+  impatient-showdown-20200914.221/impatient-showdown-pkg.el
+  impatient-showdown-20200914.221/impatient-showdown.el
+  impatient-showdown-20200914.221/preview.html
+Built impatient-showdown in 3.982s, finished at Wed May 19 03:34:35 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  452 May 19 03:34 packages/impatient-showdown-20200914.221.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 03:34 packages/impatient-showdown-20200914.221.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:34 packages/impatient-showdown-badge.svg
+4.0K -rw-r--r-- 1 root root   56 May 19 03:34 packages/impatient-showdown-readme.txt

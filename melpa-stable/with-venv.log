@@ -1,0 +1,11 @@
+Package: with-venv
+Fetcher: github
+Source:  https://github.com/10sr/with-venv-el.git
+
+Updating /mnt/store/melpa/working/with-venv/
+Built with-venv in 4.008s, finished at Wed May 19 01:55:30 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K May 19 01:55 packages-stable/with-venv-0.0.1.el
+4.0K -rw-r--r-- 1 root root  437 May 19 01:55 packages-stable/with-venv-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/with-venv-badge.svg
+4.0K -rw-r--r-- 1 root root  866 May 19 01:55 packages-stable/with-venv-readme.txt

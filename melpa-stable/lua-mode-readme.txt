@@ -1,4 +1,4 @@
-lua-mode provides support for editing Lua, including automatical
+lua-mode provides support for editing Lua, including automatic
 indentation, syntactical font-locking, running interactive shell,
 interacting with `hs-minor-mode' and online documentation lookup.
 
@@ -10,6 +10,12 @@ The following variables are available for customization (see more via
 - Var `lua-indent-string-contents':
   set to `t` if you like to have contents of multiline strings to be
   indented like comments
+- Var `lua-indent-nested-block-content-align':
+  set to `nil' to stop aligning the content of nested blocks with the
+  open parenthesis
+- Var `lua-indent-close-paren-align':
+  set to `t' to align close parenthesis with the open parenthesis,
+  rather than with the beginning of the line
 - Var `lua-mode-hook':
   list of functions to execute when lua-mode is initialized
 - Var `lua-documentation-url':
@@ -17,17 +23,17 @@ The following variables are available for customization (see more via
 - Var `lua-documentation-function': function used to
   show documentation (`eww` is a viable alternative for Emacs 25)
 
-These are variables/commands that operate on Lua subprocess:
+These are variables/commands that operate on the Lua process:
 
 - Var `lua-default-application':
-  command to start up the subprocess (REPL)
+  command to start the Lua process (REPL)
 - Var `lua-default-command-switches':
-  arguments to pass to the subprocess on startup (make sure `-i` is there
+  arguments to pass to the Lua process on startup (make sure `-i` is there
   if you expect working with Lua shell interactively)
 - Cmd `lua-start-process': start new REPL process, usually happens automatically
 - Cmd `lua-kill-process': kill current REPL process
 
-These are variables/commands for interaction with Lua subprocess:
+These are variables/commands for interaction with the Lua process:
 
 - Cmd `lua-show-process-buffer': switch to REPL buffer
 - Cmd `lua-hide-process-buffer': hide window showing REPL buffer

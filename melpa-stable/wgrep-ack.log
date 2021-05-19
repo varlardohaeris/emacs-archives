@@ -1,0 +1,11 @@
+Package: wgrep-ack
+Fetcher: github
+Source:  https://github.com/mhayashi1120/Emacs-wgrep.git
+
+Updating /mnt/store/melpa/working/wgrep-ack/
+Built wgrep-ack in 2.987s, finished at Wed May 19 01:54:55 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.5K May 19 01:54 packages-stable/wgrep-ack-2.3.2.el
+4.0K -rw-r--r-- 1 root root  463 May 19 01:54 packages-stable/wgrep-ack-2.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/wgrep-ack-badge.svg
+4.0K -rw-r--r-- 1 root root   97 May 19 01:54 packages-stable/wgrep-ack-readme.txt

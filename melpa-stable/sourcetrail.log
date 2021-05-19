@@ -1,0 +1,6 @@
+Package: sourcetrail
+Fetcher: github
+Source:  https://github.com/CoatiSoftware/emacs-sourcetrail.git
+
+Updating /mnt/store/melpa/working/sourcetrail/
+No valid stable versions found for sourcetrail

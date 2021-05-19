@@ -1,0 +1,6 @@
+Package: toggle-test
+Fetcher: github
+Source:  https://github.com/rags/toggle-test.git
+
+Updating /mnt/store/melpa/working/toggle-test/
+No valid stable versions found for toggle-test

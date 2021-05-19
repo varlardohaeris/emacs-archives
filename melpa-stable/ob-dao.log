@@ -1,0 +1,6 @@
+Package: ob-dao
+Fetcher: github
+Source:  https://github.com/xuchunyang/ob-dao.git
+
+Updating /mnt/store/melpa/working/ob-dao/
+No valid stable versions found for ob-dao

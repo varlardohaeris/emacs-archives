@@ -1,5 +1,3 @@
-Documentation:
-
 ** What
 
 =emacsshot= provides a few commands to take a screenshot of

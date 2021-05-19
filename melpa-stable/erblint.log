@@ -1,0 +1,6 @@
+Package: erblint
+Fetcher: github
+Source:  https://github.com/leodcs/erblint-emacs.git
+
+Updating /mnt/store/melpa/working/erblint/
+No valid stable versions found for erblint

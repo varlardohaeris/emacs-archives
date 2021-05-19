@@ -1,0 +1,6 @@
+Package: popup-kill-ring
+Fetcher: github
+Source:  https://github.com/waymondo/popup-kill-ring.git
+
+Updating /mnt/store/melpa/working/popup-kill-ring/
+No valid stable versions found for popup-kill-ring

@@ -1,0 +1,11 @@
+Package: moody
+Fetcher: github
+Source:  https://github.com/tarsius/moody.git
+
+Updating /mnt/store/melpa/working/moody/
+Built moody in 5.484s, finished at Wed May 19 03:45:06 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 03:45 packages/moody-20210114.850.el
+4.0K -rw-r--r-- 1 root root  316 May 19 03:45 packages/moody-20210114.850.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:45 packages/moody-badge.svg
+4.0K -rw-r--r-- 1 root root 2.3K May 19 03:45 packages/moody-readme.txt

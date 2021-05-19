@@ -1,0 +1,6 @@
+Package: awscli-capf
+Fetcher: github
+Source:  https://github.com/sebasmonia/awscli-capf.git
+
+Updating /mnt/store/melpa/working/awscli-capf/
+No valid stable versions found for awscli-capf

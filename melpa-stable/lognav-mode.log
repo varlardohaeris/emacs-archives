@@ -1,0 +1,6 @@
+Package: lognav-mode
+Fetcher: hg
+Source:  https://hg.osdn.net/view/lognav-mode/lognav-mode
+
+Updating /mnt/store/melpa/working/lognav-mode/
+hg exited with status 255

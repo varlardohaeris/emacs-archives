@@ -1,0 +1,6 @@
+Package: helm-jstack
+Fetcher: github
+Source:  https://github.com/raghavgautam/helm-jstack.git
+
+Updating /mnt/store/melpa/working/helm-jstack/
+No valid stable versions found for helm-jstack

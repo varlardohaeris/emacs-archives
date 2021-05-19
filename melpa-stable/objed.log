@@ -1,0 +1,21 @@
+Package: objed
+Fetcher: github
+Source:  https://github.com/clemera/objed.git
+
+Updating /mnt/store/melpa/working/objed/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/objed/
+  to /tmp/objedqwzJWY/objed-0.8.1
+    objed-objects.el -> objed-objects.el
+    objed.el -> objed.el
+Created objed-0.8.1.tar containing:
+  objed-0.8.1/
+  objed-0.8.1/objed-objects.el
+  objed-0.8.1/objed-pkg.el
+  objed-0.8.1/objed.el
+Built objed in 3.097s, finished at Wed May 19 01:38:24 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  361 May 19 01:38 packages-stable/objed-0.8.1.entry
+212K -rw-r--r-- 1 root root 210K May 19 01:38 packages-stable/objed-0.8.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/objed-badge.svg
+8.0K -rw-r--r-- 1 root root 4.6K May 19 01:38 packages-stable/objed-readme.txt

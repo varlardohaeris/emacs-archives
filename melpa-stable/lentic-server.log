@@ -1,0 +1,6 @@
+Package: lentic-server
+Fetcher: github
+Source:  https://github.com/phillord/lentic-server.git
+
+Updating /mnt/store/melpa/working/lentic-server/
+No valid stable versions found for lentic-server

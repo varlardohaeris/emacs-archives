@@ -1,0 +1,6 @@
+Package: sudoku
+Fetcher: github
+Source:  https://github.com/zevlg/sudoku.el.git
+
+Updating /mnt/store/melpa/working/sudoku/
+No valid stable versions found for sudoku

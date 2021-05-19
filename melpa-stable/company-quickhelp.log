@@ -1,0 +1,16 @@
+Package: company-quickhelp
+Fetcher: github
+Source:  https://github.com/company-mode/company-quickhelp.git
+
+Updating /mnt/store/melpa/working/company-quickhelp/
+Built company-quickhelp in 2.950s, finished at Wed May 19 04:24:44 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:24 packages-stable/company-quickhelp-2.3.0.el
+4.0K -rw-r--r-- 1 root root  509 May 19 04:24 packages-stable/company-quickhelp-2.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-quickhelp-badge.svg
+4.0K -rw-r--r-- 1 root root  132 May 19 04:24 packages-stable/company-quickhelp-readme.txt
+4.0K -rw-r--r-- 1 root root 3.7K May 19 04:24 packages-stable/company-quickhelp-terminal-0.1.1.el
+4.0K -rw-r--r-- 1 root root  502 May 19 01:10 packages-stable/company-quickhelp-terminal-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-quickhelp-terminal-badge.svg
+4.0K -rw-r--r-- 1 root root   43 May 19 01:10 packages-stable/company-quickhelp-terminal-readme.txt
+4.0K -rw-r--r-- 1 root root  183 May 19 04:24 packages-stable/company-quickhelp-terminal.log

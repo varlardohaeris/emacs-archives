@@ -5,7 +5,7 @@ YAML and Python share the fact that indentation determines
 structure, this mode provides indentation and indentation command
 behavior very similar to that of python-mode.
 
-Installation:
+; Installation:
 
 To install, just drop this file into a directory in your
 `load-path' and (optionally) byte-compile it.  To automatically

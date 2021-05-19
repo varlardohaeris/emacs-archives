@@ -1,2 +1,9 @@
-
-(ripgrep . [(0 4 0) nil "Front-end for ripgrep, a command line search tool" single ((:commit . "73595f1364f2117db49e1e4a49290bd6d430e345") (:keywords "ripgrep" "ack" "pt" "ag" "sift" "grep" "search") (:authors ("Nicolas Lamirault" . "nicolas.lamirault@gmail.com")) (:maintainer "Nicolas Lamirault" . "nicolas.lamirault@gmail.com") (:url . "https://github.com/nlamirault/ripgrep.el"))])
+(ripgrep .
+	 [(0 4 0)
+	  nil "Front-end for ripgrep, a command line search tool" single
+	  ((:commit . "73595f1364f2117db49e1e4a49290bd6d430e345")
+	   (:authors
+	    ("Nicolas Lamirault" . "nicolas.lamirault@gmail.com"))
+	   (:maintainer "Nicolas Lamirault" . "nicolas.lamirault@gmail.com")
+	   (:keywords "ripgrep" "ack" "pt" "ag" "sift" "grep" "search")
+	   (:url . "https://github.com/nlamirault/ripgrep.el"))])

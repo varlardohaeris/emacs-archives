@@ -1,0 +1,11 @@
+Package: helm-slime
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-slime.git
+
+Updating /mnt/store/melpa/working/helm-slime/
+Built helm-slime in 3.160s, finished at Wed May 19 04:41:14 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K May 19 04:41 packages-stable/helm-slime-0.4.0.el
+4.0K -rw-r--r-- 1 root root  498 May 19 04:41 packages-stable/helm-slime-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-slime-badge.svg
+4.0K -rw-r--r-- 1 root root  763 May 19 04:41 packages-stable/helm-slime-readme.txt

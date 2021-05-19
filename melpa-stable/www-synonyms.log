@@ -1,0 +1,6 @@
+Package: www-synonyms
+Fetcher: github
+Source:  https://github.com/spebern/www-synonyms.git
+
+Updating /mnt/store/melpa/working/www-synonyms/
+No valid stable versions found for www-synonyms

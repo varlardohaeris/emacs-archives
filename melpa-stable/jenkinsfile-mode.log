@@ -1,0 +1,6 @@
+Package: jenkinsfile-mode
+Fetcher: github
+Source:  https://github.com/john2x/jenkinsfile-mode.git
+
+Updating /mnt/store/melpa/working/jenkinsfile-mode/
+No valid stable versions found for jenkinsfile-mode

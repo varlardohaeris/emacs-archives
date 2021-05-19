@@ -1,0 +1,11 @@
+Package: zero-input
+Fetcher: git
+Source:  https://gitlab.emacsos.com/sylecn/zero-el
+
+Updating /mnt/store/melpa/working/zero-input/
+Built zero-input in 4.389s, finished at Wed May 19 01:56:44 2021
+ ✓ Success:
+ 64K -rw-r--r-- 1 root root  63K May 19 01:56 packages-stable/zero-input-2.8.0.el
+4.0K -rw-r--r-- 1 root root  262 May 19 01:56 packages-stable/zero-input-2.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zero-input-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 01:56 packages-stable/zero-input-readme.txt

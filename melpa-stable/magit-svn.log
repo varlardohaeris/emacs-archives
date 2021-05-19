@@ -1,0 +1,11 @@
+Package: magit-svn
+Fetcher: github
+Source:  https://github.com/emacsorphanage/magit-svn.git
+
+Updating /mnt/store/melpa/working/magit-svn/
+Built magit-svn in 2.940s, finished at Wed May 19 01:33:42 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 01:33 packages-stable/magit-svn-2.2.3.el
+4.0K -rw-r--r-- 1 root root  387 May 19 01:33 packages-stable/magit-svn-2.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-svn-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 01:33 packages-stable/magit-svn-readme.txt

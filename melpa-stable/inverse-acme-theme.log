@@ -1,0 +1,6 @@
+Package: inverse-acme-theme
+Fetcher: github
+Source:  https://github.com/dcjohnson/inverse-acme-theme.git
+
+Updating /mnt/store/melpa/working/inverse-acme-theme/
+Single file gruvbox-theme.el does not match package name inverse-acme-theme

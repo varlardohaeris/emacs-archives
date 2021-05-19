@@ -1,0 +1,11 @@
+Package: evil-smartparens
+Fetcher: github
+Source:  https://github.com/expez/evil-smartparens.git
+
+Updating /mnt/store/melpa/working/evil-smartparens/
+Built evil-smartparens in 2.803s, finished at Wed May 19 04:32:35 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:32 packages-stable/evil-smartparens-0.4.0.el
+4.0K -rw-r--r-- 1 root root  451 May 19 04:32 packages-stable/evil-smartparens-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-smartparens-badge.svg
+4.0K -rw-r--r-- 1 root root   78 May 19 04:32 packages-stable/evil-smartparens-readme.txt

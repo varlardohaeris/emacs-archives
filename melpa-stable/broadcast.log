@@ -1,0 +1,6 @@
+Package: broadcast
+Fetcher: github
+Source:  https://github.com/killdash9/broadcast.el.git
+
+Updating /mnt/store/melpa/working/broadcast/
+No valid stable versions found for broadcast

@@ -6,7 +6,7 @@
 ;; Maintainer: Johan Andersson <johan.rejeep@gmail.com>
 ;; Version: 0.7.0
 ;; Package-Version: 20140120.1852
-;; Package-Commit: c93985dc318fe89e5a29abc21d19fb41e2fd14d2
+;; Package-Commit: 9ba1456b0a389a2f7b42b6f42a4208ddd87ce609
 ;; Keywords: cli, argv
 ;; URL: http://github.com/rejeep/commander.el
 ;; Package-Requires: ((s "1.6.0") (dash "2.0.0") (cl-lib "0.3") (f "0.6.1"))

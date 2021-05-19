@@ -1,8 +1,13 @@
-This package includes Emacs minor modes (iedit-mode and
-iedit-rectangle-mode) based on a API library (iedit-lib) and allows you to edit
-one occurrence of some text in a buffer (possibly narrowed) or region, and
-simultaneously have other occurrences edited in the same way, with visual
-feedback as you type.
+This package includes Emacs minor modes (iedit-mode and iedit-rectangle-mode)
+based on a API library (iedit-lib) and allows you to alter one occurrence of
+some text in a buffer (possibly narrowed) or region, and simultaneously have
+other occurrences changed in the same way, with visual feedback as you type.
+
+`iedit-mode' is a great alternative of build-in replace commands:
+
+ - A more intuitive way to alter all the occurrences at once
+ - Visual feedback
+ - Less keystrokes in most cases
 
 Normal work flow of Iedit mode is like:
 
@@ -24,7 +29,7 @@ buffer lines that match the current text being edited.  This gives you the
 effect of a temporary `keep-lines' or `occur'.  To get this effect, hit C-'
 when in Iedit mode - it toggles hiding non-matching lines.
 
-Renaming refactoring is convenient in Iedit mode
+`iedit-mode' is optimized for renaming refactoring in many ways:
 
  - The symbol under point is selected as occurrence by default and only complete
    symbols are matched
@@ -51,7 +56,7 @@ lighter weight and uses iedit mechanisms.
 There are also some other facilities you may never think about.  Refer to the
 document of function `iedit-mode' (C-h f iedit-mode RET) for more details.
 
-Contributors
+; Contributors
 Adam Lindberg <eproxus@gmail.com> added a case sensitivity option that can be toggled.
 
 Tassilo Horn <tassilo@member.fsf.org> added an option to match only complete

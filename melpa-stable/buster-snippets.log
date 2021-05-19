@@ -1,0 +1,6 @@
+Package: buster-snippets
+Fetcher: github
+Source:  https://github.com/magnars/buster-snippets.el.git
+
+Updating /mnt/store/melpa/working/buster-snippets/
+No valid stable versions found for buster-snippets

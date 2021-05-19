@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'list-utils)
@@ -106,7 +107,7 @@ TODO
 
     list* returns a non-list on single elt, our function throws an error
 
-License
+; License
 
 Simplified BSD License:
 

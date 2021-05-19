@@ -1,0 +1,27 @@
+Package: borg
+Fetcher: github
+Source:  https://github.com/emacscollective/borg.git
+
+Updating /mnt/store/melpa/working/borg/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/borg/
+  to /tmp/borgBgQ2gd/borg-3.1.2
+    borg-elpa.el -> borg-elpa.el
+    borg.el -> borg.el
+    borg.texi -> borg.texi
+    borg.mk -> borg.mk
+Created /tmp/borgBgQ2gd/borg-3.1.2/borg.info
+Created borg-3.1.2.tar containing:
+  borg-3.1.2/
+  borg-3.1.2/borg-elpa.el
+  borg-3.1.2/borg-pkg.el
+  borg-3.1.2/borg.el
+  borg-3.1.2/borg.info
+  borg-3.1.2/borg.mk
+  borg-3.1.2/dir
+Built borg in 19.966s, finished at Wed May 19 04:21:51 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  409 May 19 04:21 packages-stable/borg-3.1.2.entry
+ 92K -rw-r--r-- 1 root root  90K May 19 04:21 packages-stable/borg-3.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/borg-badge.svg
+4.0K -rw-r--r-- 1 root root  462 May 19 04:21 packages-stable/borg-readme.txt

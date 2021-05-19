@@ -1,0 +1,6 @@
+Package: company-box
+Fetcher: github
+Source:  https://github.com/sebastiencs/company-box.git
+
+Updating /mnt/store/melpa/working/company-box/
+No valid stable versions found for company-box

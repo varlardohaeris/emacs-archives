@@ -1,0 +1,6 @@
+Package: poke-line
+Fetcher: github
+Source:  https://github.com/RyanMillerC/poke-line.git
+
+Updating /mnt/store/melpa/working/poke-line/
+No valid stable versions found for poke-line

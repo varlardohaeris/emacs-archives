@@ -1,0 +1,6 @@
+Package: framesize
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-framesize.git
+
+Updating /mnt/store/melpa/working/framesize/
+No valid stable versions found for framesize

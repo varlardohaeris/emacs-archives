@@ -1,0 +1,6 @@
+Package: ox-jira
+Fetcher: github
+Source:  https://github.com/stig/ox-jira.el.git
+
+Updating /mnt/store/melpa/working/ox-jira/
+No valid stable versions found for ox-jira

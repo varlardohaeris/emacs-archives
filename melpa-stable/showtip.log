@@ -1,0 +1,11 @@
+Package: showtip
+Fetcher: github
+Source:  https://github.com/emacsorphanage/showtip.git
+
+Updating /mnt/store/melpa/working/showtip/
+Built showtip in 2.899s, finished at Wed May 19 01:48:24 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.2K May 19 01:48 packages-stable/showtip-0.1.el
+4.0K -rw-r--r-- 1 root root  250 May 19 01:48 packages-stable/showtip-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/showtip-badge.svg
+4.0K -rw-r--r-- 1 root root  100 May 19 01:48 packages-stable/showtip-readme.txt

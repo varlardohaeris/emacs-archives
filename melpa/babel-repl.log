@@ -1,0 +1,11 @@
+Package: babel-repl
+Fetcher: github
+Source:  https://github.com/hung-phan/babel-repl.git
+
+Updating /mnt/store/melpa/working/babel-repl/
+Built babel-repl in 5.354s, finished at Wed May 19 03:00:51 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.3K May 19 03:00 packages/babel-repl-20160504.2201.el
+4.0K -rw-r--r-- 1 root root  338 May 19 03:00 packages/babel-repl-20160504.2201.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:00 packages/babel-repl-badge.svg
+4.0K -rw-r--r-- 1 root root  410 May 19 03:00 packages/babel-repl-readme.txt

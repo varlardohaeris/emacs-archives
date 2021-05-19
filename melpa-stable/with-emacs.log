@@ -1,0 +1,6 @@
+Package: with-emacs
+Fetcher: github
+Source:  https://github.com/twlz0ne/with-emacs.el.git
+
+Updating /mnt/store/melpa/working/with-emacs/
+No valid stable versions found for with-emacs

@@ -1,0 +1,6 @@
+Package: suscolors-theme
+Fetcher: github
+Source:  https://github.com/TheSuspiciousWombat/SusColors-emacs.git
+
+Updating /mnt/store/melpa/working/suscolors-theme/
+No valid stable versions found for suscolors-theme

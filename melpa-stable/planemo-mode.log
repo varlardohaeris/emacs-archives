@@ -1,0 +1,6 @@
+Package: planemo-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/planemo-mode.el.git
+
+Updating /mnt/store/melpa/working/planemo-mode/
+No valid stable versions found for planemo-mode

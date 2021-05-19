@@ -1,0 +1,6 @@
+Package: term+mux
+Fetcher: github
+Source:  https://github.com/tarao/term-plus-mux-el.git
+
+Updating /mnt/store/melpa/working/term+mux/
+No valid stable versions found for term+mux

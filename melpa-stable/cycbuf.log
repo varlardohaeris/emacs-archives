@@ -1,0 +1,6 @@
+Package: cycbuf
+Fetcher: github
+Source:  https://github.com/martinp26/cycbuf.git
+
+Updating /mnt/store/melpa/working/cycbuf/
+No valid stable versions found for cycbuf

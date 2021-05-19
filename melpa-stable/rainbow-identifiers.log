@@ -1,0 +1,11 @@
+Package: rainbow-identifiers
+Fetcher: github
+Source:  https://github.com/Fanael/rainbow-identifiers.git
+
+Updating /mnt/store/melpa/working/rainbow-identifiers/
+Built rainbow-identifiers in 2.820s, finished at Wed May 19 01:45:22 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.5K May 19 01:45 packages-stable/rainbow-identifiers-0.2.2.el
+4.0K -rw-r--r-- 1 root root  392 May 19 01:45 packages-stable/rainbow-identifiers-0.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rainbow-identifiers-badge.svg
+4.0K -rw-r--r-- 1 root root  307 May 19 01:45 packages-stable/rainbow-identifiers-readme.txt

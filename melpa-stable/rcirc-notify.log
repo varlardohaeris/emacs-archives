@@ -1,0 +1,6 @@
+Package: rcirc-notify
+Fetcher: github
+Source:  https://github.com/nicferrier/rcirc-notify.git
+
+Updating /mnt/store/melpa/working/rcirc-notify/
+No valid stable versions found for rcirc-notify

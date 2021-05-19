@@ -1,3 +1,4 @@
+
   Haskell-Snippets is a collection of YASnippet Haskell snippets for Emacs.
 
   Available Expansion Keys:

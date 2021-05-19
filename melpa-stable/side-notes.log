@@ -1,0 +1,11 @@
+Package: side-notes
+Fetcher: github
+Source:  https://github.com/rnkn/side-notes.git
+
+Updating /mnt/store/melpa/working/side-notes/
+Built side-notes in 3.277s, finished at Wed May 19 01:48:31 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.2K May 19 01:48 packages-stable/side-notes-0.4.1.el
+4.0K -rw-r--r-- 1 root root  388 May 19 01:48 packages-stable/side-notes-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/side-notes-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 01:48 packages-stable/side-notes-readme.txt

@@ -38,10 +38,10 @@ https://github.com/momomo5717/avy-migemo  (README.org or README.jp.org)
 Setup:
 (add-to-list 'load-path "/path/to/avy-migemo")
 (require 'avy-migemo)
-`avy-migemo-mode' overrides avy's predefined functions using `advice-add'.
+;; `avy-migemo-mode' overrides avy's predefined functions using `advice-add'.
 (avy-migemo-mode 1)
 (global-set-key (kbd "M-g m m") 'avy-migemo-mode)
 
-If you would like to restrict the length of displayed keys within 2
-for `avy-style' of at-full, `avy-migemo-at-full-max' provides it.
+;; If you would like to restrict the length of displayed keys within 2
+;; for `avy-style' of at-full, `avy-migemo-at-full-max' provides it.
 (custom-set-variables '(avy-migemo-at-full-max 2))

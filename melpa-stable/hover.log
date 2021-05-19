@@ -1,0 +1,11 @@
+Package: hover
+Fetcher: github
+Source:  https://github.com/ericdallo/hover.el.git
+
+Updating /mnt/store/melpa/working/hover/
+Built hover in 3.537s, finished at Wed May 19 04:42:08 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.2K May 19 04:42 packages-stable/hover-1.2.3.el
+4.0K -rw-r--r-- 1 root root  331 May 19 04:42 packages-stable/hover-1.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hover-badge.svg
+4.0K -rw-r--r-- 1 root root  170 May 19 04:42 packages-stable/hover-readme.txt

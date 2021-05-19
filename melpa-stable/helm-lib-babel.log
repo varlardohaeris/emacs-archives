@@ -1,0 +1,6 @@
+Package: helm-lib-babel
+Fetcher: github
+Source:  https://github.com/dfeich/helm-lib-babel.git
+
+Updating /mnt/store/melpa/working/helm-lib-babel/
+No valid stable versions found for helm-lib-babel

@@ -1,0 +1,6 @@
+Package: cloud-theme
+Fetcher: github
+Source:  https://github.com/vallyscode/cloud-theme.git
+
+Updating /mnt/store/melpa/working/cloud-theme/
+No valid stable versions found for cloud-theme

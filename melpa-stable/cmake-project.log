@@ -1,0 +1,11 @@
+Package: cmake-project
+Fetcher: github
+Source:  https://github.com/alamaison/emacs-cmake-project.git
+
+Updating /mnt/store/melpa/working/cmake-project/
+Built cmake-project in 3.115s, finished at Wed May 19 04:23:46 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:23 packages-stable/cmake-project-0.7.el
+4.0K -rw-r--r-- 1 root root  396 May 19 04:23 packages-stable/cmake-project-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cmake-project-badge.svg
+4.0K -rw-r--r-- 1 root root  165 May 19 04:23 packages-stable/cmake-project-readme.txt

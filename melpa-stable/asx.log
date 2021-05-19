@@ -1,0 +1,6 @@
+Package: asx
+Fetcher: github
+Source:  https://github.com/ragone/asx.git
+
+Updating /mnt/store/melpa/working/asx/
+No valid stable versions found for asx

@@ -1,0 +1,6 @@
+Package: i3wm
+Fetcher: git
+Source:  https://git.flintfam.org/swf-projects/emacs-i3.git
+
+Updating /mnt/store/melpa/working/i3wm/
+No valid stable versions found for i3wm

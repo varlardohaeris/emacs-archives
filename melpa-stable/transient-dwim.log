@@ -1,0 +1,6 @@
+Package: transient-dwim
+Fetcher: github
+Source:  https://github.com/conao3/transient-dwim.el.git
+
+Updating /mnt/store/melpa/working/transient-dwim/
+No valid stable versions found for transient-dwim

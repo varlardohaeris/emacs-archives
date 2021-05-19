@@ -1,0 +1,11 @@
+Package: ibuffer-vc
+Fetcher: github
+Source:  https://github.com/purcell/ibuffer-vc.git
+
+Updating /mnt/store/melpa/working/ibuffer-vc/
+Built ibuffer-vc in 3.048s, finished at Wed May 19 04:42:32 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.6K May 19 04:42 packages-stable/ibuffer-vc-0.11.el
+4.0K -rw-r--r-- 1 root root  439 May 19 04:42 packages-stable/ibuffer-vc-0.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/ibuffer-vc-badge.svg
+4.0K -rw-r--r-- 1 root root  155 May 19 04:42 packages-stable/ibuffer-vc-readme.txt

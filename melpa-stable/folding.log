@@ -1,0 +1,6 @@
+Package: folding
+Fetcher: github
+Source:  https://github.com/jaalto/project-emacs--folding-mode.git
+
+Updating /mnt/store/melpa/working/folding/
+No valid stable versions found for folding

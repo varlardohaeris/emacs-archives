@@ -1,0 +1,21 @@
+Package: ob-browser
+Fetcher: github
+Source:  https://github.com/krisajenkins/ob-browser.git
+
+Updating /mnt/store/melpa/working/ob-browser/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ob-browser/
+  to /tmp/ob-browseri27Yjd/ob-browser-20170720.1918
+    ob-browser.js -> ob-browser.js
+    ob-browser.el -> ob-browser.el
+Created ob-browser-20170720.1918.tar containing:
+  ob-browser-20170720.1918/
+  ob-browser-20170720.1918/ob-browser-pkg.el
+  ob-browser-20170720.1918/ob-browser.el
+  ob-browser-20170720.1918/ob-browser.js
+Built ob-browser in 3.758s, finished at Wed May 19 03:48:22 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  420 May 19 03:48 packages/ob-browser-20170720.1918.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 03:48 packages/ob-browser-20170720.1918.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:48 packages/ob-browser-badge.svg
+4.0K -rw-r--r-- 1 root root   33 May 19 03:48 packages/ob-browser-readme.txt

@@ -1,2 +1,10 @@
-
-(color-theme-modern . [(0 0 3) ((emacs (24))) "Reimplement colortheme with Emacs 24 theme framework." tar ((:commit . "4f7da6f955f7c584c5dfab2dc170f9a3debd80f8") (:url . "https://github.com/emacs-jp/replace-colorthemes/"))])
+(color-theme-modern .
+		    [(0 0 3)
+		     ((emacs
+		       (24)))
+		     "Reimplement colortheme with Emacs 24 theme framework." tar
+		     ((:commit . "4f7da6f955f7c584c5dfab2dc170f9a3debd80f8")
+		      (:authors
+		       ("Syohei YOSHIDA" . "syohex@gmail.com"))
+		      (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
+		      (:url . "https://github.com/emacs-jp/replace-colorthemes"))])

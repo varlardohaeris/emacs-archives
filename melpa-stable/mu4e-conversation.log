@@ -1,0 +1,6 @@
+Package: mu4e-conversation
+Fetcher: gitlab
+Source:  https://gitlab.com/ambrevar/mu4e-conversation.git
+
+Updating /mnt/store/melpa/working/mu4e-conversation/
+No valid stable versions found for mu4e-conversation

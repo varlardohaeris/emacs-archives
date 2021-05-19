@@ -1,0 +1,6 @@
+Package: nix-modeline
+Fetcher: github
+Source:  https://github.com/ocelot-project/nix-modeline.git
+
+Updating /mnt/store/melpa/working/nix-modeline/
+No valid stable versions found for nix-modeline

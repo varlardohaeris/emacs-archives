@@ -1,0 +1,21 @@
+Package: tss
+Fetcher: github
+Source:  https://github.com/aki2o/emacs-tss.git
+
+Updating /mnt/store/melpa/working/tss/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tss/
+  to /tmp/tssEBpxyS/tss-0.6.0
+    tss.el -> tss.el
+    typescript.el -> typescript.el
+Created tss-0.6.0.tar containing:
+  tss-0.6.0/
+  tss-0.6.0/tss-pkg.el
+  tss-0.6.0/tss.el
+  tss-0.6.0/typescript.el
+Built tss in 3.870s, finished at Wed May 19 01:53:03 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  506 May 19 01:53 packages-stable/tss-0.6.0.entry
+180K -rw-r--r-- 1 root root 180K May 19 01:53 packages-stable/tss-0.6.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/tss-badge.svg
+4.0K -rw-r--r-- 1 root root  277 May 19 01:53 packages-stable/tss-readme.txt

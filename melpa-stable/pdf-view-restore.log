@@ -1,0 +1,6 @@
+Package: pdf-view-restore
+Fetcher: github
+Source:  https://github.com/007kevin/pdf-view-restore.git
+
+Updating /mnt/store/melpa/working/pdf-view-restore/
+No valid stable versions found for pdf-view-restore

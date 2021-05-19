@@ -1,0 +1,6 @@
+Package: zig-mode
+Fetcher: github
+Source:  https://github.com/ziglang/zig-mode.git
+
+Updating /mnt/store/melpa/working/zig-mode/
+No valid stable versions found for zig-mode

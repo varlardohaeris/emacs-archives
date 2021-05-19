@@ -1,0 +1,6 @@
+Package: hgignore-mode
+Fetcher: github
+Source:  https://github.com/omajid/hgignore-mode.git
+
+Updating /mnt/store/melpa/working/hgignore-mode/
+No valid stable versions found for hgignore-mode

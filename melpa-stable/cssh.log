@@ -1,0 +1,6 @@
+Package: cssh
+Fetcher: github
+Source:  https://github.com/dimitri/cssh.git
+
+Updating /mnt/store/melpa/working/cssh/
+No valid stable versions found for cssh

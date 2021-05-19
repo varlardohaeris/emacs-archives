@@ -1,3 +1,4 @@
+
 A new org-mode table is automatically updated,
 based on another table acting as a data source
 and user-given specifications for how to perform aggregation.

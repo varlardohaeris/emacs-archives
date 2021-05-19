@@ -1,0 +1,11 @@
+Package: frames-only-mode
+Fetcher: github
+Source:  https://github.com/davidshepherd7/frames-only-mode.git
+
+Updating /mnt/store/melpa/working/frames-only-mode/
+Built frames-only-mode in 3.581s, finished at Wed May 19 04:36:14 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K May 19 04:36 packages-stable/frames-only-mode-1.0.0.el
+4.0K -rw-r--r-- 1 root root  444 May 19 04:36 packages-stable/frames-only-mode-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/frames-only-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:36 packages-stable/frames-only-mode-readme.txt

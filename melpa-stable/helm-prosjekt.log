@@ -1,0 +1,6 @@
+Package: helm-prosjekt
+Fetcher: github
+Source:  https://github.com/abingham/prosjekt.git
+
+Updating /mnt/store/melpa/working/helm-prosjekt/
+No valid stable versions found for helm-prosjekt

@@ -1,0 +1,11 @@
+Package: celery
+Fetcher: github
+Source:  https://github.com/ardumont/emacs-celery.git
+
+Updating /mnt/store/melpa/working/celery/
+Built celery in 3.528s, finished at Wed May 19 04:22:52 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K May 19 04:22 packages-stable/celery-0.0.3.el
+4.0K -rw-r--r-- 1 root root  442 May 19 04:22 packages-stable/celery-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/celery-badge.svg
+4.0K -rw-r--r-- 1 root root  568 May 19 04:22 packages-stable/celery-readme.txt

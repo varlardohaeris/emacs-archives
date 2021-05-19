@@ -1,0 +1,12 @@
+Package: gather
+Fetcher: github
+Source:  https://github.com/mhayashi1120/Emacs-gather.git
+
+Updating /mnt/store/melpa/working/gather/
+Note: gather :files spec is equivalent to the default.
+Built gather in 2.840s, finished at Wed May 19 04:36:39 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:36 packages-stable/gather-1.1.0.el
+4.0K -rw-r--r-- 1 root root  378 May 19 04:36 packages-stable/gather-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/gather-badge.svg
+4.0K -rw-r--r-- 1 root root  356 May 19 04:36 packages-stable/gather-readme.txt

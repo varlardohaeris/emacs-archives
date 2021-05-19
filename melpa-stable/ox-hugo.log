@@ -1,0 +1,21 @@
+Package: ox-hugo
+Fetcher: github
+Source:  https://github.com/kaushalmodi/ox-hugo.git
+
+Updating /mnt/store/melpa/working/ox-hugo/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ox-hugo/
+  to /tmp/ox-hugoKwdnNE/ox-hugo-0.8
+    ox-blackfriday.el -> ox-blackfriday.el
+    ox-hugo.el -> ox-hugo.el
+Created ox-hugo-0.8.tar containing:
+  ox-hugo-0.8/
+  ox-hugo-0.8/ox-blackfriday.el
+  ox-hugo-0.8/ox-hugo-pkg.el
+  ox-hugo-0.8/ox-hugo.el
+Built ox-hugo in 3.191s, finished at Wed May 19 01:41:24 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  265 May 19 01:41 packages-stable/ox-hugo-0.8.entry
+192K -rw-r--r-- 1 root root 190K May 19 01:41 packages-stable/ox-hugo-0.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-hugo-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K May 19 01:41 packages-stable/ox-hugo-readme.txt

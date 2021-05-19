@@ -1,0 +1,6 @@
+Package: rpm-spec-mode
+Fetcher: github
+Source:  https://github.com/stigbjorlykke/rpm-spec-mode.git
+
+Updating /mnt/store/melpa/working/rpm-spec-mode/
+No valid stable versions found for rpm-spec-mode

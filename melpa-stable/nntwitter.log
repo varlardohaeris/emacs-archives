@@ -1,0 +1,6 @@
+Package: nntwitter
+Fetcher: github
+Source:  https://github.com/dickmao/nntwitter.git
+
+Updating /mnt/store/melpa/working/nntwitter/
+No valid stable versions found for nntwitter

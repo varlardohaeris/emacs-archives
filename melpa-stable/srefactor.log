@@ -1,0 +1,23 @@
+Package: srefactor
+Fetcher: github
+Source:  https://github.com/tuhdo/semantic-refactor.git
+
+Updating /mnt/store/melpa/working/srefactor/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/srefactor/
+  to /tmp/srefactor2uh4UV/srefactor-0.5
+    srefactor-lisp.el -> srefactor-lisp.el
+    srefactor-ui.el -> srefactor-ui.el
+    srefactor.el -> srefactor.el
+Created srefactor-0.5.tar containing:
+  srefactor-0.5/
+  srefactor-0.5/srefactor-lisp.el
+  srefactor-0.5/srefactor-pkg.el
+  srefactor-0.5/srefactor-ui.el
+  srefactor-0.5/srefactor.el
+Built srefactor in 2.856s, finished at Wed May 19 01:50:11 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  384 May 19 01:50 packages-stable/srefactor-0.5.entry
+120K -rw-r--r-- 1 root root 120K May 19 01:50 packages-stable/srefactor-0.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/srefactor-badge.svg
+4.0K -rw-r--r-- 1 root root 3.0K May 19 01:50 packages-stable/srefactor-readme.txt

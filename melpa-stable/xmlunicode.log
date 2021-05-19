@@ -1,0 +1,23 @@
+Package: xmlunicode
+Fetcher: github
+Source:  https://github.com/ndw/xmlunicode.git
+
+Updating /mnt/store/melpa/working/xmlunicode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/xmlunicode/
+  to /tmp/xmlunicodewbARkx/xmlunicode-1.23
+    xmlunicode-character-list.el -> xmlunicode-character-list.el
+    xmlunicode-helm.el -> xmlunicode-helm.el
+    xmlunicode.el -> xmlunicode.el
+Created xmlunicode-1.23.tar containing:
+  xmlunicode-1.23/
+  xmlunicode-1.23/xmlunicode-character-list.el
+  xmlunicode-1.23/xmlunicode-helm.el
+  xmlunicode-1.23/xmlunicode-pkg.el
+  xmlunicode-1.23/xmlunicode.el
+Built xmlunicode in 4.027s, finished at Wed May 19 01:56:01 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  305 May 19 01:56 packages-stable/xmlunicode-1.23.entry
+2.2M -rw-r--r-- 1 root root 2.2M May 19 01:56 packages-stable/xmlunicode-1.23.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/xmlunicode-badge.svg
+8.0K -rw-r--r-- 1 root root 6.3K May 19 01:56 packages-stable/xmlunicode-readme.txt

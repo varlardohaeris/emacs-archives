@@ -1,0 +1,6 @@
+Package: s12cpuv2-mode
+Fetcher: github
+Source:  https://github.com/AdamNiederer/s12cpuv2-mode.git
+
+Updating /mnt/store/melpa/working/s12cpuv2-mode/
+No valid stable versions found for s12cpuv2-mode

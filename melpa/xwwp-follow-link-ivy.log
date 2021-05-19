@@ -1,0 +1,11 @@
+Package: xwwp-follow-link-ivy
+Fetcher: github
+Source:  https://github.com/canatella/xwwp.git
+
+Updating /mnt/store/melpa/working/xwwp-follow-link-ivy/
+Built xwwp-follow-link-ivy in 4.035s, finished at Wed May 19 04:16:50 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K May 19 04:16 packages/xwwp-follow-link-ivy-20200917.642.el
+4.0K -rw-r--r-- 1 root root  389 May 19 04:16 packages/xwwp-follow-link-ivy-20200917.642.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:16 packages/xwwp-follow-link-ivy-badge.svg
+4.0K -rw-r--r-- 1 root root   94 May 19 04:16 packages/xwwp-follow-link-ivy-readme.txt

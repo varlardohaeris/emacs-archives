@@ -1,0 +1,11 @@
+Package: transient-dwim
+Fetcher: github
+Source:  https://github.com/conao3/transient-dwim.el.git
+
+Updating /mnt/store/melpa/working/transient-dwim/
+Built transient-dwim in 4.641s, finished at Wed May 19 04:11:10 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  27K May 19 04:11 packages/transient-dwim-20200812.1033.el
+4.0K -rw-r--r-- 1 root root  397 May 19 04:11 packages/transient-dwim-20200812.1033.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/transient-dwim-badge.svg
+4.0K -rw-r--r-- 1 root root  633 May 19 04:11 packages/transient-dwim-readme.txt

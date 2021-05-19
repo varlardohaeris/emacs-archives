@@ -1,0 +1,6 @@
+Package: xo
+Fetcher: github
+Source:  https://github.com/j-em/xo-emacs.git
+
+Updating /mnt/store/melpa/working/xo/
+No valid stable versions found for xo

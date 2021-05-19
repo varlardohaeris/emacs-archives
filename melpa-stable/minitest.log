@@ -1,0 +1,93 @@
+Package: minitest
+Fetcher: github
+Source:  https://github.com/arthurnn/minitest-emacs.git
+
+Updating /mnt/store/melpa/working/minitest/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/minitest/
+  to /tmp/minitestHPoX1U/minitest-0.9.2
+    minitest.el -> minitest.el
+    snippets => snippets
+Created minitest-0.9.2.tar containing:
+  minitest-0.9.2/
+  minitest-0.9.2/minitest-pkg.el
+  minitest-0.9.2/minitest.el
+  minitest-0.9.2/snippets/
+  minitest-0.9.2/snippets/minitest-mode/
+  minitest-0.9.2/snippets/minitest-mode/assert
+  minitest-0.9.2/snippets/minitest-mode/assert_empty
+  minitest-0.9.2/snippets/minitest-mode/assert_empty_p
+  minitest-0.9.2/snippets/minitest-mode/assert_equal
+  minitest-0.9.2/snippets/minitest-mode/assert_equal_p
+  minitest-0.9.2/snippets/minitest-mode/assert_in_delta
+  minitest-0.9.2/snippets/minitest-mode/assert_in_delta_p
+  minitest-0.9.2/snippets/minitest-mode/assert_in_epsilon
+  minitest-0.9.2/snippets/minitest-mode/assert_in_epsilon_p
+  minitest-0.9.2/snippets/minitest-mode/assert_includes
+  minitest-0.9.2/snippets/minitest-mode/assert_includes_p
+  minitest-0.9.2/snippets/minitest-mode/assert_instance_of
+  minitest-0.9.2/snippets/minitest-mode/assert_instance_of_p
+  minitest-0.9.2/snippets/minitest-mode/assert_kind_of
+  minitest-0.9.2/snippets/minitest-mode/assert_kind_of_p
+  minitest-0.9.2/snippets/minitest-mode/assert_match
+  minitest-0.9.2/snippets/minitest-mode/assert_match_p
+  minitest-0.9.2/snippets/minitest-mode/assert_nil
+  minitest-0.9.2/snippets/minitest-mode/assert_nil_p
+  minitest-0.9.2/snippets/minitest-mode/assert_operator
+  minitest-0.9.2/snippets/minitest-mode/assert_operator_p
+  minitest-0.9.2/snippets/minitest-mode/assert_output
+  minitest-0.9.2/snippets/minitest-mode/assert_output_p
+  minitest-0.9.2/snippets/minitest-mode/assert_p
+  minitest-0.9.2/snippets/minitest-mode/assert_predicate
+  minitest-0.9.2/snippets/minitest-mode/assert_predicate_p
+  minitest-0.9.2/snippets/minitest-mode/assert_raises
+  minitest-0.9.2/snippets/minitest-mode/assert_raises_p
+  minitest-0.9.2/snippets/minitest-mode/assert_respond_to
+  minitest-0.9.2/snippets/minitest-mode/assert_respond_to_p
+  minitest-0.9.2/snippets/minitest-mode/assert_same
+  minitest-0.9.2/snippets/minitest-mode/assert_same_p
+  minitest-0.9.2/snippets/minitest-mode/assert_send
+  minitest-0.9.2/snippets/minitest-mode/assert_send_p
+  minitest-0.9.2/snippets/minitest-mode/assert_silent
+  minitest-0.9.2/snippets/minitest-mode/assert_silent_p
+  minitest-0.9.2/snippets/minitest-mode/assert_throws
+  minitest-0.9.2/snippets/minitest-mode/assert_throws_p
+  minitest-0.9.2/snippets/minitest-mode/flunk
+  minitest-0.9.2/snippets/minitest-mode/flunk_p
+  minitest-0.9.2/snippets/minitest-mode/pass
+  minitest-0.9.2/snippets/minitest-mode/pass_p
+  minitest-0.9.2/snippets/minitest-mode/refute
+  minitest-0.9.2/snippets/minitest-mode/refute_empty
+  minitest-0.9.2/snippets/minitest-mode/refute_empty_p
+  minitest-0.9.2/snippets/minitest-mode/refute_equal
+  minitest-0.9.2/snippets/minitest-mode/refute_equal_p
+  minitest-0.9.2/snippets/minitest-mode/refute_in_delta
+  minitest-0.9.2/snippets/minitest-mode/refute_in_delta_p
+  minitest-0.9.2/snippets/minitest-mode/refute_in_epsilon
+  minitest-0.9.2/snippets/minitest-mode/refute_in_epsilon_p
+  minitest-0.9.2/snippets/minitest-mode/refute_includes
+  minitest-0.9.2/snippets/minitest-mode/refute_includes_p
+  minitest-0.9.2/snippets/minitest-mode/refute_instance_of
+  minitest-0.9.2/snippets/minitest-mode/refute_instance_of_p
+  minitest-0.9.2/snippets/minitest-mode/refute_kind_of
+  minitest-0.9.2/snippets/minitest-mode/refute_kind_of_p
+  minitest-0.9.2/snippets/minitest-mode/refute_match
+  minitest-0.9.2/snippets/minitest-mode/refute_match_p
+  minitest-0.9.2/snippets/minitest-mode/refute_nil
+  minitest-0.9.2/snippets/minitest-mode/refute_nil_p
+  minitest-0.9.2/snippets/minitest-mode/refute_operator
+  minitest-0.9.2/snippets/minitest-mode/refute_operator_p
+  minitest-0.9.2/snippets/minitest-mode/refute_p
+  minitest-0.9.2/snippets/minitest-mode/refute_predicate
+  minitest-0.9.2/snippets/minitest-mode/refute_predicate_p
+  minitest-0.9.2/snippets/minitest-mode/refute_respond_to
+  minitest-0.9.2/snippets/minitest-mode/refute_respond_to_p
+  minitest-0.9.2/snippets/minitest-mode/refute_same
+  minitest-0.9.2/snippets/minitest-mode/refute_same_p
+  minitest-0.9.2/snippets/minitest-mode/skip
+  minitest-0.9.2/snippets/minitest-mode/skip_p
+Built minitest in 3.623s, finished at Wed May 19 01:35:28 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  294 May 19 01:35 packages-stable/minitest-0.9.2.entry
+ 92K -rw-r--r-- 1 root root  90K May 19 01:35 packages-stable/minitest-0.9.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/minitest-badge.svg

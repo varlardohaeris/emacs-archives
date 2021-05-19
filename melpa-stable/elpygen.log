@@ -1,0 +1,6 @@
+Package: elpygen
+Fetcher: github
+Source:  https://github.com/vkazanov/elpygen.git
+
+Updating /mnt/store/melpa/working/elpygen/
+No valid stable versions found for elpygen

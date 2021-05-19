@@ -1,0 +1,6 @@
+Package: spacegray-theme
+Fetcher: github
+Source:  https://github.com/bruce/emacs-spacegray-theme.git
+
+Updating /mnt/store/melpa/working/spacegray-theme/
+No valid stable versions found for spacegray-theme

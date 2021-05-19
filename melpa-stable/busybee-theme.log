@@ -1,0 +1,6 @@
+Package: busybee-theme
+Fetcher: github
+Source:  https://github.com/mswift42/busybee-theme.git
+
+Updating /mnt/store/melpa/working/busybee-theme/
+No valid stable versions found for busybee-theme

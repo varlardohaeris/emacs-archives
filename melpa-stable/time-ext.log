@@ -1,0 +1,6 @@
+Package: time-ext
+Fetcher: github
+Source:  https://github.com/rubikitch/time-ext.git
+
+Updating /mnt/store/melpa/working/time-ext/
+No valid stable versions found for time-ext

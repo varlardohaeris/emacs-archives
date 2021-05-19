@@ -1,0 +1,6 @@
+Package: helm-osx-app
+Fetcher: github
+Source:  https://github.com/xuchunyang/helm-osx-app.git
+
+Updating /mnt/store/melpa/working/helm-osx-app/
+No valid stable versions found for helm-osx-app

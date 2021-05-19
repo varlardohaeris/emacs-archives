@@ -1,0 +1,6 @@
+Package: memolist
+Fetcher: github
+Source:  https://github.com/mikanfactory/memolist.el.git
+
+Updating /mnt/store/melpa/working/memolist/
+No valid stable versions found for memolist

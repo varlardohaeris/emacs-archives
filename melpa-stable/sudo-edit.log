@@ -1,0 +1,11 @@
+Package: sudo-edit
+Fetcher: github
+Source:  https://github.com/nflath/sudo-edit.git
+
+Updating /mnt/store/melpa/working/sudo-edit/
+Built sudo-edit in 3.001s, finished at Wed May 19 01:50:36 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K May 19 01:50 packages-stable/sudo-edit-0.1.1.el
+4.0K -rw-r--r-- 1 root root  399 May 19 01:50 packages-stable/sudo-edit-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sudo-edit-badge.svg
+4.0K -rw-r--r-- 1 root root  254 May 19 01:50 packages-stable/sudo-edit-readme.txt

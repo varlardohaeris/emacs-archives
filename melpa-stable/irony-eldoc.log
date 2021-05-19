@@ -1,0 +1,6 @@
+Package: irony-eldoc
+Fetcher: github
+Source:  https://github.com/ikirill/irony-eldoc.git
+
+Updating /mnt/store/melpa/working/irony-eldoc/
+No valid stable versions found for irony-eldoc

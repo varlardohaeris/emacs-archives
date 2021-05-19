@@ -1,0 +1,25 @@
+Package: impatient-mode
+Fetcher: github
+Source:  https://github.com/skeeto/impatient-mode.git
+
+Updating /mnt/store/melpa/working/impatient-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/impatient-mode/
+  to /tmp/impatient-mode9WDQtO/impatient-mode-1.1
+    index.html -> index.html
+    loading.html -> loading.html
+    jquery.js -> jquery.js
+    impatient-mode.el -> impatient-mode.el
+Created impatient-mode-1.1.tar containing:
+  impatient-mode-1.1/
+  impatient-mode-1.1/impatient-mode-pkg.el
+  impatient-mode-1.1/impatient-mode.el
+  impatient-mode-1.1/index.html
+  impatient-mode-1.1/jquery.js
+  impatient-mode-1.1/loading.html
+Built impatient-mode in 3.376s, finished at Wed May 19 04:43:04 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  375 May 19 04:43 packages-stable/impatient-mode-1.1.entry
+240K -rw-r--r-- 1 root root 240K May 19 04:43 packages-stable/impatient-mode-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/impatient-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  980 May 19 04:43 packages-stable/impatient-mode-readme.txt

@@ -1,0 +1,6 @@
+Package: xah-get-thing
+Fetcher: github
+Source:  https://github.com/xahlee/xah-get-thing-or-selection.git
+
+Updating /mnt/store/melpa/working/xah-get-thing/
+No valid stable versions found for xah-get-thing

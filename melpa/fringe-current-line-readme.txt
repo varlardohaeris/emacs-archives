@@ -1,3 +1,4 @@
+
 fringe-current-line is a package to indicate current line on the fringe.
 You can use by the following steps.
 

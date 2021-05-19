@@ -1,0 +1,6 @@
+Package: frontside-javascript
+Fetcher: github
+Source:  https://github.com/thefrontside/frontmacs.git
+
+Updating /mnt/store/melpa/working/frontside-javascript/
+No matching file(s) found in /mnt/store/melpa/working/frontside-javascript/: (packages/javascript/*.el (:exclude packages/javascript/*-test.el))

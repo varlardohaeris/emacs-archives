@@ -1,0 +1,11 @@
+Package: twig-mode
+Fetcher: github
+Source:  https://github.com/moljac024/twig-mode.git
+
+Updating /mnt/store/melpa/working/twig-mode/
+Built twig-mode in 4.001s, finished at Wed May 19 04:11:47 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:11 packages/twig-mode-20130220.1850.el
+4.0K -rw-r--r-- 1 root root  240 May 19 04:11 packages/twig-mode-20130220.1850.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/twig-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  200 May 19 04:11 packages/twig-mode-readme.txt

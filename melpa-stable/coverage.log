@@ -1,0 +1,11 @@
+Package: coverage
+Fetcher: github
+Source:  https://github.com/trezona-lecomte/coverage.git
+
+Updating /mnt/store/melpa/working/coverage/
+Built coverage in 3.354s, finished at Wed May 19 04:25:38 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K May 19 04:25 packages-stable/coverage-0.5.el
+4.0K -rw-r--r-- 1 root root  459 May 19 04:25 packages-stable/coverage-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/coverage-badge.svg
+4.0K -rw-r--r-- 1 root root  370 May 19 04:25 packages-stable/coverage-readme.txt

@@ -1,0 +1,11 @@
+Package: beacon
+Fetcher: github
+Source:  https://github.com/Malabarba/beacon.git
+
+Updating /mnt/store/melpa/working/beacon/
+Built beacon in 3.630s, finished at Wed May 19 04:20:55 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K May 19 04:20 packages-stable/beacon-1.3.4.el
+4.0K -rw-r--r-- 1 root root  380 May 19 04:20 packages-stable/beacon-1.3.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/beacon-badge.svg
+4.0K -rw-r--r-- 1 root root  278 May 19 04:20 packages-stable/beacon-readme.txt

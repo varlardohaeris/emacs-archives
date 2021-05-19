@@ -1,0 +1,6 @@
+Package: fuff
+Fetcher: github
+Source:  https://github.com/joelmo/fuff.git
+
+Updating /mnt/store/melpa/working/fuff/
+No valid stable versions found for fuff

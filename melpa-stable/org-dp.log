@@ -1,0 +1,22 @@
+Package: org-dp
+Fetcher: github
+Source:  https://github.com/tj64/org-dp.git
+
+Updating /mnt/store/melpa/working/org-dp/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-dp/
+  to /tmp/org-dpfbmfmw/org-dp-1
+    experimental-org-dp-lib.el -> experimental-org-dp-lib.el
+    org-dp-lib.el -> org-dp-lib.el
+    org-dp.el -> org-dp.el
+Created org-dp-1.tar containing:
+  org-dp-1/
+  org-dp-1/experimental-org-dp-lib.el
+  org-dp-1/org-dp-lib.el
+  org-dp-1/org-dp-pkg.el
+  org-dp-1/org-dp.el
+Built org-dp in 2.947s, finished at Wed May 19 01:39:12 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  328 May 19 01:39 packages-stable/org-dp-1.entry
+100K -rw-r--r-- 1 root root 100K May 19 01:39 packages-stable/org-dp-1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-dp-badge.svg

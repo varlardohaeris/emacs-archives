@@ -1,0 +1,6 @@
+Package: helm-git-files
+Fetcher: github
+Source:  https://github.com/kenbeese/helm-git-files.git
+
+Updating /mnt/store/melpa/working/helm-git-files/
+No valid stable versions found for helm-git-files

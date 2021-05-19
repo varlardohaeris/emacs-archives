@@ -5,7 +5,7 @@
 ;; Author: Jared Lumpe <mjlumpe@gmail.com>
 ;; Version: 0.3.0
 ;; Package-Version: 20191225.750
-;; Package-Commit: 8ce0fae6e8b596b93e05dd512be13973cb3cfa54
+;; Package-Commit: 11609b0a4125d1cc6a1149748eeddeeff4e5df63
 ;; Keywords: outlines
 ;; Homepage: https://github.com/jlumpe/ox-json
 

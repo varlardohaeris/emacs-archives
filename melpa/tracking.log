@@ -1,0 +1,21 @@
+Package: tracking
+Fetcher: github
+Source:  https://github.com/jorgenschaefer/circe.git
+
+Updating /mnt/store/melpa/working/tracking/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tracking/
+  to /tmp/trackingrj8sqo/tracking-20201101.1045
+    tracking.el -> tracking.el
+    shorten.el -> shorten.el
+Created tracking-20201101.1045.tar containing:
+  tracking-20201101.1045/
+  tracking-20201101.1045/shorten.el
+  tracking-20201101.1045/tracking-pkg.el
+  tracking-20201101.1045/tracking.el
+Built tracking in 4.761s, finished at Wed May 19 04:11:04 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  329 May 19 04:11 packages/tracking-20201101.1045.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:11 packages/tracking-20201101.1045.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/tracking-badge.svg
+4.0K -rw-r--r-- 1 root root  357 May 19 04:11 packages/tracking-readme.txt

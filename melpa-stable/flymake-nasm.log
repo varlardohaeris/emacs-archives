@@ -1,0 +1,6 @@
+Package: flymake-nasm
+Fetcher: github
+Source:  https://github.com/juergenhoetzel/flymake-nasm.git
+
+Updating /mnt/store/melpa/working/flymake-nasm/
+No valid stable versions found for flymake-nasm

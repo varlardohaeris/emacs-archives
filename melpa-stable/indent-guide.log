@@ -1,0 +1,11 @@
+Package: indent-guide
+Fetcher: github
+Source:  https://github.com/zk-phi/indent-guide.git
+
+Updating /mnt/store/melpa/working/indent-guide/
+Built indent-guide in 2.740s, finished at Wed May 19 04:43:07 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:43 packages-stable/indent-guide-20160630.el
+4.0K -rw-r--r-- 1 root root  256 May 19 04:43 packages-stable/indent-guide-20160630.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/indent-guide-badge.svg
+4.0K -rw-r--r-- 1 root root  486 May 19 04:43 packages-stable/indent-guide-readme.txt

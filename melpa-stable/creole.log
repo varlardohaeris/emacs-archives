@@ -1,0 +1,6 @@
+Package: creole
+Fetcher: github
+Source:  https://github.com/nicferrier/elwikicreole.git
+
+Updating /mnt/store/melpa/working/creole/
+No valid stable versions found for creole

@@ -1,7 +1,7 @@
 No documentation is availible at the moment, but a nice and clean
 README is soon to come.
 
-Installation
+; Installation
 
 In your shell:
 
@@ -13,7 +13,7 @@ In your Emacs config:
     (add-to-list 'load-path "~/.emacs.d/packages/io-mode")
     (require 'io-mode)
 
-Thanks
+; Thanks
 
 Major thanks to defunkt's coffee-mode, which helped me to get over most
 of the tought parts of writing a major mode.

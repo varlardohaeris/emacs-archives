@@ -1,0 +1,6 @@
+Package: fingers
+Fetcher: github
+Source:  https://github.com/fgeller/fingers.el.git
+
+Updating /mnt/store/melpa/working/fingers/
+No valid stable versions found for fingers

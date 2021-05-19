@@ -1,0 +1,6 @@
+Package: flycheck-pkg-config
+Fetcher: github
+Source:  https://github.com/Wilfred/flycheck-pkg-config.git
+
+Updating /mnt/store/melpa/working/flycheck-pkg-config/
+No valid stable versions found for flycheck-pkg-config

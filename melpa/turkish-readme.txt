@@ -1,7 +1,7 @@
 This is for people trying to type Turkish documents on a U.S.
 keyboard.
 
-Installation:
+; Installation:
 
 If you have `melpa' and `emacs24' installed, simply type:
 

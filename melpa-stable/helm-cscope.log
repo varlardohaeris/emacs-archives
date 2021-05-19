@@ -1,0 +1,11 @@
+Package: helm-cscope
+Fetcher: github
+Source:  https://github.com/alpha22jp/helm-cscope.el.git
+
+Updating /mnt/store/melpa/working/helm-cscope/
+Built helm-cscope in 4.353s, finished at Wed May 19 04:40:04 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.6K May 19 04:40 packages-stable/helm-cscope-0.1.1.el
+4.0K -rw-r--r-- 1 root root  461 May 19 04:40 packages-stable/helm-cscope-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-cscope-badge.svg
+4.0K -rw-r--r-- 1 root root   55 May 19 04:40 packages-stable/helm-cscope-readme.txt

@@ -9,7 +9,7 @@ obvious, e.g. for `dired' you have to use `dired-after-readin-hook'
 instead of `dired-mode-hook' unless you're using Emacs >= 28:
 https://gitlab.com/stepnem/stripes-el/-/issues/1#note_309176403
 
-Related / history:
+; Related / history:
 
 Before deciding to go the minimal way I also stumbled upon (and
 discarded just by looking at) the following:

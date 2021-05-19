@@ -1,0 +1,44 @@
+Package: ghc
+Fetcher: github
+Source:  https://github.com/DanielG/ghc-mod.git
+
+Updating /mnt/store/melpa/working/ghc/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ghc/
+  to /tmp/ghcmoLpqO/ghc-5.8.0.0
+  ! elisp/ghc-check.el -> ghc-check.el
+  ! elisp/ghc-command.el -> ghc-command.el
+  ! elisp/ghc-comp.el -> ghc-comp.el
+  ! elisp/ghc-doc.el -> ghc-doc.el
+  ! elisp/ghc-func.el -> ghc-func.el
+  ! elisp/ghc-indent.el -> ghc-indent.el
+  ! elisp/ghc-info.el -> ghc-info.el
+  ! elisp/ghc-ins-mod.el -> ghc-ins-mod.el
+  ! elisp/ghc-pkg.el -> ghc-pkg.el
+  ! elisp/ghc-process.el -> ghc-process.el
+  ! elisp/ghc-rewrite.el -> ghc-rewrite.el
+  ! elisp/ghc.el -> ghc.el
+Created ghc-5.8.0.0.tar containing:
+  ghc-5.8.0.0/
+  ghc-5.8.0.0/ghc-check.el
+  ghc-5.8.0.0/ghc-command.el
+  ghc-5.8.0.0/ghc-comp.el
+  ghc-5.8.0.0/ghc-doc.el
+  ghc-5.8.0.0/ghc-func.el
+  ghc-5.8.0.0/ghc-indent.el
+  ghc-5.8.0.0/ghc-info.el
+  ghc-5.8.0.0/ghc-ins-mod.el
+  ghc-5.8.0.0/ghc-pkg.el
+  ghc-5.8.0.0/ghc-process.el
+  ghc-5.8.0.0/ghc-rewrite.el
+  ghc-5.8.0.0/ghc.el
+Built ghc in 2.923s, finished at Thu Feb  4 20:36:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  265 Feb  4 20:36 packages-stable/ghc-5.8.0.0.entry
+ 80K -rw-r--r-- 1 root root  80K Feb  4 20:36 packages-stable/ghc-5.8.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Feb  4 20:36 packages-stable/ghc-badge.svg
+4.0K -rw-r--r-- 1 root root 3.7K Feb  4 20:36 packages-stable/ghc-imported-from-0.1.2.el
+4.0K -rw-r--r-- 1 root root  398 Feb  4 17:44 packages-stable/ghc-imported-from-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Feb  4 17:44 packages-stable/ghc-imported-from-badge.svg
+4.0K -rw-r--r-- 1 root root  191 Feb  4 17:44 packages-stable/ghc-imported-from-readme.txt
+4.0K -rw-r--r-- 1 root root  169 Feb  4 20:36 packages-stable/ghc-imported-from.log

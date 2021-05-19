@@ -1,0 +1,11 @@
+Package: auto-complete-sage
+Fetcher: github
+Source:  https://github.com/sagemath/auto-complete-sage.git
+
+Updating /mnt/store/melpa/working/auto-complete-sage/
+Built auto-complete-sage in 2.967s, finished at Wed May 19 04:20:13 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:20 packages-stable/auto-complete-sage-0.0.5.el
+4.0K -rw-r--r-- 1 root root  498 May 19 04:20 packages-stable/auto-complete-sage-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/auto-complete-sage-badge.svg
+4.0K -rw-r--r-- 1 root root  158 May 19 04:20 packages-stable/auto-complete-sage-readme.txt

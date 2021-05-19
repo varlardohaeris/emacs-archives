@@ -1,0 +1,17 @@
+Package: flx
+Fetcher: github
+Source:  https://github.com/lewang/flx.git
+
+Updating /mnt/store/melpa/working/flx/
+Built flx in 3.824s, finished at Wed May 19 04:34:23 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:34 packages-stable/flx-0.6.1.el
+4.0K -rw-r--r-- 1 root root  268 May 19 04:34 packages-stable/flx-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flx-badge.svg
+ 12K -rw-r--r-- 1 root root 9.8K May 19 04:34 packages-stable/flx-ido-0.6.1.el
+4.0K -rw-r--r-- 1 root root  271 May 19 01:19 packages-stable/flx-ido-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:19 packages-stable/flx-ido-badge.svg
+4.0K -rw-r--r-- 1 root root  579 May 19 01:19 packages-stable/flx-ido-readme.txt
+4.0K -rw-r--r-- 1 root root  120 May 19 04:34 packages-stable/flx-ido.log
+4.0K -rw-r--r-- 1 root root  186 May 19 04:34 packages-stable/flx-isearch.log
+4.0K -rw-r--r-- 1 root root  498 May 19 04:34 packages-stable/flx-readme.txt

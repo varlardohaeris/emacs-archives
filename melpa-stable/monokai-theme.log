@@ -1,0 +1,11 @@
+Package: monokai-theme
+Fetcher: github
+Source:  https://github.com/oneKelvinSmith/monokai-emacs.git
+
+Updating /mnt/store/melpa/working/monokai-theme/
+Built monokai-theme in 4.305s, finished at Wed May 19 01:35:55 2021
+ ✓ Success:
+244K -rw-r--r-- 1 root root 244K May 19 01:35 packages-stable/monokai-theme-3.5.3.el
+4.0K -rw-r--r-- 1 root root  328 May 19 01:35 packages-stable/monokai-theme-3.5.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/monokai-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  120 May 19 01:35 packages-stable/monokai-theme-readme.txt

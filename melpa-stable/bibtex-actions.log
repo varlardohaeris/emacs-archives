@@ -1,0 +1,11 @@
+Package: bibtex-actions
+Fetcher: github
+Source:  https://github.com/bdarcus/bibtex-actions.git
+
+Updating /mnt/store/melpa/working/bibtex-actions/
+Built bibtex-actions in 4.001s, finished at Wed May 19 04:21:10 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:21 packages-stable/bibtex-actions-0.4.el
+4.0K -rw-r--r-- 1 root root  360 May 19 04:21 packages-stable/bibtex-actions-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bibtex-actions-badge.svg
+4.0K -rw-r--r-- 1 root root  362 May 19 04:21 packages-stable/bibtex-actions-readme.txt

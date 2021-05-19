@@ -1,0 +1,6 @@
+Package: xwwp
+Fetcher: github
+Source:  https://github.com/canatella/xwwp.git
+
+Updating /mnt/store/melpa/working/xwwp/
+No valid stable versions found for xwwp

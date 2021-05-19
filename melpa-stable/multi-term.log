@@ -1,0 +1,6 @@
+Package: multi-term
+Fetcher: github
+Source:  https://github.com/manateelazycat/multi-term.git
+
+Updating /mnt/store/melpa/working/multi-term/
+No valid stable versions found for multi-term

@@ -1,0 +1,6 @@
+Package: unicode-math-input
+Fetcher: github
+Source:  https://github.com/astoff/unicode-math-input.el.git
+
+Updating /mnt/store/melpa/working/unicode-math-input/
+No valid stable versions found for unicode-math-input

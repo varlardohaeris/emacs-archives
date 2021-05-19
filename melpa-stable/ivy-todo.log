@@ -1,0 +1,6 @@
+Package: ivy-todo
+Fetcher: github
+Source:  https://github.com/Kungsgeten/ivy-todo.git
+
+Updating /mnt/store/melpa/working/ivy-todo/
+No valid stable versions found for ivy-todo

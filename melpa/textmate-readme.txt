@@ -31,7 +31,7 @@ In other words, calling Go to File from
 ~/Projects/fieldrunners/ as the root if ~/Projects/fieldrunners/.git
 exists.
 
-Installation
+; Installation
 
 $ cd ~/.emacs.d/vendor
 $ git clone git://github.com/defunkt/textmate.el.git
@@ -42,4 +42,4 @@ In your emacs config:
 (require 'textmate)
 (textmate-mode)
 
-Depends on imenu
+; Depends on imenu

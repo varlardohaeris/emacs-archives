@@ -1,0 +1,6 @@
+Package: vc-defer
+Fetcher: github
+Source:  https://github.com/google/vc-defer.git
+
+Updating /mnt/store/melpa/working/vc-defer/
+No valid stable versions found for vc-defer

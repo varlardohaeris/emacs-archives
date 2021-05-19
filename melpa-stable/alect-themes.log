@@ -1,0 +1,31 @@
+Package: alect-themes
+Fetcher: github
+Source:  https://github.com/alezost/alect-themes.git
+
+Updating /mnt/store/melpa/working/alect-themes/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/alect-themes/
+  to /tmp/alect-themeseCYugE/alect-themes-0.9
+    alect-black-alt-theme.el -> alect-black-alt-theme.el
+    alect-black-theme.el -> alect-black-theme.el
+    alect-dark-alt-theme.el -> alect-dark-alt-theme.el
+    alect-dark-theme.el -> alect-dark-theme.el
+    alect-light-alt-theme.el -> alect-light-alt-theme.el
+    alect-light-theme.el -> alect-light-theme.el
+    alect-themes.el -> alect-themes.el
+Created alect-themes-0.9.tar containing:
+  alect-themes-0.9/
+  alect-themes-0.9/alect-black-alt-theme.el
+  alect-themes-0.9/alect-black-theme.el
+  alect-themes-0.9/alect-dark-alt-theme.el
+  alect-themes-0.9/alect-dark-theme.el
+  alect-themes-0.9/alect-light-alt-theme.el
+  alect-themes-0.9/alect-light-theme.el
+  alect-themes-0.9/alect-themes-pkg.el
+  alect-themes-0.9/alect-themes.el
+Built alect-themes in 3.452s, finished at Wed May 19 04:19:05 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  388 May 19 04:19 packages-stable/alect-themes-0.9.entry
+120K -rw-r--r-- 1 root root 120K May 19 04:19 packages-stable/alect-themes-0.9.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/alect-themes-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:19 packages-stable/alect-themes-readme.txt

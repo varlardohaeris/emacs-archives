@@ -1,0 +1,6 @@
+Package: diff-at-point
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-diff-at-point.git
+
+Updating /mnt/store/melpa/working/diff-at-point/
+No valid stable versions found for diff-at-point

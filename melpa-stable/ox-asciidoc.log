@@ -1,0 +1,6 @@
+Package: ox-asciidoc
+Fetcher: github
+Source:  https://github.com/yashi/org-asciidoc.git
+
+Updating /mnt/store/melpa/working/ox-asciidoc/
+No valid stable versions found for ox-asciidoc

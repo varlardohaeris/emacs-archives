@@ -1,3 +1,4 @@
+
 Quickstart
 
      (require 'ucs-utils)
@@ -98,7 +99,7 @@ TODO
 
     Separate test run without persistent-soft.el
 
-License
+; License
 
 Simplified BSD License:
 

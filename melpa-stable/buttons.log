@@ -1,0 +1,6 @@
+Package: buttons
+Fetcher: github
+Source:  https://github.com/erjoalgo/emacs-buttons.git
+
+Updating /mnt/store/melpa/working/buttons/
+No valid stable versions found for buttons

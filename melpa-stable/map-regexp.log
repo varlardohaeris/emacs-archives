@@ -1,0 +1,11 @@
+Package: map-regexp
+Fetcher: github
+Source:  https://github.com/tarsius/map-regexp.git
+
+Updating /mnt/store/melpa/working/map-regexp/
+Built map-regexp in 3.589s, finished at Wed May 19 01:34:01 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K May 19 01:34 packages-stable/map-regexp-1.0.0.el
+4.0K -rw-r--r-- 1 root root  398 May 19 01:34 packages-stable/map-regexp-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/map-regexp-badge.svg
+4.0K -rw-r--r-- 1 root root  583 May 19 01:34 packages-stable/map-regexp-readme.txt

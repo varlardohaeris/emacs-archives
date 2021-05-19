@@ -1,3 +1,4 @@
+
    Real-time collaborative editing.
 
  This plugin requires Python 2.7 or later and a Floobits account.

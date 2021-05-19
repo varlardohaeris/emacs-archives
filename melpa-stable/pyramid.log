@@ -1,0 +1,27 @@
+Package: pyramid
+Fetcher: github
+Source:  https://github.com/dakra/pyramid.el.git
+
+Updating /mnt/store/melpa/working/pyramid/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pyramid/
+  to /tmp/pyramidX4v8mb/pyramid-0.1
+    pyramid.el -> pyramid.el
+    snippets => snippets
+Created pyramid-0.1.tar containing:
+  pyramid-0.1/
+  pyramid-0.1/pyramid-pkg.el
+  pyramid-0.1/pyramid.el
+  pyramid-0.1/snippets/
+  pyramid-0.1/snippets/python-mode/
+  pyramid-0.1/snippets/python-mode/assign_translate
+  pyramid-0.1/snippets/python-mode/translate
+  pyramid-0.1/snippets/python-mode/view
+  pyramid-0.1/snippets/web-mode/
+  pyramid-0.1/snippets/web-mode/route_url
+Built pyramid in 3.274s, finished at Wed May 19 01:44:55 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  454 May 19 01:44 packages-stable/pyramid-0.1.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:44 packages-stable/pyramid-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pyramid-badge.svg
+4.0K -rw-r--r-- 1 root root  359 May 19 01:44 packages-stable/pyramid-readme.txt

@@ -1,0 +1,6 @@
+Package: ccc
+Fetcher: github
+Source:  https://github.com/skk-dev/ddskk.git
+
+Updating /mnt/store/melpa/working/ccc/
+No valid stable versions found for ccc

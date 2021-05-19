@@ -1,0 +1,33 @@
+Package: bui
+Fetcher: github
+Source:  https://github.com/alezost/bui.el.git
+
+Updating /mnt/store/melpa/working/bui/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bui/
+  to /tmp/buijzBXpB/bui-1.2.1
+    bui-button.el -> bui-button.el
+    bui-core.el -> bui-core.el
+    bui-entry.el -> bui-entry.el
+    bui-history.el -> bui-history.el
+    bui-info.el -> bui-info.el
+    bui-list.el -> bui-list.el
+    bui-utils.el -> bui-utils.el
+    bui.el -> bui.el
+Created bui-1.2.1.tar containing:
+  bui-1.2.1/
+  bui-1.2.1/bui-button.el
+  bui-1.2.1/bui-core.el
+  bui-1.2.1/bui-entry.el
+  bui-1.2.1/bui-history.el
+  bui-1.2.1/bui-info.el
+  bui-1.2.1/bui-list.el
+  bui-1.2.1/bui-pkg.el
+  bui-1.2.1/bui-utils.el
+  bui-1.2.1/bui.el
+Built bui in 2.939s, finished at Wed May 19 04:22:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  360 May 19 04:22 packages-stable/bui-1.2.1.entry
+100K -rw-r--r-- 1 root root 100K May 19 04:22 packages-stable/bui-1.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/bui-badge.svg
+4.0K -rw-r--r-- 1 root root  584 May 19 04:22 packages-stable/bui-readme.txt

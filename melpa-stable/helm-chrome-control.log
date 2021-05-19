@@ -1,0 +1,6 @@
+Package: helm-chrome-control
+Fetcher: github
+Source:  https://github.com/xuchunyang/helm-chrome-control.git
+
+Updating /mnt/store/melpa/working/helm-chrome-control/
+No valid stable versions found for helm-chrome-control

@@ -1,0 +1,21 @@
+Package: moom
+Fetcher: github
+Source:  https://github.com/takaxp/moom.git
+
+Updating /mnt/store/melpa/working/moom/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/moom/
+  to /tmp/moomCIkTee/moom-1.6.0
+    moom-font.el -> moom-font.el
+    moom.el -> moom.el
+Created moom-1.6.0.tar containing:
+  moom-1.6.0/
+  moom-1.6.0/moom-font.el
+  moom-1.6.0/moom-pkg.el
+  moom-1.6.0/moom.el
+Built moom in 3.255s, finished at Wed May 19 01:35:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  378 May 19 01:35 packages-stable/moom-1.6.0.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 01:35 packages-stable/moom-1.6.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/moom-badge.svg
+4.0K -rw-r--r-- 1 root root  551 May 19 01:35 packages-stable/moom-readme.txt

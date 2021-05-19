@@ -1,0 +1,6 @@
+Package: kv
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-kv.git
+
+Updating /mnt/store/melpa/working/kv/
+No valid stable versions found for kv

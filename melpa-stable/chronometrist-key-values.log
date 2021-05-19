@@ -1,0 +1,26 @@
+Package: chronometrist-key-values
+Fetcher: git
+Source:  https://tildegit.org/contrapunctus/chronometrist.git
+
+Updating /mnt/store/melpa/working/chronometrist-key-values/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chronometrist-key-values/
+  to /tmp/chronometrist-key-valuesHtlHcb/chronometrist-key-values-0.7.1
+  ! doc/manual.info -> manual.info
+  ! elisp/chronometrist-diary-view.el -> chronometrist-diary-view.el
+  ! elisp/chronometrist-key-values.el -> chronometrist-key-values.el
+  ! elisp/chronometrist-key-values.org -> chronometrist-key-values.org
+Created chronometrist-key-values-0.7.1.tar containing:
+  chronometrist-key-values-0.7.1/
+  chronometrist-key-values-0.7.1/chronometrist-diary-view.el
+  chronometrist-key-values-0.7.1/chronometrist-key-values-pkg.el
+  chronometrist-key-values-0.7.1/chronometrist-key-values.el
+  chronometrist-key-values-0.7.1/chronometrist-key-values.org
+  chronometrist-key-values-0.7.1/dir
+  chronometrist-key-values-0.7.1/manual.info
+Built chronometrist-key-values in 2.780s, finished at Wed May 19 04:23:13 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  439 May 19 04:23 packages-stable/chronometrist-key-values-0.7.1.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:23 packages-stable/chronometrist-key-values-0.7.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/chronometrist-key-values-badge.svg
+4.0K -rw-r--r-- 1 root root  379 May 19 04:23 packages-stable/chronometrist-key-values-readme.txt

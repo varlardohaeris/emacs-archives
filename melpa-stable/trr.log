@@ -1,0 +1,63 @@
+Package: trr
+Fetcher: github
+Source:  https://github.com/kawabata/emacs-trr.git
+
+Updating /mnt/store/melpa/working/trr/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/trr/
+  to /tmp/trr2iymxf/trr-2.0.0
+    trr-files.el -> trr-files.el
+    trr-graphs.el -> trr-graphs.el
+    trr-menus.el -> trr-menus.el
+    trr-mesg.el -> trr-mesg.el
+    trr-sess.el -> trr-sess.el
+    trr.el -> trr.el
+    trr.info -> trr.info
+    trr.texi -> trr.texi
+    record => record
+    text => text
+    CONTENTS -> CONTENTS
+Created trr-2.0.0.tar containing:
+  trr-2.0.0/
+  trr-2.0.0/CONTENTS
+  trr-2.0.0/dir
+  trr-2.0.0/record/
+  trr-2.0.0/record/SCORES-CA
+  trr-2.0.0/record/SCORES-CJ
+  trr-2.0.0/record/SCORES-EL
+  trr-2.0.0/record/SCORES-IC
+  trr-2.0.0/record/SCORES-JV
+  trr-2.0.0/record/SCORES-OC
+  trr-2.0.0/record/SCORES-PY
+  trr-2.0.0/record/SCORES-TR
+  trr-2.0.0/text/
+  trr-2.0.0/text/C_programs
+  trr-2.0.0/text/C_programs.formed
+  trr-2.0.0/text/Constitution_of_the_USA
+  trr-2.0.0/text/Constitution_of_the_USA.formed
+  trr-2.0.0/text/Elisp_programs
+  trr-2.0.0/text/Elisp_programs.formed
+  trr-2.0.0/text/Iccad_90
+  trr-2.0.0/text/Iccad_90.formed
+  trr-2.0.0/text/Java_programs
+  trr-2.0.0/text/Java_programs.formed
+  trr-2.0.0/text/Ocaml_programs
+  trr-2.0.0/text/Ocaml_programs.formed
+  trr-2.0.0/text/Python_programs
+  trr-2.0.0/text/Python_programs.formed
+  trr-2.0.0/text/The_Constitution_Of_JAPAN
+  trr-2.0.0/text/The_Constitution_Of_JAPAN.formed
+  trr-2.0.0/trr-files.el
+  trr-2.0.0/trr-graphs.el
+  trr-2.0.0/trr-menus.el
+  trr-2.0.0/trr-mesg.el
+  trr-2.0.0/trr-pkg.el
+  trr-2.0.0/trr-sess.el
+  trr-2.0.0/trr.el
+  trr-2.0.0/trr.info
+Built trr in 2.804s, finished at Wed May 19 01:52:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  443 May 19 01:52 packages-stable/trr-2.0.0.entry
+460K -rw-r--r-- 1 root root 460K May 19 01:52 packages-stable/trr-2.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/trr-badge.svg
+4.0K -rw-r--r-- 1 root root  772 May 19 01:52 packages-stable/trr-readme.txt

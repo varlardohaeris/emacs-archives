@@ -1,0 +1,6 @@
+Package: ob-clojurescript
+Fetcher: gitlab
+Source:  https://gitlab.com/statonjr/ob-clojurescript.git
+
+Updating /mnt/store/melpa/working/ob-clojurescript/
+No valid stable versions found for ob-clojurescript

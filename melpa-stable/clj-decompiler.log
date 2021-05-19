@@ -1,0 +1,6 @@
+Package: clj-decompiler
+Fetcher: github
+Source:  https://github.com/bsless/clj-decompiler.el.git
+
+Updating /mnt/store/melpa/working/clj-decompiler/
+No valid stable versions found for clj-decompiler

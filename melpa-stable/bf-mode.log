@@ -1,0 +1,6 @@
+Package: bf-mode
+Fetcher: github
+Source:  https://github.com/emacs-jp/bf-mode.git
+
+Updating /mnt/store/melpa/working/bf-mode/
+No valid stable versions found for bf-mode

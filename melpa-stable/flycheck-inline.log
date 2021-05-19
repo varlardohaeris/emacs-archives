@@ -1,0 +1,6 @@
+Package: flycheck-inline
+Fetcher: github
+Source:  https://github.com/flycheck/flycheck-inline.git
+
+Updating /mnt/store/melpa/working/flycheck-inline/
+No valid stable versions found for flycheck-inline

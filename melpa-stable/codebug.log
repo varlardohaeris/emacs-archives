@@ -1,0 +1,6 @@
+Package: codebug
+Fetcher: github
+Source:  https://github.com/shano/emacs-codebug.git
+
+Updating /mnt/store/melpa/working/codebug/
+No valid stable versions found for codebug

@@ -1,0 +1,6 @@
+Package: unipoint
+Fetcher: github
+Source:  https://github.com/apg/unipoint.git
+
+Updating /mnt/store/melpa/working/unipoint/
+No valid stable versions found for unipoint

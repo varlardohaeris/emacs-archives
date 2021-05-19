@@ -1,0 +1,6 @@
+Package: org-notifications
+Fetcher: github
+Source:  https://github.com/doppelc/org-notifications.git
+
+Updating /mnt/store/melpa/working/org-notifications/
+No valid stable versions found for org-notifications

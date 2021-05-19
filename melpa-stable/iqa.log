@@ -1,0 +1,6 @@
+Package: iqa
+Fetcher: github
+Source:  https://github.com/a13/iqa.el.git
+
+Updating /mnt/store/melpa/working/iqa/
+No valid stable versions found for iqa

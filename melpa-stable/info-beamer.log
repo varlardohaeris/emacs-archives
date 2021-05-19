@@ -1,0 +1,11 @@
+Package: info-beamer
+Fetcher: github
+Source:  https://github.com/dakra/info-beamer.el.git
+
+Updating /mnt/store/melpa/working/info-beamer/
+Built info-beamer in 2.903s, finished at Wed May 19 04:43:16 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 8.0K May 19 04:43 packages-stable/info-beamer-0.1.el
+4.0K -rw-r--r-- 1 root root  396 May 19 04:43 packages-stable/info-beamer-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/info-beamer-badge.svg
+4.0K -rw-r--r-- 1 root root  236 May 19 04:43 packages-stable/info-beamer-readme.txt

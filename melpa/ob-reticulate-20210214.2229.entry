@@ -1,0 +1,13 @@
+(ob-reticulate .
+	       [(20210214 2229)
+		((org
+		  (9 4))
+		 (emacs
+		  (24 4)))
+		"Babel Functions for reticulate" single
+		((:commit . "8109fb02fb6339b1cf9290df29fc0c1109a33c04")
+		 (:authors
+		  ("Jack Kamm"))
+		 (:maintainer "Jack Kamm")
+		 (:keywords "literate programming" "reproducible research" "r" "python" "statistics" "languages" "outlines" "processes")
+		 (:url . "https://github.com/jackkamm/ob-reticulate"))])

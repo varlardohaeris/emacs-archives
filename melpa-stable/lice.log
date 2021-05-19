@@ -1,0 +1,29 @@
+Package: lice
+Fetcher: github
+Source:  https://github.com/buzztaiki/lice-el.git
+
+Updating /mnt/store/melpa/working/lice/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lice/
+  to /tmp/licefLX4uQ/lice-0.2
+    lice.el -> lice.el
+    template => template
+Created lice-0.2.tar containing:
+  lice-0.2/
+  lice-0.2/lice-pkg.el
+  lice-0.2/lice.el
+  lice-0.2/template/
+  lice-0.2/template/agpl-3.0
+  lice-0.2/template/apache-2.0
+  lice-0.2/template/bsd-2-clause
+  lice-0.2/template/epl-1.0
+  lice-0.2/template/gpl-2.0
+  lice-0.2/template/gpl-3.0
+  lice-0.2/template/mit
+  lice-0.2/template/mozilla
+Built lice in 3.243s, finished at Wed May 19 01:32:14 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  338 May 19 01:32 packages-stable/lice-0.2.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:32 packages-stable/lice-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lice-badge.svg
+4.0K -rw-r--r-- 1 root root  518 May 19 01:32 packages-stable/lice-readme.txt

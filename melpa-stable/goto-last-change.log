@@ -1,0 +1,11 @@
+Package: goto-last-change
+Fetcher: github
+Source:  https://github.com/camdez/goto-last-change.el.git
+
+Updating /mnt/store/melpa/working/goto-last-change/
+Built goto-last-change in 3.652s, finished at Wed May 19 04:38:23 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.9K May 19 04:38 packages-stable/goto-last-change-1.2.1.el
+4.0K -rw-r--r-- 1 root root  380 May 19 04:38 packages-stable/goto-last-change-1.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/goto-last-change-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:38 packages-stable/goto-last-change-readme.txt

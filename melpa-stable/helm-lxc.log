@@ -1,0 +1,11 @@
+Package: helm-lxc
+Fetcher: github
+Source:  https://github.com/montag451/helm-lxc.git
+
+Updating /mnt/store/melpa/working/helm-lxc/
+Built helm-lxc in 3.005s, finished at Wed May 19 04:40:42 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 04:40 packages-stable/helm-lxc-0.2.0.el
+4.0K -rw-r--r-- 1 root root  413 May 19 04:40 packages-stable/helm-lxc-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-lxc-badge.svg
+4.0K -rw-r--r-- 1 root root  273 May 19 04:40 packages-stable/helm-lxc-readme.txt

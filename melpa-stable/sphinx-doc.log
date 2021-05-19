@@ -1,0 +1,11 @@
+Package: sphinx-doc
+Fetcher: github
+Source:  https://github.com/naiquevin/sphinx-doc.el.git
+
+Updating /mnt/store/melpa/working/sphinx-doc/
+Built sphinx-doc in 2.934s, finished at Wed May 19 01:49:56 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 01:49 packages-stable/sphinx-doc-0.1.0.el
+4.0K -rw-r--r-- 1 root root  433 May 19 01:49 packages-stable/sphinx-doc-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/sphinx-doc-badge.svg
+4.0K -rw-r--r-- 1 root root  232 May 19 01:49 packages-stable/sphinx-doc-readme.txt

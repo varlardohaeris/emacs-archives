@@ -1,0 +1,6 @@
+Package: smart-window
+Fetcher: github
+Source:  https://github.com/dryman/smart-window.el.git
+
+Updating /mnt/store/melpa/working/smart-window/
+No valid stable versions found for smart-window

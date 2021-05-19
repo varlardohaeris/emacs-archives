@@ -1,0 +1,17 @@
+(company-maxima .
+		[(20201207 2204)
+		 ((emacs
+		   (25 1))
+		  (maxima
+		   (0 6 1))
+		  (seq
+		   (2 20))
+		  (company
+		   (0 9 13)))
+		 "Maxima company integration" single
+		 ((:commit . "5e80033e6fa9089d5cd6fa93f6484b544f2ba059")
+		  (:authors
+		   ("Fermin Munoz"))
+		  (:maintainer "Fermin Munoz" . "fmfs@posteo.net")
+		  (:keywords "languages" "tools" "convenience")
+		  (:url . "https://gitlab.com/sasanidas/maxima"))])

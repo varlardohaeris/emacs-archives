@@ -1,3 +1,4 @@
+
 Overview
 ========
 This library provides minor mode `volatile-highlights-mode', which

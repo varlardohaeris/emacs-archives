@@ -1,0 +1,6 @@
+Package: anki-editor
+Fetcher: github
+Source:  https://github.com/louietan/anki-editor.git
+
+Updating /mnt/store/melpa/working/anki-editor/
+No valid stable versions found for anki-editor

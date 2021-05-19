@@ -1,0 +1,10 @@
+Package: inflections
+Fetcher: github
+Source:  https://github.com/eschulte/jump.el.git
+
+Updating /mnt/store/melpa/working/inflections/
+Built inflections in 3.177s, finished at Wed May 19 04:43:14 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K May 19 04:43 packages-stable/inflections-2.5.el
+4.0K -rw-r--r-- 1 root root  414 May 19 04:43 packages-stable/inflections-2.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/inflections-badge.svg

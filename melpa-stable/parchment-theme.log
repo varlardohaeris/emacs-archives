@@ -1,0 +1,11 @@
+Package: parchment-theme
+Fetcher: github
+Source:  https://github.com/ajgrf/parchment.git
+
+Updating /mnt/store/melpa/working/parchment-theme/
+Built parchment-theme in 3.624s, finished at Wed May 19 01:41:57 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  41K May 19 01:41 packages-stable/parchment-theme-0.4.0.el
+4.0K -rw-r--r-- 1 root root  334 May 19 01:41 packages-stable/parchment-theme-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/parchment-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  196 May 19 01:41 packages-stable/parchment-theme-readme.txt

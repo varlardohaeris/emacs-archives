@@ -1,0 +1,6 @@
+Package: furl
+Fetcher: github
+Source:  https://github.com/nex3/furl-el.git
+
+Updating /mnt/store/melpa/working/furl/
+No valid stable versions found for furl

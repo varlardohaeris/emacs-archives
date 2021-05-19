@@ -1,0 +1,27 @@
+Package: pastery
+Fetcher: github
+Source:  https://github.com/diasbruno/pastery.el.git
+
+Updating /mnt/store/melpa/working/pastery/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pastery/
+  to /tmp/pasteryIe5mPp/pastery-0.2.1
+    pastery-buffer.el -> pastery-buffer.el
+    pastery-data.el -> pastery-data.el
+    pastery-list-mode.el -> pastery-list-mode.el
+    pastery-net.el -> pastery-net.el
+    pastery.el -> pastery.el
+Created pastery-0.2.1.tar containing:
+  pastery-0.2.1/
+  pastery-0.2.1/pastery-buffer.el
+  pastery-0.2.1/pastery-data.el
+  pastery-0.2.1/pastery-list-mode.el
+  pastery-0.2.1/pastery-net.el
+  pastery-0.2.1/pastery-pkg.el
+  pastery-0.2.1/pastery.el
+Built pastery in 3.050s, finished at Wed May 19 01:42:14 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  375 May 19 01:42 packages-stable/pastery-0.2.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:42 packages-stable/pastery-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/pastery-badge.svg
+4.0K -rw-r--r-- 1 root root  153 May 19 01:42 packages-stable/pastery-readme.txt

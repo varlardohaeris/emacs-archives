@@ -1,3 +1,4 @@
+
 Colors blind people’s eyes;
 
         Lao Tzu - Tao Te Ching (Ch. 12	Sentence 1)

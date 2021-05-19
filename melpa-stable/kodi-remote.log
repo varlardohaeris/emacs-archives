@@ -1,0 +1,6 @@
+Package: kodi-remote
+Fetcher: github
+Source:  https://github.com/spiderbit/kodi-remote.el.git
+
+Updating /mnt/store/melpa/working/kodi-remote/
+No valid stable versions found for kodi-remote

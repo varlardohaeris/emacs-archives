@@ -1,0 +1,11 @@
+Package: helm-fish-completion
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-fish-completion.git
+
+Updating /mnt/store/melpa/working/helm-fish-completion/
+Built helm-fish-completion in 3.114s, finished at Wed May 19 04:40:18 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.2K May 19 04:40 packages-stable/helm-fish-completion-0.6.el
+4.0K -rw-r--r-- 1 root root  421 May 19 04:40 packages-stable/helm-fish-completion-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-fish-completion-badge.svg
+4.0K -rw-r--r-- 1 root root  402 May 19 04:40 packages-stable/helm-fish-completion-readme.txt

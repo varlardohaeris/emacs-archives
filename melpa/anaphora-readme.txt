@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'anaphora)
@@ -72,7 +73,7 @@ TODO
 
     better face for it and self
 
-License
+; License
 
 All code contributed by the author to this library is placed in the
 public domain.  It is the author's belief that the portions adapted

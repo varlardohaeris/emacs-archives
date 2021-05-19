@@ -1,0 +1,6 @@
+Package: savekill
+Fetcher: github
+Source:  https://github.com/rubikitch/savekill.git
+
+Updating /mnt/store/melpa/working/savekill/
+No valid stable versions found for savekill

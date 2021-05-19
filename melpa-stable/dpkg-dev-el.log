@@ -1,0 +1,30 @@
+Package: dpkg-dev-el
+Fetcher: git
+Source:  https://salsa.debian.org/emacsen-team/dpkg-dev-el.git
+
+Updating /mnt/store/melpa/working/dpkg-dev-el/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dpkg-dev-el/
+  to /tmp/dpkg-dev-elbP0Cfi/dpkg-dev-el-37.1
+    debian-bts-control.el -> debian-bts-control.el
+    debian-changelog-mode.el -> debian-changelog-mode.el
+    debian-control-mode.el -> debian-control-mode.el
+    debian-copyright.el -> debian-copyright.el
+    dpkg-dev-el-pkg.el -> dpkg-dev-el-pkg.el
+    dpkg-dev-el.el -> dpkg-dev-el.el
+    readme-debian.el -> readme-debian.el
+Created dpkg-dev-el-37.1.tar containing:
+  dpkg-dev-el-37.1/
+  dpkg-dev-el-37.1/debian-bts-control.el
+  dpkg-dev-el-37.1/debian-changelog-mode.el
+  dpkg-dev-el-37.1/debian-control-mode.el
+  dpkg-dev-el-37.1/debian-copyright.el
+  dpkg-dev-el-37.1/dpkg-dev-el-pkg.el
+  dpkg-dev-el-37.1/dpkg-dev-el.el
+  dpkg-dev-el-37.1/readme-debian.el
+Built dpkg-dev-el in 3.315s, finished at Wed May 19 04:28:44 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  169 May 19 04:28 packages-stable/dpkg-dev-el-37.1.entry
+172K -rw-r--r-- 1 root root 170K May 19 04:28 packages-stable/dpkg-dev-el-37.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dpkg-dev-el-badge.svg
+4.0K -rw-r--r-- 1 root root   67 May 19 04:28 packages-stable/dpkg-dev-el-readme.txt

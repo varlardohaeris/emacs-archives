@@ -1,0 +1,6 @@
+Package: vmd-mode
+Fetcher: github
+Source:  https://github.com/blak3mill3r/vmd-mode.git
+
+Updating /mnt/store/melpa/working/vmd-mode/
+No valid stable versions found for vmd-mode

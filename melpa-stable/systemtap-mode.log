@@ -1,0 +1,6 @@
+Package: systemtap-mode
+Fetcher: github
+Source:  https://github.com/ruediger/systemtap-mode.git
+
+Updating /mnt/store/melpa/working/systemtap-mode/
+No valid stable versions found for systemtap-mode

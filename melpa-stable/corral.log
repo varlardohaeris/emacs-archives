@@ -1,0 +1,11 @@
+Package: corral
+Fetcher: github
+Source:  https://github.com/nivekuil/corral.git
+
+Updating /mnt/store/melpa/working/corral/
+Built corral in 4.191s, finished at Wed May 19 04:25:17 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:25 packages-stable/corral-0.3.20.el
+4.0K -rw-r--r-- 1 root root  288 May 19 04:25 packages-stable/corral-0.3.20.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/corral-badge.svg
+4.0K -rw-r--r-- 1 root root  341 May 19 04:25 packages-stable/corral-readme.txt

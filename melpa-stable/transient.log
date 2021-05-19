@@ -1,0 +1,25 @@
+Package: transient
+Fetcher: github
+Source:  https://github.com/magit/transient.git
+
+Updating /mnt/store/melpa/working/transient/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/transient/
+  to /tmp/transientWU7Xai/transient-0.3.2
+  ! lisp/transient.el -> transient.el
+  ! docs/transient.texi -> transient.texi
+Created /tmp/transientWU7Xai/transient-0.3.2/transient.info
+Created transient-0.3.2.tar containing:
+  transient-0.3.2/
+  transient-0.3.2/dir
+  transient-0.3.2/transient-pkg.el
+  transient-0.3.2/transient.el
+  transient-0.3.2/transient.info
+Built transient in 11.177s, finished at Wed May 19 01:52:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  354 May 19 01:52 packages-stable/transient-0.3.2.entry
+252K -rw-r--r-- 1 root root 250K May 19 01:52 packages-stable/transient-0.3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/transient-badge.svg
+4.0K -rw-r--r-- 1 root root  198 May 19 01:52 packages-stable/transient-dwim.log
+4.0K -rw-r--r-- 1 root root  215 May 19 01:52 packages-stable/transient-posframe.log
+4.0K -rw-r--r-- 1 root root  994 May 19 01:52 packages-stable/transient-readme.txt

@@ -1,0 +1,23 @@
+Package: iedit
+Fetcher: github
+Source:  https://github.com/victorhge/iedit.git
+
+Updating /mnt/store/melpa/working/iedit/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/iedit/
+  to /tmp/ieditQPlL4A/iedit-0.9.9.9
+    iedit-lib.el -> iedit-lib.el
+    iedit-rect.el -> iedit-rect.el
+    iedit.el -> iedit.el
+Created iedit-0.9.9.9.tar containing:
+  iedit-0.9.9.9/
+  iedit-0.9.9.9/iedit-lib.el
+  iedit-0.9.9.9/iedit-pkg.el
+  iedit-0.9.9.9/iedit-rect.el
+  iedit-0.9.9.9/iedit.el
+Built iedit in 3.131s, finished at Wed May 19 04:42:51 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  375 May 19 04:42 packages-stable/iedit-0.9.9.9.entry
+ 92K -rw-r--r-- 1 root root  90K May 19 04:42 packages-stable/iedit-0.9.9.9.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/iedit-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 04:42 packages-stable/iedit-readme.txt

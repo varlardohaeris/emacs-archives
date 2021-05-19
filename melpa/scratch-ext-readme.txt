@@ -1,3 +1,4 @@
+
 scratch-ext.el is extensions for *scratch* buffer.
 
 This enables you to dump *scratch* buffer automatically

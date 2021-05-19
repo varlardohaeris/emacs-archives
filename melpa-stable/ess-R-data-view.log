@@ -1,0 +1,11 @@
+Package: ess-R-data-view
+Fetcher: github
+Source:  https://github.com/myuhe/ess-R-data-view.el.git
+
+Updating /mnt/store/melpa/working/ess-R-data-view/
+Built ess-R-data-view in 2.724s, finished at Wed May 19 04:31:48 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.0K May 19 04:31 packages-stable/ess-R-data-view-1.0.el
+4.0K -rw-r--r-- 1 root root  409 May 19 04:31 packages-stable/ess-R-data-view-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ess-R-data-view-badge.svg
+4.0K -rw-r--r-- 1 root root  328 May 19 04:31 packages-stable/ess-R-data-view-readme.txt

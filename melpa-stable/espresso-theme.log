@@ -1,0 +1,6 @@
+Package: espresso-theme
+Fetcher: github
+Source:  https://github.com/dgutov/espresso-theme.git
+
+Updating /mnt/store/melpa/working/espresso-theme/
+No valid stable versions found for espresso-theme

@@ -1,0 +1,6 @@
+Package: slirm
+Fetcher: github
+Source:  https://github.com/fbie/slirm.git
+
+Updating /mnt/store/melpa/working/slirm/
+No valid stable versions found for slirm

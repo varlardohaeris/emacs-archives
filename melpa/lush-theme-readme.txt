@@ -1,3 +1,4 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Lush, A Dark Theme with strong colors for Emacs24
 
 Change History:
@@ -24,3 +25,4 @@ Following is the original info from the theme (with obsolete install instruction
   Credits due to the excellent TextMate Blackboard theme
 
   All patches welcome
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

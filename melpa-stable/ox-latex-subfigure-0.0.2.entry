@@ -1,2 +1,9 @@
-
-(ox-latex-subfigure . [(0 0 2) nil "Subfigure for latex export" single ((:commit . "b7445849ae1f16b4b28f7a080301a0a61edf1c83") (:keywords "ox" "latex" "subfigure" "org" "org-mode") (:authors ("Quang Linh LE" . "linktohack@gmail.com")) (:maintainer "Quang Linh LE" . "linktohack@gmail.com") (:url . "http://github.com/linktohack/ox-latexty-subfigure"))])
+(ox-latex-subfigure .
+		    [(0 0 2)
+		     nil "Subfigure for latex export" single
+		     ((:commit . "b7445849ae1f16b4b28f7a080301a0a61edf1c83")
+		      (:authors
+		       ("Quang Linh LE" . "linktohack@gmail.com"))
+		      (:maintainer "Quang Linh LE" . "linktohack@gmail.com")
+		      (:keywords "ox" "latex" "subfigure" "org" "org-mode")
+		      (:url . "http://github.com/linktohack/ox-latexty-subfigure"))])

@@ -1,0 +1,6 @@
+Package: quick-peek
+Fetcher: github
+Source:  https://github.com/cpitclaudel/quick-peek.git
+
+Updating /mnt/store/melpa/working/quick-peek/
+No valid stable versions found for quick-peek

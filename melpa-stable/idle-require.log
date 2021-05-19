@@ -1,0 +1,6 @@
+Package: idle-require
+Fetcher: github
+Source:  https://github.com/nschum/idle-require.el.git
+
+Updating /mnt/store/melpa/working/idle-require/
+No valid stable versions found for idle-require

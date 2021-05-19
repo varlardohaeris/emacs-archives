@@ -1,0 +1,6 @@
+Package: cider-decompile
+Fetcher: github
+Source:  https://github.com/clojure-emacs/cider-decompile.git
+
+Updating /mnt/store/melpa/working/cider-decompile/
+No valid stable versions found for cider-decompile

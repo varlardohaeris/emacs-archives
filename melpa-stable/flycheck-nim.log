@@ -1,0 +1,6 @@
+Package: flycheck-nim
+Fetcher: github
+Source:  https://github.com/ALSchwalm/flycheck-nim.git
+
+Updating /mnt/store/melpa/working/flycheck-nim/
+No valid stable versions found for flycheck-nim

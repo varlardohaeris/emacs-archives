@@ -1,0 +1,11 @@
+Package: flycheck-julia
+Fetcher: github
+Source:  https://github.com/gdkrmr/flycheck-julia.git
+
+Updating /mnt/store/melpa/working/flycheck-julia/
+Built flycheck-julia in 2.920s, finished at Wed May 19 04:34:56 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K May 19 04:34 packages-stable/flycheck-julia-0.1.1.el
+4.0K -rw-r--r-- 1 root root  408 May 19 04:34 packages-stable/flycheck-julia-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-julia-badge.svg
+4.0K -rw-r--r-- 1 root root  588 May 19 04:34 packages-stable/flycheck-julia-readme.txt

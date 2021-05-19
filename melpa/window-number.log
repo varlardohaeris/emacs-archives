@@ -1,0 +1,11 @@
+Package: window-number
+Fetcher: github
+Source:  https://github.com/nikolas/window-number.git
+
+Updating /mnt/store/melpa/working/window-number/
+Built window-number in 4.838s, finished at Wed May 19 04:15:09 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.5K May 19 04:15 packages/window-number-20170801.151.el
+4.0K -rw-r--r-- 1 root root  366 May 19 04:15 packages/window-number-20170801.151.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/window-number-badge.svg
+4.0K -rw-r--r-- 1 root root  660 May 19 04:15 packages/window-number-readme.txt

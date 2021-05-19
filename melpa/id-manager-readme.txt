@@ -15,7 +15,7 @@ alpaca.
 Excuting the command `idm-open-list-command', you can open the
 ID-password list buffer. Check the function `describe-bindings'.
 
-Installation:
+; Installation:
 
 To use this program, locate this file to load-path directory,
 and add the following code to your .emacs.
@@ -25,7 +25,7 @@ and add the following code to your .emacs.
 If you have helm.el, bind `id-manager' to key,
 like (global-set-key (kbd "M-7") 'id-manager).
 
-Setting example:
+; Setting example:
 
 For EasyPG users:
 
@@ -45,7 +45,7 @@ For alpaca users:
       idm-db-buffer-password-var  ; if you are using `alpaca-cache-passphrase'.
         'alpaca-passphrase)
 
-Current implementation:
+; Current implementation:
 
 This program generates passwords by using external command:
 `idm-gen-password-cmd'. If you have some better idea, please let me
@@ -55,7 +55,7 @@ I think that this program makes lazy password management more
 securely.  But I'm not sure that this program is secure enough.
 I'd like many people to check and advice me.
 
-Integrating with OS launchers (Alfred, QuickSilver, Launchbar, etc.)
+; Integrating with OS launchers (Alfred, QuickSilver, Launchbar, etc.)
 
 Invoke id-manager with an input string.
 

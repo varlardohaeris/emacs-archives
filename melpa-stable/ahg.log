@@ -1,0 +1,6 @@
+Package: ahg
+Fetcher: git
+Source:  https://bitbucket.org/agriggio/ahg
+
+Updating /mnt/store/melpa/working/ahg/
+No valid stable versions found for ahg

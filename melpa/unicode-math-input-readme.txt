@@ -1,3 +1,4 @@
+
 This package provides two methods for inserting mathematical
 symbols:
 

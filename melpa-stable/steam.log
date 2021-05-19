@@ -1,0 +1,6 @@
+Package: steam
+Fetcher: github
+Source:  https://github.com/Kungsgeten/steam.el.git
+
+Updating /mnt/store/melpa/working/steam/
+No valid stable versions found for steam

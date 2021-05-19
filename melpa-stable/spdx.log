@@ -1,0 +1,6 @@
+Package: spdx
+Fetcher: github
+Source:  https://github.com/condy0919/spdx.el.git
+
+Updating /mnt/store/melpa/working/spdx/
+No valid stable versions found for spdx

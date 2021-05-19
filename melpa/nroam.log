@@ -1,0 +1,25 @@
+Package: nroam
+Fetcher: github
+Source:  https://github.com/NicolasPetton/nroam.git
+
+Updating /mnt/store/melpa/working/nroam/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nroam/
+  to /tmp/nroamh8TQTp/nroam-20210325.2015
+    nroam-backlinks.el -> nroam-backlinks.el
+    nroam-unlinked.el -> nroam-unlinked.el
+    nroam-utils.el -> nroam-utils.el
+    nroam.el -> nroam.el
+Created nroam-20210325.2015.tar containing:
+  nroam-20210325.2015/
+  nroam-20210325.2015/nroam-backlinks.el
+  nroam-20210325.2015/nroam-pkg.el
+  nroam-20210325.2015/nroam-unlinked.el
+  nroam-20210325.2015/nroam-utils.el
+  nroam-20210325.2015/nroam.el
+Built nroam in 4.539s, finished at Wed May 19 03:48:02 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  410 May 19 03:48 packages/nroam-20210325.2015.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 03:48 packages/nroam-20210325.2015.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:48 packages/nroam-badge.svg
+4.0K -rw-r--r-- 1 root root  283 May 19 03:48 packages/nroam-readme.txt

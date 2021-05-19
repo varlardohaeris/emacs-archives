@@ -1,0 +1,21 @@
+Package: jq-mode
+Fetcher: github
+Source:  https://github.com/ljos/jq-mode.git
+
+Updating /mnt/store/melpa/working/jq-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/jq-mode/
+  to /tmp/jq-modewEvAKz/jq-mode-0.5.0
+    jq-mode.el -> jq-mode.el
+    ob-jq.el -> ob-jq.el
+Created jq-mode-0.5.0.tar containing:
+  jq-mode-0.5.0/
+  jq-mode-0.5.0/jq-mode-pkg.el
+  jq-mode-0.5.0/jq-mode.el
+  jq-mode-0.5.0/ob-jq.el
+Built jq-mode in 5.330s, finished at Wed May 19 04:44:49 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  336 May 19 04:44 packages-stable/jq-mode-0.5.0.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:44 packages-stable/jq-mode-0.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/jq-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   29 May 19 04:44 packages-stable/jq-mode-readme.txt

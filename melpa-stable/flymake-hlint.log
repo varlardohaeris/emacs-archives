@@ -1,0 +1,11 @@
+Package: flymake-hlint
+Fetcher: github
+Source:  https://github.com/purcell/flymake-hlint.git
+
+Updating /mnt/store/melpa/working/flymake-hlint/
+Built flymake-hlint in 2.874s, finished at Wed May 19 04:35:34 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:35 packages-stable/flymake-hlint-0.2.el
+4.0K -rw-r--r-- 1 root root  358 May 19 04:35 packages-stable/flymake-hlint-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-hlint-badge.svg
+4.0K -rw-r--r-- 1 root root  151 May 19 04:35 packages-stable/flymake-hlint-readme.txt

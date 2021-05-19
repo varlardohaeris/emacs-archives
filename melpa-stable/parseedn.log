@@ -1,0 +1,11 @@
+Package: parseedn
+Fetcher: github
+Source:  https://github.com/clojure-emacs/parseedn.git
+
+Updating /mnt/store/melpa/working/parseedn/
+Built parseedn in 3.885s, finished at Wed May 19 01:42:07 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K May 19 01:42 packages-stable/parseedn-0.2.0.el
+4.0K -rw-r--r-- 1 root root  378 May 19 01:42 packages-stable/parseedn-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/parseedn-badge.svg
+4.0K -rw-r--r-- 1 root root  519 May 19 01:42 packages-stable/parseedn-readme.txt

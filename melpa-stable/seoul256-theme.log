@@ -1,0 +1,6 @@
+Package: seoul256-theme
+Fetcher: github
+Source:  https://github.com/anandpiyer/seoul256-emacs.git
+
+Updating /mnt/store/melpa/working/seoul256-theme/
+No valid stable versions found for seoul256-theme

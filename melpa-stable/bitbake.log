@@ -1,0 +1,6 @@
+Package: bitbake
+Fetcher: github
+Source:  https://github.com/canatella/bitbake-el.git
+
+Updating /mnt/store/melpa/working/bitbake/
+No valid stable versions found for bitbake

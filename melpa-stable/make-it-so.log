@@ -1,0 +1,6 @@
+Package: make-it-so
+Fetcher: github
+Source:  https://github.com/abo-abo/make-it-so.git
+
+Updating /mnt/store/melpa/working/make-it-so/
+No valid stable versions found for make-it-so

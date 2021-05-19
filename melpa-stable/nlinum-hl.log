@@ -1,0 +1,11 @@
+Package: nlinum-hl
+Fetcher: github
+Source:  https://github.com/hlissner/emacs-nlinum-hl.git
+
+Updating /mnt/store/melpa/working/nlinum-hl/
+Built nlinum-hl in 2.966s, finished at Wed May 19 01:37:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.0K May 19 01:37 packages-stable/nlinum-hl-1.0.6.el
+4.0K -rw-r--r-- 1 root root  469 May 19 01:37 packages-stable/nlinum-hl-1.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nlinum-hl-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K May 19 01:37 packages-stable/nlinum-hl-readme.txt

@@ -1,0 +1,24 @@
+Package: redtick
+Fetcher: github
+Source:  https://github.com/ferfebles/redtick.git
+
+Updating /mnt/store/melpa/working/redtick/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/redtick/
+  to /tmp/redtickDtxaeu/redtick-20180424.2136
+    redtick.el -> redtick.el
+    resources => resources
+Created redtick-20180424.2136.tar containing:
+  redtick-20180424.2136/
+  redtick-20180424.2136/redtick-pkg.el
+  redtick-20180424.2136/redtick.el
+  redtick-20180424.2136/resources/
+  redtick-20180424.2136/resources/end-rest.mp3
+  redtick-20180424.2136/resources/rest.wav
+  redtick-20180424.2136/resources/work.wav
+Built redtick in 3.986s, finished at Wed May 19 04:00:20 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  301 May 19 04:00 packages/redtick-20180424.2136.entry
+532K -rw-r--r-- 1 root root 530K May 19 04:00 packages/redtick-20180424.2136.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/redtick-badge.svg
+4.0K -rw-r--r-- 1 root root  718 May 19 04:00 packages/redtick-readme.txt

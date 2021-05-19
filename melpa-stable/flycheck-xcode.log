@@ -1,0 +1,6 @@
+Package: flycheck-xcode
+Fetcher: github
+Source:  https://github.com/jojojames/flycheck-xcode.git
+
+Updating /mnt/store/melpa/working/flycheck-xcode/
+No valid stable versions found for flycheck-xcode

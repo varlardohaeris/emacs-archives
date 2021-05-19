@@ -1,0 +1,6 @@
+Package: preproc-font-lock
+Fetcher: github
+Source:  https://github.com/Lindydancer/preproc-font-lock.git
+
+Updating /mnt/store/melpa/working/preproc-font-lock/
+No valid stable versions found for preproc-font-lock

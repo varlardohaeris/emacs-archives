@@ -1,0 +1,6 @@
+Package: gtk-pomodoro-indicator
+Fetcher: github
+Source:  https://github.com/abo-abo/gtk-pomodoro-indicator.git
+
+Updating /mnt/store/melpa/working/gtk-pomodoro-indicator/
+No valid stable versions found for gtk-pomodoro-indicator

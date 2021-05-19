@@ -1,0 +1,6 @@
+Package: waher-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-waher-theme.git
+
+Updating /mnt/store/melpa/working/waher-theme/
+No valid stable versions found for waher-theme

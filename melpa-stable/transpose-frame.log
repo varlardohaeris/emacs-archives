@@ -1,0 +1,11 @@
+Package: transpose-frame
+Fetcher: github
+Source:  https://github.com/emacsorphanage/transpose-frame.git
+
+Updating /mnt/store/melpa/working/transpose-frame/
+Built transpose-frame in 2.982s, finished at Wed May 19 01:52:40 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:52 packages-stable/transpose-frame-0.2.0.el
+4.0K -rw-r--r-- 1 root root  241 May 19 01:52 packages-stable/transpose-frame-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/transpose-frame-badge.svg
+4.0K -rw-r--r-- 1 root root 3.3K May 19 01:52 packages-stable/transpose-frame-readme.txt

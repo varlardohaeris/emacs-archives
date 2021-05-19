@@ -1,0 +1,6 @@
+Package: orca
+Fetcher: github
+Source:  https://github.com/abo-abo/orca.git
+
+Updating /mnt/store/melpa/working/orca/
+No valid stable versions found for orca

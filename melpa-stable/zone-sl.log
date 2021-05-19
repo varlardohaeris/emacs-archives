@@ -1,0 +1,6 @@
+Package: zone-sl
+Fetcher: github
+Source:  https://github.com/kawabata/zone-sl.git
+
+Updating /mnt/store/melpa/working/zone-sl/
+No valid stable versions found for zone-sl

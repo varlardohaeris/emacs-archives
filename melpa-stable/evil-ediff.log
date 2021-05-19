@@ -1,0 +1,6 @@
+Package: evil-ediff
+Fetcher: github
+Source:  https://github.com/emacs-evil/evil-ediff.git
+
+Updating /mnt/store/melpa/working/evil-ediff/
+No valid stable versions found for evil-ediff

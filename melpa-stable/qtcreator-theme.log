@@ -1,0 +1,6 @@
+Package: qtcreator-theme
+Fetcher: github
+Source:  https://github.com/LesleyLai/emacs-qtcreator-theme.git
+
+Updating /mnt/store/melpa/working/qtcreator-theme/
+No valid stable versions found for qtcreator-theme

@@ -12,7 +12,7 @@ package the results into an email handling with appropriate MIME
 encoding.
 
 `org-mime-org-subtree-htmlize' is similar to `org-mime-org-buffer-htmlize'
-but works on current subtree. It can read following subtree properties:
+but works on current subtree.  It can read following subtree properties:
 MAIL_SUBJECT, MAIL_TO, MAIL_FROM, MAIL_CC, and MAIL_BCC.
 
 Here is the sample of a subtree:
@@ -31,13 +31,13 @@ To avoid exporting the table of contents, you can setup
                                   :with-author nil
                                   :with-toc nil))
 
-Or just setup your export options in the org buffer/subtree. These are
+Or just setup your export options in the org buffer/subtree.  These are
 overridden by `org-mime-export-options' when it is non-nil.
 
 
 Quick start:
 Write a message in message-mode, make sure the mail body follows
-org format. Run `org-mime-edit-mail-in-org-mode' to edit mail
+org format.  Run `org-mime-edit-mail-in-org-mode' to edit mail
 in a special edit with `org-mode'.
 Run `org-mime-htmlize' to convert the plain text mail to html mail.
 Run `org-mime-revert-to-plain-text-mail' if you want to restore to
@@ -61,7 +61,7 @@ Extra Tips:
 1. In order to embed images into your mail, use the syntax below,
 [[/full/path/to/your.jpg]]
 
-2. It's easy to add your own emphasis markup. For example, to render text
+2. It's easy to add your own emphasis markup.  For example, to render text
 between "@" in a red color, you can add a function to `org-mime-html-hook':
 
   (add-hook 'org-mime-html-hook
@@ -79,3 +79,5 @@ looks clean and modern. If you prefer the old style, please set
    For example, see https://github.com/org-mime/org-mime/issues/38
    The solution is patching org-mode,
    https://lists.gnu.org/archive/html/emacs-orgmode/2019-11/msg00016.html
+
+5. See https://github.com/org-mime/org-mime for more tips

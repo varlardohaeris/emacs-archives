@@ -1,0 +1,6 @@
+Package: helm-icons
+Fetcher: github
+Source:  https://github.com/yyoncho/helm-icons.git
+
+Updating /mnt/store/melpa/working/helm-icons/
+No valid stable versions found for helm-icons

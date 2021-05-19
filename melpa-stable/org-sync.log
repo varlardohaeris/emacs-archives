@@ -1,0 +1,28 @@
+Package: org-sync
+Fetcher: github
+Source:  https://github.com/arbox/org-sync.git
+
+Updating /mnt/store/melpa/working/org-sync/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-sync/
+  to /tmp/org-syncHxL1iR/org-sync-0.3.0
+    org-sync-bb.el -> org-sync-bb.el
+    org-sync-github.el -> org-sync-github.el
+    org-sync-redmine.el -> org-sync-redmine.el
+    org-sync-rtm.el -> org-sync-rtm.el
+    org-sync.el -> org-sync.el
+Created org-sync-0.3.0.tar containing:
+  org-sync-0.3.0/
+  org-sync-0.3.0/org-sync-bb.el
+  org-sync-0.3.0/org-sync-github.el
+  org-sync-0.3.0/org-sync-pkg.el
+  org-sync-0.3.0/org-sync-redmine.el
+  org-sync-0.3.0/org-sync-rtm.el
+  org-sync-0.3.0/org-sync.el
+Built org-sync in 6.134s, finished at Wed May 19 01:40:22 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  490 May 19 01:40 packages-stable/org-sync-0.3.0.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 01:40 packages-stable/org-sync-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-sync-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 01:40 packages-stable/org-sync-readme.txt
+4.0K -rw-r--r-- 1 root root  210 May 19 01:40 packages-stable/org-sync-snippets.log

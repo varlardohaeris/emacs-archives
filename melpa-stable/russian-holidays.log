@@ -1,0 +1,11 @@
+Package: russian-holidays
+Fetcher: github
+Source:  https://github.com/grafov/russian-holidays.git
+
+Updating /mnt/store/melpa/working/russian-holidays/
+Built russian-holidays in 3.652s, finished at Wed May 19 01:47:18 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K May 19 01:47 packages-stable/russian-holidays-0.4.el
+4.0K -rw-r--r-- 1 root root  343 May 19 01:47 packages-stable/russian-holidays-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/russian-holidays-badge.svg
+4.0K -rw-r--r-- 1 root root  880 May 19 01:47 packages-stable/russian-holidays-readme.txt

@@ -1,0 +1,6 @@
+Package: zimports
+Fetcher: github
+Source:  https://github.com/schmir/zimports.el.git
+
+Updating /mnt/store/melpa/working/zimports/
+No valid stable versions found for zimports

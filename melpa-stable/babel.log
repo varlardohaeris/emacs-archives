@@ -1,0 +1,12 @@
+Package: babel
+Fetcher: github
+Source:  https://github.com/juergenhoetzel/babel.git
+
+Updating /mnt/store/melpa/working/babel/
+Built babel in 3.567s, finished at Wed May 19 04:20:37 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  34K May 19 04:20 packages-stable/babel-1.4.el
+4.0K -rw-r--r-- 1 root root  341 May 19 04:20 packages-stable/babel-1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/babel-badge.svg
+8.0K -rw-r--r-- 1 root root 6.6K May 19 04:20 packages-stable/babel-readme.txt
+4.0K -rw-r--r-- 1 root root  182 May 19 04:20 packages-stable/babel-repl.log

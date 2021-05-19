@@ -1,0 +1,6 @@
+Package: discourse
+Fetcher: github
+Source:  https://github.com/lujun9972/discourse-api.git
+
+Updating /mnt/store/melpa/working/discourse/
+No valid stable versions found for discourse

@@ -1,0 +1,6 @@
+Package: shell-history
+Fetcher: github
+Source:  https://github.com/emacsorphanage/shell-history.git
+
+Updating /mnt/store/melpa/working/shell-history/
+No valid stable versions found for shell-history

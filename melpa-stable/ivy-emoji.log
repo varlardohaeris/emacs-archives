@@ -1,0 +1,6 @@
+Package: ivy-emoji
+Fetcher: github
+Source:  https://github.com/Sbozzolo/ivy-emoji.git
+
+Updating /mnt/store/melpa/working/ivy-emoji/
+No valid stable versions found for ivy-emoji

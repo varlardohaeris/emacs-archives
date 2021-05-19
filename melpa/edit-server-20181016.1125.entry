@@ -1,2 +1,8 @@
-
-(edit-server . [(20181016 1125) nil "server that responds to edit requests from Chrome" single ((:commit . "7c20086b86f435a4e5a1e7cced277388624f2704") (:authors ("Alex Bennée" . "alex@bennee.com")) (:maintainer "Alex Bennée" . "alex@bennee.com") (:url . "https://github.com/stsquad/emacs_chrome"))])
+(edit-server .
+	     [(20181016 1125)
+	      nil "server that responds to edit requests from Chrome" single
+	      ((:commit . "1632acab5624637031326bd902e2ad7ccb6b4c90")
+	       (:authors
+		("Alex Bennée" . "alex@bennee.com"))
+	       (:maintainer "Alex Bennée" . "alex@bennee.com")
+	       (:url . "https://github.com/stsquad/emacs_chrome"))])

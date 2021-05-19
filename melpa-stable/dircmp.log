@@ -1,0 +1,6 @@
+Package: dircmp
+Fetcher: github
+Source:  https://github.com/matthewlmcclure/dircmp-mode.git
+
+Updating /mnt/store/melpa/working/dircmp/
+No valid stable versions found for dircmp

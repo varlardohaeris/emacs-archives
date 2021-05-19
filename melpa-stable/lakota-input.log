@@ -1,0 +1,6 @@
+Package: lakota-input
+Fetcher: git
+Source:  https://git.sr.ht/~shoshin/lakota-input.git
+
+Updating /mnt/store/melpa/working/lakota-input/
+No valid stable versions found for lakota-input

@@ -1,3 +1,4 @@
+
 [![Melpa Status](http://melpa.milkbox.net/packages/pallet-badge.svg)](http://melpa.milkbox.net/#/pallet)
 
 #Pallet
@@ -117,7 +118,7 @@ this comment.
 ```lisp
 (source melpa)
 (depends-on "s")
-pallet-ignore
+;;;pallet-ignore
 (depends-on "newlisp" :git
 "https://github.com/coldnew/newlisp-mode.git")
 ```

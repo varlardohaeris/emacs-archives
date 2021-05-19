@@ -1,0 +1,6 @@
+Package: pinot
+Fetcher: github
+Source:  https://github.com/tkf/emacs-pinot-search.git
+
+Updating /mnt/store/melpa/working/pinot/
+No valid stable versions found for pinot

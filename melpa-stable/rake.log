@@ -1,0 +1,11 @@
+Package: rake
+Fetcher: github
+Source:  https://github.com/asok/rake.git
+
+Updating /mnt/store/melpa/working/rake/
+Built rake in 2.964s, finished at Wed May 19 01:45:23 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  10K May 19 01:45 packages-stable/rake-0.4.1.el
+4.0K -rw-r--r-- 1 root root  381 May 19 01:45 packages-stable/rake-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rake-badge.svg
+4.0K -rw-r--r-- 1 root root  190 May 19 01:45 packages-stable/rake-readme.txt

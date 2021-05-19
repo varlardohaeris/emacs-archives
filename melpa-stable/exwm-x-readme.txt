@@ -157,8 +157,7 @@ or
 #+END_EXAMPLE
 
 *** Dmenu
-`exwmx-dmenu' let user input or select (with the help of ivy) a command
-in minibuffer, and execute it.
+`exwmx-dmenu' let user input or select a command in minibuffer, and execute it.
 
 `exwmx-dmenu' support some command prefixes:
 1. ",command": run "command" in terminal emulator, for example,
@@ -195,9 +194,6 @@ be sent to the input field of current application.
 `exwmx-sendstring-from-minibuffer' is a simple version of `exwmx-sendstring',
 it use minibuffer to get input.
 
-`exwmx-sendstring-from-kill-ring' can select a string in kill-ring then send
-this string to application.
-
 `exwmx-sendstring--send' can send a string to application, it is used by elisp.
 
 NOTE: if `exwmx-sendstring' can not work well with an application, user
@@ -221,9 +217,15 @@ Pasting the below line to "~/.emacs" is a simple way.
 #+END_EXAMPLE
 
 *** Edit "~/.initrc" file or "~/.xsession" file
-You should edit "~/.initrc" file or "~/.xsession" file like below example:
+You should edit "~/.initrc" file, "~/.xsession" file or "~/.xsessionrc" file like below example:
 
 #+BEGIN_EXAMPLE
+
+# Support exwm-xim.
+# export XMODIFIERS=@im=exwm-xim
+# export GTK_IM_MODULE=xim
+# export QT_IM_MODULE=xim
+# export CLUTTER_IM_MODULE=xim
 
 # Fallback cursor
 # xsetroot -cursor_name left_ptr

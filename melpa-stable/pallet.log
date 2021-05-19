@@ -1,0 +1,20 @@
+Package: pallet
+Fetcher: github
+Source:  https://github.com/rdallasgray/pallet.git
+
+Updating /mnt/store/melpa/working/pallet/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pallet/
+  to /tmp/pallet5Ipzl5/pallet-0.9.2
+  ! lib/pallet-pkg.el -> pallet-pkg.el
+  ! lib/pallet.el -> pallet.el
+Created pallet-0.9.2.tar containing:
+  pallet-0.9.2/
+  pallet-0.9.2/pallet-pkg.el
+  pallet-0.9.2/pallet.el
+Built pallet in 3.059s, finished at Wed May 19 01:41:51 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  384 May 19 01:41 packages-stable/pallet-0.9.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:41 packages-stable/pallet-0.9.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/pallet-badge.svg
+8.0K -rw-r--r-- 1 root root 5.6K May 19 01:41 packages-stable/pallet-readme.txt

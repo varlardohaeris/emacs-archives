@@ -1,0 +1,6 @@
+Package: virtual-auto-fill
+Fetcher: github
+Source:  https://github.com/luisgerhorst/virtual-auto-fill.git
+
+Updating /mnt/store/melpa/working/virtual-auto-fill/
+No valid stable versions found for virtual-auto-fill

@@ -1,0 +1,11 @@
+Package: company-anaconda
+Fetcher: github
+Source:  https://github.com/pythonic-emacs/company-anaconda.git
+
+Updating /mnt/store/melpa/working/company-anaconda/
+Built company-anaconda in 3.279s, finished at Wed May 19 04:24:15 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K May 19 04:24 packages-stable/company-anaconda-0.2.0.el
+4.0K -rw-r--r-- 1 root root  486 May 19 04:24 packages-stable/company-anaconda-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-anaconda-badge.svg
+4.0K -rw-r--r-- 1 root root   33 May 19 04:24 packages-stable/company-anaconda-readme.txt

@@ -1,0 +1,11 @@
+Package: emacsql-mysql
+Fetcher: github
+Source:  https://github.com/skeeto/emacsql.git
+
+Updating /mnt/store/melpa/working/emacsql-mysql/
+Built emacsql-mysql in 2.759s, finished at Wed May 19 04:30:39 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K May 19 04:30 packages-stable/emacsql-mysql-3.0.0.el
+4.0K -rw-r--r-- 1 root root  366 May 19 04:30 packages-stable/emacsql-mysql-3.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emacsql-mysql-badge.svg
+4.0K -rw-r--r-- 1 root root   61 May 19 04:30 packages-stable/emacsql-mysql-readme.txt

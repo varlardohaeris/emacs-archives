@@ -1,0 +1,6 @@
+Package: rpn-calc
+Fetcher: github
+Source:  https://github.com/zk-phi/rpn-calc.git
+
+Updating /mnt/store/melpa/working/rpn-calc/
+No valid stable versions found for rpn-calc

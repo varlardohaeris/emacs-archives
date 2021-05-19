@@ -23,7 +23,7 @@
 
             <div class="container">
 <h2 class="package">relint</h2><dl><dt>Description</dt><dd>Elisp regexp mistake finder</dd>
-<dt>Latest</dt> <dd><a href="relint-1.17.tar">relint-1.17.tar</a>, 2020-May-10,  190&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="relint-1.19.tar">relint-1.19.tar</a>, 2020-Nov-30,  200&nbsp;KiB</dd>
 <dt>Home page</dt> <dd><a href="https://github.com/mattiase/relint">https://github.com/mattiase/relint</a></dd>
 <dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/relint">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/relint">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
@@ -35,6 +35,16 @@ Relint scans elisp files for mistakes in regexps, including deprecated
 syntax and bad practice. It also checks the regexp-like arguments to
 skip-chars-forward, skip-chars-backward, skip-syntax-forward and
 skip-syntax-backward.
+
+* Contents
+
+   - Usage
+   - Installation
+   - What the diagnostics mean
+   - Suppressing diagnostics
+   - How it works
+   - Bugs
+
 
 * Usage
 
@@ -78,6 +88,9 @@ skip-syntax-backward.
 
 
 * What the diagnostics mean
+
+  Tip: if a regexp string is difficult to understand, consider
+  decoding it using 'xr', as in (xr-lint "gibberish").
 
   - Unescaped literal 'X'
 
@@ -217,7 +230,7 @@ skip-syntax-backward.
 
   - Literal '-' not first or last
 
-    It is good style to put literal hyphens last in character
+    It is good style to put a literal hyphen last in character
     alternatives and skip sets, to clearly indicate that it was not
     intended as part of a range.
 
@@ -243,6 +256,23 @@ skip-syntax-backward.
 
     In general, A?, where A matches the empty string, can be
     simplified to just A.
+
+  - Ineffective string escape '\X'
+
+    A backslash precedes a character that does not need escaping in a
+    string literal (any string, not just regexps), like in "hot\-dog".
+
+    If the backslash should be part of the string then it probably
+    needs to be doubled; otherwise, it is pointless and should be
+    removed to avoid confusion.
+
+    In Emacs versions older than 27.1, a left round or square bracket,
+    '(' or '[', at the very start of a line in a multi-line string
+    could sometimes fool the Emacs-Lisp mode into believing it to be
+    the start of a function, thus people sometimes precede such
+    brackets with an otherwise unnecessary backslash. However, there
+    is usually no reason to put backslashes before brackets in strings
+    in general.
 
   - Suspect range '+-X' or 'X-+'
 
@@ -375,6 +405,8 @@ skip-syntax-backward.
 
 </pre>
 <h2>Old versions</h2><table>
+<tr><td><a href="relint-1.18.tar">relint-1.18.tar</a></td><td>2020-Jun-20</td><td> 190&nbsp;KiB</td>
+<tr><td><a href="relint-1.17.tar">relint-1.17.tar</a></td><td>2020-May-10</td><td> 190&nbsp;KiB</td>
 <tr><td><a href="relint-1.16.tar">relint-1.16.tar</a></td><td>2020-May-03</td><td> 180&nbsp;KiB</td>
 <tr><td><a href="relint-1.15.tar">relint-1.15.tar</a></td><td>2020-Mar-05</td><td> 170&nbsp;KiB</td>
 <tr><td><a href="relint-1.14.tar">relint-1.14.tar</a></td><td>2020-Mar-01</td><td> 150&nbsp;KiB</td>
@@ -389,6 +421,16 @@ skip-syntax-backward.
 <tr><td><a href="relint-1.5.el">relint-1.5.el</a></td><td>2019-Mar-26</td><td>40.2&nbsp;KiB</td>
 </table>
 <h2>News</h2><pre>
+Version 1.19
+- Progress indicator in `relint-directory'
+- Some performance improvements
+- Fix some false positives in the regexp provenance detector
+- Scan assignments to `font-lock-defaults' correctly
+- Recognise regexp arguments to functions in the s.el package
+Version 1.18:
+- New check for ineffective backslashes in all strings (not just regexps)
+- Warnings emitted in order of their position in file or buffer
+- Performance improvements
 Version 1.17:
 - Fixed message display on Emacs 26
 Version 1.16:

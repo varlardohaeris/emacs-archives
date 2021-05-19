@@ -1,3 +1,4 @@
+
 A Helm for SLIME.
 
 The complete command list:
@@ -14,7 +15,7 @@ The complete command list:
    Like `helm-slime-list-connections', but include an extra
    source of SLIME-related buffers, like the events buffer or the scratch buffer.
 
-Installation:
+; Installation:
 
 Add helm-slime.el to your load-path.
 Set up SLIME properly.

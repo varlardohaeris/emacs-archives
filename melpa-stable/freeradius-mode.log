@@ -1,0 +1,6 @@
+Package: freeradius-mode
+Fetcher: github
+Source:  https://github.com/VersBinarii/freeradius-mode.git
+
+Updating /mnt/store/melpa/working/freeradius-mode/
+No valid stable versions found for freeradius-mode

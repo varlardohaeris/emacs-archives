@@ -1,0 +1,11 @@
+Package: httprepl
+Fetcher: github
+Source:  https://github.com/gregsexton/httprepl.el.git
+
+Updating /mnt/store/melpa/working/httprepl/
+Built httprepl in 2.903s, finished at Wed May 19 04:42:18 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 04:42 packages-stable/httprepl-1.1.el
+4.0K -rw-r--r-- 1 root root  395 May 19 04:42 packages-stable/httprepl-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/httprepl-badge.svg
+4.0K -rw-r--r-- 1 root root  249 May 19 04:42 packages-stable/httprepl-readme.txt

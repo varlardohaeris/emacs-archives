@@ -1,0 +1,39 @@
+Package: egg
+Fetcher: github
+Source:  https://github.com/byplayer/egg.git
+
+Updating /mnt/store/melpa/working/egg/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/egg/
+  to /tmp/eggWvu6VF/egg-1.1.4
+    egg-base.el -> egg-base.el
+    egg-const.el -> egg-const.el
+    egg-custom.el -> egg-custom.el
+    egg-diff.el -> egg-diff.el
+    egg-git.el -> egg-git.el
+    egg-grep.el -> egg-grep.el
+    egg-key.el -> egg-key.el
+    egg-svn.el -> egg-svn.el
+    egg.el -> egg.el
+  ! doc/egg.texi -> egg.texi
+Created /tmp/eggWvu6VF/egg-1.1.4/egg.info
+Created egg-1.1.4.tar containing:
+  egg-1.1.4/
+  egg-1.1.4/dir
+  egg-1.1.4/egg-base.el
+  egg-1.1.4/egg-const.el
+  egg-1.1.4/egg-custom.el
+  egg-1.1.4/egg-diff.el
+  egg-1.1.4/egg-git.el
+  egg-1.1.4/egg-grep.el
+  egg-1.1.4/egg-key.el
+  egg-1.1.4/egg-pkg.el
+  egg-1.1.4/egg-svn.el
+  egg-1.1.4/egg.el
+  egg-1.1.4/egg.info
+Built egg in 11.254s, finished at Wed May 19 04:29:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  315 May 19 04:29 packages-stable/egg-1.1.4.entry
+660K -rw-r--r-- 1 root root 660K May 19 04:29 packages-stable/egg-1.1.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/egg-badge.svg
+4.0K -rw-r--r-- 1 root root  179 May 19 04:29 packages-stable/egg-timer.log

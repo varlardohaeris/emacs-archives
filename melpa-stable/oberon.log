@@ -1,0 +1,6 @@
+Package: oberon
+Fetcher: github
+Source:  https://github.com/emacsorphanage/oberon.git
+
+Updating /mnt/store/melpa/working/oberon/
+No valid stable versions found for oberon

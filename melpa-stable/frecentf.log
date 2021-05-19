@@ -1,0 +1,6 @@
+Package: frecentf
+Fetcher: git
+Source:  https://git.launchpad.net/frecentf.el
+
+Updating /mnt/store/melpa/working/frecentf/
+No valid stable versions found for frecentf

@@ -1,0 +1,11 @@
+Package: w32-ime
+Fetcher: github
+Source:  https://github.com/trueroad/w32-ime.el.git
+
+Updating /mnt/store/melpa/working/w32-ime/
+Built w32-ime in 3.735s, finished at Wed May 19 01:54:30 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:54 packages-stable/w32-ime-20201005.el
+4.0K -rw-r--r-- 1 root root  533 May 19 01:54 packages-stable/w32-ime-20201005.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/w32-ime-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 01:54 packages-stable/w32-ime-readme.txt

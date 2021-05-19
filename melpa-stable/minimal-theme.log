@@ -1,0 +1,6 @@
+Package: minimal-theme
+Fetcher: github
+Source:  https://github.com/anler/minimal-theme.git
+
+Updating /mnt/store/melpa/working/minimal-theme/
+No valid stable versions found for minimal-theme

@@ -1,0 +1,6 @@
+Package: flymake-vala
+Fetcher: github
+Source:  https://github.com/daniellawrence/flymake-vala.git
+
+Updating /mnt/store/melpa/working/flymake-vala/
+No valid stable versions found for flymake-vala

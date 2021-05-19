@@ -1,0 +1,11 @@
+Package: wiki-nav
+Fetcher: github
+Source:  https://github.com/rolandwalker/button-lock.git
+
+Updating /mnt/store/melpa/working/wiki-nav/
+Built wiki-nav in 3.707s, finished at Wed May 19 01:55:07 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  44K May 19 01:55 packages-stable/wiki-nav-1.0.2.el
+4.0K -rw-r--r-- 1 root root  446 May 19 01:55 packages-stable/wiki-nav-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/wiki-nav-badge.svg
+ 12K -rw-r--r-- 1 root root 8.5K May 19 01:55 packages-stable/wiki-nav-readme.txt

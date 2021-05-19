@@ -1,0 +1,6 @@
+Package: runtests
+Fetcher: github
+Source:  https://github.com/sunesimonsen/emacs-runtests.git
+
+Updating /mnt/store/melpa/working/runtests/
+No valid stable versions found for runtests

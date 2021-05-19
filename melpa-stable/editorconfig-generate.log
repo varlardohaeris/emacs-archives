@@ -1,0 +1,6 @@
+Package: editorconfig-generate
+Fetcher: github
+Source:  https://github.com/10sr/editorconfig-generate-el.git
+
+Updating /mnt/store/melpa/working/editorconfig-generate/
+No valid stable versions found for editorconfig-generate

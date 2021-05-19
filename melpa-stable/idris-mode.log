@@ -1,0 +1,61 @@
+Package: idris-mode
+Fetcher: github
+Source:  https://github.com/idris-hackers/idris-mode.git
+
+Updating /mnt/store/melpa/working/idris-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/idris-mode/
+  to /tmp/idris-moderMa4MA/idris-mode-1.0
+    idris-commands.el -> idris-commands.el
+    idris-common-utils.el -> idris-common-utils.el
+    idris-compat.el -> idris-compat.el
+    idris-core.el -> idris-core.el
+    idris-events.el -> idris-events.el
+    idris-highlight-input.el -> idris-highlight-input.el
+    idris-hole-list.el -> idris-hole-list.el
+    idris-info.el -> idris-info.el
+    idris-ipkg-mode.el -> idris-ipkg-mode.el
+    idris-keys.el -> idris-keys.el
+    idris-log.el -> idris-log.el
+    idris-mode.el -> idris-mode.el
+    idris-prover.el -> idris-prover.el
+    idris-repl.el -> idris-repl.el
+    idris-settings.el -> idris-settings.el
+    idris-simple-indent.el -> idris-simple-indent.el
+    idris-syntax.el -> idris-syntax.el
+    idris-tree-info.el -> idris-tree-info.el
+    idris-warnings-tree.el -> idris-warnings-tree.el
+    idris-warnings.el -> idris-warnings.el
+    inferior-idris.el -> inferior-idris.el
+    logo-small.png -> logo-small.png
+Created idris-mode-1.0.tar containing:
+  idris-mode-1.0/
+  idris-mode-1.0/idris-commands.el
+  idris-mode-1.0/idris-common-utils.el
+  idris-mode-1.0/idris-compat.el
+  idris-mode-1.0/idris-core.el
+  idris-mode-1.0/idris-events.el
+  idris-mode-1.0/idris-highlight-input.el
+  idris-mode-1.0/idris-hole-list.el
+  idris-mode-1.0/idris-info.el
+  idris-mode-1.0/idris-ipkg-mode.el
+  idris-mode-1.0/idris-keys.el
+  idris-mode-1.0/idris-log.el
+  idris-mode-1.0/idris-mode-pkg.el
+  idris-mode-1.0/idris-mode.el
+  idris-mode-1.0/idris-prover.el
+  idris-mode-1.0/idris-repl.el
+  idris-mode-1.0/idris-settings.el
+  idris-mode-1.0/idris-simple-indent.el
+  idris-mode-1.0/idris-syntax.el
+  idris-mode-1.0/idris-tree-info.el
+  idris-mode-1.0/idris-warnings-tree.el
+  idris-mode-1.0/idris-warnings.el
+  idris-mode-1.0/inferior-idris.el
+  idris-mode-1.0/logo-small.png
+Built idris-mode in 2.834s, finished at Wed May 19 04:42:49 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  322 May 19 04:42 packages-stable/idris-mode-1.0.entry
+260K -rw-r--r-- 1 root root 260K May 19 04:42 packages-stable/idris-mode-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/idris-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  150 May 19 04:42 packages-stable/idris-mode-readme.txt

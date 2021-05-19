@@ -1,0 +1,11 @@
+Package: auctex-latexmk
+Fetcher: github
+Source:  https://github.com/tom-tan/auctex-latexmk.git
+
+Updating /mnt/store/melpa/working/auctex-latexmk/
+Built auctex-latexmk in 3.159s, finished at Wed May 19 04:20:00 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.0K May 19 04:19 packages-stable/auctex-latexmk-1.0.2.el
+4.0K -rw-r--r-- 1 root root  352 May 19 04:20 packages-stable/auctex-latexmk-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/auctex-latexmk-badge.svg
+4.0K -rw-r--r-- 1 root root  951 May 19 04:20 packages-stable/auctex-latexmk-readme.txt

@@ -1,0 +1,6 @@
+Package: scheme-complete
+Fetcher: github
+Source:  https://github.com/ashinn/scheme-complete.git
+
+Updating /mnt/store/melpa/working/scheme-complete/
+No valid stable versions found for scheme-complete

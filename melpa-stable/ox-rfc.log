@@ -1,0 +1,6 @@
+Package: ox-rfc
+Fetcher: github
+Source:  https://github.com/choppsv1/org-rfc-export.git
+
+Updating /mnt/store/melpa/working/ox-rfc/
+No valid stable versions found for ox-rfc

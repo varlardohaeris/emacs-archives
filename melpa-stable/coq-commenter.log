@@ -1,0 +1,6 @@
+Package: coq-commenter
+Fetcher: github
+Source:  https://github.com/Ailrun/coq-commenter.git
+
+Updating /mnt/store/melpa/working/coq-commenter/
+No valid stable versions found for coq-commenter

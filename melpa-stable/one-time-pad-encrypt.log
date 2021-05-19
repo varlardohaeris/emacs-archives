@@ -1,0 +1,6 @@
+Package: one-time-pad-encrypt
+Fetcher: github
+Source:  https://github.com/garvinguan/emacs-one-time-pad.git
+
+Updating /mnt/store/melpa/working/one-time-pad-encrypt/
+No valid stable versions found for one-time-pad-encrypt

@@ -1,3 +1,4 @@
+
 This adds support for the Emacs25 xref API (`xref-find-definitions' and
 friends) to rtags.  Just `require' it and the default Emacs keybindings
 (M-., M-,, M-? etc.) use rtags.

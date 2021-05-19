@@ -1,0 +1,6 @@
+Package: go
+Fetcher: github
+Source:  https://github.com/eschulte/el-go.git
+
+Updating /mnt/store/melpa/working/go/
+No valid stable versions found for go

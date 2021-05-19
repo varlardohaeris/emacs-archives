@@ -1,0 +1,6 @@
+Package: buffer-sets
+Fetcher: git
+Source:  https://git.flintfam.org/swf-projects/buffer-sets.git
+
+Updating /mnt/store/melpa/working/buffer-sets/
+No valid stable versions found for buffer-sets

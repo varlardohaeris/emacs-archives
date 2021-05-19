@@ -1,0 +1,21 @@
+Package: ob-sagemath
+Fetcher: github
+Source:  https://github.com/sagemath/ob-sagemath.git
+
+Updating /mnt/store/melpa/working/ob-sagemath/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ob-sagemath/
+  to /tmp/ob-sagemathiL7WzF/ob-sagemath-0.4
+    ob-sagemath.el -> ob-sagemath.el
+    emacs_ob_sagemath.py -> emacs_ob_sagemath.py
+Created ob-sagemath-0.4.tar containing:
+  ob-sagemath-0.4/
+  ob-sagemath-0.4/emacs_ob_sagemath.py
+  ob-sagemath-0.4/ob-sagemath-pkg.el
+  ob-sagemath-0.4/ob-sagemath.el
+Built ob-sagemath in 2.763s, finished at Wed May 19 01:38:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  461 May 19 01:38 packages-stable/ob-sagemath-0.4.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:38 packages-stable/ob-sagemath-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-sagemath-badge.svg
+4.0K -rw-r--r-- 1 root root  128 May 19 01:38 packages-stable/ob-sagemath-readme.txt

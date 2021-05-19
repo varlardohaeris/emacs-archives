@@ -1,0 +1,11 @@
+Package: poly-markdown
+Fetcher: github
+Source:  https://github.com/polymode/poly-markdown.git
+
+Updating /mnt/store/melpa/working/poly-markdown/
+Built poly-markdown in 2.894s, finished at Wed May 19 01:43:35 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.9K May 19 01:43 packages-stable/poly-markdown-0.2.2.el
+4.0K -rw-r--r-- 1 root root  357 May 19 01:43 packages-stable/poly-markdown-0.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/poly-markdown-badge.svg
+4.0K -rw-r--r-- 1 root root   70 May 19 01:43 packages-stable/poly-markdown-readme.txt

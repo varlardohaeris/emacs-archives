@@ -1,0 +1,21 @@
+Package: csharp-mode
+Fetcher: github
+Source:  https://github.com/emacs-csharp/csharp-mode.git
+
+Updating /mnt/store/melpa/working/csharp-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/csharp-mode/
+  to /tmp/csharp-modekSeNOc/csharp-mode-0.11.0
+    csharp-mode.el -> csharp-mode.el
+    csharp-tree-sitter.el -> csharp-tree-sitter.el
+Created csharp-mode-0.11.0.tar containing:
+  csharp-mode-0.11.0/
+  csharp-mode-0.11.0/csharp-mode-pkg.el
+  csharp-mode-0.11.0/csharp-mode.el
+  csharp-mode-0.11.0/csharp-tree-sitter.el
+Built csharp-mode in 6.773s, finished at Wed May 19 04:25:58 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  378 May 19 04:25 packages-stable/csharp-mode-0.11.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 04:25 packages-stable/csharp-mode-0.11.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/csharp-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K Sep 30  2020 packages-stable/csharp-mode-readme.txt

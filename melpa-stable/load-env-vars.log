@@ -1,0 +1,6 @@
+Package: load-env-vars
+Fetcher: github
+Source:  https://github.com/diasjorge/emacs-load-env-vars.git
+
+Updating /mnt/store/melpa/working/load-env-vars/
+No valid stable versions found for load-env-vars

@@ -1,0 +1,11 @@
+Package: go-direx
+Fetcher: github
+Source:  https://github.com/emacsorphanage/go-direx.git
+
+Updating /mnt/store/melpa/working/go-direx/
+Built go-direx in 2.860s, finished at Wed May 19 04:37:54 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K May 19 04:37 packages-stable/go-direx-0.4.el
+4.0K -rw-r--r-- 1 root root  374 May 19 04:37 packages-stable/go-direx-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/go-direx-badge.svg
+4.0K -rw-r--r-- 1 root root  249 May 19 04:37 packages-stable/go-direx-readme.txt

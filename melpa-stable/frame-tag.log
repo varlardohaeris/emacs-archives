@@ -1,0 +1,6 @@
+Package: frame-tag
+Fetcher: github
+Source:  https://github.com/liangzan/frame-tag.el.git
+
+Updating /mnt/store/melpa/working/frame-tag/
+No valid stable versions found for frame-tag

@@ -1,0 +1,673 @@
+Package: helm
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm.git
+
+Updating /mnt/store/melpa/working/helm/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm/
+  to /tmp/helmYLd3Ql/helm-3.7.1
+    .dir-locals.el -> .dir-locals.el
+    helm-adaptive.el -> helm-adaptive.el
+    helm-bookmark.el -> helm-bookmark.el
+    helm-buffers.el -> helm-buffers.el
+    helm-color.el -> helm-color.el
+    helm-comint.el -> helm-comint.el
+    helm-command.el -> helm-command.el
+    helm-config.el -> helm-config.el
+    helm-dabbrev.el -> helm-dabbrev.el
+    helm-easymenu.el -> helm-easymenu.el
+    helm-elisp-package.el -> helm-elisp-package.el
+    helm-elisp.el -> helm-elisp.el
+    helm-epa.el -> helm-epa.el
+    helm-eshell.el -> helm-eshell.el
+    helm-eval.el -> helm-eval.el
+    helm-external.el -> helm-external.el
+    helm-fd.el -> helm-fd.el
+    helm-files.el -> helm-files.el
+    helm-find.el -> helm-find.el
+    helm-font.el -> helm-font.el
+    helm-for-files.el -> helm-for-files.el
+    helm-global-bindings.el -> helm-global-bindings.el
+    helm-grep.el -> helm-grep.el
+    helm-help.el -> helm-help.el
+    helm-id-utils.el -> helm-id-utils.el
+    helm-imenu.el -> helm-imenu.el
+    helm-info.el -> helm-info.el
+    helm-locate.el -> helm-locate.el
+    helm-man.el -> helm-man.el
+    helm-misc.el -> helm-misc.el
+    helm-mode.el -> helm-mode.el
+    helm-net.el -> helm-net.el
+    helm-occur.el -> helm-occur.el
+    helm-pkg.el -> helm-pkg.el
+    helm-regexp.el -> helm-regexp.el
+    helm-ring.el -> helm-ring.el
+    helm-semantic.el -> helm-semantic.el
+    helm-shell.el -> helm-shell.el
+    helm-sys.el -> helm-sys.el
+    helm-tags.el -> helm-tags.el
+    helm-types.el -> helm-types.el
+    helm-utils.el -> helm-utils.el
+    helm-x-files.el -> helm-x-files.el
+    emacs-helm.sh -> emacs-helm.sh
+Created helm-3.7.1.tar containing:
+  helm-3.7.1/
+  helm-3.7.1/.dir-locals.el
+  helm-3.7.1/emacs-helm.sh
+  helm-3.7.1/helm-adaptive.el
+  helm-3.7.1/helm-bookmark.el
+  helm-3.7.1/helm-buffers.el
+  helm-3.7.1/helm-color.el
+  helm-3.7.1/helm-comint.el
+  helm-3.7.1/helm-command.el
+  helm-3.7.1/helm-config.el
+  helm-3.7.1/helm-dabbrev.el
+  helm-3.7.1/helm-easymenu.el
+  helm-3.7.1/helm-elisp-package.el
+  helm-3.7.1/helm-elisp.el
+  helm-3.7.1/helm-epa.el
+  helm-3.7.1/helm-eshell.el
+  helm-3.7.1/helm-eval.el
+  helm-3.7.1/helm-external.el
+  helm-3.7.1/helm-fd.el
+  helm-3.7.1/helm-files.el
+  helm-3.7.1/helm-find.el
+  helm-3.7.1/helm-font.el
+  helm-3.7.1/helm-for-files.el
+  helm-3.7.1/helm-global-bindings.el
+  helm-3.7.1/helm-grep.el
+  helm-3.7.1/helm-help.el
+  helm-3.7.1/helm-id-utils.el
+  helm-3.7.1/helm-imenu.el
+  helm-3.7.1/helm-info.el
+  helm-3.7.1/helm-locate.el
+  helm-3.7.1/helm-man.el
+  helm-3.7.1/helm-misc.el
+  helm-3.7.1/helm-mode.el
+  helm-3.7.1/helm-net.el
+  helm-3.7.1/helm-occur.el
+  helm-3.7.1/helm-pkg.el
+  helm-3.7.1/helm-regexp.el
+  helm-3.7.1/helm-ring.el
+  helm-3.7.1/helm-semantic.el
+  helm-3.7.1/helm-shell.el
+  helm-3.7.1/helm-sys.el
+  helm-3.7.1/helm-tags.el
+  helm-3.7.1/helm-types.el
+  helm-3.7.1/helm-utils.el
+  helm-3.7.1/helm-x-files.el
+Built helm in 3.661s, finished at Wed May 19 04:39:43 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  424 May 19 04:39 packages-stable/helm-3.7.1.entry
+1.1M -rw-r--r-- 1 root root 1.1M May 19 04:39 packages-stable/helm-3.7.1.tar
+4.0K -rw-r--r-- 1 root root  165 May 19 04:39 packages-stable/helm-R.log
+8.0K -rw-r--r-- 1 root root 7.7K May 19 04:39 packages-stable/helm-ack-0.13.el
+4.0K -rw-r--r-- 1 root root  358 May 19 01:25 packages-stable/helm-ack-0.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-ack-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:39 packages-stable/helm-ack-readme.txt
+4.0K -rw-r--r-- 1 root root  135 May 19 04:39 packages-stable/helm-ack.log
+4.0K -rw-r--r-- 1 root root  166 May 19 04:39 packages-stable/helm-ad.log
+4.0K -rw-r--r-- 1 root root  207 Feb  4 23:25 packages-stable/helm-addressbook.log
+ 56K -rw-r--r-- 1 root root  54K May 19 01:25 packages-stable/helm-ag-0.64.el
+4.0K -rw-r--r-- 1 root root  353 May 19 01:25 packages-stable/helm-ag-0.64.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-ag-badge.svg
+4.0K -rw-r--r-- 1 root root  135 May 19 04:39 packages-stable/helm-ag-r.log
+4.0K -rw-r--r-- 1 root root  206 May 19 01:25 packages-stable/helm-ag-readme.txt
+4.0K -rw-r--r-- 1 root root  132 May 19 04:39 packages-stable/helm-ag.log
+ 16K -rw-r--r-- 1 root root  13K May 19 01:25 packages-stable/helm-apt-1.0.el
+4.0K -rw-r--r-- 1 root root  401 May 19 01:25 packages-stable/helm-apt-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-apt-badge.svg
+4.0K -rw-r--r-- 1 root root   39 May 19 01:25 packages-stable/helm-apt-readme.txt
+4.0K -rw-r--r-- 1 root root  131 May 19 04:39 packages-stable/helm-apt.log
+4.0K -rw-r--r-- 1 root root   95 May 19 04:39 packages-stable/helm-atoms.log
+8.0K -rw-r--r-- 1 root root 4.9K May 19 01:25 packages-stable/helm-aws-1.0.0.el
+4.0K -rw-r--r-- 1 root root  288 May 19 01:25 packages-stable/helm-aws-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-aws-badge.svg
+4.0K -rw-r--r-- 1 root root  305 May 19 01:25 packages-stable/helm-aws-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:39 packages-stable/helm-aws.log
+ 12K -rw-r--r-- 1 root root  11K May 19 01:25 packages-stable/helm-backup-1.1.1.el
+4.0K -rw-r--r-- 1 root root  464 May 19 01:25 packages-stable/helm-backup-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-backup-badge.svg
+4.0K -rw-r--r-- 1 root root  378 May 19 01:25 packages-stable/helm-backup-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:39 packages-stable/helm-backup.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-badge.svg
+ 12K -rw-r--r-- 1 root root  11K May 19 01:25 packages-stable/helm-bbdb-1.1.el
+4.0K -rw-r--r-- 1 root root  238 May 19 01:25 packages-stable/helm-bbdb-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-bbdb-badge.svg
+4.0K -rw-r--r-- 1 root root  455 May 19 01:25 packages-stable/helm-bbdb.log
+ 12K -rw-r--r-- 1 root root 8.7K May 19 01:25 packages-stable/helm-bibtex-2.0.0.el
+4.0K -rw-r--r-- 1 root root  470 May 19 01:25 packages-stable/helm-bibtex-2.0.0.entry
+ 60K -rw-r--r-- 1 root root  60K Apr 16  2020 packages-stable/helm-bibtex-2.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-bibtex-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 01:25 packages-stable/helm-bibtex-readme.txt
+4.0K -rw-r--r-- 1 root root  641 May 19 01:25 packages-stable/helm-bibtex.log
+4.0K -rw-r--r-- 1 root root  197 May 19 01:25 packages-stable/helm-bibtexkey.log
+4.0K -rw-r--r-- 1 root root  193 May 19 01:25 packages-stable/helm-bind-key.log
+8.0K -rw-r--r-- 1 root root 6.1K May 19 01:25 packages-stable/helm-bitbucket-0.1.3.el
+4.0K -rw-r--r-- 1 root root  391 May 19 01:25 packages-stable/helm-bitbucket-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-bitbucket-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:25 packages-stable/helm-bitbucket-readme.txt
+4.0K -rw-r--r-- 1 root root  586 May 19 01:25 packages-stable/helm-bitbucket.log
+8.0K -rw-r--r-- 1 root root 6.7K May 19 01:25 packages-stable/helm-bm-0.3.el
+4.0K -rw-r--r-- 1 root root  403 May 19 01:25 packages-stable/helm-bm-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-bm-badge.svg
+4.0K -rw-r--r-- 1 root root  170 May 19 01:25 packages-stable/helm-bm-readme.txt
+4.0K -rw-r--r-- 1 root root  518 May 19 01:25 packages-stable/helm-bm.log
+8.0K -rw-r--r-- 1 root root 4.3K May 19 01:25 packages-stable/helm-books-1.0.1.el
+4.0K -rw-r--r-- 1 root root  363 May 19 01:25 packages-stable/helm-books-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-books-badge.svg
+4.0K -rw-r--r-- 1 root root   35 May 19 01:25 packages-stable/helm-books-readme.txt
+4.0K -rw-r--r-- 1 root root  547 May 19 01:25 packages-stable/helm-books.log
+4.0K -rw-r--r-- 1 root root 3.3K May 19 01:25 packages-stable/helm-bufler-0.2.el
+4.0K -rw-r--r-- 1 root root  423 May 19 01:25 packages-stable/helm-bufler-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-bufler-badge.svg
+4.0K -rw-r--r-- 1 root root  290 May 19 01:25 packages-stable/helm-bufler-readme.txt
+4.0K -rw-r--r-- 1 root root  551 May 19 01:25 packages-stable/helm-bufler.log
+4.0K -rw-r--r-- 1 root root 3.8K May 19 01:25 packages-stable/helm-bundle-show-1.1.6.el
+4.0K -rw-r--r-- 1 root root  400 May 19 01:25 packages-stable/helm-bundle-show-1.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-bundle-show-badge.svg
+4.0K -rw-r--r-- 1 root root   64 May 19 01:25 packages-stable/helm-bundle-show-readme.txt
+4.0K -rw-r--r-- 1 root root  602 May 19 01:25 packages-stable/helm-bundle-show.log
+4.0K -rw-r--r-- 1 root root  193 May 19 01:25 packages-stable/helm-c-moccur.log
+ 20K -rw-r--r-- 1 root root  20K May 19 01:25 packages-stable/helm-c-yasnippet-0.6.7.el
+4.0K -rw-r--r-- 1 root root  431 May 19 01:25 packages-stable/helm-c-yasnippet-0.6.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-c-yasnippet-badge.svg
+4.0K -rw-r--r-- 1 root root  106 May 19 01:25 packages-stable/helm-c-yasnippet-readme.txt
+4.0K -rw-r--r-- 1 root root  596 May 19 01:25 packages-stable/helm-c-yasnippet.log
+4.0K -rw-r--r-- 1 root root  183 May 19 01:25 packages-stable/helm-catkin.log
+4.0K -rw-r--r-- 1 root root  192 May 19 01:25 packages-stable/helm-charinfo.log
+4.0K -rw-r--r-- 1 root root  219 May 19 01:25 packages-stable/helm-chrome-control.log
+4.0K -rw-r--r-- 1 root root  219 May 19 01:25 packages-stable/helm-chrome-history.log
+4.0K -rw-r--r-- 1 root root  185 May 19 01:25 packages-stable/helm-chrome.log
+4.0K -rw-r--r-- 1 root root  189 May 19 01:25 packages-stable/helm-chronos.log
+4.0K -rw-r--r-- 1 root root  471 May 19 01:25 packages-stable/helm-cider-0.4.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:25 packages-stable/helm-cider-0.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-cider-badge.svg
+4.0K -rw-r--r-- 1 root root  210 May 19 01:25 packages-stable/helm-cider-history.log
+4.0K -rw-r--r-- 1 root root  153 May 19 01:25 packages-stable/helm-cider-readme.txt
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-cider.log
+8.0K -rw-r--r-- 1 root root 7.8K May 19 01:25 packages-stable/helm-circe-0.4.el
+4.0K -rw-r--r-- 1 root root  463 May 19 01:25 packages-stable/helm-circe-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-circe-badge.svg
+4.0K -rw-r--r-- 1 root root  270 May 19 01:25 packages-stable/helm-circe-readme.txt
+4.0K -rw-r--r-- 1 root root  545 May 19 01:25 packages-stable/helm-circe.log
+4.0K -rw-r--r-- 1 root root  204 May 19 01:25 packages-stable/helm-clojuredocs.log
+4.0K -rw-r--r-- 1 root root  183 May 19 01:25 packages-stable/helm-cmd-t.log
+ 20K -rw-r--r-- 1 root root  19K May 19 01:25 packages-stable/helm-codesearch-0.5.0.el
+4.0K -rw-r--r-- 1 root root  411 May 19 01:25 packages-stable/helm-codesearch-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-codesearch-badge.svg
+4.0K -rw-r--r-- 1 root root   99 May 19 01:25 packages-stable/helm-codesearch-readme.txt
+4.0K -rw-r--r-- 1 root root  591 May 19 01:25 packages-stable/helm-codesearch.log
+ 12K -rw-r--r-- 1 root root 9.3K May 19 01:25 packages-stable/helm-commandlinefu-0.3.el
+4.0K -rw-r--r-- 1 root root  533 May 19 01:25 packages-stable/helm-commandlinefu-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-commandlinefu-badge.svg
+4.0K -rw-r--r-- 1 root root  281 May 19 01:25 packages-stable/helm-commandlinefu-readme.txt
+4.0K -rw-r--r-- 1 root root  610 May 19 01:25 packages-stable/helm-commandlinefu.log
+ 16K -rw-r--r-- 1 root root  13K May 19 01:25 packages-stable/helm-company-0.2.5.el
+4.0K -rw-r--r-- 1 root root  403 May 19 01:25 packages-stable/helm-company-0.2.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-company-badge.svg
+4.0K -rw-r--r-- 1 root root  285 May 19 01:25 packages-stable/helm-company-readme.txt
+4.0K -rw-r--r-- 1 root root  576 May 19 01:25 packages-stable/helm-company.log
+4.0K -rw-r--r-- 1 root root  186 May 19 01:25 packages-stable/helm-core-3.7.1.entry
+452K -rw-r--r-- 1 root root 450K May 19 01:25 packages-stable/helm-core-3.7.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-core-badge.svg
+4.0K -rw-r--r-- 1 root root  980 May 19 01:25 packages-stable/helm-core.log
+ 12K -rw-r--r-- 1 root root 9.6K May 19 01:25 packages-stable/helm-cscope-0.1.1.el
+4.0K -rw-r--r-- 1 root root  461 May 19 01:25 packages-stable/helm-cscope-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-cscope-badge.svg
+4.0K -rw-r--r-- 1 root root   55 May 19 01:25 packages-stable/helm-cscope-readme.txt
+4.0K -rw-r--r-- 1 root root  560 May 19 01:25 packages-stable/helm-cscope.log
+4.0K -rw-r--r-- 1 root root  199 May 19 01:25 packages-stable/helm-css-scss.log
+4.0K -rw-r--r-- 1 root root  183 May 19 01:25 packages-stable/helm-ctest.log
+ 28K -rw-r--r-- 1 root root  25K May 19 01:25 packages-stable/helm-dash-1.3.0.el
+4.0K -rw-r--r-- 1 root root  471 May 19 01:25 packages-stable/helm-dash-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-dash-badge.svg
+4.0K -rw-r--r-- 1 root root  201 May 19 01:25 packages-stable/helm-dash-readme.txt
+4.0K -rw-r--r-- 1 root root  544 May 19 01:25 packages-stable/helm-dash.log
+ 12K -rw-r--r-- 1 root root  11K May 19 01:25 packages-stable/helm-descbinds-1.13.el
+4.0K -rw-r--r-- 1 root root  384 May 19 01:25 packages-stable/helm-descbinds-1.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-descbinds-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:25 packages-stable/helm-descbinds-readme.txt
+4.0K -rw-r--r-- 1 root root  580 May 19 01:25 packages-stable/helm-descbinds.log
+4.0K -rw-r--r-- 1 root root  219 May 19 01:25 packages-stable/helm-describe-modes.log
+4.0K -rw-r--r-- 1 root root  203 May 19 01:25 packages-stable/helm-dictionary.log
+8.0K -rw-r--r-- 1 root root 4.5K May 19 01:25 packages-stable/helm-directory-0.6.4.el
+4.0K -rw-r--r-- 1 root root  336 May 19 01:25 packages-stable/helm-directory-0.6.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-directory-badge.svg
+4.0K -rw-r--r-- 1 root root  327 May 19 01:25 packages-stable/helm-directory-readme.txt
+4.0K -rw-r--r-- 1 root root  585 May 19 01:25 packages-stable/helm-directory.log
+8.0K -rw-r--r-- 1 root root 5.6K May 19 01:25 packages-stable/helm-dired-history-1.3.el
+4.0K -rw-r--r-- 1 root root  464 May 19 01:25 packages-stable/helm-dired-history-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-dired-history-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:25 packages-stable/helm-dired-history-readme.txt
+4.0K -rw-r--r-- 1 root root  606 May 19 01:25 packages-stable/helm-dired-history.log
+4.0K -rw-r--r-- 1 root root  227 May 19 01:25 packages-stable/helm-dired-recent-dirs.log
+4.0K -rw-r--r-- 1 root root  182 May 19 01:25 packages-stable/helm-dirset.log
+4.0K -rw-r--r-- 1 root root  195 Feb  4 23:26 packages-stable/helm-elscreen.log
+4.0K -rw-r--r-- 1 root root  179 May 19 01:25 packages-stable/helm-emmet.log
+ 16K -rw-r--r-- 1 root root  15K May 19 01:25 packages-stable/helm-emms-1.3.el
+4.0K -rw-r--r-- 1 root root  283 May 19 01:25 packages-stable/helm-emms-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-emms-badge.svg
+4.0K -rw-r--r-- 1 root root  455 May 19 01:25 packages-stable/helm-emms.log
+ 12K -rw-r--r-- 1 root root 9.9K May 19 01:25 packages-stable/helm-esa-1.1.0.el
+4.0K -rw-r--r-- 1 root root  394 May 19 01:25 packages-stable/helm-esa-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-esa-badge.svg
+4.0K -rw-r--r-- 1 root root   64 May 19 01:25 packages-stable/helm-esa-readme.txt
+4.0K -rw-r--r-- 1 root root  538 May 19 01:25 packages-stable/helm-esa.log
+ 32K -rw-r--r-- 1 root root  29K May 19 01:25 packages-stable/helm-etags-plus-1.1.el
+4.0K -rw-r--r-- 1 root root  379 May 19 01:25 packages-stable/helm-etags-plus-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-etags-plus-badge.svg
+4.0K -rw-r--r-- 1 root root 2.8K May 19 01:25 packages-stable/helm-etags-plus-readme.txt
+4.0K -rw-r--r-- 1 root root  582 May 19 01:25 packages-stable/helm-etags-plus.log
+4.0K -rw-r--r-- 1 root root 3.9K May 19 01:25 packages-stable/helm-evil-markers-1.0.0.el
+4.0K -rw-r--r-- 1 root root  405 May 19 01:25 packages-stable/helm-evil-markers-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-evil-markers-badge.svg
+4.0K -rw-r--r-- 1 root root  119 May 19 01:25 packages-stable/helm-evil-markers-readme.txt
+4.0K -rw-r--r-- 1 root root  607 May 19 01:25 packages-stable/helm-evil-markers.log
+ 16K -rw-r--r-- 1 root root  15K May 19 01:25 packages-stable/helm-eww-1.2.el
+4.0K -rw-r--r-- 1 root root  414 May 19 01:25 packages-stable/helm-eww-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-eww-badge.svg
+4.0K -rw-r--r-- 1 root root   47 May 19 01:25 packages-stable/helm-eww-readme.txt
+4.0K -rw-r--r-- 1 root root  530 May 19 01:25 packages-stable/helm-eww.log
+4.0K -rw-r--r-- 1 root root  324 May 19 01:25 packages-stable/helm-ext-0.1.2.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:25 packages-stable/helm-ext-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-ext-badge.svg
+4.0K -rw-r--r-- 1 root root 3.9K May 19 01:25 packages-stable/helm-ext-readme.txt
+4.0K -rw-r--r-- 1 root root  970 May 19 01:25 packages-stable/helm-ext.log
+ 12K -rw-r--r-- 1 root root  10K May 19 01:25 packages-stable/helm-exwm-0.0.2.el
+4.0K -rw-r--r-- 1 root root  427 May 19 01:25 packages-stable/helm-exwm-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-exwm-badge.svg
+4.0K -rw-r--r-- 1 root root  659 May 19 01:25 packages-stable/helm-exwm-readme.txt
+4.0K -rw-r--r-- 1 root root  542 May 19 01:25 packages-stable/helm-exwm.log
+4.0K -rw-r--r-- 1 root root 1.2K Nov  4  2020 packages-stable/helm-fd-badge.svg
+4.0K -rw-r--r-- 1 root root  117 Nov  4  2020 packages-stable/helm-fd-readme.txt
+8.0K -rw-r--r-- 1 root root 6.4K May 19 01:25 packages-stable/helm-file-preview-0.1.5.el
+4.0K -rw-r--r-- 1 root root  411 May 19 01:25 packages-stable/helm-file-preview-0.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-file-preview-badge.svg
+4.0K -rw-r--r-- 1 root root   42 May 19 01:25 packages-stable/helm-file-preview-readme.txt
+4.0K -rw-r--r-- 1 root root  604 May 19 01:25 packages-stable/helm-file-preview.log
+4.0K -rw-r--r-- 1 root root  189 May 19 01:25 packages-stable/helm-filesets.log
+8.0K -rw-r--r-- 1 root root 4.9K May 19 01:25 packages-stable/helm-firefox-1.3.el
+4.0K -rw-r--r-- 1 root root  254 May 19 01:25 packages-stable/helm-firefox-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-firefox-badge.svg
+4.0K -rw-r--r-- 1 root root  476 May 19 01:25 packages-stable/helm-firefox.log
+8.0K -rw-r--r-- 1 root root 7.2K May 19 01:25 packages-stable/helm-fish-completion-0.6.el
+4.0K -rw-r--r-- 1 root root  421 May 19 01:25 packages-stable/helm-fish-completion-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-fish-completion-badge.svg
+4.0K -rw-r--r-- 1 root root  402 May 19 01:25 packages-stable/helm-fish-completion-readme.txt
+4.0K -rw-r--r-- 1 root root  626 May 19 01:25 packages-stable/helm-fish-completion.log
+4.0K -rw-r--r-- 1 root root  174 May 19 01:25 packages-stable/helm-flx.log
+8.0K -rw-r--r-- 1 root root 7.4K May 19 01:25 packages-stable/helm-flycheck-0.4.el
+4.0K -rw-r--r-- 1 root root  405 May 19 01:25 packages-stable/helm-flycheck-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-flycheck-badge.svg
+4.0K -rw-r--r-- 1 root root  232 May 19 01:25 packages-stable/helm-flycheck-readme.txt
+4.0K -rw-r--r-- 1 root root  566 May 19 01:25 packages-stable/helm-flycheck.log
+4.0K -rw-r--r-- 1 root root  189 May 19 01:25 packages-stable/helm-flymake.log
+4.0K -rw-r--r-- 1 root root  193 May 19 01:25 packages-stable/helm-flyspell.log
+4.0K -rw-r--r-- 1 root root  177 May 19 01:25 packages-stable/helm-frame.log
+ 12K -rw-r--r-- 1 root root  12K May 19 01:25 packages-stable/helm-fuz-1.3.0.el
+4.0K -rw-r--r-- 1 root root  395 May 19 01:25 packages-stable/helm-fuz-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-fuz-badge.svg
+4.0K -rw-r--r-- 1 root root  113 May 19 01:25 packages-stable/helm-fuz-readme.txt
+4.0K -rw-r--r-- 1 root root  535 May 19 01:25 packages-stable/helm-fuz.log
+4.0K -rw-r--r-- 1 root root  196 May 19 01:25 packages-stable/helm-fuzzier.log
+8.0K -rw-r--r-- 1 root root 6.0K May 19 01:25 packages-stable/helm-fuzzy-0.1.6.el
+4.0K -rw-r--r-- 1 root root  417 May 19 01:25 packages-stable/helm-fuzzy-0.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-fuzzy-badge.svg
+4.0K -rw-r--r-- 1 root root  203 May 19 01:25 packages-stable/helm-fuzzy-find.log
+4.0K -rw-r--r-- 1 root root   33 May 19 01:25 packages-stable/helm-fuzzy-readme.txt
+4.0K -rw-r--r-- 1 root root  630 May 19 01:25 packages-stable/helm-fuzzy.log
+4.0K -rw-r--r-- 1 root root 1.2K Feb  4 20:39 packages-stable/helm-ghc-badge.svg
+4.0K -rw-r--r-- 1 root root  408 Feb  4 20:39 packages-stable/helm-ghc-readme.txt
+4.0K -rw-r--r-- 1 root root  542 Feb  4 20:39 packages-stable/helm-ghc.log
+8.0K -rw-r--r-- 1 root root 7.5K May 19 01:25 packages-stable/helm-ghq-1.8.0.el
+4.0K -rw-r--r-- 1 root root  365 May 19 01:25 packages-stable/helm-ghq-1.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-ghq-badge.svg
+4.0K -rw-r--r-- 1 root root   48 May 19 01:25 packages-stable/helm-ghq-readme.txt
+4.0K -rw-r--r-- 1 root root  538 May 19 01:25 packages-stable/helm-ghq.log
+4.0K -rw-r--r-- 1 root root  175 May 19 01:25 packages-stable/helm-ghs.log
+4.0K -rw-r--r-- 1 root root  197 May 19 01:25 packages-stable/helm-git-files.log
+ 32K -rw-r--r-- 1 root root  29K May 19 01:25 packages-stable/helm-git-grep-0.10.1.el
+4.0K -rw-r--r-- 1 root root  320 May 19 01:25 packages-stable/helm-git-grep-0.10.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-git-grep-badge.svg
+4.0K -rw-r--r-- 1 root root  593 May 19 01:25 packages-stable/helm-git-grep-readme.txt
+4.0K -rw-r--r-- 1 root root  572 May 19 01:25 packages-stable/helm-git-grep.log
+4.0K -rw-r--r-- 1 root root  169 May 19 01:25 packages-stable/helm-git.log
+ 20K -rw-r--r-- 1 root root  17K May 19 01:25 packages-stable/helm-github-stars-1.3.7.el
+4.0K -rw-r--r-- 1 root root  476 May 19 01:25 packages-stable/helm-github-stars-1.3.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-github-stars-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-github-stars-readme.txt
+4.0K -rw-r--r-- 1 root root  601 May 19 01:25 packages-stable/helm-github-stars.log
+4.0K -rw-r--r-- 1 root root  193 May 19 01:25 packages-stable/helm-gitignore.log
+8.0K -rw-r--r-- 1 root root 5.9K May 19 01:25 packages-stable/helm-gitlab-0.8.0.el
+4.0K -rw-r--r-- 1 root root  482 May 19 01:25 packages-stable/helm-gitlab-0.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-gitlab-badge.svg
+4.0K -rw-r--r-- 1 root root   36 May 19 01:25 packages-stable/helm-gitlab-readme.txt
+4.0K -rw-r--r-- 1 root root  559 May 19 01:25 packages-stable/helm-gitlab.log
+ 12K -rw-r--r-- 1 root root 8.2K May 19 01:25 packages-stable/helm-go-package-0.3.0.el
+4.0K -rw-r--r-- 1 root root  449 May 19 01:25 packages-stable/helm-go-package-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-go-package-badge.svg
+4.0K -rw-r--r-- 1 root root  244 May 19 01:25 packages-stable/helm-go-package-readme.txt
+4.0K -rw-r--r-- 1 root root  586 May 19 01:25 packages-stable/helm-go-package.log
+4.0K -rw-r--r-- 1 root root  189 May 19 01:25 packages-stable/helm-google.log
+ 24K -rw-r--r-- 1 root root  23K May 19 01:25 packages-stable/helm-grepint-1.6.1.el
+4.0K -rw-r--r-- 1 root root  436 May 19 01:25 packages-stable/helm-grepint-1.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-grepint-badge.svg
+8.0K -rw-r--r-- 1 root root 4.3K May 19 01:25 packages-stable/helm-grepint-readme.txt
+4.0K -rw-r--r-- 1 root root  562 May 19 01:25 packages-stable/helm-grepint.log
+4.0K -rw-r--r-- 1 root root  219 May 19 01:25 packages-stable/helm-growthforecast.log
+ 60K -rw-r--r-- 1 root root  58K May 19 01:25 packages-stable/helm-gtags-1.5.7.el
+4.0K -rw-r--r-- 1 root root  379 May 19 01:25 packages-stable/helm-gtags-1.5.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-gtags-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 01:25 packages-stable/helm-gtags-readme.txt
+4.0K -rw-r--r-- 1 root root  554 May 19 01:25 packages-stable/helm-gtags.log
+ 12K -rw-r--r-- 1 root root  12K May 19 01:25 packages-stable/helm-hatena-bookmark-2.4.3.el
+4.0K -rw-r--r-- 1 root root  408 May 19 01:25 packages-stable/helm-hatena-bookmark-2.4.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-hatena-bookmark-badge.svg
+4.0K -rw-r--r-- 1 root root   71 May 19 01:25 packages-stable/helm-hatena-bookmark-readme.txt
+4.0K -rw-r--r-- 1 root root  634 May 19 01:25 packages-stable/helm-hatena-bookmark.log
+ 12K -rw-r--r-- 1 root root 8.5K May 19 01:25 packages-stable/helm-hayoo-0.0.5.el
+4.0K -rw-r--r-- 1 root root  406 May 19 01:25 packages-stable/helm-hayoo-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:25 packages-stable/helm-hayoo-badge.svg
+4.0K -rw-r--r-- 1 root root  221 May 19 01:25 packages-stable/helm-hayoo-readme.txt
+4.0K -rw-r--r-- 1 root root  550 May 19 01:25 packages-stable/helm-hayoo.log
+4.0K -rw-r--r-- 1 root root  212 May 19 01:25 packages-stable/helm-helm-commands.log
+4.0K -rw-r--r-- 1 root root  185 May 19 01:25 packages-stable/helm-hoogle.log
+4.0K -rw-r--r-- 1 root root  183 May 19 01:25 packages-stable/helm-hunks.log
+4.0K -rw-r--r-- 1 root root  180 May 19 01:25 packages-stable/helm-icons.log
+4.0K -rw-r--r-- 1 root root  191 May 19 01:25 packages-stable/helm-idris.log
+4.0K -rw-r--r-- 1 root root  195 May 19 01:25 packages-stable/helm-img-tiqav.log
+4.0K -rw-r--r-- 1 root root  171 May 19 01:25 packages-stable/helm-img.log
+4.0K -rw-r--r-- 1 root root 2.5K May 19 01:26 packages-stable/helm-ispell-0.1.el
+4.0K -rw-r--r-- 1 root root  366 May 19 01:26 packages-stable/helm-ispell-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-ispell-badge.svg
+4.0K -rw-r--r-- 1 root root   48 May 19 01:26 packages-stable/helm-ispell-readme.txt
+4.0K -rw-r--r-- 1 root root  558 May 19 01:26 packages-stable/helm-ispell.log
+4.0K -rw-r--r-- 1 root root  184 May 19 01:25 packages-stable/helm-itunes.log
+4.0K -rw-r--r-- 1 root root  208 May 19 01:25 packages-stable/helm-j-cheatsheet.log
+4.0K -rw-r--r-- 1 root root  180 May 19 01:26 packages-stable/helm-jira.log
+4.0K -rw-r--r-- 1 root root  203 May 19 01:26 packages-stable/helm-js-codemod.log
+4.0K -rw-r--r-- 1 root root  189 May 19 01:26 packages-stable/helm-jstack.log
+4.0K -rw-r--r-- 1 root root  186 May 19 01:26 packages-stable/helm-kythe.log
+4.0K -rw-r--r-- 1 root root  195 May 19 01:26 packages-stable/helm-lastpass.log
+4.0K -rw-r--r-- 1 root root  179 May 19 01:26 packages-stable/helm-lean.log
+4.0K -rw-r--r-- 1 root root  195 May 19 01:26 packages-stable/helm-lib-babel.log
+4.0K -rw-r--r-- 1 root root  183 May 19 01:26 packages-stable/helm-lines.log
+4.0K -rw-r--r-- 1 root root  217 May 19 01:26 packages-stable/helm-lobsters.log
+ 24K -rw-r--r-- 1 root root  23K May 19 01:26 packages-stable/helm-ls-git-1.9.1.el
+4.0K -rw-r--r-- 1 root root  154 May 19 01:26 packages-stable/helm-ls-git-1.9.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-ls-git-badge.svg
+4.0K -rw-r--r-- 1 root root  473 May 19 01:26 packages-stable/helm-ls-git.log
+ 12K -rw-r--r-- 1 root root 9.4K May 19 01:26 packages-stable/helm-ls-hg-1.8.0.el
+4.0K -rw-r--r-- 1 root root  168 May 19 01:26 packages-stable/helm-ls-hg-1.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-ls-hg-badge.svg
+4.0K -rw-r--r-- 1 root root  466 May 19 01:26 packages-stable/helm-ls-hg.log
+4.0K -rw-r--r-- 1 root root  188 May 19 01:26 packages-stable/helm-ls-svn.log
+8.0K -rw-r--r-- 1 root root 7.5K May 19 01:26 packages-stable/helm-lsp-0.2.el
+4.0K -rw-r--r-- 1 root root  437 May 19 01:26 packages-stable/helm-lsp-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-lsp-badge.svg
+4.0K -rw-r--r-- 1 root root   25 May 19 01:26 packages-stable/helm-lsp-readme.txt
+4.0K -rw-r--r-- 1 root root  529 May 19 01:26 packages-stable/helm-lsp.log
+ 20K -rw-r--r-- 1 root root  20K May 19 01:26 packages-stable/helm-lxc-0.2.0.el
+4.0K -rw-r--r-- 1 root root  413 May 19 01:26 packages-stable/helm-lxc-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-lxc-badge.svg
+4.0K -rw-r--r-- 1 root root  273 May 19 01:26 packages-stable/helm-lxc-readme.txt
+4.0K -rw-r--r-- 1 root root  533 May 19 01:26 packages-stable/helm-lxc.log
+4.0K -rw-r--r-- 1 root root 3.4K May 19 01:26 packages-stable/helm-make-0.1.0.el
+4.0K -rw-r--r-- 1 root root  408 May 19 01:26 packages-stable/helm-make-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-make-badge.svg
+4.0K -rw-r--r-- 1 root root  141 May 19 01:26 packages-stable/helm-make-readme.txt
+4.0K -rw-r--r-- 1 root root  539 May 19 01:26 packages-stable/helm-make.log
+8.0K -rw-r--r-- 1 root root 5.9K May 19 01:26 packages-stable/helm-migemo-1.22.el
+4.0K -rw-r--r-- 1 root root  461 May 19 01:26 packages-stable/helm-migemo-1.22.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-migemo-badge.svg
+4.0K -rw-r--r-- 1 root root  236 May 19 01:26 packages-stable/helm-migemo-readme.txt
+4.0K -rw-r--r-- 1 root root  554 May 19 01:26 packages-stable/helm-migemo.log
+8.0K -rw-r--r-- 1 root root 4.4K May 19 01:26 packages-stable/helm-mode-manager-1.0.0.el
+4.0K -rw-r--r-- 1 root root  322 May 19 01:26 packages-stable/helm-mode-manager-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-mode-manager-badge.svg
+4.0K -rw-r--r-- 1 root root  654 May 19 01:26 packages-stable/helm-mode-manager-readme.txt
+4.0K -rw-r--r-- 1 root root  601 May 19 01:26 packages-stable/helm-mode-manager.log
+8.0K -rw-r--r-- 1 root root 6.8K May 19 01:26 packages-stable/helm-mt-0.9.el
+4.0K -rw-r--r-- 1 root root  429 May 19 01:26 packages-stable/helm-mt-0.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-mt-badge.svg
+4.0K -rw-r--r-- 1 root root  290 May 19 01:26 packages-stable/helm-mt-readme.txt
+4.0K -rw-r--r-- 1 root root  520 May 19 01:26 packages-stable/helm-mt.log
+4.0K -rw-r--r-- 1 root root  171 May 19 01:26 packages-stable/helm-mu.log
+4.0K -rw-r--r-- 1 root root  179 May 19 01:26 packages-stable/helm-navi.log
+4.0K -rw-r--r-- 1 root root 1.8K May 19 01:26 packages-stable/helm-nixos-options-0.0.1.el
+4.0K -rw-r--r-- 1 root root  516 May 19 01:26 packages-stable/helm-nixos-options-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-nixos-options-badge.svg
+4.0K -rw-r--r-- 1 root root  101 May 19 01:26 packages-stable/helm-nixos-options-readme.txt
+4.0K -rw-r--r-- 1 root root  610 May 19 01:26 packages-stable/helm-nixos-options.log
+ 12K -rw-r--r-- 1 root root 8.1K May 19 01:26 packages-stable/helm-notmuch-1.2.el
+4.0K -rw-r--r-- 1 root root  385 May 19 01:26 packages-stable/helm-notmuch-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-notmuch-badge.svg
+4.0K -rw-r--r-- 1 root root  542 May 19 01:26 packages-stable/helm-notmuch-readme.txt
+4.0K -rw-r--r-- 1 root root  562 May 19 01:26 packages-stable/helm-notmuch.log
+ 20K -rw-r--r-- 1 root root  18K May 19 01:26 packages-stable/helm-open-github-0.15.el
+4.0K -rw-r--r-- 1 root root  419 May 19 01:26 packages-stable/helm-open-github-0.15.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-open-github-badge.svg
+4.0K -rw-r--r-- 1 root root  126 May 19 01:26 packages-stable/helm-open-github-readme.txt
+4.0K -rw-r--r-- 1 root root  600 May 19 01:26 packages-stable/helm-open-github.log
+ 24K -rw-r--r-- 1 root root  21K May 19 01:26 packages-stable/helm-org-1.0.el
+4.0K -rw-r--r-- 1 root root  398 May 19 01:26 packages-stable/helm-org-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-org-badge.svg
+ 12K -rw-r--r-- 1 root root  11K May 19 01:26 packages-stable/helm-org-multi-wiki-0.4.0.el
+4.0K -rw-r--r-- 1 root root  511 May 19 01:26 packages-stable/helm-org-multi-wiki-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-org-multi-wiki-badge.svg
+4.0K -rw-r--r-- 1 root root   58 May 19 01:26 packages-stable/helm-org-multi-wiki-readme.txt
+4.0K -rw-r--r-- 1 root root  613 May 19 01:26 packages-stable/helm-org-multi-wiki.log
+ 12K -rw-r--r-- 1 root root 8.6K May 19 01:26 packages-stable/helm-org-ql-0.5.el
+4.0K -rw-r--r-- 1 root root  313 May 19 01:26 packages-stable/helm-org-ql-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-org-ql-badge.svg
+4.0K -rw-r--r-- 1 root root  293 May 19 01:26 packages-stable/helm-org-ql-readme.txt
+4.0K -rw-r--r-- 1 root root  548 May 19 01:26 packages-stable/helm-org-ql.log
+4.0K -rw-r--r-- 1 root root   48 May 19 01:26 packages-stable/helm-org-readme.txt
+4.0K -rw-r--r-- 1 root root  284 May 19 01:26 packages-stable/helm-org-recent-headings.log
+ 84K -rw-r--r-- 1 root root  82K May 19 01:26 packages-stable/helm-org-rifle-1.7.1.el
+4.0K -rw-r--r-- 1 root root  460 May 19 01:26 packages-stable/helm-org-rifle-1.7.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-org-rifle-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 01:26 packages-stable/helm-org-rifle-readme.txt
+4.0K -rw-r--r-- 1 root root  576 May 19 01:26 packages-stable/helm-org-rifle.log
+4.0K -rw-r--r-- 1 root root 2.0K May 19 01:26 packages-stable/helm-org.log
+8.0K -rw-r--r-- 1 root root 4.5K May 19 01:26 packages-stable/helm-orgcard-0.2.el
+4.0K -rw-r--r-- 1 root root  358 May 19 01:26 packages-stable/helm-orgcard-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-orgcard-badge.svg
+4.0K -rw-r--r-- 1 root root  181 May 19 01:26 packages-stable/helm-orgcard-readme.txt
+4.0K -rw-r--r-- 1 root root  560 May 19 01:26 packages-stable/helm-orgcard.log
+4.0K -rw-r--r-- 1 root root  191 May 19 01:26 packages-stable/helm-osx-app.log
+8.0K -rw-r--r-- 1 root root 4.1K May 19 01:26 packages-stable/helm-pages-0.1.1.el
+4.0K -rw-r--r-- 1 root root  444 May 19 01:26 packages-stable/helm-pages-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-pages-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:26 packages-stable/helm-pages-readme.txt
+4.0K -rw-r--r-- 1 root root  558 May 19 01:26 packages-stable/helm-pages.log
+8.0K -rw-r--r-- 1 root root 5.3K May 19 01:26 packages-stable/helm-pass-0.4.el
+4.0K -rw-r--r-- 1 root root  476 May 19 01:26 packages-stable/helm-pass-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-pass-badge.svg
+4.0K -rw-r--r-- 1 root root  570 May 19 01:26 packages-stable/helm-pass-readme.txt
+4.0K -rw-r--r-- 1 root root  538 May 19 01:26 packages-stable/helm-pass.log
+4.0K -rw-r--r-- 1 root root  378 May 19 01:26 packages-stable/helm-perldoc-0.7.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:26 packages-stable/helm-perldoc-0.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-perldoc-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:26 packages-stable/helm-perldoc-readme.txt
+4.0K -rw-r--r-- 1 root root  995 May 19 01:26 packages-stable/helm-perldoc.log
+8.0K -rw-r--r-- 1 root root 7.9K May 19 01:26 packages-stable/helm-perspeen-0.1.2.el
+4.0K -rw-r--r-- 1 root root  352 May 19 01:26 packages-stable/helm-perspeen-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-perspeen-badge.svg
+4.0K -rw-r--r-- 1 root root  499 May 19 01:26 packages-stable/helm-perspeen-readme.txt
+4.0K -rw-r--r-- 1 root root  572 May 19 01:26 packages-stable/helm-perspeen.log
+4.0K -rw-r--r-- 1 root root  192 May 19 01:26 packages-stable/helm-phpunit.log
+4.0K -rw-r--r-- 1 root root  192 May 19 01:26 packages-stable/helm-posframe.log
+4.0K -rw-r--r-- 1 root root  326 May 19 01:26 packages-stable/helm-proc-0.0.5.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:26 packages-stable/helm-proc-0.0.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-proc-badge.svg
+4.0K -rw-r--r-- 1 root root  517 May 19 01:26 packages-stable/helm-proc-readme.txt
+4.0K -rw-r--r-- 1 root root  867 May 19 01:26 packages-stable/helm-proc.log
+4.0K -rw-r--r-- 1 root root 2.3K May 19 01:26 packages-stable/helm-project-persist-1.0.0.el
+4.0K -rw-r--r-- 1 root root  380 May 19 01:26 packages-stable/helm-project-persist-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-project-persist-badge.svg
+4.0K -rw-r--r-- 1 root root  101 May 19 01:26 packages-stable/helm-project-persist-readme.txt
+4.0K -rw-r--r-- 1 root root  625 May 19 01:26 packages-stable/helm-project-persist.log
+ 52K -rw-r--r-- 1 root root  51K May 19 01:26 packages-stable/helm-projectile-1.0.0.el
+4.0K -rw-r--r-- 1 root root  403 May 19 01:26 packages-stable/helm-projectile-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-projectile-badge.svg
+4.0K -rw-r--r-- 1 root root  356 May 19 01:26 packages-stable/helm-projectile-readme.txt
+4.0K -rw-r--r-- 1 root root  587 May 19 01:26 packages-stable/helm-projectile.log
+4.0K -rw-r--r-- 1 root root  188 May 19 01:26 packages-stable/helm-prosjekt.log
+4.0K -rw-r--r-- 1 root root  271 May 19 01:26 packages-stable/helm-pt-0.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:26 packages-stable/helm-pt-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-pt-badge.svg
+4.0K -rw-r--r-- 1 root root  203 May 19 01:26 packages-stable/helm-pt-readme.txt
+4.0K -rw-r--r-- 1 root root  807 May 19 01:26 packages-stable/helm-pt.log
+4.0K -rw-r--r-- 1 root root 4.0K May 19 01:26 packages-stable/helm-purpose-0.1.el
+4.0K -rw-r--r-- 1 root root  337 May 19 01:26 packages-stable/helm-purpose-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-purpose-badge.svg
+4.0K -rw-r--r-- 1 root root  835 May 19 01:26 packages-stable/helm-purpose-readme.txt
+4.0K -rw-r--r-- 1 root root  556 May 19 01:26 packages-stable/helm-purpose.log
+4.0K -rw-r--r-- 1 root root  381 May 19 01:26 packages-stable/helm-pydoc-0.7.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:26 packages-stable/helm-pydoc-0.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-pydoc-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:26 packages-stable/helm-pydoc-readme.txt
+4.0K -rw-r--r-- 1 root root  901 May 19 01:26 packages-stable/helm-pydoc.log
+ 12K -rw-r--r-- 1 root root  11K May 19 01:26 packages-stable/helm-qiita-1.1.3.el
+4.0K -rw-r--r-- 1 root root  393 May 19 01:26 packages-stable/helm-qiita-1.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-qiita-badge.svg
+4.0K -rw-r--r-- 1 root root   50 May 19 01:26 packages-stable/helm-qiita-readme.txt
+4.0K -rw-r--r-- 1 root root  554 May 19 01:26 packages-stable/helm-qiita.log
+4.0K -rw-r--r-- 1 root root  175 May 19 01:26 packages-stable/helm-rage.log
+4.0K -rw-r--r-- 1 root root  177 May 19 01:26 packages-stable/helm-rails.log
+4.0K -rw-r--r-- 1 root root  172 May 19 01:26 packages-stable/helm-rb.log
+4.0K -rw-r--r-- 1 root root 2.7K May 19 01:26 packages-stable/helm-rdefs-1.0.1.el
+4.0K -rw-r--r-- 1 root root  411 May 19 01:26 packages-stable/helm-rdefs-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-rdefs-badge.svg
+4.0K -rw-r--r-- 1 root root   80 May 19 01:26 packages-stable/helm-rdefs-readme.txt
+4.0K -rw-r--r-- 1 root root  552 May 19 01:26 packages-stable/helm-rdefs.log
+ 16K -rw-r--r-- 1 root root  16K May 19 01:26 packages-stable/helm-recoll-1.2.el
+4.0K -rw-r--r-- 1 root root  456 May 19 01:26 packages-stable/helm-recoll-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-recoll-badge.svg
+4.0K -rw-r--r-- 1 root root  546 May 19 01:26 packages-stable/helm-recoll-readme.txt
+4.0K -rw-r--r-- 1 root root  614 May 19 01:26 packages-stable/helm-recoll.log
+ 16K -rw-r--r-- 1 root root  16K May 19 01:26 packages-stable/helm-rg-0.1.el
+4.0K -rw-r--r-- 1 root root  436 May 19 01:26 packages-stable/helm-rg-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-rg-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 01:26 packages-stable/helm-rg-readme.txt
+4.0K -rw-r--r-- 1 root root  526 May 19 01:26 packages-stable/helm-rg.log
+4.0K -rw-r--r-- 1 root root  196 May 19 01:26 packages-stable/helm-rhythmbox.log
+4.0K -rw-r--r-- 1 root root 1.6K May 19 01:26 packages-stable/helm-robe-0.2.el
+4.0K -rw-r--r-- 1 root root  346 May 19 01:26 packages-stable/helm-robe-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-robe-badge.svg
+4.0K -rw-r--r-- 1 root root  228 May 19 01:26 packages-stable/helm-robe-readme.txt
+4.0K -rw-r--r-- 1 root root  542 May 19 01:26 packages-stable/helm-robe.log
+4.0K -rw-r--r-- 1 root root  178 May 19 01:26 packages-stable/helm-ros.log
+8.0K -rw-r--r-- 1 root root 6.1K May 19 01:26 packages-stable/helm-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  405 May 19 01:26 packages-stable/helm-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:26 packages-stable/helm-rtags-readme.txt
+4.0K -rw-r--r-- 1 root root  545 May 19 01:26 packages-stable/helm-rtags.log
+4.0K -rw-r--r-- 1 root root  217 May 19 01:26 packages-stable/helm-rubygems-local.log
+ 12K -rw-r--r-- 1 root root 8.4K May 19 01:26 packages-stable/helm-rubygems-org-0.0.1.el
+4.0K -rw-r--r-- 1 root root  484 May 19 01:26 packages-stable/helm-rubygems-org-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-rubygems-org-badge.svg
+4.0K -rw-r--r-- 1 root root  814 May 19 01:26 packages-stable/helm-rubygems-org-readme.txt
+4.0K -rw-r--r-- 1 root root  605 May 19 01:26 packages-stable/helm-rubygems-org.log
+4.0K -rw-r--r-- 1 root root  187 May 19 01:26 packages-stable/helm-safari.log
+8.0K -rw-r--r-- 1 root root 5.2K May 19 01:26 packages-stable/helm-sage-0.0.4.el
+4.0K -rw-r--r-- 1 root root  459 May 19 01:26 packages-stable/helm-sage-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-sage-badge.svg
+4.0K -rw-r--r-- 1 root root  317 May 19 01:26 packages-stable/helm-sage-readme.txt
+4.0K -rw-r--r-- 1 root root  540 May 19 01:26 packages-stable/helm-sage.log
+ 16K -rw-r--r-- 1 root root  13K May 19 01:26 packages-stable/helm-searcher-0.2.5.el
+4.0K -rw-r--r-- 1 root root  425 May 19 01:26 packages-stable/helm-searcher-0.2.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-searcher-badge.svg
+4.0K -rw-r--r-- 1 root root   33 May 19 01:26 packages-stable/helm-searcher-readme.txt
+4.0K -rw-r--r-- 1 root root  574 May 19 01:26 packages-stable/helm-searcher.log
+4.0K -rw-r--r-- 1 root root  191 May 19 01:26 packages-stable/helm-selected.log
+4.0K -rw-r--r-- 1 root root  342 May 19 01:26 packages-stable/helm-selector-0.6.1.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:26 packages-stable/helm-selector-0.6.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-selector-badge.svg
+4.0K -rw-r--r-- 1 root root 1019 May 19 01:26 packages-stable/helm-selector-readme.txt
+4.0K -rw-r--r-- 1 root root 2.1K May 19 01:26 packages-stable/helm-selector.log
+4.0K -rw-r--r-- 1 root root  179 May 19 01:26 packages-stable/helm-sheet.log
+4.0K -rw-r--r-- 1 root root  215 May 19 01:26 packages-stable/helm-shell-history.log
+ 24K -rw-r--r-- 1 root root  22K May 19 01:26 packages-stable/helm-slime-0.4.0.el
+4.0K -rw-r--r-- 1 root root  498 May 19 01:26 packages-stable/helm-slime-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-slime-badge.svg
+4.0K -rw-r--r-- 1 root root  763 May 19 01:26 packages-stable/helm-slime-readme.txt
+4.0K -rw-r--r-- 1 root root  550 May 19 01:26 packages-stable/helm-slime.log
+ 28K -rw-r--r-- 1 root root  28K May 19 01:26 packages-stable/helm-sly-0.7.2.el
+4.0K -rw-r--r-- 1 root root  472 May 19 01:26 packages-stable/helm-sly-0.7.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-sly-badge.svg
+4.0K -rw-r--r-- 1 root root  941 May 19 01:26 packages-stable/helm-sly-readme.txt
+4.0K -rw-r--r-- 1 root root  534 May 19 01:26 packages-stable/helm-sly.log
+4.0K -rw-r--r-- 1 root root 3.9K May 19 01:26 packages-stable/helm-smex-0.3.el
+4.0K -rw-r--r-- 1 root root  361 May 19 01:26 packages-stable/helm-smex-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-smex-badge.svg
+4.0K -rw-r--r-- 1 root root  219 May 19 01:26 packages-stable/helm-smex-readme.txt
+4.0K -rw-r--r-- 1 root root  532 May 19 01:26 packages-stable/helm-smex.log
+4.0K -rw-r--r-- 1 root root 3.6K May 19 01:26 packages-stable/helm-spaces-0.4.el
+4.0K -rw-r--r-- 1 root root  414 May 19 01:26 packages-stable/helm-spaces-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-spaces-badge.svg
+4.0K -rw-r--r-- 1 root root  179 May 19 01:26 packages-stable/helm-spaces-readme.txt
+4.0K -rw-r--r-- 1 root root  550 May 19 01:26 packages-stable/helm-spaces.log
+4.0K -rw-r--r-- 1 root root  219 May 19 01:26 packages-stable/helm-spotify-plus.log
+4.0K -rw-r--r-- 1 root root  193 May 19 01:26 packages-stable/helm-spotify.log
+4.0K -rw-r--r-- 1 root root  208 May 19 01:26 packages-stable/helm-sql-connect.log
+4.0K -rw-r--r-- 1 root root  209 May 19 01:26 packages-stable/helm-switch-shell.log
+ 12K -rw-r--r-- 1 root root  12K May 19 01:26 packages-stable/helm-switch-to-repl-0.1.2.el
+4.0K -rw-r--r-- 1 root root  415 May 19 01:26 packages-stable/helm-switch-to-repl-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-switch-to-repl-badge.svg
+4.0K -rw-r--r-- 1 root root  467 May 19 01:26 packages-stable/helm-switch-to-repl-readme.txt
+4.0K -rw-r--r-- 1 root root  622 May 19 01:26 packages-stable/helm-switch-to-repl.log
+ 72K -rw-r--r-- 1 root root  69K May 19 01:26 packages-stable/helm-swoop-3.0.0.el
+4.0K -rw-r--r-- 1 root root  492 May 19 01:26 packages-stable/helm-swoop-3.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-swoop-badge.svg
+4.0K -rw-r--r-- 1 root root 2.6K May 19 01:26 packages-stable/helm-swoop-readme.txt
+4.0K -rw-r--r-- 1 root root  554 May 19 01:26 packages-stable/helm-swoop.log
+4.0K -rw-r--r-- 1 root root  458 May 19 01:26 packages-stable/helm-system-packages-1.10.2.entry
+132K -rw-r--r-- 1 root root 130K May 19 01:26 packages-stable/helm-system-packages-1.10.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-system-packages-badge.svg
+4.0K -rw-r--r-- 1 root root   45 May 19 01:26 packages-stable/helm-system-packages-readme.txt
+4.0K -rw-r--r-- 1 root root 1.9K May 19 01:26 packages-stable/helm-system-packages.log
+4.0K -rw-r--r-- 1 root root  187 May 19 01:26 packages-stable/helm-systemd.log
+4.0K -rw-r--r-- 1 root root  175 May 19 01:26 packages-stable/helm-tail.log
+ 12K -rw-r--r-- 1 root root 9.2K May 19 01:26 packages-stable/helm-taskswitch-1.0.4.el
+4.0K -rw-r--r-- 1 root root  414 May 19 01:26 packages-stable/helm-taskswitch-1.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-taskswitch-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 01:26 packages-stable/helm-taskswitch-readme.txt
+4.0K -rw-r--r-- 1 root root  585 May 19 01:26 packages-stable/helm-taskswitch.log
+4.0K -rw-r--r-- 1 root root 2.3K May 19 01:26 packages-stable/helm-themes-0.5.el
+4.0K -rw-r--r-- 1 root root  360 May 19 01:26 packages-stable/helm-themes-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-themes-badge.svg
+4.0K -rw-r--r-- 1 root root  107 May 19 01:26 packages-stable/helm-themes-readme.txt
+4.0K -rw-r--r-- 1 root root  558 May 19 01:26 packages-stable/helm-themes.log
+ 12K -rw-r--r-- 1 root root 8.3K May 19 01:26 packages-stable/helm-tramp-1.3.9.el
+4.0K -rw-r--r-- 1 root root  364 May 19 01:26 packages-stable/helm-tramp-1.3.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-tramp-badge.svg
+4.0K -rw-r--r-- 1 root root  247 May 19 01:26 packages-stable/helm-tramp-readme.txt
+4.0K -rw-r--r-- 1 root root  553 May 19 01:26 packages-stable/helm-tramp.log
+4.0K -rw-r--r-- 1 root root 2.2K May 19 01:26 packages-stable/helm-unicode-0.0.3.el
+4.0K -rw-r--r-- 1 root root  199 May 19 01:26 packages-stable/helm-unicode-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-unicode-badge.svg
+4.0K -rw-r--r-- 1 root root   63 May 19 01:26 packages-stable/helm-unicode-readme.txt
+4.0K -rw-r--r-- 1 root root  562 May 19 01:26 packages-stable/helm-unicode.log
+4.0K -rw-r--r-- 1 root root  431 May 19 01:26 packages-stable/helm-w32-launcher-0.1.6.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:26 packages-stable/helm-w32-launcher-0.1.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-w32-launcher-badge.svg
+4.0K -rw-r--r-- 1 root root  335 May 19 01:26 packages-stable/helm-w32-launcher-readme.txt
+4.0K -rw-r--r-- 1 root root 1.4K May 19 01:26 packages-stable/helm-w32-launcher.log
+8.0K -rw-r--r-- 1 root root 5.3K May 19 01:26 packages-stable/helm-w3m-1.0.el
+4.0K -rw-r--r-- 1 root root  229 May 19 01:26 packages-stable/helm-w3m-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-w3m-badge.svg
+4.0K -rw-r--r-- 1 root root  448 May 19 01:26 packages-stable/helm-w3m.log
+4.0K -rw-r--r-- 1 root root  199 May 19 01:26 packages-stable/helm-wikipedia.log
+4.0K -rw-r--r-- 1 root root  193 May 19 01:26 packages-stable/helm-wordnet.log
+4.0K -rw-r--r-- 1 root root  191 May 19 01:26 packages-stable/helm-xcdoc.log
+4.0K -rw-r--r-- 1 root root  177 May 19 01:26 packages-stable/helm-xref.log
+4.0K -rw-r--r-- 1 root root  193 May 19 01:26 packages-stable/helm-youtube.log
+4.0K -rw-r--r-- 1 root root  163 May 19 01:26 packages-stable/helm-z.log
+4.0K -rw-r--r-- 1 root root 3.8K May 19 01:26 packages-stable/helm-zhihu-daily-0.3.el
+4.0K -rw-r--r-- 1 root root  441 May 19 01:26 packages-stable/helm-zhihu-daily-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-zhihu-daily-badge.svg
+4.0K -rw-r--r-- 1 root root  293 May 19 01:26 packages-stable/helm-zhihu-daily-readme.txt
+4.0K -rw-r--r-- 1 root root  594 May 19 01:26 packages-stable/helm-zhihu-daily.log

@@ -1,0 +1,6 @@
+Package: currency-convert
+Fetcher: github
+Source:  https://github.com/lassik/emacs-currency-convert.git
+
+Updating /mnt/store/melpa/working/currency-convert/
+No valid stable versions found for currency-convert

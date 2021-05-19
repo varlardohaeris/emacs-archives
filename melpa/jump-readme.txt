@@ -7,7 +7,7 @@ This effort was inspired heavily by find-file-in-project.el by Phil
 Hagelberg and Doug Alcorn, and toggle.el by Ryan Davis.  The
 initial goal of jump.el was to subsume both of these tools.
 
-Example: (jumping to the related model in a rails application)
+; Example: (jumping to the related model in a rails application)
 
 (defjump
   rinari-find-model

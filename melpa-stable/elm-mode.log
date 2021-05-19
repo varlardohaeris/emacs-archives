@@ -1,0 +1,35 @@
+Package: elm-mode
+Fetcher: github
+Source:  https://github.com/jcollard/elm-mode.git
+
+Updating /mnt/store/melpa/working/elm-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elm-mode/
+  to /tmp/elm-modexZgtPk/elm-mode-0.21.0
+    elm-font-lock.el -> elm-font-lock.el
+    elm-format.el -> elm-format.el
+    elm-imenu.el -> elm-imenu.el
+    elm-indent.el -> elm-indent.el
+    elm-interactive.el -> elm-interactive.el
+    elm-mode.el -> elm-mode.el
+    elm-tags.el -> elm-tags.el
+    elm-util.el -> elm-util.el
+    elm.tags -> elm.tags
+Created elm-mode-0.21.0.tar containing:
+  elm-mode-0.21.0/
+  elm-mode-0.21.0/elm-font-lock.el
+  elm-mode-0.21.0/elm-format.el
+  elm-mode-0.21.0/elm-imenu.el
+  elm-mode-0.21.0/elm-indent.el
+  elm-mode-0.21.0/elm-interactive.el
+  elm-mode-0.21.0/elm-mode-pkg.el
+  elm-mode-0.21.0/elm-mode.el
+  elm-mode-0.21.0/elm-tags.el
+  elm-mode-0.21.0/elm-util.el
+  elm-mode-0.21.0/elm.tags
+Built elm-mode in 3.003s, finished at Wed May 19 04:30:21 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  377 May 19 04:30 packages-stable/elm-mode-0.21.0.entry
+132K -rw-r--r-- 1 root root 130K May 19 04:30 packages-stable/elm-mode-0.21.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  157 May 19 04:30 packages-stable/elm-mode-readme.txt

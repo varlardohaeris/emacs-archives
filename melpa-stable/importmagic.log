@@ -1,0 +1,21 @@
+Package: importmagic
+Fetcher: github
+Source:  https://github.com/anachronic/importmagic.el.git
+
+Updating /mnt/store/melpa/working/importmagic/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/importmagic/
+  to /tmp/importmagicuoDUKi/importmagic-1.1
+    importmagic.el -> importmagic.el
+    importmagicserver.py -> importmagicserver.py
+Created importmagic-1.1.tar containing:
+  importmagic-1.1/
+  importmagic-1.1/importmagic-pkg.el
+  importmagic-1.1/importmagic.el
+  importmagic-1.1/importmagicserver.py
+Built importmagic in 3.299s, finished at Wed May 19 04:43:06 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  461 May 19 04:43 packages-stable/importmagic-1.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:43 packages-stable/importmagic-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/importmagic-badge.svg
+4.0K -rw-r--r-- 1 root root  598 May 19 04:43 packages-stable/importmagic-readme.txt

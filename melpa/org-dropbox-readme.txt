@@ -1,3 +1,4 @@
+
 This minor mode syncs DropBox notes from mobile devices into org
 datetree file that can be part of org agenda. The minor mode starts
 a daemon that periodically scans the note directory.

@@ -1,0 +1,11 @@
+Package: company-ycmd
+Fetcher: github
+Source:  https://github.com/abingham/emacs-ycmd.git
+
+Updating /mnt/store/melpa/working/company-ycmd/
+Built company-ycmd in 3.053s, finished at Wed May 19 04:24:53 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  25K May 19 04:24 packages-stable/company-ycmd-1.2.el
+4.0K -rw-r--r-- 1 root root  355 May 19 04:24 packages-stable/company-ycmd-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-ycmd-badge.svg
+4.0K -rw-r--r-- 1 root root  491 May 19 04:24 packages-stable/company-ycmd-readme.txt

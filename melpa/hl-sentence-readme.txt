@@ -1,3 +1,4 @@
+
 Highlight the current sentence using `hl-sentence' face.
 
 To use this package, add the following code to your `emacs-init-file'

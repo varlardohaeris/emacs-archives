@@ -1,0 +1,11 @@
+Package: magic-filetype
+Fetcher: github
+Source:  https://github.com/emacs-php/magic-filetype.el.git
+
+Updating /mnt/store/melpa/working/magic-filetype/
+Built magic-filetype in 3.142s, finished at Wed May 19 01:33:26 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.1K May 19 01:33 packages-stable/magic-filetype-0.3.0.el
+4.0K -rw-r--r-- 1 root root  401 May 19 01:33 packages-stable/magic-filetype-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magic-filetype-badge.svg
+4.0K -rw-r--r-- 1 root root  380 May 19 01:33 packages-stable/magic-filetype-readme.txt

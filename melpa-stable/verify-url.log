@@ -1,0 +1,6 @@
+Package: verify-url
+Fetcher: github
+Source:  https://github.com/lujun9972/verify-url.git
+
+Updating /mnt/store/melpa/working/verify-url/
+No valid stable versions found for verify-url

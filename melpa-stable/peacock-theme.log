@@ -1,0 +1,6 @@
+Package: peacock-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-peacock-theme.git
+
+Updating /mnt/store/melpa/working/peacock-theme/
+No valid stable versions found for peacock-theme

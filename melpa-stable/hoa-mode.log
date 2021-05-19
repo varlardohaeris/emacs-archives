@@ -1,0 +1,6 @@
+Package: hoa-mode
+Fetcher: git
+Source:  https://gitlab.lrde.epita.fr/spot/emacs-modes.git
+
+Updating /mnt/store/melpa/working/hoa-mode/
+No valid stable versions found for hoa-mode

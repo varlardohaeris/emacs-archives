@@ -1,0 +1,6 @@
+Package: restclient
+Fetcher: github
+Source:  https://github.com/pashky/restclient.el.git
+
+Updating /mnt/store/melpa/working/restclient/
+No valid stable versions found for restclient

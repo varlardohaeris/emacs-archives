@@ -1,0 +1,6 @@
+Package: baff
+Fetcher: github
+Source:  https://github.com/dave-f/baff.git
+
+Updating /mnt/store/melpa/working/baff/
+No valid stable versions found for baff

@@ -1,0 +1,11 @@
+Package: eshell-autojump
+Fetcher: github
+Source:  https://github.com/coldnew/eshell-autojump.git
+
+Updating /mnt/store/melpa/working/eshell-autojump/
+Built eshell-autojump in 2.498s, finished at Wed May 19 04:31:36 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.8K May 19 04:31 packages-stable/eshell-autojump-0.2.el
+4.0K -rw-r--r-- 1 root root  296 May 19 04:31 packages-stable/eshell-autojump-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eshell-autojump-badge.svg
+4.0K -rw-r--r-- 1 root root  409 May 19 04:31 packages-stable/eshell-autojump-readme.txt

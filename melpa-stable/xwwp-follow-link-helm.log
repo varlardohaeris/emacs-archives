@@ -1,0 +1,6 @@
+Package: xwwp-follow-link-helm
+Fetcher: github
+Source:  https://github.com/canatella/xwwp.git
+
+Updating /mnt/store/melpa/working/xwwp-follow-link-helm/
+No valid stable versions found for xwwp-follow-link-helm

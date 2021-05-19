@@ -1,0 +1,11 @@
+Package: modern-fringes
+Fetcher: github
+Source:  https://github.com/SpecialBomb/emacs-modern-fringes.git
+
+Updating /mnt/store/melpa/working/modern-fringes/
+Built modern-fringes in 3.668s, finished at Wed May 19 01:35:45 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.8K May 19 01:35 packages-stable/modern-fringes-4.4.el
+4.0K -rw-r--r-- 1 root root  405 May 19 01:35 packages-stable/modern-fringes-4.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/modern-fringes-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 01:35 packages-stable/modern-fringes-readme.txt

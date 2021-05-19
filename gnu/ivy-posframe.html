@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC>
+<html lang="en" xml:lang="en">
+    <head>
+        <title>GNU ELPA - ivy-posframe</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="shortcut icon" type="image/png" href="../favicon.png">
+        <link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
+        <link rel="stylesheet" type="text/css" href="../layout.css">
+        <script src="../javascript/jquery.min.js" type="text/javascript"></script>
+        <script src="../javascript/jquery.filtertable.min.js" type="text/javascript"></script>
+        <script src="../javascript/package-search.js" type="text/javascript"></script>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,width=device-width" />
+    </head>
+    <body>
+
+        <div class="wrapper">
+
+            <div class="header small">
+                <div class="container">
+                    <h1><a href="index.html">GNU ELPA</a> - ivy-posframe</h1>
+                </div>
+            </div>
+
+            <div class="container">
+<h2 class="package">ivy-posframe</h2><dl><dt>Description</dt><dd>Using posframe to show Ivy</dd>
+<dt>Latest</dt> <dd><a href="ivy-posframe-0.6.0.tar">ivy-posframe-0.6.0.tar</a>, 2021-Apr-10,  330&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>Feng Shu &lt;tumashu@163.com></dd>
+<dt>Home page</dt> <dd><a href="https://github.com/tumashu/ivy-posframe">https://github.com/tumashu/ivy-posframe</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/ivy-posframe">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/ivy-posframe">Gitweb</a></dd>
+</dl><p>To install this package, run in Emacs:</p>
+                       <pre>M-x <span class="kw">package-install</span> RET <span class="kw">ivy-posframe</span> RET</pre><h2>Full description</h2><pre>
+* ivy-posframe README                                :README:
+
+** What is ivy-posframe
+
+ivy-posframe is an ivy extension, which lets ivy use posframe to show
+its candidate menu.
+
+NOTE: ivy-posframe requires Emacs 26 and do not support mouse
+click.
+
+** Display functions
+
+1. ivy-posframe-display
+2. ivy-posframe-display-at-frame-center
+3. ivy-posframe-display-at-window-center
+   [[./snapshots/ivy-posframe-display-at-window-center.png]]
+4. ivy-posframe-display-at-frame-bottom-left
+5. ivy-posframe-display-at-window-bottom-left
+   [[./snapshots/ivy-posframe-display-at-window-bottom-left.png]]
+6. ivy-posframe-display-at-frame-bottom-window-center
+7. ivy-posframe-display-at-point
+   [[./snapshots/ivy-posframe-display-at-point.png]]
+
+** How to enable ivy-posframe
+*** Global mode
+#+BEGIN_EXAMPLE
+(require 'ivy-posframe)
+;; display at `ivy-posframe-style'
+(setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-center)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-window-center)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-bottom-left)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-window-bottom-left)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-top-center)))
+(ivy-posframe-mode 1)
+#+END_EXAMPLE
+*** Per-command mode.
+#+BEGIN_EXAMPLE
+(require 'ivy-posframe)
+;; Different command can use different display function.
+(setq ivy-posframe-display-functions-alist
+      '((swiper          . ivy-posframe-display-at-point)
+        (complete-symbol . ivy-posframe-display-at-point)
+        (counsel-M-x     . ivy-posframe-display-at-window-bottom-left)
+        (t               . ivy-posframe-display)))
+(ivy-posframe-mode 1)
+#+END_EXAMPLE
+
+You can use ivy original display function on specify function.
+You may want to use the original display function because display
+of Swiper at point hides the contents of the buffer.
+#+BEGIN_EXAMPLE
+(require 'ivy-posframe)
+;; Different command can use different display function.
+(setq ivy-posframe-display-functions-alist
+      '((swiper          . ivy-display-function-fallback)
+        (complete-symbol . ivy-posframe-display-at-point)
+        (counsel-M-x     . ivy-posframe-display-at-window-bottom-left)
+        (t               . ivy-posframe-display)))
+(ivy-posframe-mode 1)
+#+END_EXAMPLE
+
+You may want to change the height of ivy by a function only while
+using posframe. This is possible with the code below.
+
+The following example displays swiper on 20 lines by default for ivy,
+and displays other functions in posframe at the location specified on
+40 lines.
+#+BEGIN_EXAMPLE
+(require 'ivy-posframe)
+;; Different command can use different display function.
+(setq ivy-posframe-height-alist '((swiper . 20)
+                                  (t      . 40)))
+
+(setq ivy-posframe-display-functions-alist
+      '((swiper          . ivy-display-function-fallback)
+        (complete-symbol . ivy-posframe-display-at-point)
+        (counsel-M-x     . ivy-posframe-display-at-window-bottom-left)
+        (t               . ivy-posframe-display)))
+(ivy-posframe-mode 1)
+#+END_EXAMPLE
+
+NOTE: Using swiper as example: swiper's display function *only*
+take effect when you call swiper command with global keybinding, if
+you call swiper command with 'M-x' (for example: counsel-M-x),
+counsel-M-x's display function will take effect instead of
+swiper's.
+
+The value of variable `this-command' will be used as the search key
+by ivy to find display function in `ivy-display-functions-alist',
+"C-h v this-command" is a good idea.
+
+** Tips
+
+*** How to show fringe to ivy-posframe
+#+BEGIN_EXAMPLE
+(setq ivy-posframe-parameters
+      '((left-fringe . 8)
+        (right-fringe . 8)))
+#+END_EXAMPLE
+
+By the way, User can set *any* parameters of ivy-posframe with
+the help of `ivy-posframe-parameters'.
+
+*** How to custom your ivy-posframe style
+
+The simplest way is:
+#+BEGIN_EXAMPLE
+(defun ivy-posframe-display-at-XXX (str)
+  (ivy-posframe--display str #'your-own-poshandler-function))
+(setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-XXX)))
+(ivy-posframe-mode 1) ; This line is needed.
+#+END_EXAMPLE
+</pre>
+<h2>Old versions</h2><table>
+<tr><td><a href="ivy-posframe-0.5.5.tar.lz">ivy-posframe-0.5.5.tar.lz</a></td><td>2020-Dec-15</td><td> 282&nbsp;KiB</td>
+<tr><td><a href="ivy-posframe-0.5.4.el.lz">ivy-posframe-0.5.4.el.lz</a></td><td>2020-Dec-14</td><td>5.25&nbsp;KiB</td>
+<tr><td><a href="ivy-posframe-0.5.3.el.lz">ivy-posframe-0.5.3.el.lz</a></td><td>2020-Nov-24</td><td>5.23&nbsp;KiB</td>
+<tr><td><a href="ivy-posframe-0.5.2.el.lz">ivy-posframe-0.5.2.el.lz</a></td><td>2020-Oct-26</td><td>5.20&nbsp;KiB</td>
+<tr><td><a href="ivy-posframe-0.5.1.el.lz">ivy-posframe-0.5.1.el.lz</a></td><td>2020-Oct-09</td><td>5.18&nbsp;KiB</td>
+<tr><td><a href="ivy-posframe-0.5.0.el.lz">ivy-posframe-0.5.0.el.lz</a></td><td>2020-Oct-04</td><td>5.11&nbsp;KiB</td>
+<tr><td><a href="ivy-posframe-0.2.0.el.lz">ivy-posframe-0.2.0.el.lz</a></td><td>2020-Oct-03</td><td>5.14&nbsp;KiB</td>
+</table>
+</body>

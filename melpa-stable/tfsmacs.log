@@ -1,0 +1,6 @@
+Package: tfsmacs
+Fetcher: github
+Source:  https://github.com/sebasmonia/tfsmacs.git
+
+Updating /mnt/store/melpa/working/tfsmacs/
+No valid stable versions found for tfsmacs

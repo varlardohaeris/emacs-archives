@@ -1,0 +1,11 @@
+Package: gnus-desktop-notify
+Fetcher: gitlab
+Source:  https://gitlab.com/wavexx/gnus-desktop-notify.el.git
+
+Updating /mnt/store/melpa/working/gnus-desktop-notify/
+Built gnus-desktop-notify in 3.252s, finished at Wed May 19 04:37:47 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:37 packages-stable/gnus-desktop-notify-1.4.el
+4.0K -rw-r--r-- 1 root root  390 May 19 04:37 packages-stable/gnus-desktop-notify-1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gnus-desktop-notify-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 04:37 packages-stable/gnus-desktop-notify-readme.txt

@@ -1,2 +1,11 @@
-
-(wn-mode . [(1 4) ((emacs (24))) "numeric window switching shortcuts" single ((:commit . "6e7029b0d5773a79914a289937be068784931cad") (:keywords "buffers" "windows" "switching-windows") (:authors ("Anonymous")) (:maintainer "Luís Oliveira" . "luismbo@gmail.com") (:url . "https://github.com/luismbo/wn-mode"))])
+(wn-mode .
+	 [(1 4)
+	  ((emacs
+	    (24)))
+	  "numeric window switching shortcuts" single
+	  ((:commit . "6e7029b0d5773a79914a289937be068784931cad")
+	   (:authors
+	    ("Anonymous"))
+	   (:maintainer "Luís Oliveira" . "luismbo@gmail.com")
+	   (:keywords "buffers" "windows" "switching-windows")
+	   (:url . "https://github.com/luismbo/wn-mode"))])

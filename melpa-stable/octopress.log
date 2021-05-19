@@ -1,0 +1,6 @@
+Package: octopress
+Fetcher: github
+Source:  https://github.com/aaronbieber/octopress.el.git
+
+Updating /mnt/store/melpa/working/octopress/
+No valid stable versions found for octopress

@@ -1,0 +1,6 @@
+Package: tangotango-theme
+Fetcher: github
+Source:  https://github.com/juba/color-theme-tangotango.git
+
+Updating /mnt/store/melpa/working/tangotango-theme/
+No valid stable versions found for tangotango-theme

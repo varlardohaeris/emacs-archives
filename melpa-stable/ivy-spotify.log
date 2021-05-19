@@ -1,0 +1,6 @@
+Package: ivy-spotify
+Fetcher: git
+Source:  https://codeberg.org/jao/espotify
+
+Updating /mnt/store/melpa/working/ivy-spotify/
+No valid stable versions found for ivy-spotify

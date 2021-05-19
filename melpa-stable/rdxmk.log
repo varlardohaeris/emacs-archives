@@ -1,0 +1,6 @@
+Package: rdxmk
+Fetcher: github
+Source:  https://github.com/jsalzbergedu/rdxmk.git
+
+Updating /mnt/store/melpa/working/rdxmk/
+No valid stable versions found for rdxmk

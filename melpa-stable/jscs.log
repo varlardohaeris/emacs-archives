@@ -1,0 +1,6 @@
+Package: jscs
+Fetcher: github
+Source:  https://github.com/papaeye/emacs-jscs.git
+
+Updating /mnt/store/melpa/working/jscs/
+No valid stable versions found for jscs

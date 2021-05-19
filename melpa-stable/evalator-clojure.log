@@ -1,0 +1,6 @@
+Package: evalator-clojure
+Fetcher: github
+Source:  https://github.com/seanirby/evalator-clojure.git
+
+Updating /mnt/store/melpa/working/evalator-clojure/
+No valid stable versions found for evalator-clojure

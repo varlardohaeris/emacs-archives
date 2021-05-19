@@ -1,0 +1,6 @@
+Package: evil-mc-extras
+Fetcher: github
+Source:  https://github.com/gabesoft/evil-mc-extras.git
+
+Updating /mnt/store/melpa/working/evil-mc-extras/
+No valid stable versions found for evil-mc-extras

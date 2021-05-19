@@ -24,4 +24,4 @@ Then search for grails-projectile-mode.
 There is integration with discover.el when it's available for easier
 navigation between commands without resorting to muscle memory for keybindings.
 
-Change log: Split package into separate files.
+; Change log: Split package into separate files.

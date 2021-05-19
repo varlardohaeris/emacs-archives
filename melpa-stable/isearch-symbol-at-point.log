@@ -1,0 +1,6 @@
+Package: isearch-symbol-at-point
+Fetcher: github
+Source:  https://github.com/re5et/isearch-symbol-at-point.git
+
+Updating /mnt/store/melpa/working/isearch-symbol-at-point/
+No valid stable versions found for isearch-symbol-at-point

@@ -2,4 +2,4 @@
  from Bliss (tmTheme) by Saad Quadri
 
 
-Licence: MIT
+; Licence: MIT

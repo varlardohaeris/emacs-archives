@@ -1,0 +1,12 @@
+Package: adoc-mode
+Fetcher: github
+Source:  https://github.com/sensorflo/adoc-mode.git
+
+Updating /mnt/store/melpa/working/adoc-mode/
+Note: adoc-mode :files spec is equivalent to the default.
+Built adoc-mode in 3.667s, finished at Wed May 19 04:18:51 2021
+ ✓ Success:
+128K -rw-r--r-- 1 root root 125K May 19 04:18 packages-stable/adoc-mode-0.6.6.el
+4.0K -rw-r--r-- 1 root root  417 May 19 04:18 packages-stable/adoc-mode-0.6.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/adoc-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 3.4K May 19 04:18 packages-stable/adoc-mode-readme.txt

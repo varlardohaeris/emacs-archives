@@ -7,7 +7,7 @@ exported to C code that can be compiled and optimized by major C
 compilers such as gcc/clang/vc++.  Functionality is exposed to the
 PHP language.  For more information see URL `https://zephir-lang.com'.
 
-Subword Mode:
+;; Subword Mode:
 
   GNU Emacs comes with `subword-mode', a minor mode that allows you to
 navigate the parts of a “camelCase” as if they were separate words.  For

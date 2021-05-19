@@ -1,3 +1,4 @@
+
 Usage:
   (require 'flymake-sass)
   (add-hook 'sass-mode-hook 'flymake-sass-load)

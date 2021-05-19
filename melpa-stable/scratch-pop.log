@@ -1,0 +1,6 @@
+Package: scratch-pop
+Fetcher: github
+Source:  https://github.com/zk-phi/scratch-pop.git
+
+Updating /mnt/store/melpa/working/scratch-pop/
+No valid stable versions found for scratch-pop

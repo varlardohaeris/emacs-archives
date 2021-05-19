@@ -7,10 +7,6 @@
   (add-hook 'pre-command-hook 'erase-nonempty-inactive-minibuffer))
 
 
- Macros defined here:
-
-   `empty-name-p', `non-empty-name-p'.
-
  Functions defined here:
 
    `absdiff', `buffer-alist', `concat-w-faces',

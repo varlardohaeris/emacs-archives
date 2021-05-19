@@ -1,0 +1,6 @@
+Package: iterator
+Fetcher: github
+Source:  https://github.com/thierryvolpiatto/iterator.git
+
+Updating /mnt/store/melpa/working/iterator/
+No valid stable versions found for iterator

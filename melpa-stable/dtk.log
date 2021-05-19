@@ -1,0 +1,6 @@
+Package: dtk
+Fetcher: github
+Source:  https://github.com/dtk01/dtk.git
+
+Updating /mnt/store/melpa/working/dtk/
+No valid stable versions found for dtk

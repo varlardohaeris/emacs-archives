@@ -1,5 +1,17 @@
 Excorporate provides Exchange integration for Emacs.
 
+Most Recent Improvements
+------------------------
+
+New in Excorporate 0.9.6, released 2021-04-26:
+
+** Fix Emacs < 24.4 incompatibility in time zone support
+
+** Require cl-lib package explicitly
+
+Quick Start
+-----------
+
 To create a connection to a web service:
 
 M-x excorporate

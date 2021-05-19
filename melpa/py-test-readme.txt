@@ -4,7 +4,7 @@ buffer, all of the tests that you have defined in the current buffer,
 or all of the tests that you have defined in the current buffers's
 parent directory.
 
-Installation
+; Installation
 
 From MELPA:
 
@@ -21,7 +21,7 @@ Add it to your `.emacs`:
 (add-to-list 'load-path (expand-file-name "~/sandbox/py-test.el"))
 (require 'py-test)
 
-Usage
+; Usage
 
 Define a project.
 
@@ -48,7 +48,7 @@ Jump to a single test function, method or class and run just that:
 
 M-x py-test-run-test-at-point RET
 
-Extras
+; Extras
 
 `py-test' is also configurable through the following variables (use
 `describe-variable' for more info):

@@ -1,3 +1,4 @@
+
 `docker-tramp.el' offers a TRAMP method for Docker containers.
 
 > **NOTE**: `docker-tramp.el' relies in the `docker exec` command.  Tested

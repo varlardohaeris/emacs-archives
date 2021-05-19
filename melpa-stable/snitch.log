@@ -1,0 +1,29 @@
+Package: snitch
+Fetcher: github
+Source:  https://github.com/mrmekon/snitch-el.git
+
+Updating /mnt/store/melpa/working/snitch/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/snitch/
+  to /tmp/snitch9iXJCC/snitch-0.3.0
+    snitch-backtrace.el -> snitch-backtrace.el
+    snitch-custom.el -> snitch-custom.el
+    snitch-filter.el -> snitch-filter.el
+    snitch-log.el -> snitch-log.el
+    snitch-timer.el -> snitch-timer.el
+    snitch.el -> snitch.el
+Created snitch-0.3.0.tar containing:
+  snitch-0.3.0/
+  snitch-0.3.0/snitch-backtrace.el
+  snitch-0.3.0/snitch-custom.el
+  snitch-0.3.0/snitch-filter.el
+  snitch-0.3.0/snitch-log.el
+  snitch-0.3.0/snitch-pkg.el
+  snitch-0.3.0/snitch-timer.el
+  snitch-0.3.0/snitch.el
+Built snitch in 2.890s, finished at Wed May 19 01:49:31 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  342 May 19 01:49 packages-stable/snitch-0.3.0.entry
+120K -rw-r--r-- 1 root root 120K May 19 01:49 packages-stable/snitch-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/snitch-badge.svg
+ 20K -rw-r--r-- 1 root root  20K May 19 01:49 packages-stable/snitch-readme.txt

@@ -1,4 +1,3 @@
-Commentary:
 Shadchen: A pattern matching library
 ====================================
 

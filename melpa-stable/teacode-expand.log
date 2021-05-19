@@ -1,0 +1,6 @@
+Package: teacode-expand
+Fetcher: github
+Source:  https://github.com/raguay/TeaCode-Expand.git
+
+Updating /mnt/store/melpa/working/teacode-expand/
+No valid stable versions found for teacode-expand

@@ -40,7 +40,7 @@ For further customization, please see the Github page: https://github.com/Kungsg
 
 Here's an example of what yankpad.org could look like:
 
-Yankpad example:
+; Yankpad example:
 
 * Category 1
 ** Snippet 1

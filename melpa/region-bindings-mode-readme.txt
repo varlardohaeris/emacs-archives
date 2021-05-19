@@ -5,7 +5,7 @@ when the region is active.
 
 This is a pretty good way to keep the global bindings clean.
 
-Installation:
+; Installation:
 
 Add this to your .emacs:
 

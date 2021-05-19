@@ -1,0 +1,6 @@
+Package: evil-tabs
+Fetcher: github
+Source:  https://github.com/krisajenkins/evil-tabs.git
+
+Updating /mnt/store/melpa/working/evil-tabs/
+No valid stable versions found for evil-tabs

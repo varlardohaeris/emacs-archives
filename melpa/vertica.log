@@ -1,0 +1,16 @@
+Package: vertica
+Fetcher: github
+Source:  https://github.com/r0man/vertica-el.git
+
+Updating /mnt/store/melpa/working/vertica/
+Built vertica in 3.926s, finished at Wed May 19 04:13:19 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.6K May 19 04:13 packages/vertica-20131217.1511.el
+4.0K -rw-r--r-- 1 root root  311 May 19 04:13 packages/vertica-20131217.1511.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/vertica-badge.svg
+4.0K -rw-r--r-- 1 root root   56 May 19 04:13 packages/vertica-readme.txt
+4.0K -rw-r--r-- 1 root root  428 May 19 04:13 packages/vertica-snippets-20200423.1200.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:13 packages/vertica-snippets-20200423.1200.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 00:58 packages/vertica-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root   82 May 19 04:13 packages/vertica-snippets-readme.txt
+8.0K -rw-r--r-- 1 root root 4.3K May 19 04:13 packages/vertica-snippets.log

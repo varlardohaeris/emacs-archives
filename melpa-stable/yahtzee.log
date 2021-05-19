@@ -1,0 +1,6 @@
+Package: yahtzee
+Fetcher: github
+Source:  https://github.com/drdv/yahtzee.git
+
+Updating /mnt/store/melpa/working/yahtzee/
+No valid stable versions found for yahtzee

@@ -1,0 +1,11 @@
+Package: isolate
+Fetcher: github
+Source:  https://github.com/casouri/isolate.git
+
+Updating /mnt/store/melpa/working/isolate/
+Built isolate in 2.787s, finished at Thu Jan 28 01:09:17 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  28K Jan 28 01:09 packages-stable/isolate-1.2.el
+4.0K -rw-r--r-- 1 root root  348 Jan 28 01:09 packages-stable/isolate-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Jan 28 01:09 packages-stable/isolate-badge.svg
+4.0K -rw-r--r-- 1 root root  158 Jan 28 01:09 packages-stable/isolate-readme.txt

@@ -1,0 +1,11 @@
+Package: counsel-css
+Fetcher: github
+Source:  https://github.com/hlissner/emacs-counsel-css.git
+
+Updating /mnt/store/melpa/working/counsel-css/
+Built counsel-css in 3.797s, finished at Wed May 19 04:25:24 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.5K May 19 04:25 packages-stable/counsel-css-1.0.7.el
+4.0K -rw-r--r-- 1 root root  508 May 19 04:25 packages-stable/counsel-css-1.0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/counsel-css-badge.svg
+4.0K -rw-r--r-- 1 root root  142 May 19 04:25 packages-stable/counsel-css-readme.txt

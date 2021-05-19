@@ -1,0 +1,6 @@
+Package: ego
+Fetcher: github
+Source:  https://github.com/emacs-china/EGO.git
+
+Updating /mnt/store/melpa/working/ego/
+No valid stable versions found for ego

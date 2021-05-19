@@ -1,0 +1,6 @@
+Package: lms
+Fetcher: hg
+Source:  https://hg.serna.eu/emacs/lms
+
+Updating /mnt/store/melpa/working/lms/
+hg exited with status 255

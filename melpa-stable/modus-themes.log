@@ -1,0 +1,29 @@
+Package: modus-themes
+Fetcher: gitlab
+Source:  https://gitlab.com/protesilaos/modus-themes.git
+
+Updating /mnt/store/melpa/working/modus-themes/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/modus-themes/
+  to /tmp/modus-themescub8Ms/modus-themes-1.3.0
+    modus-operandi-theme.el -> modus-operandi-theme.el
+    modus-themes.el -> modus-themes.el
+    modus-vivendi-theme.el -> modus-vivendi-theme.el
+  ! doc/modus-themes.info -> modus-themes.info
+  ! doc/doclicense.texi -> doclicense.texi
+Created /tmp/modus-themescub8Ms/modus-themes-1.3.0/doclicense.info
+Created modus-themes-1.3.0.tar containing:
+  modus-themes-1.3.0/
+  modus-themes-1.3.0/dir
+  modus-themes-1.3.0/doclicense.info
+  modus-themes-1.3.0/modus-operandi-theme.el
+  modus-themes-1.3.0/modus-themes-pkg.el
+  modus-themes-1.3.0/modus-themes.el
+  modus-themes-1.3.0/modus-themes.info
+  modus-themes-1.3.0/modus-vivendi-theme.el
+Built modus-themes in 6.548s, finished at Wed May 19 01:35:50 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  408 May 19 01:35 packages-stable/modus-themes-1.3.0.entry
+552K -rw-r--r-- 1 root root 550K May 19 01:35 packages-stable/modus-themes-1.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/modus-themes-badge.svg
+8.0K -rw-r--r-- 1 root root 7.7K May 19 01:35 packages-stable/modus-themes-readme.txt

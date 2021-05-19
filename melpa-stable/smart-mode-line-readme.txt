@@ -1,3 +1,4 @@
+
 Smart Mode Line is a sexy mode-line for Emacs. It aims to be easy to
 read from small to large monitors by using *colors*, a *prefix feature*, and
 *smart truncation*.

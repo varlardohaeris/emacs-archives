@@ -1,0 +1,6 @@
+Package: dirtree
+Fetcher: github
+Source:  https://github.com/emacsorphanage/dirtree.git
+
+Updating /mnt/store/melpa/working/dirtree/
+No valid stable versions found for dirtree

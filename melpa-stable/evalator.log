@@ -1,0 +1,34 @@
+Package: evalator
+Fetcher: github
+Source:  https://github.com/seanirby/evalator.git
+
+Updating /mnt/store/melpa/working/evalator/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evalator/
+  to /tmp/evalator87HShf/evalator-1.0.0
+    evalator-context-elisp.el -> evalator-context-elisp.el
+    evalator-context.el -> evalator-context.el
+    evalator-faces.el -> evalator-faces.el
+    evalator-history.el -> evalator-history.el
+    evalator-key-map.el -> evalator-key-map.el
+    evalator-state.el -> evalator-state.el
+    evalator-utils.el -> evalator-utils.el
+    evalator.el -> evalator.el
+Created evalator-1.0.0.tar containing:
+  evalator-1.0.0/
+  evalator-1.0.0/evalator-context-elisp.el
+  evalator-1.0.0/evalator-context.el
+  evalator-1.0.0/evalator-faces.el
+  evalator-1.0.0/evalator-history.el
+  evalator-1.0.0/evalator-key-map.el
+  evalator-1.0.0/evalator-pkg.el
+  evalator-1.0.0/evalator-state.el
+  evalator-1.0.0/evalator-utils.el
+  evalator-1.0.0/evalator.el
+Built evalator in 3.027s, finished at Wed May 19 04:32:00 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  379 May 19 04:32 packages-stable/evalator-1.0.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 04:32 packages-stable/evalator-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evalator-badge.svg
+4.0K -rw-r--r-- 1 root root  205 May 19 04:31 packages-stable/evalator-clojure.log
+   0 -rw-r--r-- 1 root root    0 May 19 04:32 packages-stable/evalator-readme.txt

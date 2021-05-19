@@ -1,0 +1,6 @@
+Package: org-listcruncher
+Fetcher: github
+Source:  https://github.com/dfeich/org-listcruncher.git
+
+Updating /mnt/store/melpa/working/org-listcruncher/
+No valid stable versions found for org-listcruncher

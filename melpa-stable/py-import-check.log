@@ -1,0 +1,6 @@
+Package: py-import-check
+Fetcher: github
+Source:  https://github.com/psibi/emacs-py-import-check.git
+
+Updating /mnt/store/melpa/working/py-import-check/
+No valid stable versions found for py-import-check

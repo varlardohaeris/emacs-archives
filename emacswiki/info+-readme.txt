@@ -36,46 +36,59 @@
 
    `Info-breadcrumbs-in-mode-line-mode',
    `Info-change-visited-status' (Emacs 24+),
-   `Info-describe-bookmark' (Emacs 24.2+),
-   `Info-follow-nearest-node-new-window', `Info-goto-node-web',
-   `Info-history-clear', `Info-make-node-unvisited', `info-manual',
+   `Info-cycle-fontify-quotations', `Info-describe-bookmark' (Emacs
+   24.2+), `Info-define-custom-delimiting',
+   `Info-follow-nearest-node-new-window', `Info-glossary',
+   `Info-goto-node-web', `Info-history-clear',
+   `Info-make-node-unvisited', `info-manual',
    `info-manual+node-buffer-name-mode', `Info-merge-subnodes',
    `Info-mouse-follow-nearest-node-new-window',
    `Info-outline-demote', `Info-outline-promote',
    `Info-persist-history-mode' (Emacs 24.4+), `info-rename-buffer',
-   `Info-save-current-node', `Info-set-breadcrumbs-depth',
+   `Info-save-current-node', `Info-search-case-sensitively-next',
+   `Info-set-breadcrumbs-depth',
    `Info-set-face-for-bookmarked-xref' (Emacs 24.2+),
-   `Info-toggle-breadcrumbs-in-header',
+   `Info-toggle-breadcrumbs-in-header', `Info-toggle-fontify-all',
    `Info-toggle-fontify-angle-bracketed',
    `Info-toggle-fontify-bookmarked-xrefs' (Emacs 24.2+),
+   `Info-toggle-fontify-custom-delimited',
    `Info-toggle-fontify-emphasis',
-   `Info-toggle-fontify-quotations',
-   `Info-toggle-fontify-single-quote',
+   `Info-toggle-fontify-glossary-words',
+   `Info-toggle-fontify-isolated-quote',
+   `Info-toggle-fontify-reference-items',
+   `Info-toggle-fontify-visited-nodes',
    `Info-toggle-node-access-invokes-bookmark' (Emacs 24.4+),
    `Info-toc-outline', `Info-toc-outline-refontify-region',
-   `Info-url-for-node', `Info-virtual-book'.
+   `Info-url-for-node', `Info-variable-pitch-text-mode',
+   `Info-virtual-book'.
 
  Faces defined here:
 
    `info-command-ref-item', `info-constant-ref-item',
-   `info-double-quoted-name', `info-emphasis', `info-file',
-   `info-function-ref-item',`info-macro-ref-item', `info-menu',
+   `info-custom-delimited', `info-double-quoted-name',
+   `info-emphasis', `info-file', `info-fixed-pitch',
+   `info-function-ref-item', `info-glossary-word',
+   `info-indented-text', `info-isolated-backquote',
+   `info-isolated-quote', `info-macro-ref-item', `info-menu',
    `info-node', `info-quoted-name', `info-reference-item',
-   `info-single-quote', `info-special-form-ref-item',
-   `info-string', `info-syntax-class-item',
-   `info-user-option-ref-item', `info-variable-ref-item',
-   `info-xref-bookmarked' (Emacs 24.2+).
+   `info-special-form-ref-item', `info-string',
+   `info-syntax-class-item', `info-user-option-ref-item',
+   `info-variable-ref-item', `info-xref-bookmarked' (Emacs 24.2+).
 
  Options (user variables) defined here:
 
    `Info-bookmarked-node-xref-faces' (Emacs 24.2+),
+   `Info-bookmark-use-only-node-not-file-flag',
    `Info-breadcrumbs-in-header-flag', `info-buffer-name-function',
    `Info-display-node-header-fn', `Info-emphasis-regexp',
    `Info-fit-frame-flag', `Info-fontify-angle-bracketed-flag',
    `Info-fontify-bookmarked-xrefs-flag' (Emacs 24.2+),
-   `Info-fontify-emphasis-flag', `Info-fontify-quotations-flag',
+   `Info-fontify-custom-delimited', `Info-fontify-emphasis-flag',
+   `Info-fontify-glossary-words',
+   `Info-fontify-indented-text-chars',
+   `Info-fontify-isolated-quote-flag', `Info-fontify-quotations',
    `Info-fontify-reference-items-flag',
-   `Info-fontify-single-quote-flag',
+   `Info-glossary-fallbacks-alist',
    `Info-node-access-invokes-bookmark-flag' (Emacs 24.4+),
    `Info-saved-history-file' (Emacs 24.4+), `Info-saved-nodes',
    `Info-subtree-separator', `Info-toc-outline-no-redundancy-flag'.
@@ -86,14 +99,23 @@
 
  Non-interactive functions defined here:
 
-   `Info--pop-to-buffer-same-window', `Info-bookmark-for-node',
+   `Info--member-string-nocase', `Info--pop-to-buffer-same-window',
+   `info--user-search-failed', `Info-bookmark-for-node',
    `Info-bookmark-name-at-point', `Info-bookmark-named-at-point',
    `Info-bookmark-name-for-node',
    `info-buffer-name-function-default',
-   `Info-display-node-default-header', `info-fontify-quotations',
-   `info-fontify-reference-items',
+   `Info-case-insensitive-string=',
+   `Info-case-insensitive-string-hash', `info-custom-delim-1',
+   `info-custom-delim-2', `Info-display-node-default-header',
+   `info-fallback-manual-for-glossary',
+   `Info-fontify-custom-delimited', `Info-fontify-glossary-words',
+   `Info-fontify-indented-text', `Info-fontify-quotations',
+   `Info-fontify-reference-items',
+   `Info-get-glossary-hash-table-create',
+   `Info-goto-glossary-definition', `Info-no-glossary-manuals',
    `Info-insert-breadcrumbs-in-mode-line', `Info-isearch-search-p',
    `Info-node-name-at-point', `Info-read-bookmarked-node-name',
+   `Info-remap-default-face-to-variable-pitch',
    `Info-restore-history-list' (Emacs 24.4+),
    `Info-save-history-list' (Emacs 24.4+), `Info-search-beg',
    `Info-search-end', `Info-toc-outline-find-node',
@@ -101,10 +123,15 @@
 
  Internal variables defined here:
 
-   `Info-breadcrumbs-depth-internal', `info-fontify-emphasis',
-   `Info-merged-map', `Info-mode-syntax-table',
-   `info-quotation-regexp', `info-quoted+<>-regexp',
-   `Info-toc-outline-map'.
+   `Info-breadcrumbs-depth-internal',
+   `info-custom-delimited-same-line-regexp',
+   `info-fontify-emphasis', `info-glossary-link-map',
+   `info-good-fixed-pitch-font-families',
+   `info-isolated-backquote-regexp', `info-isolated-quote-regexp',
+   `Info-link-faces', `Info-merged-map', `Info-mode-syntax-table',
+   `info-quotation-regexp', `info-quotation-same-line-regexp',
+   `info-quoted+<>-regexp', `info-quoted+<>-same-line-regexp',
+   `info-remap-default-face-cookie', `Info-toc-outline-map'.
 
 
  ***** NOTE: The following standard faces defined in `info.el'
@@ -120,6 +147,8 @@
                   Use other window if not already in Info.
  `Info-apropos-matches' - Added optional arg REGEXP-P.
  `Info-backward-node' - Prefix arg clones buffer.
+ `Info-bookmark-jump' -
+    Respect option `Info-bookmark-use-only-node-not-file-flag'.
  `Info-directory' - Prefix arg clones buffer.
  `info-display-manual' - Use completion to input manual name.
  `Info-find-emacs-command-nodes' - Added arg MSGP and message.
@@ -135,15 +164,16 @@
     5. Only 5th and 9th menu items have their `*' colored.
     6. Notes in face `info-xref'.
     7. If `Info-fontify-emphasis-flag', then fontify _..._.
-    8. If `Info-fontify-quotations-flag', then fontify ‘...’ or
+    8. If `Info-fontify-quotations', then fontify ‘...’ or
        `...' in face `info-quoted-name', “...” in face
        `info-double-quoted-name',  and "..." in face `info-string'.
-    9. If `Info-fontify-angle-bracketed-flag' and
-       `Info-fontify-quotations-flag' then fontify <...> in face
-       `info-quoted-name'.
-   10. If `Info-fontify-single-quote-flag' and
-       `Info-fontify-quotations-flag', then fontify ' in face
-       `info-single-quote'.
+    9. If `Info-fontify-quotations' and
+       `Info-fontify-angle-bracketed-flag' then fontify <...> in
+       face `info-quoted-name'.
+   10. If `Info-fontify-quotations' and
+       `Info-fontify-isolated-quote-flag' then fontify ' in face
+       `info-isolated-quote', and fontify ` in face
+       `info-isolated-backquote'.
  `Info-forward-node' - Prefix arg clones buffer.
  `Info-goto-emacs-command-node' -
     1. Uses `completing-read' in interactive spec, with,
@@ -170,6 +200,7 @@
  `Info-read-node-name'   - Added optional arg DEFAULT.
  `Info-search' - 1. Fits frame.
                  2. Highlights found regexp if `search-highlight'.
+ `Info--search-loop' - Use `Info-search-beg' and `Info-search-end'.
  `Info-set-mode-line' - Handles breadcrumbs in the mode line.
  `Info-mouse-follow-nearest-node' - With prefix arg, show node in
                                     a new Info buffer.
@@ -187,7 +218,7 @@
  -------------
 
  Library `info+.el' extends the standard Emacs library `info.el' in
- several ways.  It provides these features:
+ many ways.  It provides these features:
 
  * Association of additional information (metadata) with Info
    nodes.  You do this by bookmarking the nodes.  Library Bookmark+
@@ -277,40 +308,65 @@
  * Additional, finer-grained Info highlighting.  This can make a
    big difference in readability.
 
-   - Quoted names, like this: `name-stands-out' or
-     `name-stands-out', and strings, like this: "string-stands-out"
-     are highlighted if `Info-fontify-quotations-flag' is
-     non-`nil'.
-
-   - Angle-bracketed names, like this: <tab>, are highlighted if
-     `Info-fontify-angle-bracketed-flag' and
-     `Info-fontify-quotations-flag' are non-`nil'.
-
-   - Isolated single quotes, like this: 'foobar, are highlighted if
-     `Info-fontify-single-quote-flag' and
-     `Info-fontify-quotations-flag' are non-`nil'.
-
-   - Emphasized text, that is, text enclosed in underscore
-     characters, like this: _this is emphasized text_, is
-     highlighted if `Info-fontify-emphasis-flag' is non-`nil'.
-     (But if internal variable `info-fontify-emphasis' is `nil'
-     then there is no such highlighting, and that option has no
-     effect.)
-
    - In the Emacs Lisp manual, reference items are highlighted, so
      they stand out.  This means: constants, commands, functions,
      macros, special forms, syntax classes, user options, and other
      variables.
 
-   - Be aware that such highlighting is not 100% foolproof.
+   - Single-quoted text, like `text' or ‘text’, and double-quoted
+     text, like "text" or “text”, is highlighted if option
+     `Info-fontify-quotations' is non-`nil'.  If the non-nil value
+     is `t' (the default) then, for the case of `...', only text
+     quoted on the same line is highlighted.  If the non-nil value
+     is `multiline' then even multiline text quoted with `...' is
+     highlighted.
+
+   - Angle-bracketed names, like <tab>, are highlighted if
+     `Info-fontify-angle-bracketed-flag' and
+     `Info-fontify-quotations' are both non-`nil'.
+
+   - Isolated single quotes and backquote chars, as in 'foobar and
+     `foobar, are highlighted if `Info-fontify-quotations' and
+     `Info-fontify-isolated-quote-flag' are both non-`nil'.
+
+   - Non-nil option `Info-fontify-indented-text-chars' means
+     fontify text that is indented at least that many characters
+     (default 10).  In the Elisp manual this often means blocks of
+     code and ASCII-art diagrams.  But in general there's no
+     telling what is indented at any given level, so caveat emptor.
+     Think of this as an experimental feature.
+
+   - Emphasized text, that is, text enclosed in underscore
+     characters, like _this is emphasized text_, is
+     highlighted if `Info-fontify-emphasis-flag' is non-`nil'.
+     (But if internal variable `info-fontify-emphasis' is `nil'
+     then there is no such highlighting, and that option has no
+     effect.)
+
+   - Glossary words, that is, words that are defined in a manual's
+     `Glossary' node, are highlighted and linked to their glossary
+     entries, if option `Info-fontify-glossary-words' is non-nil.
+     By default, a mouseover on such a link shows a tooltip with
+     the word's definition from the glossary.  (Currently only the
+     Emacs and Semantic manuals have `Glossary' nodes, as far as I
+     know.)
+
+   - Text between two delimiters that you specify, if the car of
+     option `Info-fontify-custom-delimited' is non-nil.
+
+   - Any extra highglighting you want in a node, as defined by the
+     value of variable `Info-fontify-extra-function'.
+
+   - Be aware that any such highlighting is not 100% foolproof.
      Especially for a manual such as Emacs or Elisp, where
      arbitrary keys and characters can be present anywhere, the
      highlighting can be thrown off.
 
-   - You can toggle each of the `Info-fontify-*-flag' options from
-     the `Info' menu or using an `Info-toggle-fontify-*' command.
-     For example, command `Info-toggle-fontify-emphasis' toggles
-     option `Info-fontify-emphasis-flag'.
+   - You can cycle or toggle the `Info-fontify-*' options from the
+     `Info' menu, or using command `Info-cycle-fontify-quotations'
+     or an `Info-toggle-fontify-*' command.  For example, command
+     `Info-toggle-fontify-emphasis' toggles option
+     `Info-fontify-emphasis-flag'.
 
  * Optionally showing breadcrumbs in the mode line or the header
    line, or both. See where you are in the Info hierarchy, and

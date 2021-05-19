@@ -1,0 +1,11 @@
+Package: gn-mode
+Fetcher: github
+Source:  https://github.com/lashtear/gn-mode.git
+
+Updating /mnt/store/melpa/working/gn-mode/
+Built gn-mode in 3.458s, finished at Wed May 19 04:37:43 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  28K May 19 04:37 packages-stable/gn-mode-0.4.1.el
+4.0K -rw-r--r-- 1 root root  377 May 19 04:37 packages-stable/gn-mode-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gn-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  216 May 19 04:37 packages-stable/gn-mode-readme.txt

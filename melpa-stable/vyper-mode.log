@@ -1,0 +1,6 @@
+Package: vyper-mode
+Fetcher: github
+Source:  https://github.com/ralexstokes/vyper-mode.git
+
+Updating /mnt/store/melpa/working/vyper-mode/
+No valid stable versions found for vyper-mode

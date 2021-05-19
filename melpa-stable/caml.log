@@ -1,0 +1,6 @@
+Package: caml
+Fetcher: github
+Source:  https://github.com/ocaml/caml-mode.git
+
+Updating /mnt/store/melpa/working/caml/
+No valid stable versions found for caml

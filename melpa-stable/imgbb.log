@@ -1,0 +1,6 @@
+Package: imgbb
+Fetcher: github
+Source:  https://github.com/ecraven/imgbb.el.git
+
+Updating /mnt/store/melpa/working/imgbb/
+No valid stable versions found for imgbb

@@ -1,3 +1,4 @@
+
 Proof General is a generic Emacs interface for proof assistants
 (also known as interactive theorem provers).
 

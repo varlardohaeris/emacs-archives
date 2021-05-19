@@ -1,0 +1,6 @@
+Package: multifiles
+Fetcher: github
+Source:  https://github.com/magnars/multifiles.el.git
+
+Updating /mnt/store/melpa/working/multifiles/
+No valid stable versions found for multifiles

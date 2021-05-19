@@ -1,0 +1,6 @@
+Package: holiday-pascha-etc
+Fetcher: github
+Source:  https://github.com/hexmode/holiday-pascha-etc.git
+
+Updating /mnt/store/melpa/working/holiday-pascha-etc/
+No valid stable versions found for holiday-pascha-etc

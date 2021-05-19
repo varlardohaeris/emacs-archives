@@ -1,10 +1,11 @@
+
 Here is an Emacs implementation of incremental git-blame.  When you
 turn it on while viewing a file, the editor buffer will be updated by
 setting the background of individual lines to a color that reflects
 which commit it comes from.  And when you move around the buffer, a
 one-line summary will be shown in the echo area.
 
-Installation:
+; Installation:
 
 To use this package, put it somewhere in `load-path' (or add
 directory with git-blamed.el to `load-path'), and add the following
@@ -21,7 +22,7 @@ the following lines
 
 Then first use of `M-x git-blamed-mode' would load the package.
 
-Compatibility:
+; Compatibility:
 
 It requires GNU Emacs 21 or later and Git 1.5.0 and up
 
@@ -34,3 +35,6 @@ to
 
            (overlay-put ovl 'face (cons 'background-color
                                         (cdr (assq 'color (cddddr info)))))
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

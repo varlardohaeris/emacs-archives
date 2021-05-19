@@ -1,0 +1,6 @@
+Package: ert-expectations
+Fetcher: github
+Source:  https://github.com/emacsorphanage/ert-expectations.git
+
+Updating /mnt/store/melpa/working/ert-expectations/
+No valid stable versions found for ert-expectations

@@ -1,0 +1,6 @@
+Package: org-scrum
+Fetcher: github
+Source:  https://github.com/ianxm/emacs-scrum.git
+
+Updating /mnt/store/melpa/working/org-scrum/
+No valid stable versions found for org-scrum

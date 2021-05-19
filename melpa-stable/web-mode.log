@@ -1,0 +1,16 @@
+Package: web-mode
+Fetcher: github
+Source:  https://github.com/fxbois/web-mode.git
+
+Updating /mnt/store/melpa/working/web-mode/
+Built web-mode in 4.945s, finished at Wed May 19 01:54:46 2021
+ ✓ Success:
+516K -rw-r--r-- 1 root root 516K May 19 01:54 packages-stable/web-mode-17.el
+4.0K -rw-r--r-- 1 root root  349 May 19 01:54 packages-stable/web-mode-17.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/web-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  469 May 19 01:54 packages-stable/web-mode-edit-element-2.3.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:54 packages-stable/web-mode-edit-element-2.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/web-mode-edit-element-badge.svg
+4.0K -rw-r--r-- 1 root root  752 May 19 01:54 packages-stable/web-mode-edit-element-readme.txt
+4.0K -rw-r--r-- 1 root root 1.5K May 19 01:54 packages-stable/web-mode-edit-element.log
+4.0K -rw-r--r-- 1 root root  236 May 19 01:54 packages-stable/web-mode-readme.txt

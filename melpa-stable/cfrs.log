@@ -1,0 +1,11 @@
+Package: cfrs
+Fetcher: github
+Source:  https://github.com/Alexander-Miller/cfrs.git
+
+Updating /mnt/store/melpa/working/cfrs/
+Built cfrs in 3.284s, finished at Wed May 19 04:22:58 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K May 19 04:22 packages-stable/cfrs-1.5.4.el
+4.0K -rw-r--r-- 1 root root  384 May 19 04:22 packages-stable/cfrs-1.5.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cfrs-badge.svg
+4.0K -rw-r--r-- 1 root root  223 May 19 04:22 packages-stable/cfrs-readme.txt

@@ -1,0 +1,12 @@
+Package: edit-indirect
+Fetcher: github
+Source:  https://github.com/Fanael/edit-indirect.git
+
+Updating /mnt/store/melpa/working/edit-indirect/
+Built edit-indirect in 3.063s, finished at Wed May 19 04:29:24 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:29 packages-stable/edit-indirect-0.1.6.el
+4.0K -rw-r--r-- 1 root root  335 May 19 04:29 packages-stable/edit-indirect-0.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/edit-indirect-badge.svg
+4.0K -rw-r--r-- 1 root root  144 May 19 04:29 packages-stable/edit-indirect-readme.txt
+4.0K -rw-r--r-- 1 root root  245 May 19 04:29 packages-stable/edit-indirect-region-latex.log

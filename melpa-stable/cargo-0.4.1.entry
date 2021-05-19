@@ -1,2 +1,12 @@
-
-(cargo . [(0 4 1) ((emacs (24 3)) (rust-mode (0 2 0))) "Emacs Minor Mode for Cargo, Rust's Package Manager." tar ((:commit . "b0487f95a7de7a1d6f03cdd05220f633977d65a2") (:keywords "tools") (:authors ("Kevin W. van Rooijen" . "kevin.van.rooijen@attichacker.com")) (:maintainer "Kevin W. van Rooijen" . "kevin.van.rooijen@attichacker.com"))])
+(cargo .
+       [(0 4 1)
+	((emacs
+	  (24 3))
+	 (rust-mode
+	  (0 2 0)))
+	"Emacs Minor Mode for Cargo, Rust's Package Manager." tar
+	((:commit . "b0487f95a7de7a1d6f03cdd05220f633977d65a2")
+	 (:authors
+	  ("Kevin W. van Rooijen" . "kevin.van.rooijen@attichacker.com"))
+	 (:maintainer "Kevin W. van Rooijen" . "kevin.van.rooijen@attichacker.com")
+	 (:keywords "tools"))])

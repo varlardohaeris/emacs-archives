@@ -1,0 +1,68 @@
+Package: citeproc
+Fetcher: github
+Source:  https://github.com/andras-simonyi/citeproc-el.git
+
+Updating /mnt/store/melpa/working/citeproc/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/citeproc/
+  to /tmp/citeprocXXZprc/citeproc-0.1.2
+    citeproc-bibtex.el -> citeproc-bibtex.el
+    citeproc-choose.el -> citeproc-choose.el
+    citeproc-cite.el -> citeproc-cite.el
+    citeproc-context.el -> citeproc-context.el
+    citeproc-date.el -> citeproc-date.el
+    citeproc-disamb.el -> citeproc-disamb.el
+    citeproc-formatters.el -> citeproc-formatters.el
+    citeproc-generic-elements.el -> citeproc-generic-elements.el
+    citeproc-itemdata.el -> citeproc-itemdata.el
+    citeproc-itemgetters.el -> citeproc-itemgetters.el
+    citeproc-lib.el -> citeproc-lib.el
+    citeproc-locale.el -> citeproc-locale.el
+    citeproc-macro.el -> citeproc-macro.el
+    citeproc-name.el -> citeproc-name.el
+    citeproc-number.el -> citeproc-number.el
+    citeproc-prange.el -> citeproc-prange.el
+    citeproc-proc.el -> citeproc-proc.el
+    citeproc-rt.el -> citeproc-rt.el
+    citeproc-s.el -> citeproc-s.el
+    citeproc-sort.el -> citeproc-sort.el
+    citeproc-style.el -> citeproc-style.el
+    citeproc-term.el -> citeproc-term.el
+    citeproc.el -> citeproc.el
+Created citeproc-0.1.2.tar containing:
+  citeproc-0.1.2/
+  citeproc-0.1.2/citeproc-bibtex.el
+  citeproc-0.1.2/citeproc-choose.el
+  citeproc-0.1.2/citeproc-cite.el
+  citeproc-0.1.2/citeproc-context.el
+  citeproc-0.1.2/citeproc-date.el
+  citeproc-0.1.2/citeproc-disamb.el
+  citeproc-0.1.2/citeproc-formatters.el
+  citeproc-0.1.2/citeproc-generic-elements.el
+  citeproc-0.1.2/citeproc-itemdata.el
+  citeproc-0.1.2/citeproc-itemgetters.el
+  citeproc-0.1.2/citeproc-lib.el
+  citeproc-0.1.2/citeproc-locale.el
+  citeproc-0.1.2/citeproc-macro.el
+  citeproc-0.1.2/citeproc-name.el
+  citeproc-0.1.2/citeproc-number.el
+  citeproc-0.1.2/citeproc-pkg.el
+  citeproc-0.1.2/citeproc-prange.el
+  citeproc-0.1.2/citeproc-proc.el
+  citeproc-0.1.2/citeproc-rt.el
+  citeproc-0.1.2/citeproc-s.el
+  citeproc-0.1.2/citeproc-sort.el
+  citeproc-0.1.2/citeproc-style.el
+  citeproc-0.1.2/citeproc-term.el
+  citeproc-0.1.2/citeproc.el
+Built citeproc in 3.590s, finished at Wed May 19 04:23:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  533 May 19 04:23 packages-stable/citeproc-0.1.2.entry
+212K -rw-r--r-- 1 root root 210K May 19 04:23 packages-stable/citeproc-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/citeproc-badge.svg
+4.0K -rw-r--r-- 1 root root  517 May 19 01:08 packages-stable/citeproc-org-0.2.4.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 01:08 packages-stable/citeproc-org-0.2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:08 packages-stable/citeproc-org-badge.svg
+4.0K -rw-r--r-- 1 root root  177 May 19 01:08 packages-stable/citeproc-org-readme.txt
+4.0K -rw-r--r-- 1 root root  469 May 19 04:23 packages-stable/citeproc-org.log
+4.0K -rw-r--r-- 1 root root  126 May 19 04:23 packages-stable/citeproc-readme.txt

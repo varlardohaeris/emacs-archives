@@ -1,0 +1,6 @@
+Package: company-lean
+Fetcher: github
+Source:  https://github.com/leanprover/lean-mode.git
+
+Updating /mnt/store/melpa/working/company-lean/
+No valid stable versions found for company-lean

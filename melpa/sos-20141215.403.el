@@ -5,6 +5,7 @@
 ;; Author: Rudolf Olah
 ;; URL: https://github.com/omouse/emacs-sos
 ;; Package-Version: 20141215.403
+;; Package-Commit: 1573adca912b88b5010d99a25c83a5b2313bd39c
 ;; Version: 0.1
 ;; Created: 2014-02-15
 ;; By: Rudolf Olah

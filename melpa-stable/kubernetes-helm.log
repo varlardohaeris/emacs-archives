@@ -1,0 +1,6 @@
+Package: kubernetes-helm
+Fetcher: github
+Source:  https://github.com/abrochard/kubernetes-helm.git
+
+Updating /mnt/store/melpa/working/kubernetes-helm/
+No valid stable versions found for kubernetes-helm

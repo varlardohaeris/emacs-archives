@@ -1,0 +1,11 @@
+Package: org-superstar
+Fetcher: github
+Source:  https://github.com/integral-dw/org-superstar-mode.git
+
+Updating /mnt/store/melpa/working/org-superstar/
+Built org-superstar in 8.203s, finished at Wed May 19 01:40:23 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  35K May 19 01:40 packages-stable/org-superstar-1.5.0.el
+4.0K -rw-r--r-- 1 root root  411 May 19 01:40 packages-stable/org-superstar-1.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-superstar-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 01:40 packages-stable/org-superstar-readme.txt

@@ -1,0 +1,6 @@
+Package: ssh
+Fetcher: github
+Source:  https://github.com/ieure/ssh-el.git
+
+Updating /mnt/store/melpa/working/ssh/
+No valid stable versions found for ssh

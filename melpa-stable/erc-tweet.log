@@ -1,0 +1,6 @@
+Package: erc-tweet
+Fetcher: github
+Source:  https://github.com/kidd/erc-tweet.el.git
+
+Updating /mnt/store/melpa/working/erc-tweet/
+No valid stable versions found for erc-tweet

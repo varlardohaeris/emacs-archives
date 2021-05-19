@@ -1,0 +1,11 @@
+Package: apib-mode
+Fetcher: github
+Source:  https://github.com/w-vi/apib-mode.git
+
+Updating /mnt/store/melpa/working/apib-mode/
+Built apib-mode in 3.424s, finished at Wed May 19 04:19:40 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.1K May 19 04:19 packages-stable/apib-mode-0.8.el
+4.0K -rw-r--r-- 1 root root  387 May 19 04:19 packages-stable/apib-mode-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/apib-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  558 May 19 04:19 packages-stable/apib-mode-readme.txt

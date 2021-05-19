@@ -1,0 +1,11 @@
+Package: dim-autoload
+Fetcher: github
+Source:  https://github.com/tarsius/dim-autoload.git
+
+Updating /mnt/store/melpa/working/dim-autoload/
+Built dim-autoload in 5.833s, finished at Wed May 19 04:27:26 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.8K May 19 04:27 packages-stable/dim-autoload-2.0.3.el
+4.0K -rw-r--r-- 1 root root  347 May 19 04:27 packages-stable/dim-autoload-2.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dim-autoload-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:27 packages-stable/dim-autoload-readme.txt

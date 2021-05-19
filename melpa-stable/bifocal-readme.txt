@@ -23,7 +23,7 @@ This version tested with Emacs 25.2.1
 
 See README.org for more details.
 
-Installation:
+; Installation:
 
 1. Move this file to a directory in your load-path or add
    this to your .emacs:

@@ -1,0 +1,29 @@
+Package: org-ehtml
+Fetcher: github
+Source:  https://github.com/eschulte/org-ehtml.git
+
+Updating /mnt/store/melpa/working/org-ehtml/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-ehtml/
+  to /tmp/org-ehtmlYSB8Oe/org-ehtml-20210428.1547
+  ! src/org-ehtml-server.el -> org-ehtml-server.el
+  ! src/org-ehtml-util.el -> org-ehtml-util.el
+  ! src/org-ehtml.el -> org-ehtml.el
+  ! src/ox-ehtml.el -> ox-ehtml.el
+  ! src/ox-ehtml.js -> ox-ehtml.js
+  ! src/ox-ehtml.css -> ox-ehtml.css
+Created org-ehtml-20210428.1547.tar containing:
+  org-ehtml-20210428.1547/
+  org-ehtml-20210428.1547/org-ehtml-pkg.el
+  org-ehtml-20210428.1547/org-ehtml-server.el
+  org-ehtml-20210428.1547/org-ehtml-util.el
+  org-ehtml-20210428.1547/org-ehtml.el
+  org-ehtml-20210428.1547/ox-ehtml.css
+  org-ehtml-20210428.1547/ox-ehtml.el
+  org-ehtml-20210428.1547/ox-ehtml.js
+Built org-ehtml in 4.315s, finished at Wed May 19 03:50:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  411 May 19 03:50 packages/org-ehtml-20210428.1547.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 03:50 packages/org-ehtml-20210428.1547.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:50 packages/org-ehtml-badge.svg
+4.0K -rw-r--r-- 1 root root  505 May 19 03:50 packages/org-ehtml-readme.txt

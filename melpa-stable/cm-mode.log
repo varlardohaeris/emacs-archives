@@ -1,0 +1,11 @@
+Package: cm-mode
+Fetcher: github
+Source:  https://github.com/joostkremers/criticmarkup-emacs.git
+
+Updating /mnt/store/melpa/working/cm-mode/
+Built cm-mode in 2.883s, finished at Wed May 19 04:23:44 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  36K May 19 04:23 packages-stable/cm-mode-1.6.el
+4.0K -rw-r--r-- 1 root root  311 May 19 04:23 packages-stable/cm-mode-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:23 packages-stable/cm-mode-readme.txt

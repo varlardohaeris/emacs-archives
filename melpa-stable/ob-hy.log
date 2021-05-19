@@ -1,0 +1,21 @@
+Package: ob-hy
+Fetcher: github
+Source:  https://github.com/brantou/ob-hy.git
+
+Updating /mnt/store/melpa/working/ob-hy/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ob-hy/
+  to /tmp/ob-hyD5RUFk/ob-hy-1.0.1
+    ob-hy.el -> ob-hy.el
+    test-ob-hy.el -> test-ob-hy.el
+Created ob-hy-1.0.1.tar containing:
+  ob-hy-1.0.1/
+  ob-hy-1.0.1/ob-hy-pkg.el
+  ob-hy-1.0.1/ob-hy.el
+  ob-hy-1.0.1/test-ob-hy.el
+Built ob-hy in 2.902s, finished at Wed May 19 01:38:09 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  370 May 19 01:38 packages-stable/ob-hy-1.0.1.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:38 packages-stable/ob-hy-1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-hy-badge.svg
+4.0K -rw-r--r-- 1 root root  317 May 19 01:38 packages-stable/ob-hy-readme.txt

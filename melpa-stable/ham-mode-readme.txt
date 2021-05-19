@@ -1,3 +1,4 @@
+
 ### Seamlessly edit an html file using markdown. ###
 
 **H**TML **a**s **M**arkdown.
@@ -34,3 +35,4 @@ For instance, the following snippet will activate `ham-mode' in any
 `.htm' file containing the word *email*.
 
         (add-to-list 'auto-mode-alist '(".*email.*\\.html?\\'" . ham-mode))
+

@@ -1,3 +1,4 @@
+
 This file defines a hash table for looking up stan function eldoc
 strings and stan eldoc-documentation-function.
 

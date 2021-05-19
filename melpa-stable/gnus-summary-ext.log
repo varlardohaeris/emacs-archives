@@ -1,0 +1,6 @@
+Package: gnus-summary-ext
+Fetcher: github
+Source:  https://github.com/vapniks/gnus-summary-ext.git
+
+Updating /mnt/store/melpa/working/gnus-summary-ext/
+No valid stable versions found for gnus-summary-ext

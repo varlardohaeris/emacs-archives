@@ -1,0 +1,6 @@
+Package: dime
+Fetcher: github
+Source:  https://github.com/dylan-lang/dylan-emacs-support.git
+
+Updating /mnt/store/melpa/working/dime/
+No valid stable versions found for dime

@@ -37,7 +37,7 @@ Usage:
                        ;; use autotags
                        ("owncloud+https://user@myhost.com"
                         :password "password"
-                        :autotags '(("example.com" comic)))))
+                        :autotags (("example.com" comic)))))
 
   ;; enable elfeed-protocol
   (elfeed-protocol-enable)

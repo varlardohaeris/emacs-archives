@@ -4,7 +4,7 @@ detail about w3m, see:
    http://w3m.sourceforge.net/
 
 
-How to install:
+; How to install:
 
 See the README file in any case.  We also recommend you check
 whether a newer version of w3m is released.

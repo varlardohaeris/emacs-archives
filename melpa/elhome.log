@@ -1,0 +1,26 @@
+Package: elhome
+Fetcher: github
+Source:  https://github.com/demyanrogozhin/elhome.git
+
+Updating /mnt/store/melpa/working/elhome/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elhome/
+  to /tmp/elhome1xpyke/elhome-20161025.2042
+    elhome.el -> elhome.el
+    startup => startup
+Created elhome-20161025.2042.tar containing:
+  elhome-20161025.2042/
+  elhome-20161025.2042/elhome-pkg.el
+  elhome-20161025.2042/elhome.el
+  elhome-20161025.2042/startup/
+  elhome-20161025.2042/startup/00-me-minor-mode.el
+  elhome-20161025.2042/startup/05-after-load.el
+  elhome-20161025.2042/startup/20-initsplit.el
+  elhome-20161025.2042/startup/30-elhome-settings.el
+  elhome-20161025.2042/startup/README
+Built elhome in 4.032s, finished at Wed May 19 03:15:06 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  374 May 19 03:15 packages/elhome-20161025.2042.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 03:15 packages/elhome-20161025.2042.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:15 packages/elhome-badge.svg
+4.0K -rw-r--r-- 1 root root  434 May 19 03:15 packages/elhome-readme.txt

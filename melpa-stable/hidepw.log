@@ -1,0 +1,6 @@
+Package: hidepw
+Fetcher: github
+Source:  https://github.com/jekor/hidepw.git
+
+Updating /mnt/store/melpa/working/hidepw/
+No valid stable versions found for hidepw

@@ -1,0 +1,6 @@
+Package: bpftrace-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/jgkamat/bpftrace-mode.git
+
+Updating /mnt/store/melpa/working/bpftrace-mode/
+No valid stable versions found for bpftrace-mode

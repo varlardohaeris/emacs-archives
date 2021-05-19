@@ -1,0 +1,6 @@
+Package: flycheck-ghcmod
+Fetcher: github
+Source:  https://github.com/scturtle/flycheck-ghcmod.git
+
+Updating /mnt/store/melpa/working/flycheck-ghcmod/
+No valid stable versions found for flycheck-ghcmod

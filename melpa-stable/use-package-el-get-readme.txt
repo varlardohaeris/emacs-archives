@@ -4,7 +4,7 @@
 (use-package req-package
   :el-get t)
 
-or
+;; or
 
 (use-package req-package
   :el-get req-package)

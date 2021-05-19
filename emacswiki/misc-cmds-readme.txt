@@ -2,16 +2,17 @@
 
  Commands defined here:
 
-   `beginning-of-line+', `beginning-of-visual-line+',
-   `beginning-or-indentation', `chgrp', `chmod', `chown',
-   `clear-regexp-search-history', `clear-regexp-search-ring'
-   `clear-search-history', `clear-search-ring',
-   `clear-search-histories', `comment-region-lines',
-   `compare-windows-repeat', `count-chars-in-region',
-   `delete-extra-windows-for-buffer', `delete-lines',
-   `delete-window-maybe-kill-buffer.', `end-of-line+',
-   `end-of-visual-line+.', `forward-char-same-line',
-   `forward-overlay', `goto-previous-mark',
+   `back-to-indentation+', `beginning-of-line+',
+   `beginning-of-visual-line+', `beginning-or-indentation',
+   `chgrp', `chmod', `chown', `clear-regexp-search-history',
+   `clear-regexp-search-ring' `clear-search-history',
+   `clear-search-ring', `clear-search-histories',
+   `comment-region-lines', `compare-windows-repeat',
+   `count-chars-in-region', `delete-extra-windows-for-buffer',
+   `delete-lines', `delete-window-maybe-kill-buffer.',
+   `end-of-line+', `end-of-visual-line+.',
+   `forward-char-same-line', `forward-overlay',
+   `forward-to-indentation+', `goto-previous-mark',
    `indent-rigidly-tab-stops', `indirect-buffer',
    `kill-buffer-and-its-windows', `list-colors-nearest',
    `list-colors-nearest-color-at', `mark-buffer-after-point',
@@ -67,8 +68,8 @@
   (define-key visual-line-mode-map [end]  'end-of-line+)
   (define-key visual-line-mode-map "\C-a" 'beginning-of-visual-line+)
   (define-key visual-line-mode-map "\C-e" 'end-of-visual-line+)
-  (global-set-key "\M-p"           'to-indentation-repeat-backward)
-  (global-set-key "\M-n"           'to-indentation-repeat-forward)
+  (global-set-key "\M-p"           'back-to-indentation+)
+  (global-set-key "\M-n"           'forward-to-indentation+)
 
   (global-set-key [remap mark-word]       'mark-whole-word)
   (global-set-key [remap previous-buffer] 'previous-buffer-repeat)

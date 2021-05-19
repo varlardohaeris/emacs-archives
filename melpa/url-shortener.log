@@ -1,0 +1,11 @@
+Package: url-shortener
+Fetcher: github
+Source:  https://github.com/yuyang0/url-shortener.git
+
+Updating /mnt/store/melpa/working/url-shortener/
+Built url-shortener in 3.900s, finished at Wed May 19 04:12:39 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:12 packages/url-shortener-20170805.242.el
+4.0K -rw-r--r-- 1 root root  325 May 19 04:12 packages/url-shortener-20170805.242.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:12 packages/url-shortener-badge.svg
+4.0K -rw-r--r-- 1 root root  256 May 19 04:12 packages/url-shortener-readme.txt

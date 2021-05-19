@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC>
-<html>
+<html lang="en" xml:lang="en">
     <head>
         <title>GNU ELPA - transient</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -22,9 +22,11 @@
             </div>
 
             <div class="container">
-<h2 class="package">transient</h2><dl><dt>Description</dt><dd></dd>
-<dd>This package has not been released yet.</dd>
-<dt>Browse repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/transient">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/transient">Gitweb</a></dd>
+<h2 class="package">transient</h2><dl><dt>Description</dt><dd>Transient commands</dd>
+<dt>Latest</dt> <dd><a href="transient-0.3.2.tar">transient-0.3.2.tar</a>, 2021-Apr-20,  390&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>Jonas Bernoulli &lt;jonas@bernoul.li></dd>
+<dt>Home page</dt> <dd><a href="https://github.com/magit/transient">https://github.com/magit/transient</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/transient">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/transient">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">transient</span> RET</pre><h2>Full description</h2><pre>
 Taking inspiration from prefix keys and prefix arguments, Transient
@@ -48,5 +50,106 @@ by reading a new value in the minibuffer.
 Calling a suffix command usually causes the transient to be exited
 but suffix commands can also be configured to not exit the
 transient state.
+</pre>
+<h2>Old versions</h2><table>
+<tr><td><a href="transient-0.3.0.tar.lz">transient-0.3.0.tar.lz</a></td><td>2021-Feb-27</td><td>68.2&nbsp;KiB</td>
+</table>
+<h2>News</h2><pre>
+# -*- mode: org -*-
+* v0.3.2    2021-04-20
+
+- Fix an error message.  c145229a
+
+* v0.3.1    2021-04-19
+
+- Changed ~transient-prefix~'s ~suffix-description~ slot to be initially
+  unbound, as was always intended.  c28b8a4
+
+- Added new functions ~transient-read-file~ and
+  ~transient-read-existing-file~.  a3b44224
+
+* v0.3.0    2021-02-21
+
+- As a temporary kludge prevent a transient from being invoked while
+  the minibuffer is active.  The next release will enable this again,
+  once we are sure that cannot cause Emacs to enter an inconsistent
+  state, that causes most events to be ignored.  #112
+
+- Improved the backtrace that is shown when a fatal error occured in a
+  critical context.  This involved some back and forth.  See commits
+  mentioning the "emergency exit".
+
+- Added support for defining a per-prefix fallback suffix description
+  function, which is used for suffixes that do not explicitly provide
+  a description.  The new ~suffix-description~ slot is used to specify
+  that function.  The new ~transient-command-summary-or-name~ function
+  is useful, not just as an example.  8b22b52b
+
+- Added ~transient-arg-value~, which can be used to extract the values
+  of individual arguments in the output of ~transient-args~.  d76f73f8
+
+- Added support for using variables in group and suffix definitions
+  of a prefix.  Such indirect specifications are resolved when the
+  transient prefix is being defined.  #101
+
+- No longer bind ~M-&lt;key>~ to any common suffix commands; freeing this
+  namespace for a variety of uses in individual transient.  A few
+  existing bindings had to be changed because of this.  990eb0a2
+
+- Added ~transient-suffixes~ function, which is useful when
+  ~transient-args~ is not sufficient because one needs the suffix
+  objects, not just their values.  #98
+
+- Added ~init-value~ slot for infix and prefix objects.  If this value
+  bound then it is called with the object as only argument instead of
+  the primary ~transient-init-value~ method of the object class.  #96,
+  3284f6a0
+
+- Added ~unsavable~ slot for infix objects.  If this is non-nil, then
+  the value of the infix is removed from the prefix value before
+  saving, setting and adding to history.  #96
+
+- Added support for right padding the keys of all suffixes in a group.
+  This is controlled using the new ~pad-keys~ slot of group objects.
+  7502390b, 293a437d
+
+- Added support for delaying setup of the suffixes of a prefix until
+  that is invoked.  Also added support for using unnamed functions as
+  suffix commands.  Taken together these changes make it possible to
+  dynamically create the list of suffixed.  See the ~notmuch-transient~
+  package for two examples: ~notmuch-search-transient~ and
+  ~notmuch-tag-transient~.  f2252d53, a3e53633
+
+- Added the infix class ~transient-lisp-variable~.  2d8ceff4
+
+- Added ~transient-infix-read~, which allows arbitrary commands to read
+  a value the same way as would the infix command that is provided as
+  an argument to this function.  73694be4
+
+- Added support for coloring suffixes in a Hydra-like fashion.
+  To enable this, customize option ~transient-semantic-coloring~.
+  248862c5
+
+- Added support for disabling and dimming suffix commands that are
+  currently not suitable, instead of completely hidding them.  #80
+
+- Autoload functions that serve a purpose similar to that of
+  ~define-key~. #85
+
+- Consistently use ~transient-~ as the prefix of all symbols.
+  The old names remain available as obsolete aliases.  dd0c44cb
+
+- Added support for scrolling the transient popup buffer using the
+  scroll bar.  #84
+
+- Various bug fixes.
+  48238bf5 Allow invoking arbitrary prefixes as non-suffixes
+  d85eb790 transient-read-directory: Pass read value through file-local-name
+  f086cb62 transient--insert-suffix: Allow same key with different predicates
+  d555d260 transient-format-description(lisp-variable): Return string
+  0d79ccfa transient--parse-suffix: Don't fallback to read-string for options
+  f88dbc43 transient-suffix-object: Support ...
+...
+
 </pre>
 </body>

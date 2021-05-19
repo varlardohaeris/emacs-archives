@@ -1,0 +1,29 @@
+Package: tuareg
+Fetcher: github
+Source:  https://github.com/ocaml/tuareg.git
+
+Updating /mnt/store/melpa/working/tuareg/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tuareg/
+  to /tmp/tuaregwpHoDP/tuareg-20210320.1929
+    dot-emacs.el -> dot-emacs.el
+    ocamldebug.el -> ocamldebug.el
+    tuareg-menhir.el -> tuareg-menhir.el
+    tuareg-opam.el -> tuareg-opam.el
+    tuareg-site-file.el -> tuareg-site-file.el
+    tuareg.el -> tuareg.el
+Created tuareg-20210320.1929.tar containing:
+  tuareg-20210320.1929/
+  tuareg-20210320.1929/dot-emacs.el
+  tuareg-20210320.1929/ocamldebug.el
+  tuareg-20210320.1929/tuareg-menhir.el
+  tuareg-20210320.1929/tuareg-opam.el
+  tuareg-20210320.1929/tuareg-pkg.el
+  tuareg-20210320.1929/tuareg-site-file.el
+  tuareg-20210320.1929/tuareg.el
+Built tuareg in 3.932s, finished at Wed May 19 04:11:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  616 May 19 04:11 packages/tuareg-20210320.1929.entry
+220K -rw-r--r-- 1 root root 220K May 19 04:11 packages/tuareg-20210320.1929.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/tuareg-badge.svg
+4.0K -rw-r--r-- 1 root root  441 May 19 04:11 packages/tuareg-readme.txt

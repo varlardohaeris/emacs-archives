@@ -68,11 +68,11 @@ parsers of LaTeX fragments in the variable
 `texfrag-next-frag-function' (see the documentation of that variable).
 
 
-Requirements:
+; Requirements:
 - depends on Emacs "25" (because of when-let)
 - requires AUCTeX with preview.el.
 
-Important changes
+; Important changes
 Here we list changes that may have an impact on the user configuration.
 
 2018-03-05:

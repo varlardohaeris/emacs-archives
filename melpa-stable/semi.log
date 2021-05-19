@@ -1,0 +1,6 @@
+Package: semi
+Fetcher: github
+Source:  https://github.com/wanderlust/semi.git
+
+Updating /mnt/store/melpa/working/semi/
+No valid stable versions found for semi

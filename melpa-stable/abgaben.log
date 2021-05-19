@@ -1,0 +1,6 @@
+Package: abgaben
+Fetcher: gitlab
+Source:  https://gitlab.com/akoehn/abgaben.git
+
+Updating /mnt/store/melpa/working/abgaben/
+No valid stable versions found for abgaben

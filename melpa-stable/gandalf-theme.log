@@ -1,0 +1,6 @@
+Package: gandalf-theme
+Fetcher: github
+Source:  https://github.com/ptrv/gandalf-theme-emacs.git
+
+Updating /mnt/store/melpa/working/gandalf-theme/
+No valid stable versions found for gandalf-theme

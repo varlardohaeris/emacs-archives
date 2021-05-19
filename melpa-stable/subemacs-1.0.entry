@@ -1,2 +1,9 @@
-
-(subemacs . [(1 0) nil "Evaluating expressions in a fresh Emacs subprocess" single ((:commit . "24f0896f1995a3ea42a58b0452d250dcc6802944") (:keywords "extensions" "lisp" "multiprocessing") (:authors ("Klaus-Dieter Bauer" . "bauer.klaus.dieter@gmail.com")) (:maintainer "Klaus-Dieter Bauer" . "bauer.klaus.dieter@gmail.com") (:url . "https://github.com/kbauer/subemacs"))])
+(subemacs .
+	  [(1 0)
+	   nil "Evaluating expressions in a fresh Emacs subprocess" single
+	   ((:commit . "24f0896f1995a3ea42a58b0452d250dcc6802944")
+	    (:authors
+	     ("Klaus-Dieter Bauer" . "bauer.klaus.dieter@gmail.com"))
+	    (:maintainer "Klaus-Dieter Bauer" . "bauer.klaus.dieter@gmail.com")
+	    (:keywords "extensions" "lisp" "multiprocessing")
+	    (:url . "https://github.com/kbauer/subemacs"))])

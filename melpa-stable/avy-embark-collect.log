@@ -1,0 +1,11 @@
+Package: avy-embark-collect
+Fetcher: github
+Source:  https://github.com/oantolin/embark.git
+
+Updating /mnt/store/melpa/working/avy-embark-collect/
+Built avy-embark-collect in 3.883s, finished at Wed May 19 04:20:31 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.2K May 19 04:20 packages-stable/avy-embark-collect-0.10.el
+4.0K -rw-r--r-- 1 root root  490 May 19 04:20 packages-stable/avy-embark-collect-0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/avy-embark-collect-badge.svg
+4.0K -rw-r--r-- 1 root root  185 May 19 04:20 packages-stable/avy-embark-collect-readme.txt

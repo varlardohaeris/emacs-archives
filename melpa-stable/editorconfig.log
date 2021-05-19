@@ -1,0 +1,39 @@
+Package: editorconfig
+Fetcher: github
+Source:  https://github.com/editorconfig/editorconfig-emacs.git
+
+Updating /mnt/store/melpa/working/editorconfig/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/editorconfig/
+  to /tmp/editorconfigGWKukn/editorconfig-0.8.1
+    editorconfig-conf-mode.el -> editorconfig-conf-mode.el
+    editorconfig-core-handle.el -> editorconfig-core-handle.el
+    editorconfig-core.el -> editorconfig-core.el
+    editorconfig-fnmatch.el -> editorconfig-fnmatch.el
+    editorconfig.el -> editorconfig.el
+  ! doc/editorconfig.texi -> editorconfig.texi
+Created /tmp/editorconfigGWKukn/editorconfig-0.8.1/editorconfig.info
+Created editorconfig-0.8.1.tar containing:
+  editorconfig-0.8.1/
+  editorconfig-0.8.1/dir
+  editorconfig-0.8.1/editorconfig-conf-mode.el
+  editorconfig-0.8.1/editorconfig-core-handle.el
+  editorconfig-0.8.1/editorconfig-core.el
+  editorconfig-0.8.1/editorconfig-fnmatch.el
+  editorconfig-0.8.1/editorconfig-pkg.el
+  editorconfig-0.8.1/editorconfig.el
+  editorconfig-0.8.1/editorconfig.info
+Built editorconfig in 7.767s, finished at Wed May 19 04:29:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  398 May 19 04:29 packages-stable/editorconfig-0.8.1.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 04:29 packages-stable/editorconfig-0.8.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/editorconfig-badge.svg
+4.0K -rw-r--r-- 1 root root  248 May 19 04:29 packages-stable/editorconfig-charset-extras.log
+8.0K -rw-r--r-- 1 root root 6.1K May 19 04:29 packages-stable/editorconfig-custom-majormode-0.0.3.el
+4.0K -rw-r--r-- 1 root root  452 May 19 04:29 packages-stable/editorconfig-custom-majormode-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/editorconfig-custom-majormode-badge.svg
+4.0K -rw-r--r-- 1 root root  657 May 19 04:29 packages-stable/editorconfig-custom-majormode-readme.txt
+4.0K -rw-r--r-- 1 root root  699 May 19 04:29 packages-stable/editorconfig-custom-majormode.log
+4.0K -rw-r--r-- 1 root root  257 May 19 04:29 packages-stable/editorconfig-domain-specific.log
+4.0K -rw-r--r-- 1 root root  224 May 19 04:29 packages-stable/editorconfig-generate.log
+4.0K -rw-r--r-- 1 root root  394 May 19 04:29 packages-stable/editorconfig-readme.txt

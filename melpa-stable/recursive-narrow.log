@@ -1,0 +1,6 @@
+Package: recursive-narrow
+Fetcher: github
+Source:  https://github.com/nflath/recursive-narrow.git
+
+Updating /mnt/store/melpa/working/recursive-narrow/
+No valid stable versions found for recursive-narrow

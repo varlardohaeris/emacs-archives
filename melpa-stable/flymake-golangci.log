@@ -1,0 +1,6 @@
+Package: flymake-golangci
+Fetcher: gitlab
+Source:  https://gitlab.com/shackra/flymake-golangci.git
+
+Updating /mnt/store/melpa/working/flymake-golangci/
+No valid stable versions found for flymake-golangci

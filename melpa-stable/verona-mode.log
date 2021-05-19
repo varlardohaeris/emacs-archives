@@ -1,0 +1,6 @@
+Package: verona-mode
+Fetcher: github
+Source:  https://github.com/damon-kwok/verona-mode.git
+
+Updating /mnt/store/melpa/working/verona-mode/
+No valid stable versions found for verona-mode

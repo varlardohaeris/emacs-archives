@@ -1,0 +1,6 @@
+Package: scribble-mode
+Fetcher: github
+Source:  https://github.com/emacs-pe/scribble-mode.git
+
+Updating /mnt/store/melpa/working/scribble-mode/
+No valid stable versions found for scribble-mode

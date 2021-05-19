@@ -1,0 +1,6 @@
+Package: phi-grep
+Fetcher: github
+Source:  https://github.com/zk-phi/phi-grep.git
+
+Updating /mnt/store/melpa/working/phi-grep/
+No valid stable versions found for phi-grep

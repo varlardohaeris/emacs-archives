@@ -1,0 +1,11 @@
+(openfoam .
+	  [(0 13)
+	   ((emacs
+	     (25 1)))
+	   "OpenFOAM files and directories" single
+	   ((:commit . "7808319de0326aa293636df6c213467c279ff1ea")
+	    (:authors
+	     ("Ralph Schleicher" . "rs@ralph-schleicher.de"))
+	    (:maintainer "Ralph Schleicher" . "rs@ralph-schleicher.de")
+	    (:keywords "languages")
+	    (:url . "https://github.com/ralph-schleicher/emacs-openfoam"))])

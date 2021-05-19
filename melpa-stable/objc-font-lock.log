@@ -1,0 +1,6 @@
+Package: objc-font-lock
+Fetcher: github
+Source:  https://github.com/Lindydancer/objc-font-lock.git
+
+Updating /mnt/store/melpa/working/objc-font-lock/
+No valid stable versions found for objc-font-lock

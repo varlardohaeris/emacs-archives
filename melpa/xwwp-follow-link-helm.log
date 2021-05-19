@@ -1,0 +1,11 @@
+Package: xwwp-follow-link-helm
+Fetcher: github
+Source:  https://github.com/canatella/xwwp.git
+
+Updating /mnt/store/melpa/working/xwwp-follow-link-helm/
+Built xwwp-follow-link-helm in 3.957s, finished at Wed May 19 04:16:48 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K May 19 04:16 packages/xwwp-follow-link-helm-20200917.642.el
+4.0K -rw-r--r-- 1 root root  382 May 19 04:16 packages/xwwp-follow-link-helm-20200917.642.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:16 packages/xwwp-follow-link-helm-badge.svg
+4.0K -rw-r--r-- 1 root root   95 May 19 04:16 packages/xwwp-follow-link-helm-readme.txt

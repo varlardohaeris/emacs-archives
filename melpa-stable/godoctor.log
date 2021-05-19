@@ -1,0 +1,11 @@
+Package: godoctor
+Fetcher: github
+Source:  https://github.com/microamp/godoctor.el.git
+
+Updating /mnt/store/melpa/working/godoctor/
+Built godoctor in 3.102s, finished at Wed May 19 04:38:10 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.9K May 19 04:38 packages-stable/godoctor-0.6.0.el
+4.0K -rw-r--r-- 1 root root  350 May 19 04:38 packages-stable/godoctor-0.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/godoctor-badge.svg
+4.0K -rw-r--r-- 1 root root   22 May 19 04:38 packages-stable/godoctor-readme.txt

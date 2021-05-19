@@ -1,0 +1,6 @@
+Package: playonline
+Fetcher: github
+Source:  https://github.com/twlz0ne/playonline.el.git
+
+Updating /mnt/store/melpa/working/playonline/
+No valid stable versions found for playonline

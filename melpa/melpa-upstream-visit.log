@@ -1,0 +1,11 @@
+Package: melpa-upstream-visit
+Fetcher: github
+Source:  https://github.com/laynor/melpa-upstream-visit.git
+
+Updating /mnt/store/melpa/working/melpa-upstream-visit/
+Built melpa-upstream-visit in 4.864s, finished at Wed May 19 03:43:40 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 03:43 packages/melpa-upstream-visit-20130720.1033.el
+4.0K -rw-r--r-- 1 root root  368 May 19 03:43 packages/melpa-upstream-visit-20130720.1033.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:43 packages/melpa-upstream-visit-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:43 packages/melpa-upstream-visit-readme.txt

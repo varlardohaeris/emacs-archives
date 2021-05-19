@@ -1,0 +1,11 @@
+Package: mugur
+Fetcher: github
+Source:  https://github.com/mihaiolteanu/mugur.git
+
+Updating /mnt/store/melpa/working/mugur/
+Built mugur in 4.204s, finished at Wed May 19 01:36:27 2021
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  48K May 19 01:36 packages-stable/mugur-2.0.el
+4.0K -rw-r--r-- 1 root root  443 May 19 01:36 packages-stable/mugur-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mugur-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 01:36 packages-stable/mugur-readme.txt

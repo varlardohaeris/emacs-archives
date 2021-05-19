@@ -1,0 +1,11 @@
+Package: sxiv
+Fetcher: git
+Source:  https://tildegit.org/contrapunctus/sxiv
+
+Updating /mnt/store/melpa/working/sxiv/
+Built sxiv in 2.896s, finished at Wed May 19 01:50:55 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.6K May 19 01:50 packages-stable/sxiv-0.4.1.el
+4.0K -rw-r--r-- 1 root root  384 May 19 01:50 packages-stable/sxiv-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sxiv-badge.svg
+4.0K -rw-r--r-- 1 root root  204 May 19 01:50 packages-stable/sxiv-readme.txt

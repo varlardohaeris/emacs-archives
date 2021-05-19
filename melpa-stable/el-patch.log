@@ -1,0 +1,11 @@
+Package: el-patch
+Fetcher: github
+Source:  https://github.com/raxod502/el-patch.git
+
+Updating /mnt/store/melpa/working/el-patch/
+Built el-patch in 3.037s, finished at Wed May 19 04:29:47 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  41K May 19 04:29 packages-stable/el-patch-2.3.1.el
+4.0K -rw-r--r-- 1 root root  363 May 19 04:29 packages-stable/el-patch-2.3.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/el-patch-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:29 packages-stable/el-patch-readme.txt

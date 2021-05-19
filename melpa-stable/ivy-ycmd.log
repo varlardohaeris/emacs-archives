@@ -1,0 +1,6 @@
+Package: ivy-ycmd
+Fetcher: github
+Source:  https://github.com/abingham/emacs-ivy-ycmd.git
+
+Updating /mnt/store/melpa/working/ivy-ycmd/
+No valid stable versions found for ivy-ycmd

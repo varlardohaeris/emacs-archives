@@ -1,3 +1,4 @@
+
 Allow to switch from current user to sudo when browsind `dired' buffers.
 
 To activate and swit with "C-c C-s" just put in your .emacs:
@@ -8,4 +9,4 @@ To activate and swit with "C-c C-s" just put in your .emacs:
  '(progn
     ;; Allow to use: /sudo:user@host:/path/to/file
     (add-to-list 'tramp-default-proxies-alist
-		  '(".*" "\\`.+\\'" "/ssh:%h:"))))
+	  '(".*" "\\`.+\\'" "/ssh:%h:"))))

@@ -1,0 +1,11 @@
+Package: flycheck-package
+Fetcher: github
+Source:  https://github.com/purcell/flycheck-package.git
+
+Updating /mnt/store/melpa/working/flycheck-package/
+Built flycheck-package in 3.856s, finished at Wed May 19 04:35:03 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K May 19 04:35 packages-stable/flycheck-package-0.14.el
+4.0K -rw-r--r-- 1 root root  511 May 19 04:35 packages-stable/flycheck-package-0.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-package-badge.svg
+4.0K -rw-r--r-- 1 root root  341 May 19 04:35 packages-stable/flycheck-package-readme.txt

@@ -1,0 +1,6 @@
+Package: origami
+Fetcher: github
+Source:  https://github.com/gregsexton/origami.el.git
+
+Updating /mnt/store/melpa/working/origami/
+No valid stable versions found for origami

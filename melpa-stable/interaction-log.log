@@ -1,0 +1,6 @@
+Package: interaction-log
+Fetcher: github
+Source:  https://github.com/michael-heerdegen/interaction-log.el.git
+
+Updating /mnt/store/melpa/working/interaction-log/
+No valid stable versions found for interaction-log

@@ -2,7 +2,7 @@ This packages integrates the Coverity `cov-run-desktop' Fast Desktop
 Analysis tool with flycheck to automatically detect any new defects in your
 code on the fly.
 
-Setup
+;; Setup
 
 (with-eval-after-load 'flycheck
    (require 'flycheck-coverity)

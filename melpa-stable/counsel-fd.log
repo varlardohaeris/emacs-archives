@@ -1,0 +1,6 @@
+Package: counsel-fd
+Fetcher: github
+Source:  https://github.com/CsBigDataHub/counsel-fd.git
+
+Updating /mnt/store/melpa/working/counsel-fd/
+No valid stable versions found for counsel-fd

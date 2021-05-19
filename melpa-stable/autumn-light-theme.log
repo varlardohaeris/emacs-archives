@@ -1,0 +1,6 @@
+Package: autumn-light-theme
+Fetcher: github
+Source:  https://github.com/aalpern/emacs-color-theme-autumn-light.git
+
+Updating /mnt/store/melpa/working/autumn-light-theme/
+No valid stable versions found for autumn-light-theme

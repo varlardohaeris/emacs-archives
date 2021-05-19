@@ -1,0 +1,6 @@
+Package: psc-ide
+Fetcher: github
+Source:  https://github.com/purescript-emacs/psc-ide-emacs.git
+
+Updating /mnt/store/melpa/working/psc-ide/
+No valid stable versions found for psc-ide

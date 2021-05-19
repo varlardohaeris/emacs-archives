@@ -1,0 +1,6 @@
+Package: scalariform
+Fetcher: github
+Source:  https://github.com/zwild/scalariform.git
+
+Updating /mnt/store/melpa/working/scalariform/
+No valid stable versions found for scalariform

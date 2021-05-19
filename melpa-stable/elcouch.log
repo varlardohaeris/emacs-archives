@@ -1,0 +1,11 @@
+Package: elcouch
+Fetcher: github
+Source:  https://github.com/DamienCassou/elcouch.git
+
+Updating /mnt/store/melpa/working/elcouch/
+Built elcouch in 2.871s, finished at Wed May 19 04:29:54 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.0K May 19 04:29 packages-stable/elcouch-0.11.0.el
+4.0K -rw-r--r-- 1 root root  453 May 19 04:29 packages-stable/elcouch-0.11.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/elcouch-badge.svg
+4.0K -rw-r--r-- 1 root root   39 May 19 04:29 packages-stable/elcouch-readme.txt

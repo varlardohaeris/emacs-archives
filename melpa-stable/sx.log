@@ -1,0 +1,71 @@
+Package: sx
+Fetcher: github
+Source:  https://github.com/vermiculus/sx.el.git
+
+Updating /mnt/store/melpa/working/sx/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sx/
+  to /tmp/sx7K2yKa/sx-0.4
+    sx-auth.el -> sx-auth.el
+    sx-babel.el -> sx-babel.el
+    sx-button.el -> sx-button.el
+    sx-cache.el -> sx-cache.el
+    sx-compose.el -> sx-compose.el
+    sx-encoding.el -> sx-encoding.el
+    sx-favorites.el -> sx-favorites.el
+    sx-filter.el -> sx-filter.el
+    sx-inbox.el -> sx-inbox.el
+    sx-interaction.el -> sx-interaction.el
+    sx-load.el -> sx-load.el
+    sx-method.el -> sx-method.el
+    sx-networks.el -> sx-networks.el
+    sx-notify.el -> sx-notify.el
+    sx-question-list.el -> sx-question-list.el
+    sx-question-mode.el -> sx-question-mode.el
+    sx-question-print.el -> sx-question-print.el
+    sx-question.el -> sx-question.el
+    sx-request.el -> sx-request.el
+    sx-search.el -> sx-search.el
+    sx-site.el -> sx-site.el
+    sx-switchto.el -> sx-switchto.el
+    sx-tab.el -> sx-tab.el
+    sx-tag.el -> sx-tag.el
+    sx-time.el -> sx-time.el
+    sx-user.el -> sx-user.el
+    sx.el -> sx.el
+Created sx-0.4.tar containing:
+  sx-0.4/
+  sx-0.4/sx-auth.el
+  sx-0.4/sx-babel.el
+  sx-0.4/sx-button.el
+  sx-0.4/sx-cache.el
+  sx-0.4/sx-compose.el
+  sx-0.4/sx-encoding.el
+  sx-0.4/sx-favorites.el
+  sx-0.4/sx-filter.el
+  sx-0.4/sx-inbox.el
+  sx-0.4/sx-interaction.el
+  sx-0.4/sx-load.el
+  sx-0.4/sx-method.el
+  sx-0.4/sx-networks.el
+  sx-0.4/sx-notify.el
+  sx-0.4/sx-pkg.el
+  sx-0.4/sx-question-list.el
+  sx-0.4/sx-question-mode.el
+  sx-0.4/sx-question-print.el
+  sx-0.4/sx-question.el
+  sx-0.4/sx-request.el
+  sx-0.4/sx-search.el
+  sx-0.4/sx-site.el
+  sx-0.4/sx-switchto.el
+  sx-0.4/sx-tab.el
+  sx-0.4/sx-tag.el
+  sx-0.4/sx-time.el
+  sx-0.4/sx-user.el
+  sx-0.4/sx.el
+Built sx in 2.956s, finished at Wed May 19 01:50:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  553 May 19 01:50 packages-stable/sx-0.4.entry
+260K -rw-r--r-- 1 root root 260K May 19 01:50 packages-stable/sx-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sx-badge.svg
+4.0K -rw-r--r-- 1 root root   64 May 19 01:50 packages-stable/sx-readme.txt

@@ -1,0 +1,6 @@
+Package: flappymacs
+Fetcher: github
+Source:  https://github.com/taksatou/flappymacs.git
+
+Updating /mnt/store/melpa/working/flappymacs/
+No valid stable versions found for flappymacs

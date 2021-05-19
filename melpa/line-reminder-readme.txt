@@ -1,1 +1,2 @@
-Line annotation similar to Visual Studio.
+
+Line annotation for changed and saved lines.

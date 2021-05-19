@@ -1,0 +1,11 @@
+Package: green-screen-theme
+Fetcher: github
+Source:  https://github.com/rbanffy/green-screen-emacs.git
+
+Updating /mnt/store/melpa/working/green-screen-theme/
+Built green-screen-theme in 7.324s, finished at Wed May 19 04:38:43 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.8K May 19 04:38 packages-stable/green-screen-theme-1.0.26.el
+4.0K -rw-r--r-- 1 root root  404 May 19 04:38 packages-stable/green-screen-theme-1.0.26.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/green-screen-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  551 May 19 04:38 packages-stable/green-screen-theme-readme.txt

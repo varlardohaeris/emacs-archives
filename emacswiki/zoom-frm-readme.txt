@@ -34,7 +34,7 @@
 
    Frame parameter changes, such as font size, can be saved for
    future use by all frames or all frames of a certain kind.  For
-   that, you must change the frame parameters of the correponding
+   that, you must change the frame parameters of the corresponding
    frame-alist variable.
 
    There is no single variable for saving changes to parameters of
@@ -98,7 +98,7 @@
    (when (boundp 'mouse-wheel-up-event) ; Emacs 22+
      (global-set-key (vector (list 'control
                                    mouse-wheel-up-event))
-                     'zoom-out))
+                     'zoom-out)
      (global-set-key (vector (list 'control 'meta
                                    mouse-wheel-up-event))
                      'zoom-all-frames-out))

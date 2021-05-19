@@ -1,0 +1,6 @@
+Package: run-command
+Fetcher: github
+Source:  https://github.com/bard/emacs-run-command.git
+
+Updating /mnt/store/melpa/working/run-command/
+No valid stable versions found for run-command

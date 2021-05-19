@@ -1,0 +1,6 @@
+Package: frecency
+Fetcher: github
+Source:  https://github.com/alphapapa/frecency.el.git
+
+Updating /mnt/store/melpa/working/frecency/
+No valid stable versions found for frecency

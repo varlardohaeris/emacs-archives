@@ -1,0 +1,6 @@
+Package: ivy-pass
+Fetcher: github
+Source:  https://github.com/ecraven/ivy-pass.git
+
+Updating /mnt/store/melpa/working/ivy-pass/
+No valid stable versions found for ivy-pass

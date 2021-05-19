@@ -1,0 +1,11 @@
+Package: gpastel
+Fetcher: github
+Source:  https://github.com/DamienCassou/gpastel.git
+
+Updating /mnt/store/melpa/working/gpastel/
+Built gpastel in 3.330s, finished at Wed May 19 04:38:26 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.3K May 19 04:38 packages-stable/gpastel-0.5.0.el
+4.0K -rw-r--r-- 1 root root  369 May 19 04:38 packages-stable/gpastel-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/gpastel-badge.svg
+4.0K -rw-r--r-- 1 root root  945 May 19 04:38 packages-stable/gpastel-readme.txt

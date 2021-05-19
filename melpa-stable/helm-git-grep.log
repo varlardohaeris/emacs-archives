@@ -1,0 +1,11 @@
+Package: helm-git-grep
+Fetcher: github
+Source:  https://github.com/yasuyk/helm-git-grep.git
+
+Updating /mnt/store/melpa/working/helm-git-grep/
+Built helm-git-grep in 3.209s, finished at Wed May 19 04:40:25 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  29K May 19 04:40 packages-stable/helm-git-grep-0.10.1.el
+4.0K -rw-r--r-- 1 root root  320 May 19 04:40 packages-stable/helm-git-grep-0.10.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-git-grep-badge.svg
+4.0K -rw-r--r-- 1 root root  593 May 19 04:40 packages-stable/helm-git-grep-readme.txt

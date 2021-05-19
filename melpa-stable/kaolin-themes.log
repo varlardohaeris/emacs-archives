@@ -1,0 +1,53 @@
+Package: kaolin-themes
+Fetcher: github
+Source:  https://github.com/ogdenwebb/emacs-kaolin-themes.git
+
+Updating /mnt/store/melpa/working/kaolin-themes/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kaolin-themes/
+  to /tmp/kaolin-themesyoqXhF/kaolin-themes-1.6.4
+    kaolin-themes-lib.el -> kaolin-themes-lib.el
+    kaolin-themes-treemacs.el -> kaolin-themes-treemacs.el
+    kaolin-themes.el -> kaolin-themes.el
+  ! themes/kaolin-aurora-theme.el -> kaolin-aurora-theme.el
+  ! themes/kaolin-blossom-theme.el -> kaolin-blossom-theme.el
+  ! themes/kaolin-breeze-theme.el -> kaolin-breeze-theme.el
+  ! themes/kaolin-bubblegum-theme.el -> kaolin-bubblegum-theme.el
+  ! themes/kaolin-dark-theme.el -> kaolin-dark-theme.el
+  ! themes/kaolin-eclipse-theme.el -> kaolin-eclipse-theme.el
+  ! themes/kaolin-galaxy-theme.el -> kaolin-galaxy-theme.el
+  ! themes/kaolin-light-theme.el -> kaolin-light-theme.el
+  ! themes/kaolin-mono-dark-theme.el -> kaolin-mono-dark-theme.el
+  ! themes/kaolin-mono-light-theme.el -> kaolin-mono-light-theme.el
+  ! themes/kaolin-ocean-theme.el -> kaolin-ocean-theme.el
+  ! themes/kaolin-shiva-theme.el -> kaolin-shiva-theme.el
+  ! themes/kaolin-temple-theme.el -> kaolin-temple-theme.el
+  ! themes/kaolin-valley-dark-theme.el -> kaolin-valley-dark-theme.el
+  ! themes/kaolin-valley-light-theme.el -> kaolin-valley-light-theme.el
+Created kaolin-themes-1.6.4.tar containing:
+  kaolin-themes-1.6.4/
+  kaolin-themes-1.6.4/kaolin-aurora-theme.el
+  kaolin-themes-1.6.4/kaolin-blossom-theme.el
+  kaolin-themes-1.6.4/kaolin-breeze-theme.el
+  kaolin-themes-1.6.4/kaolin-bubblegum-theme.el
+  kaolin-themes-1.6.4/kaolin-dark-theme.el
+  kaolin-themes-1.6.4/kaolin-eclipse-theme.el
+  kaolin-themes-1.6.4/kaolin-galaxy-theme.el
+  kaolin-themes-1.6.4/kaolin-light-theme.el
+  kaolin-themes-1.6.4/kaolin-mono-dark-theme.el
+  kaolin-themes-1.6.4/kaolin-mono-light-theme.el
+  kaolin-themes-1.6.4/kaolin-ocean-theme.el
+  kaolin-themes-1.6.4/kaolin-shiva-theme.el
+  kaolin-themes-1.6.4/kaolin-temple-theme.el
+  kaolin-themes-1.6.4/kaolin-themes-lib.el
+  kaolin-themes-1.6.4/kaolin-themes-pkg.el
+  kaolin-themes-1.6.4/kaolin-themes-treemacs.el
+  kaolin-themes-1.6.4/kaolin-themes.el
+  kaolin-themes-1.6.4/kaolin-valley-dark-theme.el
+  kaolin-themes-1.6.4/kaolin-valley-light-theme.el
+Built kaolin-themes in 3.471s, finished at Wed May 19 04:45:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  465 May 19 04:45 packages-stable/kaolin-themes-1.6.4.entry
+180K -rw-r--r-- 1 root root 180K May 19 04:45 packages-stable/kaolin-themes-1.6.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kaolin-themes-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:45 packages-stable/kaolin-themes-readme.txt

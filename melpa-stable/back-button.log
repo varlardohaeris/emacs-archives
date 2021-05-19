@@ -1,0 +1,11 @@
+Package: back-button
+Fetcher: github
+Source:  https://github.com/rolandwalker/back-button.git
+
+Updating /mnt/store/melpa/working/back-button/
+Built back-button in 2.903s, finished at Wed May 19 04:20:36 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  37K May 19 04:20 packages-stable/back-button-0.6.6.el
+4.0K -rw-r--r-- 1 root root  542 May 19 04:20 packages-stable/back-button-0.6.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/back-button-badge.svg
+8.0K -rw-r--r-- 1 root root 6.9K May 19 04:20 packages-stable/back-button-readme.txt

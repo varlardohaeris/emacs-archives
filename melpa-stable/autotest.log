@@ -1,0 +1,6 @@
+Package: autotest
+Fetcher: github
+Source:  https://github.com/zenspider/elisp.git
+
+Updating /mnt/store/melpa/working/autotest/
+No valid stable versions found for autotest

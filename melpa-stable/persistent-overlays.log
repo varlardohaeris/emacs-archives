@@ -1,0 +1,6 @@
+Package: persistent-overlays
+Fetcher: github
+Source:  https://github.com/mneilly/Emacs-Persistent-Overlays.git
+
+Updating /mnt/store/melpa/working/persistent-overlays/
+No valid stable versions found for persistent-overlays

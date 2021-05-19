@@ -1,0 +1,6 @@
+Package: helm-shell-history
+Fetcher: github
+Source:  https://github.com/anoopemacs/helm-shell-history.git
+
+Updating /mnt/store/melpa/working/helm-shell-history/
+No valid stable versions found for helm-shell-history

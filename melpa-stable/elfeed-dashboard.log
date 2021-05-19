@@ -1,0 +1,6 @@
+Package: elfeed-dashboard
+Fetcher: github
+Source:  https://github.com/Manoj321/elfeed-dashboard.git
+
+Updating /mnt/store/melpa/working/elfeed-dashboard/
+No valid stable versions found for elfeed-dashboard

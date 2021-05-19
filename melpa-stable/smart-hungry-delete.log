@@ -1,0 +1,6 @@
+Package: smart-hungry-delete
+Fetcher: github
+Source:  https://github.com/hrehfeld/emacs-smart-hungry-delete.git
+
+Updating /mnt/store/melpa/working/smart-hungry-delete/
+No valid stable versions found for smart-hungry-delete

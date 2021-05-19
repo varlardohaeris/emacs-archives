@@ -1,0 +1,16 @@
+Package: rtags
+Fetcher: github
+Source:  https://github.com/Andersbakken/rtags.git
+
+Updating /mnt/store/melpa/working/rtags/
+Built rtags in 4.773s, finished at Wed May 19 01:47:03 2021
+ ✓ Success:
+240K -rw-r--r-- 1 root root 239K May 19 01:47 packages-stable/rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  312 May 19 01:47 packages-stable/rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:47 packages-stable/rtags-readme.txt
+8.0K -rw-r--r-- 1 root root 5.0K Dec 18 17:16 packages-stable/rtags-xref-2.38.el
+4.0K -rw-r--r-- 1 root root  253 Dec 18 17:16 packages-stable/rtags-xref-2.38.entry
+4.0K -rw-r--r-- 1 root root 1.2K Dec 18 17:16 packages-stable/rtags-xref-badge.svg
+4.0K -rw-r--r-- 1 root root  546 Dec 18 17:16 packages-stable/rtags-xref-readme.txt
+4.0K -rw-r--r-- 1 root root  221 May 19 01:47 packages-stable/rtags-xref.log

@@ -1,3 +1,4 @@
+
  gnus-alias provides a simple mechanism to switch Identities when
  using a message-mode or a message-mode derived mode.  An Identity
  is one or more of the following elements:
@@ -41,7 +42,7 @@
  `message-alternative-emails' (which see), though I'm not exactly
  sure what that really does.
 
-Installation:
+; Installation:
 
  Put this file on your Emacs-Lisp load path, then add one of the
  following to your ~/.emacs startup file.  You can load gnus-alias

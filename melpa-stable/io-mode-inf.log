@@ -1,0 +1,6 @@
+Package: io-mode-inf
+Fetcher: github
+Source:  https://github.com/slackorama/io-emacs.git
+
+Updating /mnt/store/melpa/working/io-mode-inf/
+No valid stable versions found for io-mode-inf

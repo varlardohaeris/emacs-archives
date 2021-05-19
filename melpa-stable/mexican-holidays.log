@@ -1,0 +1,6 @@
+Package: mexican-holidays
+Fetcher: github
+Source:  https://github.com/sggutier/mexican-holidays.git
+
+Updating /mnt/store/melpa/working/mexican-holidays/
+No valid stable versions found for mexican-holidays

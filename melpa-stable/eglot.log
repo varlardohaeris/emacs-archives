@@ -1,0 +1,21 @@
+Package: eglot
+Fetcher: github
+Source:  https://github.com/joaotavora/eglot.git
+
+Updating /mnt/store/melpa/working/eglot/
+Built eglot in 3.817s, finished at Wed May 19 04:29:36 2021
+ ✓ Success:
+128K -rw-r--r-- 1 root root 125K May 19 04:29 packages-stable/eglot-1.7.el
+4.0K -rw-r--r-- 1 root root  481 May 19 04:29 packages-stable/eglot-1.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eglot-badge.svg
+8.0K -rw-r--r-- 1 root root 4.5K May 19 01:14 packages-stable/eglot-fsharp-1.10.el
+4.0K -rw-r--r-- 1 root root  312 May 19 01:14 packages-stable/eglot-fsharp-1.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:14 packages-stable/eglot-fsharp-badge.svg
+4.0K -rw-r--r-- 1 root root   21 May 19 01:14 packages-stable/eglot-fsharp-readme.txt
+4.0K -rw-r--r-- 1 root root  144 May 19 04:29 packages-stable/eglot-fsharp.log
+4.0K -rw-r--r-- 1 root root  438 May 19 01:14 packages-stable/eglot-jl-2.1.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:14 packages-stable/eglot-jl-2.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:14 packages-stable/eglot-jl-badge.svg
+4.0K -rw-r--r-- 1 root root  332 May 19 01:14 packages-stable/eglot-jl-readme.txt
+4.0K -rw-r--r-- 1 root root  129 May 19 04:29 packages-stable/eglot-jl.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eglot-readme.txt

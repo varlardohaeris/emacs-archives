@@ -1,6 +1,6 @@
 Purpose:
 
- Interactively clean up unused IDs of org-id.
+ Interactively find and clean up unused IDs of org-id.
  The term 'unused' refers to IDs, that have been created by org-id
  regularly, but are now no longer referenced from anywhere within in org.
  This might e.g. happen by deleting a link, that once referenced such an id.

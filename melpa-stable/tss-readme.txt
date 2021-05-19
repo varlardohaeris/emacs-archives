@@ -1,3 +1,4 @@
+
 This extension is a interface for typescript-tools.
 This extension provides the following on typescript-mode.
  - Auto completion by using auto-complete.el

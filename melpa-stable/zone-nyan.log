@@ -1,0 +1,6 @@
+Package: zone-nyan
+Fetcher: git
+Source:  https://depp.brause.cc/zone-nyan.git
+
+Updating /mnt/store/melpa/working/zone-nyan/
+No valid stable versions found for zone-nyan

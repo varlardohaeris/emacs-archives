@@ -1,0 +1,6 @@
+Package: xonsh-mode
+Fetcher: github
+Source:  https://github.com/seanfarley/xonsh-mode.git
+
+Updating /mnt/store/melpa/working/xonsh-mode/
+No valid stable versions found for xonsh-mode

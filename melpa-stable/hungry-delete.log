@@ -1,0 +1,11 @@
+Package: hungry-delete
+Fetcher: github
+Source:  https://github.com/nflath/hungry-delete.git
+
+Updating /mnt/store/melpa/working/hungry-delete/
+Built hungry-delete in 3.652s, finished at Wed May 19 04:42:20 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K May 19 04:42 packages-stable/hungry-delete-1.1.5.el
+4.0K -rw-r--r-- 1 root root  307 May 19 04:42 packages-stable/hungry-delete-1.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hungry-delete-badge.svg
+4.0K -rw-r--r-- 1 root root  404 May 19 04:42 packages-stable/hungry-delete-readme.txt

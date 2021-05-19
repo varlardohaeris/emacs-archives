@@ -1,4 +1,4 @@
-Installation:
+; Installation:
 
 If you have `melpa' and `emacs24' installed, simply type:
 

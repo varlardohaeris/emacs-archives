@@ -1,0 +1,6 @@
+Package: js-doc
+Fetcher: github
+Source:  https://github.com/mooz/js-doc.git
+
+Updating /mnt/store/melpa/working/js-doc/
+No valid stable versions found for js-doc

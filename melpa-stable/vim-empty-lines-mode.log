@@ -1,0 +1,6 @@
+Package: vim-empty-lines-mode
+Fetcher: github
+Source:  https://github.com/jmickelin/vim-empty-lines-mode.git
+
+Updating /mnt/store/melpa/working/vim-empty-lines-mode/
+No valid stable versions found for vim-empty-lines-mode

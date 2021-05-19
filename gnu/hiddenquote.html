@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC>
+<html lang="en" xml:lang="en">
+    <head>
+        <title>GNU ELPA - hiddenquote</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="shortcut icon" type="image/png" href="../favicon.png">
+        <link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
+        <link rel="stylesheet" type="text/css" href="../layout.css">
+        <script src="../javascript/jquery.min.js" type="text/javascript"></script>
+        <script src="../javascript/jquery.filtertable.min.js" type="text/javascript"></script>
+        <script src="../javascript/package-search.js" type="text/javascript"></script>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,width=device-width" />
+    </head>
+    <body>
+
+        <div class="wrapper">
+
+            <div class="header small">
+                <div class="container">
+                    <h1><a href="index.html">GNU ELPA</a> - hiddenquote</h1>
+                </div>
+            </div>
+
+            <div class="container">
+<h2 class="package">hiddenquote</h2><dl><dt>Description</dt><dd>Major mode for doing hidden quote puzzles</dd>
+<dt>Latest</dt> <dd><a href="hiddenquote-1.1.tar">hiddenquote-1.1.tar</a>, 2021-Feb-10,  150&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>Mauro Aranda &lt;maurooaranda@gmail.com></dd>
+<dt>Home page</dt> <dd><a href="http://mauroaranda.com/puzzles/hidden-quote-puzzle/">http://mauroaranda.com/puzzles/hidden-quote-puzzle/</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/hiddenquote">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/hiddenquote">Gitweb</a></dd>
+</dl><p>To install this package, run in Emacs:</p>
+                       <pre>M-x <span class="kw">package-install</span> RET <span class="kw">hiddenquote</span> RET</pre><h2>Full description</h2><pre>
+hiddenquote is a kind of word puzzle where you have to read
+word definitions (the clues), and put the answer into a grid, using
+the provided syllables.  When the grid is complete, you should be able
+to read a quote in the highlighted cells.
+
+This word puzzle is known in Argentina as Claringrilla, because they are
+published by a national newspaper named "Clarín".
+
+This file contains all the hidden quote puzzle rendering, major mode
+and commands.  It also defines a source to retrieve puzzles of
+the hidden quote type, created by myself.
+
+Usage:
+M-x hiddenquote
+Select the source you want to retrieve the puzzle from.
+With a prefix argument, the command will prompt for a specific ID number.
+
+Read the clues in the Definitions buffer, and complete each word with
+one character per cell to complete the puzzle.  For each work, mark the
+syllables it contains as used.
+Move around the buffer with the usual movement commands.
+Edit each character cell with the usual editing commands.
+To mark a syllable as used, click it with the mouse or move point to
+it and hit RET.
+When the puzzle is complete, you should be able to read the hidden
+quote in the highlighted cells.
+
+M-x customize-group RET hiddenquote
+to see other customization options.
+To see what faces you can customize, type
+M-x customize-group RET hiddenquote-faces
+M-x describe-keymap RET hiddenquote-mode-map
+or
+M-x describe-keymap RET hiddenquote-character-map
+to see the commands available.
+
+To change the puzzle sources, customize `hiddenquote-sources'.
+</pre>
+</body>

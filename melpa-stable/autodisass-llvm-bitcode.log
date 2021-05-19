@@ -1,0 +1,20 @@
+Package: autodisass-llvm-bitcode
+Fetcher: github
+Source:  https://github.com/gbalats/autodisass-llvm-bitcode.git
+
+Updating /mnt/store/melpa/working/autodisass-llvm-bitcode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/autodisass-llvm-bitcode/
+  to /tmp/autodisass-llvm-bitcodeccTYBa/autodisass-llvm-bitcode-1.1
+    autodisass-llvm-bitcode-pkg.el -> autodisass-llvm-bitcode-pkg.el
+    autodisass-llvm-bitcode.el -> autodisass-llvm-bitcode.el
+Created autodisass-llvm-bitcode-1.1.tar containing:
+  autodisass-llvm-bitcode-1.1/
+  autodisass-llvm-bitcode-1.1/autodisass-llvm-bitcode-pkg.el
+  autodisass-llvm-bitcode-1.1/autodisass-llvm-bitcode.el
+Built autodisass-llvm-bitcode in 2.650s, finished at Wed May 19 04:20:25 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  345 May 19 04:20 packages-stable/autodisass-llvm-bitcode-1.1.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 04:20 packages-stable/autodisass-llvm-bitcode-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/autodisass-llvm-bitcode-badge.svg
+4.0K -rw-r--r-- 1 root root  481 May 19 04:20 packages-stable/autodisass-llvm-bitcode-readme.txt

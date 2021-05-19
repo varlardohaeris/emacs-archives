@@ -1,0 +1,6 @@
+Package: org-caldav
+Fetcher: github
+Source:  https://github.com/dengste/org-caldav.git
+
+Updating /mnt/store/melpa/working/org-caldav/
+No valid stable versions found for org-caldav

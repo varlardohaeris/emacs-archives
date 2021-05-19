@@ -1,0 +1,6 @@
+Package: otama
+Fetcher: github
+Source:  https://github.com/yoshinari-nomura/otama.git
+
+Updating /mnt/store/melpa/working/otama/
+No valid stable versions found for otama

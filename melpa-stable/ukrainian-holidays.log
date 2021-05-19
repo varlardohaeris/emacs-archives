@@ -1,0 +1,6 @@
+Package: ukrainian-holidays
+Fetcher: github
+Source:  https://github.com/abo-abo/ukrainian-holidays.git
+
+Updating /mnt/store/melpa/working/ukrainian-holidays/
+No valid stable versions found for ukrainian-holidays

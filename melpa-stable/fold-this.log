@@ -1,0 +1,12 @@
+Package: fold-this
+Fetcher: github
+Source:  https://github.com/magnars/fold-this.el.git
+
+Updating /mnt/store/melpa/working/fold-this/
+Note: fold-this :files spec is equivalent to the default.
+Built fold-this in 3.004s, finished at Wed May 19 04:35:59 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K May 19 04:35 packages-stable/fold-this-0.3.0.el
+4.0K -rw-r--r-- 1 root root  289 May 19 04:35 packages-stable/fold-this-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/fold-this-badge.svg
+4.0K -rw-r--r-- 1 root root  682 May 19 04:35 packages-stable/fold-this-readme.txt

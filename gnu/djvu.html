@@ -23,14 +23,18 @@
 
             <div class="container">
 <h2 class="package">djvu</h2><dl><dt>Description</dt><dd>Edit and view Djvu files via djvused</dd>
-<dt>Latest</dt> <dd><a href="djvu-1.1.el">djvu-1.1.el</a>, 2019-Jun-18,  172&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="djvu-1.1.1.el">djvu-1.1.1.el</a>, 2020-Nov-15,  183&nbsp;KiB</dd>
 <dt>Home page</dt> <dd><a href="http://elpa.gnu.org/packages/djvu.html">http://elpa.gnu.org/packages/djvu.html</a></dd>
-<dt>Browse repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/tree/packages/djvu">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=tree;f=packages/djvu">Gitweb</a></dd>
+<dt>Browse repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/djvu">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/djvu">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">djvu</span> RET</pre><h2>Full description</h2><pre>
 This package is a front end for the command-line program djvused
 from DjVuLibre, see http://djvu.sourceforge.net/.  It assumes you
 have the programs djvused, djview, ddjvu, and djvm installed.
+The main purpose of djvu.el is to edit Djvu documents via djvused.
+If you only seek an Emacs viewer for Djvu documents, you may be
+better off with DocView shipped with GNU Emacs.  Starting from
+GNU Emacs 26, DocView supports Djvu documents.
 
 A Djvu document contains an image layer (typically scanned page images)
 as well as multiple textual layers [text (for scanned documents from OCR),
@@ -44,7 +48,7 @@ With Djvu mode you can also view the page images of a Djvu document,
 yet Djvu mode does not attempt to reinvent the functionality of the
 native viewer djview for Djvu documents.  (I find djview very efficient
 / fast for its purposes that also include features like searching the
-text layer.)  So Djvu mode assumes that you use djview to view the
+text layer.)  So Djvu mode supports that you use djview to view the
 Djvu document while editing its textual layers.  Djview and Djvu mode
 complement each other.
 
@@ -141,11 +145,20 @@ slightly modified djvused script syntax.
   text or annotations layer if the script is messed up.
 </pre>
 <h2>Old versions</h2><table>
+<tr><td><a href="djvu-1.1.el">djvu-1.1.el</a></td><td>2019-Jun-18</td><td> 172&nbsp;KiB</td>
 <tr><td><a href="djvu-1.0.1.el">djvu-1.0.1.el</a></td><td>2019-Jan-02</td><td> 166&nbsp;KiB</td>
 <tr><td><a href="djvu-1.0.el">djvu-1.0.el</a></td><td>2018-Dec-28</td><td> 165&nbsp;KiB</td>
 <tr><td><a href="djvu-0.5.el">djvu-0.5.el</a></td><td>2012-Nov-29</td><td>65.4&nbsp;KiB</td>
 </table>
 <h2>News</h2><pre>
+v1.1.1:
+- Support text and image scrolling similar to `doc-view-mode'.
+  New option `djvu-continuous'.
+
+- New option `djvu-descenders-re'.
+
+- Bug fixes.
+
 v1.1:
 - Use `auto-mode-alist' with file extension ".djvu".
 

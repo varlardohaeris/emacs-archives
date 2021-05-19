@@ -1,2 +1,11 @@
-
-(ansible-vault . [(0 4 1) ((emacs (24 3)) (seq (2 20))) "Minor mode for editing ansible vault files" single ((:commit . "9a50ed6b73222e9973c08d79b6955e57ed3b7d97") (:keywords "ansible" "ansible-vault" "tools") (:maintainer "Zachary Elliott" . "contact@zell.io") (:url . "http://github.com/zellio/ansible-vault-mode"))])
+(ansible-vault .
+	       [(0 4 1)
+		((emacs
+		  (24 3))
+		 (seq
+		  (2 20)))
+		"Minor mode for editing ansible vault files" single
+		((:commit . "9a50ed6b73222e9973c08d79b6955e57ed3b7d97")
+		 (:maintainer "Zachary Elliott" . "contact@zell.io")
+		 (:keywords "ansible" "ansible-vault" "tools")
+		 (:url . "http://github.com/zellio/ansible-vault-mode"))])

@@ -1,0 +1,6 @@
+Package: github-modern-theme
+Fetcher: github
+Source:  https://github.com/philiparvidsson/GitHub-Modern-Theme-for-Emacs.git
+
+Updating /mnt/store/melpa/working/github-modern-theme/
+No valid stable versions found for github-modern-theme

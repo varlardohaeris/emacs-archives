@@ -1,0 +1,6 @@
+Package: anki-connect
+Fetcher: github
+Source:  https://github.com/lujun9972/anki-connect.el.git
+
+Updating /mnt/store/melpa/working/anki-connect/
+No valid stable versions found for anki-connect

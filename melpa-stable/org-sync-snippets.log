@@ -1,0 +1,6 @@
+Package: org-sync-snippets
+Fetcher: github
+Source:  https://github.com/abrochard/org-sync-snippets.git
+
+Updating /mnt/store/melpa/working/org-sync-snippets/
+No valid stable versions found for org-sync-snippets

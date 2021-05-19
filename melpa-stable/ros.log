@@ -1,0 +1,6 @@
+Package: ros
+Fetcher: github
+Source:  https://github.com/DerBeutlin/ros.el.git
+
+Updating /mnt/store/melpa/working/ros/
+No valid stable versions found for ros

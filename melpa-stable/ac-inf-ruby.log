@@ -1,0 +1,11 @@
+Package: ac-inf-ruby
+Fetcher: github
+Source:  https://github.com/purcell/ac-inf-ruby.git
+
+Updating /mnt/store/melpa/working/ac-inf-ruby/
+Built ac-inf-ruby in 3.157s, finished at Wed May 19 04:18:27 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.5K May 19 04:18 packages-stable/ac-inf-ruby-0.4.el
+4.0K -rw-r--r-- 1 root root  379 May 19 04:18 packages-stable/ac-inf-ruby-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ac-inf-ruby-badge.svg
+4.0K -rw-r--r-- 1 root root  517 May 19 04:18 packages-stable/ac-inf-ruby-readme.txt

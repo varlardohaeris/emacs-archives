@@ -1,0 +1,6 @@
+Package: hl-prog-extra
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-hl-prog-extra.git
+
+Updating /mnt/store/melpa/working/hl-prog-extra/
+No valid stable versions found for hl-prog-extra

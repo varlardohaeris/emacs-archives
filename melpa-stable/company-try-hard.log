@@ -1,0 +1,6 @@
+Package: company-try-hard
+Fetcher: github
+Source:  https://github.com/Wilfred/company-try-hard.git
+
+Updating /mnt/store/melpa/working/company-try-hard/
+No valid stable versions found for company-try-hard

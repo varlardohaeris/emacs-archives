@@ -1,0 +1,21 @@
+Package: haskell-emacs-base
+Fetcher: github
+Source:  https://github.com/knupfer/haskell-emacs.git
+
+Updating /mnt/store/melpa/working/haskell-emacs-base/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/haskell-emacs-base/
+  to /tmp/haskell-emacs-baseXStikj/haskell-emacs-base-20150714.1559
+  ! modules/base/haskell-emacs-base.el -> haskell-emacs-base.el
+  ! modules/base/Base.hs -> Base.hs
+Created haskell-emacs-base-20150714.1559.tar containing:
+  haskell-emacs-base-20150714.1559/
+  haskell-emacs-base-20150714.1559/Base.hs
+  haskell-emacs-base-20150714.1559/haskell-emacs-base-pkg.el
+  haskell-emacs-base-20150714.1559/haskell-emacs-base.el
+Built haskell-emacs-base in 4.381s, finished at Wed May 19 03:28:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  402 May 19 03:28 packages/haskell-emacs-base-20150714.1559.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 03:28 packages/haskell-emacs-base-20150714.1559.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:28 packages/haskell-emacs-base-badge.svg
+4.0K -rw-r--r-- 1 root root  542 May 19 03:28 packages/haskell-emacs-base-readme.txt

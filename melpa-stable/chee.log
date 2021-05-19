@@ -1,0 +1,33 @@
+Package: chee
+Fetcher: github
+Source:  https://github.com/eikek/chee.git
+
+Updating /mnt/store/melpa/working/chee/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chee/
+  to /tmp/cheemJjVnm/chee-0.3.0
+  ! emacs/chee-dired.el -> chee-dired.el
+  ! emacs/chee-helm.el -> chee-helm.el
+  ! emacs/chee-minor.el -> chee-minor.el
+  ! emacs/chee-proc.el -> chee-proc.el
+  ! emacs/chee-query.el -> chee-query.el
+  ! emacs/chee-settings.el -> chee-settings.el
+  ! emacs/chee-utils.el -> chee-utils.el
+  ! emacs/chee.el -> chee.el
+Created chee-0.3.0.tar containing:
+  chee-0.3.0/
+  chee-0.3.0/chee-dired.el
+  chee-0.3.0/chee-helm.el
+  chee-0.3.0/chee-minor.el
+  chee-0.3.0/chee-pkg.el
+  chee-0.3.0/chee-proc.el
+  chee-0.3.0/chee-query.el
+  chee-0.3.0/chee-settings.el
+  chee-0.3.0/chee-utils.el
+  chee-0.3.0/chee.el
+Built chee in 3.065s, finished at Wed May 19 04:23:05 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  274 May 19 04:23 packages-stable/chee-0.3.0.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 04:23 packages-stable/chee-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/chee-badge.svg
+4.0K -rw-r--r-- 1 root root  570 May 19 04:23 packages-stable/chee-readme.txt

@@ -1,0 +1,6 @@
+Package: sort-words
+Fetcher: github
+Source:  https://github.com/dotemacs/sort-words.el.git
+
+Updating /mnt/store/melpa/working/sort-words/
+No valid stable versions found for sort-words

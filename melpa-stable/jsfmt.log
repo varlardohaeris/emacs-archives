@@ -1,0 +1,11 @@
+Package: jsfmt
+Fetcher: github
+Source:  https://github.com/brettlangdon/jsfmt.el.git
+
+Updating /mnt/store/melpa/working/jsfmt/
+Built jsfmt in 4.051s, finished at Wed May 19 04:45:04 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.6K May 19 04:45 packages-stable/jsfmt-0.2.0.el
+4.0K -rw-r--r-- 1 root root  291 May 19 04:45 packages-stable/jsfmt-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/jsfmt-badge.svg
+4.0K -rw-r--r-- 1 root root  166 May 19 04:45 packages-stable/jsfmt-readme.txt

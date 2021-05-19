@@ -1,0 +1,6 @@
+Package: rmsbolt
+Fetcher: gitlab
+Source:  https://gitlab.com/jgkamat/rmsbolt.git
+
+Updating /mnt/store/melpa/working/rmsbolt/
+No valid stable versions found for rmsbolt

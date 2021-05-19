@@ -1,0 +1,10 @@
+Package: helm-bbdb
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-bbdb.git
+
+Updating /mnt/store/melpa/working/helm-bbdb/
+Built helm-bbdb in 3.051s, finished at Wed May 19 04:39:48 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:39 packages-stable/helm-bbdb-1.1.el
+4.0K -rw-r--r-- 1 root root  238 May 19 04:39 packages-stable/helm-bbdb-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-bbdb-badge.svg

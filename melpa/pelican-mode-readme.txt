@@ -1,3 +1,4 @@
+
 pelican-mode is an Emacs minor mode for editing articles and pages
 in Pelican sites.  Pelican is a static site generator which can
 process a variety of text file formats.  For more information, see

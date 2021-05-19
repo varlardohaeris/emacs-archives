@@ -1,0 +1,6 @@
+Package: pg
+Fetcher: github
+Source:  https://github.com/cbbrowne/pg.el.git
+
+Updating /mnt/store/melpa/working/pg/
+No valid stable versions found for pg

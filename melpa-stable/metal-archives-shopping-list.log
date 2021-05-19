@@ -1,0 +1,6 @@
+Package: metal-archives-shopping-list
+Fetcher: github
+Source:  https://github.com/seblemaguer/metal-archives.el.git
+
+Updating /mnt/store/melpa/working/metal-archives-shopping-list/
+No valid stable versions found for metal-archives-shopping-list

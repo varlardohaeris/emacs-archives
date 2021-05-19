@@ -1,0 +1,11 @@
+Package: helm-themes
+Fetcher: github
+Source:  https://github.com/emacsorphanage/helm-themes.git
+
+Updating /mnt/store/melpa/working/helm-themes/
+Built helm-themes in 2.874s, finished at Wed May 19 04:41:20 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.3K May 19 04:41 packages-stable/helm-themes-0.5.el
+4.0K -rw-r--r-- 1 root root  360 May 19 04:41 packages-stable/helm-themes-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-themes-badge.svg
+4.0K -rw-r--r-- 1 root root  107 May 19 04:41 packages-stable/helm-themes-readme.txt

@@ -1,0 +1,6 @@
+Package: id-manager
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-id-manager.git
+
+Updating /mnt/store/melpa/working/id-manager/
+No valid stable versions found for id-manager

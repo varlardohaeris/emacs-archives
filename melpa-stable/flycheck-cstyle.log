@@ -1,0 +1,6 @@
+Package: flycheck-cstyle
+Fetcher: github
+Source:  https://github.com/alexmurray/flycheck-cstyle.git
+
+Updating /mnt/store/melpa/working/flycheck-cstyle/
+No valid stable versions found for flycheck-cstyle

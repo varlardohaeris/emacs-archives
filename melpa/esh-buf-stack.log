@@ -1,0 +1,11 @@
+Package: esh-buf-stack
+Fetcher: github
+Source:  https://github.com/tom-tan/esh-buf-stack.git
+
+Updating /mnt/store/melpa/working/esh-buf-stack/
+Built esh-buf-stack in 4.413s, finished at Wed May 19 03:17:10 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.3K May 19 03:17 packages/esh-buf-stack-20140107.1018.el
+4.0K -rw-r--r-- 1 root root  301 May 19 03:17 packages/esh-buf-stack-20140107.1018.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:17 packages/esh-buf-stack-badge.svg
+4.0K -rw-r--r-- 1 root root  497 May 19 03:17 packages/esh-buf-stack-readme.txt

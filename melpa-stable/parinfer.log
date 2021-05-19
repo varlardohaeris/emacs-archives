@@ -1,0 +1,28 @@
+Package: parinfer
+Fetcher: github
+Source:  https://github.com/DogLooksGood/parinfer-mode.git
+
+Updating /mnt/store/melpa/working/parinfer/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/parinfer/
+  to /tmp/parinferCx4YNg/parinfer-0.4.10
+    parinfer-ext.el -> parinfer-ext.el
+    parinfer.el -> parinfer.el
+    parinferlib.el -> parinferlib.el
+Created parinfer-0.4.10.tar containing:
+  parinfer-0.4.10/
+  parinfer-0.4.10/parinfer-ext.el
+  parinfer-0.4.10/parinfer-pkg.el
+  parinfer-0.4.10/parinfer.el
+  parinfer-0.4.10/parinferlib.el
+Built parinfer in 3.133s, finished at Mon Feb 22 15:29:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  334 Feb 22 15:29 packages-stable/parinfer-0.4.10.entry
+112K -rw-r--r-- 1 root root 110K Feb 22 15:29 packages-stable/parinfer-0.4.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K Feb 22 15:29 packages-stable/parinfer-badge.svg
+4.0K -rw-r--r-- 1 root root  520 Feb 22 15:29 packages-stable/parinfer-readme.txt
+4.0K -rw-r--r-- 1 root root  440 Feb 22 15:29 packages-stable/parinfer-rust-mode-0.8.3.entry
+ 52K -rw-r--r-- 1 root root  50K Feb 22 15:29 packages-stable/parinfer-rust-mode-0.8.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Feb 22 15:29 packages-stable/parinfer-rust-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K Feb 22 15:29 packages-stable/parinfer-rust-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  848 Feb 22 15:29 packages-stable/parinfer-rust-mode.log

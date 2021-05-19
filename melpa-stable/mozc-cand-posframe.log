@@ -1,0 +1,6 @@
+Package: mozc-cand-posframe
+Fetcher: github
+Source:  https://github.com/akirak/mozc-posframe.git
+
+Updating /mnt/store/melpa/working/mozc-cand-posframe/
+No valid stable versions found for mozc-cand-posframe

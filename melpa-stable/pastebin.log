@@ -1,0 +1,6 @@
+Package: pastebin
+Fetcher: github
+Source:  https://github.com/nicferrier/elpastebin.git
+
+Updating /mnt/store/melpa/working/pastebin/
+No valid stable versions found for pastebin

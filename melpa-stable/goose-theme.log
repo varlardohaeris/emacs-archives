@@ -1,0 +1,6 @@
+Package: goose-theme
+Fetcher: github
+Source:  https://github.com/tokenrove/goose-theme.git
+
+Updating /mnt/store/melpa/working/goose-theme/
+No valid stable versions found for goose-theme

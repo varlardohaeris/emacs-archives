@@ -1,0 +1,11 @@
+Package: mosey
+Fetcher: github
+Source:  https://github.com/alphapapa/mosey.el.git
+
+Updating /mnt/store/melpa/working/mosey/
+Built mosey in 3.799s, finished at Wed May 19 01:36:03 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.7K May 19 01:36 packages-stable/mosey-0.2.el
+4.0K -rw-r--r-- 1 root root  326 May 19 01:36 packages-stable/mosey-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mosey-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K May 19 01:36 packages-stable/mosey-readme.txt

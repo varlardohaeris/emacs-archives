@@ -1,0 +1,6 @@
+Package: tramp-hdfs
+Fetcher: github
+Source:  https://github.com/raghavgautam/tramp-hdfs.git
+
+Updating /mnt/store/melpa/working/tramp-hdfs/
+No valid stable versions found for tramp-hdfs

@@ -1,0 +1,6 @@
+Package: jss
+Fetcher: github
+Source:  https://github.com/segv/jss.git
+
+Updating /mnt/store/melpa/working/jss/
+No valid stable versions found for jss

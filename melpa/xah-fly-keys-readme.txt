@@ -12,24 +12,26 @@ put the following in your emacs init file:
 
 (add-to-list 'load-path "~/.emacs.d/lisp/")
 (require 'xah-fly-keys)
-(xah-fly-keys-set-layout 'qwerty) ; required
+(xah-fly-keys-set-layout "qwerty") ; required
 
 possible layout values:
-
-'azerty
-'azerty-be
-'colemak
-'colemak-mod-dh
-'dvorak
-'programer-dvorak
-'qwerty
-'qwerty-abnt
-'qwerty-no (qwerty Norwegian)
-'qwertz
-'workman
-'norman
-
-For backward compatibility, strings with the above names are also accepted.
+azerty
+azerty-be
+colemak
+colemak-mod-dh
+colemak-mod-dh-new
+dvorak
+programer-dvorak
+qwerty
+qwerty-abnt
+qwerty-no (qwerty Norwegian)
+qwertz
+workman
+norman
+neo2
+koy
+adnw
+pt-nativo
 
 (xah-fly-keys 1)
 
@@ -48,8 +50,8 @@ When in command mode:
 【f】 (or Dvorak 【u】) activates insertion mode.
 【Space】 is a leader key. For example, 【SPACE r】 (Dvorak 【SPACE p】) calls query-replace. Press 【SPACE C-h】 to see the full list.
 【Space Space】 also activates insertion mode.
-【Space Enter】 calls execute-extended-command.
-【a】 calls execute-extended-command or smex or helm or counsel (if they are installed).
+【Space Enter】 calls execute-extended-command or alternative.
+【a】 calls execute-extended-command or alternative.
 
 The leader key sequence basically replace ALL emacs commands that starts with C-x key.
 
@@ -71,8 +73,6 @@ Any emacs command that has a keybinding starting with C-x, has also a key sequen
 The first key we call it leader key. In the above examples, the SPACE is the leader key.
 
 When in command mode, the 【SPACE】 is a leader key.
-
-globally, the leader key is the 【f9】 key. 【f9】 is leader key regardless it's in command mode or insert mode.
 
 the following standard keys with Control are supported:
 
@@ -104,3 +104,5 @@ For detail about design and other info, see home page at
 http://ergoemacs.org/misc/ergoemacs_vi_mode.html
 
 If you like this project, Buy Xah Emacs Tutorial http://ergoemacs.org/emacs/buy_xah_emacs_tutorial.html or make a donation. Thanks.
+
+HHH___________________________________________________________________

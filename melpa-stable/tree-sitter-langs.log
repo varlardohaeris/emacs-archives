@@ -1,0 +1,49 @@
+Package: tree-sitter-langs
+Fetcher: github
+Source:  https://github.com/ubolonton/tree-sitter-langs.git
+
+Updating /mnt/store/melpa/working/tree-sitter-langs/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tree-sitter-langs/
+  to /tmp/tree-sitter-langssIcugu/tree-sitter-langs-0.10.0
+    tree-sitter-langs-build.el -> tree-sitter-langs-build.el
+    tree-sitter-langs.el -> tree-sitter-langs.el
+    queries => queries
+Created tree-sitter-langs-0.10.0.tar containing:
+  tree-sitter-langs-0.10.0/
+  tree-sitter-langs-0.10.0/queries/
+  tree-sitter-langs-0.10.0/queries/c/
+  tree-sitter-langs-0.10.0/queries/c/highlights.scm
+  tree-sitter-langs-0.10.0/queries/cpp/
+  tree-sitter-langs-0.10.0/queries/cpp/highlights.scm
+  tree-sitter-langs-0.10.0/queries/css/
+  tree-sitter-langs-0.10.0/queries/css/highlights.scm
+  tree-sitter-langs-0.10.0/queries/go/
+  tree-sitter-langs-0.10.0/queries/go/highlights.scm
+  tree-sitter-langs-0.10.0/queries/html/
+  tree-sitter-langs-0.10.0/queries/html/highlights.scm
+  tree-sitter-langs-0.10.0/queries/java/
+  tree-sitter-langs-0.10.0/queries/java/highlights.scm
+  tree-sitter-langs-0.10.0/queries/javascript/
+  tree-sitter-langs-0.10.0/queries/javascript/highlights.scm
+  tree-sitter-langs-0.10.0/queries/php/
+  tree-sitter-langs-0.10.0/queries/php/highlights.scm
+  tree-sitter-langs-0.10.0/queries/python/
+  tree-sitter-langs-0.10.0/queries/python/highlights.scm
+  tree-sitter-langs-0.10.0/queries/ruby/
+  tree-sitter-langs-0.10.0/queries/ruby/highlights.scm
+  tree-sitter-langs-0.10.0/queries/rust/
+  tree-sitter-langs-0.10.0/queries/rust/highlights.scm
+  tree-sitter-langs-0.10.0/queries/tsx/
+  tree-sitter-langs-0.10.0/queries/tsx/highlights.scm
+  tree-sitter-langs-0.10.0/queries/typescript/
+  tree-sitter-langs-0.10.0/queries/typescript/highlights.scm
+  tree-sitter-langs-0.10.0/tree-sitter-langs-build.el
+  tree-sitter-langs-0.10.0/tree-sitter-langs-pkg.el
+  tree-sitter-langs-0.10.0/tree-sitter-langs.el
+Built tree-sitter-langs in 3.625s, finished at Wed May 19 01:52:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  482 May 19 01:52 packages-stable/tree-sitter-langs-0.10.0.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 01:52 packages-stable/tree-sitter-langs-0.10.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tree-sitter-langs-badge.svg
+4.0K -rw-r--r-- 1 root root  786 May 19 01:52 packages-stable/tree-sitter-langs-readme.txt

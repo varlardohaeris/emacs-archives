@@ -1,0 +1,11 @@
+Package: erlstack-mode
+Fetcher: github
+Source:  https://github.com/k32/erlstack-mode.git
+
+Updating /mnt/store/melpa/working/erlstack-mode/
+Built erlstack-mode in 2.822s, finished at Wed May 19 04:31:27 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:31 packages-stable/erlstack-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  226 May 19 04:31 packages-stable/erlstack-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/erlstack-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:31 packages-stable/erlstack-mode-readme.txt

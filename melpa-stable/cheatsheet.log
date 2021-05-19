@@ -1,0 +1,6 @@
+Package: cheatsheet
+Fetcher: github
+Source:  https://github.com/darksmile/cheatsheet.git
+
+Updating /mnt/store/melpa/working/cheatsheet/
+No valid stable versions found for cheatsheet

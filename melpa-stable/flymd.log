@@ -1,0 +1,6 @@
+Package: flymd
+Fetcher: github
+Source:  https://github.com/mola-T/flymd.git
+
+Updating /mnt/store/melpa/working/flymd/
+No valid stable versions found for flymd

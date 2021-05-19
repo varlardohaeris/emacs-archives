@@ -24,4 +24,7 @@ C-c C-t C-n    rspec example.
 C-c C-t t    - Runs the unit test or rspec example at the current buffer's
 C-c C-t C-t    buffer's point.
 
+C-c C-t r    - Reruns the last unit test or rspec example
+C-c C-t C-r
+
 C-c C-s      - Toggle between implementation and test/example files.

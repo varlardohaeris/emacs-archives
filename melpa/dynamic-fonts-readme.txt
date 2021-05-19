@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'dynamic-fonts)
@@ -39,7 +40,7 @@ Bugs
 
 TODO
 
-License
+; License
 
 Simplified BSD License:
 

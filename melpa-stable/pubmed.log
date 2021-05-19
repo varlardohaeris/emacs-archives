@@ -1,0 +1,35 @@
+Package: pubmed
+Fetcher: gitlab
+Source:  https://gitlab.com/fvdbeek/emacs-pubmed.git
+
+Updating /mnt/store/melpa/working/pubmed/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pubmed/
+  to /tmp/pubmedTokMV6/pubmed-0.5
+    pubmed-advanced-search.el -> pubmed-advanced-search.el
+    pubmed-bibtex.el -> pubmed-bibtex.el
+    pubmed-dissemin.el -> pubmed-dissemin.el
+    pubmed-openaccessbutton.el -> pubmed-openaccessbutton.el
+    pubmed-pmc.el -> pubmed-pmc.el
+    pubmed-scihub.el -> pubmed-scihub.el
+    pubmed-springer.el -> pubmed-springer.el
+    pubmed-unpaywall.el -> pubmed-unpaywall.el
+    pubmed.el -> pubmed.el
+Created pubmed-0.5.tar containing:
+  pubmed-0.5/
+  pubmed-0.5/pubmed-advanced-search.el
+  pubmed-0.5/pubmed-bibtex.el
+  pubmed-0.5/pubmed-dissemin.el
+  pubmed-0.5/pubmed-openaccessbutton.el
+  pubmed-0.5/pubmed-pkg.el
+  pubmed-0.5/pubmed-pmc.el
+  pubmed-0.5/pubmed-scihub.el
+  pubmed-0.5/pubmed-springer.el
+  pubmed-0.5/pubmed-unpaywall.el
+  pubmed-0.5/pubmed.el
+Built pubmed in 3.398s, finished at Wed May 19 01:44:34 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  473 May 19 01:44 packages-stable/pubmed-0.5.entry
+232K -rw-r--r-- 1 root root 230K May 19 01:44 packages-stable/pubmed-0.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pubmed-badge.svg
+4.0K -rw-r--r-- 1 root root  107 May 19 01:44 packages-stable/pubmed-readme.txt

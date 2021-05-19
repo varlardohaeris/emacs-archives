@@ -1,0 +1,6 @@
+Package: epic
+Fetcher: github
+Source:  https://github.com/yoshinari-nomura/epic.git
+
+Updating /mnt/store/melpa/working/epic/
+No valid stable versions found for epic

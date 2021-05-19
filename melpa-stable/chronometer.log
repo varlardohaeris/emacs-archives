@@ -1,0 +1,6 @@
+Package: chronometer
+Fetcher: github
+Source:  https://github.com/marcelotoledo/chronometer.git
+
+Updating /mnt/store/melpa/working/chronometer/
+No valid stable versions found for chronometer

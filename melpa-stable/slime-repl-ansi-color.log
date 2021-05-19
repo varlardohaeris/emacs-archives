@@ -1,0 +1,6 @@
+Package: slime-repl-ansi-color
+Fetcher: gitlab
+Source:  https://gitlab.com/augfab/slime-repl-ansi-color.git
+
+Updating /mnt/store/melpa/working/slime-repl-ansi-color/
+No valid stable versions found for slime-repl-ansi-color

@@ -1,0 +1,6 @@
+Package: unison-mode
+Fetcher: github
+Source:  https://github.com/impaktor/unison-mode.git
+
+Updating /mnt/store/melpa/working/unison-mode/
+No valid stable versions found for unison-mode

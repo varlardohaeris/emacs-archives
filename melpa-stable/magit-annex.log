@@ -1,0 +1,11 @@
+Package: magit-annex
+Fetcher: github
+Source:  https://github.com/magit/magit-annex.git
+
+Updating /mnt/store/melpa/working/magit-annex/
+Built magit-annex in 3.649s, finished at Wed May 19 01:33:28 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  26K May 19 01:33 packages-stable/magit-annex-1.7.1.el
+4.0K -rw-r--r-- 1 root root  437 May 19 01:33 packages-stable/magit-annex-1.7.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-annex-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 01:33 packages-stable/magit-annex-readme.txt

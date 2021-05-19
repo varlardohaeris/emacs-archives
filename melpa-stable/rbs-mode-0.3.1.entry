@@ -1,0 +1,11 @@
+(rbs-mode .
+	  [(0 3 1)
+	   ((emacs
+	     (24 5)))
+	   "A major mode for RBS" single
+	   ((:commit . "ad36bb138cec7396f029821d0cf755a8bc663260")
+	    (:authors
+	     ("Masafumi Koba"))
+	    (:maintainer "Masafumi Koba")
+	    (:keywords "languages")
+	    (:url . "https://github.com/ybiquitous/rbs-mode"))])

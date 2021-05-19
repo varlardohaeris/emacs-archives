@@ -1,0 +1,6 @@
+Package: helm-emmet
+Fetcher: github
+Source:  https://github.com/yasuyk/helm-emmet.git
+
+Updating /mnt/store/melpa/working/helm-emmet/
+No valid stable versions found for helm-emmet

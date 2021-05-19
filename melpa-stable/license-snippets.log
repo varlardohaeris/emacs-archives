@@ -1,0 +1,6 @@
+Package: license-snippets
+Fetcher: github
+Source:  https://github.com/sei40kr/license-snippets.git
+
+Updating /mnt/store/melpa/working/license-snippets/
+No valid stable versions found for license-snippets

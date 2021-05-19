@@ -22,11 +22,11 @@ Here are some example uses:
 (dired-rainbow-define html "#4e9a06" ("htm" "html" "xhtml"))
 (dired-rainbow-define media "#ce5c00" my-dired-media-files-extensions)
 
-boring regexp due to lack of imagination
+; boring regexp due to lack of imagination
 (dired-rainbow-define log (:inherit default
                            :italic t) ".*\\.log")
 
-highlight executable files, but not directories
+; highlight executable files, but not directories
 (dired-rainbow-define-chmod executable-unix "Green" "-.*x.*")
 
 See https://github.com/Fuco1/dired-hacks for the entire collection.

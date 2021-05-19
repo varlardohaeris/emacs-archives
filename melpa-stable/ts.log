@@ -1,0 +1,12 @@
+Package: ts
+Fetcher: github
+Source:  https://github.com/alphapapa/ts.el.git
+
+Updating /mnt/store/melpa/working/ts/
+Built ts in 2.717s, finished at Wed May 19 01:52:58 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  26K May 19 01:52 packages-stable/ts-0.2.el
+4.0K -rw-r--r-- 1 root root  432 May 19 01:52 packages-stable/ts-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/ts-badge.svg
+4.0K -rw-r--r-- 1 root root  185 May 19 01:52 packages-stable/ts-comint.log
+4.0K -rw-r--r-- 1 root root  949 May 19 01:52 packages-stable/ts-readme.txt

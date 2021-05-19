@@ -1,0 +1,11 @@
+Package: utop
+Fetcher: github
+Source:  https://github.com/diml/utop.git
+
+Updating /mnt/store/melpa/working/utop/
+Built utop in 3.115s, finished at Wed May 19 01:53:44 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  44K May 19 01:53 packages-stable/utop-2.7.0.el
+4.0K -rw-r--r-- 1 root root  343 May 19 01:53 packages-stable/utop-2.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/utop-badge.svg
+4.0K -rw-r--r-- 1 root root   59 May 19 01:53 packages-stable/utop-readme.txt

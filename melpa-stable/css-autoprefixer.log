@@ -1,0 +1,6 @@
+Package: css-autoprefixer
+Fetcher: github
+Source:  https://github.com/kkweon/emacs-css-autoprefixer.git
+
+Updating /mnt/store/melpa/working/css-autoprefixer/
+No valid stable versions found for css-autoprefixer

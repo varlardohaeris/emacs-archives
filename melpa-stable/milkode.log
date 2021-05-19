@@ -1,0 +1,11 @@
+Package: milkode
+Fetcher: github
+Source:  https://github.com/ongaeshi/emacs-milkode.git
+
+Updating /mnt/store/melpa/working/milkode/
+Built milkode in 3.176s, finished at Wed May 19 01:35:16 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K May 19 01:35 packages-stable/milkode-0.4.el
+4.0K -rw-r--r-- 1 root root  268 May 19 01:35 packages-stable/milkode-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/milkode-badge.svg
+4.0K -rw-r--r-- 1 root root  501 May 19 01:35 packages-stable/milkode-readme.txt

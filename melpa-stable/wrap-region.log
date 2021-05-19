@@ -1,0 +1,11 @@
+Package: wrap-region
+Fetcher: github
+Source:  https://github.com/rejeep/wrap-region.el.git
+
+Updating /mnt/store/melpa/working/wrap-region/
+Built wrap-region in 3.155s, finished at Wed May 19 01:55:41 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 01:55 packages-stable/wrap-region-0.7.3.el
+4.0K -rw-r--r-- 1 root root  404 May 19 01:55 packages-stable/wrap-region-0.7.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/wrap-region-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K May 19 01:55 packages-stable/wrap-region-readme.txt

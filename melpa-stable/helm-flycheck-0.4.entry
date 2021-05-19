@@ -1,2 +1,15 @@
-
-(helm-flycheck . [(0 4) ((dash (2 12 1)) (flycheck (28)) (helm-core (1 9 8))) "Show flycheck errors with helm" single ((:commit . "a15e62a6432c165c4f2c17388686873383400d7d") (:keywords "helm" "flycheck") (:authors ("Yasuyuki Oka" . "yasuyk@gmail.com")) (:maintainer "Yasuyuki Oka" . "yasuyk@gmail.com") (:url . "https://github.com/yasuyk/helm-flycheck"))])
+(helm-flycheck .
+	       [(0 4)
+		((dash
+		  (2 12 1))
+		 (flycheck
+		  (28))
+		 (helm-core
+		  (1 9 8)))
+		"Show flycheck errors with helm" single
+		((:commit . "a15e62a6432c165c4f2c17388686873383400d7d")
+		 (:authors
+		  ("Yasuyuki Oka" . "yasuyk@gmail.com"))
+		 (:maintainer "Yasuyuki Oka" . "yasuyk@gmail.com")
+		 (:keywords "helm" "flycheck")
+		 (:url . "https://github.com/yasuyk/helm-flycheck"))])

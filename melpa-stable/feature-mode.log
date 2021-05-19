@@ -1,0 +1,34 @@
+Package: feature-mode
+Fetcher: github
+Source:  https://github.com/michaelklishin/cucumber.el.git
+
+Updating /mnt/store/melpa/working/feature-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/feature-mode/
+  to /tmp/feature-modekvRPJj/feature-mode-0.4
+    feature-mode-pkg.el -> feature-mode-pkg.el
+    feature-mode.el -> feature-mode.el
+    i18n.yml -> i18n.yml
+    snippets => snippets
+    support => support
+Created feature-mode-0.4.tar containing:
+  feature-mode-0.4/
+  feature-mode-0.4/feature-mode-pkg.el
+  feature-mode-0.4/feature-mode.el
+  feature-mode-0.4/i18n.yml
+  feature-mode-0.4/snippets/
+  feature-mode-0.4/snippets/feature-mode/
+  feature-mode-0.4/snippets/feature-mode/and
+  feature-mode-0.4/snippets/feature-mode/bac
+  feature-mode-0.4/snippets/feature-mode/fea
+  feature-mode-0.4/snippets/feature-mode/giv
+  feature-mode-0.4/snippets/feature-mode/sce
+  feature-mode-0.4/snippets/feature-mode/the
+  feature-mode-0.4/snippets/feature-mode/whe
+  feature-mode-0.4/support/
+  feature-mode-0.4/support/find_step.rb
+Built feature-mode in 2.840s, finished at Wed May 19 04:33:45 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  304 May 19 04:33 packages-stable/feature-mode-0.4.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 04:33 packages-stable/feature-mode-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/feature-mode-badge.svg

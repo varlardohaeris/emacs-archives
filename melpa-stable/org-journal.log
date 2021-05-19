@@ -1,0 +1,12 @@
+Package: org-journal
+Fetcher: github
+Source:  https://github.com/bastibe/org-journal.git
+
+Updating /mnt/store/melpa/working/org-journal/
+Built org-journal in 3.546s, finished at Wed May 19 01:39:27 2021
+ ✓ Success:
+ 80K -rw-r--r-- 1 root root  77K May 19 01:39 packages-stable/org-journal-2.1.2.el
+4.0K -rw-r--r-- 1 root root  370 May 19 01:39 packages-stable/org-journal-2.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-journal-badge.svg
+4.0K -rw-r--r-- 1 root root  202 May 19 01:39 packages-stable/org-journal-list.log
+4.0K -rw-r--r-- 1 root root 2.6K May 19 01:39 packages-stable/org-journal-readme.txt

@@ -1,0 +1,11 @@
+Package: super-save
+Fetcher: github
+Source:  https://github.com/bbatsov/super-save.git
+
+Updating /mnt/store/melpa/working/super-save/
+Built super-save in 3.615s, finished at Wed May 19 01:50:42 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.8K May 19 01:50 packages-stable/super-save-0.3.0.el
+4.0K -rw-r--r-- 1 root root  404 May 19 01:50 packages-stable/super-save-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/super-save-badge.svg
+4.0K -rw-r--r-- 1 root root   48 May 19 01:50 packages-stable/super-save-readme.txt

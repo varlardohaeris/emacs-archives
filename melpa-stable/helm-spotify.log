@@ -1,0 +1,6 @@
+Package: helm-spotify
+Fetcher: github
+Source:  https://github.com/krisajenkins/helm-spotify.git
+
+Updating /mnt/store/melpa/working/helm-spotify/
+No valid stable versions found for helm-spotify

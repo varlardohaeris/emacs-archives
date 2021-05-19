@@ -1,0 +1,6 @@
+Package: lab-themes
+Fetcher: github
+Source:  https://github.com/MetroWind/lab-theme.git
+
+Updating /mnt/store/melpa/working/lab-themes/
+No valid stable versions found for lab-themes

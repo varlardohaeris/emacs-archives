@@ -1,0 +1,6 @@
+Package: lsp-haskell
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-haskell.git
+
+Updating /mnt/store/melpa/working/lsp-haskell/
+No valid stable versions found for lsp-haskell

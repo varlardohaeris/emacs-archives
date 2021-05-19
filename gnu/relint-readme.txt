@@ -6,6 +6,16 @@ syntax and bad practice. It also checks the regexp-like arguments to
 skip-chars-forward, skip-chars-backward, skip-syntax-forward and
 skip-syntax-backward.
 
+* Contents
+
+   - Usage
+   - Installation
+   - What the diagnostics mean
+   - Suppressing diagnostics
+   - How it works
+   - Bugs
+
+
 * Usage
 
   - Check a single file:
@@ -48,6 +58,9 @@ skip-syntax-backward.
 
 
 * What the diagnostics mean
+
+  Tip: if a regexp string is difficult to understand, consider
+  decoding it using 'xr', as in (xr-lint "gibberish").
 
   - Unescaped literal 'X'
 
@@ -187,7 +200,7 @@ skip-syntax-backward.
 
   - Literal '-' not first or last
 
-    It is good style to put literal hyphens last in character
+    It is good style to put a literal hyphen last in character
     alternatives and skip sets, to clearly indicate that it was not
     intended as part of a range.
 
@@ -213,6 +226,23 @@ skip-syntax-backward.
 
     In general, A?, where A matches the empty string, can be
     simplified to just A.
+
+  - Ineffective string escape '\X'
+
+    A backslash precedes a character that does not need escaping in a
+    string literal (any string, not just regexps), like in "hot\-dog".
+
+    If the backslash should be part of the string then it probably
+    needs to be doubled; otherwise, it is pointless and should be
+    removed to avoid confusion.
+
+    In Emacs versions older than 27.1, a left round or square bracket,
+    '(' or '[', at the very start of a line in a multi-line string
+    could sometimes fool the Emacs-Lisp mode into believing it to be
+    the start of a function, thus people sometimes precede such
+    brackets with an otherwise unnecessary backslash. However, there
+    is usually no reason to put backslashes before brackets in strings
+    in general.
 
   - Suspect range '+-X' or 'X-+'
 

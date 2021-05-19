@@ -1,0 +1,6 @@
+Package: ecb
+Fetcher: github
+Source:  https://github.com/ecb-home/ecb.git
+
+Updating /mnt/store/melpa/working/ecb/
+No valid stable versions found for ecb

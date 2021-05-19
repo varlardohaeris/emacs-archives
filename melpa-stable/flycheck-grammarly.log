@@ -1,0 +1,11 @@
+Package: flycheck-grammarly
+Fetcher: github
+Source:  https://github.com/emacs-grammarly/flycheck-grammarly.git
+
+Updating /mnt/store/melpa/working/flycheck-grammarly/
+Built flycheck-grammarly in 2.917s, finished at Wed May 19 04:34:47 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 8.0K May 19 04:34 packages-stable/flycheck-grammarly-0.2.3.el
+4.0K -rw-r--r-- 1 root root  457 May 19 04:34 packages-stable/flycheck-grammarly-0.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-grammarly-badge.svg
+4.0K -rw-r--r-- 1 root root   33 May 19 04:34 packages-stable/flycheck-grammarly-readme.txt

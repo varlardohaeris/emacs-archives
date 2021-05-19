@@ -1,0 +1,6 @@
+Package: mkdown
+Fetcher: github
+Source:  https://github.com/ajtulloch/mkdown.el.git
+
+Updating /mnt/store/melpa/working/mkdown/
+No valid stable versions found for mkdown

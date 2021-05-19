@@ -1,0 +1,37 @@
+Package: epkg
+Fetcher: github
+Source:  https://github.com/emacscollective/epkg.git
+
+Updating /mnt/store/melpa/working/epkg/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/epkg/
+  to /tmp/epkg6lnB2F/epkg-3.2.2
+    epkg-desc.el -> epkg-desc.el
+    epkg-gelpa.el -> epkg-gelpa.el
+    epkg-list.el -> epkg-list.el
+    epkg-melpa.el -> epkg-melpa.el
+    epkg-org.el -> epkg-org.el
+    epkg-schemata.el -> epkg-schemata.el
+    epkg-utils.el -> epkg-utils.el
+    epkg.el -> epkg.el
+    epkg.texi -> epkg.texi
+Created /tmp/epkg6lnB2F/epkg-3.2.2/epkg.info
+Created epkg-3.2.2.tar containing:
+  epkg-3.2.2/
+  epkg-3.2.2/dir
+  epkg-3.2.2/epkg-desc.el
+  epkg-3.2.2/epkg-gelpa.el
+  epkg-3.2.2/epkg-list.el
+  epkg-3.2.2/epkg-melpa.el
+  epkg-3.2.2/epkg-org.el
+  epkg-3.2.2/epkg-pkg.el
+  epkg-3.2.2/epkg-schemata.el
+  epkg-3.2.2/epkg-utils.el
+  epkg-3.2.2/epkg.el
+  epkg-3.2.2/epkg.info
+Built epkg in 7.560s, finished at Wed May 19 04:31:14 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  389 May 19 04:31 packages-stable/epkg-3.2.2.entry
+100K -rw-r--r-- 1 root root 100K May 19 04:31 packages-stable/epkg-3.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/epkg-badge.svg
+4.0K -rw-r--r-- 1 root root  341 May 19 04:31 packages-stable/epkg-readme.txt

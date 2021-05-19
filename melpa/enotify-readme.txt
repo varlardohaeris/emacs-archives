@@ -91,7 +91,7 @@ The message used to send a notification has the form
 - help: tooltip text on mouse-over
 - mouse-1: an (iteractive "e") handler function of the form
 
-	        (m1-handler event)
+        (m1-handler event)
 
      that will be called when the user presses the left mouse button
      on the notification text.

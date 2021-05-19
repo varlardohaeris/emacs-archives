@@ -1,0 +1,6 @@
+Package: edit-server-htmlize
+Fetcher: github
+Source:  https://github.com/frobtech/edit-server-htmlize.git
+
+Updating /mnt/store/melpa/working/edit-server-htmlize/
+No valid stable versions found for edit-server-htmlize

@@ -1,0 +1,11 @@
+Package: ert-junit
+Fetcher: git
+Source:  https://bitbucket.org/olanilsson/ert-junit
+
+Updating /mnt/store/melpa/working/ert-junit/
+Built ert-junit in 2.426s, finished at Wed May 19 04:31:29 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:31 packages-stable/ert-junit-0.4.1.el
+4.0K -rw-r--r-- 1 root root  426 May 19 04:31 packages-stable/ert-junit-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ert-junit-badge.svg
+4.0K -rw-r--r-- 1 root root  213 May 19 04:31 packages-stable/ert-junit-readme.txt

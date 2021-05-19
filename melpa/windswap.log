@@ -1,0 +1,11 @@
+Package: windswap
+Fetcher: github
+Source:  https://github.com/purcell/windswap.git
+
+Updating /mnt/store/melpa/working/windswap/
+Built windswap in 4.105s, finished at Wed May 19 04:15:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.0K May 19 04:15 packages/windswap-20200722.411.el
+4.0K -rw-r--r-- 1 root root  401 May 19 04:15 packages/windswap-20200722.411.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/windswap-badge.svg
+4.0K -rw-r--r-- 1 root root  443 May 19 04:15 packages/windswap-readme.txt

@@ -1,0 +1,11 @@
+Package: lingr
+Fetcher: github
+Source:  https://github.com/lugecy/lingr-el.git
+
+Updating /mnt/store/melpa/working/lingr/
+Built lingr in 3.351s, finished at Wed May 19 01:32:20 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  40K May 19 01:32 packages-stable/lingr-0.2.el
+4.0K -rw-r--r-- 1 root root  306 May 19 01:32 packages-stable/lingr-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lingr-badge.svg
+4.0K -rw-r--r-- 1 root root   65 May 19 01:32 packages-stable/lingr-readme.txt

@@ -1,0 +1,11 @@
+Package: kaocha-runner
+Fetcher: github
+Source:  https://github.com/magnars/kaocha-runner.el.git
+
+Updating /mnt/store/melpa/working/kaocha-runner/
+Built kaocha-runner in 3.416s, finished at Wed May 19 04:45:30 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:45 packages-stable/kaocha-runner-0.3.0.el
+4.0K -rw-r--r-- 1 root root  411 May 19 04:45 packages-stable/kaocha-runner-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kaocha-runner-badge.svg
+4.0K -rw-r--r-- 1 root root   49 May 19 04:45 packages-stable/kaocha-runner-readme.txt

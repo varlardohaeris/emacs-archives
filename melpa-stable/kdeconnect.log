@@ -1,0 +1,6 @@
+Package: kdeconnect
+Fetcher: github
+Source:  https://github.com/carldotac/kdeconnect.el.git
+
+Updating /mnt/store/melpa/working/kdeconnect/
+No valid stable versions found for kdeconnect

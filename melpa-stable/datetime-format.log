@@ -1,0 +1,6 @@
+Package: datetime-format
+Fetcher: github
+Source:  https://github.com/emacs-php/emacs-datetime.git
+
+Updating /mnt/store/melpa/working/datetime-format/
+No valid stable versions found for datetime-format

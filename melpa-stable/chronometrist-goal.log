@@ -1,0 +1,6 @@
+Package: chronometrist-goal
+Fetcher: git
+Source:  https://tildegit.org/contrapunctus/chronometrist-goal.git
+
+Updating /mnt/store/melpa/working/chronometrist-goal/
+No valid stable versions found for chronometrist-goal

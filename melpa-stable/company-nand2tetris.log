@@ -1,0 +1,6 @@
+Package: company-nand2tetris
+Fetcher: github
+Source:  https://github.com/CestDiego/nand2tetris.el.git
+
+Updating /mnt/store/melpa/working/company-nand2tetris/
+No valid stable versions found for company-nand2tetris

@@ -1,0 +1,6 @@
+Package: clear-text
+Fetcher: github
+Source:  https://github.com/xuchunyang/clear-text.el.git
+
+Updating /mnt/store/melpa/working/clear-text/
+No valid stable versions found for clear-text

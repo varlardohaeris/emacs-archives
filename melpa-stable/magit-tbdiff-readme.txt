@@ -1,3 +1,4 @@
+
 Magit-tbdiff provides a Magit interface to git-tbdiff [1,2], a Git
 extension for comparing two versions of a topic branch.
 

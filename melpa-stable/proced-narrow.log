@@ -1,0 +1,11 @@
+Package: proced-narrow
+Fetcher: github
+Source:  https://github.com/travisjeffery/proced-narrow.git
+
+Updating /mnt/store/melpa/working/proced-narrow/
+Built proced-narrow in 3.108s, finished at Wed May 19 01:44:06 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K May 19 01:44 packages-stable/proced-narrow-1.0.5.el
+4.0K -rw-r--r-- 1 root root  410 May 19 01:44 packages-stable/proced-narrow-1.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/proced-narrow-badge.svg
+4.0K -rw-r--r-- 1 root root  518 May 19 01:44 packages-stable/proced-narrow-readme.txt

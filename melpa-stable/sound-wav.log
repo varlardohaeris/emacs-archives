@@ -1,0 +1,11 @@
+Package: sound-wav
+Fetcher: github
+Source:  https://github.com/emacsorphanage/sound-wav.git
+
+Updating /mnt/store/melpa/working/sound-wav/
+Built sound-wav in 2.774s, finished at Wed May 19 01:49:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.2K May 19 01:49 packages-stable/sound-wav-0.2.el
+4.0K -rw-r--r-- 1 root root  359 May 19 01:49 packages-stable/sound-wav-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/sound-wav-badge.svg
+4.0K -rw-r--r-- 1 root root   65 May 19 01:49 packages-stable/sound-wav-readme.txt

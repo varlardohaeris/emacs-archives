@@ -1,0 +1,6 @@
+Package: jumblr
+Fetcher: github
+Source:  https://github.com/mkmcc/jumblr.git
+
+Updating /mnt/store/melpa/working/jumblr/
+No valid stable versions found for jumblr

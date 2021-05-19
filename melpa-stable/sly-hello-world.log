@@ -1,0 +1,6 @@
+Package: sly-hello-world
+Fetcher: github
+Source:  https://github.com/joaotavora/sly-hello-world.git
+
+Updating /mnt/store/melpa/working/sly-hello-world/
+No valid stable versions found for sly-hello-world

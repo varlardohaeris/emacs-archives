@@ -1,0 +1,11 @@
+Package: fvwm-mode
+Fetcher: github
+Source:  https://github.com/theBlackDragon/fvwm-mode.git
+
+Updating /mnt/store/melpa/working/fvwm-mode/
+Built fvwm-mode in 2.920s, finished at Wed May 19 04:36:33 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  40K May 19 04:36 packages-stable/fvwm-mode-1.6.4.el
+4.0K -rw-r--r-- 1 root root  288 May 19 04:36 packages-stable/fvwm-mode-1.6.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fvwm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  470 May 19 04:36 packages-stable/fvwm-mode-readme.txt

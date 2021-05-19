@@ -1,0 +1,11 @@
+Package: name-this-color
+Fetcher: github
+Source:  https://github.com/knl/name-this-color.el.git
+
+Updating /mnt/store/melpa/working/name-this-color/
+Built name-this-color in 4.006s, finished at Wed May 19 01:36:54 2021
+ ✓ Success:
+152K -rw-r--r-- 1 root root 149K May 19 01:36 packages-stable/name-this-color-0.3.0.el
+4.0K -rw-r--r-- 1 root root  348 May 19 01:36 packages-stable/name-this-color-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/name-this-color-badge.svg
+4.0K -rw-r--r-- 1 root root  415 May 19 01:36 packages-stable/name-this-color-readme.txt

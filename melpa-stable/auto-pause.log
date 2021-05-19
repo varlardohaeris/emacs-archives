@@ -1,0 +1,6 @@
+Package: auto-pause
+Fetcher: github
+Source:  https://github.com/lujun9972/auto-pause.git
+
+Updating /mnt/store/melpa/working/auto-pause/
+No valid stable versions found for auto-pause

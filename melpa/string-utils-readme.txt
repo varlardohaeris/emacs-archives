@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'string-utils)
@@ -86,7 +87,7 @@ TODO
      String-utils-squeeze-url needs improvement, sometimes using
      two elisions where one would do.
 
-License
+; License
 
 Simplified BSD License:
 

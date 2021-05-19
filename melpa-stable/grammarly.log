@@ -1,0 +1,11 @@
+Package: grammarly
+Fetcher: github
+Source:  https://github.com/emacs-grammarly/grammarly.git
+
+Updating /mnt/store/melpa/working/grammarly/
+Built grammarly in 2.851s, finished at Wed May 19 04:38:31 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:38 packages-stable/grammarly-0.3.0.el
+4.0K -rw-r--r-- 1 root root  430 May 19 04:38 packages-stable/grammarly-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grammarly-badge.svg
+4.0K -rw-r--r-- 1 root root   26 May 19 04:38 packages-stable/grammarly-readme.txt

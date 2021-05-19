@@ -1,0 +1,36 @@
+Package: debian-el
+Fetcher: git
+Source:  https://salsa.debian.org/emacsen-team/debian-el.git
+
+Updating /mnt/store/melpa/working/debian-el/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/debian-el/
+  to /tmp/debian-elaFA59E/debian-el-37.4
+    apt-sources.el -> apt-sources.el
+    apt-utils.el -> apt-utils.el
+    deb-view.el -> deb-view.el
+    debian-bug.el -> debian-bug.el
+    debian-el-pkg.el -> debian-el-pkg.el
+    debian-el.el -> debian-el.el
+    gnus-BTS.el -> gnus-BTS.el
+    preseed.el -> preseed.el
+    debian-el.texi -> debian-el.texi
+Created /tmp/debian-elaFA59E/debian-el-37.4/debian-el.info
+Created debian-el-37.4.tar containing:
+  debian-el-37.4/
+  debian-el-37.4/apt-sources.el
+  debian-el-37.4/apt-utils.el
+  debian-el-37.4/deb-view.el
+  debian-el-37.4/debian-bug.el
+  debian-el-37.4/debian-el-pkg.el
+  debian-el-37.4/debian-el.el
+  debian-el-37.4/debian-el.info
+  debian-el-37.4/dir
+  debian-el-37.4/gnus-BTS.el
+  debian-el-37.4/preseed.el
+Built debian-el in 7.120s, finished at Wed May 19 04:26:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  143 May 19 04:26 packages-stable/debian-el-37.4.entry
+272K -rw-r--r-- 1 root root 270K May 19 04:26 packages-stable/debian-el-37.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/debian-el-badge.svg
+4.0K -rw-r--r-- 1 root root   65 May 19 04:26 packages-stable/debian-el-readme.txt

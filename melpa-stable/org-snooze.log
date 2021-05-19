@@ -1,0 +1,11 @@
+Package: org-snooze
+Fetcher: github
+Source:  https://github.com/xueeinstein/org-snooze.el.git
+
+Updating /mnt/store/melpa/working/org-snooze/
+Built org-snooze in 5.366s, finished at Wed May 19 01:40:07 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K May 19 01:40 packages-stable/org-snooze-0.1.0.el
+4.0K -rw-r--r-- 1 root root  336 May 19 01:40 packages-stable/org-snooze-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-snooze-badge.svg
+4.0K -rw-r--r-- 1 root root  138 May 19 01:40 packages-stable/org-snooze-readme.txt

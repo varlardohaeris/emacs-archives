@@ -1,0 +1,21 @@
+Package: kaesar
+Fetcher: github
+Source:  https://github.com/mhayashi1120/Emacs-kaesar.git
+
+Updating /mnt/store/melpa/working/kaesar/
+Built kaesar in 4.151s, finished at Wed May 19 04:45:24 2021
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  46K May 19 04:45 packages-stable/kaesar-0.9.0.el
+4.0K -rw-r--r-- 1 root root  406 May 19 04:45 packages-stable/kaesar-0.9.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kaesar-badge.svg
+8.0K -rw-r--r-- 1 root root 6.4K May 19 04:45 packages-stable/kaesar-file-0.9.0.el
+4.0K -rw-r--r-- 1 root root  452 May 19 04:45 packages-stable/kaesar-file-0.9.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kaesar-file-badge.svg
+4.0K -rw-r--r-- 1 root root  260 May 19 04:45 packages-stable/kaesar-file-readme.txt
+4.0K -rw-r--r-- 1 root root  561 May 19 04:45 packages-stable/kaesar-file.log
+ 16K -rw-r--r-- 1 root root  14K May 19 04:45 packages-stable/kaesar-mode-0.9.0.el
+4.0K -rw-r--r-- 1 root root  485 May 19 04:45 packages-stable/kaesar-mode-0.9.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kaesar-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  340 May 19 04:45 packages-stable/kaesar-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  223 May 19 04:45 packages-stable/kaesar-mode.log
+4.0K -rw-r--r-- 1 root root 1.7K May 19 04:45 packages-stable/kaesar-readme.txt

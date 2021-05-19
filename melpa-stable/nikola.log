@@ -1,0 +1,6 @@
+Package: nikola
+Fetcher: gitlab
+Source:  https://gitlab.com/drymerisnothere/nikola-el.git
+
+Updating /mnt/store/melpa/working/nikola/
+No valid stable versions found for nikola

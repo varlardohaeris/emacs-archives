@@ -1,3 +1,4 @@
+
 This package offers an alternate view to `mu4e' e-mail display.  It shows all
 e-mails of a thread in a single view, where each correspondant has their own
 face.  Threads can be displayed linearly (in which case e-mails are displayed

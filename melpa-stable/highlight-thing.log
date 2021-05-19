@@ -1,0 +1,6 @@
+Package: highlight-thing
+Fetcher: github
+Source:  https://github.com/fgeller/highlight-thing.el.git
+
+Updating /mnt/store/melpa/working/highlight-thing/
+No valid stable versions found for highlight-thing

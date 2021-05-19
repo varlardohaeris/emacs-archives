@@ -1,3 +1,4 @@
+
 `audio-notes-mode' is a way to manage small audio recordings that
 you make in order to record thoughts.
 
@@ -24,7 +25,7 @@ do this, `audio-notes-mode' will DELETE the note which was already
 played and start playing the next one. Once you've gone through all
 of them, `audio-notes-mode' deactivates itself.
 
-Instructions:
+; Instructions:
 
 INSTALLATION
 

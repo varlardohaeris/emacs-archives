@@ -1,3 +1,4 @@
+
 A global minor-mode to navigate and edit text objects. Objed enables modal
 editing and composition of commands, too. It combines ideas of other
 Editors like Vim or Kakoune and tries to align them with regular Emacs
@@ -89,3 +90,5 @@ be an important next step.
 
 This package would never been possible without the helpful community around
 Emacs. Thank you all and see you in parendise...Share the software!
+
+

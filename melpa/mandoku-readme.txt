@@ -8,7 +8,7 @@ premodern Chinese texts by extending org-mode and providing
 routines for helping with reading, annotating and translating of
 such texts.  For more information see http://www.mandoku.org
 
-License
+; License
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License

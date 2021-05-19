@@ -1,0 +1,6 @@
+Package: vertica
+Fetcher: github
+Source:  https://github.com/r0man/vertica-el.git
+
+Updating /mnt/store/melpa/working/vertica/
+No valid stable versions found for vertica

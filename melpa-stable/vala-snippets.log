@@ -1,0 +1,6 @@
+Package: vala-snippets
+Fetcher: github
+Source:  https://github.com/gopar/vala-snippets.git
+
+Updating /mnt/store/melpa/working/vala-snippets/
+No valid stable versions found for vala-snippets

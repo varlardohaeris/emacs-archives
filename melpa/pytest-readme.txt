@@ -4,7 +4,7 @@ port of nosemacs (https://bitbucket.org/durin42/nosemacs).  A
 special thanks to Jason Pellerin and Augie Fackler for writing
 nose.el.
 
-Installation
+; Installation
 
 In your Emacs config:
 
@@ -27,12 +27,12 @@ By default, the root of a project is found by looking for any of the files
 'setup.py', '.hg' and '.git'.  You can add files to check for to the file
 list:
 
-(add-to-list 'pytest-project-root-files "something")
+; (add-to-list 'pytest-project-root-files "something")
 
 or you can change the project root test to detect in some other way
 whether a directory is the project root:
 
-(setq pytest-project-root-test (lambda (dirname) (equal dirname "foo")))
+; (setq pytest-project-root-test (lambda (dirname) (equal dirname "foo")))
 
 Probably also want some keybindings:
 (add-hook 'python-mode-hook

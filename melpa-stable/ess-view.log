@@ -1,0 +1,6 @@
+Package: ess-view
+Fetcher: github
+Source:  https://github.com/GioBo/ess-view.git
+
+Updating /mnt/store/melpa/working/ess-view/
+No valid stable versions found for ess-view

@@ -1,0 +1,11 @@
+Package: highlight-indentation
+Fetcher: github
+Source:  https://github.com/antonj/Highlight-Indentation-for-Emacs.git
+
+Updating /mnt/store/melpa/working/highlight-indentation/
+Built highlight-indentation in 3.032s, finished at Wed May 19 04:41:43 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:41 packages-stable/highlight-indentation-0.7.0.el
+4.0K -rw-r--r-- 1 root root  371 May 19 04:41 packages-stable/highlight-indentation-0.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/highlight-indentation-badge.svg
+4.0K -rw-r--r-- 1 root root  108 May 19 04:41 packages-stable/highlight-indentation-readme.txt

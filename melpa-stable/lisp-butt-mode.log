@@ -1,0 +1,11 @@
+Package: lisp-butt-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/marcowahl/lisp-butt-mode.git
+
+Updating /mnt/store/melpa/working/lisp-butt-mode/
+Built lisp-butt-mode in 3.100s, finished at Wed May 19 01:32:26 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K May 19 01:32 packages-stable/lisp-butt-mode-2.0.4.el
+4.0K -rw-r--r-- 1 root root  346 May 19 01:32 packages-stable/lisp-butt-mode-2.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lisp-butt-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lisp-butt-mode-readme.txt

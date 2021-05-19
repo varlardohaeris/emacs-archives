@@ -1,0 +1,6 @@
+Package: typing
+Fetcher: github
+Source:  https://github.com/kensanata/typing.git
+
+Updating /mnt/store/melpa/working/typing/
+No valid stable versions found for typing

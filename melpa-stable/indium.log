@@ -1,0 +1,55 @@
+Package: indium
+Fetcher: github
+Source:  https://github.com/NicolasPetton/Indium.git
+
+Updating /mnt/store/melpa/working/indium/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/indium/
+  to /tmp/indiumTXsKde/indium-2.1.7
+    indium-breakpoint.el -> indium-breakpoint.el
+    indium-chrome.el -> indium-chrome.el
+    indium-client.el -> indium-client.el
+    indium-debugger-litable.el -> indium-debugger-litable.el
+    indium-debugger-locals.el -> indium-debugger-locals.el
+    indium-debugger.el -> indium-debugger.el
+    indium-faces.el -> indium-faces.el
+    indium-inspector.el -> indium-inspector.el
+    indium-interaction.el -> indium-interaction.el
+    indium-list-sources.el -> indium-list-sources.el
+    indium-nodejs.el -> indium-nodejs.el
+    indium-render.el -> indium-render.el
+    indium-repl.el -> indium-repl.el
+    indium-scratch.el -> indium-scratch.el
+    indium-seq-fix.el -> indium-seq-fix.el
+    indium-structs.el -> indium-structs.el
+    indium.el -> indium.el
+  ! doc/Indium.texi -> Indium.texi
+Created /tmp/indiumTXsKde/indium-2.1.7/Indium.info
+Created indium-2.1.7.tar containing:
+  indium-2.1.7/
+  indium-2.1.7/Indium.info
+  indium-2.1.7/dir
+  indium-2.1.7/indium-breakpoint.el
+  indium-2.1.7/indium-chrome.el
+  indium-2.1.7/indium-client.el
+  indium-2.1.7/indium-debugger-litable.el
+  indium-2.1.7/indium-debugger-locals.el
+  indium-2.1.7/indium-debugger.el
+  indium-2.1.7/indium-faces.el
+  indium-2.1.7/indium-inspector.el
+  indium-2.1.7/indium-interaction.el
+  indium-2.1.7/indium-list-sources.el
+  indium-2.1.7/indium-nodejs.el
+  indium-2.1.7/indium-pkg.el
+  indium-2.1.7/indium-render.el
+  indium-2.1.7/indium-repl.el
+  indium-2.1.7/indium-scratch.el
+  indium-2.1.7/indium-seq-fix.el
+  indium-2.1.7/indium-structs.el
+  indium-2.1.7/indium.el
+Built indium in 8.470s, finished at Wed May 19 04:43:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  499 May 19 04:43 packages-stable/indium-2.1.7.entry
+172K -rw-r--r-- 1 root root 170K May 19 04:43 packages-stable/indium-2.1.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/indium-badge.svg
+4.0K -rw-r--r-- 1 root root  273 May 19 04:43 packages-stable/indium-readme.txt

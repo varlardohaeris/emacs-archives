@@ -1,0 +1,11 @@
+Package: elisp-lint
+Fetcher: github
+Source:  https://github.com/gonewest818/elisp-lint.git
+
+Updating /mnt/store/melpa/working/elisp-lint/
+Built elisp-lint in 2.745s, finished at Wed May 19 04:30:16 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 04:30 packages-stable/elisp-lint-0.4.0.el
+4.0K -rw-r--r-- 1 root root  476 May 19 04:30 packages-stable/elisp-lint-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elisp-lint-badge.svg
+4.0K -rw-r--r-- 1 root root  613 May 19 04:30 packages-stable/elisp-lint-readme.txt

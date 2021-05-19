@@ -1,0 +1,6 @@
+Package: exwm-float
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/exwm-float.el.git
+
+Updating /mnt/store/melpa/working/exwm-float/
+No valid stable versions found for exwm-float

@@ -1,0 +1,6 @@
+Package: cc-cedict
+Fetcher: github
+Source:  https://github.com/xuchunyang/cc-cedict.el.git
+
+Updating /mnt/store/melpa/working/cc-cedict/
+No valid stable versions found for cc-cedict

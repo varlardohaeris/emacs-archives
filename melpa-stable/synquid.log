@@ -1,0 +1,6 @@
+Package: synquid
+Fetcher: github
+Source:  https://github.com/cpitclaudel/synquid-emacs.git
+
+Updating /mnt/store/melpa/working/synquid/
+No valid stable versions found for synquid

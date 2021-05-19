@@ -1,2 +1,10 @@
-
-(helm-proc . [(0 0 5) ((helm (1 6 0))) "Helm interface for managing system processes" tar ((:commit . "0a75a86e4f381143134e0cdcd8c84c5b5b0fb2d6"))])
+(helm-proc .
+	   [(0 0 5)
+	    ((helm
+	      (1 6 0)))
+	    "Helm interface for managing system processes" tar
+	    ((:commit . "0a75a86e4f381143134e0cdcd8c84c5b5b0fb2d6")
+	     (:authors
+	      ("Markus Hauck" . "markus1189@gmail.com"))
+	     (:maintainer "Markus Hauck" . "markus1189@gmail.com")
+	     (:keywords "helm"))])

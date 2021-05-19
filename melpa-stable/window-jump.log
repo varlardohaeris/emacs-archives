@@ -1,0 +1,6 @@
+Package: window-jump
+Fetcher: github
+Source:  https://github.com/chumpage/chumpy-windows.git
+
+Updating /mnt/store/melpa/working/window-jump/
+No valid stable versions found for window-jump

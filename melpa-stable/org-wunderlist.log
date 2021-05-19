@@ -1,0 +1,6 @@
+Package: org-wunderlist
+Fetcher: github
+Source:  https://github.com/emacsattic/org-wunderlist.git
+
+Updating /mnt/store/melpa/working/org-wunderlist/
+No valid stable versions found for org-wunderlist

@@ -1,11 +1,12 @@
 Run commands from the region or current line,
 with some simple specifiers to control behavior.
 
-Usage
+; Usage
 
 (run-stuff-command-on-region-or-line)
 
-A command to execute the current selection or the current line.
+A command to execute the current selection or the current line
+using the default `run-stuff-handlers' variable.
 
 - '$ ' Run in terminal.
 - '@ ' Open in an Emacs buffer.

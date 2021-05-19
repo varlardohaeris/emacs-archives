@@ -1,0 +1,23 @@
+Package: notmuch-labeler
+Fetcher: github
+Source:  https://github.com/DamienCassou/notmuch-labeler.git
+
+Updating /mnt/store/melpa/working/notmuch-labeler/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/notmuch-labeler/
+  to /tmp/notmuch-labelerAzUs2l/notmuch-labeler-0.1
+    notmuch-labeler-folder.el -> notmuch-labeler-folder.el
+    notmuch-labeler-plug.el -> notmuch-labeler-plug.el
+    notmuch-labeler.el -> notmuch-labeler.el
+Created notmuch-labeler-0.1.tar containing:
+  notmuch-labeler-0.1/
+  notmuch-labeler-0.1/notmuch-labeler-folder.el
+  notmuch-labeler-0.1/notmuch-labeler-pkg.el
+  notmuch-labeler-0.1/notmuch-labeler-plug.el
+  notmuch-labeler-0.1/notmuch-labeler.el
+Built notmuch-labeler in 2.533s, finished at Wed May 19 01:37:40 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  426 May 19 01:37 packages-stable/notmuch-labeler-0.1.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:37 packages-stable/notmuch-labeler-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/notmuch-labeler-badge.svg
+4.0K -rw-r--r-- 1 root root  959 May 19 01:37 packages-stable/notmuch-labeler-readme.txt

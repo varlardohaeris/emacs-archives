@@ -1,0 +1,11 @@
+Package: lit-mode
+Fetcher: github
+Source:  https://github.com/HectorAE/lit-mode.git
+
+Updating /mnt/store/melpa/working/lit-mode/
+Built lit-mode in 2.928s, finished at Wed May 19 01:32:32 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K May 19 01:32 packages-stable/lit-mode-0.1.1.el
+4.0K -rw-r--r-- 1 root root  313 May 19 01:32 packages-stable/lit-mode-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lit-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  285 May 19 01:32 packages-stable/lit-mode-readme.txt

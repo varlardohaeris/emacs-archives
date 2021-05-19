@@ -1,0 +1,6 @@
+Package: ct
+Fetcher: github
+Source:  https://github.com/neeasade/ct.el.git
+
+Updating /mnt/store/melpa/working/ct/
+No valid stable versions found for ct

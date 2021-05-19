@@ -1,0 +1,6 @@
+Package: mozc-popup
+Fetcher: github
+Source:  https://github.com/d5884/mozc-popup.git
+
+Updating /mnt/store/melpa/working/mozc-popup/
+No valid stable versions found for mozc-popup

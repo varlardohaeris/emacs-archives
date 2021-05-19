@@ -1,0 +1,6 @@
+Package: ob-mermaid
+Fetcher: github
+Source:  https://github.com/arnm/ob-mermaid.git
+
+Updating /mnt/store/melpa/working/ob-mermaid/
+No valid stable versions found for ob-mermaid

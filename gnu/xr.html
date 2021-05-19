@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC>
-<html>
+<html lang="en" xml:lang="en">
     <head>
         <title>GNU ELPA - xr</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -23,7 +23,8 @@
 
             <div class="container">
 <h2 class="package">xr</h2><dl><dt>Description</dt><dd>Convert string regexp to rx notation</dd>
-<dt>Latest</dt> <dd><a href="xr-1.19.tar">xr-1.19.tar</a>, 2020-May-03,  120&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="xr-1.21.tar">xr-1.21.tar</a>, 2021-Feb-17,  140&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>Mattias Engdegård &lt;mattiase@acm.org></dd>
 <dt>Home page</dt> <dd><a href="https://github.com/mattiase/xr">https://github.com/mattiase/xr</a></dd>
 <dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/xr">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/xr">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
@@ -46,6 +47,7 @@ arguments to skip-chars-forward and skip-chars-backward.
 
 The xr package can be used interactively or by other code as a library.
 
+
 * Example
 
   (xr-pp "\\`\\(?:[^^]\\|\\^\\(?: \\*\\|\\[\\)\\)")
@@ -57,11 +59,13 @@ The xr package can be used interactively or by other code as a library.
            (seq "^"
                 (or " *" "["))))
 
+
 * Installation
 
   From GNU ELPA (https://elpa.gnu.org/packages/xr.html):
 
     M-x package-install RET xr RET
+
 
 * Interface
 
@@ -81,6 +85,199 @@ The xr package can be used interactively or by other code as a library.
   
    xr-pp-rx-to-str  --  pretty-print rx expression to string
   
+
+* What the diagnostics mean
+
+  - Unescaped literal 'X'
+
+    A special character is taken literally because it occurs in a
+    position where it does not need to be backslash-escaped. It is
+    good style to do so anyway (assuming that it should occur as a
+    literal character).
+
+  - Escaped non-special character 'X'
+  
+    A character is backslash-escaped even though this is not necessary
+    and does not turn it into a special sequence. Maybe the backslash
+    was in error, or should be doubled if a literal backslash was
+    expected.
+  
+  - Duplicated 'X' inside character alternative
+  
+    A character occurs twice inside [...]; this is obviously
+    pointless. In particular, backslashes are not special inside
+    [...]; they have no escaping power, and do not need to be escaped
+    in order to include a literal backslash.
+  
+  - Repetition of repetition
+  - Repetition of option
+  - Optional repetition
+  - Optional option
+  
+    A repetition construct is applied to an expression that is already
+    repeated, such as a*+ or \(x?\)?. These expressions can be written
+    with a single repetition and often indicate a different mistake,
+    perhaps a missing backslash.
+
+    When a repetition construct is ? or ??, it is termed 'option'
+    instead; the principle is the same.
+
+  - Reversed range 'Y-X' matches nothing
+
+    The last character of a range precedes the first and therefore
+    includes no characters at all (not even the endpoints). Most such
+    ranges are caused by a misplaced hyphen.
+
+  - Character 'B' included in range 'A-C'
+
+    A range includes a character that also occurs individually. This
+    is often caused by a misplaced hyphen.
+
+  - Ranges 'A-M' and 'D-Z' overlap
+
+    Two ranges have at least one character in common. This is often
+    caused by a misplaced hyphen.
+
+  - Two-character range 'A-B'
+
+    A range only consists of its two endpoints, since they have
+    consecutive character codes. This is often caused by a misplaced
+    hyphen.
+
+  - Duplicated character class '[:class:]'
+
+    A character class occurs twice in a single character alternative
+    or skip set.
+
+  - Duplicated alternative branch
+
+    The same expression occurs in two different branches, like in
+    A\|A. This has the effect of only including it once.
+
+  - Branch matches superset/subset of a previous branch
+
+    A branch in an or-expression matches a superset or subset of what
+    another branch matches, like in [ab]\|a. This means that one of
+    the branches can be eliminated without changing the meaning of the
+    regexp.
+
+  - Repetition subsumes/subsumed by preceding repetition
+
+    An repeating expression matches a superset or subset of what the
+    previous expression matches, in such a way that one of them is
+    unnecessary. For example, [ab]+a* matches the same text as [ab]+,
+    so the a* could be removed without changing the meaning of the
+    regexp.
+
+  - First/last item in repetition subsumes last/first item (wrapped)
+
+    The first and last items in a repeated sequence, being effectively
+    adjacent, match a superset or subset of each other, which makes
+    for an unexpected inefficiency. For example, \(?:a*c[ab]+\)* can
+    be seen as a*c[ab]+a*c[ab]+... where the [ab]+a* in the middle is
+    a slow way of writing [ab]+ which is made worse by the outer
+    repetition. The general remedy is to move the subsumed item out of
+    the repeated sequence, resulting in a*\(?:c[ab]+\)* in the example
+    above.
+
+  - End-of-line anchor followed by non-newline
+  - Non-newline followed by line-start anchor
+
+    A pattern that does not match a newline occurs right after an
+    end-of-line anchor ($) or before a line-start anchor (^).
+    This combination can never match.
+
+  - End-of-text anchor followed by non-empty pattern
+
+    A pattern that only matches a non-empty string occurs right after
+    an end-of-text anchor (\'). This combination can never match.
+
+  - Uncounted repetition
+
+    The construct A\{,\} repeats A zero or more times which was
+    probably not intended.
+
+  - Implicit zero repetition
+
+    The construct A\{\} only matches the empty string, which was
+    probably not intended.
+
+  - Suspect '[' in char alternative
+
+    This warning indicates badly-placed square brackets in a character
+    alternative, as in [A[B]C]. A literal ] must come first
+    (possibly after a negating ^).
+
+  - Literal '-' not first or last
+
+    It is good style to put a literal hyphen last in character
+    alternatives and skip sets, to clearly indicate that it was not
+    intended as part of a range.
+
+  - Repetition of zero-width assertion
+  - Optional zero-width assertion
+
+    A repetition operator was applied to a zero-width assertion, like
+    ^ or \&lt;, which is completely pointless. The error may be a missing
+    escaping backslash.
+
+  - Repetition of expression matching an empty string
+  - Optional expression matching an empty string
+
+    A repetition operator was applied to a sub-expression that could
+    match the empty string; this is not necessarily wrong, but such
+    constructs run very slowly on Emacs's regexp engine. Consider
+    rewriting them into a form where the repeated expression cannot
+    match the empty string.
+
+    Example: \(?:a*b*\)* is equivalent to the much faster \(?:a\|b\)*.
+
+    Another example: \(?:a?b*\)? is better written a?b*. 
+
+    In general, A?, where A matches the empty string, can be
+    simplified to just A.
+
+  - Unnecessarily escaped 'X'
+
+    A character is backslash-escaped in a skip set despite not being
+    one of the three special characters - (hyphen), \ (backslash) and
+    ^ (caret). It could be unnecessary, or a backslash that should
+    have been escaped.
+
+  - Single-element range 'X-X'
+
+    A range in a skip set has identical first and last elements. It is
+    rather pointless to have it as a range.
+
+  - Stray '\\' at end of string
+
+    A single backslash at the end of a skip set is always ignored;
+    double it if you want a literal backslash to be included.
+
+  - Suspect skip set framed in '[...]'
+
+    A skip set appears to be enclosed in [...], as if it were a
+    regexp. Skip sets are not regexps and do not use brackets. To
+    include the brackets themselves, put them next to each other.
+
+  - Suspect character class framed in '[...]'
+
+    A skip set contains a character class enclosed in double pairs of
+    square brackets, as if it were a regexp. Character classes in skip
+    sets are written inside a single pair of square brackets, like
+    [:digit:].
+
+  - Empty set matches nothing
+
+    The empty string is a skip set that does not match anything, and
+    is therefore pointless.
+
+  - Negated empty set matches anything
+
+    The string "^" is a skip set that matches anything, and is therefore
+    pointless.
+
+
 * See also
 
   The relint package (https://elpa.gnu.org/packages/relint.html) uses xr
@@ -98,26 +295,34 @@ The xr package can be used interactively or by other code as a library.
 
 </pre>
 <h2>Old versions</h2><table>
-<tr><td><a href="xr-1.18.tar">xr-1.18.tar</a></td><td>2020-Mar-09</td><td> 110&nbsp;KiB</td>
-<tr><td><a href="xr-1.17.tar">xr-1.17.tar</a></td><td>2020-Mar-05</td><td> 110&nbsp;KiB</td>
-<tr><td><a href="xr-1.16.tar">xr-1.16.tar</a></td><td>2020-Mar-01</td><td> 110&nbsp;KiB</td>
-<tr><td><a href="xr-1.15.tar">xr-1.15.tar</a></td><td>2020-Jan-31</td><td>90.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.14.tar">xr-1.14.tar</a></td><td>2020-Jan-23</td><td>90.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.13.tar">xr-1.13.tar</a></td><td>2019-Aug-04</td><td>90.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.12.tar">xr-1.12.tar</a></td><td>2019-May-26</td><td>80.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.11.tar">xr-1.11.tar</a></td><td>2019-Apr-13</td><td>70.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.10.tar">xr-1.10.tar</a></td><td>2019-Apr-01</td><td>70.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.9.tar">xr-1.9.tar</a></td><td>2019-Mar-21</td><td>70.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.7.tar">xr-1.7.tar</a></td><td>2019-Mar-17</td><td>60.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.6.tar">xr-1.6.tar</a></td><td>2019-Mar-15</td><td>50.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.5.tar">xr-1.5.tar</a></td><td>2019-Mar-02</td><td>50.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.4.tar">xr-1.4.tar</a></td><td>2019-Mar-01</td><td>50.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.3.tar">xr-1.3.tar</a></td><td>2019-Feb-25</td><td>40.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.2.tar">xr-1.2.tar</a></td><td>2019-Feb-20</td><td>40.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.1.tar">xr-1.1.tar</a></td><td>2019-Feb-13</td><td>40.0&nbsp;KiB</td>
-<tr><td><a href="xr-1.0.el">xr-1.0.el</a></td><td>2019-Feb-05</td><td>27.7&nbsp;KiB</td>
+<tr><td><a href="xr-1.20.tar.lz">xr-1.20.tar.lz</a></td><td>2020-Nov-30</td><td>23.6&nbsp;KiB</td>
+<tr><td><a href="xr-1.19.tar.lz">xr-1.19.tar.lz</a></td><td>2020-May-03</td><td>20.9&nbsp;KiB</td>
+<tr><td><a href="xr-1.18.tar.lz">xr-1.18.tar.lz</a></td><td>2020-Mar-09</td><td>18.8&nbsp;KiB</td>
+<tr><td><a href="xr-1.17.tar.lz">xr-1.17.tar.lz</a></td><td>2020-Mar-05</td><td>18.8&nbsp;KiB</td>
+<tr><td><a href="xr-1.16.tar.lz">xr-1.16.tar.lz</a></td><td>2020-Mar-01</td><td>18.8&nbsp;KiB</td>
+<tr><td><a href="xr-1.15.tar.lz">xr-1.15.tar.lz</a></td><td>2020-Jan-31</td><td>16.9&nbsp;KiB</td>
+<tr><td><a href="xr-1.14.tar.lz">xr-1.14.tar.lz</a></td><td>2020-Jan-23</td><td>16.5&nbsp;KiB</td>
+<tr><td><a href="xr-1.13.tar.lz">xr-1.13.tar.lz</a></td><td>2019-Aug-04</td><td>16.3&nbsp;KiB</td>
+<tr><td><a href="xr-1.12.tar.lz">xr-1.12.tar.lz</a></td><td>2019-May-26</td><td>15.6&nbsp;KiB</td>
+<tr><td><a href="xr-1.11.tar.lz">xr-1.11.tar.lz</a></td><td>2019-Apr-13</td><td>13.7&nbsp;KiB</td>
+<tr><td><a href="xr-1.10.tar.lz">xr-1.10.tar.lz</a></td><td>2019-Apr-01</td><td>13.1&nbsp;KiB</td>
+<tr><td><a href="xr-1.9.tar.lz">xr-1.9.tar.lz</a></td><td>2019-Mar-21</td><td>12.3&nbsp;KiB</td>
+<tr><td><a href="xr-1.7.tar.lz">xr-1.7.tar.lz</a></td><td>2019-Mar-17</td><td>12.1&nbsp;KiB</td>
+<tr><td><a href="xr-1.6.tar.lz">xr-1.6.tar.lz</a></td><td>2019-Mar-15</td><td>10.3&nbsp;KiB</td>
+<tr><td><a href="xr-1.5.tar.lz">xr-1.5.tar.lz</a></td><td>2019-Mar-02</td><td>10.2&nbsp;KiB</td>
+<tr><td><a href="xr-1.4.tar.lz">xr-1.4.tar.lz</a></td><td>2019-Mar-01</td><td>10.2&nbsp;KiB</td>
+<tr><td><a href="xr-1.3.tar.lz">xr-1.3.tar.lz</a></td><td>2019-Feb-25</td><td>8.63&nbsp;KiB</td>
+<tr><td><a href="xr-1.2.tar.lz">xr-1.2.tar.lz</a></td><td>2019-Feb-20</td><td>8.27&nbsp;KiB</td>
+<tr><td><a href="xr-1.1.tar.lz">xr-1.1.tar.lz</a></td><td>2019-Feb-13</td><td>7.61&nbsp;KiB</td>
+<tr><td><a href="xr-1.0.el.lz">xr-1.0.el.lz</a></td><td>2019-Feb-05</td><td>7.26&nbsp;KiB</td>
 </table>
 <h2>News</h2><pre>
+Version 1.21:
+- Suppress false complaint about (? (+ X))
+Version 1.20:
+- Fix duplication removal in character alternatives, like [aaa]
+- All diagnostics are now described in the README file
+- Improved anchor conflict checks
 Version 1.19:
 - Added filename-specific checks; new PURPOSE argument to `xr-lint'
 - Warn about wrapped subsumption, like \(A*C[AB]*\)+

@@ -1,0 +1,11 @@
+Package: ac-rtags
+Fetcher: github
+Source:  https://github.com/Andersbakken/rtags.git
+
+Updating /mnt/store/melpa/working/ac-rtags/
+Built ac-rtags in 4.846s, finished at Wed May 19 04:18:34 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K May 19 04:18 packages-stable/ac-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  401 May 19 04:18 packages-stable/ac-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ac-rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:18 packages-stable/ac-rtags-readme.txt

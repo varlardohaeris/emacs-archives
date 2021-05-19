@@ -1,0 +1,6 @@
+Package: metal-archives
+Fetcher: github
+Source:  https://github.com/seblemaguer/metal-archives.el.git
+
+Updating /mnt/store/melpa/working/metal-archives/
+No valid stable versions found for metal-archives

@@ -1,0 +1,10 @@
+Package: vue-html-mode
+Fetcher: github
+Source:  https://github.com/AdamNiederer/vue-html-mode.git
+
+Updating /mnt/store/melpa/working/vue-html-mode/
+Built vue-html-mode in 3.577s, finished at Wed May 19 01:54:26 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K May 19 01:54 packages-stable/vue-html-mode-0.2.el
+4.0K -rw-r--r-- 1 root root  376 May 19 01:54 packages-stable/vue-html-mode-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/vue-html-mode-badge.svg

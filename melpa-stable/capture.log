@@ -1,0 +1,6 @@
+Package: capture
+Fetcher: github
+Source:  https://github.com/pashinin/capture.el.git
+
+Updating /mnt/store/melpa/working/capture/
+No valid stable versions found for capture

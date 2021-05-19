@@ -1,0 +1,11 @@
+Package: gitlab-pipeline
+Fetcher: github
+Source:  https://github.com/TxGVNN/gitlab-pipeline.git
+
+Updating /mnt/store/melpa/working/gitlab-pipeline/
+Built gitlab-pipeline in 2.724s, finished at Wed May 19 04:37:34 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.4K May 19 04:37 packages-stable/gitlab-pipeline-1.1.0.el
+4.0K -rw-r--r-- 1 root root  403 May 19 04:37 packages-stable/gitlab-pipeline-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gitlab-pipeline-badge.svg
+4.0K -rw-r--r-- 1 root root  222 May 19 04:37 packages-stable/gitlab-pipeline-readme.txt

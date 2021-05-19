@@ -1,6 +1,6 @@
 Provides an Opensource API client.
 
-Installation:
+; Installation:
 
 opensource is available on the two major community maintained repositories -
 Melpa stable (https://stable.melpa.org), and Melpa (https://melpa.org)

@@ -1,0 +1,6 @@
+Package: lavender-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-lavender-theme.git
+
+Updating /mnt/store/melpa/working/lavender-theme/
+No valid stable versions found for lavender-theme

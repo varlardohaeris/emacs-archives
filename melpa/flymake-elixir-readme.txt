@@ -1,3 +1,4 @@
+
 Usage:
   (require 'flymake-elixir)
   (add-hook 'elixir-mode-hook 'flymake-elixir-load)

@@ -1,2 +1,11 @@
-
-(monitor . [(0 3 0) ((dash (2 13 0))) "Utilities for monitoring expressions." tar ((:commit . "8c67c06f60a89b2583bae90afc91a7e7d73260fd") (:keywords "lisp" "monitor" "utility") (:authors ("Ben Moon" . "guiltydolphin@gmail.com")) (:maintainer "Ben Moon" . "guiltydolphin@gmail.com") (:url . "https://github.com/guiltydolphin/monitor"))])
+(monitor .
+	 [(0 3 0)
+	  ((dash
+	    (2 13 0)))
+	  "Utilities for monitoring expressions." tar
+	  ((:commit . "8c67c06f60a89b2583bae90afc91a7e7d73260fd")
+	   (:authors
+	    ("Ben Moon" . "guiltydolphin@gmail.com"))
+	   (:maintainer "Ben Moon" . "guiltydolphin@gmail.com")
+	   (:keywords "lisp" "monitor" "utility")
+	   (:url . "https://github.com/guiltydolphin/monitor"))])

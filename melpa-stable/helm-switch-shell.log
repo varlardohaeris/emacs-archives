@@ -1,0 +1,6 @@
+Package: helm-switch-shell
+Fetcher: github
+Source:  https://github.com/jamesnvc/helm-switch-shell.git
+
+Updating /mnt/store/melpa/working/helm-switch-shell/
+No valid stable versions found for helm-switch-shell

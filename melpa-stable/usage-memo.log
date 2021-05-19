@@ -1,0 +1,6 @@
+Package: usage-memo
+Fetcher: github
+Source:  https://github.com/rubikitch/usage-memo.git
+
+Updating /mnt/store/melpa/working/usage-memo/
+No valid stable versions found for usage-memo

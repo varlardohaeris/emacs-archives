@@ -1,0 +1,6 @@
+Package: chapel-mode
+Fetcher: github
+Source:  https://github.com/damon-kwok/chapel-mode.git
+
+Updating /mnt/store/melpa/working/chapel-mode/
+No valid stable versions found for chapel-mode

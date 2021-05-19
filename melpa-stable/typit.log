@@ -1,0 +1,23 @@
+Package: typit
+Fetcher: github
+Source:  https://github.com/mrkkrp/typit.git
+
+Updating /mnt/store/melpa/working/typit/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/typit/
+  to /tmp/typitumMuCO/typit-0.2.1
+    typit.el -> typit.el
+    dict => dict
+Created typit-0.2.1.tar containing:
+  typit-0.2.1/
+  typit-0.2.1/dict/
+  typit-0.2.1/dict/deutsch.txt
+  typit-0.2.1/dict/english.txt
+  typit-0.2.1/typit-pkg.el
+  typit-0.2.1/typit.el
+Built typit in 2.920s, finished at Wed May 19 01:53:12 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  379 May 19 01:53 packages-stable/typit-0.2.1.entry
+120K -rw-r--r-- 1 root root 120K May 19 01:53 packages-stable/typit-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/typit-badge.svg
+4.0K -rw-r--r-- 1 root root  334 May 19 01:53 packages-stable/typit-readme.txt

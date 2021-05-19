@@ -1,0 +1,6 @@
+Package: lsp-pyre
+Fetcher: github
+Source:  https://github.com/jra3/lsp-pyre.git
+
+Updating /mnt/store/melpa/working/lsp-pyre/
+No valid stable versions found for lsp-pyre

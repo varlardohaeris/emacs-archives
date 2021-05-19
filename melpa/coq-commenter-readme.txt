@@ -1,3 +1,4 @@
+
 Minor mode for coq
 
 You can automatically start this minor mode with following elisp

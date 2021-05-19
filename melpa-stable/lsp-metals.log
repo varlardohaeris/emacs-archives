@@ -1,0 +1,49 @@
+Package: lsp-metals
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-metals.git
+
+Updating /mnt/store/melpa/working/lsp-metals/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lsp-metals/
+  to /tmp/lsp-metalsDdJfYr/lsp-metals-1.2.0
+    lsp-metals-protocol.el -> lsp-metals-protocol.el
+    lsp-metals-treeview.el -> lsp-metals-treeview.el
+    lsp-metals.el -> lsp-metals.el
+    icons => icons
+Created lsp-metals-1.2.0.tar containing:
+  lsp-metals-1.2.0/
+  lsp-metals-1.2.0/icons/
+  lsp-metals-1.2.0/icons/book-dark.png
+  lsp-metals-1.2.0/icons/book-light.png
+  lsp-metals-1.2.0/icons/bug-dark.png
+  lsp-metals-1.2.0/icons/bug-light.png
+  lsp-metals-1.2.0/icons/class.png
+  lsp-metals-1.2.0/icons/discord-dark.png
+  lsp-metals-1.2.0/icons/discord-light.png
+  lsp-metals-1.2.0/icons/enum.png
+  lsp-metals-1.2.0/icons/field.png
+  lsp-metals-1.2.0/icons/github-dark.png
+  lsp-metals-1.2.0/icons/github-light.png
+  lsp-metals-1.2.0/icons/gitter-dark.png
+  lsp-metals-1.2.0/icons/gitter-light.png
+  lsp-metals-1.2.0/icons/interface.png
+  lsp-metals-1.2.0/icons/issue-opened-dark.png
+  lsp-metals-1.2.0/icons/issue-opened-light.png
+  lsp-metals-1.2.0/icons/logo.png
+  lsp-metals-1.2.0/icons/method.png
+  lsp-metals-1.2.0/icons/object.png
+  lsp-metals-1.2.0/icons/trait.png
+  lsp-metals-1.2.0/icons/twitter-dark.png
+  lsp-metals-1.2.0/icons/twitter-light.png
+  lsp-metals-1.2.0/icons/val.png
+  lsp-metals-1.2.0/icons/var.png
+  lsp-metals-1.2.0/lsp-metals-pkg.el
+  lsp-metals-1.2.0/lsp-metals-protocol.el
+  lsp-metals-1.2.0/lsp-metals-treeview.el
+  lsp-metals-1.2.0/lsp-metals.el
+Built lsp-metals in 3.096s, finished at Wed May 19 01:33:06 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  693 May 19 01:33 packages-stable/lsp-metals-1.2.0.entry
+112K -rw-r--r-- 1 root root 110K May 19 01:33 packages-stable/lsp-metals-1.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-metals-badge.svg
+4.0K -rw-r--r-- 1 root root   18 May 19 01:33 packages-stable/lsp-metals-readme.txt

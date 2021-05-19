@@ -1,0 +1,6 @@
+Package: old-norse-input
+Fetcher: github
+Source:  https://github.com/david-christiansen/emacs-old-norse-input.git
+
+Updating /mnt/store/melpa/working/old-norse-input/
+No valid stable versions found for old-norse-input

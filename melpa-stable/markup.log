@@ -1,0 +1,17 @@
+Package: markup
+Fetcher: github
+Source:  https://github.com/leoc/markup.el.git
+
+Updating /mnt/store/melpa/working/markup/
+Note: markup :files spec is equivalent to the default.
+Built markup in 3.639s, finished at Wed May 19 01:34:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K May 19 01:34 packages-stable/markup-2.0.1.el
+4.0K -rw-r--r-- 1 root root  376 May 19 01:34 packages-stable/markup-2.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/markup-badge.svg
+ 20K -rw-r--r-- 1 root root  19K May 18 22:20 packages-stable/markup-faces-1.0.0.el
+4.0K -rw-r--r-- 1 root root  368 May 18 22:20 packages-stable/markup-faces-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:20 packages-stable/markup-faces-badge.svg
+4.0K -rw-r--r-- 1 root root  318 May 18 22:20 packages-stable/markup-faces-readme.txt
+4.0K -rw-r--r-- 1 root root  142 May 19 01:34 packages-stable/markup-faces.log
+4.0K -rw-r--r-- 1 root root   90 May 19 01:34 packages-stable/markup-readme.txt

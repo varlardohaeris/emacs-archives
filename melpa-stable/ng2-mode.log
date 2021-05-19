@@ -1,0 +1,25 @@
+Package: ng2-mode
+Fetcher: github
+Source:  https://github.com/AdamNiederer/ng2-mode.git
+
+Updating /mnt/store/melpa/working/ng2-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ng2-mode/
+  to /tmp/ng2-modeVuJoIR/ng2-mode-0.2.2
+    ng2-html.el -> ng2-html.el
+    ng2-mode.el -> ng2-mode.el
+    ng2-shared.el -> ng2-shared.el
+    ng2-ts.el -> ng2-ts.el
+Created ng2-mode-0.2.2.tar containing:
+  ng2-mode-0.2.2/
+  ng2-mode-0.2.2/ng2-html.el
+  ng2-mode-0.2.2/ng2-mode-pkg.el
+  ng2-mode-0.2.2/ng2-mode.el
+  ng2-mode-0.2.2/ng2-shared.el
+  ng2-mode-0.2.2/ng2-ts.el
+Built ng2-mode in 2.798s, finished at Wed May 19 01:37:16 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  416 May 19 01:37 packages-stable/ng2-mode-0.2.2.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:37 packages-stable/ng2-mode-0.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/ng2-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  237 May 19 01:37 packages-stable/ng2-mode-readme.txt

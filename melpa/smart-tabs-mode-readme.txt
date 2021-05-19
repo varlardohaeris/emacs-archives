@@ -6,7 +6,7 @@ with modifications by the various authors listed above.
 
 Modification history is at <https://github.com/jcsalomon/smarttabs>.
 
-Installation:
+; Installation:
 
 The easiest and preferred way to install smart-tabs-mode is to use
 the package available on MELPA.
@@ -23,7 +23,7 @@ Save smart-tabs-mode.el to a a directory on your load-path
  (autoload 'smart-tabs-insinuate "smart-tabs-mode")
 
 
-Enabling smart-tabs-mode within language modes:
+; Enabling smart-tabs-mode within language modes:
 
 As of version 1.0 of this package, the easiest and preferred way to
 enable smart-tabs-mode is with the smart-tabs-insinuate function;
@@ -72,7 +72,7 @@ Here are some specific examples for a few popular languages:
  (add-hook 'python-mode-hook 'smart-tabs-mode-enable)
  (smart-tabs-advice python-indent-line-1 python-indent)
 
-Adding language support
+; Adding language support
 
 Language support can be added through the use of the macro
 `smart-tabs-add-language-support'. Pass in the symbol you wish

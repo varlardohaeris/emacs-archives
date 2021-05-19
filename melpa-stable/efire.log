@@ -1,0 +1,6 @@
+Package: efire
+Fetcher: github
+Source:  https://github.com/joaotavora/efire.git
+
+Updating /mnt/store/melpa/working/efire/
+No valid stable versions found for efire

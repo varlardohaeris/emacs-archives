@@ -1,0 +1,6 @@
+Package: ivy-yasnippet
+Fetcher: github
+Source:  https://github.com/mkcms/ivy-yasnippet.git
+
+Updating /mnt/store/melpa/working/ivy-yasnippet/
+No valid stable versions found for ivy-yasnippet

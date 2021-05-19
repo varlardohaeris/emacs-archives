@@ -1,0 +1,6 @@
+Package: ant
+Fetcher: github
+Source:  https://github.com/apg/ant-el.git
+
+Updating /mnt/store/melpa/working/ant/
+No valid stable versions found for ant

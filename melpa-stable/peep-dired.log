@@ -1,0 +1,6 @@
+Package: peep-dired
+Fetcher: github
+Source:  https://github.com/asok/peep-dired.git
+
+Updating /mnt/store/melpa/working/peep-dired/
+No valid stable versions found for peep-dired

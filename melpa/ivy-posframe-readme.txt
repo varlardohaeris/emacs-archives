@@ -2,7 +2,7 @@
 
 ** What is ivy-posframe
 
-ivy-posframe is a ivy extension, which let ivy use posframe to show
+ivy-posframe is an ivy extension, which lets ivy use posframe to show
 its candidate menu.
 
 NOTE: ivy-posframe requires Emacs 26 and do not support mouse
@@ -25,19 +25,19 @@ click.
 *** Global mode
 #+BEGIN_EXAMPLE
 (require 'ivy-posframe)
-display at `ivy-posframe-style'
+;; display at `ivy-posframe-style'
 (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display)))
-(setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-center)))
-(setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-window-center)))
-(setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-bottom-left)))
-(setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-window-bottom-left)))
-(setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-top-center)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-center)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-window-center)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-bottom-left)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-window-bottom-left)))
+;; (setq ivy-posframe-display-functions-alist '((t . ivy-posframe-display-at-frame-top-center)))
 (ivy-posframe-mode 1)
 #+END_EXAMPLE
 *** Per-command mode.
 #+BEGIN_EXAMPLE
 (require 'ivy-posframe)
-Different command can use different display function.
+;; Different command can use different display function.
 (setq ivy-posframe-display-functions-alist
       '((swiper          . ivy-posframe-display-at-point)
         (complete-symbol . ivy-posframe-display-at-point)
@@ -51,7 +51,7 @@ You may want to use the original display function because display
 of Swiper at point hides the contents of the buffer.
 #+BEGIN_EXAMPLE
 (require 'ivy-posframe)
-Different command can use different display function.
+;; Different command can use different display function.
 (setq ivy-posframe-display-functions-alist
       '((swiper          . ivy-display-function-fallback)
         (complete-symbol . ivy-posframe-display-at-point)
@@ -68,7 +68,7 @@ and displays other functions in posframe at the location specified on
 40 lines.
 #+BEGIN_EXAMPLE
 (require 'ivy-posframe)
-Different command can use different display function.
+;; Different command can use different display function.
 (setq ivy-posframe-height-alist '((swiper . 20)
                                   (t      . 40)))
 

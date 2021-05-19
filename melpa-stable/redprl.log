@@ -1,0 +1,45 @@
+Package: redprl
+Fetcher: github
+Source:  https://github.com/RedPRL/sml-redprl.git
+
+Updating /mnt/store/melpa/working/redprl/
+Command '(env LC_ALL=C git submodule update --init --recursive)' exited with non-zero status 1: Fetching origin
+warning: unable to rmdir 'lib/sml-final-pretty-printer': Directory not empty
+HEAD is now at d06d394 Fix/issue 182 (#183)
+Synchronizing submodule url for 'lib/cmlib'
+Synchronizing submodule url for 'lib/sml-cats'
+Synchronizing submodule url for 'lib/sml-dependent-lcf'
+Synchronizing submodule url for 'lib/sml-dependent-lcf/lib/cmlib'
+Synchronizing submodule url for 'lib/sml-dependent-lcf/lib/sml-telescopes'
+Synchronizing submodule url for 'lib/sml-dependent-lcf/lib/sml-telescopes/lib/cmlib'
+Synchronizing submodule url for 'lib/sml-dependent-lcf/lib/sml-typed-abts'
+Synchronizing submodule url for 'lib/sml-dependent-lcf/lib/sml-typed-abts/lib/cmlib'
+Synchronizing submodule url for 'lib/sml-json'
+Synchronizing submodule url for 'lib/sml-json/lib/cmlib'
+Synchronizing submodule url for 'lib/sml-json/lib/sml-parcom'
+Synchronizing submodule url for 'lib/sml-json/lib/sml-parcom/lib/cmlib'
+Synchronizing submodule url for 'lib/sml-telescopes'
+Synchronizing submodule url for 'lib/sml-telescopes/lib/cmlib'
+Synchronizing submodule url for 'lib/sml-typed-abts'
+Synchronizing submodule url for 'lib/sml-typed-abts/lib/cmlib'
+Synchronizing submodule url for 'lib/sml-unparse'
+Synchronizing submodule url for 'lib/sml-wpp'
+Submodule path 'lib/cmlib': checked out '654e9549dff6fc189340f633fe78d67ba257d7b8'
+Submodule path 'lib/sml-cats': checked out 'f030c1ebda84121d82a2c6b9b833d3fce36154b3'
+From https://github.com/JonPRL/sml-dependent-lcf
+ * branch            856234846be7e0d30a8e8fbc48efbd1b27986377 -> FETCH_HEAD
+Submodule path 'lib/sml-dependent-lcf': checked out '856234846be7e0d30a8e8fbc48efbd1b27986377'
+Cloning into '/mnt/store/melpa/working/redprl/lib/sml-dependent-lcf/models/modules/agda-prelude'...
+fatal: could not read Username for 'https://github.com': No such device or address
+fatal: clone of 'https://github.com/freebroccolo/agda-prelude.git' into submodule path '/mnt/store/melpa/working/redprl/lib/sml-dependent-lcf/models/modules/agda-prelude' failed
+Failed to clone 'models/modules/agda-prelude'. Retry scheduled
+Cloning into '/mnt/store/melpa/working/redprl/lib/sml-dependent-lcf/models/modules/agda-prelude'...
+fatal: could not read Username for 'https://github.com': No such device or address
+fatal: clone of 'https://github.com/freebroccolo/agda-prelude.git' into submodule path '/mnt/store/melpa/working/redprl/lib/sml-dependent-lcf/models/modules/agda-prelude' failed
+Failed to clone 'models/modules/agda-prelude' a second time, aborting
+Submodule path 'lib/sml-telescopes': checked out 'b136b2a96075568580be7e5e6ce21180bc581bc2'
+Submodule path 'lib/sml-telescopes/lib/cmlib': checked out '1aa3de34b9e7389ddb8b9058ccf1d57b9ec22770'
+Submodule path 'lib/sml-typed-abts': checked out 'cff9682f9da46acd0797a527dd9608f5c4b0fa9f'
+Submodule path 'lib/sml-typed-abts/lib/cmlib': checked out '654e9549dff6fc189340f633fe78d67ba257d7b8'
+Failed to recurse into submodule path 'lib/sml-dependent-lcf'
+

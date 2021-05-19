@@ -1,0 +1,11 @@
+Package: crossword
+Fetcher: github
+Source:  https://github.com/Boruch-Baum/emacs-crossword.git
+
+Updating /mnt/store/melpa/working/crossword/
+Built crossword in 5.916s, finished at Wed May 19 04:25:51 2021
+ ✓ Success:
+120K -rw-r--r-- 1 root root 120K May 19 04:25 packages-stable/crossword-1.0.el
+4.0K -rw-r--r-- 1 root root  257 May 19 04:25 packages-stable/crossword-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/crossword-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:25 packages-stable/crossword-readme.txt

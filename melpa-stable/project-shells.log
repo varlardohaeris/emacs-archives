@@ -1,0 +1,6 @@
+Package: project-shells
+Fetcher: github
+Source:  https://github.com/hying-caritas/project-shells.git
+
+Updating /mnt/store/melpa/working/project-shells/
+No valid stable versions found for project-shells

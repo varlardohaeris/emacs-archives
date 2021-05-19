@@ -1,0 +1,6 @@
+Package: yatex
+Fetcher: hg
+Source:  https://www.yatex.org/hgrepos/yatex
+
+Updating /mnt/store/melpa/working/yatex/
+hg exited with status 255

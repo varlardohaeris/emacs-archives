@@ -1,0 +1,6 @@
+Package: evil-ex-shell-command
+Fetcher: github
+Source:  https://github.com/yqrashawn/evil-ex-shell-command.git
+
+Updating /mnt/store/melpa/working/evil-ex-shell-command/
+No valid stable versions found for evil-ex-shell-command

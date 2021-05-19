@@ -1,0 +1,6 @@
+Package: clang-format
+Fetcher: github
+Source:  https://github.com/emacsmirror/clang-format.git
+
+Updating /mnt/store/melpa/working/clang-format/
+No valid stable versions found for clang-format

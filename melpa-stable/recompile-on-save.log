@@ -1,0 +1,6 @@
+Package: recompile-on-save
+Fetcher: github
+Source:  https://github.com/maio/recompile-on-save.el.git
+
+Updating /mnt/store/melpa/working/recompile-on-save/
+No valid stable versions found for recompile-on-save

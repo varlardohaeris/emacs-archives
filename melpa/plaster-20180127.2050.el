@@ -5,7 +5,7 @@
 ;; Author: Nicolas Hafner <shinmera@tymoon.eu>
 ;; URL: http://github.com/shirakumo/plaster/
 ;; Package-Version: 20180127.2050
-;; Package-Commit: f82f845ede3b48ca11934171b30effb523ba9fcf
+;; Package-Commit: 4d18c8bc3322668ac1695e25c556bda6771af1d5
 ;; Package-Requires: ((emacs "24.3"))
 ;; Version: 1.0
 ;; Keywords: convenience, paste service

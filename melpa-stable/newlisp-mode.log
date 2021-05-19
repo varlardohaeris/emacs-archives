@@ -1,0 +1,6 @@
+Package: newlisp-mode
+Fetcher: github
+Source:  https://github.com/kosh04/newlisp-mode.git
+
+Updating /mnt/store/melpa/working/newlisp-mode/
+No valid stable versions found for newlisp-mode

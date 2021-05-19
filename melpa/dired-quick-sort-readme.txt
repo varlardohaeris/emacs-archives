@@ -1,3 +1,4 @@
+
 This package provides ways to quickly sort dired buffers in various ways.
 With `savehist-mode' enabled (strongly recommended), the last used sorting
 criteria are automatically used when sorting, even after restarting Emacs.  A
@@ -19,10 +20,8 @@ is recommended that at least "-l" should be put into
 To make full use of this extensions, please make sure that the variable
 `insert-directory-program' points to the GNU version of ls.
 
-To report bugs and make feature requests, please open a new ticket at the
-issue tracker <https://gitlab.com/xuhdev/dired-quick-sort/issues>. To
-contribute, please create a merge request at
+To comment, ask questions, report bugs or make feature requests, please open
+a new ticket at the issue tracker
+<https://gitlab.com/xuhdev/dired-quick-sort/issues>. To contribute, please
+create a merge request at
 <https://gitlab.com/xuhdev/dired-quick-sort/merge_requests>.
-
-For any other questions and comments, please send them to
-<https://www.topbug.net/blog/2016/08/17/dired-quick-sort-sort-dired-buffers-quickly-in-emacs/>.

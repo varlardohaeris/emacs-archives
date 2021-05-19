@@ -8,6 +8,7 @@ Usage:
 
   `counsel-etags-find-tag-at-point' to navigate.  This command will also
   run `counsel-etags-scan-code' AUTOMATICALLY if tags file is not built yet.
+  It also calls `counsel-etags-fallback-grep-function' if not tag is found.
 
   Run `counsel-etags-list-tag-in-current-file' to list tags in current file.
 
@@ -20,6 +21,7 @@ Usage:
 
   `counsel-etags-scan-code' to create tags file
   `counsel-etags-grep' to grep
+  `counsel-etags-grep-extra-arguments' has extra arguments for grep
   `counsel-etags-grep-current-directory' to grep in current directory
   `counsel-etags-recent-tag' to open recent tag
   `counsel-etags-find-tag' to two steps tag matching use regular expression and filter
@@ -27,7 +29,8 @@ Usage:
   `counsel-etags-update-tags-force' to update current tags file by force
   `counsel-etags-ignore-config-file' specifies paths of ignore configuration files
   (".gitignore", ".hgignore", etc).  Path is either absolute or relative to the tags file.
-
+  `counsel-etags-universal-ctags-p' to detect if Universal Ctags is used.
+  `counsel-etags-exuberant-ctags-p' to detect if Exuberant Ctags is used.
 
 Tips:
 
@@ -82,8 +85,9 @@ Tips:
    `find-tag-default' is used.  `counsel-etags-word-at-point' gets word at point.
 
  - User could append the extra content into tags file in `counsel-etags-after-update-tags-hook'.
-   The parameter of hook is full path of the tags file.  `counsel-etags-tags-line' is a tool function
-   to help user
+   The parameter of hook is full path of the tags file.
+   `counsel-etags-tag-line' and `counsel-etags-append-to-tags-file' are helper functions to
+   update tags file in the hook.
 
  - The ignore files (.gitignore, etc) are automatically detected and append to ctags
    cli options as "--exclude="@/ignore/file/path".
@@ -95,5 +99,9 @@ Tips:
    in Universal Ctags format if Universal Ctags is used.
    You can customize `counsel-etags-ctags-options-base' to change the path of
    base configuration file.
+
+ - Grep result is sorted by string distance of current file path and candidate file path.
+   The sorting happens in Emacs 27+.
+   You can set `counsel-etags-sort-grep-result-p' to nil to disable sorting.
 
 See https://github.com/redguardtoo/counsel-etags/ for more tips.

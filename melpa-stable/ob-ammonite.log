@@ -1,0 +1,6 @@
+Package: ob-ammonite
+Fetcher: github
+Source:  https://github.com/zwild/ob-ammonite.git
+
+Updating /mnt/store/melpa/working/ob-ammonite/
+No valid stable versions found for ob-ammonite

@@ -1,0 +1,6 @@
+Package: inkpot-theme
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-inkpot-theme.git
+
+Updating /mnt/store/melpa/working/inkpot-theme/
+No valid stable versions found for inkpot-theme

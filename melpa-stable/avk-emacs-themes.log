@@ -1,0 +1,6 @@
+Package: avk-emacs-themes
+Fetcher: github
+Source:  https://github.com/avkoval/avk-emacs-themes.git
+
+Updating /mnt/store/melpa/working/avk-emacs-themes/
+No valid stable versions found for avk-emacs-themes

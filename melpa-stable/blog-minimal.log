@@ -1,0 +1,6 @@
+Package: blog-minimal
+Fetcher: github
+Source:  https://github.com/thiefuniverse/blog-minimal.git
+
+Updating /mnt/store/melpa/working/blog-minimal/
+No valid stable versions found for blog-minimal

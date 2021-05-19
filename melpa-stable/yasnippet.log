@@ -1,0 +1,17 @@
+Package: yasnippet
+Fetcher: github
+Source:  https://github.com/joaotavora/yasnippet.git
+
+Updating /mnt/store/melpa/working/yasnippet/
+Built yasnippet in 3.980s, finished at Wed May 19 01:56:22 2021
+ ✓ Success:
+216K -rw-r--r-- 1 root root 215K May 19 01:56 packages-stable/yasnippet-0.14.0.el
+4.0K -rw-r--r-- 1 root root  334 May 19 01:56 packages-stable/yasnippet-0.14.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yasnippet-badge.svg
+4.0K -rw-r--r-- 1 root root  209 May 19 01:56 packages-stable/yasnippet-lean.log
+4.0K -rw-r--r-- 1 root root 3.3K May 19 01:56 packages-stable/yasnippet-readme.txt
+4.0K -rw-r--r-- 1 root root  431 May 18 22:42 packages-stable/yasnippet-snippets-0.24.entry
+2.2M -rw-r--r-- 1 root root 2.2M May 18 22:42 packages-stable/yasnippet-snippets-0.24.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:42 packages-stable/yasnippet-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root   55 May 18 22:42 packages-stable/yasnippet-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root  390 May 19 01:56 packages-stable/yasnippet-snippets.log

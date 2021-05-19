@@ -1,0 +1,11 @@
+Package: import-popwin
+Fetcher: github
+Source:  https://github.com/emacsorphanage/import-popwin.git
+
+Updating /mnt/store/melpa/working/import-popwin/
+Built import-popwin in 2.772s, finished at Wed May 19 04:43:05 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K May 19 04:43 packages-stable/import-popwin-0.10.el
+4.0K -rw-r--r-- 1 root root  375 May 19 04:43 packages-stable/import-popwin-0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/import-popwin-badge.svg
+4.0K -rw-r--r-- 1 root root   68 May 19 04:43 packages-stable/import-popwin-readme.txt

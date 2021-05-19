@@ -1,0 +1,6 @@
+Package: counsel-notmuch
+Fetcher: github
+Source:  https://github.com/fuxialexander/counsel-notmuch.git
+
+Updating /mnt/store/melpa/working/counsel-notmuch/
+No valid stable versions found for counsel-notmuch

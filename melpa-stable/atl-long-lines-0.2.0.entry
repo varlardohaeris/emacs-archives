@@ -1,0 +1,10 @@
+(atl-long-lines .
+		[(0 2 0)
+		 ((emacs
+		   (24 3)))
+		 "Turn off truncate-lines when the line is long" single
+		 ((:commit . "4d340ee74e1aa37a7204acddb8826684b57337c5")
+		  (:authors
+		   ("Shen, Jen-Chieh" . "jcs090218@gmail.com"))
+		  (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com")
+		  (:url . "https://github.com/jcs-elpa/atl-long-lines"))])

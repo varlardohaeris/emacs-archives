@@ -1,0 +1,6 @@
+Package: ox-slack
+Fetcher: github
+Source:  https://github.com/titaniumbones/ox-slack.git
+
+Updating /mnt/store/melpa/working/ox-slack/
+No valid stable versions found for ox-slack

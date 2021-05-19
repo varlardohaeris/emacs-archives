@@ -1,0 +1,6 @@
+Package: org-mobile-sync
+Fetcher: git
+Source:  https://framagit.org/steckerhalter/org-mobile-sync.git
+
+Updating /mnt/store/melpa/working/org-mobile-sync/
+No valid stable versions found for org-mobile-sync

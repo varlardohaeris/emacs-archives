@@ -1,0 +1,6 @@
+Package: cff
+Fetcher: github
+Source:  https://github.com/fourier/cff.git
+
+Updating /mnt/store/melpa/working/cff/
+No valid stable versions found for cff

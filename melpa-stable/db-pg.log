@@ -1,0 +1,6 @@
+Package: db-pg
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-db-pg.git
+
+Updating /mnt/store/melpa/working/db-pg/
+No valid stable versions found for db-pg

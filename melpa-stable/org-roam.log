@@ -1,0 +1,59 @@
+Package: org-roam
+Fetcher: github
+Source:  https://github.com/org-roam/org-roam.git
+
+Updating /mnt/store/melpa/working/org-roam/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-roam/
+  to /tmp/org-roam3X0lhV/org-roam-1.2.4
+    org-roam-buffer.el -> org-roam-buffer.el
+    org-roam-capture.el -> org-roam-capture.el
+    org-roam-compat.el -> org-roam-compat.el
+    org-roam-completion.el -> org-roam-completion.el
+    org-roam-dailies.el -> org-roam-dailies.el
+    org-roam-db.el -> org-roam-db.el
+    org-roam-dev.el -> org-roam-dev.el
+    org-roam-doctor.el -> org-roam-doctor.el
+    org-roam-faces.el -> org-roam-faces.el
+    org-roam-graph.el -> org-roam-graph.el
+    org-roam-link.el -> org-roam-link.el
+    org-roam-macs.el -> org-roam-macs.el
+    org-roam-protocol.el -> org-roam-protocol.el
+    org-roam.el -> org-roam.el
+  ! doc/org-roam.texi -> org-roam.texi
+Created /tmp/org-roam3X0lhV/org-roam-1.2.4/org-roam.info
+Created org-roam-1.2.4.tar containing:
+  org-roam-1.2.4/
+  org-roam-1.2.4/dir
+  org-roam-1.2.4/org-roam-buffer.el
+  org-roam-1.2.4/org-roam-capture.el
+  org-roam-1.2.4/org-roam-compat.el
+  org-roam-1.2.4/org-roam-completion.el
+  org-roam-1.2.4/org-roam-dailies.el
+  org-roam-1.2.4/org-roam-db.el
+  org-roam-1.2.4/org-roam-dev.el
+  org-roam-1.2.4/org-roam-doctor.el
+  org-roam-1.2.4/org-roam-faces.el
+  org-roam-1.2.4/org-roam-graph.el
+  org-roam-1.2.4/org-roam-link.el
+  org-roam-1.2.4/org-roam-macs.el
+  org-roam-1.2.4/org-roam-pkg.el
+  org-roam-1.2.4/org-roam-protocol.el
+  org-roam-1.2.4/org-roam.el
+  org-roam-1.2.4/org-roam.info
+Built org-roam in 23.437s, finished at Wed May 19 01:40:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  549 May 19 01:40 packages-stable/org-roam-1.2.4.entry
+320K -rw-r--r-- 1 root root 320K May 19 01:40 packages-stable/org-roam-1.2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-roam-badge.svg
+4.0K -rw-r--r-- 1 root root  545 May 19 01:39 packages-stable/org-roam-bibtex-0.6.0pre.entry
+180K -rw-r--r-- 1 root root 180K May 19 01:39 packages-stable/org-roam-bibtex-0.6.0pre.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-roam-bibtex-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:39 packages-stable/org-roam-bibtex-readme.txt
+4.0K -rw-r--r-- 1 root root 1.5K May 19 01:39 packages-stable/org-roam-bibtex.log
+4.0K -rw-r--r-- 1 root root  179 May 19 01:40 packages-stable/org-roam-readme.txt
+4.0K -rw-r--r-- 1 root root  523 May 19 01:39 packages-stable/org-roam-server-1.1.2.entry
+1.3M -rw-r--r-- 1 root root 1.3M May 19 01:39 packages-stable/org-roam-server-1.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-roam-server-badge.svg
+4.0K -rw-r--r-- 1 root root  166 May 19 01:39 packages-stable/org-roam-server-readme.txt
+4.0K -rw-r--r-- 1 root root 1.5K May 19 01:39 packages-stable/org-roam-server.log

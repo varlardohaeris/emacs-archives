@@ -1,0 +1,6 @@
+Package: nimbus-theme
+Fetcher: github
+Source:  https://github.com/m-cat/nimbus-theme.git
+
+Updating /mnt/store/melpa/working/nimbus-theme/
+No valid stable versions found for nimbus-theme

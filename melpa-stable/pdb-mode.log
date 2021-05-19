@@ -1,0 +1,6 @@
+Package: pdb-mode
+Fetcher: github
+Source:  https://github.com/sixpi/pdb-mode.git
+
+Updating /mnt/store/melpa/working/pdb-mode/
+No valid stable versions found for pdb-mode

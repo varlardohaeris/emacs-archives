@@ -1,0 +1,6 @@
+Package: prettier-js
+Fetcher: github
+Source:  https://github.com/prettier/prettier-emacs.git
+
+Updating /mnt/store/melpa/working/prettier-js/
+No valid stable versions found for prettier-js

@@ -1,0 +1,11 @@
+Package: abs-mode
+Fetcher: github
+Source:  https://github.com/abstools/abs-mode.git
+
+Updating /mnt/store/melpa/working/abs-mode/
+Built abs-mode in 3.505s, finished at Wed May 19 04:18:15 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  34K May 19 04:18 packages-stable/abs-mode-1.5.el
+4.0K -rw-r--r-- 1 root root  446 May 19 04:18 packages-stable/abs-mode-1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/abs-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  133 May 19 04:18 packages-stable/abs-mode-readme.txt

@@ -1,0 +1,67 @@
+Package: mhc
+Fetcher: github
+Source:  https://github.com/yoshinari-nomura/mhc.git
+
+Updating /mnt/store/melpa/working/mhc/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mhc/
+  to /tmp/mhcni6qh6/mhc-1.2.4
+  ! emacs/mhc-calendar.el -> mhc-calendar.el
+  ! emacs/mhc-calfw.el -> mhc-calfw.el
+  ! emacs/mhc-compat.el -> mhc-compat.el
+  ! emacs/mhc-date.el -> mhc-date.el
+  ! emacs/mhc-day.el -> mhc-day.el
+  ! emacs/mhc-db.el -> mhc-db.el
+  ! emacs/mhc-draft.el -> mhc-draft.el
+  ! emacs/mhc-e21.el -> mhc-e21.el
+  ! emacs/mhc-face.el -> mhc-face.el
+  ! emacs/mhc-file.el -> mhc-file.el
+  ! emacs/mhc-guess.el -> mhc-guess.el
+  ! emacs/mhc-header.el -> mhc-header.el
+  ! emacs/mhc-logic.el -> mhc-logic.el
+  ! emacs/mhc-message.el -> mhc-message.el
+  ! emacs/mhc-minibuf.el -> mhc-minibuf.el
+  ! emacs/mhc-misc.el -> mhc-misc.el
+  ! emacs/mhc-parse.el -> mhc-parse.el
+  ! emacs/mhc-process.el -> mhc-process.el
+  ! emacs/mhc-ps.el -> mhc-ps.el
+  ! emacs/mhc-record.el -> mhc-record.el
+  ! emacs/mhc-schedule.el -> mhc-schedule.el
+  ! emacs/mhc-summary.el -> mhc-summary.el
+  ! emacs/mhc-sync.el -> mhc-sync.el
+  ! emacs/mhc-vars.el -> mhc-vars.el
+  ! emacs/mhc.el -> mhc.el
+Created mhc-1.2.4.tar containing:
+  mhc-1.2.4/
+  mhc-1.2.4/mhc-calendar.el
+  mhc-1.2.4/mhc-calfw.el
+  mhc-1.2.4/mhc-compat.el
+  mhc-1.2.4/mhc-date.el
+  mhc-1.2.4/mhc-day.el
+  mhc-1.2.4/mhc-db.el
+  mhc-1.2.4/mhc-draft.el
+  mhc-1.2.4/mhc-e21.el
+  mhc-1.2.4/mhc-face.el
+  mhc-1.2.4/mhc-file.el
+  mhc-1.2.4/mhc-guess.el
+  mhc-1.2.4/mhc-header.el
+  mhc-1.2.4/mhc-logic.el
+  mhc-1.2.4/mhc-message.el
+  mhc-1.2.4/mhc-minibuf.el
+  mhc-1.2.4/mhc-misc.el
+  mhc-1.2.4/mhc-parse.el
+  mhc-1.2.4/mhc-pkg.el
+  mhc-1.2.4/mhc-process.el
+  mhc-1.2.4/mhc-ps.el
+  mhc-1.2.4/mhc-record.el
+  mhc-1.2.4/mhc-schedule.el
+  mhc-1.2.4/mhc-summary.el
+  mhc-1.2.4/mhc-sync.el
+  mhc-1.2.4/mhc-vars.el
+  mhc-1.2.4/mhc.el
+Built mhc in 3.132s, finished at Wed May 19 01:35:12 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  366 May 19 01:35 packages-stable/mhc-1.2.4.entry
+392K -rw-r--r-- 1 root root 390K May 19 01:35 packages-stable/mhc-1.2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mhc-badge.svg
+4.0K -rw-r--r-- 1 root root  220 May 19 01:35 packages-stable/mhc-readme.txt

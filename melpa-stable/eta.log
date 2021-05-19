@@ -1,0 +1,6 @@
+Package: eta
+Fetcher: github
+Source:  https://github.com/zcaudate/eta.git
+
+Updating /mnt/store/melpa/working/eta/
+No valid stable versions found for eta

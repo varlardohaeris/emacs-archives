@@ -1,0 +1,6 @@
+Package: agtags
+Fetcher: github
+Source:  https://github.com/vietor/agtags.git
+
+Updating /mnt/store/melpa/working/agtags/
+No valid stable versions found for agtags

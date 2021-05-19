@@ -1,0 +1,6 @@
+Package: kwin
+Fetcher: github
+Source:  https://github.com/reactormonk/kwin-minor-mode.git
+
+Updating /mnt/store/melpa/working/kwin/
+No valid stable versions found for kwin

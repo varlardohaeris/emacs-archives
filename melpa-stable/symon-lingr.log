@@ -1,0 +1,6 @@
+Package: symon-lingr
+Fetcher: github
+Source:  https://github.com/zk-phi/symon-lingr.git
+
+Updating /mnt/store/melpa/working/symon-lingr/
+No valid stable versions found for symon-lingr

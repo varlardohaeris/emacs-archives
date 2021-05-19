@@ -1,3 +1,4 @@
+
 This modes puts indentation highlights below the starting character
 of a line on subsequent lines, like this:
 

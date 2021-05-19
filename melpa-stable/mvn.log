@@ -1,0 +1,6 @@
+Package: mvn
+Fetcher: github
+Source:  https://github.com/apg/mvn-el.git
+
+Updating /mnt/store/melpa/working/mvn/
+No valid stable versions found for mvn

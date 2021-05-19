@@ -1,3 +1,4 @@
+
 This is a naive implementation of RFC4122 Universally Unique
 IDentifier generation in elisp.  Currently implemented are UUID v1
 v3, v4 and v5 generation.  The resolution of the time based UUID is

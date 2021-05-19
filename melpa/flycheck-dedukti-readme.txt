@@ -5,7 +5,7 @@ Dedukti is available at the following url:
 <https://www.rocq.inria.fr/deducteam/Dedukti/>
 Flycheck is an on-the-fly syntax checker for GNU Emacs 24
 
-Configuration
+; Configuration
 To enable this checker in all files visited by dedukti-mode, add
 the following code to your Emacs configuration file:
 

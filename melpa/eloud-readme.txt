@@ -1,4 +1,4 @@
-Eloud is a lightweight, interactive screen reader.  It uses the espeak speech synthesizer as a backend.
+; Eloud is a lightweight, interactive screen reader.  It uses the espeak speech synthesizer as a backend.
 
 Installation
 

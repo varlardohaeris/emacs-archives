@@ -1,3 +1,4 @@
+
 Magit-annex adds a few git-annex operations to the Magit interface.
 Annex commands are available under the annex popup menu, which is
 bound to "@".  This key was chosen as a leading key mostly to be

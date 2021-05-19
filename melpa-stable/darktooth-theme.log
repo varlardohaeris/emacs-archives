@@ -1,0 +1,11 @@
+Package: darktooth-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-theme-darktooth.git
+
+Updating /mnt/store/melpa/working/darktooth-theme/
+Built darktooth-theme in 3.104s, finished at Wed May 19 04:26:35 2021
+ ✓ Success:
+ 64K -rw-r--r-- 1 root root  61K May 19 04:26 packages-stable/darktooth-theme-0.3.10.el
+4.0K -rw-r--r-- 1 root root  239 May 19 04:26 packages-stable/darktooth-theme-0.3.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/darktooth-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  179 May 19 04:26 packages-stable/darktooth-theme-readme.txt

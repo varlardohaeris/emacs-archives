@@ -1,0 +1,6 @@
+Package: elm-test-runner
+Fetcher: github
+Source:  https://github.com/juanedi/elm-test-runner.git
+
+Updating /mnt/store/melpa/working/elm-test-runner/
+No valid stable versions found for elm-test-runner

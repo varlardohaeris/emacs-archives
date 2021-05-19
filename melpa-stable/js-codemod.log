@@ -1,0 +1,6 @@
+Package: js-codemod
+Fetcher: github
+Source:  https://github.com/torgeir/js-codemod.el.git
+
+Updating /mnt/store/melpa/working/js-codemod/
+No valid stable versions found for js-codemod

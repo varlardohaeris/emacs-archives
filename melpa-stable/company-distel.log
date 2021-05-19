@@ -1,0 +1,6 @@
+Package: company-distel
+Fetcher: github
+Source:  https://github.com/sebastiw/distel-completion.git
+
+Updating /mnt/store/melpa/working/company-distel/
+No valid stable versions found for company-distel

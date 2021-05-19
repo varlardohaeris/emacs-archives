@@ -1,0 +1,6 @@
+Package: dash-alfred
+Fetcher: github
+Source:  https://github.com/xuchunyang/dash-alfred.el.git
+
+Updating /mnt/store/melpa/working/dash-alfred/
+No valid stable versions found for dash-alfred

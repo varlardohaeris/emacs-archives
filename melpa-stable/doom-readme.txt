@@ -10,7 +10,7 @@ You can create a DOM from XML using `doom-make-document-from-xml'
 with the input from `libxml-parse-xml-region'. See function documentation
 below for an example
 
-On Interfaces and Classes
+; On Interfaces and Classes
 
 The elisp DOM implementation uses the doom-node structure to store all
 attributes.  The various interfaces consist of sets of functions to

@@ -1,0 +1,11 @@
+Package: treemacs-magit
+Fetcher: github
+Source:  https://github.com/Alexander-Miller/treemacs.git
+
+Updating /mnt/store/melpa/working/treemacs-magit/
+Built treemacs-magit in 3.334s, finished at Wed May 19 01:52:52 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.2K May 19 01:52 packages-stable/treemacs-magit-2.8.el
+4.0K -rw-r--r-- 1 root root  416 May 19 01:52 packages-stable/treemacs-magit-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/treemacs-magit-badge.svg
+4.0K -rw-r--r-- 1 root root  277 May 19 01:52 packages-stable/treemacs-magit-readme.txt

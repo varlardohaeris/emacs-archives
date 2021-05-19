@@ -1,0 +1,11 @@
+Package: flycheck-indicator
+Fetcher: github
+Source:  https://github.com/gexplorer/flycheck-indicator.git
+
+Updating /mnt/store/melpa/working/flycheck-indicator/
+Built flycheck-indicator in 3.580s, finished at Wed May 19 04:34:52 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.5K May 19 04:34 packages-stable/flycheck-indicator-1.1.1.el
+4.0K -rw-r--r-- 1 root root  459 May 19 04:34 packages-stable/flycheck-indicator-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-indicator-badge.svg
+4.0K -rw-r--r-- 1 root root  343 May 19 04:34 packages-stable/flycheck-indicator-readme.txt

@@ -1,0 +1,6 @@
+Package: spell-fu
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-spell-fu.git
+
+Updating /mnt/store/melpa/working/spell-fu/
+No valid stable versions found for spell-fu

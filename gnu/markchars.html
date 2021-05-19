@@ -23,9 +23,9 @@
 
             <div class="container">
 <h2 class="package">markchars</h2><dl><dt>Description</dt><dd>Mark chars fitting certain characteristics</dd>
-<dt>Latest</dt> <dd><a href="markchars-0.2.1.el">markchars-0.2.1.el</a>, 2018-Oct-16, 8.22&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="markchars-0.2.2.el">markchars-0.2.2.el</a>, 2020-Nov-04, 12.2&nbsp;KiB</dd>
 <dt>Home page</dt> <dd><a href="http://elpa.gnu.org/packages/markchars.html">http://elpa.gnu.org/packages/markchars.html</a></dd>
-<dt>Browse repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/tree/packages/markchars">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=tree;f=packages/markchars">Gitweb</a></dd>
+<dt>Browse repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/markchars">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/markchars">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">markchars</span> RET</pre><h2>Full description</h2><pre>
 Mark special chars, by default nonascii, non-IDN chars, in modes
@@ -39,8 +39,15 @@ The marked text will have the 'markchars property set to either
 'confusable or 'pattern and the face set to either
 `markchars-face-confusable' or `markchars-face-pattern'
 respectively.
+
+You can set `nobreak-char-display' to nil, and use
+`markchars-nobreak-space' and `markchars-nobreak-hyphen'
+in Dired buffers to highlight `nobreak-space' and `nobreak-hyphen'
+only in file names, not `nobreak-space' used by thousands separators
+in file sizes (bug#44236).
 </pre>
 <h2>Old versions</h2><table>
+<tr><td><a href="markchars-0.2.1.el">markchars-0.2.1.el</a></td><td>2018-Oct-16</td><td>8.22&nbsp;KiB</td>
 <tr><td><a href="markchars-0.2.0.el">markchars-0.2.0.el</a></td><td>2012-Nov-29</td><td>7.76&nbsp;KiB</td>
 </table>
 </body>

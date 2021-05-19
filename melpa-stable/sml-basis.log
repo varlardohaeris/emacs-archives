@@ -1,0 +1,21 @@
+Package: sml-basis
+Fetcher: github
+Source:  https://github.com/lassik/emacs-sml-basis.git
+
+Updating /mnt/store/melpa/working/sml-basis/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sml-basis/
+  to /tmp/sml-basisWtOKv4/sml-basis-0.1
+    sml-basis-data.el -> sml-basis-data.el
+    sml-basis.el -> sml-basis.el
+Created sml-basis-0.1.tar containing:
+  sml-basis-0.1/
+  sml-basis-0.1/sml-basis-data.el
+  sml-basis-0.1/sml-basis-pkg.el
+  sml-basis-0.1/sml-basis.el
+Built sml-basis in 3.672s, finished at Wed May 19 01:49:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  373 May 19 01:49 packages-stable/sml-basis-0.1.entry
+152K -rw-r--r-- 1 root root 150K May 19 01:49 packages-stable/sml-basis-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/sml-basis-badge.svg
+4.0K -rw-r--r-- 1 root root  417 May 19 01:49 packages-stable/sml-basis-readme.txt

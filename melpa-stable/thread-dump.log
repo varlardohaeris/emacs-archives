@@ -1,0 +1,6 @@
+Package: thread-dump
+Fetcher: github
+Source:  https://github.com/nd/thread-dump.el.git
+
+Updating /mnt/store/melpa/working/thread-dump/
+No valid stable versions found for thread-dump

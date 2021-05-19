@@ -1,0 +1,11 @@
+Package: elscreen-mew
+Fetcher: github
+Source:  https://github.com/masutaka/elscreen-mew.git
+
+Updating /mnt/store/melpa/working/elscreen-mew/
+Built elscreen-mew in 2.872s, finished at Wed May 19 04:30:34 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.1K May 19 04:30 packages-stable/elscreen-mew-1.0.2.el
+4.0K -rw-r--r-- 1 root root  355 May 19 04:30 packages-stable/elscreen-mew-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elscreen-mew-badge.svg
+4.0K -rw-r--r-- 1 root root  158 May 19 04:30 packages-stable/elscreen-mew-readme.txt

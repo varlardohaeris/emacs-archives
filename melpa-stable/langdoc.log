@@ -1,0 +1,6 @@
+Package: langdoc
+Fetcher: github
+Source:  https://github.com/tom-tan/langdoc.git
+
+Updating /mnt/store/melpa/working/langdoc/
+No valid stable versions found for langdoc

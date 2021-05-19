@@ -1,3 +1,4 @@
+
 Emacs plugin aiming to become an aesthetic, modern looking tabs plugin.
 
 This package offers tabs with a wide range of customization options, both

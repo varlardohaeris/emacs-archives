@@ -1,3 +1,4 @@
+
 Smarter and more user-friendly shell command executions.
 
 Provides wrappers around shell command functions from simple.el with

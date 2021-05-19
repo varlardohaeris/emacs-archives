@@ -1,0 +1,6 @@
+Package: pcmpl-pip
+Fetcher: github
+Source:  https://github.com/zwild/pcmpl-pip.git
+
+Updating /mnt/store/melpa/working/pcmpl-pip/
+No valid stable versions found for pcmpl-pip

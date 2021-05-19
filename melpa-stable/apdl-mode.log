@@ -1,0 +1,75 @@
+Package: apdl-mode
+Fetcher: github
+Source:  https://github.com/dieter-wilhelm/apdl-mode.git
+
+Updating /mnt/store/melpa/working/apdl-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/apdl-mode/
+  to /tmp/apdl-modegf8aP1/apdl-mode-20.5.0
+    apdl-initialise.el -> apdl-initialise.el
+    apdl-keyword.el -> apdl-keyword.el
+    apdl-mode-pkg.el -> apdl-mode-pkg.el
+    apdl-mode.el -> apdl-mode.el
+    apdl-process.el -> apdl-process.el
+    apdl-template.el -> apdl-template.el
+    apdl-wb-template.el -> apdl-wb-template.el
+    dir -> dir
+    apdl-mode.info -> apdl-mode.info
+    matlib => matlib
+    template => template
+Created apdl-mode-20.5.0.tar containing:
+  apdl-mode-20.5.0/
+  apdl-mode-20.5.0/apdl-initialise.el
+  apdl-mode-20.5.0/apdl-keyword.el
+  apdl-mode-20.5.0/apdl-mode-pkg.el
+  apdl-mode-20.5.0/apdl-mode.el
+  apdl-mode-20.5.0/apdl-mode.info
+  apdl-mode-20.5.0/apdl-process.el
+  apdl-mode-20.5.0/apdl-template.el
+  apdl-mode-20.5.0/apdl-wb-template.el
+  apdl-mode-20.5.0/dir
+  apdl-mode-20.5.0/matlib/
+  apdl-mode-20.5.0/matlib/42CrMo4_biso_Rp850.MPA_MPL
+  apdl-mode-20.5.0/matlib/AlSi9Cu3_biso.MPA_MPL
+  apdl-mode-20.5.0/matlib/Al_a2024-T3.SI_MPL
+  apdl-mode-20.5.0/matlib/Al_a6061-T6.SI_MPL
+  apdl-mode-20.5.0/matlib/Al_a7079-T6.SI_MPL
+  apdl-mode-20.5.0/matlib/C75s_hardened_kinh.MPA_MPL
+  apdl-mode-20.5.0/matlib/Cu_pure.SI_MPL
+  apdl-mode-20.5.0/matlib/M250-35A_aniso.MPA_MPL
+  apdl-mode-20.5.0/matlib/M250-35A_biso.MPA_MPL
+  apdl-mode-20.5.0/matlib/M250-35A_orthotropic_elastic.MPA_MPL
+  apdl-mode-20.5.0/matlib/M800-65A_biso.MPA_MPL
+  apdl-mode-20.5.0/matlib/Mg_AZ31B-H24.SI_MPL
+  apdl-mode-20.5.0/matlib/Mg_HK31A-H24.SI_MPL
+  apdl-mode-20.5.0/matlib/NdFeB_magnet.MPA_MPL
+  apdl-mode-20.5.0/matlib/Ni_pure.SI_MPL
+  apdl-mode-20.5.0/matlib/PPS.MPA_MPL
+  apdl-mode-20.5.0/matlib/PPS_Fortron1140L4_70degC_kinh.MPA_MPL
+  apdl-mode-20.5.0/matlib/README.org
+  apdl-mode-20.5.0/matlib/St37.MPA_MPL
+  apdl-mode-20.5.0/matlib/St37_elastic.MPA_MPL
+  apdl-mode-20.5.0/matlib/St70_biso.MPA_MPL
+  apdl-mode-20.5.0/matlib/Stl_AISI-304.SI_MPL
+  apdl-mode-20.5.0/matlib/Stl_AISI-C1020.SI_MPL
+  apdl-mode-20.5.0/matlib/Ti_B-120VCA.SI_MPL
+  apdl-mode-20.5.0/matlib/X46Cr13.MPA_MPL
+  apdl-mode-20.5.0/matlib/construction_steel.MPA_MPL
+  apdl-mode-20.5.0/matlib/copper.MPA_MPL
+  apdl-mode-20.5.0/matlib/creep_curves_PPS_Fortron1140l4_120degC.csv
+  apdl-mode-20.5.0/matlib/emagCopper.SI_MPL
+  apdl-mode-20.5.0/matlib/emagM3.SI_MPL
+  apdl-mode-20.5.0/matlib/emagM54.SI_MPL
+  apdl-mode-20.5.0/matlib/emagSa1010.SI_MPL
+  apdl-mode-20.5.0/matlib/emagSilicon.SI_MPL
+  apdl-mode-20.5.0/matlib/emagVanad.SI_MPL
+  apdl-mode-20.5.0/template/
+  apdl-mode-20.5.0/template/harmonic_acceleration_results.mac
+  apdl-mode-20.5.0/template/plane_stress_press-fit_torque_calculations.mac
+  apdl-mode-20.5.0/template/post26_output.mac
+Built apdl-mode in 3.667s, finished at Wed May 19 04:19:38 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  423 May 19 04:19 packages-stable/apdl-mode-20.5.0.entry
+892K -rw-r--r-- 1 root root 890K May 19 04:19 packages-stable/apdl-mode-20.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/apdl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  829 May 19 04:19 packages-stable/apdl-mode-readme.txt

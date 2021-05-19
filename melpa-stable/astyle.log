@@ -1,0 +1,6 @@
+Package: astyle
+Fetcher: github
+Source:  https://github.com/storvik/emacs-astyle.git
+
+Updating /mnt/store/melpa/working/astyle/
+No valid stable versions found for astyle

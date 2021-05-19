@@ -1,0 +1,6 @@
+Package: evil-extra-operator
+Fetcher: github
+Source:  https://github.com/Dewdrops/evil-extra-operator.git
+
+Updating /mnt/store/melpa/working/evil-extra-operator/
+No valid stable versions found for evil-extra-operator

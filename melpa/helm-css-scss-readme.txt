@@ -1,20 +1,20 @@
 Example config
 
 ----------------------------------------------------
-helm from https://github.com/emacs-helm/helm
+;; helm from https://github.com/emacs-helm/helm
 (require 'helm)
 
 (add-to-list 'load-path "~/.emacs.d/elisp/helm-css-scss")
 (require 'helm-css-scss)
 
-Allow comment inserting depth at each end of a brace
+;; Allow comment inserting depth at each end of a brace
 (setq helm-css-scss-insert-close-comment-depth 2)
-If this value is t, split window appears inside the current window
+;; If this value is t, split window appears inside the current window
 (setq helm-css-scss-split-with-multiple-windows nil)
-Split direction.  'split-window-vertically or 'split-window-horizontally
+;; Split direction.  'split-window-vertically or 'split-window-horizontally
 (setq helm-css-scss-split-direction 'split-window-vertically)
 
-Set local keybind map for css-mode / scss-mode
+;; Set local keybind map for css-mode / scss-mode
 (dolist ($hook '(css-mode-hook scss-mode-hook less-css-mode-hook))
   (add-hook
    $hook (lambda ()

@@ -1,0 +1,6 @@
+Package: w3m
+Fetcher: github
+Source:  https://github.com/emacs-w3m/emacs-w3m.git
+
+Updating /mnt/store/melpa/working/w3m/
+No valid stable versions found for w3m

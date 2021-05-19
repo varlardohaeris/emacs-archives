@@ -1,0 +1,11 @@
+Package: org-board
+Fetcher: github
+Source:  https://github.com/scallywag/org-board.git
+
+Updating /mnt/store/melpa/working/org-board/
+Built org-board in 3.985s, finished at Wed May 19 01:38:59 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  37K May 19 01:38 packages-stable/org-board-1018.el
+4.0K -rw-r--r-- 1 root root  390 May 19 01:38 packages-stable/org-board-1018.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/org-board-badge.svg
+ 16K -rw-r--r-- 1 root root  13K May 19 01:38 packages-stable/org-board-readme.txt

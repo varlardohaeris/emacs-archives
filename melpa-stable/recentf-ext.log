@@ -1,0 +1,6 @@
+Package: recentf-ext
+Fetcher: github
+Source:  https://github.com/rubikitch/recentf-ext.git
+
+Updating /mnt/store/melpa/working/recentf-ext/
+No valid stable versions found for recentf-ext

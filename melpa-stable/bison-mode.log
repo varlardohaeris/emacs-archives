@@ -1,0 +1,6 @@
+Package: bison-mode
+Fetcher: github
+Source:  https://github.com/Wilfred/bison-mode.git
+
+Updating /mnt/store/melpa/working/bison-mode/
+No valid stable versions found for bison-mode

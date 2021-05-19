@@ -1,0 +1,73 @@
+Package: el-get
+Fetcher: github
+Source:  https://github.com/dimitri/el-get.git
+
+Updating /mnt/store/melpa/working/el-get/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/el-get/
+  to /tmp/el-getxcdqHk/el-get-5.1
+    .dir-locals.el -> .dir-locals.el
+    el-get-autoloads.el -> el-get-autoloads.el
+    el-get-build.el -> el-get-build.el
+    el-get-byte-compile.el -> el-get-byte-compile.el
+    el-get-core.el -> el-get-core.el
+    el-get-custom.el -> el-get-custom.el
+    el-get-dependencies.el -> el-get-dependencies.el
+    el-get-install.el -> el-get-install.el
+    el-get-list-packages.el -> el-get-list-packages.el
+    el-get-methods.el -> el-get-methods.el
+    el-get-notify.el -> el-get-notify.el
+    el-get-recipes.el -> el-get-recipes.el
+    el-get-status.el -> el-get-status.el
+    el-get.el -> el-get.el
+    recipes/el-get.rcp -> recipes/el-get.rcp
+    methods => methods
+Created el-get-5.1.tar containing:
+  el-get-5.1/
+  el-get-5.1/.dir-locals.el
+  el-get-5.1/el-get-autoloads.el
+  el-get-5.1/el-get-build.el
+  el-get-5.1/el-get-byte-compile.el
+  el-get-5.1/el-get-core.el
+  el-get-5.1/el-get-custom.el
+  el-get-5.1/el-get-dependencies.el
+  el-get-5.1/el-get-install.el
+  el-get-5.1/el-get-list-packages.el
+  el-get-5.1/el-get-methods.el
+  el-get-5.1/el-get-notify.el
+  el-get-5.1/el-get-pkg.el
+  el-get-5.1/el-get-recipes.el
+  el-get-5.1/el-get-status.el
+  el-get-5.1/el-get.el
+  el-get-5.1/methods/
+  el-get-5.1/methods/el-get-apt-get.el
+  el-get-5.1/methods/el-get-brew.el
+  el-get-5.1/methods/el-get-builtin.el
+  el-get-5.1/methods/el-get-bzr.el
+  el-get-5.1/methods/el-get-cvs.el
+  el-get-5.1/methods/el-get-darcs.el
+  el-get-5.1/methods/el-get-elpa.el
+  el-get-5.1/methods/el-get-emacsmirror.el
+  el-get-5.1/methods/el-get-emacswiki.el
+  el-get-5.1/methods/el-get-fink.el
+  el-get-5.1/methods/el-get-fossil.el
+  el-get-5.1/methods/el-get-git-svn.el
+  el-get-5.1/methods/el-get-git.el
+  el-get-5.1/methods/el-get-github-tar.el
+  el-get-5.1/methods/el-get-github-zip.el
+  el-get-5.1/methods/el-get-github.el
+  el-get-5.1/methods/el-get-go.el
+  el-get-5.1/methods/el-get-hg.el
+  el-get-5.1/methods/el-get-http-tar.el
+  el-get-5.1/methods/el-get-http-zip.el
+  el-get-5.1/methods/el-get-http.el
+  el-get-5.1/methods/el-get-pacman.el
+  el-get-5.1/methods/el-get-svn.el
+  el-get-5.1/recipes/
+  el-get-5.1/recipes/el-get.rcp
+Built el-get in 4.158s, finished at Wed May 19 04:29:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  477 May 19 04:29 packages-stable/el-get-5.1.entry
+280K -rw-r--r-- 1 root root 280K May 19 04:29 packages-stable/el-get-5.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/el-get-badge.svg
+4.0K -rw-r--r-- 1 root root  689 May 19 04:29 packages-stable/el-get-readme.txt

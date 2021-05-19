@@ -92,13 +92,13 @@ system and tell it about Melpa, so create one of those files if it
 doesn't already exist, and add these lines to the file:
 
 ```
-Require Emacs' package functionality
+;; Require Emacs' package functionality
 (require 'package)
 
-Add the Melpa repository to the list of package sources
+;; Add the Melpa repository to the list of package sources
 (add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/") t)
 
-Initialise the package system.
+;; Initialise the package system.
 (package-initialize)
 ```
 

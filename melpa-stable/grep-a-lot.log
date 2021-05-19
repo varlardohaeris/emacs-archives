@@ -1,0 +1,6 @@
+Package: grep-a-lot
+Fetcher: github
+Source:  https://github.com/ZungBang/emacs-grep-a-lot.git
+
+Updating /mnt/store/melpa/working/grep-a-lot/
+No valid stable versions found for grep-a-lot

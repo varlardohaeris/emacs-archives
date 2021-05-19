@@ -1,2 +1,4 @@
-
-(enotify . [(0 1 3) nil "No description available." tar ((:commit . "75c84b53703e5d52cb18acc9251b87ffa400f388"))])
+(enotify .
+	 [(0 1 3)
+	  nil "No description available." tar
+	  ((:commit . "75c84b53703e5d52cb18acc9251b87ffa400f388"))])

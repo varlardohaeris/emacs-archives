@@ -1,0 +1,6 @@
+Package: eclipse-theme
+Fetcher: github
+Source:  https://github.com/abo-abo/eclipse-theme.git
+
+Updating /mnt/store/melpa/working/eclipse-theme/
+No valid stable versions found for eclipse-theme

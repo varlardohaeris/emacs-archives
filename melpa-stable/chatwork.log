@@ -1,0 +1,11 @@
+Package: chatwork
+Fetcher: github
+Source:  https://github.com/ataka/chatwork.git
+
+Updating /mnt/store/melpa/working/chatwork/
+Built chatwork in 3.600s, finished at Wed May 19 04:23:04 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K May 19 04:23 packages-stable/chatwork-0.3.el
+4.0K -rw-r--r-- 1 root root  336 May 19 04:23 packages-stable/chatwork-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/chatwork-badge.svg
+4.0K -rw-r--r-- 1 root root  360 May 19 04:23 packages-stable/chatwork-readme.txt

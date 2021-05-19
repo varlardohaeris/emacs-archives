@@ -1,0 +1,45 @@
+Package: org-tfl
+Fetcher: github
+Source:  https://github.com/storax/org-tfl.git
+
+Updating /mnt/store/melpa/working/org-tfl/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-tfl/
+  to /tmp/org-tflQ3Dlzh/org-tfl-0.4.0
+    org-tfl.el -> org-tfl.el
+    bus.svg -> bus.svg
+    cam.svg -> cam.svg
+    coach.svg -> coach.svg
+    disruption.svg -> disruption.svg
+    dlr.svg -> dlr.svg
+    information.svg -> information.svg
+    location.svg -> location.svg
+    overground.svg -> overground.svg
+    replacement-bus.svg -> replacement-bus.svg
+    river-bus.svg -> river-bus.svg
+    train.svg -> train.svg
+    tube.svg -> tube.svg
+    walking.svg -> walking.svg
+Created org-tfl-0.4.0.tar containing:
+  org-tfl-0.4.0/
+  org-tfl-0.4.0/bus.svg
+  org-tfl-0.4.0/cam.svg
+  org-tfl-0.4.0/coach.svg
+  org-tfl-0.4.0/disruption.svg
+  org-tfl-0.4.0/dlr.svg
+  org-tfl-0.4.0/information.svg
+  org-tfl-0.4.0/location.svg
+  org-tfl-0.4.0/org-tfl-pkg.el
+  org-tfl-0.4.0/org-tfl.el
+  org-tfl-0.4.0/overground.svg
+  org-tfl-0.4.0/replacement-bus.svg
+  org-tfl-0.4.0/river-bus.svg
+  org-tfl-0.4.0/train.svg
+  org-tfl-0.4.0/tube.svg
+  org-tfl-0.4.0/walking.svg
+Built org-tfl in 6.230s, finished at Wed May 19 01:40:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  442 May 19 01:40 packages-stable/org-tfl-0.4.0.entry
+100K -rw-r--r-- 1 root root 100K May 19 01:40 packages-stable/org-tfl-0.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-tfl-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 01:40 packages-stable/org-tfl-readme.txt

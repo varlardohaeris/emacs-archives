@@ -1,0 +1,11 @@
+Package: orgtbl-show-header
+Fetcher: github
+Source:  https://github.com/DamienCassou/orgtbl-show-header.git
+
+Updating /mnt/store/melpa/working/orgtbl-show-header/
+Built orgtbl-show-header in 3.643s, finished at Wed May 19 01:41:02 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.0K May 19 01:41 packages-stable/orgtbl-show-header-1.0.0.el
+4.0K -rw-r--r-- 1 root root  319 May 19 01:41 packages-stable/orgtbl-show-header-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/orgtbl-show-header-badge.svg
+4.0K -rw-r--r-- 1 root root   56 May 19 01:41 packages-stable/orgtbl-show-header-readme.txt

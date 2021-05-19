@@ -1,0 +1,11 @@
+Package: flycheck-dmd-dub
+Fetcher: github
+Source:  https://github.com/atilaneves/flycheck-dmd-dub.git
+
+Updating /mnt/store/melpa/working/flycheck-dmd-dub/
+Built flycheck-dmd-dub in 3.069s, finished at Wed May 19 04:34:40 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:34 packages-stable/flycheck-dmd-dub-0.12.el
+4.0K -rw-r--r-- 1 root root  448 May 19 04:34 packages-stable/flycheck-dmd-dub-0.12.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-dmd-dub-badge.svg
+4.0K -rw-r--r-- 1 root root  420 May 19 04:34 packages-stable/flycheck-dmd-dub-readme.txt

@@ -1,3 +1,4 @@
+
 Provides navigation utilities, syntax highlighting and indentation for
 gitolite configuration files (gitolite.conf)
 

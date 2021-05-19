@@ -1,0 +1,31 @@
+Package: timesheet
+Fetcher: github
+Source:  https://github.com/tmarble/timesheet.el.git
+
+Updating /mnt/store/melpa/working/timesheet/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/timesheet/
+  to /tmp/timesheetTuqbDZ/timesheet-0.4.1
+    timesheet.el -> timesheet.el
+    bin => bin
+    share => share
+Created timesheet-0.4.1.tar containing:
+  timesheet-0.4.1/
+  timesheet-0.4.1/bin/
+  timesheet-0.4.1/bin/shell.funcs
+  timesheet-0.4.1/bin/timesheet-invoice
+  timesheet-0.4.1/share/
+  timesheet-0.4.1/share/defs.tex
+  timesheet-0.4.1/share/logo.pdf
+  timesheet-0.4.1/share/main.tex
+  timesheet-0.4.1/share/yoyodyne-fr.org
+  timesheet-0.4.1/share/yoyodyne-uk.org
+  timesheet-0.4.1/share/yoyodyne.org
+  timesheet-0.4.1/timesheet-pkg.el
+  timesheet-0.4.1/timesheet.el
+Built timesheet in 2.678s, finished at Wed May 19 01:52:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  379 May 19 01:52 packages-stable/timesheet-0.4.1.entry
+140K -rw-r--r-- 1 root root 140K May 19 01:52 packages-stable/timesheet-0.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/timesheet-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 01:52 packages-stable/timesheet-readme.txt

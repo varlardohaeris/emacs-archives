@@ -1,0 +1,30 @@
+Package: phi-search
+Fetcher: github
+Source:  https://github.com/zk-phi/phi-search.git
+
+Updating /mnt/store/melpa/working/phi-search/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/phi-search/
+  to /tmp/phi-searchC9VL3r/phi-search-20160630
+    phi-replace.el -> phi-replace.el
+    phi-search-core.el -> phi-search-core.el
+    phi-search.el -> phi-search.el
+Created phi-search-20160630.tar containing:
+  phi-search-20160630/
+  phi-search-20160630/phi-replace.el
+  phi-search-20160630/phi-search-core.el
+  phi-search-20160630/phi-search-pkg.el
+  phi-search-20160630/phi-search.el
+Built phi-search in 2.853s, finished at Wed May 19 01:42:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  299 May 19 01:42 packages-stable/phi-search-20160630.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:42 packages-stable/phi-search-20160630.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phi-search-badge.svg
+4.0K -rw-r--r-- 1 root root  203 May 19 01:42 packages-stable/phi-search-dired.log
+ 12K -rw-r--r-- 1 root root  11K May 18 22:28 packages-stable/phi-search-mc-2.2.1.el
+4.0K -rw-r--r-- 1 root root  410 May 18 22:28 packages-stable/phi-search-mc-2.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:28 packages-stable/phi-search-mc-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 18 22:28 packages-stable/phi-search-mc-readme.txt
+4.0K -rw-r--r-- 1 root root  142 May 19 01:42 packages-stable/phi-search-mc.log
+4.0K -rw-r--r-- 1 root root  154 May 19 01:42 packages-stable/phi-search-migemo.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phi-search-readme.txt

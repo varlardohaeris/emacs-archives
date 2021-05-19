@@ -1,0 +1,11 @@
+Package: auth-source-xoauth2
+Fetcher: github
+Source:  https://github.com/ccrusius/auth-source-xoauth2.git
+
+Updating /mnt/store/melpa/working/auth-source-xoauth2/
+Built auth-source-xoauth2 in 3.563s, finished at Wed May 19 04:20:05 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:20 packages-stable/auth-source-xoauth2-1.0.el
+4.0K -rw-r--r-- 1 root root  380 May 19 04:20 packages-stable/auth-source-xoauth2-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/auth-source-xoauth2-badge.svg
+4.0K -rw-r--r-- 1 root root  153 May 19 04:20 packages-stable/auth-source-xoauth2-readme.txt

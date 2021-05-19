@@ -1,0 +1,29 @@
+Package: org-evil
+Fetcher: github
+Source:  https://github.com/GuiltyDolphin/org-evil.git
+
+Updating /mnt/store/melpa/working/org-evil/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-evil/
+  to /tmp/org-evilhrnEyB/org-evil-0.5.0
+    org-evil-commands.el -> org-evil-commands.el
+    org-evil-core.el -> org-evil-core.el
+    org-evil-list.el -> org-evil-list.el
+    org-evil-motion.el -> org-evil-motion.el
+    org-evil-table.el -> org-evil-table.el
+    org-evil.el -> org-evil.el
+Created org-evil-0.5.0.tar containing:
+  org-evil-0.5.0/
+  org-evil-0.5.0/org-evil-commands.el
+  org-evil-0.5.0/org-evil-core.el
+  org-evil-0.5.0/org-evil-list.el
+  org-evil-0.5.0/org-evil-motion.el
+  org-evil-0.5.0/org-evil-pkg.el
+  org-evil-0.5.0/org-evil-table.el
+  org-evil-0.5.0/org-evil.el
+Built org-evil in 2.762s, finished at Wed May 19 01:39:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  447 May 19 01:39 packages-stable/org-evil-0.5.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:39 packages-stable/org-evil-0.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-evil-badge.svg
+4.0K -rw-r--r-- 1 root root  445 May 19 01:39 packages-stable/org-evil-readme.txt

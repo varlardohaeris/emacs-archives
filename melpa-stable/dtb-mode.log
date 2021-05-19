@@ -1,0 +1,6 @@
+Package: dtb-mode
+Fetcher: github
+Source:  https://github.com/schspa/dtb-mode.git
+
+Updating /mnt/store/melpa/working/dtb-mode/
+No valid stable versions found for dtb-mode

@@ -1,0 +1,6 @@
+Package: pig-snippets
+Fetcher: github
+Source:  https://github.com/motus/pig-mode.git
+
+Updating /mnt/store/melpa/working/pig-snippets/
+No valid stable versions found for pig-snippets

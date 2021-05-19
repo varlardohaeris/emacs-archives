@@ -1,0 +1,6 @@
+Package: forecast
+Fetcher: github
+Source:  https://github.com/cadadr/elisp.git
+
+Updating /mnt/store/melpa/working/forecast/
+No valid stable versions found for forecast

@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC>
+<html>
+    <head>
+        <title>GNU ELPA - gcmh</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="shortcut icon" type="image/png" href="../favicon.png">
+        <link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
+        <link rel="stylesheet" type="text/css" href="../layout.css">
+        <script src="../javascript/jquery.min.js" type="text/javascript"></script>
+        <script src="../javascript/jquery.filtertable.min.js" type="text/javascript"></script>
+        <script src="../javascript/package-search.js" type="text/javascript"></script>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,width=device-width" />
+    </head>
+    <body>
+
+        <div class="wrapper">
+
+            <div class="header small">
+                <div class="container">
+                    <h1><a href="index.html">GNU ELPA</a> - gcmh</h1>
+                </div>
+            </div>
+
+            <div class="container">
+<h2 class="package">gcmh</h2><dl><dt>Description</dt><dd>the Garbage Collector Magic Hack</dd>
+<dt>Latest</dt> <dd><a href="gcmh-0.2.1.el">gcmh-0.2.1.el</a>, 2020-Nov-17, 4.25&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>akrl@sdf.org</dd>
+<dt>Home page</dt> <dd><a href="https://gitlab.com/koral/gcmh">https://gitlab.com/koral/gcmh</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/gcmh">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/gcmh">Gitweb</a></dd>
+</dl><p>To install this package, run in Emacs:</p>
+                       <pre>M-x <span class="kw">package-install</span> RET <span class="kw">gcmh</span> RET</pre><h2>Full description</h2><pre>
+[[License: GPL v3][https://img.shields.io/badge/License-GPL%20v3-blue.svg]]
+[[https://melpa.org/#/gcmh][file:https://melpa.org/packages/gcmh-badge.svg]]
+* GCMH - the Garbage Collector Magic Hack
+
+  Enforce a sneaky Garbage Collection strategy to minimize GC interference with
+  user activity.
+
+  During normal use a high GC threshold is set.
+
+  When idling GC is triggered and a low threshold is set.
+
+  A more detailed explanation of the rationale behind this can be found at:
+
+  [[http://akrl.sdf.org/]]
+
+  - WARNING
+
+    In case Emacs is used in a system already under severe memory
+    pressure be sure to understand how GCMH works and trim
+    ~gcmh-high-cons-threshold~ accordingly.  Default value may be to
+    big and/or GCMH may not fit your use case.
+
+** Usage
+
+   Add into your .emacs
+
+   #+BEGIN_SRC
+   (add-to-list 'load-path "path-to-gcmh-here")
+   (gcmh-mode 1)
+   #+END_SRC
+
+   If this is done at the beginning of your .emacs start-up time should
+   also benefit form it.
+
+</pre>
+</body>

@@ -1,0 +1,6 @@
+Package: libmpdee
+Fetcher: github
+Source:  https://github.com/andyetitmoves/libmpdee.git
+
+Updating /mnt/store/melpa/working/libmpdee/
+No valid stable versions found for libmpdee

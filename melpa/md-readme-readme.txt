@@ -19,10 +19,10 @@ names so they will display correctly. Lists are somewhat tricky to
 recognize automatically, and the program employs a very simple
 heuristic currently.
 
-Dependencies:
+; Dependencies:
 None.
 
-Installation:
+; Installation:
 (require 'md-readme), then you can call mdr-generate manually. I
 have not found a way to call it automatically that I really like,
 but here is one that works for me:
@@ -37,6 +37,6 @@ but here is one that works for me:
     (add-hook 'after-save-hook
               '(lambda () (if (boundp 'mdr-generate-readme) (mdr-generate))))
 
-Binaries
+; Binaries
 `bin/md-readme` is a shell script that will generate readme.md for the
 passed file. See it for usage instructions.

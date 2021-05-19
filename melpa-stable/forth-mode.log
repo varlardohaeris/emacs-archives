@@ -1,0 +1,6 @@
+Package: forth-mode
+Fetcher: github
+Source:  https://github.com/larsbrinkhoff/forth-mode.git
+
+Updating /mnt/store/melpa/working/forth-mode/
+No valid stable versions found for forth-mode

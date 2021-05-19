@@ -1,0 +1,6 @@
+Package: opencc
+Fetcher: github
+Source:  https://github.com/xuchunyang/emacs-opencc.git
+
+Updating /mnt/store/melpa/working/opencc/
+No valid stable versions found for opencc

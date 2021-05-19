@@ -1,0 +1,11 @@
+Package: ace-jump-buffer
+Fetcher: github
+Source:  https://github.com/waymondo/ace-jump-buffer.git
+
+Updating /mnt/store/melpa/working/ace-jump-buffer/
+Built ace-jump-buffer in 3.081s, finished at Wed May 19 04:18:39 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.0K May 19 04:18 packages-stable/ace-jump-buffer-0.4.1.el
+4.0K -rw-r--r-- 1 root root  385 May 19 04:18 packages-stable/ace-jump-buffer-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ace-jump-buffer-badge.svg
+4.0K -rw-r--r-- 1 root root   80 May 19 04:18 packages-stable/ace-jump-buffer-readme.txt

@@ -1,0 +1,6 @@
+Package: dired-git
+Fetcher: github
+Source:  https://github.com/conao3/dired-git.el.git
+
+Updating /mnt/store/melpa/working/dired-git/
+No valid stable versions found for dired-git

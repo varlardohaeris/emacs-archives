@@ -1,0 +1,6 @@
+Package: elisp-depend
+Fetcher: github
+Source:  https://github.com/emacsorphanage/elisp-depend.git
+
+Updating /mnt/store/melpa/working/elisp-depend/
+No valid stable versions found for elisp-depend

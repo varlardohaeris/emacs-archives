@@ -1,0 +1,2 @@
+
+(modeline-posn . [(20201016 122) nil "Set up `mode-line-position'." single ((:commit . "b723a5c0c2b578d38f8b6b146b2f6292b0f05a31") (:keywords "mode-line" "region" "column") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/modeline-posn.el"))])

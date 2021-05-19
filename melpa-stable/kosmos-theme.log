@@ -1,0 +1,6 @@
+Package: kosmos-theme
+Fetcher: github
+Source:  https://github.com/habamax/kosmos-theme.git
+
+Updating /mnt/store/melpa/working/kosmos-theme/
+No valid stable versions found for kosmos-theme

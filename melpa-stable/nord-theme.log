@@ -1,0 +1,11 @@
+Package: nord-theme
+Fetcher: github
+Source:  https://github.com/arcticicestudio/nord-emacs.git
+
+Updating /mnt/store/melpa/working/nord-theme/
+Built nord-theme in 2.927s, finished at Wed May 19 01:37:36 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  41K May 19 01:37 packages-stable/nord-theme-0.5.0.el
+4.0K -rw-r--r-- 1 root root  410 May 19 01:37 packages-stable/nord-theme-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nord-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  128 May 19 01:37 packages-stable/nord-theme-readme.txt

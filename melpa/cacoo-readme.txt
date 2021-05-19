@@ -9,7 +9,7 @@ I'm sure that Emacs becomes the most powerful documentation tool.
 Not only Cacoo diagrams, but also any images those are indicated by
 the URL can be displayed.
 
-Installation:
+; Installation:
 
 This program is dependent on followings:
 - anything.el (http://www.emacswiki.org/emacs/Anything)

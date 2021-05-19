@@ -1,0 +1,11 @@
+Package: imapfilter
+Fetcher: github
+Source:  https://github.com/tarsius/imapfilter.git
+
+Updating /mnt/store/melpa/working/imapfilter/
+Built imapfilter in 2.908s, finished at Wed May 19 04:42:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.5K May 19 04:42 packages-stable/imapfilter-1.0.3.el
+4.0K -rw-r--r-- 1 root root  351 May 19 04:42 packages-stable/imapfilter-1.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/imapfilter-badge.svg
+4.0K -rw-r--r-- 1 root root   63 May 19 04:42 packages-stable/imapfilter-readme.txt

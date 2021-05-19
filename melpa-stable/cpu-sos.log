@@ -1,0 +1,6 @@
+Package: cpu-sos
+Fetcher: github
+Source:  https://github.com/oitofelix/cpu-sos.git
+
+Updating /mnt/store/melpa/working/cpu-sos/
+No valid stable versions found for cpu-sos

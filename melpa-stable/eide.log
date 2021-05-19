@@ -1,0 +1,54 @@
+Package: eide
+Fetcher: git
+Source:  https://forge.tedomum.net/hjuvi/eide.git
+
+Updating /mnt/store/melpa/working/eide/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eide/
+  to /tmp/eideKkp3Vv/eide-2.2.0
+  ! src/eide-compare.el -> eide-compare.el
+  ! src/eide-config.el -> eide-config.el
+  ! src/eide-display.el -> eide-display.el
+  ! src/eide-edit.el -> eide-edit.el
+  ! src/eide-help.el -> eide-help.el
+  ! src/eide-keys.el -> eide-keys.el
+  ! src/eide-menu.el -> eide-menu.el
+  ! src/eide-pkg.el -> eide-pkg.el
+  ! src/eide-popup.el -> eide-popup.el
+  ! src/eide-project.el -> eide-project.el
+  ! src/eide-search.el -> eide-search.el
+  ! src/eide-vc.el -> eide-vc.el
+  ! src/eide-windows.el -> eide-windows.el
+  ! src/eide.el -> eide.el
+  ! src/themes/eide-browsing-theme.el -> eide-browsing-theme.el
+  ! src/themes/eide-dark-theme.el -> eide-dark-theme.el
+  ! src/themes/eide-display-theme.el -> eide-display-theme.el
+  ! src/themes/eide-light-theme.el -> eide-light-theme.el
+  ! src/themes/eide-settings-theme.el -> eide-settings-theme.el
+Created eide-2.2.0.tar containing:
+  eide-2.2.0/
+  eide-2.2.0/eide-browsing-theme.el
+  eide-2.2.0/eide-compare.el
+  eide-2.2.0/eide-config.el
+  eide-2.2.0/eide-dark-theme.el
+  eide-2.2.0/eide-display-theme.el
+  eide-2.2.0/eide-display.el
+  eide-2.2.0/eide-edit.el
+  eide-2.2.0/eide-help.el
+  eide-2.2.0/eide-keys.el
+  eide-2.2.0/eide-light-theme.el
+  eide-2.2.0/eide-menu.el
+  eide-2.2.0/eide-pkg.el
+  eide-2.2.0/eide-popup.el
+  eide-2.2.0/eide-project.el
+  eide-2.2.0/eide-search.el
+  eide-2.2.0/eide-settings-theme.el
+  eide-2.2.0/eide-vc.el
+  eide-2.2.0/eide-windows.el
+  eide-2.2.0/eide.el
+Built eide in 5.799s, finished at Wed May 19 04:29:41 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  279 May 19 04:29 packages-stable/eide-2.2.0.entry
+340K -rw-r--r-- 1 root root 340K May 19 04:29 packages-stable/eide-2.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eide-badge.svg
+4.0K -rw-r--r-- 1 root root  548 May 19 04:29 packages-stable/eide-readme.txt

@@ -1,0 +1,6 @@
+Package: ptemplate-templates
+Fetcher: github
+Source:  https://github.com/nbfalcon/ptemplate-templates.git
+
+Updating /mnt/store/melpa/working/ptemplate-templates/
+No valid stable versions found for ptemplate-templates

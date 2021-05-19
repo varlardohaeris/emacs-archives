@@ -1,0 +1,6 @@
+Package: govet
+Fetcher: github
+Source:  https://github.com/meshelton/govet.git
+
+Updating /mnt/store/melpa/working/govet/
+No valid stable versions found for govet

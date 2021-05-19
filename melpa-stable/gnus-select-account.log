@@ -1,0 +1,6 @@
+Package: gnus-select-account
+Fetcher: github
+Source:  https://github.com/tumashu/gnus-select-account.git
+
+Updating /mnt/store/melpa/working/gnus-select-account/
+No valid stable versions found for gnus-select-account

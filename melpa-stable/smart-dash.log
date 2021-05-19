@@ -1,0 +1,6 @@
+Package: smart-dash
+Fetcher: github
+Source:  https://github.com/malsyned/smart-dash.git
+
+Updating /mnt/store/melpa/working/smart-dash/
+No valid stable versions found for smart-dash

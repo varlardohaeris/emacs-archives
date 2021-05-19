@@ -1,3 +1,4 @@
+
 Introduction:
 
 A coffee-mode configuration for `ff-find-other-file'.
@@ -59,3 +60,4 @@ example, .js files are in `js` directory and .coffee files are in
 If you want to set another key binding, configure as follow.
 
     (coffee-fof-setup :other-key "C-c C-f" :test-key "C-c t")
+

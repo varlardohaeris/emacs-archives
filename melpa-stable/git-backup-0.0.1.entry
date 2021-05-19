@@ -1,2 +1,13 @@
-
-(git-backup . [(0 0 1) ((emacs (24 3)) (s (1 8 0))) "Backup each file change using git" single ((:commit . "e28d7af2d1c58fa5b8068223eb83a73f044e6a6c") (:keywords "backup" "files" "tools" "git") (:authors ("Anthony HAMON" . "hamon.anth@gmail.com")) (:maintainer "Anthony HAMON" . "hamon.anth@gmail.com") (:url . "http://github.com/antham/git-backup"))])
+(git-backup .
+	    [(0 0 1)
+	     ((emacs
+	       (24 3))
+	      (s
+	       (1 8 0)))
+	     "Backup each file change using git" single
+	     ((:commit . "e28d7af2d1c58fa5b8068223eb83a73f044e6a6c")
+	      (:authors
+	       ("Anthony HAMON" . "hamon.anth@gmail.com"))
+	      (:maintainer "Anthony HAMON" . "hamon.anth@gmail.com")
+	      (:keywords "backup" "files" "tools" "git")
+	      (:url . "http://github.com/antham/git-backup"))])

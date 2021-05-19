@@ -1,0 +1,6 @@
+Package: lexbind-mode
+Fetcher: github
+Source:  https://github.com/spacebat/lexbind-mode.git
+
+Updating /mnt/store/melpa/working/lexbind-mode/
+No valid stable versions found for lexbind-mode

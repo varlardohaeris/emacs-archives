@@ -1,0 +1,6 @@
+Package: parse-csv
+Fetcher: github
+Source:  https://github.com/mrc/el-csv.git
+
+Updating /mnt/store/melpa/working/parse-csv/
+No valid stable versions found for parse-csv

@@ -1,0 +1,6 @@
+Package: display-theme
+Fetcher: github
+Source:  https://github.com/kawabata/emacs-display-theme.git
+
+Updating /mnt/store/melpa/working/display-theme/
+No valid stable versions found for display-theme

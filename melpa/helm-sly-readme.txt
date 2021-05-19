@@ -1,3 +1,4 @@
+
 A Helm for using SLY.
 
 The complete command list:
@@ -10,7 +11,7 @@ The complete command list:
    Like ~helm-sly-list-connections~, but include an extra source of
    Lisp-related buffers, like the events buffer or the scratch buffer.
 
-Installation:
+; Installation:
 
 Add helm-sly.el to your load-path.
 Set up SLY properly.

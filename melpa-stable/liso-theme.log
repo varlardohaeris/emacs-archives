@@ -1,0 +1,6 @@
+Package: liso-theme
+Fetcher: github
+Source:  https://github.com/caisah/liso-theme.git
+
+Updating /mnt/store/melpa/working/liso-theme/
+No valid stable versions found for liso-theme

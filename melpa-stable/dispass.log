@@ -1,0 +1,11 @@
+Package: dispass
+Fetcher: github
+Source:  https://github.com/ryuslash/dispass.el.git
+
+Updating /mnt/store/melpa/working/dispass/
+Built dispass in 2.981s, finished at Wed May 19 04:28:15 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:28 packages-stable/dispass-1.1.2.el
+4.0K -rw-r--r-- 1 root root  324 May 19 04:28 packages-stable/dispass-1.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dispass-badge.svg
+4.0K -rw-r--r-- 1 root root  184 May 19 04:28 packages-stable/dispass-readme.txt

@@ -1,0 +1,11 @@
+Package: wisp-mode
+Fetcher: hg
+Source:  https://hg.sr.ht/~arnebab/wisp
+
+Updating /mnt/store/melpa/working/wisp-mode/
+Built wisp-mode in 25.002s, finished at Wed May 19 04:15:38 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:15 packages/wisp-mode-20210405.1410.el
+4.0K -rw-r--r-- 1 root root  425 May 19 04:15 packages/wisp-mode-20210405.1410.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/wisp-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 04:15 packages/wisp-mode-readme.txt

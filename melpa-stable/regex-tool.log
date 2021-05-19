@@ -1,0 +1,6 @@
+Package: regex-tool
+Fetcher: github
+Source:  https://github.com/jwiegley/regex-tool.git
+
+Updating /mnt/store/melpa/working/regex-tool/
+No valid stable versions found for regex-tool

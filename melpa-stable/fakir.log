@@ -1,0 +1,6 @@
+Package: fakir
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-fakir.git
+
+Updating /mnt/store/melpa/working/fakir/
+No valid stable versions found for fakir

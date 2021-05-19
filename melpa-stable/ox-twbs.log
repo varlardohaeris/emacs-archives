@@ -1,0 +1,11 @@
+Package: ox-twbs
+Fetcher: github
+Source:  https://github.com/marsmining/ox-twbs.git
+
+Updating /mnt/store/melpa/working/ox-twbs/
+Built ox-twbs in 2.938s, finished at Wed May 19 01:41:39 2021
+ ✓ Success:
+128K -rw-r--r-- 1 root root 127K May 19 01:41 packages-stable/ox-twbs-1.1.4.el
+4.0K -rw-r--r-- 1 root root  504 May 19 01:41 packages-stable/ox-twbs-1.1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-twbs-badge.svg
+4.0K -rw-r--r-- 1 root root  238 May 19 01:41 packages-stable/ox-twbs-readme.txt

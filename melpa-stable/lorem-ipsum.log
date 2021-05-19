@@ -1,0 +1,6 @@
+Package: lorem-ipsum
+Fetcher: github
+Source:  https://github.com/jschaf/emacs-lorem-ipsum.git
+
+Updating /mnt/store/melpa/working/lorem-ipsum/
+No valid stable versions found for lorem-ipsum

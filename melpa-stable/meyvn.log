@@ -1,0 +1,11 @@
+Package: meyvn
+Fetcher: github
+Source:  https://github.com/danielsz/meyvn-el.git
+
+Updating /mnt/store/melpa/working/meyvn/
+Built meyvn in 3.163s, finished at Wed May 19 01:35:11 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K May 19 01:35 packages-stable/meyvn-1.0.el
+4.0K -rw-r--r-- 1 root root  321 May 19 01:35 packages-stable/meyvn-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/meyvn-badge.svg
+4.0K -rw-r--r-- 1 root root   82 May 19 01:35 packages-stable/meyvn-readme.txt

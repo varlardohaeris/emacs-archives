@@ -1,0 +1,6 @@
+Package: smart-mark
+Fetcher: github
+Source:  https://github.com/zhangkaiyulw/smart-mark.git
+
+Updating /mnt/store/melpa/working/smart-mark/
+No valid stable versions found for smart-mark

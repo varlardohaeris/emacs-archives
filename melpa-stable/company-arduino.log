@@ -1,0 +1,6 @@
+Package: company-arduino
+Fetcher: github
+Source:  https://github.com/yuutayamada/company-arduino.git
+
+Updating /mnt/store/melpa/working/company-arduino/
+No valid stable versions found for company-arduino

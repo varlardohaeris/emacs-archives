@@ -1,0 +1,11 @@
+Package: overcast-theme
+Fetcher: github
+Source:  https://github.com/myTerminal/overcast-theme.git
+
+Updating /mnt/store/melpa/working/overcast-theme/
+Built overcast-theme in 2.739s, finished at Wed May 19 01:41:15 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 01:41 packages-stable/overcast-theme-1.3.0.el
+4.0K -rw-r--r-- 1 root root  382 May 19 01:41 packages-stable/overcast-theme-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/overcast-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   83 May 19 01:41 packages-stable/overcast-theme-readme.txt

@@ -1,0 +1,6 @@
+Package: go-gen-test
+Fetcher: github
+Source:  https://github.com/s-kostyaev/go-gen-test.git
+
+Updating /mnt/store/melpa/working/go-gen-test/
+No valid stable versions found for go-gen-test

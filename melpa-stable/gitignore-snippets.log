@@ -1,0 +1,6 @@
+Package: gitignore-snippets
+Fetcher: github
+Source:  https://github.com/sei40kr/gitignore-snippets.git
+
+Updating /mnt/store/melpa/working/gitignore-snippets/
+No valid stable versions found for gitignore-snippets

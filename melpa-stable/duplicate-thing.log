@@ -1,0 +1,6 @@
+Package: duplicate-thing
+Fetcher: github
+Source:  https://github.com/ongaeshi/duplicate-thing.git
+
+Updating /mnt/store/melpa/working/duplicate-thing/
+No valid stable versions found for duplicate-thing

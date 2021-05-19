@@ -1,0 +1,11 @@
+Package: python-x
+Fetcher: gitlab
+Source:  https://gitlab.com/wavexx/python-x.el.git
+
+Updating /mnt/store/melpa/working/python-x/
+Built python-x in 4.525s, finished at Wed May 19 01:45:04 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K May 19 01:45 packages-stable/python-x-1.0.el
+4.0K -rw-r--r-- 1 root root  407 May 19 01:45 packages-stable/python-x-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/python-x-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 01:45 packages-stable/python-x-readme.txt

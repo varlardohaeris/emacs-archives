@@ -1,0 +1,11 @@
+Package: ob-async
+Fetcher: github
+Source:  https://github.com/astahlman/ob-async.git
+
+Updating /mnt/store/melpa/working/ob-async/
+Built ob-async in 2.936s, finished at Wed May 19 01:37:58 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K May 19 01:37 packages-stable/ob-async-1.0.0.el
+4.0K -rw-r--r-- 1 root root  463 May 19 01:37 packages-stable/ob-async-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/ob-async-badge.svg
+4.0K -rw-r--r-- 1 root root  123 May 19 01:37 packages-stable/ob-async-readme.txt

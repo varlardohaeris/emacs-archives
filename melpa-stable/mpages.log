@@ -1,0 +1,6 @@
+Package: mpages
+Fetcher: github
+Source:  https://github.com/slevin/mpages.git
+
+Updating /mnt/store/melpa/working/mpages/
+No valid stable versions found for mpages

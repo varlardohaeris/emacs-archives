@@ -1,0 +1,6 @@
+Package: rcirc-alert
+Fetcher: github
+Source:  https://github.com/csantosb/rcirc-alert.git
+
+Updating /mnt/store/melpa/working/rcirc-alert/
+No valid stable versions found for rcirc-alert

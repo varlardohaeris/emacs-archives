@@ -1,0 +1,10 @@
+Package: cake-inflector
+Fetcher: github
+Source:  https://github.com/k1LoW/emacs-cake-inflector.git
+
+Updating /mnt/store/melpa/working/cake-inflector/
+Built cake-inflector in 2.864s, finished at Wed May 19 04:22:30 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:22 packages-stable/cake-inflector-1.1.1.el
+4.0K -rw-r--r-- 1 root root  451 May 19 04:22 packages-stable/cake-inflector-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cake-inflector-badge.svg

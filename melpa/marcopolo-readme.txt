@@ -1,6 +1,6 @@
 Provides a Docker HUB API client for Emacs.
 
-Installation:
+; Installation:
 
 Available as a package in melpa.milkbox.net.
 

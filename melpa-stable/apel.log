@@ -1,0 +1,6 @@
+Package: apel
+Fetcher: github
+Source:  https://github.com/wanderlust/apel.git
+
+Updating /mnt/store/melpa/working/apel/
+No valid stable versions found for apel

@@ -1,0 +1,6 @@
+Package: ob-nim
+Fetcher: github
+Source:  https://github.com/Lompik/ob-nim.git
+
+Updating /mnt/store/melpa/working/ob-nim/
+No valid stable versions found for ob-nim

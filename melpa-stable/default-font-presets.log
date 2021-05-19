@@ -1,0 +1,6 @@
+Package: default-font-presets
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-default-font-presets.git
+
+Updating /mnt/store/melpa/working/default-font-presets/
+No valid stable versions found for default-font-presets

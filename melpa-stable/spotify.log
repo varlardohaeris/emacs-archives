@@ -1,0 +1,11 @@
+Package: spotify
+Fetcher: github
+Source:  https://github.com/remvee/spotify-el.git
+
+Updating /mnt/store/melpa/working/spotify/
+Built spotify in 2.811s, finished at Wed May 19 01:50:00 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K May 19 01:49 packages-stable/spotify-0.3.4.el
+4.0K -rw-r--r-- 1 root root  324 May 19 01:49 packages-stable/spotify-0.3.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/spotify-badge.svg
+4.0K -rw-r--r-- 1 root root  301 May 19 01:49 packages-stable/spotify-readme.txt

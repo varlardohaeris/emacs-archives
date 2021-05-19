@@ -1,0 +1,6 @@
+Package: blgrep
+Fetcher: github
+Source:  https://github.com/ataka/blgrep.git
+
+Updating /mnt/store/melpa/working/blgrep/
+No valid stable versions found for blgrep

@@ -1,0 +1,11 @@
+Package: ercn
+Fetcher: github
+Source:  https://github.com/leathekd/ercn.git
+
+Updating /mnt/store/melpa/working/ercn/
+Built ercn in 3.173s, finished at Wed May 19 04:31:23 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:31 packages-stable/ercn-1.1.1.el
+4.0K -rw-r--r-- 1 root root  299 May 19 04:31 packages-stable/ercn-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ercn-badge.svg
+4.0K -rw-r--r-- 1 root root 3.3K May 19 04:31 packages-stable/ercn-readme.txt

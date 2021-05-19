@@ -1,0 +1,6 @@
+Package: ack-menu
+Fetcher: github
+Source:  https://github.com/chumpage/ack-menu.git
+
+Updating /mnt/store/melpa/working/ack-menu/
+Single file full-ack.el does not match package name ack-menu

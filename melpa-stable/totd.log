@@ -1,0 +1,6 @@
+Package: totd
+Fetcher: gitlab
+Source:  https://gitlab.com/egh/emacs-totd.git
+
+Updating /mnt/store/melpa/working/totd/
+No valid stable versions found for totd

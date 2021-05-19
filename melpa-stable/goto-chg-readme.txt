@@ -1,3 +1,4 @@
+
 Goto Last Change
 
 Goto the point of the most recent edit in the buffer.

@@ -1,0 +1,6 @@
+Package: searchq
+Fetcher: github
+Source:  https://github.com/tcw165/searchq.git
+
+Updating /mnt/store/melpa/working/searchq/
+No valid stable versions found for searchq

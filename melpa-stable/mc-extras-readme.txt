@@ -1,3 +1,4 @@
+
 This package contains extra functions for multiple-cursors mode.
 
 Here is a list of the interactive commands provided by mc-extras:

@@ -1,0 +1,6 @@
+Package: lisp-extra-font-lock
+Fetcher: github
+Source:  https://github.com/Lindydancer/lisp-extra-font-lock.git
+
+Updating /mnt/store/melpa/working/lisp-extra-font-lock/
+No valid stable versions found for lisp-extra-font-lock

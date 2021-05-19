@@ -1,0 +1,6 @@
+Package: sorcery-theme
+Fetcher: github
+Source:  https://github.com/mtreca/emacs-theme-sorcery.git
+
+Updating /mnt/store/melpa/working/sorcery-theme/
+No valid stable versions found for sorcery-theme

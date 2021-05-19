@@ -1,0 +1,6 @@
+Package: anybar
+Fetcher: github
+Source:  https://github.com/tie-rack/anybar-el.git
+
+Updating /mnt/store/melpa/working/anybar/
+No valid stable versions found for anybar

@@ -1,0 +1,6 @@
+Package: terminal-toggle
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/terminal-toggle.el.git
+
+Updating /mnt/store/melpa/working/terminal-toggle/
+No valid stable versions found for terminal-toggle

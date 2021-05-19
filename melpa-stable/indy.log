@@ -1,0 +1,6 @@
+Package: indy
+Fetcher: github
+Source:  https://github.com/kwrooijen/indy.git
+
+Updating /mnt/store/melpa/working/indy/
+No valid stable versions found for indy

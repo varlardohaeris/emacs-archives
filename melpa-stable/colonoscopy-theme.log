@@ -1,0 +1,6 @@
+Package: colonoscopy-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-colonoscopy-theme.git
+
+Updating /mnt/store/melpa/working/colonoscopy-theme/
+No valid stable versions found for colonoscopy-theme

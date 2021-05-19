@@ -1,0 +1,6 @@
+Package: nnir-est
+Fetcher: github
+Source:  https://github.com/kawabata/nnir-est.git
+
+Updating /mnt/store/melpa/working/nnir-est/
+No valid stable versions found for nnir-est

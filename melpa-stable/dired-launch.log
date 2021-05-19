@@ -1,0 +1,6 @@
+Package: dired-launch
+Fetcher: github
+Source:  https://github.com/thomp/dired-launch.git
+
+Updating /mnt/store/melpa/working/dired-launch/
+No valid stable versions found for dired-launch

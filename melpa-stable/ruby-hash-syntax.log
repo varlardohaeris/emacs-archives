@@ -1,0 +1,11 @@
+Package: ruby-hash-syntax
+Fetcher: github
+Source:  https://github.com/purcell/ruby-hash-syntax.git
+
+Updating /mnt/store/melpa/working/ruby-hash-syntax/
+Built ruby-hash-syntax in 3.136s, finished at Wed May 19 01:47:09 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K May 19 01:47 packages-stable/ruby-hash-syntax-0.7.el
+4.0K -rw-r--r-- 1 root root  406 May 19 01:47 packages-stable/ruby-hash-syntax-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/ruby-hash-syntax-badge.svg
+4.0K -rw-r--r-- 1 root root  206 May 19 01:47 packages-stable/ruby-hash-syntax-readme.txt

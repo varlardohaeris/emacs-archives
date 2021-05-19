@@ -1,0 +1,6 @@
+Package: elcontext
+Fetcher: github
+Source:  https://github.com/rollacaster/elcontext.git
+
+Updating /mnt/store/melpa/working/elcontext/
+No valid stable versions found for elcontext

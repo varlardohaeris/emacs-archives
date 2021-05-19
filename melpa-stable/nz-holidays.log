@@ -1,0 +1,6 @@
+Package: nz-holidays
+Fetcher: github
+Source:  https://github.com/techquila/nz-holidays.git
+
+Updating /mnt/store/melpa/working/nz-holidays/
+No valid stable versions found for nz-holidays

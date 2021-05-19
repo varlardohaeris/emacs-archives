@@ -15,7 +15,7 @@ Setup:
 (emms-mode-line 1)
 (emms-playing-time 1)
 
-`emms-mode-line-cycle' can be used with emms-mode-line-icon.
+;; `emms-mode-line-cycle' can be used with emms-mode-line-icon.
 (require 'emms-mode-line-icon)
 (custom-set-variables '(emms-mode-line-cycle-use-icon-p t))
 

@@ -1,0 +1,6 @@
+Package: keyswap
+Fetcher: github
+Source:  https://github.com/hardenedapple/keyswap.el.git
+
+Updating /mnt/store/melpa/working/keyswap/
+No valid stable versions found for keyswap

@@ -9,7 +9,7 @@ zero setup.
 Automatically chains itself as the next checker after c/c++-clang, lsp-ui,
 irony and rtags flycheck checkers.
 
-Setup
+;; Setup
 
 (with-eval-after-load 'flycheck
    (require 'flycheck-clang-analyzer)

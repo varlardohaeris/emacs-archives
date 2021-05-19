@@ -1,0 +1,6 @@
+Package: redis
+Fetcher: github
+Source:  https://github.com/emacs-pe/redis.el.git
+
+Updating /mnt/store/melpa/working/redis/
+No valid stable versions found for redis

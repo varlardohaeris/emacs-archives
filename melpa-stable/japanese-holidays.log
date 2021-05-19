@@ -1,0 +1,6 @@
+Package: japanese-holidays
+Fetcher: github
+Source:  https://github.com/emacs-jp/japanese-holidays.git
+
+Updating /mnt/store/melpa/working/japanese-holidays/
+No valid stable versions found for japanese-holidays

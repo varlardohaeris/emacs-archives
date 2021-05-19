@@ -1,0 +1,6 @@
+Package: gotham-theme
+Fetcher: git
+Source:  https://depp.brause.cc/gotham-theme.git
+
+Updating /mnt/store/melpa/working/gotham-theme/
+No valid stable versions found for gotham-theme

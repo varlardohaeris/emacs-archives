@@ -1,0 +1,6 @@
+Package: openstack-cgit-browse-file
+Fetcher: github
+Source:  https://github.com/chmouel/openstack-cgit-browse-file.git
+
+Updating /mnt/store/melpa/working/openstack-cgit-browse-file/
+No valid stable versions found for openstack-cgit-browse-file

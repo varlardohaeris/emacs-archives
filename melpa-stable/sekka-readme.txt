@@ -10,3 +10,4 @@ you might want to enable IME:
 To enable sticky-shift with ";" key:
 
  (setq sekka-sticky-shift t)
+

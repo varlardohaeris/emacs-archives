@@ -1,0 +1,6 @@
+Package: stem-english
+Fetcher: github
+Source:  https://github.com/kawabata/stem-english.git
+
+Updating /mnt/store/melpa/working/stem-english/
+No valid stable versions found for stem-english

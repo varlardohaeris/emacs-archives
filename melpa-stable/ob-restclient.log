@@ -1,0 +1,6 @@
+Package: ob-restclient
+Fetcher: github
+Source:  https://github.com/alf/ob-restclient.el.git
+
+Updating /mnt/store/melpa/working/ob-restclient/
+No valid stable versions found for ob-restclient

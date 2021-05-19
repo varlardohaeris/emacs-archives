@@ -1,0 +1,6 @@
+Package: helm-mu
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-mu.git
+
+Updating /mnt/store/melpa/working/helm-mu/
+No valid stable versions found for helm-mu

@@ -1,0 +1,6 @@
+Package: redshank
+Fetcher: github
+Source:  https://github.com/emacsattic/redshank.git
+
+Updating /mnt/store/melpa/working/redshank/
+No valid stable versions found for redshank

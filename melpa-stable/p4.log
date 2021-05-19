@@ -1,0 +1,6 @@
+Package: p4
+Fetcher: github
+Source:  https://github.com/gareth-rees/p4.el.git
+
+Updating /mnt/store/melpa/working/p4/
+No valid stable versions found for p4

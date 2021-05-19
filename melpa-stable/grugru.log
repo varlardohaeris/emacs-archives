@@ -1,0 +1,23 @@
+Package: grugru
+Fetcher: github
+Source:  https://github.com/ROCKTAKEY/grugru.git
+
+Updating /mnt/store/melpa/working/grugru/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/grugru/
+  to /tmp/grugrurJSLpv/grugru-1.20.0
+    grugru-default.el -> grugru-default.el
+    grugru-utils.el -> grugru-utils.el
+    grugru.el -> grugru.el
+Created grugru-1.20.0.tar containing:
+  grugru-1.20.0/
+  grugru-1.20.0/grugru-default.el
+  grugru-1.20.0/grugru-pkg.el
+  grugru-1.20.0/grugru-utils.el
+  grugru-1.20.0/grugru.el
+Built grugru in 6.524s, finished at Wed May 19 04:38:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  339 May 19 04:38 packages-stable/grugru-1.20.0.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:38 packages-stable/grugru-1.20.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grugru-badge.svg
+ 12K -rw-r--r-- 1 root root  12K May 19 04:38 packages-stable/grugru-readme.txt

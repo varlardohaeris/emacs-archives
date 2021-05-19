@@ -1,0 +1,6 @@
+Package: undo-fu
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-undo-fu.git
+
+Updating /mnt/store/melpa/working/undo-fu/
+No valid stable versions found for undo-fu

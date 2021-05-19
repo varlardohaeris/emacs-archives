@@ -1,0 +1,6 @@
+Package: rbt
+Fetcher: github
+Source:  https://github.com/joeheyming/rbt.el.git
+
+Updating /mnt/store/melpa/working/rbt/
+No valid stable versions found for rbt

@@ -1,0 +1,6 @@
+Package: dashboard-hackernews
+Fetcher: github
+Source:  https://github.com/hyakt/emacs-dashboard-hackernews.git
+
+Updating /mnt/store/melpa/working/dashboard-hackernews/
+No valid stable versions found for dashboard-hackernews

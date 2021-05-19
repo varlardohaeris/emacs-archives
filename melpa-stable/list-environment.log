@@ -1,0 +1,6 @@
+Package: list-environment
+Fetcher: github
+Source:  https://github.com/dgtized/list-environment.el.git
+
+Updating /mnt/store/melpa/working/list-environment/
+No valid stable versions found for list-environment

@@ -1,0 +1,6 @@
+Package: poet-theme
+Fetcher: github
+Source:  https://github.com/kunalb/poet.git
+
+Updating /mnt/store/melpa/working/poet-theme/
+No valid stable versions found for poet-theme

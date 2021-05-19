@@ -1,0 +1,11 @@
+Package: slim-mode
+Fetcher: github
+Source:  https://github.com/slim-template/emacs-slim.git
+
+Updating /mnt/store/melpa/working/slim-mode/
+Built slim-mode in 3.016s, finished at Wed May 19 01:48:48 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 01:48 packages-stable/slim-mode-1.1.el
+4.0K -rw-r--r-- 1 root root  316 May 19 01:48 packages-stable/slim-mode-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/slim-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  391 May 19 01:48 packages-stable/slim-mode-readme.txt

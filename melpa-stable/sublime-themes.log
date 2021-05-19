@@ -1,0 +1,6 @@
+Package: sublime-themes
+Fetcher: github
+Source:  https://github.com/owainlewis/emacs-color-themes.git
+
+Updating /mnt/store/melpa/working/sublime-themes/
+No valid stable versions found for sublime-themes

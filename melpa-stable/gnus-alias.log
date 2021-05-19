@@ -1,0 +1,6 @@
+Package: gnus-alias
+Fetcher: github
+Source:  https://github.com/hexmode/gnus-alias.git
+
+Updating /mnt/store/melpa/working/gnus-alias/
+No valid stable versions found for gnus-alias

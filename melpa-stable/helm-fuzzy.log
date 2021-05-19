@@ -1,0 +1,12 @@
+Package: helm-fuzzy
+Fetcher: github
+Source:  https://github.com/jcs-elpa/helm-fuzzy.git
+
+Updating /mnt/store/melpa/working/helm-fuzzy/
+Built helm-fuzzy in 2.755s, finished at Wed May 19 04:40:22 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.0K May 19 04:40 packages-stable/helm-fuzzy-0.1.6.el
+4.0K -rw-r--r-- 1 root root  417 May 19 04:40 packages-stable/helm-fuzzy-0.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-fuzzy-badge.svg
+4.0K -rw-r--r-- 1 root root  203 May 19 04:40 packages-stable/helm-fuzzy-find.log
+4.0K -rw-r--r-- 1 root root   33 May 19 04:40 packages-stable/helm-fuzzy-readme.txt

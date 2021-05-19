@@ -8,7 +8,7 @@ To enable zlc, just put the following lines in your Emacs config.
 (require 'zlc)
 (zlc-mode t)
 
-Customization:
+; Customization:
 
 To simulate zsh's `menu select', which allows you to move around
 candidates, zlc arranges movement commands for 4 directions. If you

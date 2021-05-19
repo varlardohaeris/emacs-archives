@@ -1,0 +1,11 @@
+Package: flycheck-clang-tidy
+Fetcher: github
+Source:  https://github.com/ch1bo/flycheck-clang-tidy.git
+
+Updating /mnt/store/melpa/working/flycheck-clang-tidy/
+Built flycheck-clang-tidy in 2.955s, finished at Wed May 19 04:34:30 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.5K May 19 04:34 packages-stable/flycheck-clang-tidy-0.3.0.el
+4.0K -rw-r--r-- 1 root root  451 May 19 04:34 packages-stable/flycheck-clang-tidy-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-clang-tidy-badge.svg
+4.0K -rw-r--r-- 1 root root   62 May 19 04:34 packages-stable/flycheck-clang-tidy-readme.txt

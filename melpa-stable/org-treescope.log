@@ -1,0 +1,6 @@
+Package: org-treescope
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/org-treescope.el.git
+
+Updating /mnt/store/melpa/working/org-treescope/
+No valid stable versions found for org-treescope

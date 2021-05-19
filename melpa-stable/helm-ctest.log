@@ -1,0 +1,6 @@
+Package: helm-ctest
+Fetcher: github
+Source:  https://github.com/danlamanna/helm-ctest.git
+
+Updating /mnt/store/melpa/working/helm-ctest/
+No valid stable versions found for helm-ctest

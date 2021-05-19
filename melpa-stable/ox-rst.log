@@ -1,0 +1,6 @@
+Package: ox-rst
+Fetcher: github
+Source:  https://github.com/msnoigrs/ox-rst.git
+
+Updating /mnt/store/melpa/working/ox-rst/
+No valid stable versions found for ox-rst

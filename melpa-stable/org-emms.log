@@ -1,0 +1,6 @@
+Package: org-emms
+Fetcher: gitlab
+Source:  https://gitlab.com/jagrg/org-emms.git
+
+Updating /mnt/store/melpa/working/org-emms/
+No valid stable versions found for org-emms

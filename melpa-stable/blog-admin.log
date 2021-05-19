@@ -1,0 +1,6 @@
+Package: blog-admin
+Fetcher: github
+Source:  https://github.com/xcodebuild/blog-admin.git
+
+Updating /mnt/store/melpa/working/blog-admin/
+No valid stable versions found for blog-admin

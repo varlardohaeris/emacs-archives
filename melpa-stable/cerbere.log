@@ -1,0 +1,27 @@
+Package: cerbere
+Fetcher: github
+Source:  https://github.com/nlamirault/cerbere.git
+
+Updating /mnt/store/melpa/working/cerbere/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cerbere/
+  to /tmp/cerbereKQ1BpD/cerbere-0.1.0
+    cerbere-common.el -> cerbere-common.el
+    cerbere-gotest.el -> cerbere-gotest.el
+    cerbere-phpunit.el -> cerbere-phpunit.el
+    cerbere-tox.el -> cerbere-tox.el
+    cerbere.el -> cerbere.el
+Created cerbere-0.1.0.tar containing:
+  cerbere-0.1.0/
+  cerbere-0.1.0/cerbere-common.el
+  cerbere-0.1.0/cerbere-gotest.el
+  cerbere-0.1.0/cerbere-phpunit.el
+  cerbere-0.1.0/cerbere-pkg.el
+  cerbere-0.1.0/cerbere-tox.el
+  cerbere-0.1.0/cerbere.el
+Built cerbere in 2.906s, finished at Wed May 19 04:22:56 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  496 May 19 04:22 packages-stable/cerbere-0.1.0.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:22 packages-stable/cerbere-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cerbere-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:22 packages-stable/cerbere-readme.txt

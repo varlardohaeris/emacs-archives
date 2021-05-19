@@ -1,0 +1,6 @@
+Package: neato-graph-bar
+Fetcher: gitlab
+Source:  https://gitlab.com/RobertCochran/neato-graph-bar.git
+
+Updating /mnt/store/melpa/working/neato-graph-bar/
+No valid stable versions found for neato-graph-bar

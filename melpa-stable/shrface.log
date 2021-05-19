@@ -1,0 +1,11 @@
+Package: shrface
+Fetcher: github
+Source:  https://github.com/chenyanming/shrface.git
+
+Updating /mnt/store/melpa/working/shrface/
+Built shrface in 3.525s, finished at Wed May 19 01:48:26 2021
+ ✓ Success:
+ 60K -rw-r--r-- 1 root root  60K May 19 01:48 packages-stable/shrface-2.6.3.el
+4.0K -rw-r--r-- 1 root root  389 May 19 01:48 packages-stable/shrface-2.6.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shrface-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shrface-readme.txt

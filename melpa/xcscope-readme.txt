@@ -1,3 +1,4 @@
+
 This is a cscope interface for (X)Emacs.
 It currently runs under Unix only.
 
@@ -42,17 +43,17 @@ Installation steps:
    that specifying "global-map" instead of "cscope-minor-mode-keymap" makes the
    keybindings available in all buffers:
 
-	(define-key global-map [(control f3)]  'cscope-set-initial-directory)
-	(define-key global-map [(control f4)]  'cscope-unset-initial-directory)
-	(define-key global-map [(control f5)]  'cscope-find-this-symbol)
-	(define-key global-map [(control f6)]  'cscope-find-global-definition)
-	(define-key global-map [(control f7)]
-	  'cscope-find-global-definition-no-prompting)
-	(define-key global-map [(control f8)]  'cscope-pop-mark)
-	(define-key global-map [(control f9)]  'cscope-history-forward-line)
-	(define-key global-map [(control f10)] 'cscope-history-forward-file)
-	(define-key global-map [(control f11)] 'cscope-history-backward-line)
-	(define-key global-map [(control f12)] 'cscope-history-backward-file)
+(define-key global-map [(control f3)]  'cscope-set-initial-directory)
+(define-key global-map [(control f4)]  'cscope-unset-initial-directory)
+(define-key global-map [(control f5)]  'cscope-find-this-symbol)
+(define-key global-map [(control f6)]  'cscope-find-global-definition)
+(define-key global-map [(control f7)]
+  'cscope-find-global-definition-no-prompting)
+(define-key global-map [(control f8)]  'cscope-pop-mark)
+(define-key global-map [(control f9)]  'cscope-history-forward-line)
+(define-key global-map [(control f10)] 'cscope-history-forward-file)
+(define-key global-map [(control f11)] 'cscope-history-backward-line)
+(define-key global-map [(control f12)] 'cscope-history-backward-file)
      (define-key global-map [(meta f9)]  'cscope-display-buffer)
      (define-key global-map [(meta f10)] 'cscope-display-buffer-toggle)
 
@@ -399,40 +400,40 @@ you've got a few choices:
 
 	Here is an example of `cscope-database-regexps':
 
-		(setq cscope-database-regexps
-		      '(
-			( "^/users/jdoe/sources/proj1"
-			  ( t )
-			  ( "/users/jdoe/sources/proj2")
-			  ( "/users/jdoe/sources/proj3/mycscope.out")
-			  ( "/users/jdoe/sources/proj4")
-			  t
-			  ( "/some/master/directory" ("-d" "-I/usr/local/include") )
-			  )
-			( "^/users/jdoe/sources/gnome/"
-			  ( "/master/gnome/database" ("-d") )
-			  )
-			))
+	(setq cscope-database-regexps
+	      '(
+		( "^/users/jdoe/sources/proj1"
+		  ( t )
+		  ( "/users/jdoe/sources/proj2")
+		  ( "/users/jdoe/sources/proj3/mycscope.out")
+		  ( "/users/jdoe/sources/proj4")
+		  t
+		  ( "/some/master/directory" ("-d" "-I/usr/local/include") )
+		  )
+		( "^/users/jdoe/sources/gnome/"
+		  ( "/master/gnome/database" ("-d") )
+		  )
+		))
 
 	If the current buffer's directory matches the regexp,
 	"^/users/jdoe/sources/proj1", then the following search will be
 	done:
 
 	    1. First, the normal hierarchical database search will be used to
-	       locate a cscope database.
+       locate a cscope database.
 
 	    2. Next, searches will be done using the cscope database
-	       directories, "/users/jdoe/sources/proj2",
-	       "/users/jdoe/sources/proj3/mycscope.out", and
-	       "/users/jdoe/sources/proj4".  Note that, instead of the file,
-	       "cscope.out", the file, "mycscope.out", will be used in the
-	       directory "/users/jdoe/sources/proj3".
+       directories, "/users/jdoe/sources/proj2",
+       "/users/jdoe/sources/proj3/mycscope.out", and
+       "/users/jdoe/sources/proj4".  Note that, instead of the file,
+       "cscope.out", the file, "mycscope.out", will be used in the
+       directory "/users/jdoe/sources/proj3".
 
 	    3. If a match was found, searching will stop.
 
 	    4. If a match was not found, searching will be done using
-	       "/some/master/directory", and the command-line options "-d"
-	       and "-I/usr/local/include" will be passed to cscope.
+       "/some/master/directory", and the command-line options "-d"
+       and "-I/usr/local/include" will be passed to cscope.
 
 	If the current buffer's directory matches the regexp,
 	"^/users/jdoe/sources/gnome", then the following search will be

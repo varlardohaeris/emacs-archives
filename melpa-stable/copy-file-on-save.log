@@ -1,0 +1,11 @@
+Package: copy-file-on-save
+Fetcher: github
+Source:  https://github.com/emacs-php/emacs-auto-deployment.git
+
+Updating /mnt/store/melpa/working/copy-file-on-save/
+Built copy-file-on-save in 3.931s, finished at Wed May 19 04:25:14 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.8K May 19 04:25 packages-stable/copy-file-on-save-0.0.5.el
+4.0K -rw-r--r-- 1 root root  500 May 19 04:25 packages-stable/copy-file-on-save-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/copy-file-on-save-badge.svg
+4.0K -rw-r--r-- 1 root root  748 May 19 04:25 packages-stable/copy-file-on-save-readme.txt

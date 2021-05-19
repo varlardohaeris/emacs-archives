@@ -1,0 +1,6 @@
+Package: org-attach-screenshot
+Fetcher: github
+Source:  https://github.com/dfeich/org-screenshot.git
+
+Updating /mnt/store/melpa/working/org-attach-screenshot/
+No valid stable versions found for org-attach-screenshot

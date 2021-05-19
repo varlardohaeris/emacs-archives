@@ -1,0 +1,6 @@
+Package: prettify-greek
+Fetcher: gitlab
+Source:  https://gitlab.com/fommil/emacs-prettify-greek.git
+
+Updating /mnt/store/melpa/working/prettify-greek/
+No valid stable versions found for prettify-greek

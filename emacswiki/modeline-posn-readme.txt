@@ -27,8 +27,8 @@
  format string that you use: one for each `%' construct.
 
  Choice (d) is provided so that you can choose alternative
- formatting styles.  For example, instead of ` 256 ch, 13 l', you
- could show ` (256 chars, 13 lines)'.  But (d) can really show
+ formatting styles.  For example, instead of `256 ch, 13 l', you
+ could show `(256 chars, 13 lines)'.  But (d) can really show any
  information at all.  It need not have anything to do with the
  region, but it is nevertheless shown when the region is active.
 
@@ -138,8 +138,7 @@
 
    `keep-lines-read-args', `map-query-replace-regexp',
    `perform-replace', `query-replace-read-args',
-   `query-replace-read-from', `query-replace-read-to',
-   `replace-dehighlight'.
+   `query-replace-read-from', `query-replace-read-to'.
 
 
  ***** NOTE: The following functions defined in `register.el' have

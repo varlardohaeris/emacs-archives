@@ -1,0 +1,6 @@
+Package: openwith
+Fetcher: github
+Source:  https://github.com/jpkotta/openwith.git
+
+Updating /mnt/store/melpa/working/openwith/
+No valid stable versions found for openwith

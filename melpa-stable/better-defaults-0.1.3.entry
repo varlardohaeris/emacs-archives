@@ -1,2 +1,9 @@
-
-(better-defaults . [(0 1 3) nil "Fixing weird quirks and poor defaults" single ((:commit . "90df5752a0a0602feb47aadfd3542aa7fc841bd8") (:keywords "convenience") (:authors ("Phil Hagelberg")) (:maintainer "Phil Hagelberg") (:url . "https://github.com/technomancy/better-defaults"))])
+(better-defaults .
+		 [(0 1 3)
+		  nil "Fixing weird quirks and poor defaults" single
+		  ((:commit . "90df5752a0a0602feb47aadfd3542aa7fc841bd8")
+		   (:authors
+		    ("Phil Hagelberg"))
+		   (:maintainer "Phil Hagelberg")
+		   (:keywords "convenience")
+		   (:url . "https://github.com/technomancy/better-defaults"))])

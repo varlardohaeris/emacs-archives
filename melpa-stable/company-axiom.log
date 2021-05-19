@@ -1,0 +1,6 @@
+Package: company-axiom
+Fetcher: git
+Source:  https://bitbucket.org/pdo/axiom-environment
+
+Updating /mnt/store/melpa/working/company-axiom/
+No valid stable versions found for company-axiom

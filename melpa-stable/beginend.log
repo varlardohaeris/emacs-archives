@@ -1,0 +1,11 @@
+Package: beginend
+Fetcher: github
+Source:  https://github.com/DamienCassou/beginend.git
+
+Updating /mnt/store/melpa/working/beginend/
+Built beginend in 3.017s, finished at Wed May 19 04:20:56 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:20 packages-stable/beginend-2.2.0.el
+4.0K -rw-r--r-- 1 root root  220 May 19 04:20 packages-stable/beginend-2.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/beginend-badge.svg
+4.0K -rw-r--r-- 1 root root  414 May 19 04:20 packages-stable/beginend-readme.txt

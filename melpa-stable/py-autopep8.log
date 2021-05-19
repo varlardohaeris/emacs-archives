@@ -1,0 +1,11 @@
+Package: py-autopep8
+Fetcher: github
+Source:  https://github.com/paetzke/py-autopep8.el.git
+
+Updating /mnt/store/melpa/working/py-autopep8/
+Built py-autopep8 in 3.098s, finished at Wed May 19 01:44:42 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.9K May 19 01:44 packages-stable/py-autopep8-2016.1.el
+4.0K -rw-r--r-- 1 root root  351 May 19 01:44 packages-stable/py-autopep8-2016.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/py-autopep8-badge.svg
+4.0K -rw-r--r-- 1 root root  409 May 19 01:44 packages-stable/py-autopep8-readme.txt

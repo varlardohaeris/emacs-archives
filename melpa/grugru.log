@@ -1,0 +1,23 @@
+Package: grugru
+Fetcher: github
+Source:  https://github.com/ROCKTAKEY/grugru.git
+
+Updating /mnt/store/melpa/working/grugru/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/grugru/
+  to /tmp/grugru5xCkkb/grugru-20210127.432
+    grugru-default.el -> grugru-default.el
+    grugru-utils.el -> grugru-utils.el
+    grugru.el -> grugru.el
+Created grugru-20210127.432.tar containing:
+  grugru-20210127.432/
+  grugru-20210127.432/grugru-default.el
+  grugru-20210127.432/grugru-pkg.el
+  grugru-20210127.432/grugru-utils.el
+  grugru-20210127.432/grugru.el
+Built grugru in 4.783s, finished at Wed May 19 03:28:04 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  345 May 19 03:28 packages/grugru-20210127.432.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 03:28 packages/grugru-20210127.432.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:28 packages/grugru-badge.svg
+ 12K -rw-r--r-- 1 root root  12K May 19 03:28 packages/grugru-readme.txt

@@ -1,4 +1,4 @@
-This theme is designed for colour-contrast accessibility.
+This theme is designed for color-contrast accessibility.
 
 1. Provide a consistent minimum contrast ratio between background and
 foreground values of 7:1 or higher.  This meets the highest such
@@ -9,23 +9,28 @@ Consortium's Working Group on Accessibility (WCAG AAA standard).
 already quite long (see further below), with more additions to follow
 as part of the ongoing development process.
 
-The theme provides the following customisation options, all of which
+The theme provides the following customization options, all of which
 are disabled by default:
 
-    modus-operandi-theme-slanted-constructs
-    modus-operandi-theme-bold-constructs
-    modus-operandi-theme-proportional-fonts
-    modus-operandi-theme-rainbow-headings
-    modus-operandi-theme-section-headings
-    modus-operandi-theme-scale-headings
-    modus-operandi-theme-visible-fringes
-    modus-operandi-theme-distinct-org-blocks
-    modus-operandi-theme-3d-modeline
-    modus-operandi-theme-subtle-diffs
-    modus-operandi-theme-intense-standard-completions
-    modus-operandi-theme-override-colors-alist
+    modus-operandi-theme-slanted-constructs             (boolean)
+    modus-operandi-theme-bold-constructs                (boolean)
+    modus-operandi-theme-variable-pitch-headings        (boolean)
+    modus-operandi-theme-no-mixed-fonts                 (boolean)
+    modus-operandi-theme-headings                       (alist)
+    modus-operandi-theme-scale-headings                 (boolean)
+    modus-operandi-theme-fringes                        (choice)
+    modus-operandi-theme-org-blocks                     (choice)
+    modus-operandi-theme-prompts                        (choice)
+    modus-operandi-theme-mode-line                      (choice)
+    modus-operandi-theme-diffs                          (choice)
+    modus-operandi-theme-syntax                         (choice)
+    modus-operandi-theme-intense-hl-line                (boolean)
+    modus-operandi-theme-intense-paren-match            (boolean)
+    modus-operandi-theme-links                          (choice)
+    modus-operandi-theme-completions                    (choice)
+    modus-operandi-theme-override-colors-alist          (alist)
 
-The default scale is as follows (it can be customised as well):
+The default scale is as follows (it can be customized as well):
 
     modus-operandi-theme-scale-1 1.05
     modus-operandi-theme-scale-2 1.1
@@ -50,8 +55,12 @@ notify me of any missing package or change you would like to see.
     auctex and TeX
     auto-dim-other-buffers
     avy
-    breakpoint (provided by built-in gdb-mi.el)
+    awesome-tray
+    binder
     bm
+    bongo
+    boon
+    breakpoint (provided by built-in gdb-mi.el)
     buffer-expose
     calendar and diary
     calfw
@@ -70,6 +79,7 @@ notify me of any missing package or change you would like to see.
     counsel-notmuch
     counsel-org-capture-string
     cov
+    cperl-mode
     csv-mode
     ctrlf
     custom (M-x customize)
@@ -79,9 +89,11 @@ notify me of any missing package or change you would like to see.
     debbugs
     define-word
     deft
+    dictionary
     diff-hl
     diff-mode
     dim-autoload
+    dir-treeview
     dired
     dired-async
     dired-git
@@ -98,6 +110,7 @@ notify me of any missing package or change you would like to see.
     ediff
     eglot
     el-search
+    eldoc
     eldoc-box
     elfeed
     elfeed-score
@@ -109,6 +122,10 @@ notify me of any missing package or change you would like to see.
     eros
     ert
     eshell
+    eshell-fringe-status
+    eshell-git-prompt
+    eshell-prompt-extras (epe)
+    eshell-syntax-highlighting
     evil (evil-mode)
     evil-goggles
     evil-visual-mark-mode
@@ -116,6 +133,7 @@ notify me of any missing package or change you would like to see.
     eyebrowse
     fancy-dabbrev
     flycheck
+    flycheck-color-mode-line
     flycheck-indicator
     flycheck-posframe
     flymake
@@ -130,9 +148,10 @@ notify me of any missing package or change you would like to see.
     forge
     fountain (fountain-mode)
     geiser
-    git
+    git-commit
     git-gutter (and variants)
     git-lens
+    git-rebase
     git-timemachine
     git-walktree
     gnus
@@ -148,7 +167,9 @@ notify me of any missing package or change you would like to see.
     highlight-indentation
     highlight-numbers
     highlight-symbol
+    highlight-tail
     highlight-thing
+    hl-defined
     hl-fill-column
     hl-line-mode
     hl-todo
@@ -180,6 +201,7 @@ notify me of any missing package or change you would like to see.
     lsp-ui
     magit
     magit-imerge
+    make-mode
     man
     markdown-mode
     markup-faces (`adoc-mode')
@@ -189,13 +211,16 @@ notify me of any missing package or change you would like to see.
     minimap
     modeline
     mood-line
+    mpdel
     mu4e
     mu4e-conversation
     multiple-cursors
     neotree
     no-emoji
+    notmuch
     num3-mode
     nxml-mode
+    objed
     orderless
     org
     org-journal
@@ -204,6 +229,7 @@ notify me of any missing package or change you would like to see.
     org-recur
     org-roam
     org-superstar
+    org-table-sticky-header
     org-treescope
     origami
     outline-mode
@@ -214,15 +240,19 @@ notify me of any missing package or change you would like to see.
     paren-face
     parrot
     pass
+    pdf-tools
     persp-mode
     perspective
     phi-grep
     phi-search
+    pkgbuild-mode
     pomidor
+    popup
     powerline
     powerline-evil
     proced
     prodigy
+    racket-mode
     rainbow-blocks
     rainbow-identifiers
     rainbow-delimiters
@@ -234,14 +264,18 @@ notify me of any missing package or change you would like to see.
     ruler-mode
     sallet
     selectrum
+    semantic
     sesman
     shell-script-mode
     show-paren-mode
+    shr
     side-notes
+    sieve-mode
     skewer-mode
     smart-mode-line
     smartparens
     smerge
+    spaceline
     speedbar
     spell-fu
     stripes
@@ -254,13 +288,16 @@ notify me of any missing package or change you would like to see.
     tab-bar-mode
     tab-line-mode
     syslog-mode
-    trashed
+    table (built-in table.el)
     telephone-line
     term
     tomatinho
     transient (pop-up windows like Magit's)
+    trashed
     treemacs
+    tty-menu
     tuareg
+    typescript
     undo-tree
     vc (built-in mode line status for version control)
     vc-annotate (C-x v g)

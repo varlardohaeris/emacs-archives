@@ -9,7 +9,7 @@ https://github.com/flycheck/flycheck
 For more information about this Flycheck extension:
 https://github.com/flycheck/flycheck-popup-tip
 
-Setup
+;; Setup
 
 Add to your `init.el':
 

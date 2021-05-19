@@ -1,0 +1,6 @@
+Package: git-blamed
+Fetcher: github
+Source:  https://github.com/tsgates/git-emacs.git
+
+Updating /mnt/store/melpa/working/git-blamed/
+No valid stable versions found for git-blamed

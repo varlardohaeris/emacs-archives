@@ -1,0 +1,6 @@
+Package: ereader
+Fetcher: github
+Source:  https://github.com/bddean/emacs-ereader.git
+
+Updating /mnt/store/melpa/working/ereader/
+No valid stable versions found for ereader

@@ -1,0 +1,11 @@
+Package: tile
+Fetcher: github
+Source:  https://github.com/IvanMalison/tile.git
+
+Updating /mnt/store/melpa/working/tile/
+Built tile in 7.875s, finished at Wed May 19 04:10:08 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:10 packages/tile-20161225.357.el
+4.0K -rw-r--r-- 1 root root  446 May 19 04:10 packages/tile-20161225.357.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:10 packages/tile-badge.svg
+4.0K -rw-r--r-- 1 root root  103 May 19 04:10 packages/tile-readme.txt

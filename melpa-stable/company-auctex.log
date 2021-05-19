@@ -1,0 +1,6 @@
+Package: company-auctex
+Fetcher: github
+Source:  https://github.com/alexeyr/company-auctex.git
+
+Updating /mnt/store/melpa/working/company-auctex/
+No valid stable versions found for company-auctex

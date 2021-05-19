@@ -1,0 +1,25 @@
+Package: emacsql-sqlite
+Fetcher: github
+Source:  https://github.com/skeeto/emacsql.git
+
+Updating /mnt/store/melpa/working/emacsql-sqlite/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsql-sqlite/
+  to /tmp/emacsql-sqlitetQdHwA/emacsql-sqlite-3.0.0
+    emacsql-sqlite.el -> emacsql-sqlite.el
+    sqlite => sqlite
+Created emacsql-sqlite-3.0.0.tar containing:
+  emacsql-sqlite-3.0.0/
+  emacsql-sqlite-3.0.0/emacsql-sqlite-pkg.el
+  emacsql-sqlite-3.0.0/emacsql-sqlite.el
+  emacsql-sqlite-3.0.0/sqlite/
+  emacsql-sqlite-3.0.0/sqlite/Makefile
+  emacsql-sqlite-3.0.0/sqlite/emacsql.c
+  emacsql-sqlite-3.0.0/sqlite/sqlite3.c
+  emacsql-sqlite-3.0.0/sqlite/sqlite3.h
+Built emacsql-sqlite in 2.795s, finished at Wed May 19 04:30:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  369 May 19 04:30 packages-stable/emacsql-sqlite-3.0.0.entry
+7.5M -rw-r--r-- 1 root root 7.5M May 19 04:30 packages-stable/emacsql-sqlite-3.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emacsql-sqlite-badge.svg
+4.0K -rw-r--r-- 1 root root  125 May 19 04:30 packages-stable/emacsql-sqlite-readme.txt

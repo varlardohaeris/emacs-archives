@@ -1,0 +1,6 @@
+Package: unidecode
+Fetcher: github
+Source:  https://github.com/sindikat/unidecode.git
+
+Updating /mnt/store/melpa/working/unidecode/
+No valid stable versions found for unidecode

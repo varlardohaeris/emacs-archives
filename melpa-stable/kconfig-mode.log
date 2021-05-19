@@ -1,0 +1,6 @@
+Package: kconfig-mode
+Fetcher: github
+Source:  https://github.com/delaanthonio/kconfig-mode.git
+
+Updating /mnt/store/melpa/working/kconfig-mode/
+No valid stable versions found for kconfig-mode

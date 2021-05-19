@@ -1,0 +1,11 @@
+Package: typescript-mode
+Fetcher: github
+Source:  https://github.com/emacs-typescript/typescript.el.git
+
+Updating /mnt/store/melpa/working/typescript-mode/
+Built typescript-mode in 3.126s, finished at Wed May 19 01:53:10 2021
+ ✓ Success:
+104K -rw-r--r-- 1 root root 102K May 19 01:53 packages-stable/typescript-mode-0.3.el
+4.0K -rw-r--r-- 1 root root  248 May 19 01:53 packages-stable/typescript-mode-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/typescript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  616 May 19 01:53 packages-stable/typescript-mode-readme.txt

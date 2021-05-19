@@ -1,3 +1,4 @@
+
 This package provides Slime's convenient "M-." and "M-," navigation
 in `emacs-lisp-mode', together with an elisp equivalent of
 `slime-describe-symbol', bound by default to `C-c C-d d`.

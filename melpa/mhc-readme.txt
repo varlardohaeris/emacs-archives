@@ -1,3 +1,5 @@
+;
+
 Mhc is the personal schedule management package.
 Please visit http://www.quickhack.net/mhc for details.
 

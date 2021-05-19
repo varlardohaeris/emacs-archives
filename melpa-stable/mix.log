@@ -1,0 +1,6 @@
+Package: mix
+Fetcher: github
+Source:  https://github.com/ayrat555/mix.el.git
+
+Updating /mnt/store/melpa/working/mix/
+No valid stable versions found for mix

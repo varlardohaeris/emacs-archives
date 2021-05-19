@@ -1,6 +1,6 @@
 Provides a Gitlab client for Emacs.
 
-Installation:
+; Installation:
 
 Available as a package in melpa.milkbox.net.
 

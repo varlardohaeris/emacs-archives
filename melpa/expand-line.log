@@ -1,0 +1,11 @@
+Package: expand-line
+Fetcher: github
+Source:  https://github.com/zhangkaiyulw/expand-line.git
+
+Updating /mnt/store/melpa/working/expand-line/
+Built expand-line in 4.791s, finished at Wed May 19 03:19:37 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.9K May 19 03:19 packages/expand-line-20151006.207.el
+4.0K -rw-r--r-- 1 root root  259 May 19 03:19 packages/expand-line-20151006.207.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:19 packages/expand-line-badge.svg
+4.0K -rw-r--r-- 1 root root   72 May 19 03:19 packages/expand-line-readme.txt

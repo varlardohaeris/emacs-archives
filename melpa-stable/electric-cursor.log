@@ -1,0 +1,6 @@
+Package: electric-cursor
+Fetcher: github
+Source:  https://github.com/duckwork/electric-cursor.git
+
+Updating /mnt/store/melpa/working/electric-cursor/
+No valid stable versions found for electric-cursor

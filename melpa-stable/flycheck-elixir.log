@@ -1,0 +1,6 @@
+Package: flycheck-elixir
+Fetcher: github
+Source:  https://github.com/lbolla/emacs-flycheck-elixir.git
+
+Updating /mnt/store/melpa/working/flycheck-elixir/
+No valid stable versions found for flycheck-elixir

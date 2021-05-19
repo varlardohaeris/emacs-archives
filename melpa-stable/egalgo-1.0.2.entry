@@ -1,2 +1,13 @@
-
-(egalgo . [(1 0 2) ((dash (2 14)) (emacs (24))) "Genetic algorithm for Emacs" single ((:commit . "85c8c01c3424e69528f4111a384092dfa721196a") (:keywords "data") (:authors ("ROCKTAKEY" . "rocktakey@gmail.com")) (:maintainer "ROCKTAKEY" . "rocktakey@gmail.com") (:url . "https://github.com/ROCKTAKEY/egalgo"))])
+(egalgo .
+	[(1 0 2)
+	 ((dash
+	   (2 14))
+	  (emacs
+	   (24)))
+	 "Genetic algorithm for Emacs" single
+	 ((:commit . "85c8c01c3424e69528f4111a384092dfa721196a")
+	  (:authors
+	   ("ROCKTAKEY" . "rocktakey@gmail.com"))
+	  (:maintainer "ROCKTAKEY" . "rocktakey@gmail.com")
+	  (:keywords "data")
+	  (:url . "https://github.com/ROCKTAKEY/egalgo"))])

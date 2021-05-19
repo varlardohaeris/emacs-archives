@@ -420,7 +420,7 @@
 		    (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 		    (:url . "http://user42.tuxfamily.org/nroff-filladapt/index.html"))])
  (oeis .
-       [(10)
+       [(11)
 	nil "helpers for the Online Encyclopedia of Integer Sequences" single
 	((:authors
 	  ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))
@@ -511,7 +511,7 @@
 	     (:maintainer "Kevin Ryde" . "user42_kevin@yahoo.com.au")
 	     (:url . "http://user42.tuxfamily.org/scroll-1/index.html"))])
  (sentence-spacing .
-		   [(2)
+		   [(3)
 		    nil "two spaces for sentence end" single
 		    ((:authors
 		      ("Kevin Ryde" . "user42_kevin@yahoo.com.au"))

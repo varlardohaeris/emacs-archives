@@ -1,0 +1,6 @@
+Package: ob-elixir
+Fetcher: github
+Source:  https://github.com/zweifisch/ob-elixir.git
+
+Updating /mnt/store/melpa/working/ob-elixir/
+No valid stable versions found for ob-elixir

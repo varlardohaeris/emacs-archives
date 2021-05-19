@@ -1,0 +1,11 @@
+Package: fixmee
+Fetcher: github
+Source:  https://github.com/rolandwalker/fixmee.git
+
+Updating /mnt/store/melpa/working/fixmee/
+Built fixmee in 3.345s, finished at Wed May 19 04:34:09 2021
+ ✓ Success:
+ 76K -rw-r--r-- 1 root root  75K May 19 04:34 packages-stable/fixmee-0.8.6.el
+4.0K -rw-r--r-- 1 root root  509 May 19 04:34 packages-stable/fixmee-0.8.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/fixmee-badge.svg
+8.0K -rw-r--r-- 1 root root 6.7K May 19 04:34 packages-stable/fixmee-readme.txt

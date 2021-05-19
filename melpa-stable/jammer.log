@@ -1,0 +1,6 @@
+Package: jammer
+Fetcher: git
+Source:  https://depp.brause.cc/jammer.git
+
+Updating /mnt/store/melpa/working/jammer/
+No valid stable versions found for jammer

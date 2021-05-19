@@ -1,0 +1,6 @@
+Package: horoscope
+Fetcher: github
+Source:  https://github.com/mschuldt/horoscope.el.git
+
+Updating /mnt/store/melpa/working/horoscope/
+No valid stable versions found for horoscope

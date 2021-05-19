@@ -1,3 +1,4 @@
+
   When making demonstrations of new products, technologies and other
   geekery, I love the versatility of using Emacs to demonstrate the
   trifecta of sprint reviews, including:

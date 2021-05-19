@@ -1,3 +1,4 @@
+
 `expectations', the simplest unit test framework using `ert'.
 No test names! No extra typing!
 This is aimed for a successor of el-expectations.
@@ -81,7 +82,7 @@ Press C-M-x sexp then get the result in *ert*:
 
 If you want more complex example, see (describe-function 'expectations)
 
-Installation:
+; Installation:
 
 Put ert-expectations.el to your load-path.
 The load-path is usually ~/elisp/.

@@ -1,0 +1,6 @@
+Package: jknav
+Fetcher: github
+Source:  https://github.com/aculich/jknav.el.git
+
+Updating /mnt/store/melpa/working/jknav/
+No valid stable versions found for jknav

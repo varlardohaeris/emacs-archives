@@ -1,0 +1,6 @@
+Package: wdl-mode
+Fetcher: github
+Source:  https://github.com/zhanxw/wdl-mode.git
+
+Updating /mnt/store/melpa/working/wdl-mode/
+No valid stable versions found for wdl-mode

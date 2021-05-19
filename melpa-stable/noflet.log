@@ -1,0 +1,6 @@
+Package: noflet
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-noflet.git
+
+Updating /mnt/store/melpa/working/noflet/
+No valid stable versions found for noflet

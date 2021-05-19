@@ -1,0 +1,12 @@
+Package: helm-recoll
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-recoll.git
+
+Updating /mnt/store/melpa/working/helm-recoll/
+Note: helm-recoll :files spec is equivalent to the default.
+Built helm-recoll in 2.984s, finished at Wed May 19 04:41:06 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:41 packages-stable/helm-recoll-1.2.el
+4.0K -rw-r--r-- 1 root root  456 May 19 04:41 packages-stable/helm-recoll-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-recoll-badge.svg
+4.0K -rw-r--r-- 1 root root  546 May 19 04:41 packages-stable/helm-recoll-readme.txt

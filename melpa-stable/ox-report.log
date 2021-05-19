@@ -1,0 +1,11 @@
+Package: ox-report
+Fetcher: github
+Source:  https://github.com/DarkBuffalo/ox-report.git
+
+Updating /mnt/store/melpa/working/ox-report/
+Built ox-report in 3.556s, finished at Wed May 19 01:41:33 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  21K May 19 01:41 packages-stable/ox-report-0.4.el
+4.0K -rw-r--r-- 1 root root  459 May 19 01:41 packages-stable/ox-report-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-report-badge.svg
+4.0K -rw-r--r-- 1 root root  852 May 19 01:41 packages-stable/ox-report-readme.txt

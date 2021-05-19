@@ -1,0 +1,6 @@
+Package: linphone
+Fetcher: github
+Source:  https://github.com/zabbal/emacs-linphone.git
+
+Updating /mnt/store/melpa/working/linphone/
+No valid stable versions found for linphone

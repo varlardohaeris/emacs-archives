@@ -1,0 +1,6 @@
+Package: go-noisegate
+Fetcher: github
+Source:  https://github.com/go-noisegate/go-noisegate.el.git
+
+Updating /mnt/store/melpa/working/go-noisegate/
+No valid stable versions found for go-noisegate

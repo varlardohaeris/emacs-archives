@@ -1,0 +1,11 @@
+Package: ghub+
+Fetcher: github
+Source:  https://github.com/vermiculus/ghub-plus.git
+
+Updating /mnt/store/melpa/working/ghub+/
+Built ghub+ in 3.378s, finished at Wed May 19 04:37:03 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  39K May 19 04:37 packages-stable/ghub+-0.3.el
+4.0K -rw-r--r-- 1 root root  402 May 19 04:37 packages-stable/ghub+-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/ghub+-badge.svg
+4.0K -rw-r--r-- 1 root root   98 May 19 04:37 packages-stable/ghub+-readme.txt

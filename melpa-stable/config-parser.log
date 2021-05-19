@@ -1,0 +1,6 @@
+Package: config-parser
+Fetcher: github
+Source:  https://github.com/lujun9972/el-config-parser.git
+
+Updating /mnt/store/melpa/working/config-parser/
+No valid stable versions found for config-parser

@@ -1,0 +1,6 @@
+Package: spray
+Fetcher: git
+Source:  https://git.sr.ht/~iank/spray
+
+Updating /mnt/store/melpa/working/spray/
+No valid stable versions found for spray

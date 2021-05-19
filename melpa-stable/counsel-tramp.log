@@ -1,0 +1,11 @@
+Package: counsel-tramp
+Fetcher: github
+Source:  https://github.com/masasam/emacs-counsel-tramp.git
+
+Updating /mnt/store/melpa/working/counsel-tramp/
+Built counsel-tramp in 4.583s, finished at Wed May 19 04:25:35 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 8.0K May 19 04:25 packages-stable/counsel-tramp-0.7.5.el
+4.0K -rw-r--r-- 1 root root  336 May 19 04:25 packages-stable/counsel-tramp-0.7.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/counsel-tramp-badge.svg
+4.0K -rw-r--r-- 1 root root  259 May 19 04:25 packages-stable/counsel-tramp-readme.txt

@@ -1,0 +1,25 @@
+Package: sublimity
+Fetcher: github
+Source:  https://github.com/zk-phi/sublimity.git
+
+Updating /mnt/store/melpa/working/sublimity/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sublimity/
+  to /tmp/sublimitymdeJVj/sublimity-20160629
+    sublimity-attractive.el -> sublimity-attractive.el
+    sublimity-map.el -> sublimity-map.el
+    sublimity-scroll.el -> sublimity-scroll.el
+    sublimity.el -> sublimity.el
+Created sublimity-20160629.tar containing:
+  sublimity-20160629/
+  sublimity-20160629/sublimity-attractive.el
+  sublimity-20160629/sublimity-map.el
+  sublimity-20160629/sublimity-pkg.el
+  sublimity-20160629/sublimity-scroll.el
+  sublimity-20160629/sublimity.el
+Built sublimity in 3.010s, finished at Wed May 19 01:50:35 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  268 May 19 01:50 packages-stable/sublimity-20160629.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:50 packages-stable/sublimity-20160629.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sublimity-badge.svg
+4.0K -rw-r--r-- 1 root root  338 May 19 01:50 packages-stable/sublimity-readme.txt

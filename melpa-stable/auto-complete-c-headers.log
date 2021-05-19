@@ -1,0 +1,6 @@
+Package: auto-complete-c-headers
+Fetcher: github
+Source:  https://github.com/mooz/auto-complete-c-headers.git
+
+Updating /mnt/store/melpa/working/auto-complete-c-headers/
+No valid stable versions found for auto-complete-c-headers

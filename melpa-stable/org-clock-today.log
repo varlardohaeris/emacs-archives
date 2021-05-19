@@ -1,0 +1,6 @@
+Package: org-clock-today
+Fetcher: github
+Source:  https://github.com/mallt/org-clock-today-mode.git
+
+Updating /mnt/store/melpa/working/org-clock-today/
+No valid stable versions found for org-clock-today

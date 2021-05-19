@@ -1,0 +1,6 @@
+Package: distinguished-theme
+Fetcher: github
+Source:  https://github.com/Lokaltog/distinguished-theme.git
+
+Updating /mnt/store/melpa/working/distinguished-theme/
+No valid stable versions found for distinguished-theme

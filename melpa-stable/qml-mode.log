@@ -1,0 +1,11 @@
+Package: qml-mode
+Fetcher: github
+Source:  https://github.com/coldnew/qml-mode.git
+
+Updating /mnt/store/melpa/working/qml-mode/
+Built qml-mode in 3.401s, finished at Wed May 19 01:45:08 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.2K May 19 01:45 packages-stable/qml-mode-0.4.el
+4.0K -rw-r--r-- 1 root root  372 May 19 01:45 packages-stable/qml-mode-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/qml-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  590 May 19 01:45 packages-stable/qml-mode-readme.txt

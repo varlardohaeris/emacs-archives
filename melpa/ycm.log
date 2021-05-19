@@ -1,0 +1,11 @@
+Package: ycm
+Fetcher: github
+Source:  https://github.com/neuromage/ycm.el.git
+
+Updating /mnt/store/melpa/working/ycm/
+Built ycm in 4.353s, finished at Wed May 19 04:17:12 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:17 packages/ycm-20150822.1836.el
+4.0K -rw-r--r-- 1 root root  330 May 19 04:17 packages/ycm-20150822.1836.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:17 packages/ycm-badge.svg
+4.0K -rw-r--r-- 1 root root  121 May 19 04:17 packages/ycm-readme.txt

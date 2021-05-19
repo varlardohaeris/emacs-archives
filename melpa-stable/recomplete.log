@@ -1,0 +1,6 @@
+Package: recomplete
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-recomplete.git
+
+Updating /mnt/store/melpa/working/recomplete/
+No valid stable versions found for recomplete

@@ -1,0 +1,6 @@
+Package: ejson-mode
+Fetcher: github
+Source:  https://github.com/dantecatalfamo/ejson-mode.git
+
+Updating /mnt/store/melpa/working/ejson-mode/
+No valid stable versions found for ejson-mode

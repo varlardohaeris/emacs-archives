@@ -1,0 +1,15 @@
+(flycheck-keg .
+	      [(20200726 218)
+	       ((emacs
+		 (24 3))
+		(keg
+		 (0 1))
+		(flycheck
+		 (0 1)))
+	       "Flycheck for Keg projects" single
+	       ((:commit . "e4c7d9d8f823fa717df5f0e7039d525758429fc9")
+		(:authors
+		 ("Naoya Yamashita" . "conao3@gmail.com"))
+		(:maintainer "Naoya Yamashita" . "conao3@gmail.com")
+		(:keywords "convenience")
+		(:url . "https://github.com/conao3/keg.el"))])

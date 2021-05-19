@@ -1,3 +1,4 @@
+
 Allows opening and closing prosjekt projects through prosjekt, as
 well as selection of files within a project.
 
@@ -32,4 +33,4 @@ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Code: (copied from anything-prosjekt.el)
+; Code: (copied from anything-prosjekt.el)

@@ -1,0 +1,11 @@
+Package: gif-screencast
+Fetcher: gitlab
+Source:  https://gitlab.com/Ambrevar/emacs-gif-screencast.git
+
+Updating /mnt/store/melpa/working/gif-screencast/
+Built gif-screencast in 3.554s, finished at Wed May 19 04:37:04 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 04:37 packages-stable/gif-screencast-1.2.el
+4.0K -rw-r--r-- 1 root root  389 May 19 04:37 packages-stable/gif-screencast-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gif-screencast-badge.svg
+4.0K -rw-r--r-- 1 root root  183 May 19 04:37 packages-stable/gif-screencast-readme.txt

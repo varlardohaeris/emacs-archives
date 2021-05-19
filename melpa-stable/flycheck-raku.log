@@ -1,0 +1,6 @@
+Package: flycheck-raku
+Fetcher: github
+Source:  https://github.com/Raku/flycheck-raku.git
+
+Updating /mnt/store/melpa/working/flycheck-raku/
+No valid stable versions found for flycheck-raku

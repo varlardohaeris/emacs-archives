@@ -1,0 +1,6 @@
+Package: helm-j-cheatsheet
+Fetcher: github
+Source:  https://github.com/abo-abo/helm-j-cheatsheet.git
+
+Updating /mnt/store/melpa/working/helm-j-cheatsheet/
+No valid stable versions found for helm-j-cheatsheet

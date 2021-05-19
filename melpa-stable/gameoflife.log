@@ -1,0 +1,6 @@
+Package: gameoflife
+Fetcher: github
+Source:  https://github.com/Lindydancer/gameoflife.git
+
+Updating /mnt/store/melpa/working/gameoflife/
+No valid stable versions found for gameoflife

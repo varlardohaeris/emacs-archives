@@ -1,0 +1,6 @@
+Package: go-gopath
+Fetcher: github
+Source:  https://github.com/iced/go-gopath.git
+
+Updating /mnt/store/melpa/working/go-gopath/
+No valid stable versions found for go-gopath

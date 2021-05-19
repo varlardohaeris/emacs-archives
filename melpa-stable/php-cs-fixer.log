@@ -1,0 +1,11 @@
+Package: php-cs-fixer
+Fetcher: github
+Source:  https://github.com/OVYA/php-cs-fixer.git
+
+Updating /mnt/store/melpa/working/php-cs-fixer/
+Built php-cs-fixer in 4.060s, finished at Wed May 19 01:42:48 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.1K May 19 01:42 packages-stable/php-cs-fixer-1.0.el
+4.0K -rw-r--r-- 1 root root  334 May 19 01:42 packages-stable/php-cs-fixer-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/php-cs-fixer-badge.svg
+4.0K -rw-r--r-- 1 root root   85 May 19 01:42 packages-stable/php-cs-fixer-readme.txt

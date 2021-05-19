@@ -1,0 +1,11 @@
+Package: ox-gfm
+Fetcher: github
+Source:  https://github.com/larstvei/ox-gfm.git
+
+Updating /mnt/store/melpa/working/ox-gfm/
+Built ox-gfm in 2.902s, finished at Wed May 19 01:41:22 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 01:41 packages-stable/ox-gfm-1.0.el
+4.0K -rw-r--r-- 1 root root  261 May 19 01:41 packages-stable/ox-gfm-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-gfm-badge.svg
+4.0K -rw-r--r-- 1 root root  106 May 19 01:41 packages-stable/ox-gfm-readme.txt

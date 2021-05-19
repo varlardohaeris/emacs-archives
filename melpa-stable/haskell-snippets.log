@@ -1,0 +1,46 @@
+Package: haskell-snippets
+Fetcher: github
+Source:  https://github.com/haskell/haskell-snippets.git
+
+Updating /mnt/store/melpa/working/haskell-snippets/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/haskell-snippets/
+  to /tmp/haskell-snippets7Pkpoe/haskell-snippets-0.1.0
+    haskell-snippets.el -> haskell-snippets.el
+    snippets => snippets
+Created haskell-snippets-0.1.0.tar containing:
+  haskell-snippets-0.1.0/
+  haskell-snippets-0.1.0/haskell-snippets-pkg.el
+  haskell-snippets-0.1.0/haskell-snippets.el
+  haskell-snippets-0.1.0/snippets/
+  haskell-snippets-0.1.0/snippets/haskell-mode/
+  haskell-snippets-0.1.0/snippets/haskell-mode/.yas-ignore-filenames-as-triggers
+  haskell-snippets-0.1.0/snippets/haskell-mode/.yas-make-groups
+  haskell-snippets-0.1.0/snippets/haskell-mode/case
+  haskell-snippets-0.1.0/snippets/haskell-mode/comment.block
+  haskell-snippets-0.1.0/snippets/haskell-mode/constraint
+  haskell-snippets-0.1.0/snippets/haskell-mode/data.inline
+  haskell-snippets-0.1.0/snippets/haskell-mode/data.record
+  haskell-snippets-0.1.0/snippets/haskell-mode/fn
+  haskell-snippets-0.1.0/snippets/haskell-mode/fn.clause
+  haskell-snippets-0.1.0/snippets/haskell-mode/fn.guarded
+  haskell-snippets-0.1.0/snippets/haskell-mode/get
+  haskell-snippets-0.1.0/snippets/haskell-mode/if.block
+  haskell-snippets-0.1.0/snippets/haskell-mode/if.inline
+  haskell-snippets-0.1.0/snippets/haskell-mode/import
+  haskell-snippets-0.1.0/snippets/haskell-mode/import.qualified
+  haskell-snippets-0.1.0/snippets/haskell-mode/instance
+  haskell-snippets-0.1.0/snippets/haskell-mode/lambda
+  haskell-snippets-0.1.0/snippets/haskell-mode/lang-pragma
+  haskell-snippets-0.1.0/snippets/haskell-mode/let
+  haskell-snippets-0.1.0/snippets/haskell-mode/main
+  haskell-snippets-0.1.0/snippets/haskell-mode/module
+  haskell-snippets-0.1.0/snippets/haskell-mode/module.exports
+  haskell-snippets-0.1.0/snippets/haskell-mode/newtype
+  haskell-snippets-0.1.0/snippets/haskell-mode/opt-pragma
+Built haskell-snippets in 3.100s, finished at Wed May 19 04:39:31 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  387 May 19 04:39 packages-stable/haskell-snippets-0.1.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 04:39 packages-stable/haskell-snippets-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/haskell-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:39 packages-stable/haskell-snippets-readme.txt

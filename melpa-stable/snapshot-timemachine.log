@@ -1,0 +1,6 @@
+Package: snapshot-timemachine
+Fetcher: github
+Source:  https://github.com/mrBliss/snapshot-timemachine.git
+
+Updating /mnt/store/melpa/working/snapshot-timemachine/
+No valid stable versions found for snapshot-timemachine

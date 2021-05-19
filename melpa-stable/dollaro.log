@@ -1,0 +1,6 @@
+Package: dollaro
+Fetcher: github
+Source:  https://github.com/laynor/dollaro.git
+
+Updating /mnt/store/melpa/working/dollaro/
+No valid stable versions found for dollaro

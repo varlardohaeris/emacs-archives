@@ -1,0 +1,6 @@
+Package: cache
+Fetcher: github
+Source:  https://github.com/nflath/cache.git
+
+Updating /mnt/store/melpa/working/cache/
+No valid stable versions found for cache

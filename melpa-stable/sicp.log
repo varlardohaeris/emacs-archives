@@ -1,0 +1,6 @@
+Package: sicp
+Fetcher: github
+Source:  https://github.com/webframp/sicp-info.git
+
+Updating /mnt/store/melpa/working/sicp/
+No valid stable versions found for sicp

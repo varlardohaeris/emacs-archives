@@ -1,0 +1,6 @@
+Package: company-ledger
+Fetcher: github
+Source:  https://github.com/debanjum/company-ledger.git
+
+Updating /mnt/store/melpa/working/company-ledger/
+No valid stable versions found for company-ledger

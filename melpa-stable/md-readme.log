@@ -1,0 +1,6 @@
+Package: md-readme
+Fetcher: github
+Source:  https://github.com/thomas11/md-readme.git
+
+Updating /mnt/store/melpa/working/md-readme/
+No valid stable versions found for md-readme

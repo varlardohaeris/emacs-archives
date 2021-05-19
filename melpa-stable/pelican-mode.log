@@ -1,0 +1,11 @@
+Package: pelican-mode
+Fetcher: git
+Source:  https://git.korewanetadesu.com/pelican-mode.git
+
+Updating /mnt/store/melpa/working/pelican-mode/
+Built pelican-mode in 3.263s, finished at Wed May 19 01:42:29 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 01:42 packages-stable/pelican-mode-20170808.el
+4.0K -rw-r--r-- 1 root root  403 May 19 01:42 packages-stable/pelican-mode-20170808.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/pelican-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  994 May 19 01:42 packages-stable/pelican-mode-readme.txt

@@ -1,0 +1,22 @@
+Package: drupal-spell
+Fetcher: github
+Source:  https://github.com/arnested/drupal-spell.git
+
+Updating /mnt/store/melpa/working/drupal-spell/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/drupal-spell/
+  to /tmp/drupal-spellmPu7vQ/drupal-spell-0.2.2
+    drupal-spell.el -> drupal-spell.el
+    dict => dict
+Created drupal-spell-0.2.2.tar containing:
+  drupal-spell-0.2.2/
+  drupal-spell-0.2.2/dict/
+  drupal-spell-0.2.2/dict/drupal.txt
+  drupal-spell-0.2.2/drupal-spell-pkg.el
+  drupal-spell-0.2.2/drupal-spell.el
+Built drupal-spell in 3.496s, finished at Wed May 19 04:28:50 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  337 May 19 04:28 packages-stable/drupal-spell-0.2.2.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 04:28 packages-stable/drupal-spell-0.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/drupal-spell-badge.svg
+4.0K -rw-r--r-- 1 root root   65 May 19 04:28 packages-stable/drupal-spell-readme.txt

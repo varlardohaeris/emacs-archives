@@ -1,0 +1,6 @@
+Package: helm-selected
+Fetcher: github
+Source:  https://github.com/takaxp/helm-selected.git
+
+Updating /mnt/store/melpa/working/helm-selected/
+No valid stable versions found for helm-selected

@@ -1,0 +1,6 @@
+Package: berrys-theme
+Fetcher: github
+Source:  https://github.com/vbuzin/berrys-theme.git
+
+Updating /mnt/store/melpa/working/berrys-theme/
+No valid stable versions found for berrys-theme

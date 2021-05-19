@@ -1,0 +1,6 @@
+Package: db
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-db.git
+
+Updating /mnt/store/melpa/working/db/
+No valid stable versions found for db

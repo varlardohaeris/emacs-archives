@@ -1,0 +1,6 @@
+Package: realgud-node-inspect
+Fetcher: github
+Source:  https://github.com/realgud/realgud-node-inspect.git
+
+Updating /mnt/store/melpa/working/realgud-node-inspect/
+No valid stable versions found for realgud-node-inspect

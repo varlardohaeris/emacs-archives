@@ -1,0 +1,11 @@
+Package: treemacs-icons-dired
+Fetcher: github
+Source:  https://github.com/Alexander-Miller/treemacs.git
+
+Updating /mnt/store/melpa/working/treemacs-icons-dired/
+Built treemacs-icons-dired in 3.305s, finished at Wed May 19 01:52:52 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.9K May 19 01:52 packages-stable/treemacs-icons-dired-2.8.el
+4.0K -rw-r--r-- 1 root root  404 May 19 01:52 packages-stable/treemacs-icons-dired-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/treemacs-icons-dired-badge.svg
+4.0K -rw-r--r-- 1 root root   68 May 19 01:52 packages-stable/treemacs-icons-dired-readme.txt

@@ -1,0 +1,6 @@
+Package: ob-coffee
+Fetcher: github
+Source:  https://github.com/zweifisch/ob-coffee.git
+
+Updating /mnt/store/melpa/working/ob-coffee/
+No valid stable versions found for ob-coffee

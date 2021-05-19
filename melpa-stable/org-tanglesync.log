@@ -1,0 +1,6 @@
+Package: org-tanglesync
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/org-tanglesync.el.git
+
+Updating /mnt/store/melpa/working/org-tanglesync/
+No valid stable versions found for org-tanglesync

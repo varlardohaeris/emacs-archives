@@ -1,0 +1,6 @@
+Package: kana
+Fetcher: github
+Source:  https://github.com/chenyanming/kana.git
+
+Updating /mnt/store/melpa/working/kana/
+No valid stable versions found for kana

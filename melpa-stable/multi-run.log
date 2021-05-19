@@ -1,0 +1,11 @@
+Package: multi-run
+Fetcher: github
+Source:  https://github.com/sagarjha/multi-run.git
+
+Updating /mnt/store/melpa/working/multi-run/
+Built multi-run in 3.343s, finished at Wed May 19 01:36:30 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:36 packages-stable/multi-run-1.el
+4.0K -rw-r--r-- 1 root root  380 May 19 01:36 packages-stable/multi-run-1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/multi-run-badge.svg
+4.0K -rw-r--r-- 1 root root  145 May 19 01:36 packages-stable/multi-run-readme.txt

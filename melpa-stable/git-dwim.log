@@ -1,0 +1,6 @@
+Package: git-dwim
+Fetcher: github
+Source:  https://github.com/rubikitch/emacs-git-dwim.git
+
+Updating /mnt/store/melpa/working/git-dwim/
+No valid stable versions found for git-dwim

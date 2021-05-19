@@ -10,7 +10,7 @@ You should add the followings to `~/.emacs.d/init.el'.
  (add-to-list 'auto-mode-alist '("\\.m$" . wolfram-mode))
  (setq wolfram-path "directory-in-Mathematica-$Path") ;; e.g. on Linux ~/.Mathematica/Applications
 
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 Mathematica is (C) Copyright 1988-2013 Wolfram Research, Inc.
 
@@ -21,7 +21,7 @@ and criminal penalties.
 
 Mathematica is a registered trademark of Wolfram Research.
 
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 TODO
 - wolfram-imenu-generic-expression

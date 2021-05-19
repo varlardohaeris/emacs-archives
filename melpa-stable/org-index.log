@@ -1,0 +1,11 @@
+Package: org-index
+Fetcher: github
+Source:  https://github.com/marcIhm/org-index.git
+
+Updating /mnt/store/melpa/working/org-index/
+Built org-index in 4.357s, finished at Wed May 19 01:39:25 2021
+ ✓ Success:
+108K -rw-r--r-- 1 root root 105K May 19 01:39 packages-stable/org-index-7.1.7.el
+4.0K -rw-r--r-- 1 root root  393 May 19 01:39 packages-stable/org-index-7.1.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-index-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K May 19 01:39 packages-stable/org-index-readme.txt

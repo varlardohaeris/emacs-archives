@@ -1,0 +1,11 @@
+Package: consult-notmuch
+Fetcher: git
+Source:  https://codeberg.org/jao/consult-notmuch.git
+
+Updating /mnt/store/melpa/working/consult-notmuch/
+Built consult-notmuch in 4.358s, finished at Wed May 19 04:25:07 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.3K May 19 04:25 packages-stable/consult-notmuch-0.2.el
+4.0K -rw-r--r-- 1 root root  398 May 19 04:25 packages-stable/consult-notmuch-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/consult-notmuch-badge.svg
+4.0K -rw-r--r-- 1 root root  489 May 19 04:25 packages-stable/consult-notmuch-readme.txt

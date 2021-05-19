@@ -1,3 +1,4 @@
+
 Description:
 
 `dired-toggle' command could toggle to show dired buffer as a
@@ -26,3 +27,5 @@ Usage:
               (visual-line-mode 1)
               (setq-local visual-line-fringe-indicators '(nil right-curly-arrow))
               (setq-local word-wrap nil))))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

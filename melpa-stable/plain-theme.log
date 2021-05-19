@@ -1,0 +1,6 @@
+Package: plain-theme
+Fetcher: github
+Source:  https://github.com/yegortimoshenko/plain-theme.git
+
+Updating /mnt/store/melpa/working/plain-theme/
+No valid stable versions found for plain-theme

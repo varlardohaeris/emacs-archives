@@ -1,0 +1,6 @@
+Package: private
+Fetcher: github
+Source:  https://github.com/zhangkaiyulw/private.git
+
+Updating /mnt/store/melpa/working/private/
+No valid stable versions found for private

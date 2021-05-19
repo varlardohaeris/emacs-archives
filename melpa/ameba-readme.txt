@@ -1,3 +1,4 @@
+
 Ameba <https://github.com/crystal-ameba/ameba> is a static code analysis tool for Crystal.
 This package allows you to use this tool directly in Emacs.
 

@@ -1,0 +1,6 @@
+Package: exunit
+Fetcher: github
+Source:  https://github.com/ananthakumaran/exunit.el.git
+
+Updating /mnt/store/melpa/working/exunit/
+No valid stable versions found for exunit

@@ -1,0 +1,6 @@
+Package: crontab-mode
+Fetcher: github
+Source:  https://github.com/emacs-pe/crontab-mode.git
+
+Updating /mnt/store/melpa/working/crontab-mode/
+No valid stable versions found for crontab-mode

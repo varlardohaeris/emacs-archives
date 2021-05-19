@@ -8,6 +8,8 @@ gets displayed nicely as (pun intended):
 
 	).)
 
+Also closing brackets are respected.
+
 There is a global `lisp-butt-global-mode' and a local `lisp-butt-mode'
 variant.
 
@@ -31,7 +33,7 @@ Customize lisp-butt-auto-unfontify
 
     {M-x customize-variable RET lisp-butt-auto-unfontify RET }
 
-for automatic unfontification or not when point hits a butt.
+for automatic unfontification when point hits a butt.
 
 Some configuration is possible.  See
 

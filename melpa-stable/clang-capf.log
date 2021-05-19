@@ -1,0 +1,11 @@
+Package: clang-capf
+Fetcher: git
+Source:  https://git.sr.ht/~zge/clang-capf
+
+Updating /mnt/store/melpa/working/clang-capf/
+Built clang-capf in 2.813s, finished at Wed May 19 04:23:25 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K May 19 04:23 packages-stable/clang-capf-1.2.0.el
+4.0K -rw-r--r-- 1 root root  424 May 19 04:23 packages-stable/clang-capf-1.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clang-capf-badge.svg
+4.0K -rw-r--r-- 1 root root  856 May 19 04:23 packages-stable/clang-capf-readme.txt

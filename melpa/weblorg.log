@@ -1,0 +1,40 @@
+Package: weblorg
+Fetcher: github
+Source:  https://github.com/emacs-love/weblorg.git
+
+Updating /mnt/store/melpa/working/weblorg/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/weblorg/
+  to /tmp/weblorghmjD07/weblorg-20210430.2251
+    weblorg.el -> weblorg.el
+    themes => themes
+Created weblorg-20210430.2251.tar containing:
+  weblorg-20210430.2251/
+  weblorg-20210430.2251/themes/
+  weblorg-20210430.2251/themes/autodoc/
+  weblorg-20210430.2251/themes/autodoc/static/
+  weblorg-20210430.2251/themes/autodoc/static/emacs-bw.svg
+  weblorg-20210430.2251/themes/autodoc/static/style.css
+  weblorg-20210430.2251/themes/autodoc/templates/
+  weblorg-20210430.2251/themes/autodoc/templates/autodoc.html
+  weblorg-20210430.2251/themes/autodoc/templates/doc.html
+  weblorg-20210430.2251/themes/autodoc/templates/index.html
+  weblorg-20210430.2251/themes/autodoc/templates/layout.html
+  weblorg-20210430.2251/themes/default/
+  weblorg-20210430.2251/themes/default/static/
+  weblorg-20210430.2251/themes/default/static/style.css
+  weblorg-20210430.2251/themes/default/templates/
+  weblorg-20210430.2251/themes/default/templates/base_layout.html
+  weblorg-20210430.2251/themes/default/templates/blog.html
+  weblorg-20210430.2251/themes/default/templates/feed.xml
+  weblorg-20210430.2251/themes/default/templates/index.html
+  weblorg-20210430.2251/themes/default/templates/page.html
+  weblorg-20210430.2251/themes/default/templates/post.html
+  weblorg-20210430.2251/weblorg-pkg.el
+  weblorg-20210430.2251/weblorg.el
+Built weblorg in 4.541s, finished at Wed May 19 04:14:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  354 May 19 04:14 packages/weblorg-20210430.2251.entry
+100K -rw-r--r-- 1 root root 100K May 19 04:14 packages/weblorg-20210430.2251.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:14 packages/weblorg-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K May 19 04:14 packages/weblorg-readme.txt

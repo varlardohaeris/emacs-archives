@@ -1,0 +1,6 @@
+Package: hayoo
+Fetcher: github
+Source:  https://github.com/benma/hayoo.el.git
+
+Updating /mnt/store/melpa/working/hayoo/
+No valid stable versions found for hayoo

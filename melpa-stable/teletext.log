@@ -1,0 +1,6 @@
+Package: teletext
+Fetcher: github
+Source:  https://github.com/lassik/emacs-teletext.git
+
+Updating /mnt/store/melpa/working/teletext/
+No valid stable versions found for teletext

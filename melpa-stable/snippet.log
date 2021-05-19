@@ -1,0 +1,6 @@
+Package: snippet
+Fetcher: github
+Source:  https://github.com/pkazmier/snippet.el.git
+
+Updating /mnt/store/melpa/working/snippet/
+No valid stable versions found for snippet

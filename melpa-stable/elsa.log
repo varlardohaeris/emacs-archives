@@ -1,0 +1,6 @@
+Package: elsa
+Fetcher: github
+Source:  https://github.com/emacs-elsa/Elsa.git
+
+Updating /mnt/store/melpa/working/elsa/
+No valid stable versions found for elsa

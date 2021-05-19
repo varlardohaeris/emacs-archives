@@ -1,0 +1,6 @@
+Package: date2name
+Fetcher: github
+Source:  https://github.com/DerBeutlin/date2name.el.git
+
+Updating /mnt/store/melpa/working/date2name/
+No valid stable versions found for date2name

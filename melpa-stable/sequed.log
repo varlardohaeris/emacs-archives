@@ -1,0 +1,6 @@
+Package: sequed
+Fetcher: github
+Source:  https://github.com/brannala/sequed.git
+
+Updating /mnt/store/melpa/working/sequed/
+No valid stable versions found for sequed

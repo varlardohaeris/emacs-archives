@@ -1,0 +1,6 @@
+Package: register-channel
+Fetcher: github
+Source:  https://github.com/YangZhao11/register-channel.git
+
+Updating /mnt/store/melpa/working/register-channel/
+No valid stable versions found for register-channel

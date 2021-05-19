@@ -1,0 +1,11 @@
+Package: dired-lsi
+Fetcher: github
+Source:  https://github.com/conao3/dired-lsi.el.git
+
+Updating /mnt/store/melpa/working/dired-lsi/
+Built dired-lsi in 4.770s, finished at Wed May 19 04:27:53 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K May 19 04:27 packages-stable/dired-lsi-1.0.0.el
+4.0K -rw-r--r-- 1 root root  388 May 19 04:27 packages-stable/dired-lsi-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-lsi-badge.svg
+4.0K -rw-r--r-- 1 root root  293 May 19 04:27 packages-stable/dired-lsi-readme.txt

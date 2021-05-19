@@ -1,0 +1,11 @@
+Package: dumb-jump
+Fetcher: github
+Source:  https://github.com/jacktasia/dumb-jump.git
+
+Updating /mnt/store/melpa/working/dumb-jump/
+Built dumb-jump in 3.212s, finished at Wed May 19 04:28:54 2021
+ ✓ Success:
+128K -rw-r--r-- 1 root root 126K May 19 04:28 packages-stable/dumb-jump-0.5.3.el
+4.0K -rw-r--r-- 1 root root  442 May 19 04:28 packages-stable/dumb-jump-0.5.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dumb-jump-badge.svg
+4.0K -rw-r--r-- 1 root root  406 May 19 04:28 packages-stable/dumb-jump-readme.txt

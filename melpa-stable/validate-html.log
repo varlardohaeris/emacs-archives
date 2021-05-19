@@ -1,0 +1,6 @@
+Package: validate-html
+Fetcher: github
+Source:  https://github.com/arthurgleckler/validate-html.git
+
+Updating /mnt/store/melpa/working/validate-html/
+No valid stable versions found for validate-html

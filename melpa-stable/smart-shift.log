@@ -1,0 +1,6 @@
+Package: smart-shift
+Fetcher: github
+Source:  https://github.com/hbin/smart-shift.git
+
+Updating /mnt/store/melpa/working/smart-shift/
+No valid stable versions found for smart-shift

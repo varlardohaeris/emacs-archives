@@ -1,0 +1,6 @@
+Package: osa-chrome
+Fetcher: github
+Source:  https://github.com/atomontage/osa-chrome.git
+
+Updating /mnt/store/melpa/working/osa-chrome/
+No valid stable versions found for osa-chrome

@@ -1,0 +1,6 @@
+Package: hive
+Fetcher: github
+Source:  https://github.com/r0man/hive-el.git
+
+Updating /mnt/store/melpa/working/hive/
+No valid stable versions found for hive

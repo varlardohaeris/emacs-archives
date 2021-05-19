@@ -1,0 +1,6 @@
+Package: flycheck-pyre
+Fetcher: github
+Source:  https://github.com/linnik/flycheck-pyre.git
+
+Updating /mnt/store/melpa/working/flycheck-pyre/
+No valid stable versions found for flycheck-pyre

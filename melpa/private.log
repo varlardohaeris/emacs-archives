@@ -1,0 +1,16 @@
+Package: private
+Fetcher: github
+Source:  https://github.com/zhangkaiyulw/private.git
+
+Updating /mnt/store/melpa/working/private/
+Built private in 5.012s, finished at Wed May 19 03:57:04 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 03:57 packages/private-20150122.157.el
+4.0K -rw-r--r-- 1 root root  406 May 19 03:57 packages/private-20150122.157.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:57 packages/private-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 03:57 packages/private-diary-20151216.1657.el
+4.0K -rw-r--r-- 1 root root  382 May 19 03:57 packages/private-diary-20151216.1657.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 00:43 packages/private-diary-badge.svg
+4.0K -rw-r--r-- 1 root root  221 May 19 03:57 packages/private-diary-readme.txt
+4.0K -rw-r--r-- 1 root root  144 May 19 03:57 packages/private-diary.log
+4.0K -rw-r--r-- 1 root root 1.1K May 19 03:57 packages/private-readme.txt

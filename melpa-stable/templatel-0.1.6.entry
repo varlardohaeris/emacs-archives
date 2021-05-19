@@ -1,0 +1,10 @@
+(templatel .
+	   [(0 1 6)
+	    ((emacs
+	      (25 1)))
+	    "Templating language;" single
+	    ((:commit . "8374097a129b2cd13c449568f95ee7380b36b307")
+	     (:authors
+	      ("Lincoln Clarete" . "lincoln@clarete.li"))
+	     (:maintainer "Lincoln Clarete" . "lincoln@clarete.li")
+	     (:url . "https://clarete.li/templatel"))])

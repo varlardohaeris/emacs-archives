@@ -1,0 +1,6 @@
+Package: mustang-theme
+Fetcher: github
+Source:  https://github.com/mswift42/mustang-theme.git
+
+Updating /mnt/store/melpa/working/mustang-theme/
+No valid stable versions found for mustang-theme

@@ -1,0 +1,6 @@
+Package: company-flow
+Fetcher: github
+Source:  https://github.com/aaronjensen/company-flow.git
+
+Updating /mnt/store/melpa/working/company-flow/
+No valid stable versions found for company-flow

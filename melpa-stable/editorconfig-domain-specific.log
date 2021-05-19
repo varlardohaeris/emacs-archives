@@ -1,0 +1,6 @@
+Package: editorconfig-domain-specific
+Fetcher: github
+Source:  https://github.com/lassik/editorconfig-emacs-domain-specific.git
+
+Updating /mnt/store/melpa/working/editorconfig-domain-specific/
+No valid stable versions found for editorconfig-domain-specific

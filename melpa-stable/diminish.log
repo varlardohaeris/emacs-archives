@@ -1,0 +1,16 @@
+Package: diminish
+Fetcher: github
+Source:  https://github.com/myrjola/diminish.el.git
+
+Updating /mnt/store/melpa/working/diminish/
+Built diminish in 7.712s, finished at Wed May 19 04:27:31 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:27 packages-stable/diminish-0.45.el
+4.0K -rw-r--r-- 1 root root  405 May 19 04:27 packages-stable/diminish-0.45.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/diminish-badge.svg
+8.0K -rw-r--r-- 1 root root 4.1K May 19 04:27 packages-stable/diminish-buffer-0.1.1.el
+4.0K -rw-r--r-- 1 root root  362 May 19 04:27 packages-stable/diminish-buffer-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/diminish-buffer-badge.svg
+4.0K -rw-r--r-- 1 root root   43 May 19 04:27 packages-stable/diminish-buffer-readme.txt
+4.0K -rw-r--r-- 1 root root  588 May 19 04:27 packages-stable/diminish-buffer.log
+4.0K -rw-r--r-- 1 root root 3.4K May 19 04:27 packages-stable/diminish-readme.txt

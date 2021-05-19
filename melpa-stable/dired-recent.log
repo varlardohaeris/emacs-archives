@@ -1,0 +1,6 @@
+Package: dired-recent
+Fetcher: github
+Source:  https://github.com/vifon/dired-recent.el.git
+
+Updating /mnt/store/melpa/working/dired-recent/
+No valid stable versions found for dired-recent

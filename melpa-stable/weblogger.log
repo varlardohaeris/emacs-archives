@@ -1,0 +1,6 @@
+Package: weblogger
+Fetcher: github
+Source:  https://github.com/hexmode/weblogger-el.git
+
+Updating /mnt/store/melpa/working/weblogger/
+No valid stable versions found for weblogger

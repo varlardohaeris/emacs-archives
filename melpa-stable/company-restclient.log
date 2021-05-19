@@ -1,0 +1,11 @@
+Package: company-restclient
+Fetcher: github
+Source:  https://github.com/iquiw/company-restclient.git
+
+Updating /mnt/store/melpa/working/company-restclient/
+Built company-restclient in 2.843s, finished at Wed May 19 04:24:45 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.3K May 19 04:24 packages-stable/company-restclient-0.3.0.el
+4.0K -rw-r--r-- 1 root root  542 May 19 04:24 packages-stable/company-restclient-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-restclient-badge.svg
+4.0K -rw-r--r-- 1 root root  180 May 19 04:24 packages-stable/company-restclient-readme.txt

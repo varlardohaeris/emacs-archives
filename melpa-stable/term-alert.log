@@ -1,0 +1,24 @@
+Package: term-alert
+Fetcher: github
+Source:  https://github.com/calliecameron/term-alert.git
+
+Updating /mnt/store/melpa/working/term-alert/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/term-alert/
+  to /tmp/term-alertTV7mEO/term-alert-1.2
+    term-alert-pkg.el -> term-alert-pkg.el
+    term-alert.el -> term-alert.el
+    setup => setup
+Created term-alert-1.2.tar containing:
+  term-alert-1.2/
+  term-alert-1.2/setup/
+  term-alert-1.2/setup/setup.bash
+  term-alert-1.2/setup/setup.zsh
+  term-alert-1.2/term-alert-pkg.el
+  term-alert-1.2/term-alert.el
+Built term-alert in 4.026s, finished at Wed May 19 01:51:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  520 May 19 01:51 packages-stable/term-alert-1.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:51 packages-stable/term-alert-1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/term-alert-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 01:51 packages-stable/term-alert-readme.txt

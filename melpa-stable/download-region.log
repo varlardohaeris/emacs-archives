@@ -1,0 +1,6 @@
+Package: download-region
+Fetcher: github
+Source:  https://github.com/zk-phi/download-region.git
+
+Updating /mnt/store/melpa/working/download-region/
+No valid stable versions found for download-region

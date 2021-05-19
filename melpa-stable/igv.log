@@ -1,0 +1,6 @@
+Package: igv
+Fetcher: git
+Source:  https://bitbucket.org/sbarbit/eigv
+
+Updating /mnt/store/melpa/working/igv/
+No valid stable versions found for igv

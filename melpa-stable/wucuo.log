@@ -1,0 +1,25 @@
+Package: wucuo
+Fetcher: github
+Source:  https://github.com/redguardtoo/wucuo.git
+
+Updating /mnt/store/melpa/working/wucuo/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/wucuo/
+  to /tmp/wucuoLxZcl0/wucuo-0.2.9
+    wucuo-flyspell-html-verify.el -> wucuo-flyspell-html-verify.el
+    wucuo-flyspell-org-verify.el -> wucuo-flyspell-org-verify.el
+    wucuo-sdk.el -> wucuo-sdk.el
+    wucuo.el -> wucuo.el
+Created wucuo-0.2.9.tar containing:
+  wucuo-0.2.9/
+  wucuo-0.2.9/wucuo-flyspell-html-verify.el
+  wucuo-0.2.9/wucuo-flyspell-org-verify.el
+  wucuo-0.2.9/wucuo-pkg.el
+  wucuo-0.2.9/wucuo-sdk.el
+  wucuo-0.2.9/wucuo.el
+Built wucuo in 3.077s, finished at Wed May 19 01:55:45 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  376 May 19 01:55 packages-stable/wucuo-0.2.9.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:55 packages-stable/wucuo-0.2.9.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/wucuo-badge.svg
+4.0K -rw-r--r-- 1 root root 2.3K May 19 01:55 packages-stable/wucuo-readme.txt

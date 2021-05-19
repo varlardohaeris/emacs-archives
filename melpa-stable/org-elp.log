@@ -1,0 +1,11 @@
+Package: org-elp
+Fetcher: github
+Source:  https://github.com/guanyilun/org-elp.git
+
+Updating /mnt/store/melpa/working/org-elp/
+Built org-elp in 2.801s, finished at Wed May 19 01:39:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 4.0K May 19 01:39 packages-stable/org-elp-0.1.el
+4.0K -rw-r--r-- 1 root root  322 May 19 01:39 packages-stable/org-elp-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-elp-badge.svg
+4.0K -rw-r--r-- 1 root root  400 May 19 01:39 packages-stable/org-elp-readme.txt

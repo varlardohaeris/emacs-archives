@@ -1,0 +1,11 @@
+Package: tox
+Fetcher: github
+Source:  https://github.com/chmouel/tox.el.git
+
+Updating /mnt/store/melpa/working/tox/
+Built tox in 3.049s, finished at Wed May 19 01:52:33 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K May 19 01:52 packages-stable/tox-0.4.0.el
+4.0K -rw-r--r-- 1 root root  377 May 19 01:52 packages-stable/tox-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tox-badge.svg
+4.0K -rw-r--r-- 1 root root  335 May 19 01:52 packages-stable/tox-readme.txt

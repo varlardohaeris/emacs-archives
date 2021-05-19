@@ -1,0 +1,6 @@
+Package: ssh-tunnels
+Fetcher: github
+Source:  https://github.com/death/ssh-tunnels.git
+
+Updating /mnt/store/melpa/working/ssh-tunnels/
+No valid stable versions found for ssh-tunnels

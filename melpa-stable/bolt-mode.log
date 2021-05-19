@@ -1,0 +1,6 @@
+Package: bolt-mode
+Fetcher: github
+Source:  https://github.com/mpontus/bolt-mode.git
+
+Updating /mnt/store/melpa/working/bolt-mode/
+No valid stable versions found for bolt-mode

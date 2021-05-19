@@ -1,0 +1,11 @@
+Package: imenu-list
+Fetcher: github
+Source:  https://github.com/bmag/imenu-list.git
+
+Updating /mnt/store/melpa/working/imenu-list/
+Built imenu-list in 2.840s, finished at Wed May 19 04:42:59 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  26K May 19 04:42 packages-stable/imenu-list-0.9.el
+4.0K -rw-r--r-- 1 root root  317 May 19 04:42 packages-stable/imenu-list-0.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/imenu-list-badge.svg
+4.0K -rw-r--r-- 1 root root  491 May 19 04:42 packages-stable/imenu-list-readme.txt

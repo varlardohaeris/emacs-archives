@@ -1,0 +1,11 @@
+Package: vuiet
+Fetcher: github
+Source:  https://github.com/mihaiolteanu/vuiet.git
+
+Updating /mnt/store/melpa/working/vuiet/
+Built vuiet in 4.179s, finished at Wed May 19 04:13:51 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  39K May 19 04:13 packages/vuiet-20210323.911.el
+4.0K -rw-r--r-- 1 root root  467 May 19 04:13 packages/vuiet-20210323.911.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/vuiet-badge.svg
+4.0K -rw-r--r-- 1 root root  145 May 19 04:13 packages/vuiet-readme.txt

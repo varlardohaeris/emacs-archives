@@ -1,0 +1,6 @@
+Package: magit-delta
+Fetcher: github
+Source:  https://github.com/dandavison/magit-delta.git
+
+Updating /mnt/store/melpa/working/magit-delta/
+No valid stable versions found for magit-delta

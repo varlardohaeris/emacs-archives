@@ -19,7 +19,7 @@ and
 
     chinese-number--convert-chinese-number-to-arabic
 
-Installation:
+; Installation:
 
 Chinese-number lives in a Git repository. To obtain it, do
 
@@ -32,7 +32,7 @@ else in the `load-path'). Then add the following lines to ~/.emacs:
     (require 'chinese-number)
 
 .
-算法介绍
+; 算法介绍
 
  阿拉伯数字转换为中文
     最基本也是最核心的概念就是数字(digit)与权(weight)，分别将数字与权转换为对应的中文，再作字符串

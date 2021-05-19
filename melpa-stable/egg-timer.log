@@ -1,0 +1,6 @@
+Package: egg-timer
+Fetcher: github
+Source:  https://github.com/wpcarro/egg-timer.el.git
+
+Updating /mnt/store/melpa/working/egg-timer/
+No valid stable versions found for egg-timer

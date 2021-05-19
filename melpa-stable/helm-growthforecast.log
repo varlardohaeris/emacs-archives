@@ -1,0 +1,6 @@
+Package: helm-growthforecast
+Fetcher: github
+Source:  https://github.com/daichirata/helm-growthforecast.git
+
+Updating /mnt/store/melpa/working/helm-growthforecast/
+No valid stable versions found for helm-growthforecast

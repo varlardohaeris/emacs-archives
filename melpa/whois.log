@@ -1,0 +1,11 @@
+Package: whois
+Fetcher: github
+Source:  https://github.com/lassik/emacs-whois.git
+
+Updating /mnt/store/melpa/working/whois/
+Built whois in 4.925s, finished at Wed May 19 04:14:54 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.8K May 19 04:14 packages/whois-20210429.805.el
+4.0K -rw-r--r-- 1 root root  365 May 19 04:14 packages/whois-20210429.805.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:14 packages/whois-badge.svg
+4.0K -rw-r--r-- 1 root root  577 May 19 04:14 packages/whois-readme.txt

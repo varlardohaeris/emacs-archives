@@ -1,0 +1,36 @@
+Package: weibo
+Fetcher: github
+Source:  https://github.com/austin-----/weibo.emacs.git
+
+Updating /mnt/store/melpa/working/weibo/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/weibo/
+  to /tmp/weibov71zoi/weibo-1.0
+    hmac-sha1.el -> hmac-sha1.el
+    oauth.el -> oauth.el
+    weibo-comment.el -> weibo-comment.el
+    weibo-image.el -> weibo-image.el
+    weibo-post.el -> weibo-post.el
+    weibo-status-comment.el -> weibo-status-comment.el
+    weibo-status.el -> weibo-status.el
+    weibo-timeline.el -> weibo-timeline.el
+    weibo-user.el -> weibo-user.el
+    weibo.el -> weibo.el
+Created weibo-1.0.tar containing:
+  weibo-1.0/
+  weibo-1.0/hmac-sha1.el
+  weibo-1.0/oauth.el
+  weibo-1.0/weibo-comment.el
+  weibo-1.0/weibo-image.el
+  weibo-1.0/weibo-pkg.el
+  weibo-1.0/weibo-post.el
+  weibo-1.0/weibo-status-comment.el
+  weibo-1.0/weibo-status.el
+  weibo-1.0/weibo-timeline.el
+  weibo-1.0/weibo-user.el
+  weibo-1.0/weibo.el
+Built weibo in 3.068s, finished at Wed May 19 01:54:52 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  120 May 19 01:54 packages-stable/weibo-1.0.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 01:54 packages-stable/weibo-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/weibo-badge.svg

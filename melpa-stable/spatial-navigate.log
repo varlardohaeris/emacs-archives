@@ -1,0 +1,6 @@
+Package: spatial-navigate
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-spatial-navigate.git
+
+Updating /mnt/store/melpa/working/spatial-navigate/
+No valid stable versions found for spatial-navigate

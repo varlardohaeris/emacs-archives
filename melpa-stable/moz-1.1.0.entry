@@ -1,2 +1,8 @@
-
-(moz . [(1 1 0) nil "Lets current buffer interact with inferior mozilla." single ((:commit . "646208b67e6c9c56d188db1eba999846d518935f") (:authors ("Massimiliano Mirra, <bard [at] hyperstruct [dot] net>")) (:maintainer "Massimiliano Mirra, <bard [at] hyperstruct [dot] net>") (:url . "http://github.com/bard/mozrepl/raw/master/chrome/content/moz.el"))])
+(moz .
+     [(1 1 0)
+      nil "Lets current buffer interact with inferior mozilla." single
+      ((:commit . "646208b67e6c9c56d188db1eba999846d518935f")
+       (:authors
+	("Massimiliano Mirra, <bard [at] hyperstruct [dot] net>"))
+       (:maintainer "Massimiliano Mirra, <bard [at] hyperstruct [dot] net>")
+       (:url . "http://github.com/bard/mozrepl/raw/master/chrome/content/moz.el"))])

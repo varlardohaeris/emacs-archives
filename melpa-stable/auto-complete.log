@@ -1,0 +1,85 @@
+Package: auto-complete
+Fetcher: github
+Source:  https://github.com/auto-complete/auto-complete.git
+
+Updating /mnt/store/melpa/working/auto-complete/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/auto-complete/
+  to /tmp/auto-completeE9xOgB/auto-complete-1.5.1
+    auto-complete-config.el -> auto-complete-config.el
+    auto-complete-pkg.el -> auto-complete-pkg.el
+    auto-complete.el -> auto-complete.el
+    dict => dict
+Created auto-complete-1.5.1.tar containing:
+  auto-complete-1.5.1/
+  auto-complete-1.5.1/auto-complete-config.el
+  auto-complete-1.5.1/auto-complete-pkg.el
+  auto-complete-1.5.1/auto-complete.el
+  auto-complete-1.5.1/dict/
+  auto-complete-1.5.1/dict/ada-mode
+  auto-complete-1.5.1/dict/c++-mode
+  auto-complete-1.5.1/dict/c-mode
+  auto-complete-1.5.1/dict/caml-mode
+  auto-complete-1.5.1/dict/clojure-mode
+  auto-complete-1.5.1/dict/clojurescript-mode
+  auto-complete-1.5.1/dict/coq-mode
+  auto-complete-1.5.1/dict/css-mode
+  auto-complete-1.5.1/dict/erlang-mode
+  auto-complete-1.5.1/dict/ess-julia-mode
+  auto-complete-1.5.1/dict/go-mode
+  auto-complete-1.5.1/dict/haskell-mode
+  auto-complete-1.5.1/dict/java-mode
+  auto-complete-1.5.1/dict/js-mode
+  auto-complete-1.5.1/dict/julia-mode
+  auto-complete-1.5.1/dict/lua-mode
+  auto-complete-1.5.1/dict/nim-mode
+  auto-complete-1.5.1/dict/octave-mode
+  auto-complete-1.5.1/dict/php-mode
+  auto-complete-1.5.1/dict/python-mode
+  auto-complete-1.5.1/dict/qml-mode
+  auto-complete-1.5.1/dict/ruby-mode
+  auto-complete-1.5.1/dict/scala-mode
+  auto-complete-1.5.1/dict/scheme-mode
+  auto-complete-1.5.1/dict/sclang-mode
+  auto-complete-1.5.1/dict/sh-mode
+  auto-complete-1.5.1/dict/tcl-mode
+  auto-complete-1.5.1/dict/ts-mode
+  auto-complete-1.5.1/dict/tuareg-mode
+  auto-complete-1.5.1/dict/verilog-mode
+Built auto-complete in 3.265s, finished at Wed May 19 04:20:07 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  407 May 19 04:20 packages-stable/auto-complete-1.5.1.entry
+320K -rw-r--r-- 1 root root 320K May 19 04:20 packages-stable/auto-complete-1.5.1.tar
+4.0K -rw-r--r-- 1 root root  221 May 19 04:20 packages-stable/auto-complete-auctex.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/auto-complete-badge.svg
+4.0K -rw-r--r-- 1 root root  229 May 19 04:20 packages-stable/auto-complete-c-headers.log
+   0 -rw-r--r-- 1 root root    0 May 19 04:20 packages-stable/auto-complete-chunk.log
+ 24K -rw-r--r-- 1 root root  24K May 19 01:05 packages-stable/auto-complete-clang-async-0.5.el
+4.0K -rw-r--r-- 1 root root  222 May 19 01:05 packages-stable/auto-complete-clang-async-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/auto-complete-clang-async-badge.svg
+4.0K -rw-r--r-- 1 root root  129 May 19 01:05 packages-stable/auto-complete-clang-async-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:20 packages-stable/auto-complete-clang-async.log
+   0 -rw-r--r-- 1 root root    0 May 19 04:20 packages-stable/auto-complete-clang.log
+   0 -rw-r--r-- 1 root root    0 May 19 04:20 packages-stable/auto-complete-distel.log
+8.0K -rw-r--r-- 1 root root 7.8K May 19 01:05 packages-stable/auto-complete-exuberant-ctags-0.0.7.el
+4.0K -rw-r--r-- 1 root root  422 May 19 01:05 packages-stable/auto-complete-exuberant-ctags-0.0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/auto-complete-exuberant-ctags-badge.svg
+4.0K -rw-r--r-- 1 root root  506 May 19 01:05 packages-stable/auto-complete-exuberant-ctags-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:20 packages-stable/auto-complete-exuberant-ctags.log
+ 36K -rw-r--r-- 1 root root  34K May 19 01:05 packages-stable/auto-complete-nxml-0.5.0.el
+4.0K -rw-r--r-- 1 root root  451 May 19 01:05 packages-stable/auto-complete-nxml-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/auto-complete-nxml-badge.svg
+4.0K -rw-r--r-- 1 root root  148 May 19 01:05 packages-stable/auto-complete-nxml-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:20 packages-stable/auto-complete-nxml.log
+8.0K -rw-r--r-- 1 root root 6.6K May 19 01:05 packages-stable/auto-complete-pcmp-0.0.2.el
+4.0K -rw-r--r-- 1 root root  516 May 19 01:05 packages-stable/auto-complete-pcmp-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/auto-complete-pcmp-badge.svg
+4.0K -rw-r--r-- 1 root root  273 May 19 01:05 packages-stable/auto-complete-pcmp-readme.txt
+4.0K -rw-r--r-- 1 root root  609 May 19 01:05 packages-stable/auto-complete-pcmp.log
+4.0K -rw-r--r-- 1 root root  355 May 19 04:20 packages-stable/auto-complete-readme.txt
+4.0K -rw-r--r-- 1 root root  204 May 19 01:05 packages-stable/auto-complete-rst.log
+ 16K -rw-r--r-- 1 root root  13K May 19 01:05 packages-stable/auto-complete-sage-0.0.5.el
+4.0K -rw-r--r-- 1 root root  498 May 19 01:05 packages-stable/auto-complete-sage-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/auto-complete-sage-badge.svg
+4.0K -rw-r--r-- 1 root root  158 May 19 01:05 packages-stable/auto-complete-sage-readme.txt
+4.0K -rw-r--r-- 1 root root  612 May 19 01:05 packages-stable/auto-complete-sage.log

@@ -1,27 +1,43 @@
 The default behavior of ido SPACE key will try to insert SPACE if it makes
-sence (a.k.a, the comman part of all matches contains SPACE). Howerver,
+sense (a.k.a, the common part of all matches contains SPACE). However,
 when ido is used to complete lisp functions or variables, like what smex
 does, HYPHEN is used as separator. This extension for ido inserts SPACE or
-HYPHEN whenever which one makes sence, just like what built-in M-x does.
+HYPHEN whenever either one makes sense, just like what built-in M-x does.
 
 Example:
 
-Choises: "ido-foo-bar", "ido-space" "idotest"
+(ido-completing-read "test: " '("ido-foo-bar" "ido-space" "ido-test"))
 
-After you type "i", then SPACE key. The input text is completed to "ido-" and
-HYPHEN is inserted for you.
+    | Key Sequence | Result |
+    |--------------+--------|
+    | i            | "i"    |
+    | SPACE        | "ido-" |
 
-However if the choises are "ido-foo-bar", "ido-space" and "ido test", the input
-text is completed to "ido", type SPACE again will insert SPACE.
+(ido-completing-read "test: " '("ido foo-bar" "ido space" "ido test"))
 
-Usage
+    | Key Sequence | Result |
+    |--------------+--------|
+    | i            | "i"    |
+    | SPACE        | "ido " |
 
-    (require 'ido-complete-space-or-hyphen)
-    (ido-mode t)
+(ido-completing-read "test: " '("ido-foo-bar" "ido-space" "idotest"))
 
-Changes
+    | Key Sequence | Result |
+    |--------------+--------|
+    | i            | "i"    |
+    | SPACE        | "ido"  |
+    | SPACE        | "ido-" |
 
--   1.1 (2013-02-27)
+When HYPHEN can be inserted and SPACE cannot, insert HYPHEN when user enter SPACE.
 
-    -  Add `ido-complete-space-or-hyphen--insert-space' to allow user type
-       SPACE twice to insert SPCE.
+(ido-completing-read "test: " '("ido-foo-bar" "ido-space" "ido test"))
+
+    | Key Sequence | Result                           |
+    |--------------+----------------------------------+
+    | i            | "i"                              |
+    | SPACE        | "ido"                            |
+    | SPACE        | "ido"  Completion popup is shown |
+    | SPACE        | "ido "                           |
+
+If both HYPHEN and SPACE can be inserted, SPACE first brings the completion
+popup window, if user types SPACE again, then SPACE itself is inserted.

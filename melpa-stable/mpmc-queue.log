@@ -1,0 +1,11 @@
+Package: mpmc-queue
+Fetcher: github
+Source:  https://github.com/smizoe/mpmc-queue.git
+
+Updating /mnt/store/melpa/working/mpmc-queue/
+Built mpmc-queue in 3.490s, finished at Wed May 19 01:36:14 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.2K May 19 01:36 packages-stable/mpmc-queue-0.1.1.el
+4.0K -rw-r--r-- 1 root root  424 May 19 01:36 packages-stable/mpmc-queue-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mpmc-queue-badge.svg
+4.0K -rw-r--r-- 1 root root   52 May 19 01:36 packages-stable/mpmc-queue-readme.txt

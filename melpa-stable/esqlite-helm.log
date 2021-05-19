@@ -1,0 +1,6 @@
+Package: esqlite-helm
+Fetcher: github
+Source:  https://github.com/mhayashi1120/Emacs-esqlite.git
+
+Updating /mnt/store/melpa/working/esqlite-helm/
+No valid stable versions found for esqlite-helm

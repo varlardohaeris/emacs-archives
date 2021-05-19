@@ -1,0 +1,6 @@
+Package: crystal-playground
+Fetcher: github
+Source:  https://github.com/jasonrobot/crystal-playground.git
+
+Updating /mnt/store/melpa/working/crystal-playground/
+No valid stable versions found for crystal-playground

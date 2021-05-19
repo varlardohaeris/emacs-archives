@@ -13,8 +13,15 @@
  prefix argument it has a line describing each occurrence of each
  character in the region.
 
+ By default, `describe-chars-in-region' includes characters with
+ names that are not known to Emacs.  This includes Private Use Area
+ (PUA) characters.  If you customize option
+ `apu-include-unnamed-chars-flag' to `nil' then such characters are
+ excluded, and they are reported in the echo area (and buffer
+ `*Messages*').
+
  For each of these commmands, in the help buffer describing the
- characters you can use these keys to act on the character
+ characters you can use the following keys to act on the character
  described on the current line:
 
   * `RET' or `mouse-2' - see detailed information about it.
@@ -37,8 +44,16 @@
  `apu-match-two-or-more-words-flag' to specify your preference for
  the kind of word matching to use by default.  You can match each
  word or only any two or more words.  If matching each word, you
- can match them as substrings or as full words.  You can use `C-c
- n' to refresh the matches, cycling among these word-match methods.
+ can match them as substrings or as full words.  `C-c RET' in the
+ help buffer tells you what the current match type is.
+
+ You can use `C-c C-n' to refresh the matches, cycling among these
+ word-match methods.  There are also separate commands for each
+ kind of matching:
+
+   `C-c C-s' - Use substring matching
+   `C-c 2'   - Use pairwise full-word matching (match two+ words)
+   `C-c C-w' - Use full-word matching for each list entry
 
  Non-`nil' option `apu-match-only-displayable-chars-flag' means
  that commands such as `apropos-unicode' display only Unicode chars
@@ -50,13 +65,14 @@
 
  NOTE:
 
-   Starting with Emacs 25, `char-displayable-p' can be EXTREMELY
-   SLOW if the new variable `inhibit-compacting-font-caches' is
-   `nil', which it is by default, and if you have many, or large,
-   fonts installed.  For this reason the default value of
+   Starting with Emacs 25, predicate `char-displayable-p' can be
+   EXTREMELY SLOW if the new variable
+   `inhibit-compacting-font-caches' is `nil', which it is by
+   default, and if you have many, or large, fonts installed.  (This
+   seems to be the case if you have MS Windows TrueType fonts
+   installed, for instance.)  For this reason, the default value of
    `apu-match-only-displayable-chars-flag' is `nil' for Emacs 25
-   and later.  This seems to be the case if you have MS Windows
-   TrueType fonts installed, for instance.
+   and later.
 
    If you want to be able to exclude non-displayable chars in Emacs
    25+, then set `apu-match-only-displayable-chars-flag' to
@@ -81,12 +97,14 @@
    `apu-chars-refresh-matching-as-substrings',
    `apu-chars-refresh-matching-full-words',
    `apu-chars-refresh-matching-two-or-more-words',
-   `apu-chars-refresh-with-next-match-method', `apu-revert-buffer',
+   `apu-chars-refresh-with-next-match-method',
+   `apu-match-type-msg', `apu-revert-buffer',
    `apu-show-char-details', `apu-zoom-char-here',
    `apu-zoom-char-at-point', `describe-chars-in-region'.
 
  User options defined here:
 
+   `apu-include-unnamed-chars-flag',
    `apu-match-only-displayable-chars-flag',
    `apu-match-two-or-more-words-flag',
    `apu-match-words-exactly-flag', `apu-synonyms'.
@@ -96,20 +114,20 @@
    `apu-add-to-pats+bufs', `apu-buf-name-for-matching',
    `apu-char-at-point', `apu-char-displayable-p', `apu-char-here',
    `apu-char-name', `apu-char-names', `apu-char-name-here',
-   `apu-char-string-here', `apu-chars-narrow-1',
-   `apu-chars-read-pattern-arg', `apu-compute-matches',
-   `apu-copy-char-to-second-sel', `apu-filter',
-   `apu-full-word-match', `apu-get-a-hash-key',
+   `apu-char-string-here', `apu-chars-in-region-1',
+   `apu-chars-narrow-1', `apu-chars-read-pattern-arg',
+   `apu-compute-matches', `apu-copy-char-to-second-sel',
+   `apu-filter', `apu-full-word-match', `apu-get-a-hash-key',
    `apu-get-hash-keys', `apu-hash-table-to-alist',
-   `apu-make-tablist-entry', `apu-match-type-msg',
-   `apu-print-apropos-matches', `apu-print-chars',
-   `apu-remove-if-not', `apu-sort-char', `apu-substring-match',
-   `apu-tablist-match-entries'.
+   `apu-make-tablist-entry', `apu-print-apropos-matches',
+   `apu-print-chars', `apu-remove-if-not', `apu-sort-char',
+   `apu-substring-match', `apu-tablist-match-entries'.
 
  Internal variables defined here:
 
-   `apu--buffer-invoked-from', `apu-latest-pattern-set',
-   `apu--matches', `apu--match-two-or-more', `apu--match-type',
+   `apu--buffer-invoked-from', `apu--chars', `apu--matches',
+   `apu--match-two-or-more', `apu--match-type',
    `apu--match-words-exactly', `apu--orig-buffer',
    `apu--pats+bufs', `apu--patterns', `apu--patterns-not',
-   `apu--refresh-p', `apu--unnamed-chars'.
+   `apu--refresh-p', `apu--unnamed-chars',
+   `apu-latest-pattern-set'.

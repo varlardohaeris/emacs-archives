@@ -1,0 +1,11 @@
+Package: indent-lint
+Fetcher: github
+Source:  https://github.com/conao3/indent-lint.el.git
+
+Updating /mnt/store/melpa/working/indent-lint/
+Built indent-lint in 3.009s, finished at Wed May 19 04:43:09 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.5K May 19 04:43 packages-stable/indent-lint-1.0.0.el
+4.0K -rw-r--r-- 1 root root  431 May 19 04:43 packages-stable/indent-lint-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/indent-lint-badge.svg
+4.0K -rw-r--r-- 1 root root   20 May 19 04:43 packages-stable/indent-lint-readme.txt

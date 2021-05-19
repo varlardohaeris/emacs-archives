@@ -1,6 +1,6 @@
 Provides a frontend for several search tools
 
-Installation:
+; Installation:
 
 Available as a package in melpa
 

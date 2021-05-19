@@ -1,0 +1,6 @@
+Package: dmacro
+Fetcher: github
+Source:  https://github.com/emacs-jp/dmacro.git
+
+Updating /mnt/store/melpa/working/dmacro/
+No valid stable versions found for dmacro

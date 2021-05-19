@@ -1,0 +1,6 @@
+Package: tramp-term
+Fetcher: github
+Source:  https://github.com/randymorris/tramp-term.el.git
+
+Updating /mnt/store/melpa/working/tramp-term/
+No valid stable versions found for tramp-term

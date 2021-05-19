@@ -1,0 +1,55 @@
+Package: weechat
+Fetcher: github
+Source:  https://github.com/the-kenny/weechat.el.git
+
+Updating /mnt/store/melpa/working/weechat/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/weechat/
+  to /tmp/weechatbVUcqH/weechat-0.5.0
+    weechat-button.el -> weechat-button.el
+    weechat-cmd.el -> weechat-cmd.el
+    weechat-color.el -> weechat-color.el
+    weechat-complete.el -> weechat-complete.el
+    weechat-core.el -> weechat-core.el
+    weechat-corrector.el -> weechat-corrector.el
+    weechat-image.el -> weechat-image.el
+    weechat-latex.el -> weechat-latex.el
+    weechat-notifications.el -> weechat-notifications.el
+    weechat-read-marker.el -> weechat-read-marker.el
+    weechat-relay.el -> weechat-relay.el
+    weechat-sauron.el -> weechat-sauron.el
+    weechat-secrets.el -> weechat-secrets.el
+    weechat-smiley.el -> weechat-smiley.el
+    weechat-speedbar.el -> weechat-speedbar.el
+    weechat-spelling.el -> weechat-spelling.el
+    weechat-tracking.el -> weechat-tracking.el
+    weechat.el -> weechat.el
+  ! weechat-pkg.el.in -> weechat-pkg.el
+Created weechat-0.5.0.tar containing:
+  weechat-0.5.0/
+  weechat-0.5.0/weechat-button.el
+  weechat-0.5.0/weechat-cmd.el
+  weechat-0.5.0/weechat-color.el
+  weechat-0.5.0/weechat-complete.el
+  weechat-0.5.0/weechat-core.el
+  weechat-0.5.0/weechat-corrector.el
+  weechat-0.5.0/weechat-image.el
+  weechat-0.5.0/weechat-latex.el
+  weechat-0.5.0/weechat-notifications.el
+  weechat-0.5.0/weechat-pkg.el
+  weechat-0.5.0/weechat-read-marker.el
+  weechat-0.5.0/weechat-relay.el
+  weechat-0.5.0/weechat-sauron.el
+  weechat-0.5.0/weechat-secrets.el
+  weechat-0.5.0/weechat-smiley.el
+  weechat-0.5.0/weechat-speedbar.el
+  weechat-0.5.0/weechat-spelling.el
+  weechat-0.5.0/weechat-tracking.el
+  weechat-0.5.0/weechat.el
+Built weechat in 3.724s, finished at Wed May 19 01:54:51 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  563 May 19 01:54 packages-stable/weechat-0.5.0.entry
+220K -rw-r--r-- 1 root root 220K May 19 01:54 packages-stable/weechat-0.5.0.tar
+4.0K -rw-r--r-- 1 root root  190 May 19 01:54 packages-stable/weechat-alert.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/weechat-badge.svg
+4.0K -rw-r--r-- 1 root root  116 May 19 01:54 packages-stable/weechat-readme.txt

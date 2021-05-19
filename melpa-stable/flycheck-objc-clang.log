@@ -1,0 +1,11 @@
+Package: flycheck-objc-clang
+Fetcher: github
+Source:  https://github.com/GyazSquare/flycheck-objc-clang.git
+
+Updating /mnt/store/melpa/working/flycheck-objc-clang/
+Built flycheck-objc-clang in 3.824s, finished at Wed May 19 04:35:02 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:35 packages-stable/flycheck-objc-clang-4.0.1.el
+4.0K -rw-r--r-- 1 root root  484 May 19 04:35 packages-stable/flycheck-objc-clang-4.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-objc-clang-badge.svg
+4.0K -rw-r--r-- 1 root root  152 May 19 04:35 packages-stable/flycheck-objc-clang-readme.txt

@@ -1,0 +1,23 @@
+Package: sparql-mode
+Fetcher: github
+Source:  https://github.com/ljos/sparql-mode.git
+
+Updating /mnt/store/melpa/working/sparql-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sparql-mode/
+  to /tmp/sparql-modeDTYAhI/sparql-mode-4.0.2
+    company-sparql.el -> company-sparql.el
+    ob-sparql.el -> ob-sparql.el
+    sparql-mode.el -> sparql-mode.el
+Created sparql-mode-4.0.2.tar containing:
+  sparql-mode-4.0.2/
+  sparql-mode-4.0.2/company-sparql.el
+  sparql-mode-4.0.2/ob-sparql.el
+  sparql-mode-4.0.2/sparql-mode-pkg.el
+  sparql-mode-4.0.2/sparql-mode.el
+Built sparql-mode in 2.766s, finished at Wed May 19 01:49:51 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  410 May 19 01:49 packages-stable/sparql-mode-4.0.2.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:49 packages-stable/sparql-mode-4.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/sparql-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   62 May 19 01:49 packages-stable/sparql-mode-readme.txt

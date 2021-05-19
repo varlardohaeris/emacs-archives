@@ -1,0 +1,24 @@
+Package: emojify
+Fetcher: github
+Source:  https://github.com/iqbalansari/emacs-emojify.git
+
+Updating /mnt/store/melpa/working/emojify/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emojify/
+  to /tmp/emojifysSCUl7/emojify-1.2
+    emojify.el -> emojify.el
+    data => data
+Created emojify-1.2.tar containing:
+  emojify-1.2/
+  emojify-1.2/data/
+  emojify-1.2/data/emoji-sets.json
+  emojify-1.2/data/emoji.json
+  emojify-1.2/emojify-pkg.el
+  emojify-1.2/emojify.el
+Built emojify in 2.832s, finished at Wed May 19 04:30:58 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  411 May 19 04:30 packages-stable/emojify-1.2.entry
+892K -rw-r--r-- 1 root root 890K May 19 04:30 packages-stable/emojify-1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emojify-badge.svg
+4.0K -rw-r--r-- 1 root root  196 May 19 04:30 packages-stable/emojify-logos.log
+4.0K -rw-r--r-- 1 root root  407 May 19 04:30 packages-stable/emojify-readme.txt

@@ -1,0 +1,6 @@
+Package: pcmpl-git
+Fetcher: github
+Source:  https://github.com/leoliu/pcmpl-git-el.git
+
+Updating /mnt/store/melpa/working/pcmpl-git/
+No valid stable versions found for pcmpl-git

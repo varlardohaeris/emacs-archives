@@ -1,0 +1,6 @@
+Package: ace-mc
+Fetcher: github
+Source:  https://github.com/mm--/ace-mc.git
+
+Updating /mnt/store/melpa/working/ace-mc/
+No valid stable versions found for ace-mc

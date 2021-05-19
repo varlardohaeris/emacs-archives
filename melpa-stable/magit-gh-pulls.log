@@ -1,0 +1,11 @@
+Package: magit-gh-pulls
+Fetcher: github
+Source:  https://github.com/sigma/magit-gh-pulls.git
+
+Updating /mnt/store/melpa/working/magit-gh-pulls/
+Built magit-gh-pulls in 3.008s, finished at Wed May 19 01:33:33 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  27K May 19 01:33 packages-stable/magit-gh-pulls-0.5.3.el
+4.0K -rw-r--r-- 1 root root  472 May 19 01:33 packages-stable/magit-gh-pulls-0.5.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-gh-pulls-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-gh-pulls-readme.txt

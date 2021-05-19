@@ -1,0 +1,21 @@
+Package: egison-mode
+Fetcher: github
+Source:  https://github.com/egison/egison.git
+
+Updating /mnt/store/melpa/working/egison-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/egison-mode/
+  to /tmp/egison-mode9rtng4/egison-mode-4.1.2
+  ! elisp/egison-mode.el -> egison-mode.el
+  ! elisp/s-egison-mode.el -> s-egison-mode.el
+Created egison-mode-4.1.2.tar containing:
+  egison-mode-4.1.2/
+  egison-mode-4.1.2/egison-mode-pkg.el
+  egison-mode-4.1.2/egison-mode.el
+  egison-mode-4.1.2/s-egison-mode.el
+Built egison-mode in 3.766s, finished at Wed May 19 04:29:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  346 May 19 04:29 packages-stable/egison-mode-4.1.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:29 packages-stable/egison-mode-4.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/egison-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  267 May 19 04:29 packages-stable/egison-mode-readme.txt

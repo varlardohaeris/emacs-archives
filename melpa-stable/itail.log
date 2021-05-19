@@ -1,0 +1,6 @@
+Package: itail
+Fetcher: github
+Source:  https://github.com/re5et/itail.git
+
+Updating /mnt/store/melpa/working/itail/
+No valid stable versions found for itail

@@ -1,0 +1,11 @@
+(rii .
+     [(1 0 0)
+      ((emacs
+	(24 3)))
+      "Reversible input interface for multiple input" single
+      ((:commit . "9df603a5c63ae38ec776e27dc93d3618e2b0fabe")
+       (:authors
+	("ROCKTAKEY" . "rocktakey@gmail.com"))
+       (:maintainer "ROCKTAKEY" . "rocktakey@gmail.com")
+       (:keywords "extensions" "tools")
+       (:url . "https://github.com/ROCKTAKEY/rii"))])

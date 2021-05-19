@@ -1,0 +1,32 @@
+Package: calfw
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-calfw.git
+
+Updating /mnt/store/melpa/working/calfw/
+Built calfw in 3.037s, finished at Wed May 19 04:22:34 2021
+ ✓ Success:
+112K -rw-r--r-- 1 root root 112K May 19 04:22 packages-stable/calfw-1.6.el
+4.0K -rw-r--r-- 1 root root  334 May 19 04:22 packages-stable/calfw-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/calfw-badge.svg
+8.0K -rw-r--r-- 1 root root 7.1K May 19 04:22 packages-stable/calfw-cal-1.6.el
+4.0K -rw-r--r-- 1 root root  303 May 19 04:22 packages-stable/calfw-cal-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/calfw-cal-badge.svg
+4.0K -rw-r--r-- 1 root root  223 May 19 04:22 packages-stable/calfw-cal-readme.txt
+4.0K -rw-r--r-- 1 root root  538 May 19 04:22 packages-stable/calfw-cal.log
+4.0K -rw-r--r-- 1 root root  181 May 19 04:22 packages-stable/calfw-gcal.log
+ 12K -rw-r--r-- 1 root root 8.7K May 19 04:22 packages-stable/calfw-howm-1.6.el
+4.0K -rw-r--r-- 1 root root  304 May 19 04:22 packages-stable/calfw-howm-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:07 packages-stable/calfw-howm-badge.svg
+4.0K -rw-r--r-- 1 root root  429 May 19 04:22 packages-stable/calfw-howm-readme.txt
+4.0K -rw-r--r-- 1 root root  136 May 19 04:22 packages-stable/calfw-howm.log
+ 12K -rw-r--r-- 1 root root  11K May 19 01:07 packages-stable/calfw-ical-1.6.el
+4.0K -rw-r--r-- 1 root root  311 May 19 01:07 packages-stable/calfw-ical-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:07 packages-stable/calfw-ical-badge.svg
+4.0K -rw-r--r-- 1 root root  406 May 19 01:07 packages-stable/calfw-ical-readme.txt
+4.0K -rw-r--r-- 1 root root  136 May 19 04:22 packages-stable/calfw-ical.log
+ 20K -rw-r--r-- 1 root root  19K May 19 01:07 packages-stable/calfw-org-1.6.el
+4.0K -rw-r--r-- 1 root root  308 May 19 01:07 packages-stable/calfw-org-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:07 packages-stable/calfw-org-badge.svg
+4.0K -rw-r--r-- 1 root root  283 May 19 01:07 packages-stable/calfw-org-readme.txt
+4.0K -rw-r--r-- 1 root root  134 May 19 04:22 packages-stable/calfw-org.log
+4.0K -rw-r--r-- 1 root root  254 May 19 04:22 packages-stable/calfw-readme.txt

@@ -1,3 +1,4 @@
+
 `soliare-mode' is inspired by editors who visually distinguish code-editing
 windows from sidebars, popups, terminals, ecetera. It changes the background
 of file-visiting buffers (and certain aspects of the UI) to make them easier
@@ -5,7 +6,7 @@ to distinguish from other, not-so-important buffers.
 
 Praise the sun.
 
-Installation
+; Installation
 
 M-x package-install RET solaire-mode
 

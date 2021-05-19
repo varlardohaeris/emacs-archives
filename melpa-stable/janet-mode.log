@@ -1,0 +1,6 @@
+Package: janet-mode
+Fetcher: github
+Source:  https://github.com/ALSchwalm/janet-mode.git
+
+Updating /mnt/store/melpa/working/janet-mode/
+No valid stable versions found for janet-mode

@@ -1,0 +1,6 @@
+Package: ob-fsharp
+Fetcher: github
+Source:  https://github.com/juergenhoetzel/ob-fsharp.git
+
+Updating /mnt/store/melpa/working/ob-fsharp/
+No valid stable versions found for ob-fsharp

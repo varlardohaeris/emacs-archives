@@ -1,4 +1,5 @@
-~/.emacs.d/init.el
+
+; ~/.emacs.d/init.el
 
 (with-eval-after-load 'company-ngram
   ; ~/data/ngram/*.txt are used as data

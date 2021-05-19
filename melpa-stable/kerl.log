@@ -1,0 +1,6 @@
+Package: kerl
+Fetcher: github
+Source:  https://github.com/correl/kerl.el.git
+
+Updating /mnt/store/melpa/working/kerl/
+No valid stable versions found for kerl

@@ -1,0 +1,6 @@
+Package: bap-mode
+Fetcher: github
+Source:  https://github.com/BinaryAnalysisPlatform/bap-mode.git
+
+Updating /mnt/store/melpa/working/bap-mode/
+No valid stable versions found for bap-mode

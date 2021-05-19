@@ -1,3 +1,4 @@
+
 This file implements communcation with the KWin window manager from
 KDE. This is not really a repl, as KWin does not keep the state
 between scripts.

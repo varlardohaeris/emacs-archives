@@ -1,0 +1,6 @@
+Package: flucui-themes
+Fetcher: github
+Source:  https://github.com/MetroWind/flucui-theme.git
+
+Updating /mnt/store/melpa/working/flucui-themes/
+No valid stable versions found for flucui-themes

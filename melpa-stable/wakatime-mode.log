@@ -1,0 +1,6 @@
+Package: wakatime-mode
+Fetcher: github
+Source:  https://github.com/wakatime/wakatime-mode.git
+
+Updating /mnt/store/melpa/working/wakatime-mode/
+No valid stable versions found for wakatime-mode

@@ -1,0 +1,6 @@
+Package: pcmpl-args
+Fetcher: github
+Source:  https://github.com/JonWaltman/pcmpl-args.el.git
+
+Updating /mnt/store/melpa/working/pcmpl-args/
+No valid stable versions found for pcmpl-args

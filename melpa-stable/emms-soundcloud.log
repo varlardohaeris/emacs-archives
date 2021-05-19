@@ -1,0 +1,6 @@
+Package: emms-soundcloud
+Fetcher: github
+Source:  https://github.com/osener/emms-soundcloud.git
+
+Updating /mnt/store/melpa/working/emms-soundcloud/
+No valid stable versions found for emms-soundcloud

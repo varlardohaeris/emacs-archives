@@ -1,0 +1,11 @@
+Package: company-org-roam
+Fetcher: github
+Source:  https://github.com/org-roam/company-org-roam.git
+
+Updating /mnt/store/melpa/working/company-org-roam/
+Built company-org-roam in 5.914s, finished at Sun Jan 17 20:17:32 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.4K Jan 17 20:17 packages-stable/company-org-roam-0.1.el
+4.0K -rw-r--r-- 1 root root  472 Jan 17 20:17 packages-stable/company-org-roam-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Jan 17 20:17 packages-stable/company-org-roam-badge.svg
+4.0K -rw-r--r-- 1 root root  177 Jan 17 20:17 packages-stable/company-org-roam-readme.txt

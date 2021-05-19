@@ -1,0 +1,11 @@
+Package: helm-robe
+Fetcher: github
+Source:  https://github.com/emacsorphanage/helm-robe.git
+
+Updating /mnt/store/melpa/working/helm-robe/
+Built helm-robe in 3.010s, finished at Wed May 19 04:41:06 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.6K May 19 04:41 packages-stable/helm-robe-0.2.el
+4.0K -rw-r--r-- 1 root root  346 May 19 04:41 packages-stable/helm-robe-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-robe-badge.svg
+4.0K -rw-r--r-- 1 root root  228 May 19 04:41 packages-stable/helm-robe-readme.txt

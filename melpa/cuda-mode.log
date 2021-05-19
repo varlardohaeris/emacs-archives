@@ -1,0 +1,11 @@
+Package: cuda-mode
+Fetcher: github
+Source:  https://github.com/chachi/cuda-mode.git
+
+Updating /mnt/store/melpa/working/cuda-mode/
+Built cuda-mode in 4.376s, finished at Wed May 19 03:09:15 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 03:09 packages/cuda-mode-20201013.2230.el
+4.0K -rw-r--r-- 1 root root  307 May 19 03:09 packages/cuda-mode-20201013.2230.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:09 packages/cuda-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   72 May 19 03:09 packages/cuda-mode-readme.txt

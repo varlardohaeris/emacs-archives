@@ -1,2 +1,9 @@
-
-(buffer-utils . [(0 1 0) nil "Buffer-manipulation utility functions" single ((:commit . "b4d325543e25518d725a2122b49cd72a0d6a079a") (:keywords "extensions") (:authors ("Roland Walker" . "walker@pobox.com")) (:maintainer "Roland Walker" . "walker@pobox.com") (:url . "http://github.com/rolandwalker/buffer-utils"))])
+(buffer-utils .
+	      [(0 1 0)
+	       nil "Buffer-manipulation utility functions" single
+	       ((:commit . "b4d325543e25518d725a2122b49cd72a0d6a079a")
+		(:authors
+		 ("Roland Walker" . "walker@pobox.com"))
+		(:maintainer "Roland Walker" . "walker@pobox.com")
+		(:keywords "extensions")
+		(:url . "http://github.com/rolandwalker/buffer-utils"))])

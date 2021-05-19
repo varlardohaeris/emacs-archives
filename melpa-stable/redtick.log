@@ -1,0 +1,12 @@
+Package: redtick
+Fetcher: github
+Source:  https://github.com/ferfebles/redtick.git
+
+Updating /mnt/store/melpa/working/redtick/
+Note: redtick :files spec is equivalent to the default.
+Built redtick in 8.405s, finished at Wed May 19 01:46:07 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K May 19 01:46 packages-stable/redtick-0.1.1.el
+4.0K -rw-r--r-- 1 root root  302 May 19 01:46 packages-stable/redtick-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/redtick-badge.svg
+4.0K -rw-r--r-- 1 root root  548 May 19 01:46 packages-stable/redtick-readme.txt

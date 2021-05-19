@@ -1,0 +1,6 @@
+Package: flycheck-cython
+Fetcher: github
+Source:  https://github.com/lbolla/emacs-flycheck-cython.git
+
+Updating /mnt/store/melpa/working/flycheck-cython/
+No valid stable versions found for flycheck-cython

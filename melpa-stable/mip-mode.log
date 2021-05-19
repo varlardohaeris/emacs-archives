@@ -1,0 +1,6 @@
+Package: mip-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/gaudecker/mip-mode.git
+
+Updating /mnt/store/melpa/working/mip-mode/
+No valid stable versions found for mip-mode

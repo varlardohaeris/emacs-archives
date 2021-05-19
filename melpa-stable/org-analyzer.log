@@ -1,0 +1,22 @@
+Package: org-analyzer
+Fetcher: github
+Source:  https://github.com/rksm/clj-org-analyzer.git
+
+Updating /mnt/store/melpa/working/org-analyzer/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-analyzer/
+  to /tmp/org-analyzer4BP8Vg/org-analyzer-1.0.4
+  ! org-analyzer-el/org-analyzer.jar -> org-analyzer.jar
+  ! org-analyzer-el/org-analyzer-pkg.el -> org-analyzer-pkg.el
+  ! org-analyzer-el/org-analyzer.el -> org-analyzer.el
+Created org-analyzer-1.0.4.tar containing:
+  org-analyzer-1.0.4/
+  org-analyzer-1.0.4/org-analyzer-pkg.el
+  org-analyzer-1.0.4/org-analyzer.el
+  org-analyzer-1.0.4/org-analyzer.jar
+Built org-analyzer in 3.380s, finished at Wed May 19 01:38:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  368 May 19 01:38 packages-stable/org-analyzer-1.0.4.entry
+ 14M -rw-r--r-- 1 root root  14M May 19 01:38 packages-stable/org-analyzer-1.0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/org-analyzer-badge.svg
+4.0K -rw-r--r-- 1 root root  503 May 19 01:38 packages-stable/org-analyzer-readme.txt

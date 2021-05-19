@@ -1,0 +1,26 @@
+Package: cl-format
+Fetcher: github
+Source:  https://github.com/alvinfrancis/cl-format.git
+
+Updating /mnt/store/melpa/working/cl-format/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cl-format/
+  to /tmp/cl-formatWZ2U74/cl-format-1.1
+    cl-format-builtins.el -> cl-format-builtins.el
+    cl-format-def.el -> cl-format-def.el
+    cl-format-pkg.el -> cl-format-pkg.el
+    cl-format.el -> cl-format.el
+    clisp-format.el -> clisp-format.el
+Created cl-format-1.1.tar containing:
+  cl-format-1.1/
+  cl-format-1.1/cl-format-builtins.el
+  cl-format-1.1/cl-format-def.el
+  cl-format-1.1/cl-format-pkg.el
+  cl-format-1.1/cl-format.el
+  cl-format-1.1/clisp-format.el
+Built cl-format in 2.740s, finished at Wed May 19 04:23:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  281 May 19 04:23 packages-stable/cl-format-1.1.entry
+140K -rw-r--r-- 1 root root 140K May 19 04:23 packages-stable/cl-format-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cl-format-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:23 packages-stable/cl-format-readme.txt

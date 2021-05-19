@@ -1,0 +1,6 @@
+Package: backup-walker
+Fetcher: github
+Source:  https://github.com/lewang/backup-walker.git
+
+Updating /mnt/store/melpa/working/backup-walker/
+No valid stable versions found for backup-walker

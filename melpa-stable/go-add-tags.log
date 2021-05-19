@@ -1,0 +1,11 @@
+Package: go-add-tags
+Fetcher: github
+Source:  https://github.com/emacsorphanage/go-add-tags.git
+
+Updating /mnt/store/melpa/working/go-add-tags/
+Built go-add-tags in 2.966s, finished at Wed May 19 04:37:52 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K May 19 04:37 packages-stable/go-add-tags-0.4.el
+4.0K -rw-r--r-- 1 root root  376 May 19 04:37 packages-stable/go-add-tags-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/go-add-tags-badge.svg
+4.0K -rw-r--r-- 1 root root  121 May 19 04:37 packages-stable/go-add-tags-readme.txt

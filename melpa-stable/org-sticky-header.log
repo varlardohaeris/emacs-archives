@@ -1,0 +1,11 @@
+Package: org-sticky-header
+Fetcher: github
+Source:  https://github.com/alphapapa/org-sticky-header.git
+
+Updating /mnt/store/melpa/working/org-sticky-header/
+Built org-sticky-header in 7.463s, finished at Wed May 19 01:40:20 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:40 packages-stable/org-sticky-header-1.1.el
+4.0K -rw-r--r-- 1 root root  454 May 19 01:40 packages-stable/org-sticky-header-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-sticky-header-badge.svg
+4.0K -rw-r--r-- 1 root root  714 May 19 01:40 packages-stable/org-sticky-header-readme.txt

@@ -1,0 +1,11 @@
+Package: wikinforg
+Fetcher: github
+Source:  https://github.com/progfolio/wikinforg.git
+
+Updating /mnt/store/melpa/working/wikinforg/
+Built wikinforg in 5.046s, finished at Wed May 19 04:15:01 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.2K May 19 04:15 packages/wikinforg-20210126.405.el
+4.0K -rw-r--r-- 1 root root  461 May 19 04:15 packages/wikinforg-20210126.405.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/wikinforg-badge.svg
+4.0K -rw-r--r-- 1 root root  157 May 19 04:15 packages/wikinforg-readme.txt

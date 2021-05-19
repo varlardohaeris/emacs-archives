@@ -1,0 +1,2 @@
+
+(echo-bell . [(20210422 553) nil "Show visual bell at right in the echo area." single ((:commit . "ec6b93c8b54d3127153b47fba196a655cf4a1d9c") (:keywords "echo area" "bell" "ding") (:authors ("Miles Bader" . "miles@gnu.org")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/echo-bell.el"))])

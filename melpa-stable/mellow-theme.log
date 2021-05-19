@@ -1,0 +1,6 @@
+Package: mellow-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-mellow-theme.git
+
+Updating /mnt/store/melpa/working/mellow-theme/
+No valid stable versions found for mellow-theme

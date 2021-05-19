@@ -1,0 +1,6 @@
+Package: kubernetes-tramp
+Fetcher: github
+Source:  https://github.com/gruggiero/kubernetes-tramp.git
+
+Updating /mnt/store/melpa/working/kubernetes-tramp/
+No valid stable versions found for kubernetes-tramp

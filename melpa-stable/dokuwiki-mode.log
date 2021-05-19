@@ -1,0 +1,11 @@
+Package: dokuwiki-mode
+Fetcher: github
+Source:  https://github.com/kai2nenobu/emacs-dokuwiki-mode.git
+
+Updating /mnt/store/melpa/working/dokuwiki-mode/
+Built dokuwiki-mode in 2.887s, finished at Wed May 19 04:28:35 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.0K May 19 04:28 packages-stable/dokuwiki-mode-0.1.1.el
+4.0K -rw-r--r-- 1 root root  372 May 19 04:28 packages-stable/dokuwiki-mode-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dokuwiki-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:28 packages-stable/dokuwiki-mode-readme.txt

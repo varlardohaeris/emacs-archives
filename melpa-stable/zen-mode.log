@@ -1,0 +1,11 @@
+Package: zen-mode
+Fetcher: github
+Source:  https://github.com/zenlang/zen-mode.git
+
+Updating /mnt/store/melpa/working/zen-mode/
+Built zen-mode in 3.433s, finished at Wed May 19 01:56:39 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 01:56 packages-stable/zen-mode-0.8.20200609.el
+4.0K -rw-r--r-- 1 root root  646 May 19 01:56 packages-stable/zen-mode-0.8.20200609.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zen-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   68 May 19 01:56 packages-stable/zen-mode-readme.txt

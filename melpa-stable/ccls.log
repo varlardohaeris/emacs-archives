@@ -1,0 +1,6 @@
+Package: ccls
+Fetcher: github
+Source:  https://github.com/MaskRay/emacs-ccls.git
+
+Updating /mnt/store/melpa/working/ccls/
+No valid stable versions found for ccls

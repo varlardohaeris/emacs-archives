@@ -1,0 +1,22 @@
+Package: rbtagger
+Fetcher: github
+Source:  https://github.com/thiagoa/rbtagger.git
+
+Updating /mnt/store/melpa/working/rbtagger/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rbtagger/
+  to /tmp/rbtaggervQd1Nb/rbtagger-0.3.4
+    rbtagger.el -> rbtagger.el
+    bin => bin
+Created rbtagger-0.3.4.tar containing:
+  rbtagger-0.3.4/
+  rbtagger-0.3.4/bin/
+  rbtagger-0.3.4/bin/ruby_index_tags
+  rbtagger-0.3.4/rbtagger-pkg.el
+  rbtagger-0.3.4/rbtagger.el
+Built rbtagger in 3.390s, finished at Wed May 19 01:45:31 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  369 May 19 01:45 packages-stable/rbtagger-0.3.4.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:45 packages-stable/rbtagger-0.3.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rbtagger-badge.svg
+4.0K -rw-r--r-- 1 root root  170 May 19 01:45 packages-stable/rbtagger-readme.txt

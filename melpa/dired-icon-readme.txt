@@ -1,3 +1,4 @@
+
 This package provides a minor mode `dired-icon-mode' to display an icon for
 each file type in dired buffers.  Currently MacOS and systems which run GTK
 3, such as GNU/Linux, GNU/kFreeBSD and FreeBSD, are fully supported

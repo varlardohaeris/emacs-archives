@@ -1,0 +1,11 @@
+Package: fringe-helper
+Fetcher: github
+Source:  https://github.com/nschum/fringe-helper.el.git
+
+Updating /mnt/store/melpa/working/fringe-helper/
+Built fringe-helper in 3.016s, finished at Wed May 19 04:36:21 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:36 packages-stable/fringe-helper-1.0.1.el
+4.0K -rw-r--r-- 1 root root  341 May 19 04:36 packages-stable/fringe-helper-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fringe-helper-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 04:36 packages-stable/fringe-helper-readme.txt

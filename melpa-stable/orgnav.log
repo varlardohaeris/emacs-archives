@@ -1,0 +1,6 @@
+Package: orgnav
+Fetcher: github
+Source:  https://github.com/facetframer/orgnav.git
+
+Updating /mnt/store/melpa/working/orgnav/
+No valid stable versions found for orgnav

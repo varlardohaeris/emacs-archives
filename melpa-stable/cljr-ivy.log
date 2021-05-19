@@ -1,0 +1,6 @@
+Package: cljr-ivy
+Fetcher: github
+Source:  https://github.com/wandersoncferreira/cljr-ivy.git
+
+Updating /mnt/store/melpa/working/cljr-ivy/
+No valid stable versions found for cljr-ivy

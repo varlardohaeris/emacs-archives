@@ -1,0 +1,6 @@
+Package: gomacro-mode
+Fetcher: github
+Source:  https://github.com/storvik/gomacro-mode.git
+
+Updating /mnt/store/melpa/working/gomacro-mode/
+No valid stable versions found for gomacro-mode

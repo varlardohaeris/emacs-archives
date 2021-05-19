@@ -1,0 +1,11 @@
+Package: maxframe
+Fetcher: github
+Source:  https://github.com/rmm5t/maxframe.el.git
+
+Updating /mnt/store/melpa/working/maxframe/
+Built maxframe in 6.888s, finished at Wed May 19 01:34:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.4K May 19 01:34 packages-stable/maxframe-0.5.el
+4.0K -rw-r--r-- 1 root root  256 May 19 01:34 packages-stable/maxframe-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/maxframe-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/maxframe-readme.txt

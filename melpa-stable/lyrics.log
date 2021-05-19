@@ -1,0 +1,6 @@
+Package: lyrics
+Fetcher: github
+Source:  https://github.com/emacs-pe/lyrics.el.git
+
+Updating /mnt/store/melpa/working/lyrics/
+No valid stable versions found for lyrics

@@ -1,0 +1,6 @@
+Package: company-glsl
+Fetcher: github
+Source:  https://github.com/guidoschmidt/company-glsl.git
+
+Updating /mnt/store/melpa/working/company-glsl/
+No valid stable versions found for company-glsl

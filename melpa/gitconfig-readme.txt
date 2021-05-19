@@ -1,3 +1,4 @@
+
   Manual Installation:
 
    (add-to-list 'load-path "~/path/to/gitconfig.el/")

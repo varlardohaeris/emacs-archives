@@ -1,0 +1,21 @@
+Package: god-mode
+Fetcher: github
+Source:  https://github.com/emacsorphanage/god-mode.git
+
+Updating /mnt/store/melpa/working/god-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/god-mode/
+  to /tmp/god-modenvGQhw/god-mode-2.17.3
+    god-mode-isearch.el -> god-mode-isearch.el
+    god-mode.el -> god-mode.el
+Created god-mode-2.17.3.tar containing:
+  god-mode-2.17.3/
+  god-mode-2.17.3/god-mode-isearch.el
+  god-mode-2.17.3/god-mode-pkg.el
+  god-mode-2.17.3/god-mode.el
+Built god-mode in 2.920s, finished at Wed May 19 04:38:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  342 May 19 04:38 packages-stable/god-mode-2.17.3.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:38 packages-stable/god-mode-2.17.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/god-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   69 May 19 04:38 packages-stable/god-mode-readme.txt

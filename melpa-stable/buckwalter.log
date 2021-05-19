@@ -1,0 +1,6 @@
+Package: buckwalter
+Fetcher: github
+Source:  https://github.com/joehakimrahme/buckwalter.el.git
+
+Updating /mnt/store/melpa/working/buckwalter/
+No valid stable versions found for buckwalter

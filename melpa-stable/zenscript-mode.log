@@ -1,0 +1,31 @@
+Package: zenscript-mode
+Fetcher: github
+Source:  https://github.com/eutro/zenscript-mode.git
+
+Updating /mnt/store/melpa/working/zenscript-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/zenscript-mode/
+  to /tmp/zenscript-mode3ZEKq2/zenscript-mode-1.2.1
+    zenscript-common.el -> zenscript-common.el
+    zenscript-completion.el -> zenscript-completion.el
+    zenscript-highlighting.el -> zenscript-highlighting.el
+    zenscript-indentation.el -> zenscript-indentation.el
+    zenscript-language.el -> zenscript-language.el
+    zenscript-mode.el -> zenscript-mode.el
+    zenscript-parser.el -> zenscript-parser.el
+Created zenscript-mode-1.2.1.tar containing:
+  zenscript-mode-1.2.1/
+  zenscript-mode-1.2.1/zenscript-common.el
+  zenscript-mode-1.2.1/zenscript-completion.el
+  zenscript-mode-1.2.1/zenscript-highlighting.el
+  zenscript-mode-1.2.1/zenscript-indentation.el
+  zenscript-mode-1.2.1/zenscript-language.el
+  zenscript-mode-1.2.1/zenscript-mode-pkg.el
+  zenscript-mode-1.2.1/zenscript-mode.el
+  zenscript-mode-1.2.1/zenscript-parser.el
+Built zenscript-mode in 3.087s, finished at Wed May 19 01:56:41 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  212 May 19 01:56 packages-stable/zenscript-mode-1.2.1.entry
+132K -rw-r--r-- 1 root root 130K May 19 01:56 packages-stable/zenscript-mode-1.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zenscript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   26 May 19 01:56 packages-stable/zenscript-mode-readme.txt

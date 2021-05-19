@@ -1,0 +1,6 @@
+Package: helm-idris
+Fetcher: github
+Source:  https://github.com/david-christiansen/helm-idris.git
+
+Updating /mnt/store/melpa/working/helm-idris/
+No valid stable versions found for helm-idris

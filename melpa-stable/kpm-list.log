@@ -1,0 +1,6 @@
+Package: kpm-list
+Fetcher: github
+Source:  https://github.com/KMahoney/kpm-list.git
+
+Updating /mnt/store/melpa/working/kpm-list/
+No valid stable versions found for kpm-list

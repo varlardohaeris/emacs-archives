@@ -1,0 +1,11 @@
+Package: macro-math
+Fetcher: github
+Source:  https://github.com/nschum/macro-math.el.git
+
+Updating /mnt/store/melpa/working/macro-math/
+Built macro-math in 3.153s, finished at Wed May 19 01:33:24 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.7K May 19 01:33 packages-stable/macro-math-1.0.el
+4.0K -rw-r--r-- 1 root root  363 May 19 01:33 packages-stable/macro-math-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/macro-math-badge.svg
+4.0K -rw-r--r-- 1 root root  917 May 19 01:33 packages-stable/macro-math-readme.txt

@@ -1,0 +1,11 @@
+Package: ytdl
+Fetcher: gitlab
+Source:  https://gitlab.com/tuedachu/ytdl.git
+
+Updating /mnt/store/melpa/working/ytdl/
+Built ytdl in 3.388s, finished at Wed May 19 01:56:34 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  40K May 19 01:56 packages-stable/ytdl-1.3.6.el
+4.0K -rw-r--r-- 1 root root  414 May 19 01:56 packages-stable/ytdl-1.3.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/ytdl-badge.svg
+4.0K -rw-r--r-- 1 root root  431 May 19 01:56 packages-stable/ytdl-readme.txt

@@ -1,0 +1,6 @@
+Package: config-general-mode
+Fetcher: github
+Source:  https://github.com/TLINDEN/config-general-mode.git
+
+Updating /mnt/store/melpa/working/config-general-mode/
+No valid stable versions found for config-general-mode

@@ -1,0 +1,6 @@
+Package: csgo-conf-mode
+Fetcher: github
+Source:  https://github.com/wynro/emacs-csgo-conf-mode.git
+
+Updating /mnt/store/melpa/working/csgo-conf-mode/
+No valid stable versions found for csgo-conf-mode

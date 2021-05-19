@@ -1,0 +1,11 @@
+Package: helm-bm
+Fetcher: github
+Source:  https://github.com/yasuyk/helm-bm.git
+
+Updating /mnt/store/melpa/working/helm-bm/
+Built helm-bm in 2.941s, finished at Wed May 19 04:39:51 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.7K May 19 04:39 packages-stable/helm-bm-0.3.el
+4.0K -rw-r--r-- 1 root root  403 May 19 04:39 packages-stable/helm-bm-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-bm-badge.svg
+4.0K -rw-r--r-- 1 root root  170 May 19 04:39 packages-stable/helm-bm-readme.txt

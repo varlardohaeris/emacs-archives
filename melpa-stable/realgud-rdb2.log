@@ -1,0 +1,6 @@
+Package: realgud-rdb2
+Fetcher: github
+Source:  https://github.com/realgud/realgud-ruby-debugger2.git
+
+Updating /mnt/store/melpa/working/realgud-rdb2/
+No valid stable versions found for realgud-rdb2

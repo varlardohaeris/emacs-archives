@@ -1,0 +1,11 @@
+Package: modern-cpp-font-lock
+Fetcher: github
+Source:  https://github.com/ludwigpacifici/modern-cpp-font-lock.git
+
+Updating /mnt/store/melpa/working/modern-cpp-font-lock/
+Built modern-cpp-font-lock in 4.077s, finished at Wed May 19 01:35:45 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 01:35 packages-stable/modern-cpp-font-lock-0.1.3.el
+4.0K -rw-r--r-- 1 root root  392 May 19 01:35 packages-stable/modern-cpp-font-lock-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/modern-cpp-font-lock-badge.svg
+4.0K -rw-r--r-- 1 root root  759 May 19 01:35 packages-stable/modern-cpp-font-lock-readme.txt

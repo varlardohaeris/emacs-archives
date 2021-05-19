@@ -21,7 +21,7 @@ It supports imenu and syntax highlighting.
 
 $Id: dtrace-script-mode.el,v 1.4 2007/07/17 22:10:23 akolb Exp $
 
-This file is NOT part of GNU Emacs
+; This file is NOT part of GNU Emacs
 
 Copyright (c) 2007, Alexander Kolbasov
 All rights reserved.

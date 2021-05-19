@@ -1,0 +1,6 @@
+Package: memento-mori
+Fetcher: github
+Source:  https://github.com/lassik/emacs-memento-mori.git
+
+Updating /mnt/store/melpa/working/memento-mori/
+No valid stable versions found for memento-mori

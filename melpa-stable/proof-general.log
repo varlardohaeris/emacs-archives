@@ -1,0 +1,6 @@
+Package: proof-general
+Fetcher: github
+Source:  https://github.com/ProofGeneral/PG.git
+
+Updating /mnt/store/melpa/working/proof-general/
+proof-general[-pkg].el matching package name is missing

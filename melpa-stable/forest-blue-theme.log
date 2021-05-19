@@ -1,0 +1,6 @@
+Package: forest-blue-theme
+Fetcher: github
+Source:  https://github.com/olkinn/forest-blue-emacs.git
+
+Updating /mnt/store/melpa/working/forest-blue-theme/
+No valid stable versions found for forest-blue-theme

@@ -26,8 +26,47 @@ Usage,
 Customize `mybigword-excluded-words' or `mybigword-personal-excluded-words' to
 exclude words.
 
-Customize `mybigword-default-format-function' to format the word for display.
-If it's `mybigword-format-with-dictionary', the `dictionary-definition' is used to
-find the definitions of all big words.
+Tips,
 
-Customize `mybigword-hide-word-function' to hide word for display
+  1. Customize `mybigword-default-format-function' to format the word for display.
+  If it's `mybigword-format-with-dictionary', the `dictionary-definition' is used to
+  find the definitions of all big words.
+
+  Sample to display the dictionary definitions of big words:
+
+    (let* ((mybigword-default-format-function 'mybigword-format-with-dictionary))
+      (mybigword-show-big-words-from-current-buffer))
+
+  You can also set `mybigword-default-format-header-function' to add a header before
+  displaying words.
+
+  Customize `mybigword-hide-word-function' to hide word for display
+
+
+  2. Parse the *.srt to play the video containing the word in org file
+  Make sure the org tree node has the property SRT_PATH.
+  Mplayer is required to play the video.  See `mybigword-mplayer-program' for details.
+
+  Sample of org file:
+   * Star Trek s06e26
+     :PROPERTIES:
+     :SRT_PATH: ~/Star.Trek.DS9-s06e26.Tears.of.the.Prophets.srt
+     :END:
+   telepathic egotist
+
+  Move focus over the word like "egotist".  Run "M-x mybigword-play-video-of-word-at-point".
+  Then mplayer plays the corresponding video at the time the word is spoken.
+  If video is missing, the mp3 with similar name is played.
+  See `mybigword-video2mp3' on how to generate mp3 from video files.
+
+  Please note `mybigword-play-video-of-word-at-point' can be used in other major modes.
+  See `mybigword-default-media-info-function' for details.
+
+
+  3. Use `mybigword-pronounce-word' to pronounce the word at point.
+  The word's audio is downloaded from https://dictionary.cambridge.org
+  The audio download url could be customized in `mybigword-default-audio-url-function'.
+
+  4. Use `mybigword-show-image-of-word' to show images of the word at point
+  in external browser.  Please note `browse-url-generic' is used in this
+  command.

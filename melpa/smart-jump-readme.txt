@@ -1,1 +1,1 @@
-Smart go to definition.
+; Smart go to definition.

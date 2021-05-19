@@ -1,0 +1,6 @@
+Package: gvpr-mode
+Fetcher: github
+Source:  https://github.com/rodw/gvpr-lib.git
+
+Updating /mnt/store/melpa/working/gvpr-mode/
+No valid stable versions found for gvpr-mode

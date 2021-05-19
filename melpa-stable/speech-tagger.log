@@ -1,0 +1,10 @@
+Package: speech-tagger
+Fetcher: github
+Source:  https://github.com/cosmicexplorer/speech-tagger.git
+
+Updating /mnt/store/melpa/working/speech-tagger/
+Built speech-tagger in 4.195s, finished at Wed May 19 01:49:55 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  118 May 19 01:49 packages-stable/speech-tagger-0.0.0.el
+4.0K -rw-r--r-- 1 root root  136 May 19 01:49 packages-stable/speech-tagger-0.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/speech-tagger-badge.svg

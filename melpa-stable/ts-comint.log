@@ -1,0 +1,6 @@
+Package: ts-comint
+Fetcher: github
+Source:  https://github.com/emacs-typescript/ts-comint.git
+
+Updating /mnt/store/melpa/working/ts-comint/
+No valid stable versions found for ts-comint

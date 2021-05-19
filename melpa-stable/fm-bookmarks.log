@@ -1,0 +1,6 @@
+Package: fm-bookmarks
+Fetcher: github
+Source:  https://github.com/kuanyui/fm-bookmarks.el.git
+
+Updating /mnt/store/melpa/working/fm-bookmarks/
+No valid stable versions found for fm-bookmarks

@@ -1,0 +1,11 @@
+Package: dockerfile-mode
+Fetcher: github
+Source:  https://github.com/spotify/dockerfile-mode.git
+
+Updating /mnt/store/melpa/working/dockerfile-mode/
+Built dockerfile-mode in 2.879s, finished at Wed May 19 04:28:31 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.5K May 19 04:28 packages-stable/dockerfile-mode-1.4.el
+4.0K -rw-r--r-- 1 root root  233 May 19 04:28 packages-stable/dockerfile-mode-1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dockerfile-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  159 May 19 04:28 packages-stable/dockerfile-mode-readme.txt

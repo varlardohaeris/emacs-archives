@@ -1,0 +1,6 @@
+Package: helm-hunks
+Fetcher: github
+Source:  https://github.com/torgeir/helm-hunks.el.git
+
+Updating /mnt/store/melpa/working/helm-hunks/
+No valid stable versions found for helm-hunks

@@ -6,7 +6,7 @@
    M-x customize-group dired-faces  RET
  may do some help for you.
 
-Installation:
+; Installation:
 
 Put `dired-filetype-face.el' in your load-path.
 Your load-path might include the directory ~/elisp/, for example.

@@ -1,0 +1,20 @@
+Package: inform
+Fetcher: github
+Source:  https://github.com/dieter-wilhelm/inform.git
+
+Updating /mnt/store/melpa/working/inform/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/inform/
+  to /tmp/informfj2gsO/inform-1.3
+    inform-pkg.el -> inform-pkg.el
+    inform.el -> inform.el
+Created inform-1.3.tar containing:
+  inform-1.3/
+  inform-1.3/inform-pkg.el
+  inform-1.3/inform.el
+Built inform in 2.735s, finished at Wed May 19 04:43:19 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  375 May 19 04:43 packages-stable/inform-1.3.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:43 packages-stable/inform-1.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/inform-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 04:43 packages-stable/inform-readme.txt

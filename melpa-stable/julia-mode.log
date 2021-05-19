@@ -1,0 +1,21 @@
+Package: julia-mode
+Fetcher: github
+Source:  https://github.com/JuliaEditorSupport/julia-emacs.git
+
+Updating /mnt/store/melpa/working/julia-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/julia-mode/
+  to /tmp/julia-modetcxHum/julia-mode-0.4
+    julia-mode-latexsubs.el -> julia-mode-latexsubs.el
+    julia-mode.el -> julia-mode.el
+Created julia-mode-0.4.tar containing:
+  julia-mode-0.4/
+  julia-mode-0.4/julia-mode-latexsubs.el
+  julia-mode-0.4/julia-mode-pkg.el
+  julia-mode-0.4/julia-mode.el
+Built julia-mode in 2.895s, finished at Wed May 19 04:45:13 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  274 May 19 04:45 packages-stable/julia-mode-0.4.entry
+180K -rw-r--r-- 1 root root 180K May 19 04:45 packages-stable/julia-mode-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/julia-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   60 May 19 04:45 packages-stable/julia-mode-readme.txt

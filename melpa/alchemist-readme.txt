@@ -1,3 +1,4 @@
+
  What Does Alchemist Do For You?
 
    Alchemist brings you all the Elixir tooling and power inside your Emacs editor.

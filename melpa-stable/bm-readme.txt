@@ -1,4 +1,4 @@
-Description:
+; Description:
 
   This package was created because I missed the bookmarks from M$
   Visual Studio. I find that they provide an easy way to navigate
@@ -56,7 +56,7 @@ Description:
      `bm-modeline-display-total'.
 
 
-Known limitations:
+; Known limitations:
 
   This package is developed and tested on GNU Emacs 23.x. It should
   work on all GNU Emacs 21.x, GNU Emacs 22.x and also on XEmacs
@@ -72,7 +72,7 @@ Known limitations:
   overlay hooks i XEmacs.
 
 
-Installation:
+; Installation:
 
   To use bm.el, put it in your load-path and add
   the following to your .emacs
@@ -87,7 +87,7 @@ or
 
 
 
-Configuration:
+; Configuration:
 
   To make it easier to use, assign the commands to some keys.
 
@@ -124,7 +124,7 @@ Configuration:
 
 
 
-Persistence:
+; Persistence:
 
   Bookmark persistence is achieved by storing bookmark data in a
   repository when a buffer is killed. The repository is saved to
@@ -198,7 +198,7 @@ Persistence:
 
 
 
-Acknowledgements:
+; Acknowledgements:
 
  - The use of overlays for bookmarks was inspired by highline.el by
    Vinicius Jose Latorre <vinicius(at)cpqd.com.br>.

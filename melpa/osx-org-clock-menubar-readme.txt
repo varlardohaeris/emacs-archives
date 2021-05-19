@@ -1,3 +1,4 @@
+
 This tool will display your current org-clock task in the osx menubar
 like org-clock displays it in the modeline
 

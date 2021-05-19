@@ -1,0 +1,11 @@
+Package: async-await
+Fetcher: github
+Source:  https://github.com/chuntaro/emacs-async-await.git
+
+Updating /mnt/store/melpa/working/async-await/
+Built async-await in 2.816s, finished at Wed May 19 04:19:54 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K May 19 04:19 packages-stable/async-await-1.1.el
+4.0K -rw-r--r-- 1 root root  441 May 19 04:19 packages-stable/async-await-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/async-await-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 04:19 packages-stable/async-await-readme.txt

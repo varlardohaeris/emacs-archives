@@ -1,2 +1,9 @@
-
-(gather . [(1 1 0) nil "Gather string in buffer." single ((:commit . "303af57dd2ae0fc1363a3d1a84d475167f58c84a") (:keywords "matching" "convenience" "tools") (:authors ("Masahiro Hayashi" . "mhayashi1120@gmail.com")) (:maintainer "Masahiro Hayashi" . "mhayashi1120@gmail.com") (:url . "https://github.com/mhayashi1120/Emacs-gather/raw/master/gather.el"))])
+(gather .
+	[(1 1 0)
+	 nil "Gather string in buffer." single
+	 ((:commit . "303af57dd2ae0fc1363a3d1a84d475167f58c84a")
+	  (:authors
+	   ("Masahiro Hayashi" . "mhayashi1120@gmail.com"))
+	  (:maintainer "Masahiro Hayashi" . "mhayashi1120@gmail.com")
+	  (:keywords "matching" "convenience" "tools")
+	  (:url . "https://github.com/mhayashi1120/Emacs-gather/raw/master/gather.el"))])

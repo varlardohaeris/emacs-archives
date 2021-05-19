@@ -1,0 +1,6 @@
+Package: wwg
+Fetcher: github
+Source:  https://github.com/ag91/writer-word-goals.git
+
+Updating /mnt/store/melpa/working/wwg/
+No valid stable versions found for wwg

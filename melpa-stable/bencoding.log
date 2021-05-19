@@ -1,0 +1,6 @@
+Package: bencoding
+Fetcher: github
+Source:  https://github.com/xuchunyang/bencoding.el.git
+
+Updating /mnt/store/melpa/working/bencoding/
+No valid stable versions found for bencoding

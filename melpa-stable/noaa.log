@@ -1,0 +1,6 @@
+Package: noaa
+Fetcher: github
+Source:  https://github.com/thomp/noaa.git
+
+Updating /mnt/store/melpa/working/noaa/
+No valid stable versions found for noaa

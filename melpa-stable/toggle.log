@@ -1,0 +1,6 @@
+Package: toggle
+Fetcher: github
+Source:  https://github.com/zenspider/elisp.git
+
+Updating /mnt/store/melpa/working/toggle/
+No valid stable versions found for toggle

@@ -1,0 +1,11 @@
+Package: nofrils-acme-theme
+Fetcher: gitlab
+Source:  https://gitlab.com/esessoms/nofrils-theme.git
+
+Updating /mnt/store/melpa/working/nofrils-acme-theme/
+Built nofrils-acme-theme in 3.050s, finished at Wed May 19 01:37:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.7K May 19 01:37 packages-stable/nofrils-acme-theme-0.1.0.el
+4.0K -rw-r--r-- 1 root root  386 May 19 01:37 packages-stable/nofrils-acme-theme-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nofrils-acme-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  236 May 19 01:37 packages-stable/nofrils-acme-theme-readme.txt

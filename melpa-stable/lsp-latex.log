@@ -1,0 +1,11 @@
+Package: lsp-latex
+Fetcher: github
+Source:  https://github.com/ROCKTAKEY/lsp-latex.git
+
+Updating /mnt/store/melpa/working/lsp-latex/
+Built lsp-latex in 3.294s, finished at Wed May 19 01:33:05 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 01:33 packages-stable/lsp-latex-1.3.0.el
+4.0K -rw-r--r-- 1 root root  410 May 19 01:33 packages-stable/lsp-latex-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-latex-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 01:33 packages-stable/lsp-latex-readme.txt

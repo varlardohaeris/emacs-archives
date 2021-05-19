@@ -40,7 +40,7 @@ Package.el compatible version can be found at
   https://github.com/gleber/fastnav.el
 it has been uploaded to ELPA and Marmalade
 
-Changes Log:
+; Changes Log:
   2010-02-05: Fix for org mode, all commands were broken.
               Fix for electric characters in certain modes.
   2010-02-11: Yet another minor fix for switching to next/previous char.

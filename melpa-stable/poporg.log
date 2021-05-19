@@ -1,0 +1,6 @@
+Package: poporg
+Fetcher: github
+Source:  https://github.com/QBobWatson/poporg.git
+
+Updating /mnt/store/melpa/working/poporg/
+No valid stable versions found for poporg

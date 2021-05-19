@@ -1,0 +1,21 @@
+Package: omni-log
+Fetcher: github
+Source:  https://github.com/AdrieanKhisbe/omni-log.el.git
+
+Updating /mnt/store/melpa/working/omni-log/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/omni-log/
+  to /tmp/omni-logryqgzI/omni-log-0.4.0
+    omni-log-logger.el -> omni-log-logger.el
+    omni-log.el -> omni-log.el
+Created omni-log-0.4.0.tar containing:
+  omni-log-0.4.0/
+  omni-log-0.4.0/omni-log-logger.el
+  omni-log-0.4.0/omni-log-pkg.el
+  omni-log-0.4.0/omni-log.el
+Built omni-log in 3.050s, finished at Wed May 19 01:38:37 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  455 May 19 01:38 packages-stable/omni-log-0.4.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:38 packages-stable/omni-log-0.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/omni-log-badge.svg
+4.0K -rw-r--r-- 1 root root   84 May 19 01:38 packages-stable/omni-log-readme.txt

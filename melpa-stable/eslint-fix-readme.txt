@@ -1,3 +1,4 @@
+
 This file provides `eslint-fix', which fixes the current file using ESLint.
 
 Usage:

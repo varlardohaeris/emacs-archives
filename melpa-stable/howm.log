@@ -1,0 +1,6 @@
+Package: howm
+Fetcher: git
+Source:  https://scm.osdn.net/gitroot/howm/howm.git
+
+Updating /mnt/store/melpa/working/howm/
+No valid stable versions found for howm

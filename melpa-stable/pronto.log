@@ -1,0 +1,6 @@
+Package: pronto
+Fetcher: github
+Source:  https://github.com/julianrubisch/pronto.el.git
+
+Updating /mnt/store/melpa/working/pronto/
+No valid stable versions found for pronto

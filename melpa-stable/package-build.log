@@ -1,0 +1,25 @@
+Package: package-build
+Fetcher: github
+Source:  https://github.com/melpa/package-build.git
+
+Updating /mnt/store/melpa/working/package-build/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/package-build/
+  to /tmp/package-buildVyCcyd/package-build-2.4
+    package-build-badges.el -> package-build-badges.el
+    package-build.el -> package-build.el
+    package-recipe-mode.el -> package-recipe-mode.el
+    package-recipe.el -> package-recipe.el
+Created package-build-2.4.tar containing:
+  package-build-2.4/
+  package-build-2.4/package-build-badges.el
+  package-build-2.4/package-build-pkg.el
+  package-build-2.4/package-build.el
+  package-build-2.4/package-recipe-mode.el
+  package-build-2.4/package-recipe.el
+Built package-build in 2.660s, finished at Wed May 19 01:41:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  319 May 19 01:41 packages-stable/package-build-2.4.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 01:41 packages-stable/package-build-2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/package-build-badge.svg
+4.0K -rw-r--r-- 1 root root  308 May 19 01:41 packages-stable/package-build-readme.txt

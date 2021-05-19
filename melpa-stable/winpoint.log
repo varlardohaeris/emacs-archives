@@ -1,0 +1,6 @@
+Package: winpoint
+Fetcher: github
+Source:  https://github.com/jorgenschaefer/winpoint.git
+
+Updating /mnt/store/melpa/working/winpoint/
+No valid stable versions found for winpoint

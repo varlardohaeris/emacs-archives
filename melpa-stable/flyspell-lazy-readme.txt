@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'flyspell-lazy)
@@ -123,7 +124,7 @@ TODO
 
     Hints for commented-out code to avoid checking.
 
-License
+; License
 
    Simplified BSD License
 

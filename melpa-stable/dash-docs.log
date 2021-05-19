@@ -1,0 +1,6 @@
+Package: dash-docs
+Fetcher: github
+Source:  https://github.com/dash-docs-el/dash-docs.git
+
+Updating /mnt/store/melpa/working/dash-docs/
+No valid stable versions found for dash-docs

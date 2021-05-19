@@ -1,0 +1,11 @@
+Package: fit-text-scale
+Fetcher: gitlab
+Source:  https://gitlab.com/marcowahl/fit-text-scale.git
+
+Updating /mnt/store/melpa/working/fit-text-scale/
+Built fit-text-scale in 3.414s, finished at Wed May 19 04:34:07 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.0K May 19 04:34 packages-stable/fit-text-scale-1.1.4.el
+4.0K -rw-r--r-- 1 root root  359 May 19 04:34 packages-stable/fit-text-scale-1.1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/fit-text-scale-badge.svg
+4.0K -rw-r--r-- 1 root root 2.3K May 19 04:34 packages-stable/fit-text-scale-readme.txt

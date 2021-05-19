@@ -1,0 +1,21 @@
+Package: languagetool
+Fetcher: github
+Source:  https://github.com/PillFall/Emacs-LanguageTool.el.git
+
+Updating /mnt/store/melpa/working/languagetool/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/languagetool/
+  to /tmp/languagetool9LH2PU/languagetool-0.3.0
+    languagetool-issue-faces.el -> languagetool-issue-faces.el
+    languagetool.el -> languagetool.el
+Created languagetool-0.3.0.tar containing:
+  languagetool-0.3.0/
+  languagetool-0.3.0/languagetool-issue-faces.el
+  languagetool-0.3.0/languagetool-pkg.el
+  languagetool-0.3.0/languagetool.el
+Built languagetool in 3.294s, finished at Wed May 19 01:31:43 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  438 May 19 01:31 packages-stable/languagetool-0.3.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:31 packages-stable/languagetool-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/languagetool-badge.svg
+4.0K -rw-r--r-- 1 root root   87 May 19 01:31 packages-stable/languagetool-readme.txt

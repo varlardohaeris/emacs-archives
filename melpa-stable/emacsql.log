@@ -1,0 +1,43 @@
+Package: emacsql
+Fetcher: github
+Source:  https://github.com/skeeto/emacsql.git
+
+Updating /mnt/store/melpa/working/emacsql/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsql/
+  to /tmp/emacsqlOkVux3/emacsql-3.0.0
+    emacsql.el -> emacsql.el
+    emacsql-compiler.el -> emacsql-compiler.el
+    README.md -> README.md
+Created emacsql-3.0.0.tar containing:
+  emacsql-3.0.0/
+  emacsql-3.0.0/README.md
+  emacsql-3.0.0/emacsql-compiler.el
+  emacsql-3.0.0/emacsql-pkg.el
+  emacsql-3.0.0/emacsql.el
+Built emacsql in 2.583s, finished at Wed May 19 04:30:39 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  341 May 19 04:30 packages-stable/emacsql-3.0.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 04:30 packages-stable/emacsql-3.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emacsql-badge.svg
+8.0K -rw-r--r-- 1 root root 6.1K May 19 04:30 packages-stable/emacsql-mysql-3.0.0.el
+4.0K -rw-r--r-- 1 root root  366 May 19 01:15 packages-stable/emacsql-mysql-3.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/emacsql-mysql-badge.svg
+4.0K -rw-r--r-- 1 root root   61 May 19 01:15 packages-stable/emacsql-mysql-readme.txt
+4.0K -rw-r--r-- 1 root root  136 May 19 04:30 packages-stable/emacsql-mysql.log
+4.0K -rw-r--r-- 1 root root  386 May 19 01:15 packages-stable/emacsql-psql-3.0.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:15 packages-stable/emacsql-psql-3.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/emacsql-psql-badge.svg
+4.0K -rw-r--r-- 1 root root  189 May 19 01:15 packages-stable/emacsql-psql-readme.txt
+4.0K -rw-r--r-- 1 root root  134 May 19 04:30 packages-stable/emacsql-psql.log
+4.0K -rw-r--r-- 1 root root 1.8K May 19 04:30 packages-stable/emacsql-readme.txt
+4.0K -rw-r--r-- 1 root root  369 May 19 01:15 packages-stable/emacsql-sqlite-3.0.0.entry
+7.5M -rw-r--r-- 1 root root 7.5M May 19 01:15 packages-stable/emacsql-sqlite-3.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/emacsql-sqlite-badge.svg
+4.0K -rw-r--r-- 1 root root  125 May 19 01:15 packages-stable/emacsql-sqlite-readme.txt
+4.0K -rw-r--r-- 1 root root   88 May 19 04:30 packages-stable/emacsql-sqlite.log
+ 12K -rw-r--r-- 1 root root 9.9K May 19 01:15 packages-stable/emacsql-sqlite3-1.0.2.el
+4.0K -rw-r--r-- 1 root root  406 May 19 01:15 packages-stable/emacsql-sqlite3-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/emacsql-sqlite3-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 01:15 packages-stable/emacsql-sqlite3-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:30 packages-stable/emacsql-sqlite3.log

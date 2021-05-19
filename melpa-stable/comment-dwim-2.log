@@ -1,0 +1,11 @@
+Package: comment-dwim-2
+Fetcher: github
+Source:  https://github.com/remyferre/comment-dwim-2.git
+
+Updating /mnt/store/melpa/working/comment-dwim-2/
+Built comment-dwim-2 in 3.812s, finished at Wed May 19 04:24:10 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.5K May 19 04:24 packages-stable/comment-dwim-2-1.3.0.el
+4.0K -rw-r--r-- 1 root root  357 May 19 04:24 packages-stable/comment-dwim-2-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/comment-dwim-2-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 04:24 packages-stable/comment-dwim-2-readme.txt

@@ -1,0 +1,6 @@
+Package: math-preview
+Fetcher: gitlab
+Source:  https://gitlab.com/matsievskiysv/math-preview.git
+
+Updating /mnt/store/melpa/working/math-preview/
+No valid stable versions found for math-preview

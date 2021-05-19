@@ -1,0 +1,6 @@
+Package: emoji-display
+Fetcher: github
+Source:  https://github.com/ikazuhiro/emoji-display.git
+
+Updating /mnt/store/melpa/working/emoji-display/
+No valid stable versions found for emoji-display

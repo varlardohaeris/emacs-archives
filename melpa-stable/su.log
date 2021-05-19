@@ -1,0 +1,6 @@
+Package: su
+Fetcher: github
+Source:  https://github.com/PythonNut/su.el.git
+
+Updating /mnt/store/melpa/working/su/
+No valid stable versions found for su

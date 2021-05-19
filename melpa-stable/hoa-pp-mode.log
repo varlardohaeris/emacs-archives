@@ -1,0 +1,11 @@
+Package: hoa-pp-mode
+Fetcher: github
+Source:  https://github.com/hoaproject/Contributions-Emacs-Pp.git
+
+Updating /mnt/store/melpa/working/hoa-pp-mode/
+Built hoa-pp-mode in 4.651s, finished at Wed May 19 04:42:03 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.4K May 19 04:42 packages-stable/hoa-pp-mode-0.3.0.el
+4.0K -rw-r--r-- 1 root root  381 May 19 04:42 packages-stable/hoa-pp-mode-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hoa-pp-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  145 May 19 04:42 packages-stable/hoa-pp-mode-readme.txt

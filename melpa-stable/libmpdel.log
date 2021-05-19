@@ -1,0 +1,21 @@
+Package: libmpdel
+Fetcher: github
+Source:  https://github.com/mpdel/libmpdel.git
+
+Updating /mnt/store/melpa/working/libmpdel/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/libmpdel/
+  to /tmp/libmpdelxepwNA/libmpdel-1.2.0
+    libmpdel-directory.el -> libmpdel-directory.el
+    libmpdel.el -> libmpdel.el
+Created libmpdel-1.2.0.tar containing:
+  libmpdel-1.2.0/
+  libmpdel-1.2.0/libmpdel-directory.el
+  libmpdel-1.2.0/libmpdel-pkg.el
+  libmpdel-1.2.0/libmpdel.el
+Built libmpdel in 3.252s, finished at Wed May 19 01:32:14 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  360 May 19 01:32 packages-stable/libmpdel-1.2.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:32 packages-stable/libmpdel-1.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/libmpdel-badge.svg
+4.0K -rw-r--r-- 1 root root  251 May 19 01:32 packages-stable/libmpdel-readme.txt

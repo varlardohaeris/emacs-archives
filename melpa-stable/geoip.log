@@ -1,0 +1,6 @@
+Package: geoip
+Fetcher: github
+Source:  https://github.com/xuchunyang/geoip.el.git
+
+Updating /mnt/store/melpa/working/geoip/
+No valid stable versions found for geoip

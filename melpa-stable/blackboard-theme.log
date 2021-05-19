@@ -1,0 +1,11 @@
+Package: blackboard-theme
+Fetcher: github
+Source:  https://github.com/don9z/blackboard-theme.git
+
+Updating /mnt/store/melpa/working/blackboard-theme/
+Built blackboard-theme in 2.978s, finished at Wed May 19 04:21:21 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 4.0K May 19 04:21 packages-stable/blackboard-theme-1.0.el
+4.0K -rw-r--r-- 1 root root  293 May 19 04:21 packages-stable/blackboard-theme-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/blackboard-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  374 May 19 04:21 packages-stable/blackboard-theme-readme.txt

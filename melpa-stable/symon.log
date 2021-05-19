@@ -1,0 +1,13 @@
+Package: symon
+Fetcher: github
+Source:  https://github.com/zk-phi/symon.git
+
+Updating /mnt/store/melpa/working/symon/
+Note: symon :files spec is equivalent to the default.
+Built symon in 3.016s, finished at Wed May 19 01:50:59 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  29K May 19 01:50 packages-stable/symon-20160630.el
+4.0K -rw-r--r-- 1 root root  224 May 19 01:50 packages-stable/symon-20160630.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/symon-badge.svg
+4.0K -rw-r--r-- 1 root root  183 May 19 01:50 packages-stable/symon-lingr.log
+4.0K -rw-r--r-- 1 root root  149 May 19 01:50 packages-stable/symon-readme.txt

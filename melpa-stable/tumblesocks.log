@@ -1,0 +1,6 @@
+Package: tumblesocks
+Fetcher: github
+Source:  https://github.com/gcr/tumblesocks.git
+
+Updating /mnt/store/melpa/working/tumblesocks/
+No valid stable versions found for tumblesocks

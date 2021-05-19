@@ -1,0 +1,12 @@
+Package: org-beautify-theme
+Fetcher: github
+Source:  https://github.com/jonnay/org-beautify-theme.git
+
+Updating /mnt/store/melpa/working/org-beautify-theme/
+Note: org-beautify-theme :files spec is equivalent to the default.
+Built org-beautify-theme in 3.401s, finished at Wed May 19 01:38:58 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.3K May 19 01:38 packages-stable/org-beautify-theme-0.3.1.el
+4.0K -rw-r--r-- 1 root root  334 May 19 01:38 packages-stable/org-beautify-theme-0.3.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/org-beautify-theme-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:38 packages-stable/org-beautify-theme-readme.txt

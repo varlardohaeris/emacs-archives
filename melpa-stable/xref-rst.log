@@ -1,0 +1,6 @@
+Package: xref-rst
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-xref-rst.git
+
+Updating /mnt/store/melpa/working/xref-rst/
+No valid stable versions found for xref-rst

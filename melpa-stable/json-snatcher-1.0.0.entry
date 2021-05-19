@@ -1,2 +1,10 @@
-
-(json-snatcher . [(1 0 0) ((emacs (24))) "Grabs the path to JSON values in a JSON file" single ((:commit . "c4cecc0a5051bd364373aa499c47a1bb7a5ac51c") (:authors ("Sterling Graham" . "sterlingrgraham@gmail.com")) (:maintainer "Sterling Graham" . "sterlingrgraham@gmail.com") (:url . "http://github.com/sterlingg/json-snatcher"))])
+(json-snatcher .
+	       [(1 0 0)
+		((emacs
+		  (24)))
+		"Grabs the path to JSON values in a JSON file" single
+		((:commit . "c4cecc0a5051bd364373aa499c47a1bb7a5ac51c")
+		 (:authors
+		  ("Sterling Graham" . "sterlingrgraham@gmail.com"))
+		 (:maintainer "Sterling Graham" . "sterlingrgraham@gmail.com")
+		 (:url . "http://github.com/sterlingg/json-snatcher"))])

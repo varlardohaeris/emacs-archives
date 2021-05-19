@@ -1,0 +1,11 @@
+Package: cil-mode
+Fetcher: github
+Source:  https://github.com/ForNeVeR/cil-mode.git
+
+Updating /mnt/store/melpa/working/cil-mode/
+Built cil-mode in 2.921s, finished at Wed May 19 04:23:18 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:23 packages-stable/cil-mode-0.4.el
+4.0K -rw-r--r-- 1 root root  357 May 19 04:23 packages-stable/cil-mode-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cil-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  168 May 19 04:23 packages-stable/cil-mode-readme.txt

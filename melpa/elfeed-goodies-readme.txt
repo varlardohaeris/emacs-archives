@@ -1,3 +1,4 @@
+
 Various bits and pieces to enhance the Elfeed user experience:
 
 * An adaptive, powerline-based header for the `*elfeed-search*` and
@@ -5,4 +6,4 @@ Various bits and pieces to enhance the Elfeed user experience:
 * Split pane setup.
 * A function to toggle the `*elfeed-log*` buffer in a popup window.
 
-License: GPLv3+
+; License: GPLv3+

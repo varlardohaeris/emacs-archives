@@ -7,6 +7,6 @@ clipboard content. Included HTTP server `nclip.rb` supports OSX
 (pbcopy/pbpaste) but it should be pretty straightforward to support
 other systems as well (e.g. Linux using xclip).
 
-Installation:
+; Installation:
 
 Available as a package in http://melpa.milkbox.net

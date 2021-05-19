@@ -1,0 +1,6 @@
+Package: dic-lookup-w3m
+Fetcher: github
+Source:  https://github.com/emacsorphanage/dic-lookup-w3m.git
+
+Updating /mnt/store/melpa/working/dic-lookup-w3m/
+No valid stable versions found for dic-lookup-w3m

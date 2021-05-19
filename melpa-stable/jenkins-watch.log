@@ -1,0 +1,6 @@
+Package: jenkins-watch
+Fetcher: github
+Source:  https://github.com/ataylor284/jenkins-watch.git
+
+Updating /mnt/store/melpa/working/jenkins-watch/
+No valid stable versions found for jenkins-watch

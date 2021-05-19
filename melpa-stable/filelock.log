@@ -1,0 +1,6 @@
+Package: filelock
+Fetcher: github
+Source:  https://github.com/DarwinAwardWinner/emacs-filelock.git
+
+Updating /mnt/store/melpa/working/filelock/
+No valid stable versions found for filelock

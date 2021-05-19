@@ -1,0 +1,11 @@
+Package: lsp-grammarly
+Fetcher: github
+Source:  https://github.com/emacs-grammarly/lsp-grammarly.git
+
+Updating /mnt/store/melpa/working/lsp-grammarly/
+Built lsp-grammarly in 3.850s, finished at Wed May 19 03:41:16 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 03:41 packages/lsp-grammarly-20210418.1806.el
+4.0K -rw-r--r-- 1 root root  461 May 19 03:41 packages/lsp-grammarly-20210418.1806.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:41 packages/lsp-grammarly-badge.svg
+4.0K -rw-r--r-- 1 root root   41 May 19 03:41 packages/lsp-grammarly-readme.txt

@@ -1,0 +1,6 @@
+Package: ghost-blog
+Fetcher: github
+Source:  https://github.com/javaguirre/ghost-blog-emacs.git
+
+Updating /mnt/store/melpa/working/ghost-blog/
+No valid stable versions found for ghost-blog

@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'hippie-namespace)
@@ -103,7 +104,7 @@ TODO
 
     periodic refresh: idle-timer and save hook?
 
-License
+; License
 
  Simplified BSD License
 
@@ -137,3 +138,4 @@ License
  documentation are those of the authors and should not be
  interpreted as representing official policies, either expressed
  or implied, of Roland Walker.
+

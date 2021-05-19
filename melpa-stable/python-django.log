@@ -1,0 +1,6 @@
+Package: python-django
+Fetcher: github
+Source:  https://github.com/fgallina/python-django.el.git
+
+Updating /mnt/store/melpa/working/python-django/
+No valid stable versions found for python-django

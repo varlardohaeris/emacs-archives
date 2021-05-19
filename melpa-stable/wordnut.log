@@ -1,0 +1,6 @@
+Package: wordnut
+Fetcher: github
+Source:  https://github.com/gromnitsky/wordnut.git
+
+Updating /mnt/store/melpa/working/wordnut/
+No valid stable versions found for wordnut

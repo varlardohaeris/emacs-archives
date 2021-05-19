@@ -1,0 +1,6 @@
+Package: suggestion-box
+Fetcher: github
+Source:  https://github.com/yuutayamada/suggestion-box-el.git
+
+Updating /mnt/store/melpa/working/suggestion-box/
+No valid stable versions found for suggestion-box

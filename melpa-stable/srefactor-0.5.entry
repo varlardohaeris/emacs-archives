@@ -1,2 +1,11 @@
-
-(srefactor . [(0 5) ((emacs (24 4))) "A refactoring tool based on Semantic parser framework" tar ((:commit . "ecd40713f736b243285c07f4cfd77113794d4f9f") (:keywords "c" "languages" "tools") (:authors ("Tu, Do Hoang" . "tuhdo1710@gmail.com")) (:maintainer "Tu, Do Hoang") (:url . "https://github.com/tuhdo/semantic-refactor"))])
+(srefactor .
+	   [(0 5)
+	    ((emacs
+	      (24 4)))
+	    "A refactoring tool based on Semantic parser framework" tar
+	    ((:commit . "ecd40713f736b243285c07f4cfd77113794d4f9f")
+	     (:authors
+	      ("Tu, Do Hoang" . "tuhdo1710@gmail.com"))
+	     (:maintainer "Tu, Do Hoang")
+	     (:keywords "c" "languages" "tools")
+	     (:url . "https://github.com/tuhdo/semantic-refactor"))])

@@ -1,0 +1,6 @@
+Package: sync-recentf
+Fetcher: github
+Source:  https://github.com/ffevotte/sync-recentf.git
+
+Updating /mnt/store/melpa/working/sync-recentf/
+No valid stable versions found for sync-recentf

@@ -1,0 +1,6 @@
+Package: flycheck-drstring
+Fetcher: github
+Source:  https://github.com/danielmartin/flycheck-drstring.git
+
+Updating /mnt/store/melpa/working/flycheck-drstring/
+No valid stable versions found for flycheck-drstring

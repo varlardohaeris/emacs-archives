@@ -1,0 +1,6 @@
+Package: cov
+Fetcher: github
+Source:  https://github.com/AdamNiederer/cov.git
+
+Updating /mnt/store/melpa/working/cov/
+No valid stable versions found for cov

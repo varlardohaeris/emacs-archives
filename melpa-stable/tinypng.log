@@ -1,0 +1,6 @@
+Package: tinypng
+Fetcher: github
+Source:  https://github.com/xuchunyang/tinypng.el.git
+
+Updating /mnt/store/melpa/working/tinypng/
+No valid stable versions found for tinypng

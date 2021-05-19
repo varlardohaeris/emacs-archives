@@ -1,0 +1,11 @@
+Package: eshell-did-you-mean
+Fetcher: github
+Source:  https://github.com/xuchunyang/eshell-did-you-mean.git
+
+Updating /mnt/store/melpa/working/eshell-did-you-mean/
+Built eshell-did-you-mean in 3.124s, finished at Wed May 19 04:31:37 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.2K May 19 04:31 packages-stable/eshell-did-you-mean-0.1.el
+4.0K -rw-r--r-- 1 root root  464 May 19 04:31 packages-stable/eshell-did-you-mean-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eshell-did-you-mean-badge.svg
+4.0K -rw-r--r-- 1 root root   37 May 19 04:31 packages-stable/eshell-did-you-mean-readme.txt

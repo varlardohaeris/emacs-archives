@@ -1,0 +1,6 @@
+Package: keypression
+Fetcher: github
+Source:  https://github.com/chuntaro/emacs-keypression.git
+
+Updating /mnt/store/melpa/working/keypression/
+No valid stable versions found for keypression

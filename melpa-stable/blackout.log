@@ -1,0 +1,11 @@
+Package: blackout
+Fetcher: github
+Source:  https://github.com/raxod502/blackout.git
+
+Updating /mnt/store/melpa/working/blackout/
+Built blackout in 2.927s, finished at Wed May 19 04:21:21 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.8K May 19 04:21 packages-stable/blackout-1.0.el
+4.0K -rw-r--r-- 1 root root  369 May 19 04:21 packages-stable/blackout-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/blackout-badge.svg
+4.0K -rw-r--r-- 1 root root  890 May 19 04:21 packages-stable/blackout-readme.txt

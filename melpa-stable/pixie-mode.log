@@ -1,0 +1,6 @@
+Package: pixie-mode
+Fetcher: github
+Source:  https://github.com/johnwalker/pixie-mode.git
+
+Updating /mnt/store/melpa/working/pixie-mode/
+No valid stable versions found for pixie-mode

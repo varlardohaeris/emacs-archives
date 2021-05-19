@@ -1,0 +1,143 @@
+Package: ivy
+Fetcher: github
+Source:  https://github.com/abo-abo/swiper.git
+
+Updating /mnt/store/melpa/working/ivy/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ivy/
+  to /tmp/ivyOub9vm/ivy-0.13.4
+    colir.el -> colir.el
+    elpa.el -> elpa.el
+    ivy-faces.el -> ivy-faces.el
+    ivy-overlay.el -> ivy-overlay.el
+    ivy.el -> ivy.el
+  ! doc/ivy.texi -> ivy.texi
+  ! doc/ivy-help.org -> ivy-help.org
+Created /tmp/ivyOub9vm/ivy-0.13.4/ivy.info
+Created ivy-0.13.4.tar containing:
+  ivy-0.13.4/
+  ivy-0.13.4/colir.el
+  ivy-0.13.4/dir
+  ivy-0.13.4/elpa.el
+  ivy-0.13.4/ivy-faces.el
+  ivy-0.13.4/ivy-help.org
+  ivy-0.13.4/ivy-overlay.el
+  ivy-0.13.4/ivy-pkg.el
+  ivy-0.13.4/ivy.el
+  ivy-0.13.4/ivy.info
+Built ivy in 11.446s, finished at Wed May 19 04:43:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  355 May 19 04:43 packages-stable/ivy-0.13.4.entry
+300K -rw-r--r-- 1 root root 300K May 19 04:43 packages-stable/ivy-0.13.4.tar
+4.0K -rw-r--r-- 1 root root 3.7K May 19 04:43 packages-stable/ivy-avy-0.13.4.el
+4.0K -rw-r--r-- 1 root root  388 May 19 04:43 packages-stable/ivy-avy-0.13.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-avy-badge.svg
+4.0K -rw-r--r-- 1 root root   68 May 19 04:43 packages-stable/ivy-avy-readme.txt
+4.0K -rw-r--r-- 1 root root  524 May 19 04:43 packages-stable/ivy-avy.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-badge.svg
+4.0K -rw-r--r-- 1 root root 4.0K May 19 04:43 packages-stable/ivy-bibtex-2.0.0.el
+4.0K -rw-r--r-- 1 root root  497 May 19 04:43 packages-stable/ivy-bibtex-2.0.0.entry
+ 60K -rw-r--r-- 1 root root  60K Apr 16  2020 packages-stable/ivy-bibtex-2.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-bibtex-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:43 packages-stable/ivy-bibtex-readme.txt
+4.0K -rw-r--r-- 1 root root  633 May 19 04:43 packages-stable/ivy-bibtex.log
+4.0K -rw-r--r-- 1 root root  191 May 19 04:43 packages-stable/ivy-clipmenu.log
+4.0K -rw-r--r-- 1 root root  211 May 19 04:43 packages-stable/ivy-clojuredocs.log
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:43 packages-stable/ivy-dired-history-1.0.el
+4.0K -rw-r--r-- 1 root root  418 May 19 04:43 packages-stable/ivy-dired-history-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-dired-history-badge.svg
+4.0K -rw-r--r-- 1 root root  603 May 19 04:43 packages-stable/ivy-dired-history-readme.txt
+4.0K -rw-r--r-- 1 root root  598 May 19 04:43 packages-stable/ivy-dired-history.log
+4.0K -rw-r--r-- 1 root root  177 May 19 04:43 packages-stable/ivy-emms.log
+4.0K -rw-r--r-- 1 root root  177 May 19 04:43 packages-stable/ivy-emoji.log
+4.0K -rw-r--r-- 1 root root  507 May 19 04:43 packages-stable/ivy-erlang-complete-0.3.2.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 04:43 packages-stable/ivy-erlang-complete-0.3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-erlang-complete-badge.svg
+4.0K -rw-r--r-- 1 root root   93 May 19 04:43 packages-stable/ivy-erlang-complete-readme.txt
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:43 packages-stable/ivy-erlang-complete.log
+ 32K -rw-r--r-- 1 root root  29K May 19 04:43 packages-stable/ivy-explorer-0.3.2.el
+4.0K -rw-r--r-- 1 root root  423 May 19 04:43 packages-stable/ivy-explorer-0.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-explorer-badge.svg
+4.0K -rw-r--r-- 1 root root  605 May 19 04:43 packages-stable/ivy-explorer-readme.txt
+4.0K -rw-r--r-- 1 root root  563 May 19 04:43 packages-stable/ivy-explorer.log
+4.0K -rw-r--r-- 1 root root  967 Jan 26  2020 packages-stable/ivy-feedwrangler-badge.svg
+4.0K -rw-r--r-- 1 root root  320 Jan 26  2020 packages-stable/ivy-feedwrangler-readme.txt
+ 16K -rw-r--r-- 1 root root  16K May 19 04:43 packages-stable/ivy-file-preview-0.4.5.el
+4.0K -rw-r--r-- 1 root root  450 May 19 04:43 packages-stable/ivy-file-preview-0.4.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-file-preview-badge.svg
+4.0K -rw-r--r-- 1 root root  443 May 19 04:43 packages-stable/ivy-file-preview-readme.txt
+4.0K -rw-r--r-- 1 root root  596 May 19 04:43 packages-stable/ivy-file-preview.log
+8.0K -rw-r--r-- 1 root root 4.8K May 19 04:43 packages-stable/ivy-fuz-1.0.0.el
+4.0K -rw-r--r-- 1 root root  409 May 19 04:43 packages-stable/ivy-fuz-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-fuz-badge.svg
+4.0K -rw-r--r-- 1 root root   33 May 19 04:43 packages-stable/ivy-fuz-readme.txt
+4.0K -rw-r--r-- 1 root root  524 May 19 04:43 packages-stable/ivy-fuz.log
+8.0K -rw-r--r-- 1 root root 4.3K May 19 04:43 packages-stable/ivy-gitlab-0.8.0.el
+4.0K -rw-r--r-- 1 root root  497 May 19 04:43 packages-stable/ivy-gitlab-0.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-gitlab-badge.svg
+4.0K -rw-r--r-- 1 root root   36 May 19 04:43 packages-stable/ivy-gitlab-readme.txt
+4.0K -rw-r--r-- 1 root root  552 May 19 04:43 packages-stable/ivy-gitlab.log
+4.0K -rw-r--r-- 1 root root  193 May 19 04:43 packages-stable/ivy-historian.log
+8.0K -rw-r--r-- 1 root root 5.8K May 19 01:29 packages-stable/ivy-hydra-0.13.4.el
+4.0K -rw-r--r-- 1 root root  429 May 19 01:29 packages-stable/ivy-hydra-0.13.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-hydra-badge.svg
+4.0K -rw-r--r-- 1 root root  178 May 19 01:29 packages-stable/ivy-hydra-readme.txt
+4.0K -rw-r--r-- 1 root root  128 May 19 04:43 packages-stable/ivy-hydra.log
+4.0K -rw-r--r-- 1 root root  189 May 19 04:43 packages-stable/ivy-lobsters.log
+ 16K -rw-r--r-- 1 root root  16K May 19 01:29 packages-stable/ivy-migemo-1.4.0.el
+4.0K -rw-r--r-- 1 root root  459 May 19 01:29 packages-stable/ivy-migemo-1.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-migemo-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:29 packages-stable/ivy-migemo-readme.txt
+4.0K -rw-r--r-- 1 root root  136 May 19 04:43 packages-stable/ivy-migemo.log
+8.0K -rw-r--r-- 1 root root 4.2K May 19 01:29 packages-stable/ivy-mpdel-1.0.0.el
+4.0K -rw-r--r-- 1 root root  461 May 19 01:29 packages-stable/ivy-mpdel-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-mpdel-badge.svg
+4.0K -rw-r--r-- 1 root root  268 May 19 01:29 packages-stable/ivy-mpdel-readme.txt
+4.0K -rw-r--r-- 1 root root  129 May 19 04:43 packages-stable/ivy-mpdel.log
+4.0K -rw-r--r-- 1 root root  139 May 19 04:43 packages-stable/ivy-omni-org.log
+4.0K -rw-r--r-- 1 root root 1021 Jun  1  2020 packages-stable/ivy-pages-badge.svg
+4.0K -rw-r--r-- 1 root root  209 Jun  1  2020 packages-stable/ivy-pages-readme.txt
+4.0K -rw-r--r-- 1 root root  128 May 19 04:43 packages-stable/ivy-pass.log
+   0 -rw-r--r-- 1 root root    0 May 19 04:43 packages-stable/ivy-phpunit.log
+ 24K -rw-r--r-- 1 root root  23K May 19 01:29 packages-stable/ivy-posframe-0.5.5.el
+4.0K -rw-r--r-- 1 root root  462 May 19 01:29 packages-stable/ivy-posframe-0.5.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-posframe-badge.svg
+8.0K -rw-r--r-- 1 root root 4.2K May 19 01:29 packages-stable/ivy-posframe-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:43 packages-stable/ivy-posframe.log
+ 12K -rw-r--r-- 1 root root  11K May 19 01:29 packages-stable/ivy-prescient-5.1.el
+4.0K -rw-r--r-- 1 root root  401 May 19 01:29 packages-stable/ivy-prescient-5.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-prescient-badge.svg
+4.0K -rw-r--r-- 1 root root  269 May 19 01:29 packages-stable/ivy-prescient-readme.txt
+4.0K -rw-r--r-- 1 root root  567 May 19 01:29 packages-stable/ivy-prescient.log
+4.0K -rw-r--r-- 1 root root 3.7K May 19 01:29 packages-stable/ivy-purpose-0.1.el
+4.0K -rw-r--r-- 1 root root  353 May 19 01:29 packages-stable/ivy-purpose-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-purpose-badge.svg
+4.0K -rw-r--r-- 1 root root  857 May 19 01:29 packages-stable/ivy-purpose-readme.txt
+4.0K -rw-r--r-- 1 root root  548 May 19 01:29 packages-stable/ivy-purpose.log
+4.0K -rw-r--r-- 1 root root  396 May 19 04:43 packages-stable/ivy-readme.txt
+ 24K -rw-r--r-- 1 root root  21K May 19 01:29 packages-stable/ivy-rich-0.1.6.el
+4.0K -rw-r--r-- 1 root root  347 May 19 01:29 packages-stable/ivy-rich-0.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-rich-badge.svg
+4.0K -rw-r--r-- 1 root root  159 May 19 01:29 packages-stable/ivy-rich-readme.txt
+4.0K -rw-r--r-- 1 root root  588 May 19 01:29 packages-stable/ivy-rich.log
+8.0K -rw-r--r-- 1 root root 4.8K May 19 01:29 packages-stable/ivy-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  405 May 19 01:29 packages-stable/ivy-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:29 packages-stable/ivy-rtags-readme.txt
+4.0K -rw-r--r-- 1 root root  538 May 19 01:29 packages-stable/ivy-rtags.log
+ 16K -rw-r--r-- 1 root root  15K May 19 01:29 packages-stable/ivy-searcher-0.3.10.el
+4.0K -rw-r--r-- 1 root root  426 May 19 01:29 packages-stable/ivy-searcher-0.3.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-searcher-badge.svg
+4.0K -rw-r--r-- 1 root root   32 May 19 01:29 packages-stable/ivy-searcher-readme.txt
+4.0K -rw-r--r-- 1 root root  566 May 19 01:29 packages-stable/ivy-searcher.log
+4.0K -rw-r--r-- 1 root root  172 May 19 01:29 packages-stable/ivy-spotify.log
+4.0K -rw-r--r-- 1 root root  175 May 19 01:29 packages-stable/ivy-todo.log
+4.0K -rw-r--r-- 1 root root  182 May 19 01:29 packages-stable/ivy-xcdoc.log
+4.0K -rw-r--r-- 1 root root  175 May 19 01:29 packages-stable/ivy-xref.log
+4.0K -rw-r--r-- 1 root root  190 May 19 01:29 packages-stable/ivy-yasnippet.log
+4.0K -rw-r--r-- 1 root root  179 May 19 01:29 packages-stable/ivy-ycmd.log
+8.0K -rw-r--r-- 1 root root 6.5K May 19 01:29 packages-stable/ivy-youtube-0.3.2.el
+4.0K -rw-r--r-- 1 root root  434 May 19 01:29 packages-stable/ivy-youtube-0.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:29 packages-stable/ivy-youtube-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:29 packages-stable/ivy-youtube-readme.txt
+4.0K -rw-r--r-- 1 root root  555 May 19 01:29 packages-stable/ivy-youtube.log

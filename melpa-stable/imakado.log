@@ -1,0 +1,6 @@
+Package: imakado
+Fetcher: github
+Source:  https://github.com/imakado/emacs-imakado.git
+
+Updating /mnt/store/melpa/working/imakado/
+No valid stable versions found for imakado

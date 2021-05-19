@@ -1,0 +1,57 @@
+Package: ncl-mode
+Fetcher: github
+Source:  https://github.com/yyr/ncl-mode.git
+
+Updating /mnt/store/melpa/working/ncl-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ncl-mode/
+  to /tmp/ncl-modeSoctpA/ncl-mode-0.99.2
+    inf-ncl.el -> inf-ncl.el
+    ncl-doc.el -> ncl-doc.el
+    ncl-mode-keywords.el -> ncl-mode-keywords.el
+    ncl-mode-pkg.el -> ncl-mode-pkg.el
+    ncl-mode.el -> ncl-mode.el
+    snippets => snippets
+    dict => dict
+    tools => tools
+    img => img
+Created ncl-mode-0.99.2.tar containing:
+  ncl-mode-0.99.2/
+  ncl-mode-0.99.2/dict/
+  ncl-mode-0.99.2/dict/inf-ncl-mode
+  ncl-mode-0.99.2/dict/ncl-mode
+  ncl-mode-0.99.2/img/
+  ncl-mode-0.99.2/img/ncl-ac-inf.png
+  ncl-mode-0.99.2/img/ncl-auto-complete.png
+  ncl-mode-0.99.2/img/ncl-doc-usage.png
+  ncl-mode-0.99.2/inf-ncl.el
+  ncl-mode-0.99.2/ncl-doc.el
+  ncl-mode-0.99.2/ncl-mode-keywords.el
+  ncl-mode-0.99.2/ncl-mode-pkg.el
+  ncl-mode-0.99.2/ncl-mode.el
+  ncl-mode-0.99.2/snippets/
+  ncl-mode-0.99.2/snippets/ncl-mode/
+  ncl-mode-0.99.2/snippets/ncl-mode/begin-end-block.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/do.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/dow.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/elif.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/fun.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/function-header.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/if.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/ife.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/print.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/proc.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/procedure-header.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/small-comment.yasnippet
+  ncl-mode-0.99.2/snippets/ncl-mode/st.yasnippet
+  ncl-mode-0.99.2/tools/
+  ncl-mode-0.99.2/tools/gen-tags.sh
+  ncl-mode-0.99.2/tools/ncl-mode
+  ncl-mode-0.99.2/tools/ncl-mode-keywords.el
+  ncl-mode-0.99.2/tools/ncl_keywords.py
+Built ncl-mode in 3.365s, finished at Wed May 19 01:37:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  427 May 19 01:37 packages-stable/ncl-mode-0.99.2.entry
+432K -rw-r--r-- 1 root root 430K May 19 01:37 packages-stable/ncl-mode-0.99.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/ncl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   32 May 19 01:37 packages-stable/ncl-mode-readme.txt

@@ -1,0 +1,6 @@
+Package: flymake-elixir
+Fetcher: github
+Source:  https://github.com/syl20bnr/flymake-elixir.git
+
+Updating /mnt/store/melpa/working/flymake-elixir/
+No valid stable versions found for flymake-elixir

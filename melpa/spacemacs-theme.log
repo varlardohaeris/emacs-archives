@@ -1,0 +1,23 @@
+Package: spacemacs-theme
+Fetcher: github
+Source:  https://github.com/nashamri/spacemacs-theme.git
+
+Updating /mnt/store/melpa/working/spacemacs-theme/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/spacemacs-theme/
+  to /tmp/spacemacs-themecBgKeI/spacemacs-theme-20210206.1428
+    spacemacs-common.el -> spacemacs-common.el
+    spacemacs-dark-theme.el -> spacemacs-dark-theme.el
+    spacemacs-light-theme.el -> spacemacs-light-theme.el
+    spacemacs-theme-pkg.el -> spacemacs-theme-pkg.el
+Created spacemacs-theme-20210206.1428.tar containing:
+  spacemacs-theme-20210206.1428/
+  spacemacs-theme-20210206.1428/spacemacs-common.el
+  spacemacs-theme-20210206.1428/spacemacs-dark-theme.el
+  spacemacs-theme-20210206.1428/spacemacs-light-theme.el
+  spacemacs-theme-20210206.1428/spacemacs-theme-pkg.el
+Built spacemacs-theme in 4.098s, finished at Wed May 19 04:06:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  159 May 19 04:06 packages/spacemacs-theme-20210206.1428.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:06 packages/spacemacs-theme-20210206.1428.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:06 packages/spacemacs-theme-badge.svg

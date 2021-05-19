@@ -1,0 +1,102 @@
+Package: cider
+Fetcher: github
+Source:  https://github.com/clojure-emacs/cider.git
+
+Updating /mnt/store/melpa/working/cider/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cider/
+  to /tmp/ciderK6fJ1A/cider-1.1.0.1
+    cider-apropos.el -> cider-apropos.el
+    cider-browse-ns.el -> cider-browse-ns.el
+    cider-browse-spec.el -> cider-browse-spec.el
+    cider-cheatsheet.el -> cider-cheatsheet.el
+    cider-classpath.el -> cider-classpath.el
+    cider-client.el -> cider-client.el
+    cider-clojuredocs.el -> cider-clojuredocs.el
+    cider-common.el -> cider-common.el
+    cider-compat.el -> cider-compat.el
+    cider-completion.el -> cider-completion.el
+    cider-connection.el -> cider-connection.el
+    cider-debug.el -> cider-debug.el
+    cider-doc.el -> cider-doc.el
+    cider-eldoc.el -> cider-eldoc.el
+    cider-eval.el -> cider-eval.el
+    cider-find.el -> cider-find.el
+    cider-format.el -> cider-format.el
+    cider-inspector.el -> cider-inspector.el
+    cider-macroexpansion.el -> cider-macroexpansion.el
+    cider-mode.el -> cider-mode.el
+    cider-ns.el -> cider-ns.el
+    cider-overlays.el -> cider-overlays.el
+    cider-popup.el -> cider-popup.el
+    cider-profile.el -> cider-profile.el
+    cider-repl-history.el -> cider-repl-history.el
+    cider-repl.el -> cider-repl.el
+    cider-resolve.el -> cider-resolve.el
+    cider-scratch.el -> cider-scratch.el
+    cider-selector.el -> cider-selector.el
+    cider-stacktrace.el -> cider-stacktrace.el
+    cider-test.el -> cider-test.el
+    cider-tracing.el -> cider-tracing.el
+    cider-util.el -> cider-util.el
+    cider-xref.el -> cider-xref.el
+    cider.el -> cider.el
+    nrepl-client.el -> nrepl-client.el
+    nrepl-dict.el -> nrepl-dict.el
+Created cider-1.1.0.1.tar containing:
+  cider-1.1.0.1/
+  cider-1.1.0.1/cider-apropos.el
+  cider-1.1.0.1/cider-browse-ns.el
+  cider-1.1.0.1/cider-browse-spec.el
+  cider-1.1.0.1/cider-cheatsheet.el
+  cider-1.1.0.1/cider-classpath.el
+  cider-1.1.0.1/cider-client.el
+  cider-1.1.0.1/cider-clojuredocs.el
+  cider-1.1.0.1/cider-common.el
+  cider-1.1.0.1/cider-compat.el
+  cider-1.1.0.1/cider-completion.el
+  cider-1.1.0.1/cider-connection.el
+  cider-1.1.0.1/cider-debug.el
+  cider-1.1.0.1/cider-doc.el
+  cider-1.1.0.1/cider-eldoc.el
+  cider-1.1.0.1/cider-eval.el
+  cider-1.1.0.1/cider-find.el
+  cider-1.1.0.1/cider-format.el
+  cider-1.1.0.1/cider-inspector.el
+  cider-1.1.0.1/cider-macroexpansion.el
+  cider-1.1.0.1/cider-mode.el
+  cider-1.1.0.1/cider-ns.el
+  cider-1.1.0.1/cider-overlays.el
+  cider-1.1.0.1/cider-pkg.el
+  cider-1.1.0.1/cider-popup.el
+  cider-1.1.0.1/cider-profile.el
+  cider-1.1.0.1/cider-repl-history.el
+  cider-1.1.0.1/cider-repl.el
+  cider-1.1.0.1/cider-resolve.el
+  cider-1.1.0.1/cider-scratch.el
+  cider-1.1.0.1/cider-selector.el
+  cider-1.1.0.1/cider-stacktrace.el
+  cider-1.1.0.1/cider-test.el
+  cider-1.1.0.1/cider-tracing.el
+  cider-1.1.0.1/cider-util.el
+  cider-1.1.0.1/cider-xref.el
+  cider-1.1.0.1/cider.el
+  cider-1.1.0.1/nrepl-client.el
+  cider-1.1.0.1/nrepl-dict.el
+Built cider in 3.316s, finished at Wed May 19 04:23:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  763 May 19 04:23 packages-stable/cider-1.1.0.1.entry
+840K -rw-r--r-- 1 root root 840K May 19 04:23 packages-stable/cider-1.1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cider-badge.svg
+4.0K -rw-r--r-- 1 root root  206 May 19 04:23 packages-stable/cider-decompile.log
+4.0K -rw-r--r-- 1 root root 2.5K May 19 04:23 packages-stable/cider-eval-sexp-fu-1.2.el
+4.0K -rw-r--r-- 1 root root  420 May 19 01:08 packages-stable/cider-eval-sexp-fu-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:08 packages-stable/cider-eval-sexp-fu-badge.svg
+4.0K -rw-r--r-- 1 root root  132 May 19 01:08 packages-stable/cider-eval-sexp-fu-readme.txt
+4.0K -rw-r--r-- 1 root root  164 May 19 04:23 packages-stable/cider-eval-sexp-fu.log
+8.0K -rw-r--r-- 1 root root 6.9K May 19 01:08 packages-stable/cider-hydra-0.1.0.el
+4.0K -rw-r--r-- 1 root root  432 May 19 01:08 packages-stable/cider-hydra-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:08 packages-stable/cider-hydra-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:08 packages-stable/cider-hydra-readme.txt
+4.0K -rw-r--r-- 1 root root  143 May 19 04:23 packages-stable/cider-hydra.log
+4.0K -rw-r--r-- 1 root root  568 May 19 04:23 packages-stable/cider-readme.txt

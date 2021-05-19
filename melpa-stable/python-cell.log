@@ -1,0 +1,6 @@
+Package: python-cell
+Fetcher: github
+Source:  https://github.com/thisch/python-cell.el.git
+
+Updating /mnt/store/melpa/working/python-cell/
+No valid stable versions found for python-cell

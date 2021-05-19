@@ -1,0 +1,6 @@
+Package: shadowenv
+Fetcher: github
+Source:  https://github.com/Shopify/shadowenv.el.git
+
+Updating /mnt/store/melpa/working/shadowenv/
+No valid stable versions found for shadowenv

@@ -1,0 +1,6 @@
+Package: lsp-sourcekit
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-sourcekit.git
+
+Updating /mnt/store/melpa/working/lsp-sourcekit/
+No valid stable versions found for lsp-sourcekit

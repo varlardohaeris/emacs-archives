@@ -26,7 +26,7 @@ a KTAB when we are indenting (leading whitespace), or the right number of
 SPACE characters when we are aligning something inside or at the end of a
 line.
 
-Installation:
+; Installation:
 
 Move this file to somewhere in the `load-path'.
 Then add the following lines to ~/.emacs:

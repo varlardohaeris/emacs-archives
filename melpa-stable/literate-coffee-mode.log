@@ -1,0 +1,11 @@
+Package: literate-coffee-mode
+Fetcher: github
+Source:  https://github.com/emacsorphanage/literate-coffee-mode.git
+
+Updating /mnt/store/melpa/working/literate-coffee-mode/
+Built literate-coffee-mode in 2.897s, finished at Wed May 19 01:32:35 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.6K May 19 01:32 packages-stable/literate-coffee-mode-0.4.el
+4.0K -rw-r--r-- 1 root root  379 May 19 01:32 packages-stable/literate-coffee-mode-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/literate-coffee-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:32 packages-stable/literate-coffee-mode-readme.txt

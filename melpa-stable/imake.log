@@ -1,0 +1,11 @@
+Package: imake
+Fetcher: github
+Source:  https://github.com/tarsius/imake.git
+
+Updating /mnt/store/melpa/working/imake/
+Built imake in 2.928s, finished at Wed May 19 04:42:56 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.9K May 19 04:42 packages-stable/imake-1.0.3.el
+4.0K -rw-r--r-- 1 root root  313 May 19 04:42 packages-stable/imake-1.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/imake-badge.svg
+4.0K -rw-r--r-- 1 root root  583 May 19 04:42 packages-stable/imake-readme.txt

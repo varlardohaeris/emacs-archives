@@ -1,0 +1,6 @@
+Package: lsp-mssql
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-mssql.git
+
+Updating /mnt/store/melpa/working/lsp-mssql/
+No valid stable versions found for lsp-mssql

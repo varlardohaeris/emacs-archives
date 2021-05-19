@@ -1,0 +1,21 @@
+Package: composable
+Fetcher: github
+Source:  https://github.com/paldepind/composable.el.git
+
+Updating /mnt/store/melpa/working/composable/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/composable/
+  to /tmp/composablegkCLwe/composable-0.0.1
+    composable-mark.el -> composable-mark.el
+    composable.el -> composable.el
+Created composable-0.0.1.tar containing:
+  composable-0.0.1/
+  composable-0.0.1/composable-mark.el
+  composable-0.0.1/composable-pkg.el
+  composable-0.0.1/composable.el
+Built composable in 2.803s, finished at Wed May 19 04:24:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  312 May 19 04:24 packages-stable/composable-0.0.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:24 packages-stable/composable-0.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/composable-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:24 packages-stable/composable-readme.txt

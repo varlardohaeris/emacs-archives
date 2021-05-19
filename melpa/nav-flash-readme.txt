@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'nav-flash)
@@ -64,7 +65,7 @@ TODO
 
     Check pulse period on other platforms.
 
-License
+; License
 
 Simplified BSD License:
 

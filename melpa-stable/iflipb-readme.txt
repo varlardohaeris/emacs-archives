@@ -1,3 +1,4 @@
+
 iflipb lets you flip between recently visited buffers in a way that
 resembles what Alt-(Shift-)TAB does in Microsoft Windows and other graphical
 window managers. iflipb treats the buffer list as a stack, and (by design)
@@ -10,7 +11,8 @@ non-nil.)
 OPERATION
 =========
 
-iflipb provides two commands: iflipb-next-buffer and iflipb-previous-buffer.
+iflipb provides twree commands: iflipb-next-buffer, iflipb-previous-buffer
+and iflipb-kill-buffer.
 
 iflipb-next-buffer behaves like Alt-TAB: it switches to the previously used
 buffer, just like "C-x b RET" (or C-M-l in XEmacs). However, another
@@ -57,6 +59,10 @@ between more buffers. See the documentation of the variables
 iflipb-ignore-buffers and iflipb-always-ignore-buffers for how to change
 this.
 
+iflipb-kill-buffer is designed to be bound to "C-x k". It behaves like
+kill-buffer but keeps iflipb's buffer list state so that it's possible to
+kill a buffer and then advance to the next buffer without starting all over
+again.
 
 INSTALLATION
 ============
@@ -80,7 +86,7 @@ Another alternative is to use C-tab and C-S-tab:
   (global-set-key (kbd "<C-tab>") 'iflipb-next-buffer)
   (global-set-key
    (if (featurep 'xemacs) (kbd "<C-iso-left-tab>") (kbd "<C-S-iso-lefttab>"))
-    'iflipb-previous-buffer)
+   'iflipb-previous-buffer)
 
 Or perhaps use functions keys like F9 and F10:
 

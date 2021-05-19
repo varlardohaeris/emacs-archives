@@ -64,3 +64,13 @@
  (naked "M-foobar") does: [M-foobar].
 
  Enjoy!
+
+
+ Command defined here:
+
+   `naked-read-kbd-macro'.
+
+ Non-interactive functions defined here:
+
+   `naked', `naked-edmacro-parse-keys', `naked-key-description',
+   `naked-read-kbd-macro', `naked-string-match-p'.

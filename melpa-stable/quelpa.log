@@ -1,0 +1,31 @@
+Package: quelpa
+Fetcher: github
+Source:  https://github.com/quelpa/quelpa.git
+
+Updating /mnt/store/melpa/working/quelpa/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/quelpa/
+  to /tmp/quelpailzvB8/quelpa-1.0
+    bootstrap.el -> bootstrap.el
+    quelpa.el -> quelpa.el
+Created quelpa-1.0.tar containing:
+  quelpa-1.0/
+  quelpa-1.0/bootstrap.el
+  quelpa-1.0/quelpa-pkg.el
+  quelpa-1.0/quelpa.el
+Built quelpa in 2.837s, finished at Wed May 19 01:45:11 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  343 May 19 01:45 packages-stable/quelpa-1.0.entry
+ 92K -rw-r--r-- 1 root root  90K May 19 01:45 packages-stable/quelpa-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/quelpa-badge.svg
+8.0K -rw-r--r-- 1 root root 5.5K May 18 22:30 packages-stable/quelpa-leaf-0.0.1.el
+4.0K -rw-r--r-- 1 root root  400 May 18 22:30 packages-stable/quelpa-leaf-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/quelpa-leaf-badge.svg
+4.0K -rw-r--r-- 1 root root  107 May 18 22:30 packages-stable/quelpa-leaf-readme.txt
+4.0K -rw-r--r-- 1 root root  136 May 19 01:45 packages-stable/quelpa-leaf.log
+4.0K -rw-r--r-- 1 root root  223 May 19 01:45 packages-stable/quelpa-readme.txt
+4.0K -rw-r--r-- 1 root root 4.0K May 18 22:30 packages-stable/quelpa-use-package-0.0.1.el
+4.0K -rw-r--r-- 1 root root  460 May 18 22:30 packages-stable/quelpa-use-package-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/quelpa-use-package-badge.svg
+4.0K -rw-r--r-- 1 root root  175 May 18 22:30 packages-stable/quelpa-use-package-readme.txt
+4.0K -rw-r--r-- 1 root root  157 May 19 01:45 packages-stable/quelpa-use-package.log

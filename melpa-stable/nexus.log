@@ -1,0 +1,6 @@
+Package: nexus
+Fetcher: github
+Source:  https://github.com/juergenhoetzel/emacs-nexus.git
+
+Updating /mnt/store/melpa/working/nexus/
+No valid stable versions found for nexus

@@ -1,3 +1,4 @@
+
 This file provides syntax highlighting and utility methods for Fvwm
 configuration files. Use the menu bar or C-h m to see what is available.
 
@@ -8,3 +9,4 @@ Thanks to Scott Andrew Borton for his excellent major mode
 
 Thanks also to Hun from #fvwm for testing, bugreporting and
 providing patches with added keywords.
+

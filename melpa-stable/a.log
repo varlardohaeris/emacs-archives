@@ -1,0 +1,11 @@
+Package: a
+Fetcher: github
+Source:  https://github.com/plexus/a.el.git
+
+Updating /mnt/store/melpa/working/a/
+Built a in 4.092s, finished at Wed May 19 04:18:09 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:18 packages-stable/a-0.1.1.el
+4.0K -rw-r--r-- 1 root root  353 May 19 04:18 packages-stable/a-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/a-badge.svg
+4.0K -rw-r--r-- 1 root root  426 May 19 04:18 packages-stable/a-readme.txt

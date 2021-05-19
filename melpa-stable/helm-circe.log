@@ -1,0 +1,11 @@
+Package: helm-circe
+Fetcher: github
+Source:  https://github.com/lesharris/helm-circe.git
+
+Updating /mnt/store/melpa/working/helm-circe/
+Built helm-circe in 3.088s, finished at Wed May 19 04:39:58 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K May 19 04:39 packages-stable/helm-circe-0.4.el
+4.0K -rw-r--r-- 1 root root  463 May 19 04:39 packages-stable/helm-circe-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-circe-badge.svg
+4.0K -rw-r--r-- 1 root root  270 May 19 04:39 packages-stable/helm-circe-readme.txt

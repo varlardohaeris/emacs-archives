@@ -1,0 +1,6 @@
+Package: terminal-focus-reporting
+Fetcher: github
+Source:  https://github.com/veelenga/terminal-focus-reporting.el.git
+
+Updating /mnt/store/melpa/working/terminal-focus-reporting/
+No valid stable versions found for terminal-focus-reporting

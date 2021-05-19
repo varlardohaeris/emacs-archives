@@ -1,0 +1,11 @@
+Package: hasky-extensions
+Fetcher: github
+Source:  https://github.com/hasky-mode/hasky-extensions.git
+
+Updating /mnt/store/melpa/working/hasky-extensions/
+Built hasky-extensions in 3.882s, finished at Wed May 19 04:39:35 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:39 packages-stable/hasky-extensions-0.2.0.el
+4.0K -rw-r--r-- 1 root root  429 May 19 04:39 packages-stable/hasky-extensions-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/hasky-extensions-badge.svg
+4.0K -rw-r--r-- 1 root root  402 May 19 04:39 packages-stable/hasky-extensions-readme.txt

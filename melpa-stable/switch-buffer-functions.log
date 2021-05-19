@@ -1,0 +1,11 @@
+Package: switch-buffer-functions
+Fetcher: github
+Source:  https://github.com/10sr/switch-buffer-functions-el.git
+
+Updating /mnt/store/melpa/working/switch-buffer-functions/
+Built switch-buffer-functions in 2.837s, finished at Wed May 19 01:50:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.3K May 19 01:50 packages-stable/switch-buffer-functions-0.0.1.el
+4.0K -rw-r--r-- 1 root root  392 May 19 01:50 packages-stable/switch-buffer-functions-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/switch-buffer-functions-badge.svg
+4.0K -rw-r--r-- 1 root root  576 May 19 01:50 packages-stable/switch-buffer-functions-readme.txt

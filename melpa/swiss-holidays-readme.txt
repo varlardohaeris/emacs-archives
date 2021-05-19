@@ -1,3 +1,4 @@
+
 The list of official Swiss holidays. With regional holidays included.
 
 Installation:

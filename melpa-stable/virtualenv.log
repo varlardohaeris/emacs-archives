@@ -1,0 +1,6 @@
+Package: virtualenv
+Fetcher: github
+Source:  https://github.com/aculich/virtualenv.el.git
+
+Updating /mnt/store/melpa/working/virtualenv/
+No valid stable versions found for virtualenv

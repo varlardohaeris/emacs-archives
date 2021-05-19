@@ -1,3 +1,4 @@
+
 Eldoc displays the function signature of the closest function call
 around point either in the minibuffer or in the modeline.
 

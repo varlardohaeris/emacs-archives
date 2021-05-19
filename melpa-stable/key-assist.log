@@ -1,0 +1,5 @@
+Package: key-assist
+Fetcher: github
+Source:  https://github.com/Boruch-Baum/emacs-key-assist.git
+
+Updating /mnt/store/melpa/working/key-assist/

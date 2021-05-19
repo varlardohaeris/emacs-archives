@@ -1,0 +1,21 @@
+Package: company-emoji
+Fetcher: github
+Source:  https://github.com/dunn/company-emoji.git
+
+Updating /mnt/store/melpa/working/company-emoji/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-emoji/
+  to /tmp/company-emojiN7GOCf/company-emoji-2.6.1
+    company-emoji-list.el -> company-emoji-list.el
+    company-emoji.el -> company-emoji.el
+Created company-emoji-2.6.1.tar containing:
+  company-emoji-2.6.1/
+  company-emoji-2.6.1/company-emoji-list.el
+  company-emoji-2.6.1/company-emoji-pkg.el
+  company-emoji-2.6.1/company-emoji.el
+Built company-emoji in 3.365s, finished at Wed May 19 04:24:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  380 May 19 04:24 packages-stable/company-emoji-2.6.1.entry
+100K -rw-r--r-- 1 root root 100K May 19 04:24 packages-stable/company-emoji-2.6.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-emoji-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K May 19 04:24 packages-stable/company-emoji-readme.txt

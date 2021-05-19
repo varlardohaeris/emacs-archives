@@ -1,0 +1,23 @@
+Package: term-cmd
+Fetcher: github
+Source:  https://github.com/calliecameron/term-cmd.git
+
+Updating /mnt/store/melpa/working/term-cmd/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/term-cmd/
+  to /tmp/term-cmdnB96D2/term-cmd-1.1
+    term-cmd-pkg.el -> term-cmd-pkg.el
+    term-cmd.el -> term-cmd.el
+    bin => bin
+Created term-cmd-1.1.tar containing:
+  term-cmd-1.1/
+  term-cmd-1.1/bin/
+  term-cmd-1.1/bin/emacs-term-cmd
+  term-cmd-1.1/term-cmd-pkg.el
+  term-cmd-1.1/term-cmd.el
+Built term-cmd in 4.238s, finished at Wed May 19 01:51:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  441 May 19 01:51 packages-stable/term-cmd-1.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:51 packages-stable/term-cmd-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/term-cmd-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K May 19 01:51 packages-stable/term-cmd-readme.txt

@@ -1,0 +1,11 @@
+Package: mgmtconfig-mode
+Fetcher: github
+Source:  https://github.com/purpleidea/mgmt.git
+
+Updating /mnt/store/melpa/working/mgmtconfig-mode/
+Built mgmtconfig-mode in 14.157s, finished at Wed May 19 01:35:23 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K May 19 01:35 packages-stable/mgmtconfig-mode-0.0.21.el
+4.0K -rw-r--r-- 1 root root  408 May 19 01:35 packages-stable/mgmtconfig-mode-0.0.21.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mgmtconfig-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  164 May 19 01:35 packages-stable/mgmtconfig-mode-readme.txt

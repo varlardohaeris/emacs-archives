@@ -1,0 +1,6 @@
+Package: python-test
+Fetcher: github
+Source:  https://github.com/emacs-pe/python-test.el.git
+
+Updating /mnt/store/melpa/working/python-test/
+No valid stable versions found for python-test

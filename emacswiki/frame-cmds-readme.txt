@@ -34,7 +34,7 @@
    Frame parameter changes, such as background color, can be saved
    for future use by all frames or all frames of a certain
    kind.  For that, you must change the frame parameters of the
-   correponding frame-alist variable.
+   corresponding frame-alist variable.
 
    There is no single variable for saving changes to parameters of
    the current frame.  Instead, there are several different
@@ -107,7 +107,7 @@
    `tile-frames-horizontally', `tile-frames-side-by-side',
    `tile-frames-top-to-bottom', `tile-frames-vertically',
    `toggle-max-frame', `toggle-max-frame-horizontally',
-   `toggle-max-frame-vertically'.
+   `toggle-max-frame-vertically', `toggle-menu-bar-for-frame'.
 
  Non-interactive functions defined here:
 

@@ -67,7 +67,7 @@ org-babel-sql-mode-post-execute-hook
 
 Recommended user configuration:
 
-Disable evaluation confirmation checks for sql-mode.
+;; Disable evaluation confirmation checks for sql-mode.
 (setq org-confirm-babel-evaluate
       (lambda (lang body)
         (not (string= lang "sql-mode"))))

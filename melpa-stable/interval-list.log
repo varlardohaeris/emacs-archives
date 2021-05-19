@@ -1,0 +1,6 @@
+Package: interval-list
+Fetcher: github
+Source:  https://github.com/Fuco1/interval-list.git
+
+Updating /mnt/store/melpa/working/interval-list/
+No valid stable versions found for interval-list

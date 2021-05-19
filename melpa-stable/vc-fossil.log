@@ -1,0 +1,6 @@
+Package: vc-fossil
+Fetcher: github
+Source:  https://github.com/venks1/emacs-fossil.git
+
+Updating /mnt/store/melpa/working/vc-fossil/
+No valid stable versions found for vc-fossil

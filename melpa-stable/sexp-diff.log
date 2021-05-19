@@ -1,0 +1,6 @@
+Package: sexp-diff
+Fetcher: github
+Source:  https://github.com/xuchunyang/sexp-diff.el.git
+
+Updating /mnt/store/melpa/working/sexp-diff/
+No valid stable versions found for sexp-diff

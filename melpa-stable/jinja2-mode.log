@@ -1,0 +1,11 @@
+Package: jinja2-mode
+Fetcher: github
+Source:  https://github.com/paradoxxxzero/jinja2-mode.git
+
+Updating /mnt/store/melpa/working/jinja2-mode/
+Built jinja2-mode in 5.858s, finished at Wed May 19 04:44:41 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:44 packages-stable/jinja2-mode-0.2.el
+4.0K -rw-r--r-- 1 root root  255 May 19 04:44 packages-stable/jinja2-mode-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/jinja2-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  228 May 19 04:44 packages-stable/jinja2-mode-readme.txt

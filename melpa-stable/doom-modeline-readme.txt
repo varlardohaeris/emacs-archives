@@ -1,3 +1,4 @@
+
 This package offers a fancy and fast mode-line inspired by minimalism design.
 
 It's integrated into Doom Emacs (https://github.com/hlissner/doom-emacs) and
@@ -25,10 +26,10 @@ The doom-modeline offers:
 - An indicator for unread emails with mu4e-alert
 - An indicator for unread emails with gnus (basically builtin)
 - An indicator for irc notifications with circe, rcirc or erc.
-- An indicator for buffer position which is compatible with nyan-mode
+- An indicator for buffer position which is compatible with nyan-mode or poke-line
 - An indicator for party parrot
 - An indicator for PDF page number with pdf-tools
-- An indicator for markdown/org preivews with grip
+- An indicator for markdown/org previews with grip
 - Truncated file name, file icon, buffer state and project name in buffer
   information segment, which is compatible with project, find-file-in-project
   and projectile

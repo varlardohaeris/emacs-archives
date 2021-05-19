@@ -1,0 +1,11 @@
+Package: icomplete-vertical
+Fetcher: github
+Source:  https://github.com/oantolin/icomplete-vertical.git
+
+Updating /mnt/store/melpa/working/icomplete-vertical/
+Built icomplete-vertical in 4.209s, finished at Wed May 19 04:42:36 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:42 packages-stable/icomplete-vertical-0.3.el
+4.0K -rw-r--r-- 1 root root  451 May 19 04:42 packages-stable/icomplete-vertical-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/icomplete-vertical-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:42 packages-stable/icomplete-vertical-readme.txt

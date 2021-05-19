@@ -1,0 +1,11 @@
+Package: direnv
+Fetcher: github
+Source:  https://github.com/wbolster/emacs-direnv.git
+
+Updating /mnt/store/melpa/working/direnv/
+Built direnv in 3.557s, finished at Wed May 19 04:28:07 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:28 packages-stable/direnv-2.1.0.el
+4.0K -rw-r--r-- 1 root root  398 May 19 04:28 packages-stable/direnv-2.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/direnv-badge.svg
+4.0K -rw-r--r-- 1 root root   89 May 19 04:28 packages-stable/direnv-readme.txt

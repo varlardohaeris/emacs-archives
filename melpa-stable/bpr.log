@@ -1,0 +1,6 @@
+Package: bpr
+Fetcher: github
+Source:  https://github.com/ilya-babanov/emacs-bpr.git
+
+Updating /mnt/store/melpa/working/bpr/
+No valid stable versions found for bpr

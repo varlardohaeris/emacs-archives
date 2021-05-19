@@ -1,0 +1,6 @@
+Package: poet-client
+Fetcher: github
+Source:  https://github.com/wailo/emacs-poet.git
+
+Updating /mnt/store/melpa/working/poet-client/
+No valid stable versions found for poet-client

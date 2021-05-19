@@ -1,0 +1,6 @@
+Package: farmhouse-theme
+Fetcher: github
+Source:  https://github.com/mattly/emacs-farmhouse-theme.git
+
+Updating /mnt/store/melpa/working/farmhouse-theme/
+No valid stable versions found for farmhouse-theme

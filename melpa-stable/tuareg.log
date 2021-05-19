@@ -1,0 +1,31 @@
+Package: tuareg
+Fetcher: github
+Source:  https://github.com/ocaml/tuareg.git
+
+Updating /mnt/store/melpa/working/tuareg/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tuareg/
+  to /tmp/tuareg9uYov6/tuareg-2.2.0
+    dot-emacs.el -> dot-emacs.el
+    ocamldebug.el -> ocamldebug.el
+    tuareg-jbuild.el -> tuareg-jbuild.el
+    tuareg-menhir.el -> tuareg-menhir.el
+    tuareg-opam.el -> tuareg-opam.el
+    tuareg-site-file.el -> tuareg-site-file.el
+    tuareg.el -> tuareg.el
+Created tuareg-2.2.0.tar containing:
+  tuareg-2.2.0/
+  tuareg-2.2.0/dot-emacs.el
+  tuareg-2.2.0/ocamldebug.el
+  tuareg-2.2.0/tuareg-jbuild.el
+  tuareg-2.2.0/tuareg-menhir.el
+  tuareg-2.2.0/tuareg-opam.el
+  tuareg-2.2.0/tuareg-pkg.el
+  tuareg-2.2.0/tuareg-site-file.el
+  tuareg-2.2.0/tuareg.el
+Built tuareg in 3.923s, finished at Wed May 19 01:53:04 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  586 May 19 01:53 packages-stable/tuareg-2.2.0.entry
+220K -rw-r--r-- 1 root root 220K May 19 01:53 packages-stable/tuareg-2.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/tuareg-badge.svg
+4.0K -rw-r--r-- 1 root root  441 May 19 01:53 packages-stable/tuareg-readme.txt

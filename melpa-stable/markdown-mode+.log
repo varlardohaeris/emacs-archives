@@ -1,0 +1,20 @@
+Package: markdown-mode+
+Fetcher: github
+Source:  https://github.com/milkypostman/markdown-mode-plus.git
+
+Updating /mnt/store/melpa/working/markdown-mode+/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/markdown-mode+/
+  to /tmp/markdown-mode+2V3W8a/markdown-mode+-0.8
+    markdown-mode+.el -> markdown-mode+.el
+    HTML as Markdown in Emacs.applescript -> HTML as Markdown in Emacs.applescript
+Created markdown-mode+-0.8.tar containing:
+  markdown-mode+-0.8/
+  markdown-mode+-0.8/HTML as Markdown in Emacs.applescript
+  markdown-mode+-0.8/markdown-mode+-pkg.el
+  markdown-mode+-0.8/markdown-mode+.el
+Built markdown-mode+ in 2.980s, finished at Tue May  4 21:39:39 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  368 May  4 21:39 packages-stable/markdown-mode+-0.8.entry
+ 12K -rw-r--r-- 1 root root  10K May  4 21:39 packages-stable/markdown-mode+-0.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K May  4 21:39 packages-stable/markdown-mode+-badge.svg

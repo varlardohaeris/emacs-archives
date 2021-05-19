@@ -1,0 +1,6 @@
+Package: confluence
+Fetcher: github
+Source:  https://github.com/emacsorphanage/confluence.git
+
+Updating /mnt/store/melpa/working/confluence/
+No valid stable versions found for confluence

@@ -1,0 +1,11 @@
+Package: elisp-def
+Fetcher: github
+Source:  https://github.com/Wilfred/elisp-def.git
+
+Updating /mnt/store/melpa/working/elisp-def/
+Built elisp-def in 4.445s, finished at Wed May 19 04:30:11 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  34K May 19 04:30 packages-stable/elisp-def-1.1.el
+4.0K -rw-r--r-- 1 root root  398 May 19 04:30 packages-stable/elisp-def-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elisp-def-badge.svg
+4.0K -rw-r--r-- 1 root root  177 May 19 04:30 packages-stable/elisp-def-readme.txt

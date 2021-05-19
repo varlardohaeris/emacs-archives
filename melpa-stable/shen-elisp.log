@@ -1,0 +1,26 @@
+Package: shen-elisp
+Fetcher: github
+Source:  https://github.com/deech/shen-elisp.git
+
+Updating /mnt/store/melpa/working/shen-elisp/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/shen-elisp/
+  to /tmp/shen-elisppRgvts/shen-elisp-0.1
+    shen-elisp-pkg.el -> shen-elisp-pkg.el
+    shen-elisp.el -> shen-elisp.el
+    shen-overlays.el -> shen-overlays.el
+    shen-primitives.el -> shen-primitives.el
+    shen-repl.el -> shen-repl.el
+Created shen-elisp-0.1.tar containing:
+  shen-elisp-0.1/
+  shen-elisp-0.1/shen-elisp-pkg.el
+  shen-elisp-0.1/shen-elisp.el
+  shen-elisp-0.1/shen-overlays.el
+  shen-elisp-0.1/shen-primitives.el
+  shen-elisp-0.1/shen-repl.el
+Built shen-elisp in 3.512s, finished at Wed May 19 01:48:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  350 May 19 01:48 packages-stable/shen-elisp-0.1.entry
+1.7M -rw-r--r-- 1 root root 1.7M May 19 01:48 packages-stable/shen-elisp-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shen-elisp-badge.svg
+4.0K -rw-r--r-- 1 root root  464 May 19 01:48 packages-stable/shen-elisp-readme.txt

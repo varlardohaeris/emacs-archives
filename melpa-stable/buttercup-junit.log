@@ -1,0 +1,11 @@
+Package: buttercup-junit
+Fetcher: git
+Source:  https://bitbucket.org/olanilsson/buttercup-junit
+
+Updating /mnt/store/melpa/working/buttercup-junit/
+Built buttercup-junit in 2.829s, finished at Wed May 19 04:22:25 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:22 packages-stable/buttercup-junit-1.1.1.el
+4.0K -rw-r--r-- 1 root root  442 May 19 04:22 packages-stable/buttercup-junit-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/buttercup-junit-badge.svg
+4.0K -rw-r--r-- 1 root root  905 May 19 04:22 packages-stable/buttercup-junit-readme.txt

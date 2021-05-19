@@ -1,0 +1,6 @@
+Package: mode-line-idle
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-mode-line-idle.git
+
+Updating /mnt/store/melpa/working/mode-line-idle/
+No valid stable versions found for mode-line-idle

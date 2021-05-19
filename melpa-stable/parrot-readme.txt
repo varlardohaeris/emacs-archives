@@ -1,3 +1,4 @@
+
 A minor mode for displaying party parrot in the modeline and rotating words.
 
 To load this file, add (require 'parrot) to your init file.  You can display

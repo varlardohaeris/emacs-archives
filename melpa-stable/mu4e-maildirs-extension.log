@@ -1,0 +1,11 @@
+Package: mu4e-maildirs-extension
+Fetcher: github
+Source:  https://github.com/agpchil/mu4e-maildirs-extension.git
+
+Updating /mnt/store/melpa/working/mu4e-maildirs-extension/
+Built mu4e-maildirs-extension in 3.727s, finished at Wed May 19 01:36:23 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 01:36 packages-stable/mu4e-maildirs-extension-0.8.el
+4.0K -rw-r--r-- 1 root root  364 May 19 01:36 packages-stable/mu4e-maildirs-extension-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mu4e-maildirs-extension-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:36 packages-stable/mu4e-maildirs-extension-readme.txt

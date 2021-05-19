@@ -1,0 +1,6 @@
+Package: projmake-mode
+Fetcher: github
+Source:  https://github.com/ericbmerritt/projmake-mode.git
+
+Updating /mnt/store/melpa/working/projmake-mode/
+No matching file(s) found in /mnt/store/melpa/working/projmake-mode/: (src/*.el)

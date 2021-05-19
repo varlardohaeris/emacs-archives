@@ -1,0 +1,16 @@
+Package: which-key
+Fetcher: github
+Source:  https://github.com/justbur/emacs-which-key.git
+
+Updating /mnt/store/melpa/working/which-key/
+Built which-key in 3.709s, finished at Wed May 19 01:54:58 2021
+ ✓ Success:
+116K -rw-r--r-- 1 root root 116K May 19 01:54 packages-stable/which-key-3.5.2.el
+4.0K -rw-r--r-- 1 root root  356 May 19 01:54 packages-stable/which-key-3.5.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/which-key-badge.svg
+8.0K -rw-r--r-- 1 root root 7.0K May 19 01:54 packages-stable/which-key-posframe-0.2.0.el
+4.0K -rw-r--r-- 1 root root  483 May 19 01:54 packages-stable/which-key-posframe-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:40 packages-stable/which-key-posframe-badge.svg
+4.0K -rw-r--r-- 1 root root   87 May 19 01:54 packages-stable/which-key-posframe-readme.txt
+4.0K -rw-r--r-- 1 root root  161 May 19 01:54 packages-stable/which-key-posframe.log
+4.0K -rw-r--r-- 1 root root  624 May 19 01:54 packages-stable/which-key-readme.txt

@@ -1,0 +1,6 @@
+Package: fic-mode
+Fetcher: github
+Source:  https://github.com/lewang/fic-mode.git
+
+Updating /mnt/store/melpa/working/fic-mode/
+No valid stable versions found for fic-mode

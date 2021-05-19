@@ -1,0 +1,6 @@
+Package: om-mode
+Fetcher: github
+Source:  https://github.com/danielsz/om-mode.git
+
+Updating /mnt/store/melpa/working/om-mode/
+No valid stable versions found for om-mode

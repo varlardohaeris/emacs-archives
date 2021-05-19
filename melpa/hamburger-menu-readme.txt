@@ -1,3 +1,4 @@
+
 A minor mode which adds a hamburger menu button to the mode line.
 
 Use instead of `menu-bar-mode' to save vertical space.  The

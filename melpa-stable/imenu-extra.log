@@ -1,0 +1,11 @@
+Package: imenu-extra
+Fetcher: github
+Source:  https://github.com/redguardtoo/imenu-extra.git
+
+Updating /mnt/store/melpa/working/imenu-extra/
+Built imenu-extra in 2.923s, finished at Wed May 19 04:42:59 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.4K May 19 04:42 packages-stable/imenu-extra-0.0.1.el
+4.0K -rw-r--r-- 1 root root  411 May 19 04:42 packages-stable/imenu-extra-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/imenu-extra-badge.svg
+4.0K -rw-r--r-- 1 root root  760 May 19 04:42 packages-stable/imenu-extra-readme.txt

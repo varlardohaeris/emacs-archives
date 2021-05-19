@@ -1,0 +1,6 @@
+Package: ox-ssh
+Fetcher: github
+Source:  https://github.com/dantecatalfamo/ox-ssh.git
+
+Updating /mnt/store/melpa/working/ox-ssh/
+No valid stable versions found for ox-ssh

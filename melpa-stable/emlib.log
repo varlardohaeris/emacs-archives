@@ -1,0 +1,6 @@
+Package: emlib
+Fetcher: github
+Source:  https://github.com/narendraj9/emlib.git
+
+Updating /mnt/store/melpa/working/emlib/
+No valid stable versions found for emlib

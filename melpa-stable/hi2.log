@@ -1,0 +1,11 @@
+Package: hi2
+Fetcher: github
+Source:  https://github.com/nilcons/hi2.git
+
+Updating /mnt/store/melpa/working/hi2/
+Built hi2 in 3.669s, finished at Wed May 19 04:41:35 2021
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  47K May 19 04:41 packages-stable/hi2-1.0.el
+4.0K -rw-r--r-- 1 root root  345 May 19 04:41 packages-stable/hi2-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/hi2-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:41 packages-stable/hi2-readme.txt

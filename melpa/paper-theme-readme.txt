@@ -1,3 +1,4 @@
+
 Paper is a  little, minimal emacs theme that is  meant to be simple
 and consistent.
 
@@ -14,7 +15,7 @@ It's most adapted for ELisp-Org users, as I'm one such user, though
 it  works fine  with Markdown,  Textile, Python,  JavaScript, Html,
 Diff, Magit, etc.
 
-Installation:
+; Installation:
 
 Install it into a directory that's in the `custom-theme-load-path'.
 I recommend  that you  put that directory  also in  `load-path', so
@@ -31,7 +32,7 @@ to your configuration.
   ;; Activate the theme.
   (load-theme 'paper t)
 
-Customisation:
+; Customisation:
 
 It is possible to modify the  base font size and the scaling factor
 for `org-level-faces' via  the variables `paper-base-font-size' and

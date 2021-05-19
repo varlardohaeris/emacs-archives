@@ -1,3 +1,4 @@
+
 Well this was my first excursion into ELisp programmming.  It didn't go too badly once
 I fiddled around with a bunch of the functions.
 
@@ -21,7 +22,7 @@ eg: ['value1'][0]['value2'] gets the array at with name value1, then gets the
 0th element of the array (another object), then gets the value at 'value2'.
 
 
-Installation:
+; Installation:
 
 IMPORTANT: Works ONLY in Emacs 24 due to the use of the lexical-binding variable.
 

@@ -1,0 +1,11 @@
+Package: manage-minor-mode-table
+Fetcher: github
+Source:  https://github.com/jcs-elpa/manage-minor-mode-table.git
+
+Updating /mnt/store/melpa/working/manage-minor-mode-table/
+Built manage-minor-mode-table in 3.111s, finished at Wed May 19 01:33:58 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K May 19 01:33 packages-stable/manage-minor-mode-table-0.1.3.el
+4.0K -rw-r--r-- 1 root root  413 May 19 01:33 packages-stable/manage-minor-mode-table-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/manage-minor-mode-table-badge.svg
+4.0K -rw-r--r-- 1 root root   30 May 19 01:33 packages-stable/manage-minor-mode-table-readme.txt

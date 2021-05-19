@@ -1,0 +1,27 @@
+Package: wsd-mode
+Fetcher: github
+Source:  https://github.com/josteink/wsd-mode.git
+
+Updating /mnt/store/melpa/working/wsd-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/wsd-mode/
+  to /tmp/wsd-modeMkrbfT/wsd-mode-0.5.0
+    company-wsdmode.el -> company-wsdmode.el
+    ob-wsdmode.el -> ob-wsdmode.el
+    wsd-core.el -> wsd-core.el
+    wsd-flycheck.el -> wsd-flycheck.el
+    wsd-mode.el -> wsd-mode.el
+Created wsd-mode-0.5.0.tar containing:
+  wsd-mode-0.5.0/
+  wsd-mode-0.5.0/company-wsdmode.el
+  wsd-mode-0.5.0/ob-wsdmode.el
+  wsd-mode-0.5.0/wsd-core.el
+  wsd-mode-0.5.0/wsd-flycheck.el
+  wsd-mode-0.5.0/wsd-mode-pkg.el
+  wsd-mode-0.5.0/wsd-mode.el
+Built wsd-mode in 3.786s, finished at Wed May 19 01:55:45 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  403 May 19 01:55 packages-stable/wsd-mode-0.5.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:55 packages-stable/wsd-mode-0.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/wsd-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/wsd-mode-readme.txt

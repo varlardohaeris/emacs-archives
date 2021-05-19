@@ -1,0 +1,6 @@
+Package: waf-mode
+Fetcher: git
+Source:  https://bitbucket.org/dvalchuk/waf-mode
+
+Updating /mnt/store/melpa/working/waf-mode/
+No valid stable versions found for waf-mode

@@ -1,0 +1,6 @@
+Package: graphql-mode
+Fetcher: github
+Source:  https://github.com/davazp/graphql-mode.git
+
+Updating /mnt/store/melpa/working/graphql-mode/
+No valid stable versions found for graphql-mode

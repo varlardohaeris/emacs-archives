@@ -1,0 +1,6 @@
+Package: helm-flx
+Fetcher: github
+Source:  https://github.com/PythonNut/helm-flx.git
+
+Updating /mnt/store/melpa/working/helm-flx/
+No valid stable versions found for helm-flx

@@ -1,0 +1,12 @@
+Package: chinese-word-at-point
+Fetcher: github
+Source:  https://github.com/xuchunyang/chinese-word-at-point.el.git
+
+Updating /mnt/store/melpa/working/chinese-word-at-point/
+Note: chinese-word-at-point :files spec is equivalent to the default.
+Built chinese-word-at-point in 3.500s, finished at Wed May 19 04:23:11 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.7K May 19 04:23 packages-stable/chinese-word-at-point-0.2.3.el
+4.0K -rw-r--r-- 1 root root  419 May 19 04:23 packages-stable/chinese-word-at-point-0.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/chinese-word-at-point-badge.svg
+4.0K -rw-r--r-- 1 root root  494 May 19 04:23 packages-stable/chinese-word-at-point-readme.txt

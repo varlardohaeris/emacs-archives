@@ -1,0 +1,6 @@
+Package: julia-shell
+Fetcher: github
+Source:  https://github.com/dennisog/julia-shell-mode.git
+
+Updating /mnt/store/melpa/working/julia-shell/
+No valid stable versions found for julia-shell

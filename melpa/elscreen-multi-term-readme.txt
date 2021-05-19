@@ -1,8 +1,8 @@
 This makes elscreen can manage multi term buffer each screen.
 
 To use this, add the following line somewhere in your init file:
-When you use this with elscreen-separate-buffer-list, you need to
-add this before (require 'elscreen-separate-buffer-list)
+;; When you use this with elscreen-separate-buffer-list, you need to
+;; add this before (require 'elscreen-separate-buffer-list)
 
      (require 'elscreen-multi-term)
 

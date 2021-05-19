@@ -1,0 +1,6 @@
+Package: mark-multiple
+Fetcher: github
+Source:  https://github.com/magnars/mark-multiple.el.git
+
+Updating /mnt/store/melpa/working/mark-multiple/
+No valid stable versions found for mark-multiple

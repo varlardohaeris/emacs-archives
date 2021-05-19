@@ -1,0 +1,11 @@
+Package: intero
+Fetcher: github
+Source:  https://github.com/chrisdone/intero.git
+
+Updating /mnt/store/melpa/working/intero/
+Built intero in 3.719s, finished at Thu Feb  4 20:42:46 2021
+ ✓ Success:
+152K -rw-r--r-- 1 root root 150K Feb  4 20:42 packages-stable/intero-0.1.40.el
+4.0K -rw-r--r-- 1 root root  443 Feb  4 20:42 packages-stable/intero-0.1.40.entry
+4.0K -rw-r--r-- 1 root root 1.2K Feb  4 20:42 packages-stable/intero-badge.svg
+4.0K -rw-r--r-- 1 root root  327 Feb  4 20:42 packages-stable/intero-readme.txt

@@ -1,0 +1,6 @@
+Package: nnhackernews
+Fetcher: github
+Source:  https://github.com/dickmao/nnhackernews.git
+
+Updating /mnt/store/melpa/working/nnhackernews/
+No valid stable versions found for nnhackernews

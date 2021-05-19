@@ -1,0 +1,6 @@
+Package: isortify
+Fetcher: github
+Source:  https://github.com/pythonic-emacs/isortify.git
+
+Updating /mnt/store/melpa/working/isortify/
+No valid stable versions found for isortify

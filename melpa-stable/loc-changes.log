@@ -1,0 +1,11 @@
+Package: loc-changes
+Fetcher: github
+Source:  https://github.com/rocky/emacs-loc-changes.git
+
+Updating /mnt/store/melpa/working/loc-changes/
+Built loc-changes in 3.194s, finished at Wed May 19 01:32:44 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.7K May 19 01:32 packages-stable/loc-changes-1.1.el
+4.0K -rw-r--r-- 1 root root  332 May 19 01:32 packages-stable/loc-changes-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/loc-changes-badge.svg
+4.0K -rw-r--r-- 1 root root  512 May 19 01:32 packages-stable/loc-changes-readme.txt

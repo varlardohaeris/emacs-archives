@@ -1,0 +1,6 @@
+Package: xah-lookup
+Fetcher: github
+Source:  https://github.com/xahlee/lookup-word-on-internet.git
+
+Updating /mnt/store/melpa/working/xah-lookup/
+No valid stable versions found for xah-lookup

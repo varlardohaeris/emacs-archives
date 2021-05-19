@@ -1,0 +1,27 @@
+Package: daemons
+Fetcher: github
+Source:  https://github.com/cbowdon/daemons.el.git
+
+Updating /mnt/store/melpa/working/daemons/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/daemons/
+  to /tmp/daemonsECZWy0/daemons-2.0.0
+    daemons-brew.el -> daemons-brew.el
+    daemons-shepherd.el -> daemons-shepherd.el
+    daemons-systemd.el -> daemons-systemd.el
+    daemons-sysvinit.el -> daemons-sysvinit.el
+    daemons.el -> daemons.el
+Created daemons-2.0.0.tar containing:
+  daemons-2.0.0/
+  daemons-2.0.0/daemons-brew.el
+  daemons-2.0.0/daemons-pkg.el
+  daemons-2.0.0/daemons-shepherd.el
+  daemons-2.0.0/daemons-systemd.el
+  daemons-2.0.0/daemons-sysvinit.el
+  daemons-2.0.0/daemons.el
+Built daemons in 3.257s, finished at Wed May 19 04:26:25 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  325 May 19 04:26 packages-stable/daemons-2.0.0.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:26 packages-stable/daemons-2.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/daemons-badge.svg
+4.0K -rw-r--r-- 1 root root  332 May 19 04:26 packages-stable/daemons-readme.txt

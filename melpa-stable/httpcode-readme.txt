@@ -1,3 +1,4 @@
+
 Explain the meaning of an HTTP status code. Copy httpcode.el to your
 load-path and add to your .emacs:
 
@@ -5,4 +6,4 @@ load-path and add to your .emacs:
 
 Then run it with M-x hc
 
-Code goes here:
+; Code goes here:

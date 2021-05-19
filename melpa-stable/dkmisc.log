@@ -1,0 +1,6 @@
+Package: dkmisc
+Fetcher: github
+Source:  https://github.com/davidkeegan/dkmisc.git
+
+Updating /mnt/store/melpa/working/dkmisc/
+No valid stable versions found for dkmisc

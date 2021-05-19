@@ -1,2 +1,13 @@
-
-(multi-run . [(1) ((emacs (24)) (window-layout (1 4))) "Manage multiple terminals and run commands on them" single ((:commit . "87d9eed414999fd94685148d39e5308c099e65ca") (:keywords "tools" "terminals") (:authors ("Sagar Jha")) (:maintainer "Sagar Jha") (:url . "https://www.github.com/sagarjha/multi-run"))])
+(multi-run .
+	   [(1)
+	    ((emacs
+	      (24))
+	     (window-layout
+	      (1 4)))
+	    "Manage multiple terminals and run commands on them" single
+	    ((:commit . "87d9eed414999fd94685148d39e5308c099e65ca")
+	     (:authors
+	      ("Sagar Jha"))
+	     (:maintainer "Sagar Jha")
+	     (:keywords "tools" "terminals")
+	     (:url . "https://www.github.com/sagarjha/multi-run"))])

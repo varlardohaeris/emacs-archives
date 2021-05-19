@@ -1,0 +1,6 @@
+Package: launch
+Fetcher: github
+Source:  https://github.com/sfllaw/emacs-launch.git
+
+Updating /mnt/store/melpa/working/launch/
+No valid stable versions found for launch

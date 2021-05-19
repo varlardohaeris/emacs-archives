@@ -1,0 +1,6 @@
+Package: message-attachment-reminder
+Fetcher: github
+Source:  https://github.com/alexmurray/message-attachment-reminder.git
+
+Updating /mnt/store/melpa/working/message-attachment-reminder/
+No valid stable versions found for message-attachment-reminder

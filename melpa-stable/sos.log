@@ -1,0 +1,6 @@
+Package: sos
+Fetcher: github
+Source:  https://github.com/emacsattic/sos.git
+
+Updating /mnt/store/melpa/working/sos/
+No valid stable versions found for sos

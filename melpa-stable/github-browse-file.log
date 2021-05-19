@@ -1,0 +1,11 @@
+Package: github-browse-file
+Fetcher: github
+Source:  https://github.com/osener/github-browse-file.git
+
+Updating /mnt/store/melpa/working/github-browse-file/
+Built github-browse-file in 2.748s, finished at Wed May 19 04:37:24 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K May 19 04:37 packages-stable/github-browse-file-0.5.0.el
+4.0K -rw-r--r-- 1 root root  433 May 19 04:37 packages-stable/github-browse-file-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/github-browse-file-badge.svg
+4.0K -rw-r--r-- 1 root root  204 May 19 04:37 packages-stable/github-browse-file-readme.txt

@@ -1,0 +1,21 @@
+Package: whizzml-mode
+Fetcher: github
+Source:  https://github.com/whizzml/whizzml-mode.git
+
+Updating /mnt/store/melpa/working/whizzml-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/whizzml-mode/
+  to /tmp/whizzml-modepx6cRf/whizzml-mode-0.35.1
+    whizzml-mode.el -> whizzml-mode.el
+    whizzml-skeletons.el -> whizzml-skeletons.el
+Created whizzml-mode-0.35.1.tar containing:
+  whizzml-mode-0.35.1/
+  whizzml-mode-0.35.1/whizzml-mode-pkg.el
+  whizzml-mode-0.35.1/whizzml-mode.el
+  whizzml-mode-0.35.1/whizzml-skeletons.el
+Built whizzml-mode in 4.385s, finished at Wed May 19 01:55:03 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  342 May 19 01:55 packages-stable/whizzml-mode-0.35.1.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:55 packages-stable/whizzml-mode-0.35.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/whizzml-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  158 May 19 01:55 packages-stable/whizzml-mode-readme.txt

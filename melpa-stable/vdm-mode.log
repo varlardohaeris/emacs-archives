@@ -1,0 +1,21 @@
+Package: vdm-mode
+Fetcher: github
+Source:  https://github.com/peterwvj/vdm-mode.git
+
+Updating /mnt/store/melpa/working/vdm-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vdm-mode/
+  to /tmp/vdm-modegMdwlV/vdm-mode-0.0.4
+    vdm-mode-util.el -> vdm-mode-util.el
+    vdm-mode.el -> vdm-mode.el
+Created vdm-mode-0.0.4.tar containing:
+  vdm-mode-0.0.4/
+  vdm-mode-0.0.4/vdm-mode-pkg.el
+  vdm-mode-0.0.4/vdm-mode-util.el
+  vdm-mode-0.0.4/vdm-mode.el
+Built vdm-mode in 3.596s, finished at Wed May 19 01:53:59 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  420 May 19 01:53 packages-stable/vdm-mode-0.0.4.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:53 packages-stable/vdm-mode-0.0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/vdm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  368 May 19 01:53 packages-stable/vdm-mode-readme.txt

@@ -1,0 +1,6 @@
+Package: gerrit-download
+Fetcher: github
+Source:  https://github.com/chmouel/gerrit-download.el.git
+
+Updating /mnt/store/melpa/working/gerrit-download/
+No valid stable versions found for gerrit-download

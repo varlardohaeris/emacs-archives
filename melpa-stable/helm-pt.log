@@ -1,0 +1,20 @@
+Package: helm-pt
+Fetcher: github
+Source:  https://github.com/ralesi/helm-pt.git
+
+Updating /mnt/store/melpa/working/helm-pt/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm-pt/
+  to /tmp/helm-ptUlvsMg/helm-pt-0.2
+    helm-pt-pkg.el -> helm-pt-pkg.el
+    helm-pt.el -> helm-pt.el
+Created helm-pt-0.2.tar containing:
+  helm-pt-0.2/
+  helm-pt-0.2/helm-pt-pkg.el
+  helm-pt-0.2/helm-pt.el
+Built helm-pt in 2.819s, finished at Wed May 19 04:40:59 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  271 May 19 04:40 packages-stable/helm-pt-0.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:40 packages-stable/helm-pt-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-pt-badge.svg
+4.0K -rw-r--r-- 1 root root  203 May 19 04:40 packages-stable/helm-pt-readme.txt

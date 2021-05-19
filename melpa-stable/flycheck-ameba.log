@@ -1,0 +1,11 @@
+Package: flycheck-ameba
+Fetcher: github
+Source:  https://github.com/crystal-ameba/ameba.el.git
+
+Updating /mnt/store/melpa/working/flycheck-ameba/
+Built flycheck-ameba in 3.095s, finished at Wed May 19 04:34:25 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.5K May 19 04:34 packages-stable/flycheck-ameba-0.1.0.el
+4.0K -rw-r--r-- 1 root root  257 May 19 04:34 packages-stable/flycheck-ameba-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-ameba-badge.svg
+4.0K -rw-r--r-- 1 root root  254 May 19 04:34 packages-stable/flycheck-ameba-readme.txt

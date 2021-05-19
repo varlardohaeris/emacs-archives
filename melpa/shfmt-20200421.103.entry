@@ -1,2 +1,13 @@
-
-(shfmt . [(20200421 103) ((emacs (24)) (reformatter (0 3))) "Reformat shell scripts using shfmt" single ((:commit . "342c55fab27f1e62472eebbb53cfc73b0d422a34") (:keywords "languages") (:authors ("Steve Purcell" . "steve@sanityinc.com")) (:maintainer "Steve Purcell" . "steve@sanityinc.com") (:url . "https://github.com/purcell/emacs-shfmt"))])
+(shfmt .
+       [(20200421 103)
+	((emacs
+	  (24))
+	 (reformatter
+	  (0 3)))
+	"Reformat shell scripts using shfmt" single
+	((:commit . "49c9e11567874bc4c5c4b3578a6b8f6b1948c691")
+	 (:authors
+	  ("Steve Purcell" . "steve@sanityinc.com"))
+	 (:maintainer "Steve Purcell" . "steve@sanityinc.com")
+	 (:keywords "languages")
+	 (:url . "https://github.com/purcell/emacs-shfmt"))])

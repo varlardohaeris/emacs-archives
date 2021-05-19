@@ -1,0 +1,6 @@
+Package: picpocket
+Fetcher: github
+Source:  https://github.com/johanclaesson/picpocket.git
+
+Updating /mnt/store/melpa/working/picpocket/
+No valid stable versions found for picpocket

@@ -1,0 +1,27 @@
+Package: sly-named-readtables
+Fetcher: github
+Source:  https://github.com/joaotavora/sly-named-readtables.git
+
+Updating /mnt/store/melpa/working/sly-named-readtables/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sly-named-readtables/
+  to /tmp/sly-named-readtablescDZdRH/sly-named-readtables-20191013.2138
+    sly-named-readtables-autoloads.el -> sly-named-readtables-autoloads.el
+    sly-named-readtables.el -> sly-named-readtables.el
+    example.lisp -> example.lisp
+    slynk-named-readtables.lisp -> slynk-named-readtables.lisp
+    slynk-named-readtables.asd -> slynk-named-readtables.asd
+Created sly-named-readtables-20191013.2138.tar containing:
+  sly-named-readtables-20191013.2138/
+  sly-named-readtables-20191013.2138/example.lisp
+  sly-named-readtables-20191013.2138/sly-named-readtables-autoloads.el
+  sly-named-readtables-20191013.2138/sly-named-readtables-pkg.el
+  sly-named-readtables-20191013.2138/sly-named-readtables.el
+  sly-named-readtables-20191013.2138/slynk-named-readtables.asd
+  sly-named-readtables-20191013.2138/slynk-named-readtables.lisp
+Built sly-named-readtables in 10.357s, finished at Wed May 19 04:04:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  438 May 19 04:04 packages/sly-named-readtables-20191013.2138.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:04 packages/sly-named-readtables-20191013.2138.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:04 packages/sly-named-readtables-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:04 packages/sly-named-readtables-readme.txt

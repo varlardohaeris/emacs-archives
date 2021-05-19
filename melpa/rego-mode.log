@@ -1,0 +1,11 @@
+Package: rego-mode
+Fetcher: github
+Source:  https://github.com/psibi/rego-mode.git
+
+Updating /mnt/store/melpa/working/rego-mode/
+Built rego-mode in 4.632s, finished at Wed May 19 04:00:32 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.6K May 19 04:00 packages/rego-mode-20201102.1420.el
+4.0K -rw-r--r-- 1 root root  405 May 19 04:00 packages/rego-mode-20201102.1420.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/rego-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  318 May 19 04:00 packages/rego-mode-readme.txt

@@ -1,0 +1,6 @@
+Package: blacken
+Fetcher: github
+Source:  https://github.com/pythonic-emacs/blacken.git
+
+Updating /mnt/store/melpa/working/blacken/
+No valid stable versions found for blacken

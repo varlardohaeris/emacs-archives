@@ -1,0 +1,6 @@
+Package: flycheck-yang
+Fetcher: github
+Source:  https://github.com/andaru/flycheck-yang.git
+
+Updating /mnt/store/melpa/working/flycheck-yang/
+No valid stable versions found for flycheck-yang

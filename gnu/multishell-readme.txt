@@ -47,6 +47,20 @@ repository for a bit more documentation.
 
 Change Log:
 
+* 2020-10-30 1.1.9 Ken Manheimer:
+  - Require cl-lib when compiling for cl-letf macro.
+* 2020-10-28 1.1.8 Ken Manheimer:
+  - Change back to having multishell-list require multishell,
+    rather than the other way around, and remove now unnecessary
+    new autoloads.
+  - Bump version for ELPA release.
+* 2020-10-28 1.1.7 Ken Manheimer:
+  - Forward compatibility: 'cl-progv' rather than 'progv', resolves
+    multishell-list error in recent emacs versions.
+  - Incorporate gnu refinements (thanks!)
+* 2016-06-27 1.1.6 Ken Manheimer (unreleased):
+  - When starting a remote shell, if cd fails to an inital remote
+    directory, try again without the cd.
 * 2016-02-11 1.1.5 Ken Manheimer:
   - Rectify multishell list sorting to preserve recentness
   - Increment the actual multishell-version setting, neglected for 1.1.4.

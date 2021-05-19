@@ -81,3 +81,4 @@ Bugs and gotchas
   the undo history. I might be doing something particularly stupid. Looking into it.
 
 * Reverting the buffer with active marks makes them unremovable.
+

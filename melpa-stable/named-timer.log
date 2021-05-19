@@ -1,0 +1,6 @@
+Package: named-timer
+Fetcher: github
+Source:  https://github.com/DarwinAwardWinner/emacs-named-timer.git
+
+Updating /mnt/store/melpa/working/named-timer/
+No valid stable versions found for named-timer

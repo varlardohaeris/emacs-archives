@@ -1,0 +1,6 @@
+Package: lxc
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-lxc.git
+
+Updating /mnt/store/melpa/working/lxc/
+No valid stable versions found for lxc

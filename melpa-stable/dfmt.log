@@ -1,0 +1,6 @@
+Package: dfmt
+Fetcher: github
+Source:  https://github.com/qsimpleq/elisp-dfmt.git
+
+Updating /mnt/store/melpa/working/dfmt/
+No valid stable versions found for dfmt

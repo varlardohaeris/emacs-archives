@@ -1,0 +1,6 @@
+Package: edts
+Fetcher: github
+Source:  https://github.com/sebastiw/edts.git
+
+Updating /mnt/store/melpa/working/edts/
+edts[-pkg].el matching package name is missing

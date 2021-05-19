@@ -1,0 +1,6 @@
+Package: helm-clojuredocs
+Fetcher: github
+Source:  https://github.com/mbuczko/helm-clojuredocs.git
+
+Updating /mnt/store/melpa/working/helm-clojuredocs/
+No valid stable versions found for helm-clojuredocs

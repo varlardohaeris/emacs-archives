@@ -1,3 +1,4 @@
+
 This package allows interactive image manipulation from within
 Emacs.  It uses the mogrify utility from ImageMagick to do the
 actual transformations.

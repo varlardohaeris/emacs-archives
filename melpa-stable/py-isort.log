@@ -1,0 +1,11 @@
+Package: py-isort
+Fetcher: github
+Source:  https://github.com/paetzke/py-isort.el.git
+
+Updating /mnt/store/melpa/working/py-isort/
+Built py-isort in 3.150s, finished at Wed May 19 01:44:44 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.0K May 19 01:44 packages-stable/py-isort-2016.1.el
+4.0K -rw-r--r-- 1 root root  339 May 19 01:44 packages-stable/py-isort-2016.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/py-isort-badge.svg
+4.0K -rw-r--r-- 1 root root  358 May 19 01:44 packages-stable/py-isort-readme.txt

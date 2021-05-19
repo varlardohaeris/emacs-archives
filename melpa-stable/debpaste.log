@@ -1,0 +1,11 @@
+Package: debpaste
+Fetcher: github
+Source:  https://github.com/alezost/debpaste.el.git
+
+Updating /mnt/store/melpa/working/debpaste/
+Built debpaste in 3.126s, finished at Wed May 19 04:26:49 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  37K May 19 04:26 packages-stable/debpaste-0.1.5.el
+4.0K -rw-r--r-- 1 root root  388 May 19 04:26 packages-stable/debpaste-0.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/debpaste-badge.svg
+4.0K -rw-r--r-- 1 root root  834 May 19 04:26 packages-stable/debpaste-readme.txt

@@ -1,0 +1,6 @@
+Package: netherlands-holidays
+Fetcher: github
+Source:  https://github.com/abo-abo/netherlands-holidays.git
+
+Updating /mnt/store/melpa/working/netherlands-holidays/
+No valid stable versions found for netherlands-holidays

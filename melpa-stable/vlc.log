@@ -1,0 +1,6 @@
+Package: vlc
+Fetcher: github
+Source:  https://github.com/xuchunyang/vlc.el.git
+
+Updating /mnt/store/melpa/working/vlc/
+No valid stable versions found for vlc

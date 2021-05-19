@@ -1,0 +1,6 @@
+Package: region-occurrences-highlighter
+Fetcher: github
+Source:  https://github.com/alvarogonzalezsotillo/region-occurrences-highlighter.git
+
+Updating /mnt/store/melpa/working/region-occurrences-highlighter/
+No valid stable versions found for region-occurrences-highlighter

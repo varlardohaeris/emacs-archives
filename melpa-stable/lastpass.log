@@ -1,0 +1,6 @@
+Package: lastpass
+Fetcher: github
+Source:  https://github.com/storvik/emacs-lastpass.git
+
+Updating /mnt/store/melpa/working/lastpass/
+No valid stable versions found for lastpass

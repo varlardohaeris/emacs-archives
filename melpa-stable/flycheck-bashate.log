@@ -1,0 +1,6 @@
+Package: flycheck-bashate
+Fetcher: github
+Source:  https://github.com/alexmurray/flycheck-bashate.git
+
+Updating /mnt/store/melpa/working/flycheck-bashate/
+No valid stable versions found for flycheck-bashate

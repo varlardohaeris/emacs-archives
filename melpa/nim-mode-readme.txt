@@ -29,3 +29,4 @@ You can omit if you configured flycheck-mode on 'prog-mode-hook
   (add-hook 'nimsuggest-mode-hook 'flycheck-mode) ; auto linter package
 
 See more information at https://github.com/nim-lang/nim-mode
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

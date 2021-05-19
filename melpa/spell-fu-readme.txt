@@ -1,7 +1,7 @@
 This package checks the spelling of on-screen text.
 
 
-Usage
+; Usage
 
 
 Write the following code to your .emacs file:

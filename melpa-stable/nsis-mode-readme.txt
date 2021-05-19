@@ -1,3 +1,4 @@
+
 A major mode for editing nsis files
 
 * Installation
@@ -11,3 +12,5 @@ Put this `nsis-mode' the load path, then add the following to your Emacs:
 
  (setq auto-mode-alist (append '(("\\.\\([Nn][Ss][Hh]\\)$" .
                                   nsis-mode)) auto-mode-alist))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

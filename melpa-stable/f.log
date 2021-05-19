@@ -1,0 +1,11 @@
+Package: f
+Fetcher: github
+Source:  https://github.com/rejeep/f.el.git
+
+Updating /mnt/store/melpa/working/f/
+Note: f :files spec is equivalent to the default.
+Built f in 6.147s, finished at Wed May 19 04:33:24 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K May 19 04:33 packages-stable/f-0.20.0.el
+4.0K -rw-r--r-- 1 root root  412 May 19 04:33 packages-stable/f-0.20.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/f-badge.svg

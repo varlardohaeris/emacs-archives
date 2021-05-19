@@ -2,7 +2,7 @@ This is a major mode for editing CleverCSS files.  Much of the
 functionality imitates that of `clevercss-mode'.  `clevercss-mode'
 provides support for imenu and hideshow.
 
-Installation:
+; Installation:
 
 - Put `clevercss.el' somewhere in your emacs load path
 - Add these lines to your .emacs file:
@@ -20,6 +20,6 @@ To customize how it works:
  M-x customize-group RET clevercss-mode RET
 
 
-Bug Reporting:
+; Bug Reporting:
 
 Patches welcome.

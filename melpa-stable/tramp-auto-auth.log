@@ -1,0 +1,6 @@
+Package: tramp-auto-auth
+Fetcher: github
+Source:  https://github.com/oitofelix/tramp-auto-auth.git
+
+Updating /mnt/store/melpa/working/tramp-auto-auth/
+No valid stable versions found for tramp-auto-auth

@@ -1,3 +1,4 @@
+
 Add the following to your .emacs file:
 
     ;; defines shortcut for loccur of the current word

@@ -1,0 +1,6 @@
+Package: flycheck-gradle
+Fetcher: github
+Source:  https://github.com/jojojames/flycheck-gradle.git
+
+Updating /mnt/store/melpa/working/flycheck-gradle/
+No valid stable versions found for flycheck-gradle

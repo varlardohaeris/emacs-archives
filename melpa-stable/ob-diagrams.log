@@ -1,0 +1,6 @@
+Package: ob-diagrams
+Fetcher: github
+Source:  https://github.com/bergey/org-babel-diagrams.git
+
+Updating /mnt/store/melpa/working/ob-diagrams/
+No valid stable versions found for ob-diagrams

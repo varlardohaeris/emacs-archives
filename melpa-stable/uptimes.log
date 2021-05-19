@@ -1,0 +1,11 @@
+Package: uptimes
+Fetcher: github
+Source:  https://github.com/davep/uptimes.el.git
+
+Updating /mnt/store/melpa/working/uptimes/
+Built uptimes in 3.306s, finished at Wed May 19 01:53:35 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K May 19 01:53 packages-stable/uptimes-3.8.el
+4.0K -rw-r--r-- 1 root root  380 May 19 01:53 packages-stable/uptimes-3.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/uptimes-badge.svg
+4.0K -rw-r--r-- 1 root root  287 May 19 01:53 packages-stable/uptimes-readme.txt

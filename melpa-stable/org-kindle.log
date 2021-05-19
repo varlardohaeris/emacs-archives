@@ -1,0 +1,6 @@
+Package: org-kindle
+Fetcher: github
+Source:  https://github.com/stardiviner/org-kindle.git
+
+Updating /mnt/store/melpa/working/org-kindle/
+No valid stable versions found for org-kindle

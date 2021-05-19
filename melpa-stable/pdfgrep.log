@@ -1,0 +1,6 @@
+Package: pdfgrep
+Fetcher: github
+Source:  https://github.com/jeremy-compostella/pdfgrep.git
+
+Updating /mnt/store/melpa/working/pdfgrep/
+No valid stable versions found for pdfgrep

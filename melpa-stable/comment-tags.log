@@ -1,0 +1,11 @@
+Package: comment-tags
+Fetcher: github
+Source:  https://github.com/vincekd/comment-tags.git
+
+Updating /mnt/store/melpa/working/comment-tags/
+Built comment-tags in 4.050s, finished at Wed May 19 04:24:12 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.5K May 19 04:24 packages-stable/comment-tags-0.1.el
+4.0K -rw-r--r-- 1 root root  431 May 19 04:24 packages-stable/comment-tags-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/comment-tags-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/comment-tags-readme.txt

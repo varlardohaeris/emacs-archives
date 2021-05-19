@@ -1,0 +1,23 @@
+Package: switch-window
+Fetcher: github
+Source:  https://github.com/dimitri/switch-window.git
+
+Updating /mnt/store/melpa/working/switch-window/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/switch-window/
+  to /tmp/switch-windowweZxRH/switch-window-1.6.2
+    switch-window-asciiart.el -> switch-window-asciiart.el
+    switch-window-mvborder.el -> switch-window-mvborder.el
+    switch-window.el -> switch-window.el
+Created switch-window-1.6.2.tar containing:
+  switch-window-1.6.2/
+  switch-window-1.6.2/switch-window-asciiart.el
+  switch-window-1.6.2/switch-window-mvborder.el
+  switch-window-1.6.2/switch-window-pkg.el
+  switch-window-1.6.2/switch-window.el
+Built switch-window in 2.707s, finished at Wed May 19 01:50:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  392 May 19 01:50 packages-stable/switch-window-1.6.2.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:50 packages-stable/switch-window-1.6.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/switch-window-badge.svg
+8.0K -rw-r--r-- 1 root root 6.6K May 19 01:50 packages-stable/switch-window-readme.txt

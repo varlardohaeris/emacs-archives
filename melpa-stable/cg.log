@@ -1,0 +1,6 @@
+Package: cg
+Fetcher: github
+Source:  https://github.com/emacsmirror/cg.git
+
+Updating /mnt/store/melpa/working/cg/
+No valid stable versions found for cg

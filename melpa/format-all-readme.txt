@@ -1,3 +1,4 @@
+
 Lets you auto-format source code in many languages using the same
 command for all languages, instead of learning a different Emacs
 package and formatting command for each language.
@@ -11,9 +12,12 @@ Supported languages:
 
 - Angular/Vue (prettier)
 - Assembly (asmfmt)
+- ATS (atsfmt)
 - Bazel Starlark (buildifier)
-- BibTeX (emacs)
-- C/C++/Objective-C (clang-format)
+- BibTeX (Emacs)
+- C/C++/Objective-C (clang-format, astyle)
+- C# (clang-format, astyle)
+- Cabal (cabal-fmt)
 - Clojure/ClojureScript (node-cljfmt)
 - CMake (cmake-format)
 - Crystal (crystal tool format)
@@ -24,36 +28,40 @@ Supported languages:
 - Dockerfile (dockfmt)
 - Elixir (mix format)
 - Elm (elm-format)
-- Emacs Lisp (emacs)
+- Emacs Lisp (Emacs)
 - Fish Shell (fish_indent)
 - Fortran 90 (fprettify)
-- Go (gofmt)
+- Gleam (gleam format)
+- GLSL (clang-format)
+- Go (gofmt, goimports)
 - GraphQL (prettier)
-- Haskell (brittany)
+- Haskell (brittany, hindent, ormolu, stylish-haskell)
 - HTML/XHTML/XML (tidy)
-- Java (clang-format)
-- JavaScript/JSON/JSX (prettier)
+- Java (clang-format, astyle)
+- JavaScript/JSON/JSX (prettier, standard)
 - Jsonnet (jsonnetfmt)
 - Kotlin (ktlint)
-- LaTeX (latexindent)
+- LaTeX (latexindent, auctex)
 - Ledger (ledger-mode)
-- Lua (lua-fmt)
+- Lua (lua-fmt, prettier plugin-lua)
 - Markdown (prettier)
-- Nix (nixfmt)
+- Nix (nixpkgs-fmt, nixfmt)
 - OCaml (ocp-indent)
 - Perl (perltidy)
 - PHP (prettier plugin-php)
 - Protocol Buffers (clang-format)
 - PureScript (purty)
-- Python (black)
+- Python (black, yapf)
 - R (styler)
+- Reason (bsrefmt)
+- ReScript (resfmt)
 - Ruby (rufo)
 - Rust (rustfmt)
 - Scala (scalafmt)
-- Shell script (shfmt)
+- Shell script (beautysh, shfmt)
 - Snakemake (snakefmt)
 - Solidity (prettier prettier-plugin-solidity)
-- SQL (sqlformat)
+- SQL (pgformatter, sqlformat)
 - Swift (swiftformat)
 - Terraform (terraform fmt)
 - TOML (prettier prettier-plugin-toml)
@@ -64,11 +72,6 @@ Supported languages:
 You will need to install external programs to do the formatting.
 If `format-all-buffer` can't find the right program, it will try to
 tell you how to install it.
-
-There are currently no customize variables, since it's not clear
-what approach should be taken.  Please see
-https://github.com/lassik/emacs-format-all-the-code/issues for
-discussion.
 
 Many of the external formatters support configuration files in the
 source code directory to control their formatting.  Please see the

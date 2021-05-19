@@ -1,0 +1,6 @@
+Package: pinyin
+Fetcher: github
+Source:  https://github.com/xuchunyang/pinyin.el.git
+
+Updating /mnt/store/melpa/working/pinyin/
+No valid stable versions found for pinyin

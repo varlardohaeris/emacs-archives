@@ -1,0 +1,36 @@
+Package: erlang
+Fetcher: github
+Source:  https://github.com/erlang/otp.git
+
+Updating /mnt/store/melpa/working/erlang/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/erlang/
+  to /tmp/erlang1tWHqs/erlang-24.0
+  ! lib/tools/emacs/erlang-edoc.el -> erlang-edoc.el
+  ! lib/tools/emacs/erlang-eunit.el -> erlang-eunit.el
+  ! lib/tools/emacs/erlang-flymake.el -> erlang-flymake.el
+  ! lib/tools/emacs/erlang-pkg.el -> erlang-pkg.el
+  ! lib/tools/emacs/erlang-skels-old.el -> erlang-skels-old.el
+  ! lib/tools/emacs/erlang-skels.el -> erlang-skels.el
+  ! lib/tools/emacs/erlang-start.el -> erlang-start.el
+  ! lib/tools/emacs/erlang-test.el -> erlang-test.el
+  ! lib/tools/emacs/erlang.el -> erlang.el
+  ! lib/tools/emacs/erldoc.el -> erldoc.el
+Created erlang-24.0.tar containing:
+  erlang-24.0/
+  erlang-24.0/erlang-edoc.el
+  erlang-24.0/erlang-eunit.el
+  erlang-24.0/erlang-flymake.el
+  erlang-24.0/erlang-pkg.el
+  erlang-24.0/erlang-skels-old.el
+  erlang-24.0/erlang-skels.el
+  erlang-24.0/erlang-start.el
+  erlang-24.0/erlang-test.el
+  erlang-24.0/erlang.el
+  erlang-24.0/erldoc.el
+Built erlang in 5.134s, finished at Wed May 19 04:31:28 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  250 May 19 04:31 packages-stable/erlang-24.0.entry
+432K -rw-r--r-- 1 root root 430K May 19 04:31 packages-stable/erlang-24.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/erlang-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:31 packages-stable/erlang-readme.txt

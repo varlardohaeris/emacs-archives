@@ -1,0 +1,11 @@
+Package: passmm
+Fetcher: github
+Source:  https://github.com/pjones/passmm.git
+
+Updating /mnt/store/melpa/working/passmm/
+Built passmm in 3.145s, finished at Wed May 19 01:42:09 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:42 packages-stable/passmm-0.4.1.el
+4.0K -rw-r--r-- 1 root root  341 May 19 01:42 packages-stable/passmm-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/passmm-badge.svg
+4.0K -rw-r--r-- 1 root root  149 May 19 01:42 packages-stable/passmm-readme.txt

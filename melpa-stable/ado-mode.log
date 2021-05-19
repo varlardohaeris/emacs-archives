@@ -1,0 +1,58 @@
+Package: ado-mode
+Fetcher: github
+Source:  https://github.com/louabill/ado-mode.git
+
+Updating /mnt/store/melpa/working/ado-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ado-mode/
+  to /tmp/ado-mode3soUwq/ado-mode-16.1.4
+  ! lisp/ado-clip.el -> ado-clip.el
+  ! lisp/ado-cons.el -> ado-cons.el
+  ! lisp/ado-cus.el -> ado-cus.el
+  ! lisp/ado-font-lock.el -> ado-font-lock.el
+  ! lisp/ado-font.el -> ado-font.el
+  ! lisp/ado-mode.el -> ado-mode.el
+  ! lisp/ado-stata-info.el -> ado-stata-info.el
+  ! lisp/ado-to-stata.el -> ado-to-stata.el
+    scripts => scripts
+    templates => templates
+Created ado-mode-16.1.4.tar containing:
+  ado-mode-16.1.4/
+  ado-mode-16.1.4/ado-clip.el
+  ado-mode-16.1.4/ado-cons.el
+  ado-mode-16.1.4/ado-cus.el
+  ado-mode-16.1.4/ado-font-lock.el
+  ado-mode-16.1.4/ado-font.el
+  ado-mode-16.1.4/ado-mode-pkg.el
+  ado-mode-16.1.4/ado-mode.el
+  ado-mode-16.1.4/ado-stata-info.el
+  ado-mode-16.1.4/ado-to-stata.el
+  ado-mode-16.1.4/scripts/
+  ado-mode-16.1.4/scripts/send2stata.au3
+  ado-mode-16.1.4/scripts/send2stata.exe
+  ado-mode-16.1.4/scripts/send2stata.scpt
+  ado-mode-16.1.4/scripts/send2ztata.sh
+  ado-mode-16.1.4/templates/
+  ado-mode-16.1.4/templates/ado.blp
+  ado-mode-16.1.4/templates/class.blp
+  ado-mode-16.1.4/templates/dialog.blp
+  ado-mode-16.1.4/templates/do.blp
+  ado-mode-16.1.4/templates/help.blp
+  ado-mode-16.1.4/templates/help10.blp
+  ado-mode-16.1.4/templates/help11.blp
+  ado-mode-16.1.4/templates/help6.blp
+  ado-mode-16.1.4/templates/help7.blp
+  ado-mode-16.1.4/templates/lbl.blp
+  ado-mode-16.1.4/templates/mata.blp
+  ado-mode-16.1.4/templates/pkg.blp
+  ado-mode-16.1.4/templates/readme
+  ado-mode-16.1.4/templates/smallado.blp
+  ado-mode-16.1.4/templates/sparse.blp
+  ado-mode-16.1.4/templates/testado.blp
+  ado-mode-16.1.4/templates/toc.blp
+Built ado-mode in 3.412s, finished at Wed May 19 04:18:51 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  422 May 19 04:18 packages-stable/ado-mode-16.1.4.entry
+1.3M -rw-r--r-- 1 root root 1.3M May 19 04:18 packages-stable/ado-mode-16.1.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ado-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  179 May 19 04:18 packages-stable/ado-mode-readme.txt

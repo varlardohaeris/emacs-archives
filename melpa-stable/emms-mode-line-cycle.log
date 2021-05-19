@@ -1,0 +1,11 @@
+Package: emms-mode-line-cycle
+Fetcher: github
+Source:  https://github.com/momomo5717/emms-mode-line-cycle.git
+
+Updating /mnt/store/melpa/working/emms-mode-line-cycle/
+Built emms-mode-line-cycle in 2.609s, finished at Wed May 19 04:30:52 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  10K May 19 04:30 packages-stable/emms-mode-line-cycle-0.2.5.el
+4.0K -rw-r--r-- 1 root root  376 May 19 04:30 packages-stable/emms-mode-line-cycle-0.2.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emms-mode-line-cycle-badge.svg
+4.0K -rw-r--r-- 1 root root  851 May 19 04:30 packages-stable/emms-mode-line-cycle-readme.txt

@@ -1,0 +1,11 @@
+Package: share2computer
+Fetcher: github
+Source:  https://github.com/tumashu/share2computer.git
+
+Updating /mnt/store/melpa/working/share2computer/
+Built share2computer in 4.433s, finished at Wed May 19 04:03:29 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  10K May 19 04:03 packages/share2computer-20200316.31.el
+4.0K -rw-r--r-- 1 root root  370 May 19 04:03 packages/share2computer-20200316.31.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:03 packages/share2computer-badge.svg
+4.0K -rw-r--r-- 1 root root  298 May 19 04:03 packages/share2computer-readme.txt

@@ -10,7 +10,7 @@ To install from source, copy the directory containing this file
 into your Emacs Lisp directory, assumed here to be ~/.emacs.d.  Add
 these lines of code to your .emacs file:
 
-rinari
+;; rinari
 (add-to-list 'load-path "~/.emacs.d/rinari")
 (require 'rinari)
 (global-rinari-mode)
@@ -18,7 +18,7 @@ rinari
 Whether installed through ELPA or from source you probably want to
 add the following lines to your .emacs file:
 
-ido
+;; ido
 (require 'ido)
 (ido-mode t)
 

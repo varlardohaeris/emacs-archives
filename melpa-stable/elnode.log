@@ -1,0 +1,6 @@
+Package: elnode
+Fetcher: github
+Source:  https://github.com/jcaw/elnode.git
+
+Updating /mnt/store/melpa/working/elnode/
+No valid stable versions found for elnode

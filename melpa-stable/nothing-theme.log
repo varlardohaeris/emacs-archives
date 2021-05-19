@@ -1,0 +1,6 @@
+Package: nothing-theme
+Fetcher: github
+Source:  https://github.com/jaredgorski/nothing.el.git
+
+Updating /mnt/store/melpa/working/nothing-theme/
+No valid stable versions found for nothing-theme

@@ -1,0 +1,6 @@
+Package: stock-ticker
+Fetcher: github
+Source:  https://github.com/hagleitn/stock-ticker.git
+
+Updating /mnt/store/melpa/working/stock-ticker/
+No valid stable versions found for stock-ticker

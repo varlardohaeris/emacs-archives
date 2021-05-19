@@ -1,0 +1,25 @@
+Package: nubox
+Fetcher: github
+Source:  https://github.com/martijnat/nubox.git
+
+Updating /mnt/store/melpa/working/nubox/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nubox/
+  to /tmp/nuboxTCGitx/nubox-20170619.910
+    nubox-dark-theme.el -> nubox-dark-theme.el
+    nubox-light-theme.el -> nubox-light-theme.el
+    nubox-tty-theme.el -> nubox-tty-theme.el
+    nubox.el -> nubox.el
+Created nubox-20170619.910.tar containing:
+  nubox-20170619.910/
+  nubox-20170619.910/nubox-dark-theme.el
+  nubox-20170619.910/nubox-light-theme.el
+  nubox-20170619.910/nubox-pkg.el
+  nubox-20170619.910/nubox-tty-theme.el
+  nubox-20170619.910/nubox.el
+Built nubox in 4.006s, finished at Wed May 19 03:48:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  296 May 19 03:48 packages/nubox-20170619.910.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 03:48 packages/nubox-20170619.910.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:48 packages/nubox-badge.svg
+4.0K -rw-r--r-- 1 root root  246 May 19 03:48 packages/nubox-readme.txt

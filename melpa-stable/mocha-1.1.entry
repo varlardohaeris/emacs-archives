@@ -1,2 +1,11 @@
-
-(mocha . [(1 1) ((js2-mode (20150909))) "Run Mocha or Jasmine tests" single ((:commit . "4ca9495d4b00b753f055152bd4256c07d7b208f4") (:keywords "javascript" "mocha" "jasmine") (:authors ("Al Scott")) (:maintainer "Al Scott") (:url . "http://github.com/scottaj/mocha.el"))])
+(mocha .
+       [(1 1)
+	((js2-mode
+	  (20150909)))
+	"Run Mocha or Jasmine tests" single
+	((:commit . "4ca9495d4b00b753f055152bd4256c07d7b208f4")
+	 (:authors
+	  ("Al Scott"))
+	 (:maintainer "Al Scott")
+	 (:keywords "javascript" "mocha" "jasmine")
+	 (:url . "http://github.com/scottaj/mocha.el"))])

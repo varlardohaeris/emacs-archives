@@ -1,0 +1,6 @@
+Package: helm-fuzzier
+Fetcher: github
+Source:  https://github.com/EphramPerdition/helm-fuzzier.git
+
+Updating /mnt/store/melpa/working/helm-fuzzier/
+No valid stable versions found for helm-fuzzier

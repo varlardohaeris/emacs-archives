@@ -1,3 +1,4 @@
+
 Company is a modular completion framework.  Modules for retrieving completion
 candidates are called backends, modules for displaying them are frontends.
 

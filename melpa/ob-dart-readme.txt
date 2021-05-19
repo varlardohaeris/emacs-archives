@@ -5,7 +5,7 @@
      the main() method
    - Session support
 
-Requirements:
+; Requirements:
 - Dart language installed - An implementation can be downloaded from
                             https://www.dartlang.org/downloads/
 - The dart executable is on the PATH

@@ -1,0 +1,6 @@
+Package: xwwp-follow-link-ivy
+Fetcher: github
+Source:  https://github.com/canatella/xwwp.git
+
+Updating /mnt/store/melpa/working/xwwp-follow-link-ivy/
+No valid stable versions found for xwwp-follow-link-ivy

@@ -1,0 +1,25 @@
+Package: m-buffer
+Fetcher: github
+Source:  https://github.com/phillord/m-buffer-el.git
+
+Updating /mnt/store/melpa/working/m-buffer/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/m-buffer/
+  to /tmp/m-bufferI9HCmU/m-buffer-0.15
+    m-buffer-at.el -> m-buffer-at.el
+    m-buffer-macro.el -> m-buffer-macro.el
+    m-buffer.el -> m-buffer.el
+    m-buffer-doc.org -> m-buffer-doc.org
+Created m-buffer-0.15.tar containing:
+  m-buffer-0.15/
+  m-buffer-0.15/m-buffer-at.el
+  m-buffer-0.15/m-buffer-doc.org
+  m-buffer-0.15/m-buffer-macro.el
+  m-buffer-0.15/m-buffer-pkg.el
+  m-buffer-0.15/m-buffer.el
+Built m-buffer in 2.804s, finished at Wed May 19 01:33:21 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  301 May 19 01:33 packages-stable/m-buffer-0.15.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:33 packages-stable/m-buffer-0.15.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/m-buffer-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 01:33 packages-stable/m-buffer-readme.txt

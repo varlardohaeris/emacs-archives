@@ -1,0 +1,11 @@
+Package: magit-gerrit
+Fetcher: github
+Source:  https://github.com/emacsorphanage/magit-gerrit.git
+
+Updating /mnt/store/melpa/working/magit-gerrit/
+Built magit-gerrit in 3.018s, finished at Wed May 19 01:33:33 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  21K May 19 01:33 packages-stable/magit-gerrit-0.3.el
+4.0K -rw-r--r-- 1 root root  352 May 19 01:33 packages-stable/magit-gerrit-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-gerrit-badge.svg
+4.0K -rw-r--r-- 1 root root  308 May 19 01:33 packages-stable/magit-gerrit-readme.txt

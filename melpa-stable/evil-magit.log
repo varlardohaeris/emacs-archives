@@ -1,0 +1,11 @@
+Package: evil-magit
+Fetcher: github
+Source:  https://github.com/emacs-evil/evil-magit.git
+
+Updating /mnt/store/melpa/working/evil-magit/
+Built evil-magit in 2.379s, finished at Sun Jan 24 22:19:58 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  25K Jan 24 22:19 packages-stable/evil-magit-0.4.2.el
+4.0K -rw-r--r-- 1 root root  387 Jan 24 22:19 packages-stable/evil-magit-0.4.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Jan 24 22:19 packages-stable/evil-magit-badge.svg
+4.0K -rw-r--r-- 1 root root  816 Jan 24 22:19 packages-stable/evil-magit-readme.txt

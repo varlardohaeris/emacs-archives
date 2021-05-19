@@ -1,0 +1,6 @@
+Package: scratch-ext
+Fetcher: github
+Source:  https://github.com/kyanagi/scratch-ext-el.git
+
+Updating /mnt/store/melpa/working/scratch-ext/
+No valid stable versions found for scratch-ext

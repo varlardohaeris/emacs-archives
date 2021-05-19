@@ -1,0 +1,11 @@
+Package: vue-mode
+Fetcher: github
+Source:  https://github.com/AdamNiederer/vue-mode.git
+
+Updating /mnt/store/melpa/working/vue-mode/
+Built vue-mode in 4.496s, finished at Wed May 19 04:13:49 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:13 packages/vue-mode-20190415.231.el
+4.0K -rw-r--r-- 1 root root  437 May 19 04:13 packages/vue-mode-20190415.231.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/vue-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:13 packages/vue-mode-readme.txt

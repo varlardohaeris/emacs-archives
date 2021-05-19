@@ -1,0 +1,12 @@
+Package: pcre2el
+Fetcher: github
+Source:  https://github.com/joddie/pcre2el.git
+
+Updating /mnt/store/melpa/working/pcre2el/
+Note: pcre2el :files spec is equivalent to the default.
+Built pcre2el in 3.531s, finished at Wed May 19 01:42:23 2021
+ ✓ Success:
+116K -rw-r--r-- 1 root root 115K May 19 01:42 packages-stable/pcre2el-1.8.el
+4.0K -rw-r--r-- 1 root root  322 May 19 01:42 packages-stable/pcre2el-1.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/pcre2el-badge.svg
+ 16K -rw-r--r-- 1 root root  16K May 19 01:42 packages-stable/pcre2el-readme.txt

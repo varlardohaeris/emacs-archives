@@ -1,0 +1,6 @@
+Package: swap-buffers
+Fetcher: github
+Source:  https://github.com/ekazakov/swap-buffers.git
+
+Updating /mnt/store/melpa/working/swap-buffers/
+No valid stable versions found for swap-buffers

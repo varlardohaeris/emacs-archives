@@ -1,0 +1,6 @@
+Package: helm-z
+Fetcher: github
+Source:  https://github.com/zonkyy/helm-z.git
+
+Updating /mnt/store/melpa/working/helm-z/
+No valid stable versions found for helm-z

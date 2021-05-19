@@ -1,0 +1,11 @@
+Package: battery-notifier
+Fetcher: github
+Source:  https://github.com/jasonmj/battery-notifier.git
+
+Updating /mnt/store/melpa/working/battery-notifier/
+Built battery-notifier in 2.943s, finished at Wed May 19 04:20:48 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K May 19 04:20 packages-stable/battery-notifier-0.2.1.el
+4.0K -rw-r--r-- 1 root root  409 May 19 04:20 packages-stable/battery-notifier-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/battery-notifier-badge.svg
+4.0K -rw-r--r-- 1 root root  317 May 19 04:20 packages-stable/battery-notifier-readme.txt

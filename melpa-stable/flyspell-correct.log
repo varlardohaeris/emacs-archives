@@ -1,0 +1,41 @@
+Package: flyspell-correct
+Fetcher: github
+Source:  https://github.com/d12frosted/flyspell-correct.git
+
+Updating /mnt/store/melpa/working/flyspell-correct/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flyspell-correct/
+  to /tmp/flyspell-correctpmYnVE/flyspell-correct-0.6.1
+    flyspell-correct.el -> flyspell-correct.el
+    flyspell-correct-ido.el -> flyspell-correct-ido.el
+Created flyspell-correct-0.6.1.tar containing:
+  flyspell-correct-0.6.1/
+  flyspell-correct-0.6.1/flyspell-correct-ido.el
+  flyspell-correct-0.6.1/flyspell-correct-pkg.el
+  flyspell-correct-0.6.1/flyspell-correct.el
+Built flyspell-correct in 2.980s, finished at Wed May 19 04:35:52 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  375 May 19 04:35 packages-stable/flyspell-correct-0.6.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:35 packages-stable/flyspell-correct-0.6.1.tar
+4.0K -rw-r--r-- 1 root root 2.7K May 19 04:35 packages-stable/flyspell-correct-avy-menu-0.6.1.el
+4.0K -rw-r--r-- 1 root root  543 May 19 04:35 packages-stable/flyspell-correct-avy-menu-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:21 packages-stable/flyspell-correct-avy-menu-badge.svg
+4.0K -rw-r--r-- 1 root root  494 May 19 04:35 packages-stable/flyspell-correct-avy-menu-readme.txt
+4.0K -rw-r--r-- 1 root root  173 May 19 04:35 packages-stable/flyspell-correct-avy-menu.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flyspell-correct-badge.svg
+4.0K -rw-r--r-- 1 root root 3.6K May 19 04:35 packages-stable/flyspell-correct-helm-0.6.1.el
+4.0K -rw-r--r-- 1 root root  430 May 19 01:21 packages-stable/flyspell-correct-helm-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:21 packages-stable/flyspell-correct-helm-badge.svg
+4.0K -rw-r--r-- 1 root root  478 May 19 01:21 packages-stable/flyspell-correct-helm-readme.txt
+4.0K -rw-r--r-- 1 root root  165 May 19 04:35 packages-stable/flyspell-correct-helm.log
+4.0K -rw-r--r-- 1 root root 2.5K May 19 01:21 packages-stable/flyspell-correct-ivy-0.6.1.el
+4.0K -rw-r--r-- 1 root root  435 May 19 01:21 packages-stable/flyspell-correct-ivy-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:21 packages-stable/flyspell-correct-ivy-badge.svg
+4.0K -rw-r--r-- 1 root root  474 May 19 01:21 packages-stable/flyspell-correct-ivy-readme.txt
+4.0K -rw-r--r-- 1 root root  163 May 19 04:35 packages-stable/flyspell-correct-ivy.log
+4.0K -rw-r--r-- 1 root root 2.1K May 19 01:21 packages-stable/flyspell-correct-popup-0.6.1.el
+4.0K -rw-r--r-- 1 root root  439 May 19 01:21 packages-stable/flyspell-correct-popup-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:21 packages-stable/flyspell-correct-popup-badge.svg
+4.0K -rw-r--r-- 1 root root  482 May 19 01:21 packages-stable/flyspell-correct-popup-readme.txt
+4.0K -rw-r--r-- 1 root root  167 May 19 04:35 packages-stable/flyspell-correct-popup.log
+4.0K -rw-r--r-- 1 root root 1.6K May 19 04:35 packages-stable/flyspell-correct-readme.txt

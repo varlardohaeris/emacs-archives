@@ -1,3 +1,4 @@
+
 Emacs built-in `completion-at-point' completion mechanism has no
 support for go by default. This package helps solve the problem by
 with a custom `completion-at-point' function, that should be added to

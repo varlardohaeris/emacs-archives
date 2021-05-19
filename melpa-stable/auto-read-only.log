@@ -1,0 +1,6 @@
+Package: auto-read-only
+Fetcher: github
+Source:  https://github.com/zonuexe/auto-read-only.el.git
+
+Updating /mnt/store/melpa/working/auto-read-only/
+No valid stable versions found for auto-read-only

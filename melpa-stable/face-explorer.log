@@ -1,0 +1,6 @@
+Package: face-explorer
+Fetcher: github
+Source:  https://github.com/Lindydancer/face-explorer.git
+
+Updating /mnt/store/melpa/working/face-explorer/
+No valid stable versions found for face-explorer

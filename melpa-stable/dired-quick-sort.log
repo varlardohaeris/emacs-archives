@@ -1,0 +1,11 @@
+Package: dired-quick-sort
+Fetcher: gitlab
+Source:  https://gitlab.com/xuhdev/dired-quick-sort.git
+
+Updating /mnt/store/melpa/working/dired-quick-sort/
+Built dired-quick-sort in 3.055s, finished at Wed May 19 04:27:57 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:27 packages-stable/dired-quick-sort-0.2.el
+4.0K -rw-r--r-- 1 root root  448 May 19 04:27 packages-stable/dired-quick-sort-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-quick-sort-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:27 packages-stable/dired-quick-sort-readme.txt

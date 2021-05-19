@@ -1,0 +1,6 @@
+Package: netrunner
+Fetcher: github
+Source:  https://github.com/Kungsgeten/netrunner.git
+
+Updating /mnt/store/melpa/working/netrunner/
+No valid stable versions found for netrunner

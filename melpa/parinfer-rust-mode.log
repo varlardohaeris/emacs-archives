@@ -1,0 +1,23 @@
+Package: parinfer-rust-mode
+Fetcher: github
+Source:  https://github.com/justinbarclay/parinfer-rust-mode.git
+
+Updating /mnt/store/melpa/working/parinfer-rust-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/parinfer-rust-mode/
+  to /tmp/parinfer-rust-mode8MUQ0m/parinfer-rust-mode-20210413.2
+    parinfer-rust-changes.el -> parinfer-rust-changes.el
+    parinfer-rust-helper.el -> parinfer-rust-helper.el
+    parinfer-rust-mode.el -> parinfer-rust-mode.el
+Created parinfer-rust-mode-20210413.2.tar containing:
+  parinfer-rust-mode-20210413.2/
+  parinfer-rust-mode-20210413.2/parinfer-rust-changes.el
+  parinfer-rust-mode-20210413.2/parinfer-rust-helper.el
+  parinfer-rust-mode-20210413.2/parinfer-rust-mode-pkg.el
+  parinfer-rust-mode-20210413.2/parinfer-rust-mode.el
+Built parinfer-rust-mode in 3.803s, finished at Wed May 19 03:54:14 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  445 May 19 03:54 packages/parinfer-rust-mode-20210413.2.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 03:54 packages/parinfer-rust-mode-20210413.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:54 packages/parinfer-rust-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 03:54 packages/parinfer-rust-mode-readme.txt

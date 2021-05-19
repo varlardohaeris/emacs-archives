@@ -1,0 +1,16 @@
+Package: typo
+Fetcher: github
+Source:  https://github.com/jorgenschaefer/typoel.git
+
+Updating /mnt/store/melpa/working/typo/
+Built typo in 4.912s, finished at Wed May 19 04:11:55 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K May 19 04:11 packages/typo-20200706.1714.el
+4.0K -rw-r--r-- 1 root root  346 May 19 04:11 packages/typo-20200706.1714.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/typo-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K May 19 04:11 packages/typo-readme.txt
+8.0K -rw-r--r-- 1 root root 7.9K May 19 04:11 packages/typo-suggest-20200830.1143.el
+4.0K -rw-r--r-- 1 root root  504 May 19 00:56 packages/typo-suggest-20200830.1143.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 00:56 packages/typo-suggest-badge.svg
+4.0K -rw-r--r-- 1 root root  581 May 19 00:56 packages/typo-suggest-readme.txt
+4.0K -rw-r--r-- 1 root root  146 May 19 04:11 packages/typo-suggest.log

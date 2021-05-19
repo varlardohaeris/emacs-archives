@@ -1,0 +1,6 @@
+Package: muban
+Fetcher: github
+Source:  https://github.com/jiahaowork/muban.el.git
+
+Updating /mnt/store/melpa/working/muban/
+No valid stable versions found for muban

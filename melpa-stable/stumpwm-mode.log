@@ -1,0 +1,11 @@
+Package: stumpwm-mode
+Fetcher: git
+Source:  https://git.savannah.nongnu.org/git/stumpwm.git
+
+Updating /mnt/store/melpa/working/stumpwm-mode/
+Built stumpwm-mode in 3.244s, finished at Wed May 19 01:50:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.4K May 19 01:50 packages-stable/stumpwm-mode-0.9.8.el
+4.0K -rw-r--r-- 1 root root  245 May 19 01:50 packages-stable/stumpwm-mode-0.9.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/stumpwm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  197 May 19 01:50 packages-stable/stumpwm-mode-readme.txt

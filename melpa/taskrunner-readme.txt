@@ -3,9 +3,9 @@ from several build systems and task runners.  The output produced can then be
 leveraged to create interactive user interfaces(helm/ivy for example) which
 will let the user select a task to be ran.
 
-Installation
+;; Installation
 
-MELPA
+;;; MELPA
 
 If you installed from MELPA, then make sure to also install one of the
 available frontends for this.  They are:
@@ -13,7 +13,7 @@ available frontends for this.  They are:
 - helm-taskrunner <- Uses helm as a frontend
 - ido-taskrunner <- Uses Ido as a frontend
 
-Manual
+;;; Manual
 
 Install these required packages:
 
@@ -29,14 +29,14 @@ Then put this folder in your load-path, and put this in your init:
 
 (require 'taskrunner)
 
-Usage
+;; Usage
 
 Please see README for more details on the interfaces and customizable options
 available.  This package is not meant to be used itself unless you are
 developing a new frontend or would like to retrieve information about the
 available tasks in a project/directory.
 
-Credits
+;; Credits
 
 This package would not have been possible without the following
 packages:

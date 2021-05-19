@@ -1,0 +1,6 @@
+Package: orgtbl-aggregate
+Fetcher: github
+Source:  https://github.com/tbanel/orgaggregate.git
+
+Updating /mnt/store/melpa/working/orgtbl-aggregate/
+No valid stable versions found for orgtbl-aggregate

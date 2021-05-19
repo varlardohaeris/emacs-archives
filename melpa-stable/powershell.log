@@ -1,0 +1,6 @@
+Package: powershell
+Fetcher: github
+Source:  https://github.com/jschaf/powershell.el.git
+
+Updating /mnt/store/melpa/working/powershell/
+End of file during parsing

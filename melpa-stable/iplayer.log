@@ -1,0 +1,11 @@
+Package: iplayer
+Fetcher: github
+Source:  https://github.com/csrhodes/iplayer-el.git
+
+Updating /mnt/store/melpa/working/iplayer/
+Built iplayer in 3.292s, finished at Wed May 19 04:43:37 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:43 packages-stable/iplayer-0.1.el
+4.0K -rw-r--r-- 1 root root  348 May 19 04:43 packages-stable/iplayer-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/iplayer-badge.svg
+4.0K -rw-r--r-- 1 root root   93 May 19 04:43 packages-stable/iplayer-readme.txt

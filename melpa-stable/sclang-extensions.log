@@ -1,0 +1,6 @@
+Package: sclang-extensions
+Fetcher: github
+Source:  https://github.com/chrisbarrett/sclang-extensions.git
+
+Updating /mnt/store/melpa/working/sclang-extensions/
+No valid stable versions found for sclang-extensions

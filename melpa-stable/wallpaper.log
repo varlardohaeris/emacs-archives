@@ -1,0 +1,6 @@
+Package: wallpaper
+Fetcher: github
+Source:  https://github.com/farlado/emacs-wallpaper.git
+
+Updating /mnt/store/melpa/working/wallpaper/
+No valid stable versions found for wallpaper

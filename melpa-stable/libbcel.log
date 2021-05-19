@@ -1,0 +1,27 @@
+Package: libbcel
+Fetcher: github
+Source:  https://github.com/DamienCassou/libbcel.git
+
+Updating /mnt/store/melpa/working/libbcel/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/libbcel/
+  to /tmp/libbcel6ka4QY/libbcel-0.4.0
+    libbcel-client.el -> libbcel-client.el
+    libbcel-nav.el -> libbcel-nav.el
+    libbcel-oauth.el -> libbcel-oauth.el
+    libbcel-structs.el -> libbcel-structs.el
+    libbcel.el -> libbcel.el
+Created libbcel-0.4.0.tar containing:
+  libbcel-0.4.0/
+  libbcel-0.4.0/libbcel-client.el
+  libbcel-0.4.0/libbcel-nav.el
+  libbcel-0.4.0/libbcel-oauth.el
+  libbcel-0.4.0/libbcel-pkg.el
+  libbcel-0.4.0/libbcel-structs.el
+  libbcel-0.4.0/libbcel.el
+Built libbcel in 3.260s, finished at Wed May 19 01:32:12 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  349 May 19 01:32 packages-stable/libbcel-0.4.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:32 packages-stable/libbcel-0.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/libbcel-badge.svg
+4.0K -rw-r--r-- 1 root root  177 May 19 01:32 packages-stable/libbcel-readme.txt

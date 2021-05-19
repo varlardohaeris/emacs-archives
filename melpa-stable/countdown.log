@@ -1,0 +1,6 @@
+Package: countdown
+Fetcher: github
+Source:  https://github.com/xuchunyang/countdown.el.git
+
+Updating /mnt/store/melpa/working/countdown/
+No valid stable versions found for countdown

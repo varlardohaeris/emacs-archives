@@ -1,0 +1,6 @@
+Package: flymake-solidity
+Fetcher: github
+Source:  https://github.com/kootenpv/flymake-solidity.git
+
+Updating /mnt/store/melpa/working/flymake-solidity/
+No valid stable versions found for flymake-solidity

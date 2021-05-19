@@ -1,0 +1,11 @@
+Package: hl-todo
+Fetcher: github
+Source:  https://github.com/tarsius/hl-todo.git
+
+Updating /mnt/store/melpa/working/hl-todo/
+Built hl-todo in 3.557s, finished at Wed May 19 04:41:58 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:41 packages-stable/hl-todo-3.3.0.el
+4.0K -rw-r--r-- 1 root root  353 May 19 04:41 packages-stable/hl-todo-3.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/hl-todo-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/hl-todo-readme.txt

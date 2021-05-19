@@ -1,0 +1,6 @@
+Package: docean
+Fetcher: github
+Source:  https://github.com/emacsorphanage/docean.git
+
+Updating /mnt/store/melpa/working/docean/
+No valid stable versions found for docean

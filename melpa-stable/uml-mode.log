@@ -1,0 +1,6 @@
+Package: uml-mode
+Fetcher: github
+Source:  https://github.com/ianxm/emacs-uml.git
+
+Updating /mnt/store/melpa/working/uml-mode/
+No valid stable versions found for uml-mode

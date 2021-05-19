@@ -1,0 +1,11 @@
+Package: goto-chg
+Fetcher: github
+Source:  https://github.com/emacs-evil/goto-chg.git
+
+Updating /mnt/store/melpa/working/goto-chg/
+Built goto-chg in 2.964s, finished at Wed May 19 04:38:22 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 04:38 packages-stable/goto-chg-1.7.3.el
+4.0K -rw-r--r-- 1 root root  368 May 19 04:38 packages-stable/goto-chg-1.7.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/goto-chg-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K May 19 04:38 packages-stable/goto-chg-readme.txt

@@ -1,0 +1,6 @@
+Package: flycheck-elm
+Fetcher: github
+Source:  https://github.com/bsermons/flycheck-elm.git
+
+Updating /mnt/store/melpa/working/flycheck-elm/
+No valid stable versions found for flycheck-elm

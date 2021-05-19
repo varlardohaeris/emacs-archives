@@ -1,0 +1,6 @@
+Package: evil-expat
+Fetcher: github
+Source:  https://github.com/edkolev/evil-expat.git
+
+Updating /mnt/store/melpa/working/evil-expat/
+No valid stable versions found for evil-expat

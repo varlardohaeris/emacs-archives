@@ -1,0 +1,6 @@
+Package: empos
+Fetcher: github
+Source:  https://github.com/dimalik/empos.git
+
+Updating /mnt/store/melpa/working/empos/
+No valid stable versions found for empos

@@ -1,8 +1,9 @@
+
 This is a minor mode on top of js2-mode which highlights all
 occurrences of the variable under the cursor within its defining
 scope.
 
-Installation:
+; Installation:
 
 Install this package from MELPA using `M-x install-package` and put
 the following in your ~/.emacs.d/init.el:

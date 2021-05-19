@@ -1,0 +1,6 @@
+Package: org-variable-pitch
+Fetcher: github
+Source:  https://github.com/cadadr/elisp.git
+
+Updating /mnt/store/melpa/working/org-variable-pitch/
+No valid stable versions found for org-variable-pitch

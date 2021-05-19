@@ -1,0 +1,6 @@
+Package: stylefmt
+Fetcher: github
+Source:  https://github.com/KeenS/stylefmt.el.git
+
+Updating /mnt/store/melpa/working/stylefmt/
+No valid stable versions found for stylefmt

@@ -1,0 +1,11 @@
+Package: rust-mode
+Fetcher: github
+Source:  https://github.com/rust-lang/rust-mode.git
+
+Updating /mnt/store/melpa/working/rust-mode/
+Built rust-mode in 3.097s, finished at Wed May 19 01:47:18 2021
+ ✓ Success:
+ 84K -rw-r--r-- 1 root root  83K May 19 01:47 packages-stable/rust-mode-0.5.0.el
+4.0K -rw-r--r-- 1 root root  333 May 19 01:47 packages-stable/rust-mode-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/rust-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:47 packages-stable/rust-mode-readme.txt

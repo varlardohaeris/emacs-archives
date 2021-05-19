@@ -1,0 +1,11 @@
+Package: speedbar-git-respect
+Fetcher: github
+Source:  https://github.com/ukari/speedbar-git-respect.git
+
+Updating /mnt/store/melpa/working/speedbar-git-respect/
+Built speedbar-git-respect in 2.837s, finished at Wed May 19 01:49:54 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.9K May 19 01:49 packages-stable/speedbar-git-respect-0.1.1.el
+4.0K -rw-r--r-- 1 root root  397 May 19 01:49 packages-stable/speedbar-git-respect-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/speedbar-git-respect-badge.svg
+4.0K -rw-r--r-- 1 root root  465 May 19 01:49 packages-stable/speedbar-git-respect-readme.txt

@@ -3,7 +3,7 @@ It can be used to keep track of where time is being spent during Emacs
 startup in order to optimize startup times.
 The code is based on init-benchmarking.el by Steve Purcell.
 
-Installation:
+; Installation:
 
 Place this file in your load path and add the following code to the
 beginning of your Emacs initialization script:

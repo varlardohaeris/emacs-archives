@@ -1,0 +1,11 @@
+Package: org-autolist
+Fetcher: github
+Source:  https://github.com/calvinwyoung/org-autolist.git
+
+Updating /mnt/store/melpa/working/org-autolist/
+Built org-autolist in 2.834s, finished at Wed May 19 01:38:57 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K May 19 01:38 packages-stable/org-autolist-0.14.el
+4.0K -rw-r--r-- 1 root root  324 May 19 01:38 packages-stable/org-autolist-0.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/org-autolist-badge.svg
+4.0K -rw-r--r-- 1 root root  707 May 19 01:38 packages-stable/org-autolist-readme.txt

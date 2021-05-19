@@ -1,0 +1,11 @@
+Package: flycheck-crystal
+Fetcher: github
+Source:  https://github.com/crystal-lang-tools/emacs-crystal-mode.git
+
+Updating /mnt/store/melpa/working/flycheck-crystal/
+Built flycheck-crystal in 3.067s, finished at Wed May 19 04:34:35 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.4K May 19 04:34 packages-stable/flycheck-crystal-0.1.0.el
+4.0K -rw-r--r-- 1 root root  287 May 19 04:34 packages-stable/flycheck-crystal-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-crystal-badge.svg
+4.0K -rw-r--r-- 1 root root  254 May 19 04:34 packages-stable/flycheck-crystal-readme.txt

@@ -1,0 +1,11 @@
+Package: persp-projectile
+Fetcher: github
+Source:  https://github.com/bbatsov/persp-projectile.git
+
+Updating /mnt/store/melpa/working/persp-projectile/
+Built persp-projectile in 2.993s, finished at Wed May 19 01:42:34 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.5K May 19 01:42 packages-stable/persp-projectile-0.2.0.el
+4.0K -rw-r--r-- 1 root root  360 May 19 01:42 packages-stable/persp-projectile-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/persp-projectile-badge.svg
+4.0K -rw-r--r-- 1 root root  643 May 19 01:42 packages-stable/persp-projectile-readme.txt

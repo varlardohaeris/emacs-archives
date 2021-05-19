@@ -4,7 +4,7 @@
 ;; Maintainer: Paul Oppenheimer
 ;; Version: 1.0.3
 ;; Package-Version: 1.0.4
-;; Package-Commit: 4462a5ab071ec001734e92d1ac2e5fa9721b94bd
+;; Package-Commit: a60af277fbb52306c17663074cf9954dd6cea024
 ;; Package-Requires: ((emacs "25.1"))
 ;; Homepage: https://github.com/bepvte/gtk-variant.el
 ;; Keywords: frames,  GTK, titlebar

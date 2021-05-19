@@ -1,2 +1,8 @@
-
-(shm . [(1 0 20) nil "Structured Haskell Mode" tar ((:commit . "8abc5cd73e59ea85bef906e14e87dc388c4f350f") (:keywords "development" "haskell" "structured") (:authors ("Chris Done" . "chrisdone@gmail.com")) (:maintainer "Chris Done" . "chrisdone@gmail.com"))])
+(shm .
+     [(1 0 20)
+      nil "Structured Haskell Mode" tar
+      ((:commit . "8abc5cd73e59ea85bef906e14e87dc388c4f350f")
+       (:authors
+	("Chris Done" . "chrisdone@gmail.com"))
+       (:maintainer "Chris Done" . "chrisdone@gmail.com")
+       (:keywords "development" "haskell" "structured"))])

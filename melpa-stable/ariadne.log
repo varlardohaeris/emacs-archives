@@ -1,0 +1,6 @@
+Package: ariadne
+Fetcher: github
+Source:  https://github.com/manzyuk/ariadne-el.git
+
+Updating /mnt/store/melpa/working/ariadne/
+No valid stable versions found for ariadne

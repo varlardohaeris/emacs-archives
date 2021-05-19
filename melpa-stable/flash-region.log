@@ -1,0 +1,6 @@
+Package: flash-region
+Fetcher: github
+Source:  https://github.com/Fuco1/flash-region.git
+
+Updating /mnt/store/melpa/working/flash-region/
+No valid stable versions found for flash-region

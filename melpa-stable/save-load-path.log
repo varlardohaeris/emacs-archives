@@ -1,0 +1,6 @@
+Package: save-load-path
+Fetcher: github
+Source:  https://github.com/rubikitch/save-load-path.git
+
+Updating /mnt/store/melpa/working/save-load-path/
+No valid stable versions found for save-load-path

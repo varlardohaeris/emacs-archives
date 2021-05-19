@@ -1,0 +1,6 @@
+Package: elvish-mode
+Fetcher: github
+Source:  https://github.com/ALSchwalm/elvish-mode.git
+
+Updating /mnt/store/melpa/working/elvish-mode/
+No valid stable versions found for elvish-mode

@@ -1,0 +1,6 @@
+Package: scihub
+Fetcher: github
+Source:  https://github.com/emacs-pe/scihub.el.git
+
+Updating /mnt/store/melpa/working/scihub/
+No valid stable versions found for scihub

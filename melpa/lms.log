@@ -1,0 +1,11 @@
+Package: lms
+Fetcher: hg
+Source:  https://hg.serna.eu/emacs/lms
+
+Updating /mnt/store/melpa/working/lms/
+Built lms in 18.680s, finished at Wed May 19 03:41:03 2021
+ ✓ Success:
+ 72K -rw-r--r-- 1 root root  72K May 19 03:41 packages/lms-20201214.1852.el
+4.0K -rw-r--r-- 1 root root  375 May 19 03:41 packages/lms-20201214.1852.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:41 packages/lms-badge.svg
+4.0K -rw-r--r-- 1 root root  730 May 19 03:41 packages/lms-readme.txt

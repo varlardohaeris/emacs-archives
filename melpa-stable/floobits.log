@@ -1,0 +1,68 @@
+Package: floobits
+Fetcher: github
+Source:  https://github.com/Floobits/floobits-emacs.git
+
+Updating /mnt/store/melpa/working/floobits/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/floobits/
+  to /tmp/floobitsLKsfwf/floobits-1.9.3
+    floo => floo
+    floobits.el -> floobits.el
+    floobits.py -> floobits.py
+Created floobits-1.9.3.tar containing:
+  floobits-1.9.3/
+  floobits-1.9.3/floo/
+  floobits-1.9.3/floo/__init__.py
+  floobits-1.9.3/floo/agent_connection.py
+  floobits-1.9.3/floo/common/
+  floobits-1.9.3/floo/common/.floo
+  floobits-1.9.3/floo/common/.flooignore
+  floobits-1.9.3/floo/common/.gitignore
+  floobits-1.9.3/floo/common/LICENSE
+  floobits-1.9.3/floo/common/NOTICE
+  floobits-1.9.3/floo/common/README.md
+  floobits-1.9.3/floo/common/__init__.py
+  floobits-1.9.3/floo/common/api.py
+  floobits-1.9.3/floo/common/cert.py
+  floobits-1.9.3/floo/common/event_emitter.py
+  floobits-1.9.3/floo/common/exc_fmt.py
+  floobits-1.9.3/floo/common/flooui.py
+  floobits-1.9.3/floo/common/handlers/
+  floobits-1.9.3/floo/common/handlers/__init__.py
+  floobits-1.9.3/floo/common/handlers/account.py
+  floobits-1.9.3/floo/common/handlers/base.py
+  floobits-1.9.3/floo/common/handlers/credentials.py
+  floobits-1.9.3/floo/common/handlers/floo_handler.py
+  floobits-1.9.3/floo/common/handlers/tcp_server.py
+  floobits-1.9.3/floo/common/ignore.py
+  floobits-1.9.3/floo/common/lib/
+  floobits-1.9.3/floo/common/lib/__init__.py
+  floobits-1.9.3/floo/common/lib/diff_match_patch.py
+  floobits-1.9.3/floo/common/lib/dmp_monkey.py
+  floobits-1.9.3/floo/common/msg.py
+  floobits-1.9.3/floo/common/protocols/
+  floobits-1.9.3/floo/common/protocols/__init__.py
+  floobits-1.9.3/floo/common/protocols/base.py
+  floobits-1.9.3/floo/common/protocols/floo_proto.py
+  floobits-1.9.3/floo/common/protocols/no_reconnect.py
+  floobits-1.9.3/floo/common/protocols/proxy.py
+  floobits-1.9.3/floo/common/protocols/tcp_server.py
+  floobits-1.9.3/floo/common/proxy.py
+  floobits-1.9.3/floo/common/reactor.py
+  floobits-1.9.3/floo/common/repo.py
+  floobits-1.9.3/floo/common/shared.py
+  floobits-1.9.3/floo/common/utils.py
+  floobits-1.9.3/floo/editor.py
+  floobits-1.9.3/floo/emacs_handler.py
+  floobits-1.9.3/floo/emacs_protocol.py
+  floobits-1.9.3/floo/emui.py
+  floobits-1.9.3/floo/view.py
+  floobits-1.9.3/floobits-pkg.el
+  floobits-1.9.3/floobits.el
+  floobits-1.9.3/floobits.py
+Built floobits in 3.077s, finished at Wed May 19 04:34:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  388 May 19 04:34 packages-stable/floobits-1.9.3.entry
+320K -rw-r--r-- 1 root root 320K May 19 04:34 packages-stable/floobits-1.9.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/floobits-badge.svg
+4.0K -rw-r--r-- 1 root root  867 May 19 04:34 packages-stable/floobits-readme.txt

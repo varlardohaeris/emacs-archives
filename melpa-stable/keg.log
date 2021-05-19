@@ -1,0 +1,6 @@
+Package: keg
+Fetcher: github
+Source:  https://github.com/conao3/keg.el.git
+
+Updating /mnt/store/melpa/working/keg/
+No valid stable versions found for keg

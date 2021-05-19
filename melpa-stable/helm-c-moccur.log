@@ -1,0 +1,6 @@
+Package: helm-c-moccur
+Fetcher: github
+Source:  https://github.com/myuhe/helm-c-moccur.el.git
+
+Updating /mnt/store/melpa/working/helm-c-moccur/
+No valid stable versions found for helm-c-moccur

@@ -1,0 +1,45 @@
+Package: projectile
+Fetcher: github
+Source:  https://github.com/bbatsov/projectile.git
+
+Updating /mnt/store/melpa/working/projectile/
+Note: projectile :files spec is equivalent to the default.
+Built projectile in 3.908s, finished at Wed May 19 01:44:14 2021
+ ✓ Success:
+212K -rw-r--r-- 1 root root 212K May 19 01:44 packages-stable/projectile-2.3.0.el
+4.0K -rw-r--r-- 1 root root  448 May 19 01:44 packages-stable/projectile-2.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/projectile-badge.svg
+4.0K -rw-r--r-- 1 root root  220 May 19 01:44 packages-stable/projectile-codesearch.log
+4.0K -rw-r--r-- 1 root root  216 Feb  4 20:55 packages-stable/projectile-direnv.log
+ 12K -rw-r--r-- 1 root root 8.3K May 18 22:30 packages-stable/projectile-git-autofetch-0.1.2.el
+4.0K -rw-r--r-- 1 root root  476 May 18 22:30 packages-stable/projectile-git-autofetch-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/projectile-git-autofetch-badge.svg
+4.0K -rw-r--r-- 1 root root  250 May 18 22:30 packages-stable/projectile-git-autofetch-readme.txt
+4.0K -rw-r--r-- 1 root root  177 May 19 01:44 packages-stable/projectile-git-autofetch.log
+ 80K -rw-r--r-- 1 root root  80K May 18 22:30 packages-stable/projectile-rails-0.21.0.el
+4.0K -rw-r--r-- 1 root root  589 May 18 22:30 packages-stable/projectile-rails-0.21.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/projectile-rails-badge.svg
+4.0K -rw-r--r-- 1 root root   72 May 18 22:30 packages-stable/projectile-rails-readme.txt
+4.0K -rw-r--r-- 1 root root  149 May 19 01:44 packages-stable/projectile-rails.log
+4.0K -rw-r--r-- 1 root root  356 May 19 01:44 packages-stable/projectile-readme.txt
+4.0K -rw-r--r-- 1 root root 2.0K May 18 22:30 packages-stable/projectile-ripgrep-0.4.0.el
+4.0K -rw-r--r-- 1 root root  481 May 18 22:30 packages-stable/projectile-ripgrep-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/projectile-ripgrep-badge.svg
+4.0K -rw-r--r-- 1 root root  102 May 18 22:30 packages-stable/projectile-ripgrep-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 01:44 packages-stable/projectile-ripgrep.log
+4.0K -rw-r--r-- 1 root root 2.1K May 18 22:30 packages-stable/projectile-sift-0.2.0.el
+4.0K -rw-r--r-- 1 root root  432 May 18 22:30 packages-stable/projectile-sift-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/projectile-sift-badge.svg
+4.0K -rw-r--r-- 1 root root   99 May 18 22:30 packages-stable/projectile-sift-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 01:44 packages-stable/projectile-sift.log
+   0 -rw-r--r-- 1 root root    0 May 19 01:44 packages-stable/projectile-speedbar.log
+8.0K -rw-r--r-- 1 root root 4.2K May 18 22:30 packages-stable/projectile-trailblazer-0.2.0.el
+4.0K -rw-r--r-- 1 root root  594 May 18 22:30 packages-stable/projectile-trailblazer-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/projectile-trailblazer-badge.svg
+4.0K -rw-r--r-- 1 root root   78 May 18 22:30 packages-stable/projectile-trailblazer-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 01:44 packages-stable/projectile-trailblazer.log
+8.0K -rw-r--r-- 1 root root 4.2K May 18 22:30 packages-stable/projectile-variable-0.0.2.el
+4.0K -rw-r--r-- 1 root root  433 May 18 22:30 packages-stable/projectile-variable-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:30 packages-stable/projectile-variable-badge.svg
+4.0K -rw-r--r-- 1 root root  789 May 18 22:30 packages-stable/projectile-variable-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 01:44 packages-stable/projectile-variable.log

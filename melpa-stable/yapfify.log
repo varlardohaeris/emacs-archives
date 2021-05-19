@@ -1,0 +1,11 @@
+Package: yapfify
+Fetcher: github
+Source:  https://github.com/JorisE/yapfify.git
+
+Updating /mnt/store/melpa/working/yapfify/
+Built yapfify in 2.864s, finished at Wed May 19 01:56:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.8K May 19 01:56 packages-stable/yapfify-0.0.6.el
+4.0K -rw-r--r-- 1 root root  321 May 19 01:56 packages-stable/yapfify-0.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yapfify-badge.svg
+4.0K -rw-r--r-- 1 root root  421 May 19 01:56 packages-stable/yapfify-readme.txt

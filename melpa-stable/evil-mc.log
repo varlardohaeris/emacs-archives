@@ -1,0 +1,42 @@
+Package: evil-mc
+Fetcher: github
+Source:  https://github.com/gabesoft/evil-mc.git
+
+Updating /mnt/store/melpa/working/evil-mc/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-mc/
+  to /tmp/evil-mc8q5Xk5/evil-mc-0.0.3
+    evil-mc-command-execute.el -> evil-mc-command-execute.el
+    evil-mc-command-record.el -> evil-mc-command-record.el
+    evil-mc-common.el -> evil-mc-common.el
+    evil-mc-cursor-make.el -> evil-mc-cursor-make.el
+    evil-mc-cursor-state.el -> evil-mc-cursor-state.el
+    evil-mc-known-commands.el -> evil-mc-known-commands.el
+    evil-mc-region.el -> evil-mc-region.el
+    evil-mc-scratch.el -> evil-mc-scratch.el
+    evil-mc-setup.el -> evil-mc-setup.el
+    evil-mc-undo.el -> evil-mc-undo.el
+    evil-mc-vars.el -> evil-mc-vars.el
+    evil-mc.el -> evil-mc.el
+Created evil-mc-0.0.3.tar containing:
+  evil-mc-0.0.3/
+  evil-mc-0.0.3/evil-mc-command-execute.el
+  evil-mc-0.0.3/evil-mc-command-record.el
+  evil-mc-0.0.3/evil-mc-common.el
+  evil-mc-0.0.3/evil-mc-cursor-make.el
+  evil-mc-0.0.3/evil-mc-cursor-state.el
+  evil-mc-0.0.3/evil-mc-known-commands.el
+  evil-mc-0.0.3/evil-mc-pkg.el
+  evil-mc-0.0.3/evil-mc-region.el
+  evil-mc-0.0.3/evil-mc-scratch.el
+  evil-mc-0.0.3/evil-mc-setup.el
+  evil-mc-0.0.3/evil-mc-undo.el
+  evil-mc-0.0.3/evil-mc-vars.el
+  evil-mc-0.0.3/evil-mc.el
+Built evil-mc in 2.905s, finished at Wed May 19 04:32:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  477 May 19 04:32 packages-stable/evil-mc-0.0.3.entry
+132K -rw-r--r-- 1 root root 130K May 19 04:32 packages-stable/evil-mc-0.0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-mc-badge.svg
+4.0K -rw-r--r-- 1 root root  197 May 19 04:32 packages-stable/evil-mc-extras.log
+4.0K -rw-r--r-- 1 root root  244 May 19 04:32 packages-stable/evil-mc-readme.txt

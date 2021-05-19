@@ -8,7 +8,7 @@ See `async-await-examples.el' for details.
 
 (require 'async-await)
 
-Please be sure to enable it when developing.
+;; Please be sure to enable it when developing.
 (promise-rejection-tracking-enable '((all-rejections . t)))
 
 (defun wait-async (n)

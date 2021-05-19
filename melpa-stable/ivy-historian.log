@@ -1,0 +1,6 @@
+Package: ivy-historian
+Fetcher: github
+Source:  https://github.com/PythonNut/historian.el.git
+
+Updating /mnt/store/melpa/working/ivy-historian/
+No valid stable versions found for ivy-historian

@@ -1,0 +1,25 @@
+Package: popup
+Fetcher: github
+Source:  https://github.com/auto-complete/popup-el.git
+
+Updating /mnt/store/melpa/working/popup/
+Note: popup :files spec is equivalent to the default.
+Built popup in 3.111s, finished at Wed May 19 01:43:44 2021
+ ✓ Success:
+ 56K -rw-r--r-- 1 root root  55K May 19 01:43 packages-stable/popup-0.5.8.el
+4.0K -rw-r--r-- 1 root root  287 May 19 01:43 packages-stable/popup-0.5.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/popup-badge.svg
+4.0K -rw-r--r-- 1 root root 3.0K May 19 01:43 packages-stable/popup-complete-0.2.el
+4.0K -rw-r--r-- 1 root root  327 May 19 01:43 packages-stable/popup-complete-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/popup-complete-badge.svg
+4.0K -rw-r--r-- 1 root root   87 May 19 01:43 packages-stable/popup-complete-readme.txt
+4.0K -rw-r--r-- 1 root root  236 May 19 01:43 packages-stable/popup-complete.log
+4.0K -rw-r--r-- 1 root root  201 May 19 01:43 packages-stable/popup-edit-menu.log
+ 12K -rw-r--r-- 1 root root 8.7K May 18 22:29 packages-stable/popup-imenu-0.6.1.el
+4.0K -rw-r--r-- 1 root root  429 May 18 22:29 packages-stable/popup-imenu-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:29 packages-stable/popup-imenu-badge.svg
+4.0K -rw-r--r-- 1 root root  134 May 18 22:29 packages-stable/popup-imenu-readme.txt
+4.0K -rw-r--r-- 1 root root  136 May 19 01:43 packages-stable/popup-imenu.log
+4.0K -rw-r--r-- 1 root root  150 May 19 01:43 packages-stable/popup-kill-ring.log
+4.0K -rw-r--r-- 1 root root  192 May 19 01:43 packages-stable/popup-readme.txt
+4.0K -rw-r--r-- 1 root root  147 May 19 01:43 packages-stable/popup-switcher.log

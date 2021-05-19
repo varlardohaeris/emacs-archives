@@ -1,0 +1,6 @@
+Package: ycm
+Fetcher: github
+Source:  https://github.com/neuromage/ycm.el.git
+
+Updating /mnt/store/melpa/working/ycm/
+No valid stable versions found for ycm

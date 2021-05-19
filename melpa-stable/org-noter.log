@@ -1,0 +1,12 @@
+Package: org-noter
+Fetcher: github
+Source:  https://github.com/weirdNox/org-noter.git
+
+Updating /mnt/store/melpa/working/org-noter/
+Built org-noter in 3.698s, finished at Wed May 19 01:39:39 2021
+ ✓ Success:
+108K -rw-r--r-- 1 root root 105K May 19 01:39 packages-stable/org-noter-1.4.1.el
+4.0K -rw-r--r-- 1 root root  530 May 19 01:39 packages-stable/org-noter-1.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-noter-badge.svg
+4.0K -rw-r--r-- 1 root root  212 May 19 01:39 packages-stable/org-noter-pdftools.log
+4.0K -rw-r--r-- 1 root root  492 May 19 01:39 packages-stable/org-noter-readme.txt

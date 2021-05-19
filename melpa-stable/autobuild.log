@@ -1,0 +1,6 @@
+Package: autobuild
+Fetcher: github
+Source:  https://github.com/erjoalgo/autobuild.git
+
+Updating /mnt/store/melpa/working/autobuild/
+No valid stable versions found for autobuild

@@ -1,0 +1,6 @@
+Package: eproject
+Fetcher: github
+Source:  https://github.com/jrockway/eproject.git
+
+Updating /mnt/store/melpa/working/eproject/
+No valid stable versions found for eproject

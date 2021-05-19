@@ -1,0 +1,6 @@
+Package: elfeed-org
+Fetcher: github
+Source:  https://github.com/remyhonig/elfeed-org.git
+
+Updating /mnt/store/melpa/working/elfeed-org/
+No valid stable versions found for elfeed-org

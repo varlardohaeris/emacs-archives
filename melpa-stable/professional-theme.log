@@ -1,0 +1,6 @@
+Package: professional-theme
+Fetcher: github
+Source:  https://github.com/juanjux/emacs-professional-theme.git
+
+Updating /mnt/store/melpa/working/professional-theme/
+No valid stable versions found for professional-theme

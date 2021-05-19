@@ -1,0 +1,16 @@
+Package: all-the-icons-ivy
+Fetcher: github
+Source:  https://github.com/asok/all-the-icons-ivy.git
+
+Updating /mnt/store/melpa/working/all-the-icons-ivy/
+Built all-the-icons-ivy in 2.956s, finished at Wed May 19 04:19:10 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.6K May 19 04:19 packages-stable/all-the-icons-ivy-0.5.0.el
+4.0K -rw-r--r-- 1 root root  344 May 19 04:19 packages-stable/all-the-icons-ivy-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/all-the-icons-ivy-badge.svg
+4.0K -rw-r--r-- 1 root root  241 May 19 04:19 packages-stable/all-the-icons-ivy-readme.txt
+ 28K -rw-r--r-- 1 root root  27K May 19 04:19 packages-stable/all-the-icons-ivy-rich-1.5.0.el
+4.0K -rw-r--r-- 1 root root  482 May 19 04:19 packages-stable/all-the-icons-ivy-rich-1.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/all-the-icons-ivy-rich-badge.svg
+4.0K -rw-r--r-- 1 root root  243 May 19 04:19 packages-stable/all-the-icons-ivy-rich-readme.txt
+4.0K -rw-r--r-- 1 root root  250 May 19 04:19 packages-stable/all-the-icons-ivy-rich.log

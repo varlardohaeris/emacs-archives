@@ -1,0 +1,6 @@
+Package: helm-R
+Fetcher: github
+Source:  https://github.com/myuhe/helm-R.el.git
+
+Updating /mnt/store/melpa/working/helm-R/
+No valid stable versions found for helm-R

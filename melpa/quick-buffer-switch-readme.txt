@@ -1,3 +1,4 @@
+
 Allows to qui switch to a buffer visiting a particular file or directory.
 
 To install:

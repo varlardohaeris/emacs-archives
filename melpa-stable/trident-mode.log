@@ -1,0 +1,6 @@
+Package: trident-mode
+Fetcher: github
+Source:  https://github.com/johnmastro/trident-mode.el.git
+
+Updating /mnt/store/melpa/working/trident-mode/
+No valid stable versions found for trident-mode

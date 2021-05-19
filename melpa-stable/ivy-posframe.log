@@ -1,0 +1,11 @@
+Package: ivy-posframe
+Fetcher: github
+Source:  https://github.com/tumashu/ivy-posframe.git
+
+Updating /mnt/store/melpa/working/ivy-posframe/
+Built ivy-posframe in 3.697s, finished at Wed May 19 04:44:02 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  23K May 19 04:44 packages-stable/ivy-posframe-0.5.5.el
+4.0K -rw-r--r-- 1 root root  462 May 19 04:44 packages-stable/ivy-posframe-0.5.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/ivy-posframe-badge.svg
+8.0K -rw-r--r-- 1 root root 4.2K May 19 04:44 packages-stable/ivy-posframe-readme.txt

@@ -1,0 +1,6 @@
+Package: elog
+Fetcher: github
+Source:  https://github.com/lujun9972/elog.git
+
+Updating /mnt/store/melpa/working/elog/
+No valid stable versions found for elog

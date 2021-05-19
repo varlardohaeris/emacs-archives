@@ -1,3 +1,4 @@
+
 Adds simple support for dirtree to prosjekt. Specifically, it adds
 a function, prosjekt-dirtree, for opening a dirtree buffer at the
 project root.

@@ -1,0 +1,11 @@
+Package: company-php
+Fetcher: github
+Source:  https://github.com/xcwen/ac-php.git
+
+Updating /mnt/store/melpa/working/company-php/
+Built company-php in 3.128s, finished at Wed May 19 04:24:39 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.7K May 19 04:24 packages-stable/company-php-2.4.0.el
+4.0K -rw-r--r-- 1 root root  410 May 19 04:24 packages-stable/company-php-2.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-php-badge.svg
+4.0K -rw-r--r-- 1 root root  627 May 19 04:24 packages-stable/company-php-readme.txt

@@ -1,0 +1,11 @@
+Package: inheritenv
+Fetcher: github
+Source:  https://github.com/purcell/inheritenv.git
+
+Updating /mnt/store/melpa/working/inheritenv/
+Built inheritenv in 2.943s, finished at Wed May 19 04:43:21 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.2K May 19 04:43 packages-stable/inheritenv-0.1.el
+4.0K -rw-r--r-- 1 root root  409 May 19 04:43 packages-stable/inheritenv-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/inheritenv-badge.svg
+4.0K -rw-r--r-- 1 root root  911 May 19 04:43 packages-stable/inheritenv-readme.txt

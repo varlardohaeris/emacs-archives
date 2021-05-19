@@ -1,0 +1,6 @@
+Package: weyland-yutani-theme
+Fetcher: github
+Source:  https://github.com/jstaursky/weyland-yutani-theme.git
+
+Updating /mnt/store/melpa/working/weyland-yutani-theme/
+No valid stable versions found for weyland-yutani-theme

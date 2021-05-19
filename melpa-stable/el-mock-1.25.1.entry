@@ -1,2 +1,9 @@
-
-(el-mock . [(1 25 1) nil "Tiny Mock and Stub framework in Emacs Lisp" single ((:commit . "3069931de75bb6704ecf565af5390009dc4dae00") (:keywords "lisp" "testing" "unittest") (:authors ("rubikitch" . "rubikitch@ruby-lang.org")) (:maintainer "Johan Andersson" . "johan.rejeep@gmail.com") (:url . "http://github.com/rejeep/el-mock.el"))])
+(el-mock .
+	 [(1 25 1)
+	  nil "Tiny Mock and Stub framework in Emacs Lisp" single
+	  ((:commit . "3069931de75bb6704ecf565af5390009dc4dae00")
+	   (:authors
+	    ("rubikitch" . "rubikitch@ruby-lang.org"))
+	   (:maintainer "Johan Andersson" . "johan.rejeep@gmail.com")
+	   (:keywords "lisp" "testing" "unittest")
+	   (:url . "http://github.com/rejeep/el-mock.el"))])

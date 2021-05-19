@@ -1,0 +1,11 @@
+Package: mode-line-bell
+Fetcher: github
+Source:  https://github.com/purcell/mode-line-bell.git
+
+Updating /mnt/store/melpa/working/mode-line-bell/
+Built mode-line-bell in 3.281s, finished at Wed May 19 01:35:39 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.4K May 19 01:35 packages-stable/mode-line-bell-0.2.el
+4.0K -rw-r--r-- 1 root root  303 May 19 01:35 packages-stable/mode-line-bell-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mode-line-bell-badge.svg
+4.0K -rw-r--r-- 1 root root  154 May 19 01:35 packages-stable/mode-line-bell-readme.txt

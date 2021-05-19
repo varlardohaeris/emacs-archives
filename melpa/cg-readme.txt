@@ -10,7 +10,7 @@ Usage:
 (autoload 'cg-mode "/path/to/cg.el"
  "cg-mode is a major mode for editing Constraint Grammar files."  t)
 (add-to-list 'auto-mode-alist '("\\.cg3\\'" . cg-mode))
-Or if you use a non-standard file suffix, e.g. .rlx:
+; Or if you use a non-standard file suffix, e.g. .rlx:
 (add-to-list 'auto-mode-alist '("\\.rlx\\'" . cg-mode))
 
 I recommend using `company-mode' for tab-completion, and

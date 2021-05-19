@@ -1,0 +1,6 @@
+Package: dark-souls
+Fetcher: github
+Source:  https://github.com/tomjakubowski/dark-souls.el.git
+
+Updating /mnt/store/melpa/working/dark-souls/
+No valid stable versions found for dark-souls

@@ -1,0 +1,6 @@
+Package: block-nav
+Fetcher: github
+Source:  https://github.com/nixin72/block-nav.el.git
+
+Updating /mnt/store/melpa/working/block-nav/
+No valid stable versions found for block-nav

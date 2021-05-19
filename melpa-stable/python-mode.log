@@ -1,0 +1,24 @@
+Package: python-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/python-mode-devs/python-mode.git
+
+Updating /mnt/store/melpa/working/python-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/python-mode/
+  to /tmp/python-modeppC9IW/python-mode-6.3.0
+    python-mode.el -> python-mode.el
+    completion/pycomplete.el -> completion/pycomplete.el
+    completion/pycomplete.py -> completion/pycomplete.py
+Created python-mode-6.3.0.tar containing:
+  python-mode-6.3.0/
+  python-mode-6.3.0/completion/
+  python-mode-6.3.0/completion/pycomplete.el
+  python-mode-6.3.0/completion/pycomplete.py
+  python-mode-6.3.0/python-mode-pkg.el
+  python-mode-6.3.0/python-mode.el
+Built python-mode in 4.751s, finished at Wed May 19 01:45:03 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  492 May 19 01:45 packages-stable/python-mode-6.3.0.entry
+1.1M -rw-r--r-- 1 root root 1.1M May 19 01:45 packages-stable/python-mode-6.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/python-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  941 May 19 01:45 packages-stable/python-mode-readme.txt

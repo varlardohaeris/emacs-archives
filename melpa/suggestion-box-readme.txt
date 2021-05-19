@@ -66,7 +66,7 @@ The STR is string that has several property you can utilize."
     (suggestion-box-put type :backend 'nim)
     (suggestion-box type)))
 
-note I simplified this function because it was too long
+;; note I simplified this function because it was too long
 (defun nim-capf-nimsuggest-completion-at-point ()
   (list beg end (completion-table-with-cache 'nim-capf--nimsuggest-complete)
     ;; ... some properties ...

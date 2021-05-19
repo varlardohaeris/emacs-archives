@@ -1,0 +1,11 @@
+Package: cl-lib-highlight
+Fetcher: github
+Source:  https://github.com/skeeto/cl-lib-highlight.git
+
+Updating /mnt/store/melpa/working/cl-lib-highlight/
+Built cl-lib-highlight in 2.742s, finished at Wed May 19 04:23:23 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.7K May 19 04:23 packages-stable/cl-lib-highlight-1.0.0.el
+4.0K -rw-r--r-- 1 root root  381 May 19 04:23 packages-stable/cl-lib-highlight-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cl-lib-highlight-badge.svg
+4.0K -rw-r--r-- 1 root root  112 May 19 04:23 packages-stable/cl-lib-highlight-readme.txt

@@ -1,0 +1,11 @@
+Package: smex
+Fetcher: github
+Source:  https://github.com/nonsequitur/smex.git
+
+Updating /mnt/store/melpa/working/smex/
+Built smex in 3.662s, finished at Wed May 19 01:49:22 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 01:49 packages-stable/smex-3.0.el
+4.0K -rw-r--r-- 1 root root  362 May 19 01:49 packages-stable/smex-3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/smex-badge.svg
+4.0K -rw-r--r-- 1 root root  193 May 19 01:49 packages-stable/smex-readme.txt

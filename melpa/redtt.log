@@ -1,0 +1,11 @@
+Package: redtt
+Fetcher: github
+Source:  https://github.com/RedPRL/redtt.git
+
+Updating /mnt/store/melpa/working/redtt/
+Built redtt in 4.328s, finished at Wed May 19 04:00:21 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K May 19 04:00 packages/redtt-20181121.21.el
+4.0K -rw-r--r-- 1 root root  352 May 19 04:00 packages/redtt-20181121.21.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/redtt-badge.svg
+4.0K -rw-r--r-- 1 root root  261 May 19 04:00 packages/redtt-readme.txt

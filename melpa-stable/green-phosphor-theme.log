@@ -1,0 +1,6 @@
+Package: green-phosphor-theme
+Fetcher: github
+Source:  https://github.com/aalpern/emacs-color-theme-green-phosphor.git
+
+Updating /mnt/store/melpa/working/green-phosphor-theme/
+No valid stable versions found for green-phosphor-theme

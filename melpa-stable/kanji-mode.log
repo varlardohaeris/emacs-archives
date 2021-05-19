@@ -1,0 +1,6 @@
+Package: kanji-mode
+Fetcher: github
+Source:  https://github.com/wsgac/kanji-mode.git
+
+Updating /mnt/store/melpa/working/kanji-mode/
+No valid stable versions found for kanji-mode

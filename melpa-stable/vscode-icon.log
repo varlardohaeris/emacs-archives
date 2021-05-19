@@ -1,0 +1,6 @@
+Package: vscode-icon
+Fetcher: github
+Source:  https://github.com/jojojames/vscode-icon-emacs.git
+
+Updating /mnt/store/melpa/working/vscode-icon/
+No valid stable versions found for vscode-icon

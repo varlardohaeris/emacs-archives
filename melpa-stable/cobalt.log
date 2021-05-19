@@ -1,0 +1,6 @@
+Package: cobalt
+Fetcher: github
+Source:  https://github.com/cobalt-org/cobalt.el.git
+
+Updating /mnt/store/melpa/working/cobalt/
+No valid stable versions found for cobalt

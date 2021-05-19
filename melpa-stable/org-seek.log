@@ -1,0 +1,6 @@
+Package: org-seek
+Fetcher: github
+Source:  https://github.com/stardiviner/org-seek.el.git
+
+Updating /mnt/store/melpa/working/org-seek/
+No valid stable versions found for org-seek

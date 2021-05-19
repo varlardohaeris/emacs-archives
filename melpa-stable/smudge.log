@@ -1,0 +1,6 @@
+Package: smudge
+Fetcher: github
+Source:  https://github.com/danielfm/smudge.git
+
+Updating /mnt/store/melpa/working/smudge/
+No valid stable versions found for smudge

@@ -1,0 +1,6 @@
+Package: rdp
+Fetcher: github
+Source:  https://github.com/skeeto/rdp.git
+
+Updating /mnt/store/melpa/working/rdp/
+No valid stable versions found for rdp

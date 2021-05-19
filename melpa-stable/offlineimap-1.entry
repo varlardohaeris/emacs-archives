@@ -1,2 +1,8 @@
-
-(offlineimap . [(1) nil "Run OfflineIMAP from Emacs" single ((:commit . "646482203aacdf847d57d0a96263fddcfc33fb61") (:authors ("Julien Danjou" . "julien@danjou.info")) (:maintainer "Julien Danjou" . "julien@danjou.info") (:url . "http://julien.danjou.info/offlineimap-el.html"))])
+(offlineimap .
+	     [(1)
+	      nil "Run OfflineIMAP from Emacs" single
+	      ((:commit . "646482203aacdf847d57d0a96263fddcfc33fb61")
+	       (:authors
+		("Julien Danjou" . "julien@danjou.info"))
+	       (:maintainer "Julien Danjou" . "julien@danjou.info")
+	       (:url . "http://julien.danjou.info/offlineimap-el.html"))])

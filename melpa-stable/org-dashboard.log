@@ -1,0 +1,6 @@
+Package: org-dashboard
+Fetcher: github
+Source:  https://github.com/bard/org-dashboard.git
+
+Updating /mnt/store/melpa/working/org-dashboard/
+No valid stable versions found for org-dashboard

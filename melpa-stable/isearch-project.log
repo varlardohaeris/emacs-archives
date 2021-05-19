@@ -1,0 +1,11 @@
+Package: isearch-project
+Fetcher: github
+Source:  https://github.com/jcs-elpa/isearch-project.git
+
+Updating /mnt/store/melpa/working/isearch-project/
+Built isearch-project in 3.918s, finished at Wed May 19 04:43:43 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:43 packages-stable/isearch-project-0.2.6.el
+4.0K -rw-r--r-- 1 root root  390 May 19 04:43 packages-stable/isearch-project-0.2.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/isearch-project-badge.svg
+4.0K -rw-r--r-- 1 root root   47 May 19 04:43 packages-stable/isearch-project-readme.txt

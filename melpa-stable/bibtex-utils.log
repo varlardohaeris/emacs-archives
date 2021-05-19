@@ -1,0 +1,6 @@
+Package: bibtex-utils
+Fetcher: github
+Source:  https://github.com/plantarum/bibtex-utils.git
+
+Updating /mnt/store/melpa/working/bibtex-utils/
+No valid stable versions found for bibtex-utils

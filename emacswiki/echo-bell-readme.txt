@@ -9,3 +9,5 @@
  * `echo-bell-background' is the background color to use.
 
 Initial code was from https://www.emacswiki.org/emacs/MilesBader.
+That initial code is now here:
+https://github.com/snogglethorpe/emacs-bits/raw/master/echo-area-bell.el.

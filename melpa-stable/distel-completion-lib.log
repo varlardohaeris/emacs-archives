@@ -1,0 +1,6 @@
+Package: distel-completion-lib
+Fetcher: github
+Source:  https://github.com/sebastiw/distel-completion.git
+
+Updating /mnt/store/melpa/working/distel-completion-lib/
+No valid stable versions found for distel-completion-lib

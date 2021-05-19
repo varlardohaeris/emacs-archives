@@ -1,0 +1,11 @@
+Package: outline-minor-faces
+Fetcher: github
+Source:  https://github.com/tarsius/outline-minor-faces.git
+
+Updating /mnt/store/melpa/working/outline-minor-faces/
+Built outline-minor-faces in 3.176s, finished at Wed May 19 01:41:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K May 19 01:41 packages-stable/outline-minor-faces-0.2.3.el
+4.0K -rw-r--r-- 1 root root  402 May 19 01:41 packages-stable/outline-minor-faces-0.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/outline-minor-faces-badge.svg
+4.0K -rw-r--r-- 1 root root  614 May 19 01:41 packages-stable/outline-minor-faces-readme.txt

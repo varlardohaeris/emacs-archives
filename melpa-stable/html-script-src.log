@@ -1,0 +1,16 @@
+Package: html-script-src
+Fetcher: github
+Source:  https://github.com/rejeep/html-script-src.el.git
+
+Updating /mnt/store/melpa/working/html-script-src/
+Command '(env LC_ALL=C git submodule update --init --recursive)' exited with non-zero status 1: Fetching origin
+HEAD is now at 52da442 Bump version to 0.0.2.
+Synchronizing submodule url for 'util/ecukes'
+Synchronizing submodule url for 'util/ecukes/test/el-mock'
+Synchronizing submodule url for 'util/ecukes/test/ert'
+Synchronizing submodule url for 'util/ert'
+Synchronizing submodule url for 'util/espuds'
+fatal: remote error: upload-pack: not our ref 6039afd28dd3eea64014f364ac490fb7c6eb0108
+Fetched in submodule path 'util/ecukes/test/el-mock', but it did not contain 6039afd28dd3eea64014f364ac490fb7c6eb0108. Direct fetching of that commit failed.
+Failed to recurse into submodule path 'util/ecukes'
+

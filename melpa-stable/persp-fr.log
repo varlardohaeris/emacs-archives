@@ -1,0 +1,11 @@
+Package: persp-fr
+Fetcher: github
+Source:  https://github.com/rocher/persp-fr.git
+
+Updating /mnt/store/melpa/working/persp-fr/
+Built persp-fr in 2.620s, finished at Wed May 19 01:42:32 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.0K May 19 01:42 packages-stable/persp-fr-0.0.5.el
+4.0K -rw-r--r-- 1 root root  504 May 19 01:42 packages-stable/persp-fr-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/persp-fr-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/persp-fr-readme.txt

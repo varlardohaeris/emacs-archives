@@ -1,0 +1,6 @@
+Package: org-pivotal
+Fetcher: github
+Source:  https://github.com/org-pivotal/org-pivotal.git
+
+Updating /mnt/store/melpa/working/org-pivotal/
+No valid stable versions found for org-pivotal

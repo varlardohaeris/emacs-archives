@@ -1,0 +1,11 @@
+Package: no-littering
+Fetcher: github
+Source:  https://github.com/emacscollective/no-littering.git
+
+Updating /mnt/store/melpa/working/no-littering/
+Built no-littering in 3.051s, finished at Wed May 19 01:37:32 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  23K May 19 01:37 packages-stable/no-littering-1.2.2.el
+4.0K -rw-r--r-- 1 root root  347 May 19 01:37 packages-stable/no-littering-1.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/no-littering-badge.svg
+8.0K -rw-r--r-- 1 root root 6.1K May 19 01:37 packages-stable/no-littering-readme.txt

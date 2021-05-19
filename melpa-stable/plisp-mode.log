@@ -1,0 +1,6 @@
+Package: plisp-mode
+Fetcher: github
+Source:  https://github.com/flexibeast/plisp-mode.git
+
+Updating /mnt/store/melpa/working/plisp-mode/
+No valid stable versions found for plisp-mode

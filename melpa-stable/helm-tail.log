@@ -1,0 +1,6 @@
+Package: helm-tail
+Fetcher: github
+Source:  https://github.com/akirak/helm-tail.git
+
+Updating /mnt/store/melpa/working/helm-tail/
+No valid stable versions found for helm-tail

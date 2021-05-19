@@ -1,0 +1,6 @@
+Package: org-dropbox
+Fetcher: github
+Source:  https://github.com/heikkil/org-dropbox.git
+
+Updating /mnt/store/melpa/working/org-dropbox/
+No valid stable versions found for org-dropbox

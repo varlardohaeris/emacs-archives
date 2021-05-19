@@ -1,0 +1,6 @@
+Package: isend-mode
+Fetcher: github
+Source:  https://github.com/ffevotte/isend-mode.el.git
+
+Updating /mnt/store/melpa/working/isend-mode/
+No valid stable versions found for isend-mode

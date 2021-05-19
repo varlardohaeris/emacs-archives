@@ -1,0 +1,6 @@
+Package: exwm-surf
+Fetcher: github
+Source:  https://github.com/ecraven/exwm-surf.git
+
+Updating /mnt/store/melpa/working/exwm-surf/
+No valid stable versions found for exwm-surf

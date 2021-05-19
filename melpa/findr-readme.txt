@@ -20,7 +20,7 @@ Two other entrypoints let you to act on regexps within the files:
 `findr-query-replace' to replace
 
 
-Installation:
+; Installation:
 
 (autoload 'findr "findr" "Find file name." t)
 (define-key global-map [(meta control S)] 'findr)

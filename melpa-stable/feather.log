@@ -1,0 +1,11 @@
+Package: feather
+Fetcher: github
+Source:  https://github.com/conao3/feather.el.git
+
+Updating /mnt/store/melpa/working/feather/
+Built feather in 2.978s, finished at Wed May 19 04:33:45 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  965 May 19 04:33 packages-stable/feather-0.0.1.el
+4.0K -rw-r--r-- 1 root root  202 May 19 04:33 packages-stable/feather-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/feather-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:33 packages-stable/feather-readme.txt

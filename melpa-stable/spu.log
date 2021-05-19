@@ -1,0 +1,6 @@
+Package: spu
+Fetcher: github
+Source:  https://github.com/mola-T/SPU.git
+
+Updating /mnt/store/melpa/working/spu/
+No valid stable versions found for spu

@@ -1,0 +1,16 @@
+Package: npm
+Fetcher: github
+Source:  https://github.com/shaneikennedy/npm.el.git
+
+Updating /mnt/store/melpa/working/npm/
+Built npm in 3.238s, finished at Wed May 19 01:37:43 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.6K May 19 01:37 packages-stable/npm-0.1.el
+4.0K -rw-r--r-- 1 root root  333 May 19 01:37 packages-stable/npm-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/npm-badge.svg
+8.0K -rw-r--r-- 1 root root 6.8K May 18 22:23 packages-stable/npm-mode-0.6.0.el
+4.0K -rw-r--r-- 1 root root  411 May 18 22:23 packages-stable/npm-mode-0.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:23 packages-stable/npm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 18 22:23 packages-stable/npm-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  129 May 19 01:37 packages-stable/npm-mode.log
+4.0K -rw-r--r-- 1 root root   58 May 19 01:37 packages-stable/npm-readme.txt

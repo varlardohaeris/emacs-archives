@@ -1,0 +1,6 @@
+Package: pinboard-api
+Fetcher: github
+Source:  https://github.com/danieroux/pinboard-api-el.git
+
+Updating /mnt/store/melpa/working/pinboard-api/
+No valid stable versions found for pinboard-api

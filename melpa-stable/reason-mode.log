@@ -1,0 +1,21 @@
+Package: reason-mode
+Fetcher: github
+Source:  https://github.com/reasonml-editor/reason-mode.git
+
+Updating /mnt/store/melpa/working/reason-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/reason-mode/
+  to /tmp/reason-modep0zDSv/reason-mode-0.3.0
+    reason-mode.el -> reason-mode.el
+    refmt.el -> refmt.el
+Created reason-mode-0.3.0.tar containing:
+  reason-mode-0.3.0/
+  reason-mode-0.3.0/reason-mode-pkg.el
+  reason-mode-0.3.0/reason-mode.el
+  reason-mode-0.3.0/refmt.el
+Built reason-mode in 2.677s, finished at Wed May 19 01:45:44 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  360 May 19 01:45 packages-stable/reason-mode-0.3.0.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 01:45 packages-stable/reason-mode-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/reason-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  460 May 19 01:45 packages-stable/reason-mode-readme.txt

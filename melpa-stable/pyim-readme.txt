@@ -87,10 +87,11 @@ pyim 的目标是： *尽最大的努力成为一个好用的 Emacs 中文输入
   ;; 开启拼音搜索功能
   (pyim-isearch-mode 1)
 
-  ;; 使用 popup-el 来绘制选词框, 如果用 emacs26, 建议设置
-  ;; 为 'posframe, 速度很快并且菜单不会变形，不过需要用户
-  ;; 手动安装 posframe 包。
-  (setq pyim-page-tooltip 'popup)
+  ;; 使用 posframe 绘制 page, (需要用户手动安装 posframe 包）。
+  ;; (setq pyim-page-tooltip 'posframe)
+
+  ;; 如果 posframe 不可用，可以试着安装 popup 包，然后设置：
+  ;; ;; (setq pyim-page-tooltip 'popup)
 
   ;; 选词框显示5个候选词
   (setq pyim-page-length 5)
@@ -143,7 +144,7 @@ pyim 支持双拼输入模式，用户可以通过变量 `pyim-default-scheme' �
 
 注意：
 1. pyim 支持微软双拼（microsoft-shuangpin）和小鹤双拼（xiaohe-shuangpin）。
-2. 用户可以使用变量 `pyim-schemes' 添加自定义双拼方案。
+2. 用户可以使用函数 `pyim-scheme-add' 添加自定义双拼方案。
 3. 用户可能需要重新设置 `pyim-translate-trigger-char'。
 
 *** 通过 pyim 来支持 rime 所有输入法
@@ -170,7 +171,7 @@ pyim 支持五笔输入模式，用户可以通过变量 `pyim-default-scheme' �
 在使用五笔输入法之前，请用 pyim-dicts-manager 添加一个五笔词库，词库的格式类似：
 
 #+BEGIN_EXAMPLE
--*- coding: utf-8-unix -*-
+; -*- coding: utf-8-unix -*-
 .aaaa 工
 .aad 式
 .aadk 匿
@@ -204,7 +205,7 @@ pyim 支持仓颉输入法，用户可以通过变量 `pyim-default-scheme' 来�
 在使用仓颉输入法之前，请用 pyim-dicts-manager 添加一个仓颉词库，词库的格式类似：
 
 #+BEGIN_EXAMPLE
--*- coding: utf-8-unix -*-
+; -*- coding: utf-8-unix -*-
 @a 日
 @a 曰
 @aa 昌
@@ -316,7 +317,10 @@ pyim 的 tooltip 选词框默认使用 *双行显示* 的样式，在一些特
               '(probe-function1 probe-function2 probe-function3))
 #+END_EXAMPLE
 
-注：上述函数列表中，任意一个函数的返回值为 t 时，pyim 切换到英文输入模式。
+注意事项：
+1. 上述函数列表中，任意一个函数的返回值为 t 时，pyim 切换到英文输入模式。
+2. [[https://github.com/DogLooksGood/emacs-rime][Emacs-rime]] 和 [[https://github.com/laishulu/emacs-smart-input-source][smart-input-source]]
+   也有类似探针的功能，其对应函数可以直接或者简单包装后作为 pyim 探针使用，有兴趣的同学可以了解一下。
 
 **** 根据环境自动切换到半角标点输入模式
 

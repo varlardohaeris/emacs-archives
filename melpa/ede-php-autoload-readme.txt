@@ -1,3 +1,4 @@
+
 PHP EDE project that supports class autoloading and composer.json detection.
 
 Example project definition :

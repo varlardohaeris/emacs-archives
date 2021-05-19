@@ -1,0 +1,6 @@
+Package: yoficator
+Fetcher: gitlab
+Source:  https://gitlab.com/alx.k/yoficator.git
+
+Updating /mnt/store/melpa/working/yoficator/
+No valid stable versions found for yoficator

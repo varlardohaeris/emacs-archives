@@ -1,2 +1,13 @@
-
-(ox-slimhtml . [(0 4 5) ((emacs (24)) (cl-lib (0 6))) "a minimal HTML org export backend" single ((:commit . "a764ef64235845e4f5cfd73244d6cf1e7fee903b") (:keywords "files") (:authors ("Elo Laszlo <hello at bald dot cat>")) (:maintainer "Elo Laszlo <hello at bald dot cat>") (:url . "http://bald.cat/slimhtml"))])
+(ox-slimhtml .
+	     [(0 4 5)
+	      ((emacs
+		(24))
+	       (cl-lib
+		(0 6)))
+	      "a minimal HTML org export backend" single
+	      ((:commit . "a764ef64235845e4f5cfd73244d6cf1e7fee903b")
+	       (:authors
+		("Elo Laszlo <hello at bald dot cat>"))
+	       (:maintainer "Elo Laszlo <hello at bald dot cat>")
+	       (:keywords "files")
+	       (:url . "http://bald.cat/slimhtml"))])

@@ -1,0 +1,11 @@
+Package: fcitx
+Fetcher: github
+Source:  https://github.com/cute-jumper/fcitx.el.git
+
+Updating /mnt/store/melpa/working/fcitx/
+Built fcitx in 3.522s, finished at Wed May 19 04:33:44 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  35K May 19 04:33 packages-stable/fcitx-0.2.3.el
+4.0K -rw-r--r-- 1 root root  316 May 19 04:33 packages-stable/fcitx-0.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/fcitx-badge.svg
+ 16K -rw-r--r-- 1 root root  14K May 19 04:33 packages-stable/fcitx-readme.txt

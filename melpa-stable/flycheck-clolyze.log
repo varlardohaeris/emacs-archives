@@ -1,0 +1,6 @@
+Package: flycheck-clolyze
+Fetcher: github
+Source:  https://github.com/DLaps/flycheck-clolyze.git
+
+Updating /mnt/store/melpa/working/flycheck-clolyze/
+No valid stable versions found for flycheck-clolyze

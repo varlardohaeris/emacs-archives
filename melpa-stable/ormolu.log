@@ -1,0 +1,6 @@
+Package: ormolu
+Fetcher: github
+Source:  https://github.com/vyorkin/ormolu.el.git
+
+Updating /mnt/store/melpa/working/ormolu/
+No valid stable versions found for ormolu

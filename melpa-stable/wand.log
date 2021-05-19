@@ -1,0 +1,6 @@
+Package: wand
+Fetcher: github
+Source:  https://github.com/cmpitg/wand.git
+
+Updating /mnt/store/melpa/working/wand/
+No valid stable versions found for wand

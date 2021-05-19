@@ -1,2 +1,9 @@
-
-(visible-mark . [(0 1) nil "Make marks visible." single ((:commit . "c1852e13b6b61982738b56977a452ec9026faf1b") (:keywords "marking" "color" "faces") (:authors ("Ian Kelling" . "ian@iankelling.org")) (:maintainer "Ian Kelling" . "ian@iankelling.org") (:url . "https://gitlab.com/iankelling/visible-mark"))])
+(visible-mark .
+	      [(0 1)
+	       nil "Make marks visible." single
+	       ((:commit . "c1852e13b6b61982738b56977a452ec9026faf1b")
+		(:authors
+		 ("Ian Kelling" . "ian@iankelling.org"))
+		(:maintainer "Ian Kelling" . "ian@iankelling.org")
+		(:keywords "marking" "color" "faces")
+		(:url . "https://gitlab.com/iankelling/visible-mark"))])

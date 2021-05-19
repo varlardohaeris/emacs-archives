@@ -1,0 +1,17 @@
+Package: fuzzy
+Fetcher: github
+Source:  https://github.com/auto-complete/fuzzy-el.git
+
+Updating /mnt/store/melpa/working/fuzzy/
+Note: fuzzy :files spec is equivalent to the default.
+Built fuzzy in 3.041s, finished at Wed May 19 04:36:32 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:36 packages-stable/fuzzy-0.3.el
+4.0K -rw-r--r-- 1 root root  262 May 19 04:36 packages-stable/fuzzy-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fuzzy-badge.svg
+ 12K -rw-r--r-- 1 root root  12K May 19 04:36 packages-stable/fuzzy-finder-0.0.1.el
+4.0K -rw-r--r-- 1 root root  347 May 19 04:36 packages-stable/fuzzy-finder-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fuzzy-finder-badge.svg
+4.0K -rw-r--r-- 1 root root  590 May 19 04:36 packages-stable/fuzzy-finder-readme.txt
+4.0K -rw-r--r-- 1 root root  140 May 19 04:36 packages-stable/fuzzy-finder.log
+4.0K -rw-r--r-- 1 root root  133 May 19 04:36 packages-stable/fuzzy-readme.txt

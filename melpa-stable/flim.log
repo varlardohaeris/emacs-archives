@@ -1,0 +1,6 @@
+Package: flim
+Fetcher: github
+Source:  https://github.com/wanderlust/flim.git
+
+Updating /mnt/store/melpa/working/flim/
+No valid stable versions found for flim

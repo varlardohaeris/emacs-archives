@@ -1,0 +1,11 @@
+Package: esa
+Fetcher: github
+Source:  https://github.com/nabinno/esa.el.git
+
+Updating /mnt/store/melpa/working/esa/
+Built esa in 3.722s, finished at Wed May 19 04:31:34 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K May 19 04:31 packages-stable/esa-0.8.13.el
+4.0K -rw-r--r-- 1 root root  342 May 19 04:31 packages-stable/esa-0.8.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/esa-badge.svg
+4.0K -rw-r--r-- 1 root root   72 May 19 04:31 packages-stable/esa-readme.txt

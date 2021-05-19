@@ -1,0 +1,6 @@
+Package: go-imports
+Fetcher: github
+Source:  https://github.com/yasushi-saito/go-imports.git
+
+Updating /mnt/store/melpa/working/go-imports/
+No valid stable versions found for go-imports

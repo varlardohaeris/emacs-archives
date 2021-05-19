@@ -1,0 +1,28 @@
+Package: embark
+Fetcher: github
+Source:  https://github.com/oantolin/embark.git
+
+Updating /mnt/store/melpa/working/embark/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/embark/
+  to /tmp/embark5HCYHu/embark-0.10
+    embark.el -> embark.el
+    embark.texi -> embark.texi
+Created /tmp/embark5HCYHu/embark-0.10/embark.info
+Created embark-0.10.tar containing:
+  embark-0.10/
+  embark-0.10/dir
+  embark-0.10/embark-pkg.el
+  embark-0.10/embark.el
+  embark-0.10/embark.info
+Built embark in 7.371s, finished at Wed May 19 04:30:50 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  365 May 19 04:30 packages-stable/embark-0.10.entry
+120K -rw-r--r-- 1 root root 120K May 19 04:30 packages-stable/embark-0.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/embark-badge.svg
+ 12K -rw-r--r-- 1 root root 8.8K May 19 04:30 packages-stable/embark-consult-0.10.el
+4.0K -rw-r--r-- 1 root root  423 May 19 04:30 packages-stable/embark-consult-0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/embark-consult-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 04:30 packages-stable/embark-consult-readme.txt
+4.0K -rw-r--r-- 1 root root  570 May 19 04:30 packages-stable/embark-consult.log
+4.0K -rw-r--r-- 1 root root 4.0K May 19 04:30 packages-stable/embark-readme.txt

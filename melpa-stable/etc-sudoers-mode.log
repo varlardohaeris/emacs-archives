@@ -1,0 +1,11 @@
+Package: etc-sudoers-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/mavit/etc-sudoers-mode.git
+
+Updating /mnt/store/melpa/working/etc-sudoers-mode/
+Built etc-sudoers-mode in 2.932s, finished at Wed May 19 04:31:55 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K May 19 04:31 packages-stable/etc-sudoers-mode-1.1.0.el
+4.0K -rw-r--r-- 1 root root  408 May 19 04:31 packages-stable/etc-sudoers-mode-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/etc-sudoers-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  430 May 19 04:31 packages-stable/etc-sudoers-mode-readme.txt

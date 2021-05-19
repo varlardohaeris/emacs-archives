@@ -1,0 +1,6 @@
+Package: backup-each-save
+Fetcher: github
+Source:  https://github.com/conornash/backup-each-save.git
+
+Updating /mnt/store/melpa/working/backup-each-save/
+No valid stable versions found for backup-each-save

@@ -1,0 +1,6 @@
+Package: kapacitor
+Fetcher: github
+Source:  https://github.com/Manoj321/kapacitor-el.git
+
+Updating /mnt/store/melpa/working/kapacitor/
+No valid stable versions found for kapacitor

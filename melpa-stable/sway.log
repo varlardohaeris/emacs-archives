@@ -1,0 +1,11 @@
+Package: sway
+Fetcher: github
+Source:  https://github.com/thblt/sway.el.git
+
+Updating /mnt/store/melpa/working/sway/
+Built sway in 3.384s, finished at Wed May 19 01:50:47 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 01:50 packages-stable/sway-0.2.4.el
+4.0K -rw-r--r-- 1 root root  365 May 19 01:50 packages-stable/sway-0.2.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sway-badge.svg
+4.0K -rw-r--r-- 1 root root  366 May 19 01:50 packages-stable/sway-readme.txt

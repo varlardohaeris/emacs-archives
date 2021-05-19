@@ -1,3 +1,4 @@
+
 CDLaTeX is a minor mode supporting fast insertion of environment
 templates and math stuff in LaTeX.
 
@@ -262,7 +263,7 @@ installed.
   `         cdlatex-math-symbol
   '         cdlatex-math-modify
 
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 FAQ
 
@@ -273,3 +274,7 @@ FAQ
   configure the variable `cdlatex-math-modify-prefix'.
 
 - To insert a backquote into the buffer, use C-q `
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;

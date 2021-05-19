@@ -1,0 +1,6 @@
+Package: helm-elscreen
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-elscreen.git
+
+Updating /mnt/store/melpa/working/helm-elscreen/
+No valid stable versions found for helm-elscreen

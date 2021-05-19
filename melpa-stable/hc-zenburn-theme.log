@@ -1,0 +1,6 @@
+Package: hc-zenburn-theme
+Fetcher: github
+Source:  https://github.com/edran/hc-zenburn-emacs.git
+
+Updating /mnt/store/melpa/working/hc-zenburn-theme/
+No matching file(s) found in /mnt/store/melpa/working/hc-zenburn-theme/: (hc-zenburn-theme.el)

@@ -1,6 +1,6 @@
 Allows switching between themes easily.
 
-Installation
+; Installation
 
 In your Emacs config, define a list of themes you want to be
 able to switch between.  Then, enable the global minor mode.

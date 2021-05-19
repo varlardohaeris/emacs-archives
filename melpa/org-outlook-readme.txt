@@ -1,4 +1,3 @@
-Commentary:
 
 * Introduction:
 Org mode lets you organize your tasks. However, sometimes you may wish
@@ -45,3 +44,5 @@ Note that you may also add tasks using visual basic directly. The script below p
      personal needs.
 
 The visual basic script for outlook can be created by calling `M-x org-outlook-create-vbs'
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

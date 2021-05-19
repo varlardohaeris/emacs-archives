@@ -1,0 +1,6 @@
+Package: dyncloze
+Fetcher: github
+Source:  https://github.com/ahyatt/emacs-dyncloze.git
+
+Updating /mnt/store/melpa/working/dyncloze/
+No valid stable versions found for dyncloze

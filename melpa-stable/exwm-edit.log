@@ -1,0 +1,6 @@
+Package: exwm-edit
+Fetcher: github
+Source:  https://github.com/agzam/exwm-edit.git
+
+Updating /mnt/store/melpa/working/exwm-edit/
+No valid stable versions found for exwm-edit

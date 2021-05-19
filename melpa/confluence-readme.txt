@@ -1,3 +1,4 @@
+
 DOWNLOADING
 
 This module is available at Google Code:
@@ -95,7 +96,7 @@ EXAMPLE .emacs CONFIGURATION
 
 (require 'confluence)
 
-note, all customization must be in *one* custom-set-variables block
+;; note, all customization must be in *one* custom-set-variables block
 (custom-set-variables
  ;; ... other custimization
 
@@ -103,8 +104,8 @@ note, all customization must be in *one* custom-set-variables block
  '(confluence-url "http://intranet/confluence/rpc/xmlrpc")
  '(confluence-default-space-alist (list (cons confluence-url "your-default-space-name"))))
 
-
-confluence editing support (with longlines mode)
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; confluence editing support (with longlines mode)
 
 (autoload 'confluence-get-page "confluence" nil t)
 
@@ -117,7 +118,7 @@ confluence editing support (with longlines mode)
        (add-hook 'confluence-before-revert-hook 'longlines-before-revert-hook)
        (add-hook 'confluence-mode-hook (lambda () (local-set-key "\C-j" 'confluence-newline-and-indent))))))
 
-LongLines mode: http://www.emacswiki.org/emacs-en/LongLines
+;; LongLines mode: http://www.emacswiki.org/emacs-en/LongLines
 (autoload 'longlines-mode "longlines" "LongLines Mode." t)
 
 (eval-after-load "longlines"
@@ -153,3 +154,4 @@ LongLines mode: http://www.emacswiki.org/emacs-en/LongLines
                     (if (buffer-live-p tmp-buf)
                         (with-current-buffer tmp-buf
                           (longlines-restore))))))))
+

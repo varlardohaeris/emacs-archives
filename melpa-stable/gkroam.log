@@ -1,0 +1,11 @@
+Package: gkroam
+Fetcher: github
+Source:  https://github.com/Kinneyzhang/gkroam.git
+
+Updating /mnt/store/melpa/working/gkroam/
+Built gkroam in 3.685s, finished at Wed May 19 04:37:38 2021
+ ✓ Success:
+ 84K -rw-r--r-- 1 root root  82K May 19 04:37 packages-stable/gkroam-2.4.3.el
+4.0K -rw-r--r-- 1 root root  418 May 19 04:37 packages-stable/gkroam-2.4.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gkroam-badge.svg
+4.0K -rw-r--r-- 1 root root   72 May 19 04:37 packages-stable/gkroam-readme.txt

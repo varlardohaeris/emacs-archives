@@ -1,0 +1,11 @@
+Package: say-what-im-doing
+Fetcher: github
+Source:  https://github.com/Benaiah/say-what-im-doing.git
+
+Updating /mnt/store/melpa/working/say-what-im-doing/
+Built say-what-im-doing in 3.040s, finished at Wed May 19 01:47:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.1K May 19 01:47 packages-stable/say-what-im-doing-0.2.el
+4.0K -rw-r--r-- 1 root root  365 May 19 01:47 packages-stable/say-what-im-doing-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/say-what-im-doing-badge.svg
+4.0K -rw-r--r-- 1 root root  855 May 19 01:47 packages-stable/say-what-im-doing-readme.txt

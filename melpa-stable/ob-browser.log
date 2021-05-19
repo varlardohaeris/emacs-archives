@@ -1,0 +1,6 @@
+Package: ob-browser
+Fetcher: github
+Source:  https://github.com/krisajenkins/ob-browser.git
+
+Updating /mnt/store/melpa/working/ob-browser/
+No valid stable versions found for ob-browser

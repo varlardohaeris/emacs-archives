@@ -1,8 +1,9 @@
+
 ox-twiki.el lets you convert Org files to twiki buffers
 using the ox.el export engine.
 
 Put this file into your load-path and the following into your ~/.emacs:
-	 (require 'ox-twiki)
+ (require 'ox-twiki)
 
 Export Org files to twiki:
 M-x org-twiki-export-as-twiki RET

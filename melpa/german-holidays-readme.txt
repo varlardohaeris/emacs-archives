@@ -1,3 +1,4 @@
+
 Installation:
 
 To use `german-holidays' exclusively
@@ -19,6 +20,6 @@ This works for for all states:
  `holiday-german-HH-holidays'
  etc.
 
-Credits
+; Credits
 
 inspired by https://github.com/abo-abo/netherlands-holidays

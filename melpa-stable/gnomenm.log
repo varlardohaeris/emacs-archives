@@ -1,0 +1,6 @@
+Package: gnomenm
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-nm.git
+
+Updating /mnt/store/melpa/working/gnomenm/
+No valid stable versions found for gnomenm

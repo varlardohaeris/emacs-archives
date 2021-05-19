@@ -1,0 +1,6 @@
+Package: fasd
+Fetcher: git
+Source:  https://framagit.org/steckerhalter/emacs-fasd.git
+
+Updating /mnt/store/melpa/working/fasd/
+No valid stable versions found for fasd

@@ -1,0 +1,11 @@
+Package: helm-taskswitch
+Fetcher: github
+Source:  https://github.com/bdc34/helm-taskswitch.git
+
+Updating /mnt/store/melpa/working/helm-taskswitch/
+Built helm-taskswitch in 3.386s, finished at Wed May 19 04:41:21 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.2K May 19 04:41 packages-stable/helm-taskswitch-1.0.4.el
+4.0K -rw-r--r-- 1 root root  414 May 19 04:41 packages-stable/helm-taskswitch-1.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-taskswitch-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:41 packages-stable/helm-taskswitch-readme.txt

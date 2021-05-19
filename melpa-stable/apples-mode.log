@@ -1,0 +1,39 @@
+Package: apples-mode
+Fetcher: github
+Source:  https://github.com/tequilasunset/apples-mode.git
+
+Updating /mnt/store/melpa/working/apples-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/apples-mode/
+  to /tmp/apples-modelQDsHb/apples-mode-0.0.2
+    apples-mode.el -> apples-mode.el
+    apples-mode => apples-mode
+Created apples-mode-0.0.2.tar containing:
+  apples-mode-0.0.2/
+  apples-mode-0.0.2/apples-mode-pkg.el
+  apples-mode-0.0.2/apples-mode.el
+  apples-mode-0.0.2/apples-mode/
+  apples-mode-0.0.2/apples-mode/comment
+  apples-mode-0.0.2/apples-mode/considering
+  apples-mode-0.0.2/apples-mode/considering-application-responses
+  apples-mode-0.0.2/apples-mode/display-dialog
+  apples-mode-0.0.2/apples-mode/if
+  apples-mode-0.0.2/apples-mode/ignoring
+  apples-mode-0.0.2/apples-mode/ignoring-application-responses
+  apples-mode-0.0.2/apples-mode/on
+  apples-mode-0.0.2/apples-mode/repeat
+  apples-mode-0.0.2/apples-mode/repeat-until
+  apples-mode-0.0.2/apples-mode/repeat-while
+  apples-mode-0.0.2/apples-mode/repeat-with
+  apples-mode-0.0.2/apples-mode/tell-application
+  apples-mode-0.0.2/apples-mode/tell-application-to-activate
+  apples-mode-0.0.2/apples-mode/try
+  apples-mode-0.0.2/apples-mode/using-terms-from-application
+  apples-mode-0.0.2/apples-mode/with-timeout-of-seconds
+  apples-mode-0.0.2/apples-mode/with-transaction
+Built apples-mode in 2.749s, finished at Wed May 19 04:19:40 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  354 May 19 04:19 packages-stable/apples-mode-0.0.2.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 04:19 packages-stable/apples-mode-0.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/apples-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 04:19 packages-stable/apples-mode-readme.txt

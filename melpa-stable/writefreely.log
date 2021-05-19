@@ -1,0 +1,6 @@
+Package: writefreely
+Fetcher: github
+Source:  https://github.com/dangom/writefreely.el.git
+
+Updating /mnt/store/melpa/working/writefreely/
+No valid stable versions found for writefreely

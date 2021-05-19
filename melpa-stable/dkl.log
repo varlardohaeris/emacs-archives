@@ -1,0 +1,6 @@
+Package: dkl
+Fetcher: github
+Source:  https://github.com/flexibeast/dkl.git
+
+Updating /mnt/store/melpa/working/dkl/
+No valid stable versions found for dkl

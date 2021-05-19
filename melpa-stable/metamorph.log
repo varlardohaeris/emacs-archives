@@ -1,0 +1,6 @@
+Package: metamorph
+Fetcher: github
+Source:  https://github.com/AdamNiederer/metamorph.git
+
+Updating /mnt/store/melpa/working/metamorph/
+No valid stable versions found for metamorph

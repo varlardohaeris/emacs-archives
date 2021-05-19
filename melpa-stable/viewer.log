@@ -1,0 +1,6 @@
+Package: viewer
+Fetcher: github
+Source:  https://github.com/rubikitch/viewer.git
+
+Updating /mnt/store/melpa/working/viewer/
+No valid stable versions found for viewer

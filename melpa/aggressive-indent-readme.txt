@@ -1,3 +1,4 @@
+
 `electric-indent-mode' is enough to keep your code nicely aligned when
 all you do is type.  However, once you start shifting blocks around,
 transposing lines, or slurping and barfing sexps, indentation is bound
@@ -32,7 +33,7 @@ place it in your `load-path' and require it with
 
     (require 'aggressive-indent)
 
-Instructions:
+; Instructions:
 
 INSTALLATION
 

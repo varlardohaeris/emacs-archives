@@ -1,0 +1,6 @@
+Package: sonic-pi
+Fetcher: github
+Source:  https://github.com/repl-electric/sonic-pi.el.git
+
+Updating /mnt/store/melpa/working/sonic-pi/
+No valid stable versions found for sonic-pi

@@ -1,0 +1,11 @@
+Package: emoji-github
+Fetcher: github
+Source:  https://github.com/jcs-elpa/emoji-github.git
+
+Updating /mnt/store/melpa/working/emoji-github/
+Built emoji-github in 2.918s, finished at Wed May 19 04:30:57 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 04:30 packages-stable/emoji-github-0.2.3.el
+4.0K -rw-r--r-- 1 root root  407 May 19 04:30 packages-stable/emoji-github-0.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emoji-github-badge.svg
+4.0K -rw-r--r-- 1 root root   48 May 19 04:30 packages-stable/emoji-github-readme.txt

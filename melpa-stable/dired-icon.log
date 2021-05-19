@@ -1,0 +1,23 @@
+Package: dired-icon
+Fetcher: gitlab
+Source:  https://gitlab.com/xuhdev/dired-icon.git
+
+Updating /mnt/store/melpa/working/dired-icon/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dired-icon/
+  to /tmp/dired-iconNA3a45/dired-icon-0.5
+    dired-icon.el -> dired-icon.el
+    get-icon-path-gtk3.py -> get-icon-path-gtk3.py
+    get-icon-path-macos.m -> get-icon-path-macos.m
+Created dired-icon-0.5.tar containing:
+  dired-icon-0.5/
+  dired-icon-0.5/dired-icon-pkg.el
+  dired-icon-0.5/dired-icon.el
+  dired-icon-0.5/get-icon-path-gtk3.py
+  dired-icon-0.5/get-icon-path-macos.m
+Built dired-icon in 5.839s, finished at Wed May 19 04:27:52 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  402 May 19 04:27 packages-stable/dired-icon-0.5.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:27 packages-stable/dired-icon-0.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-icon-badge.svg
+4.0K -rw-r--r-- 1 root root  960 May 19 04:27 packages-stable/dired-icon-readme.txt

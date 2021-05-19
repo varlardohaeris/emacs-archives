@@ -1,0 +1,6 @@
+Package: stack-mode
+Fetcher: github
+Source:  https://github.com/commercialhaskell/stack-ide.git
+
+Updating /mnt/store/melpa/working/stack-mode/
+No valid stable versions found for stack-mode

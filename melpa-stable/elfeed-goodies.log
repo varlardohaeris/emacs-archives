@@ -1,0 +1,6 @@
+Package: elfeed-goodies
+Fetcher: github
+Source:  https://github.com/algernon/elfeed-goodies.git
+
+Updating /mnt/store/melpa/working/elfeed-goodies/
+No valid stable versions found for elfeed-goodies

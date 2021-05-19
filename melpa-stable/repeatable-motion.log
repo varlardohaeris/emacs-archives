@@ -1,0 +1,21 @@
+Package: repeatable-motion
+Fetcher: github
+Source:  https://github.com/willghatch/emacs-repeatable-motion.git
+
+Updating /mnt/store/melpa/working/repeatable-motion/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/repeatable-motion/
+  to /tmp/repeatable-motionCoyaD2/repeatable-motion-0.2
+    repeatable-motion-common-motions.el -> repeatable-motion-common-motions.el
+    repeatable-motion.el -> repeatable-motion.el
+Created repeatable-motion-0.2.tar containing:
+  repeatable-motion-0.2/
+  repeatable-motion-0.2/repeatable-motion-common-motions.el
+  repeatable-motion-0.2/repeatable-motion-pkg.el
+  repeatable-motion-0.2/repeatable-motion.el
+Built repeatable-motion in 5.308s, finished at Wed May 19 01:46:27 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  419 May 19 01:46 packages-stable/repeatable-motion-0.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:46 packages-stable/repeatable-motion-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/repeatable-motion-badge.svg
+4.0K -rw-r--r-- 1 root root  279 May 19 01:46 packages-stable/repeatable-motion-readme.txt

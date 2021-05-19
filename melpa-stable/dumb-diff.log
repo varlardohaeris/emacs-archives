@@ -1,0 +1,6 @@
+Package: dumb-diff
+Fetcher: github
+Source:  https://github.com/jacktasia/dumb-diff.git
+
+Updating /mnt/store/melpa/working/dumb-diff/
+No valid stable versions found for dumb-diff

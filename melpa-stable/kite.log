@@ -1,0 +1,6 @@
+Package: kite
+Fetcher: github
+Source:  https://github.com/jscheid/kite.git
+
+Updating /mnt/store/melpa/working/kite/
+No valid stable versions found for kite

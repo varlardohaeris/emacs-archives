@@ -1,2 +1,13 @@
-
-(proced-narrow . [(1 0 5) ((seq (2 20)) (emacs (24))) "Live-narrowing of search results for proced." single ((:commit . "df5cce50b3d1219b23d28e23cbf68e0c7807a15c") (:keywords "processes" "proced") (:authors ("Travis Jeffery" . "tj@travisjeffery.com")) (:maintainer "Travis Jeffery" . "tj@travisjeffery.com") (:url . "https://github.com/travisjeffery/proced-narrow"))])
+(proced-narrow .
+	       [(1 0 5)
+		((seq
+		  (2 20))
+		 (emacs
+		  (24)))
+		"Live-narrowing of search results for proced." single
+		((:commit . "df5cce50b3d1219b23d28e23cbf68e0c7807a15c")
+		 (:authors
+		  ("Travis Jeffery" . "tj@travisjeffery.com"))
+		 (:maintainer "Travis Jeffery" . "tj@travisjeffery.com")
+		 (:keywords "processes" "proced")
+		 (:url . "https://github.com/travisjeffery/proced-narrow"))])

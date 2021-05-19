@@ -1,0 +1,11 @@
+Package: js2-closure
+Fetcher: github
+Source:  https://github.com/jart/js2-closure.git
+
+Updating /mnt/store/melpa/working/js2-closure/
+Built js2-closure in 3.848s, finished at Wed May 19 04:44:59 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 04:44 packages-stable/js2-closure-2.2.1.el
+4.0K -rw-r--r-- 1 root root  395 May 19 04:44 packages-stable/js2-closure-2.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/js2-closure-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 04:44 packages-stable/js2-closure-readme.txt

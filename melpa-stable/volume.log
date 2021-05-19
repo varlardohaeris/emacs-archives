@@ -1,0 +1,6 @@
+Package: volume
+Fetcher: github
+Source:  https://github.com/dbrock/volume.el.git
+
+Updating /mnt/store/melpa/working/volume/
+No valid stable versions found for volume

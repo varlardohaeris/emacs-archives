@@ -1,3 +1,4 @@
+
 Prepare `load-path' for testing in emacs -Q.
 First, save your `load-path' in your .emacs.
 Then, invoke emacs with command:

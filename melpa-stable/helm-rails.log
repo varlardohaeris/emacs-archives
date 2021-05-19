@@ -1,0 +1,6 @@
+Package: helm-rails
+Fetcher: github
+Source:  https://github.com/asok/helm-rails.git
+
+Updating /mnt/store/melpa/working/helm-rails/
+No valid stable versions found for helm-rails

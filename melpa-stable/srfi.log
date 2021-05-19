@@ -1,0 +1,21 @@
+Package: srfi
+Fetcher: github
+Source:  https://github.com/srfi-explorations/emacs-srfi.git
+
+Updating /mnt/store/melpa/working/srfi/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/srfi/
+  to /tmp/srfiAHi9Q3/srfi-0.3
+    srfi-data.el -> srfi-data.el
+    srfi.el -> srfi.el
+Created srfi-0.3.tar containing:
+  srfi-0.3/
+  srfi-0.3/srfi-data.el
+  srfi-0.3/srfi-pkg.el
+  srfi-0.3/srfi.el
+Built srfi in 2.865s, finished at Wed May 19 01:50:11 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  380 May 19 01:50 packages-stable/srfi-0.3.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:50 packages-stable/srfi-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/srfi-badge.svg
+4.0K -rw-r--r-- 1 root root  510 May 19 01:50 packages-stable/srfi-readme.txt

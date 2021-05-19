@@ -1,3 +1,4 @@
+
 Org mode is great.  It is powerful, versatile and customizable.  Unfortunately,  I
 always found the task priorities functionality a bit underwhelming, not in
 terms of usability, but more in the visual department.

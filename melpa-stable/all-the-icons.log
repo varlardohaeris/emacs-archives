@@ -1,0 +1,46 @@
+Package: all-the-icons
+Fetcher: github
+Source:  https://github.com/domtronn/all-the-icons.el.git
+
+Updating /mnt/store/melpa/working/all-the-icons/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/all-the-icons/
+  to /tmp/all-the-iconsOJwTW4/all-the-icons-4.0.1
+    all-the-icons-faces.el -> all-the-icons-faces.el
+    all-the-icons.el -> all-the-icons.el
+    data => data
+Created all-the-icons-4.0.1.tar containing:
+  all-the-icons-4.0.1/
+  all-the-icons-4.0.1/all-the-icons-faces.el
+  all-the-icons-4.0.1/all-the-icons-pkg.el
+  all-the-icons-4.0.1/all-the-icons.el
+  all-the-icons-4.0.1/data/
+  all-the-icons-4.0.1/data/data-alltheicons.el
+  all-the-icons-4.0.1/data/data-faicons.el
+  all-the-icons-4.0.1/data/data-fileicons.el
+  all-the-icons-4.0.1/data/data-material.el
+  all-the-icons-4.0.1/data/data-octicons.el
+  all-the-icons-4.0.1/data/data-weathericons.el
+Built all-the-icons in 3.522s, finished at Wed May 19 04:19:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  410 May 19 04:19 packages-stable/all-the-icons-4.0.1.entry
+192K -rw-r--r-- 1 root root 190K May 19 04:19 packages-stable/all-the-icons-4.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/all-the-icons-badge.svg
+4.0K -rw-r--r-- 1 root root  161 May 19 04:19 packages-stable/all-the-icons-dired.log
+4.0K -rw-r--r-- 1 root root  161 May 19 04:19 packages-stable/all-the-icons-gnus.log
+8.0K -rw-r--r-- 1 root root 7.8K May 19 01:04 packages-stable/all-the-icons-ibuffer-1.3.0.el
+4.0K -rw-r--r-- 1 root root  453 May 19 01:04 packages-stable/all-the-icons-ibuffer-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:04 packages-stable/all-the-icons-ibuffer-badge.svg
+4.0K -rw-r--r-- 1 root root  243 May 19 01:04 packages-stable/all-the-icons-ibuffer-readme.txt
+4.0K -rw-r--r-- 1 root root  170 May 19 04:19 packages-stable/all-the-icons-ibuffer.log
+8.0K -rw-r--r-- 1 root root 5.6K May 19 01:04 packages-stable/all-the-icons-ivy-0.5.0.el
+4.0K -rw-r--r-- 1 root root  344 May 19 01:04 packages-stable/all-the-icons-ivy-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:04 packages-stable/all-the-icons-ivy-badge.svg
+4.0K -rw-r--r-- 1 root root  241 May 19 01:04 packages-stable/all-the-icons-ivy-readme.txt
+ 28K -rw-r--r-- 1 root root  27K May 19 01:04 packages-stable/all-the-icons-ivy-rich-1.5.0.el
+4.0K -rw-r--r-- 1 root root  482 May 19 01:04 packages-stable/all-the-icons-ivy-rich-1.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:04 packages-stable/all-the-icons-ivy-rich-badge.svg
+4.0K -rw-r--r-- 1 root root  243 May 19 01:04 packages-stable/all-the-icons-ivy-rich-readme.txt
+4.0K -rw-r--r-- 1 root root  173 May 19 04:19 packages-stable/all-the-icons-ivy-rich.log
+4.0K -rw-r--r-- 1 root root  152 May 19 04:19 packages-stable/all-the-icons-ivy.log
+4.0K -rw-r--r-- 1 root root 1010 May 19 04:19 packages-stable/all-the-icons-readme.txt

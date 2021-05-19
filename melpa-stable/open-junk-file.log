@@ -1,0 +1,6 @@
+Package: open-junk-file
+Fetcher: github
+Source:  https://github.com/rubikitch/open-junk-file.git
+
+Updating /mnt/store/melpa/working/open-junk-file/
+No valid stable versions found for open-junk-file

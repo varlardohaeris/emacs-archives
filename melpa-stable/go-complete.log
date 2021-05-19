@@ -1,0 +1,6 @@
+Package: go-complete
+Fetcher: github
+Source:  https://github.com/vibhavp/go-complete.git
+
+Updating /mnt/store/melpa/working/go-complete/
+No valid stable versions found for go-complete

@@ -1,0 +1,11 @@
+Package: maven-test-mode
+Fetcher: github
+Source:  https://github.com/rranelli/maven-test-mode.git
+
+Updating /mnt/store/melpa/working/maven-test-mode/
+Built maven-test-mode in 7.228s, finished at Wed May 19 01:34:26 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.4K May 19 01:34 packages-stable/maven-test-mode-0.1.5.el
+4.0K -rw-r--r-- 1 root root  392 May 19 01:34 packages-stable/maven-test-mode-0.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/maven-test-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  899 May 19 01:34 packages-stable/maven-test-mode-readme.txt

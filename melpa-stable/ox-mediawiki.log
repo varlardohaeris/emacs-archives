@@ -1,0 +1,6 @@
+Package: ox-mediawiki
+Fetcher: github
+Source:  https://github.com/tomalexander/orgmode-mediawiki.git
+
+Updating /mnt/store/melpa/working/ox-mediawiki/
+No valid stable versions found for ox-mediawiki

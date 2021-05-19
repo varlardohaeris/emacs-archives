@@ -1,0 +1,11 @@
+Package: evil-swap-keys
+Fetcher: github
+Source:  https://github.com/wbolster/evil-swap-keys.git
+
+Updating /mnt/store/melpa/working/evil-swap-keys/
+Built evil-swap-keys in 3.010s, finished at Wed May 19 04:32:39 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:32 packages-stable/evil-swap-keys-1.0.0.el
+4.0K -rw-r--r-- 1 root root  414 May 19 04:32 packages-stable/evil-swap-keys-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-swap-keys-badge.svg
+4.0K -rw-r--r-- 1 root root   91 May 19 04:32 packages-stable/evil-swap-keys-readme.txt

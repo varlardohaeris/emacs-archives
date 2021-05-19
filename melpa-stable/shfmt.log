@@ -1,0 +1,11 @@
+Package: shfmt
+Fetcher: github
+Source:  https://github.com/purcell/emacs-shfmt.git
+
+Updating /mnt/store/melpa/working/shfmt/
+Built shfmt in 3.159s, finished at Wed May 19 01:48:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.3K May 19 01:48 packages-stable/shfmt-0.1.el
+4.0K -rw-r--r-- 1 root root  364 May 19 01:48 packages-stable/shfmt-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shfmt-badge.svg
+4.0K -rw-r--r-- 1 root root  532 May 19 01:48 packages-stable/shfmt-readme.txt

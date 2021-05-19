@@ -1,0 +1,6 @@
+Package: clojars
+Fetcher: github
+Source:  https://github.com/joshuamiller/clojars.el.git
+
+Updating /mnt/store/melpa/working/clojars/
+No valid stable versions found for clojars

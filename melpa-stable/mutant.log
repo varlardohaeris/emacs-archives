@@ -1,0 +1,6 @@
+Package: mutant
+Fetcher: github
+Source:  https://github.com/p-lambert/mutant.el.git
+
+Updating /mnt/store/melpa/working/mutant/
+No valid stable versions found for mutant

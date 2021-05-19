@@ -1,0 +1,6 @@
+Package: tracwiki-mode
+Fetcher: github
+Source:  https://github.com/merickson/tracwiki-mode.git
+
+Updating /mnt/store/melpa/working/tracwiki-mode/
+No valid stable versions found for tracwiki-mode

@@ -1,0 +1,6 @@
+Package: honcho
+Fetcher: github
+Source:  https://github.com/emacs-pe/honcho.el.git
+
+Updating /mnt/store/melpa/working/honcho/
+No valid stable versions found for honcho

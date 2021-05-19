@@ -1,3 +1,4 @@
+
 Capture is an Emacs mode to make screencasts on Linux easier.
 (Well, maybe for some of you who use Emacs)
 

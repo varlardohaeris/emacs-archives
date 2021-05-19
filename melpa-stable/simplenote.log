@@ -1,0 +1,6 @@
+Package: simplenote
+Fetcher: github
+Source:  https://github.com/dotemacs/simplenote.el.git
+
+Updating /mnt/store/melpa/working/simplenote/
+No valid stable versions found for simplenote

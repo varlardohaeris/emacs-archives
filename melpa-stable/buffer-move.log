@@ -1,0 +1,11 @@
+Package: buffer-move
+Fetcher: github
+Source:  https://github.com/lukhas/buffer-move.git
+
+Updating /mnt/store/melpa/working/buffer-move/
+Built buffer-move in 5.986s, finished at Wed May 19 04:22:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.3K May 19 04:22 packages-stable/buffer-move-0.6.2.el
+4.0K -rw-r--r-- 1 root root  215 May 19 04:22 packages-stable/buffer-move-0.6.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/buffer-move-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:22 packages-stable/buffer-move-readme.txt

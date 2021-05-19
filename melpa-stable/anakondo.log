@@ -1,0 +1,11 @@
+Package: anakondo
+Fetcher: github
+Source:  https://github.com/didibus/anakondo.git
+
+Updating /mnt/store/melpa/working/anakondo/
+Built anakondo in 3.496s, finished at Wed May 19 04:19:20 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  36K May 19 04:19 packages-stable/anakondo-0.2.el
+4.0K -rw-r--r-- 1 root root  501 May 19 04:19 packages-stable/anakondo-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/anakondo-badge.svg
+4.0K -rw-r--r-- 1 root root  638 May 19 04:19 packages-stable/anakondo-readme.txt

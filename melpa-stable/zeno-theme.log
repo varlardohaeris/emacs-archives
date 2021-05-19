@@ -1,0 +1,6 @@
+Package: zeno-theme
+Fetcher: github
+Source:  https://github.com/1bharat/zeno-theme.git
+
+Updating /mnt/store/melpa/working/zeno-theme/
+No valid stable versions found for zeno-theme

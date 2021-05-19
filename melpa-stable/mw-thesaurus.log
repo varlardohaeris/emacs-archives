@@ -1,0 +1,6 @@
+Package: mw-thesaurus
+Fetcher: github
+Source:  https://github.com/agzam/mw-thesaurus.el.git
+
+Updating /mnt/store/melpa/working/mw-thesaurus/
+No valid stable versions found for mw-thesaurus

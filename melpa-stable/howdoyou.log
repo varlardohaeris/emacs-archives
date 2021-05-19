@@ -1,0 +1,6 @@
+Package: howdoyou
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-howdoyou.git
+
+Updating /mnt/store/melpa/working/howdoyou/
+No valid stable versions found for howdoyou

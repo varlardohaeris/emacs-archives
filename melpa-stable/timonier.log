@@ -1,0 +1,31 @@
+Package: timonier
+Fetcher: github
+Source:  https://github.com/nlamirault/timonier.git
+
+Updating /mnt/store/melpa/working/timonier/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/timonier/
+  to /tmp/timonier7L1Yxf/timonier-0.1.0
+    timonier-custom.el -> timonier-custom.el
+    timonier-io.el -> timonier-io.el
+    timonier-k8s.el -> timonier-k8s.el
+    timonier-mode.el -> timonier-mode.el
+    timonier-utils.el -> timonier-utils.el
+    timonier-version.el -> timonier-version.el
+    timonier.el -> timonier.el
+Created timonier-0.1.0.tar containing:
+  timonier-0.1.0/
+  timonier-0.1.0/timonier-custom.el
+  timonier-0.1.0/timonier-io.el
+  timonier-0.1.0/timonier-k8s.el
+  timonier-0.1.0/timonier-mode.el
+  timonier-0.1.0/timonier-pkg.el
+  timonier-0.1.0/timonier-utils.el
+  timonier-0.1.0/timonier-version.el
+  timonier-0.1.0/timonier.el
+Built timonier in 2.695s, finished at Wed May 19 01:52:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  564 May 19 01:52 packages-stable/timonier-0.1.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:52 packages-stable/timonier-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/timonier-badge.svg
+4.0K -rw-r--r-- 1 root root  177 May 19 01:52 packages-stable/timonier-readme.txt

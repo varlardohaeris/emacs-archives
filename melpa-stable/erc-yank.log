@@ -1,0 +1,6 @@
+Package: erc-yank
+Fetcher: github
+Source:  https://github.com/jwiegley/erc-yank.git
+
+Updating /mnt/store/melpa/working/erc-yank/
+No valid stable versions found for erc-yank

@@ -1,0 +1,6 @@
+Package: panda
+Fetcher: github
+Source:  https://github.com/sebasmonia/panda.git
+
+Updating /mnt/store/melpa/working/panda/
+No valid stable versions found for panda

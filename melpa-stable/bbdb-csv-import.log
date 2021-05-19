@@ -1,0 +1,6 @@
+Package: bbdb-csv-import
+Fetcher: git
+Source:  https://git.sr.ht/~iank/bbdb-csv-import
+
+Updating /mnt/store/melpa/working/bbdb-csv-import/
+No valid stable versions found for bbdb-csv-import

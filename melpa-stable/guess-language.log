@@ -1,0 +1,6 @@
+Package: guess-language
+Fetcher: github
+Source:  https://github.com/tmalsburg/guess-language.el.git
+
+Updating /mnt/store/melpa/working/guess-language/
+No valid stable versions found for guess-language

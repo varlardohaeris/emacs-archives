@@ -1,0 +1,11 @@
+Package: haml-mode
+Fetcher: github
+Source:  https://github.com/nex3/haml-mode.git
+
+Updating /mnt/store/melpa/working/haml-mode/
+Built haml-mode in 4.339s, finished at Wed May 19 04:39:26 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  33K May 19 04:39 packages-stable/haml-mode-3.1.9.el
+4.0K -rw-r--r-- 1 root root  358 May 19 04:39 packages-stable/haml-mode-3.1.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/haml-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  265 May 19 04:39 packages-stable/haml-mode-readme.txt

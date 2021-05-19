@@ -1,0 +1,11 @@
+Package: fn
+Fetcher: github
+Source:  https://github.com/troyp/fn.el.git
+
+Updating /mnt/store/melpa/working/fn/
+Built fn in 2.923s, finished at Wed May 19 04:35:57 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K May 19 04:35 packages-stable/fn-0.1.2.el
+4.0K -rw-r--r-- 1 root root  366 May 19 04:35 packages-stable/fn-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/fn-badge.svg
+4.0K -rw-r--r-- 1 root root   94 May 19 04:35 packages-stable/fn-readme.txt

@@ -1,3 +1,4 @@
+
  If you use multiple windows in an Emacs frame, you may find yourself
  moving through the window configuration using `other-window' (C-x o)
  again and again. Because the order of windows in the window list

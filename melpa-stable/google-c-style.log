@@ -1,0 +1,6 @@
+Package: google-c-style
+Fetcher: github
+Source:  https://github.com/google/styleguide.git
+
+Updating /mnt/store/melpa/working/google-c-style/
+No valid stable versions found for google-c-style

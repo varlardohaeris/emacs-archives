@@ -1,0 +1,11 @@
+Package: lsp-jedi
+Fetcher: github
+Source:  https://github.com/fredcamps/lsp-jedi.git
+
+Updating /mnt/store/melpa/working/lsp-jedi/
+Built lsp-jedi in 3.735s, finished at Wed May 19 01:33:04 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K May 19 01:33 packages-stable/lsp-jedi-1.0.0.el
+4.0K -rw-r--r-- 1 root root  424 May 19 01:33 packages-stable/lsp-jedi-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-jedi-badge.svg
+4.0K -rw-r--r-- 1 root root   79 May 19 01:33 packages-stable/lsp-jedi-readme.txt

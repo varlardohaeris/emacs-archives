@@ -1,0 +1,6 @@
+Package: hamburg-theme
+Fetcher: github
+Source:  https://github.com/mswift42/hamburg-theme.git
+
+Updating /mnt/store/melpa/working/hamburg-theme/
+No valid stable versions found for hamburg-theme

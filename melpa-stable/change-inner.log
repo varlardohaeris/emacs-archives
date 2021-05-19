@@ -1,0 +1,6 @@
+Package: change-inner
+Fetcher: github
+Source:  https://github.com/magnars/change-inner.el.git
+
+Updating /mnt/store/melpa/working/change-inner/
+No valid stable versions found for change-inner

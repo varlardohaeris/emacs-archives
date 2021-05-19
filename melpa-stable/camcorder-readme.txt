@@ -1,3 +1,4 @@
+
   Tool for capturing screencasts directly from Emacs.
 
   • To use it, simply call `M-x camcorder-record'.

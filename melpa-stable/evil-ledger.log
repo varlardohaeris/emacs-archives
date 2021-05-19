@@ -1,0 +1,6 @@
+Package: evil-ledger
+Fetcher: github
+Source:  https://github.com/atheriel/evil-ledger.git
+
+Updating /mnt/store/melpa/working/evil-ledger/
+No valid stable versions found for evil-ledger

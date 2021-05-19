@@ -1,0 +1,6 @@
+Package: wakib-keys
+Fetcher: github
+Source:  https://github.com/darkstego/wakib-keys.git
+
+Updating /mnt/store/melpa/working/wakib-keys/
+No valid stable versions found for wakib-keys

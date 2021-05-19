@@ -1,0 +1,6 @@
+Package: pdb-capf
+Fetcher: github
+Source:  https://github.com/muffinmad/emacs-pdb-capf.git
+
+Updating /mnt/store/melpa/working/pdb-capf/
+No valid stable versions found for pdb-capf

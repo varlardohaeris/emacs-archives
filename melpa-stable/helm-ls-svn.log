@@ -1,0 +1,6 @@
+Package: helm-ls-svn
+Fetcher: github
+Source:  https://github.com/emacsmirror/helm-ls-svn.git
+
+Updating /mnt/store/melpa/working/helm-ls-svn/
+No valid stable versions found for helm-ls-svn

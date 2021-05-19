@@ -1,0 +1,6 @@
+Package: sly
+Fetcher: github
+Source:  https://github.com/joaotavora/sly.git
+
+Updating /mnt/store/melpa/working/sly/
+sly[-pkg].el matching package name is missing

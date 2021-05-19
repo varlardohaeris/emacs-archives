@@ -1,0 +1,6 @@
+Package: python-docstring
+Fetcher: github
+Source:  https://github.com/glyph/python-docstring-mode.git
+
+Updating /mnt/store/melpa/working/python-docstring/
+No valid stable versions found for python-docstring

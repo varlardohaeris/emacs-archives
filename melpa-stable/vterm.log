@@ -1,0 +1,6 @@
+Package: vterm
+Fetcher: github
+Source:  https://github.com/akermu/emacs-libvterm.git
+
+Updating /mnt/store/melpa/working/vterm/
+No valid stable versions found for vterm

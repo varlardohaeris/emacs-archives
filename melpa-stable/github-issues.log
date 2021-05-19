@@ -1,0 +1,6 @@
+Package: github-issues
+Fetcher: github
+Source:  https://github.com/inkel/github-issues.el.git
+
+Updating /mnt/store/melpa/working/github-issues/
+No valid stable versions found for github-issues

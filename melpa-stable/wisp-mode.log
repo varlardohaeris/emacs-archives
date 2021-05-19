@@ -1,0 +1,6 @@
+Package: wisp-mode
+Fetcher: hg
+Source:  https://hg.sr.ht/~arnebab/wisp
+
+Updating /mnt/store/melpa/working/wisp-mode/
+hg exited with status 255

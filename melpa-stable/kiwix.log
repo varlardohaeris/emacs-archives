@@ -1,0 +1,11 @@
+Package: kiwix
+Fetcher: github
+Source:  https://github.com/stardiviner/kiwix.el.git
+
+Updating /mnt/store/melpa/working/kiwix/
+Built kiwix in 3.660s, finished at Wed May 19 01:31:24 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:31 packages-stable/kiwix-1.0.0.el
+4.0K -rw-r--r-- 1 root root  376 May 19 01:31 packages-stable/kiwix-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/kiwix-badge.svg
+4.0K -rw-r--r-- 1 root root  120 May 19 01:31 packages-stable/kiwix-readme.txt

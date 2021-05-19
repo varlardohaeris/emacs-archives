@@ -3,7 +3,7 @@ Norwegian calendar localization.
 Example usage:
  ;; Localises date format, weekdays, months, lunar/solar names:
 (require 'calendar-norway)
-Set what holidays you want in your calendar:
+;; Set what holidays you want in your calendar:
 (setq calendar-holidays
    (append
     ;; Include days where you don't have to work:

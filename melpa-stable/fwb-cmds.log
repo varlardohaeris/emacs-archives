@@ -1,0 +1,11 @@
+Package: fwb-cmds
+Fetcher: github
+Source:  https://github.com/tarsius/fwb-cmds.git
+
+Updating /mnt/store/melpa/working/fwb-cmds/
+Built fwb-cmds in 3.303s, finished at Wed May 19 04:36:34 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.1K May 19 04:36 packages-stable/fwb-cmds-1.1.1.el
+4.0K -rw-r--r-- 1 root root  347 May 19 04:36 packages-stable/fwb-cmds-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fwb-cmds-badge.svg
+4.0K -rw-r--r-- 1 root root  533 May 19 04:36 packages-stable/fwb-cmds-readme.txt

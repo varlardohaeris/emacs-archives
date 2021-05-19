@@ -1,0 +1,8 @@
+(helm-org-ql .
+	     [(0 5)
+	      nil "Helm commands for org-ql" single
+	      ((:commit . "3924b023e0f1e8fa93cfa79bdd71f9f0c0fb4679")
+	       (:authors
+		("Adam Porter" . "adam@alphapapa.net"))
+	       (:maintainer "Adam Porter" . "adam@alphapapa.net")
+	       (:url . "https://github.com/alphapapa/org-ql"))])

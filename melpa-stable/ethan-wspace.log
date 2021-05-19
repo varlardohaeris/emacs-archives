@@ -1,0 +1,11 @@
+Package: ethan-wspace
+Fetcher: github
+Source:  https://github.com/glasserc/ethan-wspace.git
+
+Updating /mnt/store/melpa/working/ethan-wspace/
+Built ethan-wspace in 3.094s, finished at Wed May 19 04:31:56 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  38K May 19 04:31 packages-stable/ethan-wspace-0.7.1.el
+4.0K -rw-r--r-- 1 root root  348 May 19 04:31 packages-stable/ethan-wspace-0.7.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ethan-wspace-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K May 19 04:31 packages-stable/ethan-wspace-readme.txt

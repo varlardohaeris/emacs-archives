@@ -1,0 +1,12 @@
+Package: org-random-todo
+Fetcher: github
+Source:  https://github.com/unhammer/org-random-todo.git
+
+Updating /mnt/store/melpa/working/org-random-todo/
+Note: org-random-todo :files spec is equivalent to the default.
+Built org-random-todo in 3.076s, finished at Wed May 19 01:39:50 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.3K May 19 01:39 packages-stable/org-random-todo-0.5.3.el
+4.0K -rw-r--r-- 1 root root  459 May 19 01:39 packages-stable/org-random-todo-0.5.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-random-todo-badge.svg
+4.0K -rw-r--r-- 1 root root  177 May 19 01:39 packages-stable/org-random-todo-readme.txt

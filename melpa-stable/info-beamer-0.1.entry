@@ -1,2 +1,11 @@
-
-(info-beamer . [(0 1) ((emacs (24 4))) "Utilities for working with info-beamer" single ((:commit . "f65e89ad0c2a7acdef1dc182947d59287f371783") (:keywords "tools" "processes" "comm") (:authors ("Daniel Kraus" . "daniel@kraus.my")) (:maintainer "Daniel Kraus" . "daniel@kraus.my") (:url . "https://github.com/dakra/info-beamer.el"))])
+(info-beamer .
+	     [(0 1)
+	      ((emacs
+		(24 4)))
+	      "Utilities for working with info-beamer" single
+	      ((:commit . "f65e89ad0c2a7acdef1dc182947d59287f371783")
+	       (:authors
+		("Daniel Kraus" . "daniel@kraus.my"))
+	       (:maintainer "Daniel Kraus" . "daniel@kraus.my")
+	       (:keywords "tools" "processes" "comm")
+	       (:url . "https://github.com/dakra/info-beamer.el"))])

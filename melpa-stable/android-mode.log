@@ -1,0 +1,11 @@
+Package: android-mode
+Fetcher: github
+Source:  https://github.com/remvee/android-mode.git
+
+Updating /mnt/store/melpa/working/android-mode/
+Built android-mode in 3.446s, finished at Wed May 19 04:19:20 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  27K May 19 04:19 packages-stable/android-mode-0.5.2.el
+4.0K -rw-r--r-- 1 root root  325 May 19 04:19 packages-stable/android-mode-0.5.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/android-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  248 May 19 04:19 packages-stable/android-mode-readme.txt

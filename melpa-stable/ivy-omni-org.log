@@ -1,0 +1,6 @@
+Package: ivy-omni-org
+Fetcher: github
+Source:  https://github.com/akirak/ivy-omni-org.git
+
+Updating /mnt/store/melpa/working/ivy-omni-org/
+No valid stable versions found for ivy-omni-org

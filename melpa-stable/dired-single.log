@@ -1,0 +1,11 @@
+Package: dired-single
+Fetcher: github
+Source:  https://github.com/crocket/dired-single.git
+
+Updating /mnt/store/melpa/working/dired-single/
+Built dired-single in 3.606s, finished at Wed May 19 04:28:01 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.5K May 19 04:28 packages-stable/dired-single-0.2.0.el
+4.0K -rw-r--r-- 1 root root  330 May 19 04:28 packages-stable/dired-single-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dired-single-badge.svg
+4.0K -rw-r--r-- 1 root root   65 May 19 04:28 packages-stable/dired-single-readme.txt

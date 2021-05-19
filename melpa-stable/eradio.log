@@ -1,0 +1,6 @@
+Package: eradio
+Fetcher: github
+Source:  https://github.com/fossegrim/eradio.git
+
+Updating /mnt/store/melpa/working/eradio/
+No valid stable versions found for eradio

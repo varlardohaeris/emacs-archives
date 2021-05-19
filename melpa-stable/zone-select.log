@@ -1,0 +1,6 @@
+Package: zone-select
+Fetcher: github
+Source:  https://github.com/kawabata/zone-select.git
+
+Updating /mnt/store/melpa/working/zone-select/
+No valid stable versions found for zone-select

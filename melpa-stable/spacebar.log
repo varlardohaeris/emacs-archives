@@ -1,0 +1,6 @@
+Package: spacebar
+Fetcher: github
+Source:  https://github.com/matthias-margush/spacebar.git
+
+Updating /mnt/store/melpa/working/spacebar/
+No valid stable versions found for spacebar

@@ -1,0 +1,6 @@
+Package: findr
+Fetcher: github
+Source:  https://github.com/emacsorphanage/findr.git
+
+Updating /mnt/store/melpa/working/findr/
+No valid stable versions found for findr

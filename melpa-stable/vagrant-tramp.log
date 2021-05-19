@@ -1,0 +1,6 @@
+Package: vagrant-tramp
+Fetcher: github
+Source:  https://github.com/dougm/vagrant-tramp.git
+
+Updating /mnt/store/melpa/working/vagrant-tramp/
+No valid stable versions found for vagrant-tramp

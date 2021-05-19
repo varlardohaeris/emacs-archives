@@ -1,0 +1,6 @@
+Package: flycheck-css-colorguard
+Fetcher: github
+Source:  https://github.com/Simplify/flycheck-css-colorguard.git
+
+Updating /mnt/store/melpa/working/flycheck-css-colorguard/
+No valid stable versions found for flycheck-css-colorguard

@@ -1,0 +1,11 @@
+Package: flymake-css
+Fetcher: github
+Source:  https://github.com/purcell/flymake-css.git
+
+Updating /mnt/store/melpa/working/flymake-css/
+Built flymake-css in 3.312s, finished at Wed May 19 04:35:26 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.1K May 19 04:35 packages-stable/flymake-css-0.3.el
+4.0K -rw-r--r-- 1 root root  363 May 19 04:35 packages-stable/flymake-css-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-css-badge.svg
+4.0K -rw-r--r-- 1 root root  711 May 19 04:35 packages-stable/flymake-css-readme.txt

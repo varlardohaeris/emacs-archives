@@ -1,0 +1,6 @@
+Package: counsel-test
+Fetcher: github
+Source:  https://github.com/xmagpie/counsel-test.git
+
+Updating /mnt/store/melpa/working/counsel-test/
+No valid stable versions found for counsel-test

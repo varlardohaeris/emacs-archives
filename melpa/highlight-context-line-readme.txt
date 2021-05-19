@@ -9,7 +9,7 @@ or permanently by putting
     (highlight-context-line-mode 1)
 in your init file.
 
-ChangeLog
+; ChangeLog
 
 2.0   March 2017
       - Total rewrite

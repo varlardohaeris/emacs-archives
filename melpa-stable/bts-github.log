@@ -1,0 +1,6 @@
+Package: bts-github
+Fetcher: github
+Source:  https://github.com/aki2o/emacs-bts-github.git
+
+Updating /mnt/store/melpa/working/bts-github/
+No valid stable versions found for bts-github

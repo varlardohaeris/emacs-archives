@@ -1,0 +1,2 @@
+
+(ada-gpr . [(20200520 1021) nil "major-mode for editing GNAT project files" single ((:commit . "0f32a8b00eb9fe71fa5a00f622adddd3c9ebd637") (:keywords "languages" "ada") (:authors ("Rolf Ebert     " . "rolf.ebert_nosp...@gmx.net")) (:maintainer "Rolf Ebert     " . "rolf.ebert_nosp...@gmx.net"))])

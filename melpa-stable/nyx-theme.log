@@ -1,0 +1,6 @@
+Package: nyx-theme
+Fetcher: github
+Source:  https://github.com/guidoschmidt/emacs-nyx-theme.git
+
+Updating /mnt/store/melpa/working/nyx-theme/
+No valid stable versions found for nyx-theme

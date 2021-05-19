@@ -1,0 +1,6 @@
+Package: rtags-xref
+Fetcher: github
+Source:  https://github.com/Andersbakken/rtags.git
+
+Updating /mnt/store/melpa/working/rtags-xref/
+No matching file(s) found in /mnt/store/melpa/working/rtags-xref/: (src/rtags-xref.el)

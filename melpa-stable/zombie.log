@@ -1,0 +1,6 @@
+Package: zombie
+Fetcher: github
+Source:  https://github.com/zk-phi/zombie.git
+
+Updating /mnt/store/melpa/working/zombie/
+No valid stable versions found for zombie

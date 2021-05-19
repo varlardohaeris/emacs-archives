@@ -1,0 +1,23 @@
+Package: pynt
+Fetcher: github
+Source:  https://github.com/ebanner/pynt.git
+
+Updating /mnt/store/melpa/working/pynt/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pynt/
+  to /tmp/pynta9G0Of/pynt-1.0.0
+  ! pynt/ast-server.py -> ast-server.py
+  ! pynt/node_transformers.py -> node_transformers.py
+  ! pynt/pynt.el -> pynt.el
+Created pynt-1.0.0.tar containing:
+  pynt-1.0.0/
+  pynt-1.0.0/ast-server.py
+  pynt-1.0.0/node_transformers.py
+  pynt-1.0.0/pynt-pkg.el
+  pynt-1.0.0/pynt.el
+Built pynt in 4.780s, finished at Wed May 19 01:44:56 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  443 May 19 01:44 packages-stable/pynt-1.0.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:44 packages-stable/pynt-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pynt-badge.svg
+4.0K -rw-r--r-- 1 root root  646 May 19 01:44 packages-stable/pynt-readme.txt

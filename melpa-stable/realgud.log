@@ -1,0 +1,264 @@
+Package: realgud
+Fetcher: github
+Source:  https://github.com/realgud/realgud.git
+
+Updating /mnt/store/melpa/working/realgud/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/realgud/
+  to /tmp/realgud4WFcna/realgud-1.5.1
+    realgud.el -> realgud.el
+  ! realgud/.nosearch -> .nosearch
+    realgud-recursive-autoloads.el -> realgud-recursive-autoloads.el
+    realgud/common/attach.el -> realgud/common/attach.el
+    realgud/common/backtrace-mode.el -> realgud/common/backtrace-mode.el
+    realgud/common/backtrack-mode.el -> realgud/common/backtrack-mode.el
+    realgud/common/bp-image-data.el -> realgud/common/bp-image-data.el
+    realgud/common/bp.el -> realgud/common/bp.el
+    realgud/common/breakpoint-mode.el -> realgud/common/breakpoint-mode.el
+    realgud/common/cmds.el -> realgud/common/cmds.el
+    realgud/common/core.el -> realgud/common/core.el
+    realgud/common/custom.el -> realgud/common/custom.el
+    realgud/common/eval.el -> realgud/common/eval.el
+    realgud/common/file.el -> realgud/common/file.el
+    realgud/common/follow.el -> realgud/common/follow.el
+    realgud/common/fringe.el -> realgud/common/fringe.el
+    realgud/common/helper.el -> realgud/common/helper.el
+    realgud/common/init.el -> realgud/common/init.el
+    realgud/common/key.el -> realgud/common/key.el
+    realgud/common/lang.el -> realgud/common/lang.el
+    realgud/common/loc.el -> realgud/common/loc.el
+    realgud/common/lochist.el -> realgud/common/lochist.el
+    realgud/common/menu.el -> realgud/common/menu.el
+    realgud/common/regexp.el -> realgud/common/regexp.el
+    realgud/common/reset.el -> realgud/common/reset.el
+    realgud/common/run.el -> realgud/common/run.el
+    realgud/common/send.el -> realgud/common/send.el
+    realgud/common/shortkey.el -> realgud/common/shortkey.el
+    realgud/common/track-mode.el -> realgud/common/track-mode.el
+    realgud/common/track.el -> realgud/common/track.el
+    realgud/common/utils.el -> realgud/common/utils.el
+    realgud/common/window.el -> realgud/common/window.el
+    realgud/common/buffer/backtrace.el -> realgud/common/buffer/backtrace.el
+    realgud/common/buffer/breakpoint.el -> realgud/common/buffer/breakpoint.el
+    realgud/common/buffer/command.el -> realgud/common/buffer/command.el
+    realgud/common/buffer/helper.el -> realgud/common/buffer/helper.el
+    realgud/common/buffer/info.el -> realgud/common/buffer/info.el
+    realgud/common/buffer/source.el -> realgud/common/buffer/source.el
+    realgud/debugger/bashdb/bashdb.el -> realgud/debugger/bashdb/bashdb.el
+    realgud/debugger/bashdb/core.el -> realgud/debugger/bashdb/core.el
+    realgud/debugger/bashdb/init.el -> realgud/debugger/bashdb/init.el
+    realgud/debugger/bashdb/track-mode.el -> realgud/debugger/bashdb/track-mode.el
+    realgud/debugger/gdb/core.el -> realgud/debugger/gdb/core.el
+    realgud/debugger/gdb/gdb.el -> realgud/debugger/gdb/gdb.el
+    realgud/debugger/gdb/init.el -> realgud/debugger/gdb/init.el
+    realgud/debugger/gdb/track-mode.el -> realgud/debugger/gdb/track-mode.el
+    realgud/debugger/gub/core.el -> realgud/debugger/gub/core.el
+    realgud/debugger/gub/gub.el -> realgud/debugger/gub/gub.el
+    realgud/debugger/gub/init.el -> realgud/debugger/gub/init.el
+    realgud/debugger/gub/track-mode.el -> realgud/debugger/gub/track-mode.el
+    realgud/debugger/kshdb/core.el -> realgud/debugger/kshdb/core.el
+    realgud/debugger/kshdb/init.el -> realgud/debugger/kshdb/init.el
+    realgud/debugger/kshdb/kshdb.el -> realgud/debugger/kshdb/kshdb.el
+    realgud/debugger/kshdb/track-mode.el -> realgud/debugger/kshdb/track-mode.el
+    realgud/debugger/pdb/core.el -> realgud/debugger/pdb/core.el
+    realgud/debugger/pdb/init.el -> realgud/debugger/pdb/init.el
+    realgud/debugger/pdb/pdb.el -> realgud/debugger/pdb/pdb.el
+    realgud/debugger/pdb/track-mode.el -> realgud/debugger/pdb/track-mode.el
+    realgud/debugger/perldb/core.el -> realgud/debugger/perldb/core.el
+    realgud/debugger/perldb/init.el -> realgud/debugger/perldb/init.el
+    realgud/debugger/perldb/perldb.el -> realgud/debugger/perldb/perldb.el
+    realgud/debugger/perldb/track-mode.el -> realgud/debugger/perldb/track-mode.el
+    realgud/debugger/rdebug/core.el -> realgud/debugger/rdebug/core.el
+    realgud/debugger/rdebug/init.el -> realgud/debugger/rdebug/init.el
+    realgud/debugger/rdebug/rdebug.el -> realgud/debugger/rdebug/rdebug.el
+    realgud/debugger/rdebug/track-mode.el -> realgud/debugger/rdebug/track-mode.el
+    realgud/debugger/remake/core.el -> realgud/debugger/remake/core.el
+    realgud/debugger/remake/init.el -> realgud/debugger/remake/init.el
+    realgud/debugger/remake/remake.el -> realgud/debugger/remake/remake.el
+    realgud/debugger/remake/track-mode.el -> realgud/debugger/remake/track-mode.el
+    realgud/debugger/trepan/backtrack-mode.el -> realgud/debugger/trepan/backtrack-mode.el
+    realgud/debugger/trepan/core.el -> realgud/debugger/trepan/core.el
+    realgud/debugger/trepan/init.el -> realgud/debugger/trepan/init.el
+    realgud/debugger/trepan/track-mode.el -> realgud/debugger/trepan/track-mode.el
+    realgud/debugger/trepan/trepan.el -> realgud/debugger/trepan/trepan.el
+    realgud/debugger/trepan.pl/backtrack-mode.el -> realgud/debugger/trepan.pl/backtrack-mode.el
+    realgud/debugger/trepan.pl/core.el -> realgud/debugger/trepan.pl/core.el
+    realgud/debugger/trepan.pl/init.el -> realgud/debugger/trepan.pl/init.el
+    realgud/debugger/trepan.pl/track-mode.el -> realgud/debugger/trepan.pl/track-mode.el
+    realgud/debugger/trepan.pl/trepanpl.el -> realgud/debugger/trepan.pl/trepanpl.el
+    realgud/debugger/trepan2/core.el -> realgud/debugger/trepan2/core.el
+    realgud/debugger/trepan2/init.el -> realgud/debugger/trepan2/init.el
+    realgud/debugger/trepan2/track-mode.el -> realgud/debugger/trepan2/track-mode.el
+    realgud/debugger/trepan2/trepan2.el -> realgud/debugger/trepan2/trepan2.el
+    realgud/debugger/trepan3k/core.el -> realgud/debugger/trepan3k/core.el
+    realgud/debugger/trepan3k/init.el -> realgud/debugger/trepan3k/init.el
+    realgud/debugger/trepan3k/track-mode.el -> realgud/debugger/trepan3k/track-mode.el
+    realgud/debugger/trepan3k/trepan3k.el -> realgud/debugger/trepan3k/trepan3k.el
+    realgud/debugger/trepanjs/backtrack-mode.el -> realgud/debugger/trepanjs/backtrack-mode.el
+    realgud/debugger/trepanjs/core.el -> realgud/debugger/trepanjs/core.el
+    realgud/debugger/trepanjs/init.el -> realgud/debugger/trepanjs/init.el
+    realgud/debugger/trepanjs/track-mode.el -> realgud/debugger/trepanjs/track-mode.el
+    realgud/debugger/trepanjs/trepanjs.el -> realgud/debugger/trepanjs/trepanjs.el
+    realgud/debugger/zshdb/core.el -> realgud/debugger/zshdb/core.el
+    realgud/debugger/zshdb/init.el -> realgud/debugger/zshdb/init.el
+    realgud/debugger/zshdb/track-mode.el -> realgud/debugger/zshdb/track-mode.el
+    realgud/debugger/zshdb/zshdb.el -> realgud/debugger/zshdb/zshdb.el
+    realgud/lang/java.el -> realgud/lang/java.el
+    realgud/lang/js.el -> realgud/lang/js.el
+    realgud/lang/perl.el -> realgud/lang/perl.el
+    realgud/lang/posix-shell.el -> realgud/lang/posix-shell.el
+    realgud/lang/python.el -> realgud/lang/python.el
+    realgud/lang/ruby.el -> realgud/lang/ruby.el
+Created realgud-1.5.1.tar containing:
+  realgud-1.5.1/
+  realgud-1.5.1/.nosearch
+  realgud-1.5.1/realgud-pkg.el
+  realgud-1.5.1/realgud-recursive-autoloads.el
+  realgud-1.5.1/realgud.el
+  realgud-1.5.1/realgud/
+  realgud-1.5.1/realgud/common/
+  realgud-1.5.1/realgud/common/attach.el
+  realgud-1.5.1/realgud/common/backtrace-mode.el
+  realgud-1.5.1/realgud/common/backtrack-mode.el
+  realgud-1.5.1/realgud/common/bp-image-data.el
+  realgud-1.5.1/realgud/common/bp.el
+  realgud-1.5.1/realgud/common/breakpoint-mode.el
+  realgud-1.5.1/realgud/common/buffer/
+  realgud-1.5.1/realgud/common/buffer/backtrace.el
+  realgud-1.5.1/realgud/common/buffer/breakpoint.el
+  realgud-1.5.1/realgud/common/buffer/command.el
+  realgud-1.5.1/realgud/common/buffer/helper.el
+  realgud-1.5.1/realgud/common/buffer/info.el
+  realgud-1.5.1/realgud/common/buffer/source.el
+  realgud-1.5.1/realgud/common/cmds.el
+  realgud-1.5.1/realgud/common/core.el
+  realgud-1.5.1/realgud/common/custom.el
+  realgud-1.5.1/realgud/common/eval.el
+  realgud-1.5.1/realgud/common/file.el
+  realgud-1.5.1/realgud/common/follow.el
+  realgud-1.5.1/realgud/common/fringe.el
+  realgud-1.5.1/realgud/common/helper.el
+  realgud-1.5.1/realgud/common/init.el
+  realgud-1.5.1/realgud/common/key.el
+  realgud-1.5.1/realgud/common/lang.el
+  realgud-1.5.1/realgud/common/loc.el
+  realgud-1.5.1/realgud/common/lochist.el
+  realgud-1.5.1/realgud/common/menu.el
+  realgud-1.5.1/realgud/common/regexp.el
+  realgud-1.5.1/realgud/common/reset.el
+  realgud-1.5.1/realgud/common/run.el
+  realgud-1.5.1/realgud/common/send.el
+  realgud-1.5.1/realgud/common/shortkey.el
+  realgud-1.5.1/realgud/common/track-mode.el
+  realgud-1.5.1/realgud/common/track.el
+  realgud-1.5.1/realgud/common/utils.el
+  realgud-1.5.1/realgud/common/window.el
+  realgud-1.5.1/realgud/debugger/
+  realgud-1.5.1/realgud/debugger/bashdb/
+  realgud-1.5.1/realgud/debugger/bashdb/bashdb.el
+  realgud-1.5.1/realgud/debugger/bashdb/core.el
+  realgud-1.5.1/realgud/debugger/bashdb/init.el
+  realgud-1.5.1/realgud/debugger/bashdb/track-mode.el
+  realgud-1.5.1/realgud/debugger/gdb/
+  realgud-1.5.1/realgud/debugger/gdb/core.el
+  realgud-1.5.1/realgud/debugger/gdb/gdb.el
+  realgud-1.5.1/realgud/debugger/gdb/init.el
+  realgud-1.5.1/realgud/debugger/gdb/track-mode.el
+  realgud-1.5.1/realgud/debugger/gub/
+  realgud-1.5.1/realgud/debugger/gub/core.el
+  realgud-1.5.1/realgud/debugger/gub/gub.el
+  realgud-1.5.1/realgud/debugger/gub/init.el
+  realgud-1.5.1/realgud/debugger/gub/track-mode.el
+  realgud-1.5.1/realgud/debugger/kshdb/
+  realgud-1.5.1/realgud/debugger/kshdb/core.el
+  realgud-1.5.1/realgud/debugger/kshdb/init.el
+  realgud-1.5.1/realgud/debugger/kshdb/kshdb.el
+  realgud-1.5.1/realgud/debugger/kshdb/track-mode.el
+  realgud-1.5.1/realgud/debugger/pdb/
+  realgud-1.5.1/realgud/debugger/pdb/core.el
+  realgud-1.5.1/realgud/debugger/pdb/init.el
+  realgud-1.5.1/realgud/debugger/pdb/pdb.el
+  realgud-1.5.1/realgud/debugger/pdb/track-mode.el
+  realgud-1.5.1/realgud/debugger/perldb/
+  realgud-1.5.1/realgud/debugger/perldb/core.el
+  realgud-1.5.1/realgud/debugger/perldb/init.el
+  realgud-1.5.1/realgud/debugger/perldb/perldb.el
+  realgud-1.5.1/realgud/debugger/perldb/track-mode.el
+  realgud-1.5.1/realgud/debugger/rdebug/
+  realgud-1.5.1/realgud/debugger/rdebug/core.el
+  realgud-1.5.1/realgud/debugger/rdebug/init.el
+  realgud-1.5.1/realgud/debugger/rdebug/rdebug.el
+  realgud-1.5.1/realgud/debugger/rdebug/track-mode.el
+  realgud-1.5.1/realgud/debugger/remake/
+  realgud-1.5.1/realgud/debugger/remake/core.el
+  realgud-1.5.1/realgud/debugger/remake/init.el
+  realgud-1.5.1/realgud/debugger/remake/remake.el
+  realgud-1.5.1/realgud/debugger/remake/track-mode.el
+  realgud-1.5.1/realgud/debugger/trepan.pl/
+  realgud-1.5.1/realgud/debugger/trepan.pl/backtrack-mode.el
+  realgud-1.5.1/realgud/debugger/trepan.pl/core.el
+  realgud-1.5.1/realgud/debugger/trepan.pl/init.el
+  realgud-1.5.1/realgud/debugger/trepan.pl/track-mode.el
+  realgud-1.5.1/realgud/debugger/trepan.pl/trepanpl.el
+  realgud-1.5.1/realgud/debugger/trepan/
+  realgud-1.5.1/realgud/debugger/trepan/backtrack-mode.el
+  realgud-1.5.1/realgud/debugger/trepan/core.el
+  realgud-1.5.1/realgud/debugger/trepan/init.el
+  realgud-1.5.1/realgud/debugger/trepan/track-mode.el
+  realgud-1.5.1/realgud/debugger/trepan/trepan.el
+  realgud-1.5.1/realgud/debugger/trepan2/
+  realgud-1.5.1/realgud/debugger/trepan2/core.el
+  realgud-1.5.1/realgud/debugger/trepan2/init.el
+  realgud-1.5.1/realgud/debugger/trepan2/track-mode.el
+  realgud-1.5.1/realgud/debugger/trepan2/trepan2.el
+  realgud-1.5.1/realgud/debugger/trepan3k/
+  realgud-1.5.1/realgud/debugger/trepan3k/core.el
+  realgud-1.5.1/realgud/debugger/trepan3k/init.el
+  realgud-1.5.1/realgud/debugger/trepan3k/track-mode.el
+  realgud-1.5.1/realgud/debugger/trepan3k/trepan3k.el
+  realgud-1.5.1/realgud/debugger/trepanjs/
+  realgud-1.5.1/realgud/debugger/trepanjs/backtrack-mode.el
+  realgud-1.5.1/realgud/debugger/trepanjs/core.el
+  realgud-1.5.1/realgud/debugger/trepanjs/init.el
+  realgud-1.5.1/realgud/debugger/trepanjs/track-mode.el
+  realgud-1.5.1/realgud/debugger/trepanjs/trepanjs.el
+  realgud-1.5.1/realgud/debugger/zshdb/
+  realgud-1.5.1/realgud/debugger/zshdb/core.el
+  realgud-1.5.1/realgud/debugger/zshdb/init.el
+  realgud-1.5.1/realgud/debugger/zshdb/track-mode.el
+  realgud-1.5.1/realgud/debugger/zshdb/zshdb.el
+  realgud-1.5.1/realgud/lang/
+  realgud-1.5.1/realgud/lang/java.el
+  realgud-1.5.1/realgud/lang/js.el
+  realgud-1.5.1/realgud/lang/perl.el
+  realgud-1.5.1/realgud/lang/posix-shell.el
+  realgud-1.5.1/realgud/lang/python.el
+  realgud-1.5.1/realgud/lang/ruby.el
+Built realgud in 3.773s, finished at Wed May 19 01:45:40 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  548 May 19 01:45 packages-stable/realgud-1.5.1.entry
+740K -rw-r--r-- 1 root root 740K May 19 01:45 packages-stable/realgud-1.5.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/realgud-badge.svg
+4.0K -rw-r--r-- 1 root root  196 May 19 01:45 packages-stable/realgud-byebug.log
+4.0K -rw-r--r-- 1 root root  188 May 19 01:45 packages-stable/realgud-ipdb.log
+4.0K -rw-r--r-- 1 root root  184 May 19 01:45 packages-stable/realgud-jdb.log
+4.0K -rw-r--r-- 1 root root  375 May 19 01:45 packages-stable/realgud-lldb-1.0.2.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:45 packages-stable/realgud-lldb-1.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/realgud-lldb-badge.svg
+4.0K -rw-r--r-- 1 root root   72 May 19 01:45 packages-stable/realgud-lldb-readme.txt
+4.0K -rw-r--r-- 1 root root  850 May 19 01:45 packages-stable/realgud-lldb.log
+4.0K -rw-r--r-- 1 root root  212 May 19 01:45 packages-stable/realgud-node-debug.log
+4.0K -rw-r--r-- 1 root root  220 May 19 01:45 packages-stable/realgud-node-inspect.log
+4.0K -rw-r--r-- 1 root root  167 May 19 01:45 packages-stable/realgud-old-debuggers.log
+4.0K -rw-r--r-- 1 root root  397 May 18 22:31 packages-stable/realgud-pry-1.0.0.entry
+ 32K -rw-r--r-- 1 root root  30K May 18 22:31 packages-stable/realgud-pry-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:31 packages-stable/realgud-pry-badge.svg
+4.0K -rw-r--r-- 1 root root   42 May 18 22:31 packages-stable/realgud-pry-readme.txt
+4.0K -rw-r--r-- 1 root root  137 May 19 01:45 packages-stable/realgud-pry.log
+   0 -rw-r--r-- 1 root root    0 May 19 01:45 packages-stable/realgud-rdb2.log
+4.0K -rw-r--r-- 1 root root 2.1K May 19 01:45 packages-stable/realgud-readme.txt
+4.0K -rw-r--r-- 1 root root  455 May 18 22:31 packages-stable/realgud-trepan-ni-1.0.1.entry
+ 32K -rw-r--r-- 1 root root  30K May 18 22:31 packages-stable/realgud-trepan-ni-1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:31 packages-stable/realgud-trepan-ni-badge.svg
+4.0K -rw-r--r-- 1 root root  187 May 18 22:31 packages-stable/realgud-trepan-ni-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 01:45 packages-stable/realgud-trepan-ni.log

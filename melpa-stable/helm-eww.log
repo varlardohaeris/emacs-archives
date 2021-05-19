@@ -1,0 +1,11 @@
+Package: helm-eww
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-eww.git
+
+Updating /mnt/store/melpa/working/helm-eww/
+Built helm-eww in 3.178s, finished at Wed May 19 04:40:13 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:40 packages-stable/helm-eww-1.2.el
+4.0K -rw-r--r-- 1 root root  414 May 19 04:40 packages-stable/helm-eww-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-eww-badge.svg
+4.0K -rw-r--r-- 1 root root   47 May 19 04:40 packages-stable/helm-eww-readme.txt

@@ -1,0 +1,6 @@
+Package: jack-connect
+Fetcher: git
+Source:  https://bitbucket.org/sbarbit/jack-connect
+
+Updating /mnt/store/melpa/working/jack-connect/
+No valid stable versions found for jack-connect

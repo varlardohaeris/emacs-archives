@@ -1,0 +1,6 @@
+Package: virtual-comment
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-virtual-comment.git
+
+Updating /mnt/store/melpa/working/virtual-comment/
+No valid stable versions found for virtual-comment

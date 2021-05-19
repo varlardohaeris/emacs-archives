@@ -1,0 +1,6 @@
+Package: fifo-class
+Fetcher: github
+Source:  https://github.com/mola-T/fifo-class.git
+
+Updating /mnt/store/melpa/working/fifo-class/
+No valid stable versions found for fifo-class

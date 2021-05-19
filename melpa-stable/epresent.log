@@ -1,0 +1,6 @@
+Package: epresent
+Fetcher: github
+Source:  https://github.com/dakrone/epresent.git
+
+Updating /mnt/store/melpa/working/epresent/
+No valid stable versions found for epresent

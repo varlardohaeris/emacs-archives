@@ -1,0 +1,2 @@
+
+(info+ . [(20210308 1133) nil "Extensions to `info.el'." single ((:commit . "7063c21d0cda894a0cf12e5833e88f6b9a02dd0a") (:keywords "help" "docs" "internal") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/info%2b.el"))])

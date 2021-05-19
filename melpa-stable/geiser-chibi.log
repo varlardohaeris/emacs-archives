@@ -1,0 +1,24 @@
+Package: geiser-chibi
+Fetcher: gitlab
+Source:  https://gitlab.com/emacs-geiser/chibi.git
+
+Updating /mnt/store/melpa/working/geiser-chibi/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/geiser-chibi/
+  to /tmp/geiser-chibiDvO9Pb/geiser-chibi-0.16
+    geiser-chibi.el -> geiser-chibi.el
+    src/geiser => src/geiser
+Created geiser-chibi-0.16.tar containing:
+  geiser-chibi-0.16/
+  geiser-chibi-0.16/geiser-chibi-pkg.el
+  geiser-chibi-0.16/geiser-chibi.el
+  geiser-chibi-0.16/src/
+  geiser-chibi-0.16/src/geiser/
+  geiser-chibi-0.16/src/geiser/geiser.scm
+  geiser-chibi-0.16/src/geiser/geiser.sld
+Built geiser-chibi in 2.705s, finished at Wed May 19 04:36:44 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  416 May 19 04:36 packages-stable/geiser-chibi-0.16.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:36 packages-stable/geiser-chibi-0.16.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-chibi-badge.svg
+4.0K -rw-r--r-- 1 root root   51 May 19 04:36 packages-stable/geiser-chibi-readme.txt

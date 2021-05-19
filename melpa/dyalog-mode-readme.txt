@@ -1,3 +1,4 @@
+
 Dyalog-mode is a major mode for editing Dyalog APL source code.
 
 It supports syntax highlighting, indentation and convenience function like

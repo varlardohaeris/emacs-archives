@@ -1,0 +1,6 @@
+Package: digitalocean
+Fetcher: gitlab
+Source:  https://gitlab.com/olymk2/emacs-digitalocean.git
+
+Updating /mnt/store/melpa/working/digitalocean/
+No valid stable versions found for digitalocean

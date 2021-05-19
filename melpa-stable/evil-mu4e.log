@@ -1,0 +1,6 @@
+Package: evil-mu4e
+Fetcher: github
+Source:  https://github.com/JorisE/evil-mu4e.git
+
+Updating /mnt/store/melpa/working/evil-mu4e/
+No valid stable versions found for evil-mu4e

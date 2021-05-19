@@ -1,0 +1,35 @@
+Package: socyl
+Fetcher: github
+Source:  https://github.com/nlamirault/socyl.git
+
+Updating /mnt/store/melpa/working/socyl/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/socyl/
+  to /tmp/socylVSk67D/socyl-0.3.0
+    socyl-ag.el -> socyl-ag.el
+    socyl-backend.el -> socyl-backend.el
+    socyl-custom.el -> socyl-custom.el
+    socyl-mode.el -> socyl-mode.el
+    socyl-pt.el -> socyl-pt.el
+    socyl-ripgrep.el -> socyl-ripgrep.el
+    socyl-sift.el -> socyl-sift.el
+    socyl-version.el -> socyl-version.el
+    socyl.el -> socyl.el
+Created socyl-0.3.0.tar containing:
+  socyl-0.3.0/
+  socyl-0.3.0/socyl-ag.el
+  socyl-0.3.0/socyl-backend.el
+  socyl-0.3.0/socyl-custom.el
+  socyl-0.3.0/socyl-mode.el
+  socyl-0.3.0/socyl-pkg.el
+  socyl-0.3.0/socyl-pt.el
+  socyl-0.3.0/socyl-ripgrep.el
+  socyl-0.3.0/socyl-sift.el
+  socyl-0.3.0/socyl-version.el
+  socyl-0.3.0/socyl.el
+Built socyl in 2.853s, finished at Wed May 19 01:49:33 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  460 May 19 01:49 packages-stable/socyl-0.3.0.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:49 packages-stable/socyl-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/socyl-badge.svg
+4.0K -rw-r--r-- 1 root root  220 May 19 01:49 packages-stable/socyl-readme.txt

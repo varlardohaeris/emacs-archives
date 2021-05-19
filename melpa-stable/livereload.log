@@ -1,0 +1,6 @@
+Package: livereload
+Fetcher: github
+Source:  https://github.com/joaotavora/emacs-livereload.git
+
+Updating /mnt/store/melpa/working/livereload/
+No valid stable versions found for livereload

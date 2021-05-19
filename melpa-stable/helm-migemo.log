@@ -1,0 +1,11 @@
+Package: helm-migemo
+Fetcher: github
+Source:  https://github.com/emacs-jp/helm-migemo.git
+
+Updating /mnt/store/melpa/working/helm-migemo/
+Built helm-migemo in 3.436s, finished at Wed May 19 04:40:43 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.9K May 19 04:40 packages-stable/helm-migemo-1.22.el
+4.0K -rw-r--r-- 1 root root  461 May 19 04:40 packages-stable/helm-migemo-1.22.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-migemo-badge.svg
+4.0K -rw-r--r-- 1 root root  236 May 19 04:40 packages-stable/helm-migemo-readme.txt

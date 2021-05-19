@@ -1,0 +1,6 @@
+Package: bart-mode
+Fetcher: github
+Source:  https://github.com/mschuldt/bart-mode.git
+
+Updating /mnt/store/melpa/working/bart-mode/
+No valid stable versions found for bart-mode

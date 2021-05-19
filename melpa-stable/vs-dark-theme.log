@@ -1,0 +1,11 @@
+Package: vs-dark-theme
+Fetcher: github
+Source:  https://github.com/jcs-elpa/vs-dark-theme.git
+
+Updating /mnt/store/melpa/working/vs-dark-theme/
+Built vs-dark-theme in 3.269s, finished at Wed May 19 01:54:21 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K May 19 01:54 packages-stable/vs-dark-theme-0.2.el
+4.0K -rw-r--r-- 1 root root  284 May 19 01:54 packages-stable/vs-dark-theme-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/vs-dark-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   31 May 19 01:54 packages-stable/vs-dark-theme-readme.txt

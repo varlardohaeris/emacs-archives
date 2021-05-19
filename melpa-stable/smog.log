@@ -1,0 +1,6 @@
+Package: smog
+Fetcher: github
+Source:  https://github.com/zzkt/smog.git
+
+Updating /mnt/store/melpa/working/smog/
+No valid stable versions found for smog

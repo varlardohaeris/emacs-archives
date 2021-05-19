@@ -1,0 +1,11 @@
+Package: calfw-ical
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-calfw.git
+
+Updating /mnt/store/melpa/working/calfw-ical/
+Built calfw-ical in 2.957s, finished at Wed May 19 04:22:35 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:22 packages-stable/calfw-ical-1.6.el
+4.0K -rw-r--r-- 1 root root  311 May 19 04:22 packages-stable/calfw-ical-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/calfw-ical-badge.svg
+4.0K -rw-r--r-- 1 root root  406 May 19 04:22 packages-stable/calfw-ical-readme.txt

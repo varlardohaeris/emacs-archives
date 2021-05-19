@@ -1,0 +1,6 @@
+Package: eldoc-overlay
+Fetcher: github
+Source:  https://github.com/stardiviner/eldoc-overlay.git
+
+Updating /mnt/store/melpa/working/eldoc-overlay/
+No valid stable versions found for eldoc-overlay

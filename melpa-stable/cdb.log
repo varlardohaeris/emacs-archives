@@ -1,0 +1,6 @@
+Package: cdb
+Fetcher: github
+Source:  https://github.com/skk-dev/ddskk.git
+
+Updating /mnt/store/melpa/working/cdb/
+No valid stable versions found for cdb

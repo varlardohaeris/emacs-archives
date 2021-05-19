@@ -1,0 +1,6 @@
+Package: django-snippets
+Fetcher: github
+Source:  https://github.com/unrelentingtech/django-mode.git
+
+Updating /mnt/store/melpa/working/django-snippets/
+No valid stable versions found for django-snippets

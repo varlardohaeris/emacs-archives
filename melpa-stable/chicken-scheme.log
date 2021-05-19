@@ -1,0 +1,6 @@
+Package: chicken-scheme
+Fetcher: github
+Source:  https://github.com/dleslie/chicken-scheme.el.git
+
+Updating /mnt/store/melpa/working/chicken-scheme/
+No valid stable versions found for chicken-scheme

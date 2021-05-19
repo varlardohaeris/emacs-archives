@@ -1,0 +1,6 @@
+Package: reddigg
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-reddigg.git
+
+Updating /mnt/store/melpa/working/reddigg/
+No valid stable versions found for reddigg

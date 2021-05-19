@@ -1,0 +1,6 @@
+Package: git-backup-ivy
+Fetcher: github
+Source:  https://github.com/walseb/git-backup-ivy.git
+
+Updating /mnt/store/melpa/working/git-backup-ivy/
+No valid stable versions found for git-backup-ivy

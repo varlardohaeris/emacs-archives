@@ -1,0 +1,6 @@
+Package: czech-holidays
+Fetcher: github
+Source:  https://github.com/chkhd/czech-holidays.git
+
+Updating /mnt/store/melpa/working/czech-holidays/
+No valid stable versions found for czech-holidays

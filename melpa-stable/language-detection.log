@@ -1,0 +1,6 @@
+Package: language-detection
+Fetcher: github
+Source:  https://github.com/andreasjansson/language-detection.el.git
+
+Updating /mnt/store/melpa/working/language-detection/
+No valid stable versions found for language-detection

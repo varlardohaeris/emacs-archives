@@ -1,0 +1,11 @@
+Package: wilt
+Fetcher: github
+Source:  https://github.com/sixty-north/emacs-wilt.git
+
+Updating /mnt/store/melpa/working/wilt/
+Built wilt in 5.621s, finished at Wed May 19 04:15:02 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.7K May 19 04:15 packages/wilt-20180220.854.el
+4.0K -rw-r--r-- 1 root root  394 May 19 04:15 packages/wilt-20180220.854.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/wilt-badge.svg
+4.0K -rw-r--r-- 1 root root  132 May 19 04:15 packages/wilt-readme.txt

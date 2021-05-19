@@ -1,0 +1,6 @@
+Package: company-flx
+Fetcher: github
+Source:  https://github.com/PythonNut/company-flx.git
+
+Updating /mnt/store/melpa/working/company-flx/
+No valid stable versions found for company-flx

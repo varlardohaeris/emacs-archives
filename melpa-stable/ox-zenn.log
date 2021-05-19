@@ -1,0 +1,6 @@
+Package: ox-zenn
+Fetcher: github
+Source:  https://github.com/conao3/ox-zenn.el.git
+
+Updating /mnt/store/melpa/working/ox-zenn/
+No valid stable versions found for ox-zenn

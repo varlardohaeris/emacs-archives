@@ -1,0 +1,6 @@
+Package: dotnet
+Fetcher: github
+Source:  https://github.com/julienXX/dotnet.el.git
+
+Updating /mnt/store/melpa/working/dotnet/
+No valid stable versions found for dotnet

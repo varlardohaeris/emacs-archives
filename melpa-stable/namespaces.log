@@ -1,0 +1,6 @@
+Package: namespaces
+Fetcher: github
+Source:  https://github.com/chrisbarrett/elisp-namespaces.git
+
+Updating /mnt/store/melpa/working/namespaces/
+No valid stable versions found for namespaces

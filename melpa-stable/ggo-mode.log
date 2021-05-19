@@ -1,0 +1,11 @@
+Package: ggo-mode
+Fetcher: github
+Source:  https://github.com/mkjunker/ggo-mode.git
+
+Updating /mnt/store/melpa/working/ggo-mode/
+Built ggo-mode in 2.769s, finished at Wed May 19 04:36:56 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:36 packages-stable/ggo-mode-20210310.el
+4.0K -rw-r--r-- 1 root root  311 May 19 04:36 packages-stable/ggo-mode-20210310.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/ggo-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  258 May 19 04:36 packages-stable/ggo-mode-readme.txt

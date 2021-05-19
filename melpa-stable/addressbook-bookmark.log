@@ -1,0 +1,10 @@
+Package: addressbook-bookmark
+Fetcher: github
+Source:  https://github.com/thierryvolpiatto/addressbook-bookmark.git
+
+Updating /mnt/store/melpa/working/addressbook-bookmark/
+Built addressbook-bookmark in 3.063s, finished at Wed May 19 04:18:50 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  23K May 19 04:18 packages-stable/addressbook-bookmark-1.0.el
+4.0K -rw-r--r-- 1 root root  416 May 19 04:18 packages-stable/addressbook-bookmark-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/addressbook-bookmark-badge.svg

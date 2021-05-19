@@ -3,7 +3,7 @@ a repository. It is useful when you have a project that needs to be
 put under a version control system but you don't want to write
 any commit message.
 
-Installation:
+; Installation:
 
 Just put the following in your `.emacs`:
 

@@ -1,2 +1,9 @@
-
-(rbenv . [(0 0 3) nil "Emacs integration for rbenv" single ((:commit . "a613ee1941efa48ef5321bad39ac1ed8ad1540b8") (:keywords "ruby" "rbenv") (:authors ("Yves Senn" . "yves.senn@gmail.com")) (:maintainer "Yves Senn" . "yves.senn@gmail.com") (:url . "https://github.com/senny/rbenv.el"))])
+(rbenv .
+       [(0 0 3)
+	nil "Emacs integration for rbenv" single
+	((:commit . "a613ee1941efa48ef5321bad39ac1ed8ad1540b8")
+	 (:authors
+	  ("Yves Senn" . "yves.senn@gmail.com"))
+	 (:maintainer "Yves Senn" . "yves.senn@gmail.com")
+	 (:keywords "ruby" "rbenv")
+	 (:url . "https://github.com/senny/rbenv.el"))])

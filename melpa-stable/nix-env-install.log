@@ -1,0 +1,6 @@
+Package: nix-env-install
+Fetcher: github
+Source:  https://github.com/akirak/nix-env-install.git
+
+Updating /mnt/store/melpa/working/nix-env-install/
+No valid stable versions found for nix-env-install

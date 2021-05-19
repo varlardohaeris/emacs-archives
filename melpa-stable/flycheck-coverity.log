@@ -1,0 +1,6 @@
+Package: flycheck-coverity
+Fetcher: github
+Source:  https://github.com/alexmurray/flycheck-coverity.git
+
+Updating /mnt/store/melpa/working/flycheck-coverity/
+No valid stable versions found for flycheck-coverity

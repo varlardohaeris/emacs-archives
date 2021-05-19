@@ -1,0 +1,6 @@
+Package: unison
+Fetcher: github
+Source:  https://github.com/unhammer/unison.el.git
+
+Updating /mnt/store/melpa/working/unison/
+No valid stable versions found for unison

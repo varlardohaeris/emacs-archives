@@ -1,0 +1,6 @@
+Package: wikinforg
+Fetcher: github
+Source:  https://github.com/progfolio/wikinforg.git
+
+Updating /mnt/store/melpa/working/wikinforg/
+No valid stable versions found for wikinforg

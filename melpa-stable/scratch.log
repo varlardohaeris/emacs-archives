@@ -1,0 +1,21 @@
+Package: scratch
+Fetcher: github
+Source:  https://github.com/ieure/scratch-el.git
+
+Updating /mnt/store/melpa/working/scratch/
+Built scratch in 3.360s, finished at Wed May 19 01:47:38 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.7K May 19 01:47 packages-stable/scratch-1.3.el
+4.0K -rw-r--r-- 1 root root  354 May 19 01:47 packages-stable/scratch-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/scratch-badge.svg
+8.0K -rw-r--r-- 1 root root 5.9K May 19 01:47 packages-stable/scratch-comment-1.0.0.el
+4.0K -rw-r--r-- 1 root root  396 May 19 01:47 packages-stable/scratch-comment-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:32 packages-stable/scratch-comment-badge.svg
+4.0K -rw-r--r-- 1 root root  270 May 19 01:47 packages-stable/scratch-comment-readme.txt
+4.0K -rw-r--r-- 1 root root  151 May 19 01:47 packages-stable/scratch-comment.log
+4.0K -rw-r--r-- 1 root root  187 May 19 01:47 packages-stable/scratch-ext.log
+4.0K -rw-r--r-- 1 root root  185 May 19 01:47 packages-stable/scratch-log.log
+4.0K -rw-r--r-- 1 root root  200 May 19 01:47 packages-stable/scratch-message.log
+4.0K -rw-r--r-- 1 root root  199 May 19 01:47 packages-stable/scratch-palette.log
+4.0K -rw-r--r-- 1 root root  136 May 19 01:47 packages-stable/scratch-pop.log
+4.0K -rw-r--r-- 1 root root 1.4K May 19 01:47 packages-stable/scratch-readme.txt

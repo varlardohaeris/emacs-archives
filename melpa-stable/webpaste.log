@@ -1,0 +1,11 @@
+Package: webpaste
+Fetcher: github
+Source:  https://github.com/etu/webpaste.el.git
+
+Updating /mnt/store/melpa/working/webpaste/
+Built webpaste in 3.928s, finished at Wed May 19 01:54:51 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  24K May 19 01:54 packages-stable/webpaste-3.2.1.el
+4.0K -rw-r--r-- 1 root root  400 May 19 01:54 packages-stable/webpaste-3.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/webpaste-badge.svg
+4.0K -rw-r--r-- 1 root root  256 May 19 01:54 packages-stable/webpaste-readme.txt

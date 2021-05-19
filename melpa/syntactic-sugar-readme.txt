@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'syntactic-sugar)
@@ -69,7 +70,7 @@ Bugs
 
 TODO
 
-License
+; License
 
 Simplified BSD License:
 

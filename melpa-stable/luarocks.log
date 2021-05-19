@@ -1,0 +1,6 @@
+Package: luarocks
+Fetcher: github
+Source:  https://github.com/emacs-pe/luarocks.el.git
+
+Updating /mnt/store/melpa/working/luarocks/
+No valid stable versions found for luarocks

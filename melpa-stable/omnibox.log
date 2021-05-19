@@ -1,0 +1,6 @@
+Package: omnibox
+Fetcher: github
+Source:  https://github.com/sebastiencs/omnibox.git
+
+Updating /mnt/store/melpa/working/omnibox/
+No valid stable versions found for omnibox

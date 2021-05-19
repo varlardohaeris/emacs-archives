@@ -1,0 +1,6 @@
+Package: eval-expr
+Fetcher: github
+Source:  https://github.com/jwiegley/eval-expr.git
+
+Updating /mnt/store/melpa/working/eval-expr/
+No valid stable versions found for eval-expr

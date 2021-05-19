@@ -1,0 +1,11 @@
+Package: counsel-jq
+Fetcher: github
+Source:  https://github.com/200ok-ch/counsel-jq.git
+
+Updating /mnt/store/melpa/working/counsel-jq/
+Built counsel-jq in 3.648s, finished at Wed May 19 04:25:28 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.3K May 19 04:25 packages-stable/counsel-jq-1.1.el
+4.0K -rw-r--r-- 1 root root  474 May 19 04:25 packages-stable/counsel-jq-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/counsel-jq-badge.svg
+4.0K -rw-r--r-- 1 root root   37 May 19 04:25 packages-stable/counsel-jq-readme.txt

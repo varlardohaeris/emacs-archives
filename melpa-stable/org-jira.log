@@ -1,0 +1,23 @@
+Package: org-jira
+Fetcher: github
+Source:  https://github.com/ahungry/org-jira.git
+
+Updating /mnt/store/melpa/working/org-jira/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-jira/
+  to /tmp/org-jiran889j7/org-jira-4.3.2
+    jiralib.el -> jiralib.el
+    org-jira.el -> org-jira.el
+    org-jira-sdk.el -> org-jira-sdk.el
+Created org-jira-4.3.2.tar containing:
+  org-jira-4.3.2/
+  org-jira-4.3.2/jiralib.el
+  org-jira-4.3.2/org-jira-pkg.el
+  org-jira-4.3.2/org-jira-sdk.el
+  org-jira-4.3.2/org-jira.el
+Built org-jira in 3.328s, finished at Wed May 19 01:39:25 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  403 May 19 01:39 packages-stable/org-jira-4.3.2.entry
+172K -rw-r--r-- 1 root root 170K May 19 01:39 packages-stable/org-jira-4.3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-jira-badge.svg
+4.0K -rw-r--r-- 1 root root   83 May 19 01:39 packages-stable/org-jira-readme.txt

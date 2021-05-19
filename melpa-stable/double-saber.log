@@ -1,0 +1,11 @@
+Package: double-saber
+Fetcher: github
+Source:  https://github.com/dp12/double-saber.git
+
+Updating /mnt/store/melpa/working/double-saber/
+Built double-saber in 3.093s, finished at Wed May 19 04:28:40 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.7K May 19 04:28 packages-stable/double-saber-0.0.3.el
+4.0K -rw-r--r-- 1 root root  440 May 19 04:28 packages-stable/double-saber-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/double-saber-badge.svg
+4.0K -rw-r--r-- 1 root root  739 May 19 04:28 packages-stable/double-saber-readme.txt

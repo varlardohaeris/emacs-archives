@@ -1,0 +1,11 @@
+Package: company-statistics
+Fetcher: github
+Source:  https://github.com/company-mode/company-statistics.git
+
+Updating /mnt/store/melpa/working/company-statistics/
+Built company-statistics in 2.809s, finished at Wed May 19 04:24:49 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:24 packages-stable/company-statistics-0.2.2.el
+4.0K -rw-r--r-- 1 root root  478 May 19 04:24 packages-stable/company-statistics-0.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-statistics-badge.svg
+4.0K -rw-r--r-- 1 root root  887 May 19 04:24 packages-stable/company-statistics-readme.txt

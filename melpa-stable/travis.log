@@ -1,0 +1,37 @@
+Package: travis
+Fetcher: github
+Source:  https://github.com/nlamirault/emacs-travis.git
+
+Updating /mnt/store/melpa/working/travis/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/travis/
+  to /tmp/travisw7FaX3/travis-0.6.0
+    travis-api.el -> travis-api.el
+    travis-auth.el -> travis-auth.el
+    travis-builds.el -> travis-builds.el
+    travis-mode.el -> travis-mode.el
+    travis-repos.el -> travis-repos.el
+    travis-ui.el -> travis-ui.el
+    travis-users.el -> travis-users.el
+    travis-utils.el -> travis-utils.el
+    travis-version.el -> travis-version.el
+    travis.el -> travis.el
+Created travis-0.6.0.tar containing:
+  travis-0.6.0/
+  travis-0.6.0/travis-api.el
+  travis-0.6.0/travis-auth.el
+  travis-0.6.0/travis-builds.el
+  travis-0.6.0/travis-mode.el
+  travis-0.6.0/travis-pkg.el
+  travis-0.6.0/travis-repos.el
+  travis-0.6.0/travis-ui.el
+  travis-0.6.0/travis-users.el
+  travis-0.6.0/travis-utils.el
+  travis-0.6.0/travis-version.el
+  travis-0.6.0/travis.el
+Built travis in 3.062s, finished at Wed May 19 01:52:43 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  428 May 19 01:52 packages-stable/travis-0.6.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:52 packages-stable/travis-0.6.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/travis-badge.svg
+4.0K -rw-r--r-- 1 root root  225 May 19 01:52 packages-stable/travis-readme.txt

@@ -1,0 +1,6 @@
+Package: bats-mode
+Fetcher: github
+Source:  https://github.com/dougm/bats-mode.git
+
+Updating /mnt/store/melpa/working/bats-mode/
+No valid stable versions found for bats-mode

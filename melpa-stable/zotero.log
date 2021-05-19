@@ -1,0 +1,104 @@
+Package: zotero
+Fetcher: gitlab
+Source:  https://gitlab.com/fvdbeek/emacs-zotero.git
+
+Updating /mnt/store/melpa/working/zotero/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/zotero/
+  to /tmp/zoteroONpG0I/zotero-0.2.2
+    zotero-arxiv.el -> zotero-arxiv.el
+    zotero-auth.el -> zotero-auth.el
+    zotero-browser.el -> zotero-browser.el
+    zotero-cache.el -> zotero-cache.el
+    zotero-crossref.el -> zotero-crossref.el
+    zotero-diff.el -> zotero-diff.el
+    zotero-edit.el -> zotero-edit.el
+    zotero-fulltext.el -> zotero-fulltext.el
+    zotero-json.el -> zotero-json.el
+    zotero-lib.el -> zotero-lib.el
+    zotero-openlibrary.el -> zotero-openlibrary.el
+    zotero-pmid.el -> zotero-pmid.el
+    zotero-recognize.el -> zotero-recognize.el
+    zotero-sync.el -> zotero-sync.el
+    zotero.el -> zotero.el
+    img => img
+Created zotero-0.2.2.tar containing:
+  zotero-0.2.2/
+  zotero-0.2.2/img/
+  zotero-0.2.2/img/treeitem-artwork.png
+  zotero-0.2.2/img/treeitem-attachment-link.png
+  zotero-0.2.2/img/treeitem-attachment-pdf-link.png
+  zotero-0.2.2/img/treeitem-attachment-pdf.png
+  zotero-0.2.2/img/treeitem-attachment-snapshot.png
+  zotero-0.2.2/img/treeitem-attachment-web-link.png
+  zotero-0.2.2/img/treeitem-audioRecording.png
+  zotero-0.2.2/img/treeitem-bill.png
+  zotero-0.2.2/img/treeitem-blogPost.png
+  zotero-0.2.2/img/treeitem-book.png
+  zotero-0.2.2/img/treeitem-bookSection.png
+  zotero-0.2.2/img/treeitem-case.png
+  zotero-0.2.2/img/treeitem-computerProgram.png
+  zotero-0.2.2/img/treeitem-conferencePaper.png
+  zotero-0.2.2/img/treeitem-dictionaryEntry.png
+  zotero-0.2.2/img/treeitem-email.png
+  zotero-0.2.2/img/treeitem-encyclopediaArticle.png
+  zotero-0.2.2/img/treeitem-film.png
+  zotero-0.2.2/img/treeitem-forumPost.png
+  zotero-0.2.2/img/treeitem-hearing.png
+  zotero-0.2.2/img/treeitem-instantMessage.png
+  zotero-0.2.2/img/treeitem-interview.png
+  zotero-0.2.2/img/treeitem-journalArticle.png
+  zotero-0.2.2/img/treeitem-letter.png
+  zotero-0.2.2/img/treeitem-magazineArticle.png
+  zotero-0.2.2/img/treeitem-manuscript.png
+  zotero-0.2.2/img/treeitem-map.png
+  zotero-0.2.2/img/treeitem-newspaperArticle.png
+  zotero-0.2.2/img/treeitem-note.png
+  zotero-0.2.2/img/treeitem-patent.png
+  zotero-0.2.2/img/treeitem-podcast.png
+  zotero-0.2.2/img/treeitem-presentation.png
+  zotero-0.2.2/img/treeitem-radioBroadcast.png
+  zotero-0.2.2/img/treeitem-report.png
+  zotero-0.2.2/img/treeitem-statute.png
+  zotero-0.2.2/img/treeitem-thesis.png
+  zotero-0.2.2/img/treeitem-tvBroadcast.png
+  zotero-0.2.2/img/treeitem-videoRecording.png
+  zotero-0.2.2/img/treeitem-webpage.png
+  zotero-0.2.2/img/treeitem.png
+  zotero-0.2.2/img/treesource-bucket.png
+  zotero-0.2.2/img/treesource-collection.png
+  zotero-0.2.2/img/treesource-commons.png
+  zotero-0.2.2/img/treesource-duplicates.png
+  zotero-0.2.2/img/treesource-feed-error.png
+  zotero-0.2.2/img/treesource-feed-updating.png
+  zotero-0.2.2/img/treesource-feed.png
+  zotero-0.2.2/img/treesource-feedLibrary.png
+  zotero-0.2.2/img/treesource-groups.png
+  zotero-0.2.2/img/treesource-library.png
+  zotero-0.2.2/img/treesource-search.png
+  zotero-0.2.2/img/treesource-share.png
+  zotero-0.2.2/img/treesource-trash-full.png
+  zotero-0.2.2/img/treesource-trash.png
+  zotero-0.2.2/img/treesource-unfiled.png
+  zotero-0.2.2/zotero-arxiv.el
+  zotero-0.2.2/zotero-auth.el
+  zotero-0.2.2/zotero-browser.el
+  zotero-0.2.2/zotero-cache.el
+  zotero-0.2.2/zotero-crossref.el
+  zotero-0.2.2/zotero-diff.el
+  zotero-0.2.2/zotero-edit.el
+  zotero-0.2.2/zotero-fulltext.el
+  zotero-0.2.2/zotero-json.el
+  zotero-0.2.2/zotero-lib.el
+  zotero-0.2.2/zotero-openlibrary.el
+  zotero-0.2.2/zotero-pkg.el
+  zotero-0.2.2/zotero-pmid.el
+  zotero-0.2.2/zotero-recognize.el
+  zotero-0.2.2/zotero-sync.el
+  zotero-0.2.2/zotero.el
+Built zotero in 3.642s, finished at Wed May 19 01:56:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  438 May 19 01:56 packages-stable/zotero-0.2.2.entry
+532K -rw-r--r-- 1 root root 530K May 19 01:56 packages-stable/zotero-0.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zotero-badge.svg
+4.0K -rw-r--r-- 1 root root  118 May 19 01:56 packages-stable/zotero-readme.txt

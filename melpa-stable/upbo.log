@@ -1,0 +1,6 @@
+Package: upbo
+Fetcher: github
+Source:  https://github.com/shiren/upbo.git
+
+Updating /mnt/store/melpa/working/upbo/
+No valid stable versions found for upbo

@@ -1,0 +1,6 @@
+Package: etherpad
+Fetcher: github
+Source:  https://github.com/zzkt/ethermacs.git
+
+Updating /mnt/store/melpa/working/etherpad/
+No valid stable versions found for etherpad

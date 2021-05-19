@@ -1,0 +1,6 @@
+Package: evil-lion
+Fetcher: github
+Source:  https://github.com/edkolev/evil-lion.git
+
+Updating /mnt/store/melpa/working/evil-lion/
+No valid stable versions found for evil-lion

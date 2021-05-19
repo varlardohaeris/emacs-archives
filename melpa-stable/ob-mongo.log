@@ -1,0 +1,6 @@
+Package: ob-mongo
+Fetcher: github
+Source:  https://github.com/krisajenkins/ob-mongo.git
+
+Updating /mnt/store/melpa/working/ob-mongo/
+No valid stable versions found for ob-mongo

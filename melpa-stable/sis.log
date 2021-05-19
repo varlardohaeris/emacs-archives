@@ -1,0 +1,6 @@
+Package: sis
+Fetcher: github
+Source:  https://github.com/laishulu/emacs-smart-input-source.git
+
+Updating /mnt/store/melpa/working/sis/
+No valid stable versions found for sis

@@ -1,4 +1,4 @@
-init.el --- sample init.el using library
+;;; init.el --- sample init.el using library
 
 (package-initialize)
 (add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/") t)
@@ -35,4 +35,4 @@ init.el --- sample init.el using library
 
 (provide 'init)
 
-init.el sample ends here
+;;; init.el sample ends here

@@ -1,0 +1,6 @@
+Package: smart-region
+Fetcher: github
+Source:  https://github.com/uk-ar/smart-region.git
+
+Updating /mnt/store/melpa/working/smart-region/
+No valid stable versions found for smart-region

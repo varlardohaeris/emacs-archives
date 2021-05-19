@@ -9,7 +9,7 @@ Dna-mode will:
  * Move over bases and entire sequences.
  * Detect sequence files by content.
 
-Installation:
+; Installation:
 --------------------
 Here are two suggested ways for installing this package.
 You can choose to autoload it when needed, or load it

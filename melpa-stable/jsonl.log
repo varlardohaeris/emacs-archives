@@ -1,0 +1,6 @@
+Package: jsonl
+Fetcher: github
+Source:  https://github.com/ebpa/jsonl.el.git
+
+Updating /mnt/store/melpa/working/jsonl/
+No valid stable versions found for jsonl

@@ -1,0 +1,6 @@
+Package: auto-async-byte-compile
+Fetcher: github
+Source:  https://github.com/rubikitch/auto-async-byte-compile.git
+
+Updating /mnt/store/melpa/working/auto-async-byte-compile/
+No valid stable versions found for auto-async-byte-compile

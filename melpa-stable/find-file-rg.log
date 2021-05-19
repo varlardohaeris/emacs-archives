@@ -1,0 +1,6 @@
+Package: find-file-rg
+Fetcher: github
+Source:  https://github.com/muffinmad/emacs-find-file-rg.git
+
+Updating /mnt/store/melpa/working/find-file-rg/
+No valid stable versions found for find-file-rg

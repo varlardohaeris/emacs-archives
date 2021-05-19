@@ -1,0 +1,6 @@
+Package: ids-edit
+Fetcher: github
+Source:  https://github.com/kawabata/ids-edit.git
+
+Updating /mnt/store/melpa/working/ids-edit/
+No valid stable versions found for ids-edit

@@ -1,0 +1,6 @@
+Package: comby
+Fetcher: github
+Source:  https://github.com/s-kostyaev/comby.el.git
+
+Updating /mnt/store/melpa/working/comby/
+No valid stable versions found for comby

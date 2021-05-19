@@ -1,0 +1,6 @@
+Package: dhall-mode
+Fetcher: github
+Source:  https://github.com/psibi/dhall-mode.git
+
+Updating /mnt/store/melpa/working/dhall-mode/
+No valid stable versions found for dhall-mode

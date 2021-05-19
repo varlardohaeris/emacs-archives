@@ -1,0 +1,6 @@
+Package: stimmung-themes
+Fetcher: github
+Source:  https://github.com/motform/stimmung-themes.git
+
+Updating /mnt/store/melpa/working/stimmung-themes/
+No valid stable versions found for stimmung-themes

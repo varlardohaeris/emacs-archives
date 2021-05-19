@@ -1,0 +1,6 @@
+Package: tray
+Fetcher: git
+Source:  https://git.sr.ht/~tarsius/tray
+
+Updating /mnt/store/melpa/working/tray/
+No valid stable versions found for tray

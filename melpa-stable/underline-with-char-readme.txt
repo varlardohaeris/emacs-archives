@@ -45,8 +45,8 @@ Input:
 ^^^^^^
 
 #+begin_src text
-lolo
-<!>
+;; lolo
+;; <!>
 #+end_src
 
 Action:
@@ -60,8 +60,8 @@ Output:
 ^^^^^^^
 
 #+begin_src text
-lolo
-----<!>
+;; lolo
+;; ----<!>
 #+end_src
 
 Use a certain char for current and subsequent underlinings
@@ -97,8 +97,8 @@ Change the buffer.  Example:
 lala
 XXXX
 
-Worthy to be underlined
-<!>
+;; Worthy to be underlined
+;; <!>
 #+end_src
 
 Go on without prefix argument (C-u):
@@ -115,6 +115,6 @@ Output:
 lala
 XXXX
 
-Worthy to be underlined
-XXXXXXXXXXXXXXXXXXXXXXX<!>
+;; Worthy to be underlined
+;; XXXXXXXXXXXXXXXXXXXXXXX<!>
 #+end_src

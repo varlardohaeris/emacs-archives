@@ -1,0 +1,65 @@
+Package: ledger-mode
+Fetcher: github
+Source:  https://github.com/ledger/ledger-mode.git
+
+Updating /mnt/store/melpa/working/ledger-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ledger-mode/
+  to /tmp/ledger-modeTIWOB3/ledger-mode-4.0.0
+    ledger-check.el -> ledger-check.el
+    ledger-commodities.el -> ledger-commodities.el
+    ledger-complete.el -> ledger-complete.el
+    ledger-context.el -> ledger-context.el
+    ledger-exec.el -> ledger-exec.el
+    ledger-flymake.el -> ledger-flymake.el
+    ledger-fontify.el -> ledger-fontify.el
+    ledger-fonts.el -> ledger-fonts.el
+    ledger-init.el -> ledger-init.el
+    ledger-mode.el -> ledger-mode.el
+    ledger-navigate.el -> ledger-navigate.el
+    ledger-occur.el -> ledger-occur.el
+    ledger-post.el -> ledger-post.el
+    ledger-reconcile.el -> ledger-reconcile.el
+    ledger-regex.el -> ledger-regex.el
+    ledger-report.el -> ledger-report.el
+    ledger-schedule.el -> ledger-schedule.el
+    ledger-sort.el -> ledger-sort.el
+    ledger-state.el -> ledger-state.el
+    ledger-texi.el -> ledger-texi.el
+    ledger-xact.el -> ledger-xact.el
+  ! doc/ledger-mode.texi -> ledger-mode.texi
+    ledger-test.el -> ledger-test.el
+Created /tmp/ledger-modeTIWOB3/ledger-mode-4.0.0/ledger-mode.info
+Created ledger-mode-4.0.0.tar containing:
+  ledger-mode-4.0.0/
+  ledger-mode-4.0.0/dir
+  ledger-mode-4.0.0/ledger-check.el
+  ledger-mode-4.0.0/ledger-commodities.el
+  ledger-mode-4.0.0/ledger-complete.el
+  ledger-mode-4.0.0/ledger-context.el
+  ledger-mode-4.0.0/ledger-exec.el
+  ledger-mode-4.0.0/ledger-flymake.el
+  ledger-mode-4.0.0/ledger-fontify.el
+  ledger-mode-4.0.0/ledger-fonts.el
+  ledger-mode-4.0.0/ledger-init.el
+  ledger-mode-4.0.0/ledger-mode-pkg.el
+  ledger-mode-4.0.0/ledger-mode.el
+  ledger-mode-4.0.0/ledger-mode.info
+  ledger-mode-4.0.0/ledger-navigate.el
+  ledger-mode-4.0.0/ledger-occur.el
+  ledger-mode-4.0.0/ledger-post.el
+  ledger-mode-4.0.0/ledger-reconcile.el
+  ledger-mode-4.0.0/ledger-regex.el
+  ledger-mode-4.0.0/ledger-report.el
+  ledger-mode-4.0.0/ledger-schedule.el
+  ledger-mode-4.0.0/ledger-sort.el
+  ledger-mode-4.0.0/ledger-state.el
+  ledger-mode-4.0.0/ledger-test.el
+  ledger-mode-4.0.0/ledger-texi.el
+  ledger-mode-4.0.0/ledger-xact.el
+Built ledger-mode in 12.423s, finished at Wed May 19 01:32:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  193 May 19 01:32 packages-stable/ledger-mode-4.0.0.entry
+320K -rw-r--r-- 1 root root 320K May 19 01:32 packages-stable/ledger-mode-4.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/ledger-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   46 May 19 01:32 packages-stable/ledger-mode-readme.txt

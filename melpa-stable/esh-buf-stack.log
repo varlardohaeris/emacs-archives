@@ -1,0 +1,6 @@
+Package: esh-buf-stack
+Fetcher: github
+Source:  https://github.com/tom-tan/esh-buf-stack.git
+
+Updating /mnt/store/melpa/working/esh-buf-stack/
+No valid stable versions found for esh-buf-stack

@@ -1,0 +1,6 @@
+Package: filetree
+Fetcher: github
+Source:  https://github.com/knpatel401/filetree.git
+
+Updating /mnt/store/melpa/working/filetree/
+No valid stable versions found for filetree

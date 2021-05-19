@@ -1,0 +1,11 @@
+Package: language-id
+Fetcher: github
+Source:  https://github.com/lassik/emacs-language-id.git
+
+Updating /mnt/store/melpa/working/language-id/
+Built language-id in 3.131s, finished at Wed May 19 01:31:42 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.9K May 19 01:31 packages-stable/language-id-0.12.el
+4.0K -rw-r--r-- 1 root root  431 May 19 01:31 packages-stable/language-id-0.12.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/language-id-badge.svg
+4.0K -rw-r--r-- 1 root root  604 May 19 01:31 packages-stable/language-id-readme.txt

@@ -1,3 +1,4 @@
+
 This package provides functionality for correcting words via custom
 interfaces. There are several functions for this:
 

@@ -1,0 +1,21 @@
+Package: osx-dictionary
+Fetcher: github
+Source:  https://github.com/xuchunyang/osx-dictionary.el.git
+
+Updating /mnt/store/melpa/working/osx-dictionary/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/osx-dictionary/
+  to /tmp/osx-dictionarypyo1TF/osx-dictionary-0.4
+    osx-dictionary.el -> osx-dictionary.el
+    osx-dictionary.m -> osx-dictionary.m
+Created osx-dictionary-0.4.tar containing:
+  osx-dictionary-0.4/
+  osx-dictionary-0.4/osx-dictionary-pkg.el
+  osx-dictionary-0.4/osx-dictionary.el
+  osx-dictionary-0.4/osx-dictionary.m
+Built osx-dictionary in 2.800s, finished at Wed May 19 01:41:07 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  368 May 19 01:41 packages-stable/osx-dictionary-0.4.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:41 packages-stable/osx-dictionary-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/osx-dictionary-badge.svg
+4.0K -rw-r--r-- 1 root root  359 May 19 01:41 packages-stable/osx-dictionary-readme.txt

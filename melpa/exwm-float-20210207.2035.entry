@@ -1,0 +1,17 @@
+(exwm-float .
+	    [(20210207 2035)
+	     ((emacs
+	       (25 1))
+	      (xelb
+	       (0 18))
+	      (exwm
+	       (0 24))
+	      (popwin
+	       (1 0 2)))
+	     "Convenient modes and bindings for floating EXWM frames" single
+	     ((:commit . "eb1b60b4a65e1ca5e323ef68a284ec6af72e637a")
+	      (:authors
+	       ("Mehmet Tekman"))
+	      (:maintainer "Mehmet Tekman")
+	      (:keywords "outlines")
+	      (:url . "https://gitlab.com/mtekman/exwm-float.el"))])

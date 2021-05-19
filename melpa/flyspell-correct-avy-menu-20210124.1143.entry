@@ -1,0 +1,15 @@
+(flyspell-correct-avy-menu .
+			   [(20210124 1143)
+			    ((flyspell-correct
+			      (0 6 1))
+			     (avy-menu
+			      (0 1 1))
+			     (emacs
+			      (24)))
+			    "Correcting words with flyspell via avy-menu interface" single
+			    ((:commit . "94a2be0ef4515473101f823fccca71aa456bf84e")
+			     (:authors
+			      ("Boris Buliga" . "boris@d12frosted.io")
+			      ("Clemens Radermacher" . "clemera@posteo.net"))
+			     (:maintainer "Boris Buliga" . "boris@d12frosted.io")
+			     (:url . "https://github.com/d12frosted/flyspell-correct"))])

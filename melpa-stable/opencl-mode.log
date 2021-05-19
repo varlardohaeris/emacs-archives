@@ -1,0 +1,11 @@
+Package: opencl-mode
+Fetcher: github
+Source:  https://github.com/salmanebah/opencl-mode.git
+
+Updating /mnt/store/melpa/working/opencl-mode/
+Built opencl-mode in 3.014s, finished at Wed May 19 01:38:45 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.3K May 19 01:38 packages-stable/opencl-mode-1.0.el
+4.0K -rw-r--r-- 1 root root  376 May 19 01:38 packages-stable/opencl-mode-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/opencl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  319 May 19 01:38 packages-stable/opencl-mode-readme.txt

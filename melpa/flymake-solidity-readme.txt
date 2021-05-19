@@ -1,3 +1,4 @@
+
 This package requires the "solc" (solidity compiler) program, which can be installed
 following OS specific instructions from the ethereum website.
 
@@ -12,5 +13,5 @@ If the "solc" path is different from "/usr/local/bin/solc", then add the line be
 
 
 Uses flymake-easy, from https://github.com/purcell/flymake-easy
-Author: Steve Purcell <steve@sanityinc.com>
-Homepage: https://github.com/purcell/flymake-solidity
+; Author: Steve Purcell <steve@sanityinc.com>
+; Homepage: https://github.com/purcell/flymake-solidity

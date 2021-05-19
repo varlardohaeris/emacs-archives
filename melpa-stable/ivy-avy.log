@@ -1,0 +1,11 @@
+Package: ivy-avy
+Fetcher: github
+Source:  https://github.com/abo-abo/swiper.git
+
+Updating /mnt/store/melpa/working/ivy-avy/
+Built ivy-avy in 3.147s, finished at Wed May 19 04:43:48 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.7K May 19 04:43 packages-stable/ivy-avy-0.13.4.el
+4.0K -rw-r--r-- 1 root root  388 May 19 04:43 packages-stable/ivy-avy-0.13.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-avy-badge.svg
+4.0K -rw-r--r-- 1 root root   68 May 19 04:43 packages-stable/ivy-avy-readme.txt

@@ -1,0 +1,11 @@
+Package: request-deferred
+Fetcher: github
+Source:  https://github.com/tkf/emacs-request.git
+
+Updating /mnt/store/melpa/working/request-deferred/
+Built request-deferred in 3.415s, finished at Wed May 19 01:46:34 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.4K May 19 01:46 packages-stable/request-deferred-0.3.2.el
+4.0K -rw-r--r-- 1 root root  388 May 19 01:46 packages-stable/request-deferred-0.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/request-deferred-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:46 packages-stable/request-deferred-readme.txt

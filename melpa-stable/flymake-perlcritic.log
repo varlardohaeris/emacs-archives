@@ -1,0 +1,22 @@
+Package: flymake-perlcritic
+Fetcher: github
+Source:  https://github.com/flymake/emacs-flymake-perlcritic.git
+
+Updating /mnt/store/melpa/working/flymake-perlcritic/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flymake-perlcritic/
+  to /tmp/flymake-perlcriticvhCYG5/flymake-perlcritic-1.0.3
+    flymake-perlcritic.el -> flymake-perlcritic.el
+    bin/flymake_perlcritic -> bin/flymake_perlcritic
+Created flymake-perlcritic-1.0.3.tar containing:
+  flymake-perlcritic-1.0.3/
+  flymake-perlcritic-1.0.3/bin/
+  flymake-perlcritic-1.0.3/bin/flymake_perlcritic
+  flymake-perlcritic-1.0.3/flymake-perlcritic-pkg.el
+  flymake-perlcritic-1.0.3/flymake-perlcritic.el
+Built flymake-perlcritic in 2.923s, finished at Wed May 19 04:35:39 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  456 May 19 04:35 packages-stable/flymake-perlcritic-1.0.3.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 04:35 packages-stable/flymake-perlcritic-1.0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-perlcritic-badge.svg
+4.0K -rw-r--r-- 1 root root  198 May 19 04:35 packages-stable/flymake-perlcritic-readme.txt

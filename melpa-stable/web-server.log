@@ -1,0 +1,6 @@
+Package: web-server
+Fetcher: github
+Source:  https://github.com/eschulte/emacs-web-server.git
+
+Updating /mnt/store/melpa/working/web-server/
+No valid stable versions found for web-server

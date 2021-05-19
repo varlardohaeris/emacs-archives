@@ -1,0 +1,6 @@
+Package: jist
+Fetcher: github
+Source:  https://github.com/emacs-pe/jist.el.git
+
+Updating /mnt/store/melpa/working/jist/
+No valid stable versions found for jist

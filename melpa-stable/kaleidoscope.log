@@ -1,0 +1,6 @@
+Package: kaleidoscope
+Fetcher: github
+Source:  https://github.com/algernon/kaleidoscope.el.git
+
+Updating /mnt/store/melpa/working/kaleidoscope/
+No valid stable versions found for kaleidoscope

@@ -6,7 +6,7 @@
 linum-relative lets you display relative line numbers for current buffer.
 
 
-Installation:
+; Installation:
 
 If you have `melpa` and `emacs24` installed, simply type:
 
@@ -16,7 +16,7 @@ And add the following to your .emacs
 
     (require 'linum-relative)
 
-Setup & Tips:
+; Setup & Tips:
 
 The non-interactive function *linum-on* (which should already be built into recent GNU Emacs distributions), turns on side-bar line numbering:
 
@@ -31,7 +31,7 @@ Relative line numbering should already be enabled by default (by installing this
     M-x linum-relative-toggle
 
 
-Backends
+; Backends
 
 By default, linum-relative use *linum-mode* as backend, since linum-mode is based on emacs-lisp, you may have performance issue on large file.
 
@@ -43,5 +43,5 @@ Here's how to use `display-line-number-mode' as backend:
 
 ```elisp
      ;; Use `display-line-number-mode' as linum-mode's backend for smooth performance
-	(setq linum-relative-backend 'display-line-numbers-mode)
+(setq linum-relative-backend 'display-line-numbers-mode)
 ```

@@ -1,6 +1,10 @@
 This package is a front end for the command-line program djvused
 from DjVuLibre, see http://djvu.sourceforge.net/.  It assumes you
 have the programs djvused, djview, ddjvu, and djvm installed.
+The main purpose of djvu.el is to edit Djvu documents via djvused.
+If you only seek an Emacs viewer for Djvu documents, you may be
+better off with DocView shipped with GNU Emacs.  Starting from
+GNU Emacs 26, DocView supports Djvu documents.
 
 A Djvu document contains an image layer (typically scanned page images)
 as well as multiple textual layers [text (for scanned documents from OCR),
@@ -14,7 +18,7 @@ With Djvu mode you can also view the page images of a Djvu document,
 yet Djvu mode does not attempt to reinvent the functionality of the
 native viewer djview for Djvu documents.  (I find djview very efficient
 / fast for its purposes that also include features like searching the
-text layer.)  So Djvu mode assumes that you use djview to view the
+text layer.)  So Djvu mode supports that you use djview to view the
 Djvu document while editing its textual layers.  Djview and Djvu mode
 complement each other.
 

@@ -1,3 +1,4 @@
+
 Highlight things at point, selections, enclosing parentheses with different
 colors. Fix grumbling issue of highlights being overridden by `hl-line-mode'
 and `global-hl-line-mode'.
@@ -37,3 +38,5 @@ TODO:
 -----
 * Advise `self-insert-command'???
 * Highlight enclosing syntax in REGEXP.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

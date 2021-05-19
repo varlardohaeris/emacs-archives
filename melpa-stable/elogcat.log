@@ -1,0 +1,6 @@
+Package: elogcat
+Fetcher: github
+Source:  https://github.com/youngker/elogcat.el.git
+
+Updating /mnt/store/melpa/working/elogcat/
+No valid stable versions found for elogcat

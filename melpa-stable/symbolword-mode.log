@@ -1,0 +1,26 @@
+Package: symbolword-mode
+Fetcher: github
+Source:  https://github.com/ncaq/symbolword-mode.git
+
+Updating /mnt/store/melpa/working/symbolword-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/symbolword-mode/
+  to /tmp/symbolword-modejuqRly/symbolword-mode-1.0
+    symbolword-get.el -> symbolword-get.el
+    symbolword-kill.el -> symbolword-kill.el
+    symbolword-mode.el -> symbolword-mode.el
+    symbolword-rule.el -> symbolword-rule.el
+    symbolword-ward.el -> symbolword-ward.el
+Created symbolword-mode-1.0.tar containing:
+  symbolword-mode-1.0/
+  symbolword-mode-1.0/symbolword-get.el
+  symbolword-mode-1.0/symbolword-kill.el
+  symbolword-mode-1.0/symbolword-mode-pkg.el
+  symbolword-mode-1.0/symbolword-mode.el
+  symbolword-mode-1.0/symbolword-rule.el
+  symbolword-mode-1.0/symbolword-ward.el
+Built symbolword-mode in 2.720s, finished at Wed May 19 01:50:58 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  132 May 19 01:50 packages-stable/symbolword-mode-1.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:50 packages-stable/symbolword-mode-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/symbolword-mode-badge.svg

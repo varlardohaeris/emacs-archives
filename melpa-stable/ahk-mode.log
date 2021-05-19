@@ -1,0 +1,11 @@
+Package: ahk-mode
+Fetcher: github
+Source:  https://github.com/ralesi/ahk-mode.git
+
+Updating /mnt/store/melpa/working/ahk-mode/
+Built ahk-mode in 3.812s, finished at Wed May 19 04:18:58 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  33K May 19 04:18 packages-stable/ahk-mode-1.5.6.el
+4.0K -rw-r--r-- 1 root root  382 May 19 04:18 packages-stable/ahk-mode-1.5.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ahk-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K May 19 04:18 packages-stable/ahk-mode-readme.txt

@@ -1,0 +1,6 @@
+Package: php-refactor-mode
+Fetcher: github
+Source:  https://github.com/keelerm84/php-refactor-mode.el.git
+
+Updating /mnt/store/melpa/working/php-refactor-mode/
+No valid stable versions found for php-refactor-mode

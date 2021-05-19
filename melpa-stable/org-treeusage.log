@@ -1,0 +1,6 @@
+Package: org-treeusage
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/org-treeusage.el.git
+
+Updating /mnt/store/melpa/working/org-treeusage/
+No valid stable versions found for org-treeusage

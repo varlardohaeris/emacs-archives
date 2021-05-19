@@ -1,0 +1,30 @@
+Package: color-theme-sanityinc-tomorrow
+Fetcher: github
+Source:  https://github.com/purcell/color-theme-sanityinc-tomorrow.git
+
+Updating /mnt/store/melpa/working/color-theme-sanityinc-tomorrow/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/color-theme-sanityinc-tomorrow/
+  to /tmp/color-theme-sanityinc-tomorrowaq6BMQ/color-theme-sanityinc-tomorrow-1.17
+    color-theme-sanityinc-tomorrow-pkg.el -> color-theme-sanityinc-tomorrow-pkg.el
+    color-theme-sanityinc-tomorrow.el -> color-theme-sanityinc-tomorrow.el
+    sanityinc-tomorrow-blue-theme.el -> sanityinc-tomorrow-blue-theme.el
+    sanityinc-tomorrow-bright-theme.el -> sanityinc-tomorrow-bright-theme.el
+    sanityinc-tomorrow-day-theme.el -> sanityinc-tomorrow-day-theme.el
+    sanityinc-tomorrow-eighties-theme.el -> sanityinc-tomorrow-eighties-theme.el
+    sanityinc-tomorrow-night-theme.el -> sanityinc-tomorrow-night-theme.el
+Created color-theme-sanityinc-tomorrow-1.17.tar containing:
+  color-theme-sanityinc-tomorrow-1.17/
+  color-theme-sanityinc-tomorrow-1.17/color-theme-sanityinc-tomorrow-pkg.el
+  color-theme-sanityinc-tomorrow-1.17/color-theme-sanityinc-tomorrow.el
+  color-theme-sanityinc-tomorrow-1.17/sanityinc-tomorrow-blue-theme.el
+  color-theme-sanityinc-tomorrow-1.17/sanityinc-tomorrow-bright-theme.el
+  color-theme-sanityinc-tomorrow-1.17/sanityinc-tomorrow-day-theme.el
+  color-theme-sanityinc-tomorrow-1.17/sanityinc-tomorrow-eighties-theme.el
+  color-theme-sanityinc-tomorrow-1.17/sanityinc-tomorrow-night-theme.el
+Built color-theme-sanityinc-tomorrow in 3.547s, finished at Wed May 19 04:24:01 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  405 May 19 04:24 packages-stable/color-theme-sanityinc-tomorrow-1.17.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 04:24 packages-stable/color-theme-sanityinc-tomorrow-1.17.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/color-theme-sanityinc-tomorrow-badge.svg
+4.0K -rw-r--r-- 1 root root  695 May 19 04:24 packages-stable/color-theme-sanityinc-tomorrow-readme.txt

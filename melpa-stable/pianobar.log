@@ -1,0 +1,6 @@
+Package: pianobar
+Fetcher: github
+Source:  https://github.com/agrif/pianobar.el.git
+
+Updating /mnt/store/melpa/working/pianobar/
+No valid stable versions found for pianobar

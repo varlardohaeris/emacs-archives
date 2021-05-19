@@ -1,0 +1,6 @@
+Package: svnwrapper
+Fetcher: github
+Source:  https://github.com/Lindydancer/svnwrapper.git
+
+Updating /mnt/store/melpa/working/svnwrapper/
+No valid stable versions found for svnwrapper

@@ -1,0 +1,10 @@
+Package: wonderland
+Fetcher: github
+Source:  https://github.com/kurisuwhyte/emacs-wonderland.git
+
+Updating /mnt/store/melpa/working/wonderland/
+Built wonderland in 3.721s, finished at Wed May 19 01:55:35 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:55 packages-stable/wonderland-0.1.1.el
+4.0K -rw-r--r-- 1 root root  539 May 19 01:55 packages-stable/wonderland-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/wonderland-badge.svg

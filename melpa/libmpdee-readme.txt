@@ -45,7 +45,7 @@ in order for atleast the functions and the documentation. The file is well
 structured and documented, so go for it. The impatient could do a selective
 display to 3 (C-u 3 C-x $) before proceeding.
 
-Installation:
+; Installation:
 
 Put this file somewhere on your load-path. Then, you could use
 (require 'libmpdee) whenever the services of this package are needed.
@@ -56,7 +56,7 @@ Use:
 to change the values to your liking.
 
 
-History: (See the SVN logs/ChangeLog for the list of all changes)
+; History: (See the SVN logs/ChangeLog for the list of all changes)
 
 v2.1
 Introducing automatic mode with hooking, for connections.

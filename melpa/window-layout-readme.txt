@@ -1,10 +1,10 @@
 Split a frame or window into some windows according to a layout
 recipe.
 
-Example code
+; Example code
 
-Layout function
--> three pane layout.
+;; Layout function
+; -> three pane layout.
 (setq wm ; <-- window management object
       (wlf:layout
        '(| (:left-size-ratio 0.3)
@@ -20,31 +20,31 @@ Layout function
           :buffer "message buffer")
         )))
 
-Window controlling
+;; Window controlling
 (wlf:show    wm 'summary)
 (wlf:hide    wm 'summary)
 (wlf:toggle  wm 'summary)
 (wlf:select  wm 'summary)
 (wlf:toggle-maximize  wm 'summary)
 
-Window updating
+;; Window updating
 (wlf:refresh wm)
 (wlf:reset-window-sizes wm)
 (wlf:reset-init wm)
 
-Accessing a buffer
+;; Accessing a buffer
 (wlf:get-buffer wm 'summary) -> <#buffer object>
 (wlf:set-buffer wm 'summary "*scratch*")
 
-Accessing a window
+;; Accessing a window
 (wlf:get-window wm 'summary)
 
-Layout hook
+;; Layout hook
 (defun wlf:test-hook (wset) (message "HOOK : %s" wset))
 (wlf:layout-hook-add wm 'wlf:test-hook)
 (wlf:layout-hook-remove wm 'wlf:test-hook)
 
-`wlf:layout' function
+; `wlf:layout' function
 
 * Layout recipe:
 

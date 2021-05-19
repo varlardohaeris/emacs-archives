@@ -1,0 +1,6 @@
+Package: ob-rust
+Fetcher: github
+Source:  https://github.com/micanzhang/ob-rust.git
+
+Updating /mnt/store/melpa/working/ob-rust/
+No valid stable versions found for ob-rust

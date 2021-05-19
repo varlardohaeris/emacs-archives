@@ -1,0 +1,6 @@
+Package: zprint-mode
+Fetcher: github
+Source:  https://github.com/pesterhazy/zprint-mode.el.git
+
+Updating /mnt/store/melpa/working/zprint-mode/
+No valid stable versions found for zprint-mode

@@ -1,0 +1,6 @@
+Package: cloc
+Fetcher: github
+Source:  https://github.com/cosmicexplorer/cloc-emacs.git
+
+Updating /mnt/store/melpa/working/cloc/
+No valid stable versions found for cloc

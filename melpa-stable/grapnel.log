@@ -1,0 +1,11 @@
+Package: grapnel
+Fetcher: github
+Source:  https://github.com/leathekd/grapnel.git
+
+Updating /mnt/store/melpa/working/grapnel/
+Built grapnel in 3.607s, finished at Wed May 19 04:38:34 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:38 packages-stable/grapnel-0.5.3.el
+4.0K -rw-r--r-- 1 root root  327 May 19 04:38 packages-stable/grapnel-0.5.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grapnel-badge.svg
+4.0K -rw-r--r-- 1 root root  818 May 19 04:38 packages-stable/grapnel-readme.txt

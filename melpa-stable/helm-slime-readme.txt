@@ -1,3 +1,4 @@
+
 Some Helm and SLIME Configurations for using SLIME within the
 Helm interface.
 
@@ -12,7 +13,7 @@ The complete command list:
  `helm-slime-repl-history'
    Select an input from the SLIME repl's history and insert it.
 
-Installation:
+; Installation:
 
 Put the helm-slime.el, helm.el to your load-path.
 Set up SLIME properly.

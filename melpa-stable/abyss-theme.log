@@ -1,0 +1,11 @@
+Package: abyss-theme
+Fetcher: github
+Source:  https://github.com/mgrbyte/emacs-abyss-theme.git
+
+Updating /mnt/store/melpa/working/abyss-theme/
+Built abyss-theme in 2.942s, finished at Wed May 19 04:18:16 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.8K May 19 04:18 packages-stable/abyss-theme-0.7.el
+4.0K -rw-r--r-- 1 root root  415 May 19 04:18 packages-stable/abyss-theme-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/abyss-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  225 May 19 04:18 packages-stable/abyss-theme-readme.txt

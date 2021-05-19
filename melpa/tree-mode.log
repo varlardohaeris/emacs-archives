@@ -1,0 +1,10 @@
+Package: tree-mode
+Fetcher: github
+Source:  https://github.com/emacsorphanage/tree-mode.git
+
+Updating /mnt/store/melpa/working/tree-mode/
+Built tree-mode in 4.187s, finished at Wed May 19 04:11:19 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 04:11 packages/tree-mode-20151104.1331.el
+4.0K -rw-r--r-- 1 root root  290 May 19 04:11 packages/tree-mode-20151104.1331.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/tree-mode-badge.svg

@@ -1,0 +1,11 @@
+Package: direx-grep
+Fetcher: github
+Source:  https://github.com/aki2o/direx-grep.git
+
+Updating /mnt/store/melpa/working/direx-grep/
+Built direx-grep in 3.225s, finished at Wed May 19 04:28:08 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:28 packages-stable/direx-grep-0.1.0.el
+4.0K -rw-r--r-- 1 root root  433 May 19 04:28 packages-stable/direx-grep-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/direx-grep-badge.svg
+4.0K -rw-r--r-- 1 root root   65 May 19 04:28 packages-stable/direx-grep-readme.txt

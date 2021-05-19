@@ -1,0 +1,11 @@
+Package: ess-r-insert-obj
+Fetcher: github
+Source:  https://github.com/ShuguangSun/ess-r-insert-obj.git
+
+Updating /mnt/store/melpa/working/ess-r-insert-obj/
+Built ess-r-insert-obj in 2.743s, finished at Wed May 19 04:31:49 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 04:31 packages-stable/ess-r-insert-obj-1.0.el
+4.0K -rw-r--r-- 1 root root  404 May 19 04:31 packages-stable/ess-r-insert-obj-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ess-r-insert-obj-badge.svg
+4.0K -rw-r--r-- 1 root root  618 May 19 04:31 packages-stable/ess-r-insert-obj-readme.txt

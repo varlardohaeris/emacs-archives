@@ -1,0 +1,6 @@
+Package: ob-reticulate
+Fetcher: github
+Source:  https://github.com/jackkamm/ob-reticulate.git
+
+Updating /mnt/store/melpa/working/ob-reticulate/
+No valid stable versions found for ob-reticulate

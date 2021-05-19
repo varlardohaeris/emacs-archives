@@ -1,0 +1,6 @@
+Package: gnuplot-mode
+Fetcher: github
+Source:  https://github.com/mkmcc/gnuplot-mode.git
+
+Updating /mnt/store/melpa/working/gnuplot-mode/
+No valid stable versions found for gnuplot-mode

@@ -1,0 +1,6 @@
+Package: s3ed
+Fetcher: github
+Source:  https://github.com/mattusifer/s3ed.git
+
+Updating /mnt/store/melpa/working/s3ed/
+No valid stable versions found for s3ed

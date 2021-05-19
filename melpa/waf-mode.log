@@ -1,0 +1,11 @@
+Package: waf-mode
+Fetcher: git
+Source:  https://bitbucket.org/dvalchuk/waf-mode
+
+Updating /mnt/store/melpa/working/waf-mode/
+Built waf-mode in 3.876s, finished at Wed May 19 04:13:57 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.3K May 19 04:13 packages/waf-mode-20170403.1940.el
+4.0K -rw-r--r-- 1 root root  315 May 19 04:13 packages/waf-mode-20170403.1940.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/waf-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   90 May 19 04:13 packages/waf-mode-readme.txt

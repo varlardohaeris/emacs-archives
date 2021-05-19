@@ -1,0 +1,11 @@
+Package: info-buffer
+Fetcher: gitlab
+Source:  https://gitlab.com/llvilanova/info-buffer.git
+
+Updating /mnt/store/melpa/working/info-buffer/
+Built info-buffer in 3.564s, finished at Wed May 19 04:43:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.3K May 19 04:43 packages-stable/info-buffer-0.2.el
+4.0K -rw-r--r-- 1 root root  381 May 19 04:43 packages-stable/info-buffer-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/info-buffer-badge.svg
+4.0K -rw-r--r-- 1 root root  324 May 19 04:43 packages-stable/info-buffer-readme.txt

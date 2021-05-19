@@ -1,0 +1,11 @@
+Package: emms-state
+Fetcher: github
+Source:  https://github.com/alezost/emms-state.el.git
+
+Updating /mnt/store/melpa/working/emms-state/
+Built emms-state in 3.220s, finished at Wed May 19 04:30:55 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K May 19 04:30 packages-stable/emms-state-0.2.el
+4.0K -rw-r--r-- 1 root root  395 May 19 04:30 packages-stable/emms-state-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emms-state-badge.svg
+4.0K -rw-r--r-- 1 root root  796 May 19 04:30 packages-stable/emms-state-readme.txt

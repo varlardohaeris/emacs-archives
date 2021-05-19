@@ -1,0 +1,6 @@
+Package: magnatune
+Fetcher: github
+Source:  https://github.com/eikek/magnatune.el.git
+
+Updating /mnt/store/melpa/working/magnatune/
+No valid stable versions found for magnatune

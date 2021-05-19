@@ -1,0 +1,6 @@
+Package: ivs-edit
+Fetcher: github
+Source:  https://github.com/kawabata/ivs-edit.git
+
+Updating /mnt/store/melpa/working/ivs-edit/
+No valid stable versions found for ivs-edit

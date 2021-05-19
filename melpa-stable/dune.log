@@ -1,0 +1,26 @@
+Package: dune
+Fetcher: github
+Source:  https://github.com/ocaml/dune.git
+
+Updating /mnt/store/melpa/working/dune/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dune/
+  to /tmp/duneWvIFXc/dune-2.8.5
+  ! editor-integration/emacs/dune-flymake.el -> dune-flymake.el
+  ! editor-integration/emacs/dune.el -> dune.el
+Created dune-2.8.5.tar containing:
+  dune-2.8.5/
+  dune-2.8.5/dune-flymake.el
+  dune-2.8.5/dune-pkg.el
+  dune-2.8.5/dune.el
+Built dune in 5.104s, finished at Wed May 19 04:28:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  187 May 19 04:28 packages-stable/dune-2.8.5.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:28 packages-stable/dune-2.8.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dune-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:28 packages-stable/dune-format-0.1.el
+4.0K -rw-r--r-- 1 root root  429 May 19 04:28 packages-stable/dune-format-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dune-format-badge.svg
+4.0K -rw-r--r-- 1 root root  335 May 19 04:28 packages-stable/dune-format-readme.txt
+4.0K -rw-r--r-- 1 root root  557 May 19 04:28 packages-stable/dune-format.log
+4.0K -rw-r--r-- 1 root root  871 May 19 04:28 packages-stable/dune-readme.txt

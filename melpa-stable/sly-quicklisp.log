@@ -1,0 +1,6 @@
+Package: sly-quicklisp
+Fetcher: github
+Source:  https://github.com/joaotavora/sly-quicklisp.git
+
+Updating /mnt/store/melpa/working/sly-quicklisp/
+No valid stable versions found for sly-quicklisp

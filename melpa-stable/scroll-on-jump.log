@@ -1,0 +1,6 @@
+Package: scroll-on-jump
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-scroll-on-jump.git
+
+Updating /mnt/store/melpa/working/scroll-on-jump/
+No valid stable versions found for scroll-on-jump

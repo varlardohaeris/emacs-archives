@@ -1,0 +1,6 @@
+Package: lsp-pyright
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-pyright.git
+
+Updating /mnt/store/melpa/working/lsp-pyright/
+No valid stable versions found for lsp-pyright

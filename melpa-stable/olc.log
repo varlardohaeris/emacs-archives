@@ -1,0 +1,23 @@
+Package: olc
+Fetcher: git
+Source:  https://gitlab.liu.se/davby02/olc.git
+
+Updating /mnt/store/melpa/working/olc/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/olc/
+  to /tmp/olc82hmbU/olc-1.5.1
+    olc.el -> olc.el
+    olc.info -> olc.info
+    olc.texi -> olc.texi
+Created olc-1.5.1.tar containing:
+  olc-1.5.1/
+  olc-1.5.1/dir
+  olc-1.5.1/olc-pkg.el
+  olc-1.5.1/olc.el
+  olc-1.5.1/olc.info
+Built olc in 3.920s, finished at Wed May 19 01:38:34 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  356 May 19 01:38 packages-stable/olc-1.5.1.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 01:38 packages-stable/olc-1.5.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/olc-badge.svg
+4.0K -rw-r--r-- 1 root root  501 May 19 01:38 packages-stable/olc-readme.txt

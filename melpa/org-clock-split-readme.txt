@@ -1,3 +1,4 @@
+
  This package provides ability to split an org CLOCK entry into two records.
 
  Usage example:

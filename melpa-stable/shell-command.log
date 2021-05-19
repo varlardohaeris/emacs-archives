@@ -1,0 +1,6 @@
+Package: shell-command
+Fetcher: github
+Source:  https://github.com/emacsorphanage/shell-command.git
+
+Updating /mnt/store/melpa/working/shell-command/
+No valid stable versions found for shell-command

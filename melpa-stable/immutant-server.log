@@ -1,0 +1,11 @@
+Package: immutant-server
+Fetcher: github
+Source:  https://github.com/leathekd/immutant-server.el.git
+
+Updating /mnt/store/melpa/working/immutant-server/
+Built immutant-server in 3.513s, finished at Wed May 19 04:43:02 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:43 packages-stable/immutant-server-1.2.0.el
+4.0K -rw-r--r-- 1 root root  338 May 19 04:43 packages-stable/immutant-server-1.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/immutant-server-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:43 packages-stable/immutant-server-readme.txt

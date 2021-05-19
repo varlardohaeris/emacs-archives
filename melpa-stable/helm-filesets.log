@@ -1,0 +1,6 @@
+Package: helm-filesets
+Fetcher: github
+Source:  https://github.com/gcla/helm-filesets.git
+
+Updating /mnt/store/melpa/working/helm-filesets/
+No valid stable versions found for helm-filesets

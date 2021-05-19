@@ -1,0 +1,11 @@
+Package: aurel
+Fetcher: github
+Source:  https://github.com/alezost/aurel.git
+
+Updating /mnt/store/melpa/working/aurel/
+Built aurel in 3.120s, finished at Wed May 19 04:20:00 2021
+ ✓ Success:
+ 72K -rw-r--r-- 1 root root  70K May 19 04:20 packages-stable/aurel-0.9.el
+4.0K -rw-r--r-- 1 root root  377 May 19 04:20 packages-stable/aurel-0.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/aurel-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K May 19 04:20 packages-stable/aurel-readme.txt

@@ -1,0 +1,6 @@
+Package: nameframe-projectile
+Fetcher: github
+Source:  https://github.com/john2x/nameframe.git
+
+Updating /mnt/store/melpa/working/nameframe-projectile/
+No valid stable versions found for nameframe-projectile

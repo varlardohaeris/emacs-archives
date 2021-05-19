@@ -1,0 +1,6 @@
+Package: flycheck-lilypond
+Fetcher: github
+Source:  https://github.com/hinrik/flycheck-lilypond.git
+
+Updating /mnt/store/melpa/working/flycheck-lilypond/
+No valid stable versions found for flycheck-lilypond

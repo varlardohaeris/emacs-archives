@@ -1,0 +1,11 @@
+Package: anti-zenburn-theme
+Fetcher: github
+Source:  https://github.com/m00natic/anti-zenburn-theme.git
+
+Updating /mnt/store/melpa/working/anti-zenburn-theme/
+Built anti-zenburn-theme in 3.435s, finished at Wed May 19 04:19:34 2021
+ ✓ Success:
+ 88K -rw-r--r-- 1 root root  86K May 19 04:19 packages-stable/anti-zenburn-theme-2.5.1.el
+4.0K -rw-r--r-- 1 root root  365 May 19 04:19 packages-stable/anti-zenburn-theme-2.5.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/anti-zenburn-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  111 May 19 04:19 packages-stable/anti-zenburn-theme-readme.txt

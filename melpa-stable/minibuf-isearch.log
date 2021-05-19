@@ -1,0 +1,6 @@
+Package: minibuf-isearch
+Fetcher: github
+Source:  https://github.com/knagano/minibuf-isearch.git
+
+Updating /mnt/store/melpa/working/minibuf-isearch/
+No valid stable versions found for minibuf-isearch

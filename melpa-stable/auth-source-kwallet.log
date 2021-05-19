@@ -1,0 +1,6 @@
+Package: auth-source-kwallet
+Fetcher: github
+Source:  https://github.com/vaartis/auth-source-kwallet.git
+
+Updating /mnt/store/melpa/working/auth-source-kwallet/
+No valid stable versions found for auth-source-kwallet

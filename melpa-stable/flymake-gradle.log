@@ -1,0 +1,6 @@
+Package: flymake-gradle
+Fetcher: github
+Source:  https://github.com/jojojames/flymake-gradle.git
+
+Updating /mnt/store/melpa/working/flymake-gradle/
+No valid stable versions found for flymake-gradle

@@ -1,0 +1,6 @@
+Package: popup-switcher
+Fetcher: github
+Source:  https://github.com/kostafey/popup-switcher.git
+
+Updating /mnt/store/melpa/working/popup-switcher/
+No valid stable versions found for popup-switcher

@@ -1,0 +1,11 @@
+Package: flymake-easy
+Fetcher: github
+Source:  https://github.com/purcell/flymake-easy.git
+
+Updating /mnt/store/melpa/working/flymake-easy/
+Built flymake-easy in 2.820s, finished at Wed May 19 04:35:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K May 19 04:35 packages-stable/flymake-easy-0.10.el
+4.0K -rw-r--r-- 1 root root  370 May 19 04:35 packages-stable/flymake-easy-0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-easy-badge.svg
+4.0K -rw-r--r-- 1 root root  256 May 19 04:35 packages-stable/flymake-easy-readme.txt

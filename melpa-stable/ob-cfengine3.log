@@ -1,0 +1,6 @@
+Package: ob-cfengine3
+Fetcher: github
+Source:  https://github.com/nickanderson/ob-cfengine3.git
+
+Updating /mnt/store/melpa/working/ob-cfengine3/
+No valid stable versions found for ob-cfengine3

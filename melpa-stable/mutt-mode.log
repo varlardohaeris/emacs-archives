@@ -1,0 +1,6 @@
+Package: mutt-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/flexw/mutt-mode.git
+
+Updating /mnt/store/melpa/working/mutt-mode/
+No valid stable versions found for mutt-mode

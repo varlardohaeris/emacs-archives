@@ -1,0 +1,6 @@
+Package: modular-config
+Fetcher: github
+Source:  https://github.com/SidharthArya/modular-config.el.git
+
+Updating /mnt/store/melpa/working/modular-config/
+Single file modules.el does not match package name modular-config

@@ -1,0 +1,6 @@
+Package: link-hint
+Fetcher: github
+Source:  https://github.com/noctuid/link-hint.el.git
+
+Updating /mnt/store/melpa/working/link-hint/
+Single file url-hint.el does not match package name link-hint

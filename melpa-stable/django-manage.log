@@ -1,0 +1,6 @@
+Package: django-manage
+Fetcher: github
+Source:  https://github.com/gopar/django-manage.git
+
+Updating /mnt/store/melpa/working/django-manage/
+No valid stable versions found for django-manage

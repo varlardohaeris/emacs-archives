@@ -1,0 +1,6 @@
+Package: clipmon
+Fetcher: github
+Source:  https://github.com/bburns/clipmon.git
+
+Updating /mnt/store/melpa/working/clipmon/
+No valid stable versions found for clipmon

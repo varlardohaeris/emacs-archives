@@ -1,3 +1,4 @@
+
 * What is switch-window                       :README:
 switch-window is an Emacs window switch tool, which offer a
 *visual* way to choose a window to switch to, delete, split

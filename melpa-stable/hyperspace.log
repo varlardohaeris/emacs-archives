@@ -1,0 +1,11 @@
+Package: hyperspace
+Fetcher: github
+Source:  https://github.com/ieure/hyperspace-el.git
+
+Updating /mnt/store/melpa/working/hyperspace/
+Built hyperspace in 3.584s, finished at Wed May 19 04:42:26 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K May 19 04:42 packages-stable/hyperspace-0.8.4.el
+4.0K -rw-r--r-- 1 root root  396 May 19 04:42 packages-stable/hyperspace-0.8.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hyperspace-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:42 packages-stable/hyperspace-readme.txt

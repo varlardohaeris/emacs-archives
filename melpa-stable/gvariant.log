@@ -1,0 +1,11 @@
+Package: gvariant
+Fetcher: github
+Source:  https://github.com/wbolster/emacs-gvariant.git
+
+Updating /mnt/store/melpa/working/gvariant/
+Built gvariant in 7.297s, finished at Wed May 19 04:39:15 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K May 19 04:39 packages-stable/gvariant-1.0.0.el
+4.0K -rw-r--r-- 1 root root  394 May 19 04:39 packages-stable/gvariant-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/gvariant-badge.svg
+4.0K -rw-r--r-- 1 root root  154 May 19 04:39 packages-stable/gvariant-readme.txt

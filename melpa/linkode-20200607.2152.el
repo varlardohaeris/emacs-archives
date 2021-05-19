@@ -4,7 +4,7 @@
 ;; Author: Erick Navarro <erick@navarro.io>
 ;; URL: https://github.com/erickgnavar/linkode.el
 ;; Package-Version: 20200607.2152
-;; Package-Commit: 376fdc0f990322385534a16ee2cd08df20f76f48
+;; Package-Commit: 675e612e30b74764c57de4117d950ea803b15f74
 ;; Version: 0.1.0
 ;; SPDX-License-Identifier: GNU General Public License v3.0 or later
 

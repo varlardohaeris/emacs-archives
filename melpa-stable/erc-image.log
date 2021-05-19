@@ -1,0 +1,6 @@
+Package: erc-image
+Fetcher: github
+Source:  https://github.com/kidd/erc-image.el.git
+
+Updating /mnt/store/melpa/working/erc-image/
+No valid stable versions found for erc-image

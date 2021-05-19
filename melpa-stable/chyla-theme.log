@@ -1,0 +1,6 @@
+Package: chyla-theme
+Fetcher: github
+Source:  https://github.com/chyla/ChylaThemeForEmacs.git
+
+Updating /mnt/store/melpa/working/chyla-theme/
+No valid stable versions found for chyla-theme

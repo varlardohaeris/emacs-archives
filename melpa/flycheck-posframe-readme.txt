@@ -1,6 +1,6 @@
 Show flycheck error messages using posframe.el
 
-Setup
+;; Setup
 
 (with-eval-after-load 'flycheck
    (require 'flycheck-posframe)

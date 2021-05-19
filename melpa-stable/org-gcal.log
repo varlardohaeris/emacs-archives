@@ -1,0 +1,11 @@
+Package: org-gcal
+Fetcher: github
+Source:  https://github.com/kidd/org-gcal.el.git
+
+Updating /mnt/store/melpa/working/org-gcal/
+Built org-gcal in 3.198s, finished at Wed May 19 01:39:19 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  29K May 19 01:39 packages-stable/org-gcal-0.2.el
+4.0K -rw-r--r-- 1 root root  437 May 19 01:39 packages-stable/org-gcal-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-gcal-badge.svg
+4.0K -rw-r--r-- 1 root root   75 May 19 01:39 packages-stable/org-gcal-readme.txt

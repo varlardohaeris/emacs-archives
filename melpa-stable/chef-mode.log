@@ -1,0 +1,6 @@
+Package: chef-mode
+Fetcher: github
+Source:  https://github.com/mpasternacki/chef-mode.git
+
+Updating /mnt/store/melpa/working/chef-mode/
+No valid stable versions found for chef-mode

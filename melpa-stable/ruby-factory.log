@@ -1,0 +1,6 @@
+Package: ruby-factory
+Fetcher: github
+Source:  https://github.com/sshaw/ruby-factory-mode.git
+
+Updating /mnt/store/melpa/working/ruby-factory/
+No valid stable versions found for ruby-factory

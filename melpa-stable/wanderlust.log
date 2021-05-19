@@ -1,0 +1,6 @@
+Package: wanderlust
+Fetcher: github
+Source:  https://github.com/wanderlust/wanderlust.git
+
+Updating /mnt/store/melpa/working/wanderlust/
+No valid stable versions found for wanderlust

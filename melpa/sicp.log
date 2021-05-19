@@ -1,0 +1,24 @@
+Package: sicp
+Fetcher: github
+Source:  https://github.com/webframp/sicp-info.git
+
+Updating /mnt/store/melpa/working/sicp/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sicp/
+  to /tmp/sicpEiA8wu/sicp-20200512.1137
+    sicp.el -> sicp.el
+    dir -> dir
+    sicp.info -> sicp.info
+    sicp.texi -> sicp.texi
+Created sicp-20200512.1137.tar containing:
+  sicp-20200512.1137/
+  sicp-20200512.1137/dir
+  sicp-20200512.1137/sicp-pkg.el
+  sicp-20200512.1137/sicp.el
+  sicp-20200512.1137/sicp.info
+Built sicp in 4.071s, finished at Wed May 19 04:03:55 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  320 May 19 04:03 packages/sicp-20200512.1137.entry
+1.5M -rw-r--r-- 1 root root 1.5M May 19 04:03 packages/sicp-20200512.1137.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:03 packages/sicp-badge.svg
+4.0K -rw-r--r-- 1 root root  463 May 19 04:03 packages/sicp-readme.txt

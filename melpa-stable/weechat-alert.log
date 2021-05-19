@@ -1,0 +1,6 @@
+Package: weechat-alert
+Fetcher: github
+Source:  https://github.com/Kungi/weechat-alert.git
+
+Updating /mnt/store/melpa/working/weechat-alert/
+No valid stable versions found for weechat-alert

@@ -1,0 +1,11 @@
+Package: bento
+Fetcher: github
+Source:  https://github.com/returntocorp/bento-emacs.git
+
+Updating /mnt/store/melpa/working/bento/
+Built bento in 3.106s, finished at Wed May 19 04:21:00 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.2K May 19 04:20 packages-stable/bento-0.1.0.el
+4.0K -rw-r--r-- 1 root root  370 May 19 04:20 packages-stable/bento-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bento-badge.svg
+4.0K -rw-r--r-- 1 root root  128 May 19 04:20 packages-stable/bento-readme.txt

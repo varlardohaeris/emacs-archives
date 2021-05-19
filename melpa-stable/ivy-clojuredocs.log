@@ -1,0 +1,6 @@
+Package: ivy-clojuredocs
+Fetcher: github
+Source:  https://github.com/wandersoncferreira/ivy-clojuredocs.git
+
+Updating /mnt/store/melpa/working/ivy-clojuredocs/
+No valid stable versions found for ivy-clojuredocs

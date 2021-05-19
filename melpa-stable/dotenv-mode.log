@@ -1,0 +1,11 @@
+Package: dotenv-mode
+Fetcher: github
+Source:  https://github.com/preetpalS/emacs-dotenv-mode.git
+
+Updating /mnt/store/melpa/working/dotenv-mode/
+Built dotenv-mode in 2.978s, finished at Wed May 19 04:28:39 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.8K May 19 04:28 packages-stable/dotenv-mode-0.2.5.el
+4.0K -rw-r--r-- 1 root root  315 May 19 04:28 packages-stable/dotenv-mode-0.2.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dotenv-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  315 May 19 04:28 packages-stable/dotenv-mode-readme.txt

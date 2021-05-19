@@ -1,0 +1,6 @@
+Package: s-buffer
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-s-buffer.git
+
+Updating /mnt/store/melpa/working/s-buffer/
+No valid stable versions found for s-buffer

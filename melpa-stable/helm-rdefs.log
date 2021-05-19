@@ -1,0 +1,11 @@
+Package: helm-rdefs
+Fetcher: github
+Source:  https://github.com/saidie/emacs-helm-rdefs.git
+
+Updating /mnt/store/melpa/working/helm-rdefs/
+Built helm-rdefs in 2.995s, finished at Wed May 19 04:41:05 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.7K May 19 04:41 packages-stable/helm-rdefs-1.0.1.el
+4.0K -rw-r--r-- 1 root root  411 May 19 04:41 packages-stable/helm-rdefs-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-rdefs-badge.svg
+4.0K -rw-r--r-- 1 root root   80 May 19 04:41 packages-stable/helm-rdefs-readme.txt

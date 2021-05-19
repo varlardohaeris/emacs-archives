@@ -1,0 +1,11 @@
+Package: magit-topgit
+Fetcher: github
+Source:  https://github.com/greenrd/magit-topgit.git
+
+Updating /mnt/store/melpa/working/magit-topgit/
+Built magit-topgit in 3.062s, finished at Wed May 19 01:33:43 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K May 19 01:33 packages-stable/magit-topgit-2.1.2.el
+4.0K -rw-r--r-- 1 root root  333 May 19 01:33 packages-stable/magit-topgit-2.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-topgit-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 01:33 packages-stable/magit-topgit-readme.txt

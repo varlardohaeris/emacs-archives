@@ -32,7 +32,7 @@ The basic functions for managing named timers `named-timer-run',
 respectively, analogues of `run-with-timer', `run-with-idle-timer',
 and `cancel-timer'.
 
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 This program is free software: you can redistribute it and/or
 modify it under the terms of the GNU General Public License as
@@ -46,3 +46,5 @@ General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with GNU Emacs. If not, see <http://www.gnu.org/licenses/>.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

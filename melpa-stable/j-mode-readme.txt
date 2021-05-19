@@ -1,7 +1,7 @@
 Provides font-lock and basic REPL integration for the
 [J programming language](http://www.jsoftware.com)
 
-Installation
+; Installation
 
 The only method of installation is to check out the project, add it to the
 load path, and load normally. This may change one day.

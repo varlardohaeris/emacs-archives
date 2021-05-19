@@ -1,0 +1,6 @@
+Package: cosmo
+Fetcher: gitlab
+Source:  https://gitlab.com/montanari/cosmo-el.git
+
+Updating /mnt/store/melpa/working/cosmo/
+No valid stable versions found for cosmo

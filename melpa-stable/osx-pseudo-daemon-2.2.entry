@@ -1,2 +1,9 @@
-
-(osx-pseudo-daemon . [(2 2) nil "Daemon mode that plays nice with OSX." single ((:commit . "564b006835facc4a8df247d8a47ab1030d7e7beb") (:keywords "convenience" "osx") (:authors ("Ryan C. Thompson")) (:maintainer "Ryan C. Thompson") (:url . "https://github.com/DarwinAwardWinner/osx-pseudo-daemon"))])
+(osx-pseudo-daemon .
+		   [(2 2)
+		    nil "Daemon mode that plays nice with OSX." single
+		    ((:commit . "564b006835facc4a8df247d8a47ab1030d7e7beb")
+		     (:authors
+		      ("Ryan C. Thompson"))
+		     (:maintainer "Ryan C. Thompson")
+		     (:keywords "convenience" "osx")
+		     (:url . "https://github.com/DarwinAwardWinner/osx-pseudo-daemon"))])

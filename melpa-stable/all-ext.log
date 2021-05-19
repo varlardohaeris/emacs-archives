@@ -1,0 +1,6 @@
+Package: all-ext
+Fetcher: github
+Source:  https://github.com/rubikitch/all-ext.git
+
+Updating /mnt/store/melpa/working/all-ext/
+No valid stable versions found for all-ext

@@ -1,0 +1,21 @@
+Package: rats
+Fetcher: github
+Source:  https://github.com/ane/rats.el.git
+
+Updating /mnt/store/melpa/working/rats/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rats/
+  to /tmp/ratsSGMlrb/rats-0.2.0
+    rats.el -> rats.el
+    squeak.el -> squeak.el
+Created rats-0.2.0.tar containing:
+  rats-0.2.0/
+  rats-0.2.0/rats-pkg.el
+  rats-0.2.0/rats.el
+  rats-0.2.0/squeak.el
+Built rats in 2.756s, finished at Wed May 19 01:45:27 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  318 May 19 01:45 packages-stable/rats-0.2.0.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:45 packages-stable/rats-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rats-badge.svg
+4.0K -rw-r--r-- 1 root root  113 May 19 01:45 packages-stable/rats-readme.txt

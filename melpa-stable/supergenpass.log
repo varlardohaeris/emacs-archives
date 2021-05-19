@@ -1,0 +1,6 @@
+Package: supergenpass
+Fetcher: github
+Source:  https://github.com/ober/sgpass.git
+
+Updating /mnt/store/melpa/working/supergenpass/
+No valid stable versions found for supergenpass

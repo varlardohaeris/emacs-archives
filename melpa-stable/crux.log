@@ -1,0 +1,11 @@
+Package: crux
+Fetcher: github
+Source:  https://github.com/bbatsov/crux.git
+
+Updating /mnt/store/melpa/working/crux/
+Built crux in 5.698s, finished at Wed May 19 04:25:54 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 04:25 packages-stable/crux-0.3.0.el
+4.0K -rw-r--r-- 1 root root  362 May 19 04:25 packages-stable/crux-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/crux-badge.svg
+4.0K -rw-r--r-- 1 root root   90 May 19 04:25 packages-stable/crux-readme.txt

@@ -1,0 +1,11 @@
+Package: whole-line-or-region
+Fetcher: github
+Source:  https://github.com/purcell/whole-line-or-region.git
+
+Updating /mnt/store/melpa/working/whole-line-or-region/
+Built whole-line-or-region in 4.466s, finished at Wed May 19 01:55:05 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:55 packages-stable/whole-line-or-region-2.0.el
+4.0K -rw-r--r-- 1 root root  441 May 19 01:55 packages-stable/whole-line-or-region-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/whole-line-or-region-badge.svg
+4.0K -rw-r--r-- 1 root root  676 May 19 01:55 packages-stable/whole-line-or-region-readme.txt

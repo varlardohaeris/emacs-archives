@@ -1,0 +1,6 @@
+Package: autocrypt
+Fetcher: git
+Source:  https://git.sr.ht/~zge/autocrypt
+
+Updating /mnt/store/melpa/working/autocrypt/
+No valid stable versions found for autocrypt

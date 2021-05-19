@@ -1,3 +1,4 @@
+
   'stack-mode' is a minor mode enabling various features based on
   the 'stack-ide' external process.
 

@@ -1,0 +1,11 @@
+Package: cort
+Fetcher: github
+Source:  https://github.com/conao3/cort.el.git
+
+Updating /mnt/store/melpa/working/cort/
+Built cort in 4.008s, finished at Wed May 19 04:25:18 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:25 packages-stable/cort-7.1.0.el
+4.0K -rw-r--r-- 1 root root  367 May 19 04:25 packages-stable/cort-7.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/cort-badge.svg
+4.0K -rw-r--r-- 1 root root   39 May 19 04:25 packages-stable/cort-readme.txt

@@ -1,0 +1,10 @@
+Package: instapaper
+Fetcher: git
+Source:  https://git.carcosa.net/jmcbray/emacs-instapaper.git
+
+Updating /mnt/store/melpa/working/instapaper/
+Built instapaper in 2.905s, finished at Wed May 19 04:43:29 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K May 19 04:43 packages-stable/instapaper-0.9.5.el
+4.0K -rw-r--r-- 1 root root  335 May 19 04:43 packages-stable/instapaper-0.9.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/instapaper-badge.svg

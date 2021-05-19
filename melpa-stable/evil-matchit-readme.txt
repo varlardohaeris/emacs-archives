@@ -1,3 +1,4 @@
+
 This program emulates matchit.vim by Benji Fisher.
 Add `(global-evil-matchit-mode 1)' into Emacs setup.
 Then press % or `evilmi-jump-items' to jump between then matched pair.
@@ -12,4 +13,4 @@ to "m".  Here is sample setup:
 
 See https://github.com/redguardtoo/evil-matchit/ for help.
 
-This program requires EVIL (http://gitorious.org/evil)
+This program requires EVIL (https://github.com/emacs-evil/evil)

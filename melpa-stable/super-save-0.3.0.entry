@@ -1,2 +1,11 @@
-
-(super-save . [(0 3 0) ((emacs (24 4))) "Auto-save buffers, based on your activity." single ((:commit . "2a905b8bdfc93bee16e2d62a61c6211bbe009331") (:keywords "convenience") (:authors ("Bozhidar Batsov" . "bozhidar@batsov.com")) (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.com") (:url . "https://github.com/bbatsov/super-save"))])
+(super-save .
+	    [(0 3 0)
+	     ((emacs
+	       (24 4)))
+	     "Auto-save buffers, based on your activity." single
+	     ((:commit . "2a905b8bdfc93bee16e2d62a61c6211bbe009331")
+	      (:authors
+	       ("Bozhidar Batsov" . "bozhidar@batsov.com"))
+	      (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.com")
+	      (:keywords "convenience")
+	      (:url . "https://github.com/bbatsov/super-save"))])

@@ -1,0 +1,6 @@
+Package: ll-debug
+Fetcher: github
+Source:  https://github.com/replrep/ll-debug.git
+
+Updating /mnt/store/melpa/working/ll-debug/
+No valid stable versions found for ll-debug

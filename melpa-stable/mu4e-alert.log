@@ -1,0 +1,11 @@
+Package: mu4e-alert
+Fetcher: github
+Source:  https://github.com/iqbalansari/mu4e-alert.git
+
+Updating /mnt/store/melpa/working/mu4e-alert/
+Built mu4e-alert in 3.550s, finished at Wed May 19 01:36:21 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  23K May 19 01:36 packages-stable/mu4e-alert-1.0.el
+4.0K -rw-r--r-- 1 root root  485 May 19 01:36 packages-stable/mu4e-alert-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mu4e-alert-badge.svg
+4.0K -rw-r--r-- 1 root root  129 May 19 01:36 packages-stable/mu4e-alert-readme.txt

@@ -1,0 +1,11 @@
+Package: bog
+Fetcher: github
+Source:  https://github.com/kyleam/bog.git
+
+Updating /mnt/store/melpa/working/bog/
+Built bog in 2.974s, finished at Wed May 19 04:21:28 2021
+ ✓ Success:
+ 56K -rw-r--r-- 1 root root  55K May 19 04:21 packages-stable/bog-1.3.2.el
+4.0K -rw-r--r-- 1 root root  359 May 19 04:21 packages-stable/bog-1.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bog-badge.svg
+4.0K -rw-r--r-- 1 root root  235 May 19 04:21 packages-stable/bog-readme.txt

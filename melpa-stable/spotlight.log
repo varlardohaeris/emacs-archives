@@ -1,0 +1,6 @@
+Package: spotlight
+Fetcher: github
+Source:  https://github.com/benmaughan/spotlight.el.git
+
+Updating /mnt/store/melpa/working/spotlight/
+No valid stable versions found for spotlight

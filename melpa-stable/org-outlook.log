@@ -1,0 +1,23 @@
+Package: org-outlook
+Fetcher: github
+Source:  https://github.com/mattfidler/org-outlook.el.git
+
+Updating /mnt/store/melpa/working/org-outlook/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-outlook/
+  to /tmp/org-outlookCaN9En/org-outlook-0.11
+    org-outlook.el -> org-outlook.el
+    dir -> dir
+    org-outlook.info -> org-outlook.info
+Created org-outlook-0.11.tar containing:
+  org-outlook-0.11/
+  org-outlook-0.11/dir
+  org-outlook-0.11/org-outlook-pkg.el
+  org-outlook-0.11/org-outlook.el
+  org-outlook-0.11/org-outlook.info
+Built org-outlook in 2.969s, finished at Wed May 19 01:39:41 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  305 May 19 01:39 packages-stable/org-outlook-0.11.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:39 packages-stable/org-outlook-0.11.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-outlook-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K May 19 01:39 packages-stable/org-outlook-readme.txt

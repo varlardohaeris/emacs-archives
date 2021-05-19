@@ -52,7 +52,7 @@ A profile file has the following structure:
   ;; code to be executed *before* loading the modules
   )
 
-Modules to activate,
+;;; Modules to activate,
 (sm-require-modules "C" "Python")
 
 (sm-profile-post (job)
@@ -84,7 +84,7 @@ A package file has the following structure (example: yasnippet):
             :package-manager "package"
             :unmanaged-p nil)
 
-Put the package's base configuration here.
+;; Put the package's base configuration here.
 (require 'yasnippet)
 
 (defun add-yasnippet-ac-sources ()
@@ -181,3 +181,4 @@ variable to a comma-separated list of module names:
 
 Example: load C and python modules:
    $ EMACS_MODULES="C, python" emacs
+

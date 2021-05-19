@@ -1,4 +1,3 @@
-Commentary:
 
 * About
 el-autoyas is a small complement to yasnippet for emacs-lisp-mode.  It
@@ -128,3 +127,5 @@ Value: ((yas/expand-snippet yas-expand-snippet)
 (yas/update-mirrors yas--update-mirrors)
 (yas/fallback-behavior yas-fallback-behavior)
 (yas/minor-mode yas-minor-mode))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

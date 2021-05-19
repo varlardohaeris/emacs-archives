@@ -1,0 +1,6 @@
+Package: flycheck-flawfinder
+Fetcher: github
+Source:  https://github.com/alexmurray/flycheck-flawfinder.git
+
+Updating /mnt/store/melpa/working/flycheck-flawfinder/
+No valid stable versions found for flycheck-flawfinder

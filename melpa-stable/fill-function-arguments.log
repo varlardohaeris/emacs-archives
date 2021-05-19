@@ -1,0 +1,11 @@
+Package: fill-function-arguments
+Fetcher: github
+Source:  https://github.com/davidshepherd7/fill-function-arguments.git
+
+Updating /mnt/store/melpa/working/fill-function-arguments/
+Built fill-function-arguments in 2.788s, finished at Wed May 19 04:33:53 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.4K May 19 04:33 packages-stable/fill-function-arguments-0.9.el
+4.0K -rw-r--r-- 1 root root  437 May 19 04:33 packages-stable/fill-function-arguments-0.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/fill-function-arguments-badge.svg
+4.0K -rw-r--r-- 1 root root  630 May 19 04:33 packages-stable/fill-function-arguments-readme.txt

@@ -1,0 +1,11 @@
+Package: cl-libify
+Fetcher: github
+Source:  https://github.com/purcell/cl-libify.git
+
+Updating /mnt/store/melpa/working/cl-libify/
+Built cl-libify in 3.003s, finished at Wed May 19 04:23:25 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K May 19 04:23 packages-stable/cl-libify-0.2.el
+4.0K -rw-r--r-- 1 root root  380 May 19 04:23 packages-stable/cl-libify-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cl-libify-badge.svg
+4.0K -rw-r--r-- 1 root root  617 May 19 04:23 packages-stable/cl-libify-readme.txt

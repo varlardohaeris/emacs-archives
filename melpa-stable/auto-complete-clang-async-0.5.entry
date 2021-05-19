@@ -1,2 +1,5 @@
-
-(auto-complete-clang-async . [(0 5) nil "Auto Completion source for clang for GNU Emacs" single ((:commit . "a5114e3477793ccb9420acc5cd6a1cb26be65964") (:keywords "completion" "convenience"))])
+(auto-complete-clang-async .
+			   [(0 5)
+			    nil "Auto Completion source for clang for GNU Emacs" single
+			    ((:commit . "a5114e3477793ccb9420acc5cd6a1cb26be65964")
+			     (:keywords "completion" "convenience"))])

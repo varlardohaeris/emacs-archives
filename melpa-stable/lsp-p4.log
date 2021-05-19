@@ -1,0 +1,10 @@
+Package: lsp-p4
+Fetcher: github
+Source:  https://github.com/dmakarov/p4ls.git
+
+Updating /mnt/store/melpa/working/lsp-p4/
+Built lsp-p4 in 5.546s, finished at Wed May 19 01:33:11 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  598 May 19 01:33 packages-stable/lsp-p4-0.1.el
+4.0K -rw-r--r-- 1 root root  277 May 19 01:33 packages-stable/lsp-p4-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-p4-badge.svg

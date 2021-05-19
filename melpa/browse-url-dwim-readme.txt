@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'browse-url-dwim)
@@ -104,7 +105,7 @@ TODO
 
     Extract multiple URLs from region and browse to all.
 
-License
+; License
 
     Simplified BSD License
 

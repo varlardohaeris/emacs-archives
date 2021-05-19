@@ -1,0 +1,6 @@
+Package: sql-clickhouse
+Fetcher: github
+Source:  https://github.com/rschwarz/sql-clickhouse.git
+
+Updating /mnt/store/melpa/working/sql-clickhouse/
+No valid stable versions found for sql-clickhouse

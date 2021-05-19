@@ -1,0 +1,6 @@
+Package: chinese-conv
+Fetcher: github
+Source:  https://github.com/gucong/emacs-chinese-conv.git
+
+Updating /mnt/store/melpa/working/chinese-conv/
+No valid stable versions found for chinese-conv

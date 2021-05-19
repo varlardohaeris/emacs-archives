@@ -1,0 +1,6 @@
+Package: hl-block-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-hl-block-mode.git
+
+Updating /mnt/store/melpa/working/hl-block-mode/
+No valid stable versions found for hl-block-mode

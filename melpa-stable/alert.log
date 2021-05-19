@@ -1,0 +1,12 @@
+Package: alert
+Fetcher: github
+Source:  https://github.com/jwiegley/alert.git
+
+Updating /mnt/store/melpa/working/alert/
+Built alert in 3.107s, finished at Wed May 19 04:19:05 2021
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  46K May 19 04:19 packages-stable/alert-1.3.el
+4.0K -rw-r--r-- 1 root root  399 May 19 04:19 packages-stable/alert-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/alert-badge.svg
+8.0K -rw-r--r-- 1 root root 6.6K May 19 04:19 packages-stable/alert-readme.txt
+4.0K -rw-r--r-- 1 root root  196 May 19 04:19 packages-stable/alert-termux.log

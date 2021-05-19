@@ -1,0 +1,6 @@
+Package: pgdevenv
+Fetcher: github
+Source:  https://github.com/dimitri/pgdevenv-el.git
+
+Updating /mnt/store/melpa/working/pgdevenv/
+No valid stable versions found for pgdevenv

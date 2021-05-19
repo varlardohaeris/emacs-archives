@@ -1,0 +1,11 @@
+Package: groovy-imports
+Fetcher: github
+Source:  https://github.com/mbezjak/emacs-groovy-imports.git
+
+Updating /mnt/store/melpa/working/groovy-imports/
+Built groovy-imports in 6.009s, finished at Wed May 19 04:38:48 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:38 packages-stable/groovy-imports-1.0.1.el
+4.0K -rw-r--r-- 1 root root  372 May 19 04:38 packages-stable/groovy-imports-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/groovy-imports-badge.svg
+4.0K -rw-r--r-- 1 root root   68 May 19 04:38 packages-stable/groovy-imports-readme.txt

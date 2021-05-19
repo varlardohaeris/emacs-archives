@@ -1,0 +1,11 @@
+Package: ob-napkin
+Fetcher: github
+Source:  https://github.com/pinetr2e/ob-napkin.git
+
+Updating /mnt/store/melpa/working/ob-napkin/
+Built ob-napkin in 2.909s, finished at Wed May 19 01:38:15 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K May 19 01:38 packages-stable/ob-napkin-0.9.1.el
+4.0K -rw-r--r-- 1 root root  378 May 19 01:38 packages-stable/ob-napkin-0.9.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-napkin-badge.svg
+4.0K -rw-r--r-- 1 root root  182 May 19 01:38 packages-stable/ob-napkin-readme.txt

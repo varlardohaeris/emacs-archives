@@ -1,0 +1,6 @@
+Package: sourcerer-theme
+Fetcher: github
+Source:  https://github.com/gilbertw1/sourcerer-emacs.git
+
+Updating /mnt/store/melpa/working/sourcerer-theme/
+No valid stable versions found for sourcerer-theme

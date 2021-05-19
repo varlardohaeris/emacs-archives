@@ -1,0 +1,11 @@
+Package: ob-blockdiag
+Fetcher: github
+Source:  https://github.com/corpix/ob-blockdiag.el.git
+
+Updating /mnt/store/melpa/working/ob-blockdiag/
+Built ob-blockdiag in 10.752s, finished at Wed May 19 01:38:06 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.5K May 19 01:37 packages-stable/ob-blockdiag-20170728.113.el
+4.0K -rw-r--r-- 1 root root  335 May 19 01:37 packages-stable/ob-blockdiag-20170728.113.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-blockdiag-badge.svg
+4.0K -rw-r--r-- 1 root root  114 May 19 01:37 packages-stable/ob-blockdiag-readme.txt

@@ -1,0 +1,11 @@
+Package: hcl-mode
+Fetcher: github
+Source:  https://github.com/purcell/emacs-hcl-mode.git
+
+Updating /mnt/store/melpa/working/hcl-mode/
+Built hcl-mode in 3.817s, finished at Wed May 19 04:39:41 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.5K May 19 04:39 packages-stable/hcl-mode-0.3.el
+4.0K -rw-r--r-- 1 root root  326 May 19 04:39 packages-stable/hcl-mode-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/hcl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   44 May 19 04:39 packages-stable/hcl-mode-readme.txt

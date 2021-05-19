@@ -1,0 +1,11 @@
+Package: noccur
+Fetcher: github
+Source:  https://github.com/NicolasPetton/noccur.el.git
+
+Updating /mnt/store/melpa/working/noccur/
+Built noccur in 3.021s, finished at Wed May 19 01:37:32 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.9K May 19 01:37 packages-stable/noccur-0.2.el
+4.0K -rw-r--r-- 1 root root  291 May 19 01:37 packages-stable/noccur-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/noccur-badge.svg
+4.0K -rw-r--r-- 1 root root  494 May 19 01:37 packages-stable/noccur-readme.txt

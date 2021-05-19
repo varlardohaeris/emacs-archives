@@ -1,0 +1,11 @@
+Package: helm-directory
+Fetcher: github
+Source:  https://github.com/masasam/emacs-helm-directory.git
+
+Updating /mnt/store/melpa/working/helm-directory/
+Built helm-directory in 3.856s, finished at Wed May 19 04:40:09 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.5K May 19 04:40 packages-stable/helm-directory-0.6.4.el
+4.0K -rw-r--r-- 1 root root  336 May 19 04:40 packages-stable/helm-directory-0.6.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-directory-badge.svg
+4.0K -rw-r--r-- 1 root root  327 May 19 04:40 packages-stable/helm-directory-readme.txt

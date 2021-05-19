@@ -1,0 +1,7 @@
+Package: anki-vocabulary
+Fetcher: github
+Source:  https://github.com/lujun9972/anki-vocabulary.el.git
+
+Updating /mnt/store/melpa/working/anki-vocabulary/
+...bulary-20200103.325.el locked by root@bcca3c14... (pid 9522): (s, q, p, ?)? 
+Cannot resolve lock conflict in batch mode

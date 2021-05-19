@@ -1,0 +1,6 @@
+Package: strie
+Fetcher: github
+Source:  https://github.com/jcatw/strie.el.git
+
+Updating /mnt/store/melpa/working/strie/
+No valid stable versions found for strie

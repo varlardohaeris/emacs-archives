@@ -1,1 +1,1 @@
-This is the dark variant of purp.
+; This is the dark variant of purp.

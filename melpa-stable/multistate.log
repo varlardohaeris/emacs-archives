@@ -1,0 +1,6 @@
+Package: multistate
+Fetcher: gitlab
+Source:  https://gitlab.com/matsievskiysv/multistate.git
+
+Updating /mnt/store/melpa/working/multistate/
+No valid stable versions found for multistate

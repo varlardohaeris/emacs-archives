@@ -1,0 +1,6 @@
+Package: find-things-fast
+Fetcher: github
+Source:  https://github.com/eglaysher/find-things-fast.git
+
+Updating /mnt/store/melpa/working/find-things-fast/
+No valid stable versions found for find-things-fast

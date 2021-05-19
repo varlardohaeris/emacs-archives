@@ -1,0 +1,24 @@
+Package: edit-color-stamp
+Fetcher: github
+Source:  https://github.com/sabof/edit-color-stamp.git
+
+Updating /mnt/store/melpa/working/edit-color-stamp/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/edit-color-stamp/
+  to /tmp/edit-color-stampT3i4kA/edit-color-stamp-20130529.1733
+    edit-color-stamp.el -> edit-color-stamp.el
+    qt_color_picker/qt_color_picker.pro -> qt_color_picker/qt_color_picker.pro
+    qt_color_picker/main.cpp -> qt_color_picker/main.cpp
+Created edit-color-stamp-20130529.1733.tar containing:
+  edit-color-stamp-20130529.1733/
+  edit-color-stamp-20130529.1733/edit-color-stamp-pkg.el
+  edit-color-stamp-20130529.1733/edit-color-stamp.el
+  edit-color-stamp-20130529.1733/qt_color_picker/
+  edit-color-stamp-20130529.1733/qt_color_picker/main.cpp
+  edit-color-stamp-20130529.1733/qt_color_picker/qt_color_picker.pro
+Built edit-color-stamp in 3.959s, finished at Wed May 19 03:13:48 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  358 May 19 03:13 packages/edit-color-stamp-20130529.1733.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 03:13 packages/edit-color-stamp-20130529.1733.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:13 packages/edit-color-stamp-badge.svg
+4.0K -rw-r--r-- 1 root root  445 May 19 03:13 packages/edit-color-stamp-readme.txt

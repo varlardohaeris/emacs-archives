@@ -1,0 +1,11 @@
+Package: zel
+Fetcher: github
+Source:  https://github.com/rudolfochrist/zel.git
+
+Updating /mnt/store/melpa/working/zel/
+Built zel in 3.011s, finished at Wed May 19 01:56:38 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.6K May 19 01:56 packages-stable/zel-0.1.2.el
+4.0K -rw-r--r-- 1 root root  421 May 19 01:56 packages-stable/zel-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zel-badge.svg
+4.0K -rw-r--r-- 1 root root 2.3K May 19 01:56 packages-stable/zel-readme.txt

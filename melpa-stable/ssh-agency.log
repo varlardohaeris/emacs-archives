@@ -1,0 +1,11 @@
+Package: ssh-agency
+Fetcher: github
+Source:  https://github.com/magit/ssh-agency.git
+
+Updating /mnt/store/melpa/working/ssh-agency/
+Built ssh-agency in 2.720s, finished at Wed May 19 01:50:14 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 01:50 packages-stable/ssh-agency-0.4.1.el
+4.0K -rw-r--r-- 1 root root  403 May 19 01:50 packages-stable/ssh-agency-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/ssh-agency-badge.svg
+4.0K -rw-r--r-- 1 root root  362 May 19 01:50 packages-stable/ssh-agency-readme.txt

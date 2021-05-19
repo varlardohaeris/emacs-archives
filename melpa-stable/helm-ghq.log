@@ -1,0 +1,11 @@
+Package: helm-ghq
+Fetcher: github
+Source:  https://github.com/masutaka/emacs-helm-ghq.git
+
+Updating /mnt/store/melpa/working/helm-ghq/
+Built helm-ghq in 2.890s, finished at Wed May 19 04:40:23 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.5K May 19 04:40 packages-stable/helm-ghq-1.8.0.el
+4.0K -rw-r--r-- 1 root root  365 May 19 04:40 packages-stable/helm-ghq-1.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-ghq-badge.svg
+4.0K -rw-r--r-- 1 root root   48 May 19 04:40 packages-stable/helm-ghq-readme.txt

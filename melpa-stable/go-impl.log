@@ -1,0 +1,11 @@
+Package: go-impl
+Fetcher: github
+Source:  https://github.com/emacsorphanage/go-impl.git
+
+Updating /mnt/store/melpa/working/go-impl/
+Built go-impl in 3.605s, finished at Wed May 19 04:38:01 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K May 19 04:38 packages-stable/go-impl-0.14.el
+4.0K -rw-r--r-- 1 root root  347 May 19 04:38 packages-stable/go-impl-0.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/go-impl-badge.svg
+4.0K -rw-r--r-- 1 root root   59 May 19 04:38 packages-stable/go-impl-readme.txt

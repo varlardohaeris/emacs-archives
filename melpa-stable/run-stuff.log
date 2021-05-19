@@ -1,0 +1,6 @@
+Package: run-stuff
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-run-stuff.git
+
+Updating /mnt/store/melpa/working/run-stuff/
+No valid stable versions found for run-stuff

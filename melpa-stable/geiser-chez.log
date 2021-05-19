@@ -1,0 +1,24 @@
+Package: geiser-chez
+Fetcher: gitlab
+Source:  https://gitlab.com/emacs-geiser/chez.git
+
+Updating /mnt/store/melpa/working/geiser-chez/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/geiser-chez/
+  to /tmp/geiser-chezEk9XQN/geiser-chez-0.16
+    geiser-chez.el -> geiser-chez.el
+    src/geiser => src/geiser
+Created geiser-chez-0.16.tar containing:
+  geiser-chez-0.16/
+  geiser-chez-0.16/geiser-chez-pkg.el
+  geiser-chez-0.16/geiser-chez.el
+  geiser-chez-0.16/src/
+  geiser-chez-0.16/src/geiser/
+  geiser-chez-0.16/src/geiser/geiser.ss
+  geiser-chez-0.16/src/geiser/test.ss
+Built geiser-chez in 2.817s, finished at Wed May 19 04:36:44 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  435 May 19 04:36 packages-stable/geiser-chez-0.16.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:36 packages-stable/geiser-chez-0.16.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-chez-badge.svg
+4.0K -rw-r--r-- 1 root root   57 May 19 04:36 packages-stable/geiser-chez-readme.txt

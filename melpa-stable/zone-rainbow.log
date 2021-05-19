@@ -1,0 +1,6 @@
+Package: zone-rainbow
+Fetcher: github
+Source:  https://github.com/kawabata/zone-rainbow.git
+
+Updating /mnt/store/melpa/working/zone-rainbow/
+No valid stable versions found for zone-rainbow

@@ -1,0 +1,11 @@
+Package: org-mru-clock
+Fetcher: github
+Source:  https://github.com/unhammer/org-mru-clock.git
+
+Updating /mnt/store/melpa/working/org-mru-clock/
+Built org-mru-clock in 3.200s, finished at Wed May 19 01:39:35 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 01:39 packages-stable/org-mru-clock-0.4.4.el
+4.0K -rw-r--r-- 1 root root  417 May 19 01:39 packages-stable/org-mru-clock-0.4.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-mru-clock-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 01:39 packages-stable/org-mru-clock-readme.txt

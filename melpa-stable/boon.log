@@ -1,0 +1,50 @@
+Package: boon
+Fetcher: github
+Source:  https://github.com/jyp/boon.git
+
+Updating /mnt/store/melpa/working/boon/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/boon/
+  to /tmp/booniPAK83/boon-1.1
+    boon-arguments.el -> boon-arguments.el
+    boon-colemak.el -> boon-colemak.el
+    boon-core.el -> boon-core.el
+    boon-keys.el -> boon-keys.el
+    boon-main.el -> boon-main.el
+    boon-moves.el -> boon-moves.el
+    boon-pkg.el -> boon-pkg.el
+    boon-powerline.el -> boon-powerline.el
+    boon-qwerty.el -> boon-qwerty.el
+    boon-qwertz.el -> boon-qwertz.el
+    boon-regs.el -> boon-regs.el
+    boon-search.el -> boon-search.el
+    boon-spaceline.el -> boon-spaceline.el
+    boon-tutorial.el -> boon-tutorial.el
+    boon-utils.el -> boon-utils.el
+    boon-workman.el -> boon-workman.el
+    boon.el -> boon.el
+Created boon-1.1.tar containing:
+  boon-1.1/
+  boon-1.1/boon-arguments.el
+  boon-1.1/boon-colemak.el
+  boon-1.1/boon-core.el
+  boon-1.1/boon-keys.el
+  boon-1.1/boon-main.el
+  boon-1.1/boon-moves.el
+  boon-1.1/boon-pkg.el
+  boon-1.1/boon-powerline.el
+  boon-1.1/boon-qwerty.el
+  boon-1.1/boon-qwertz.el
+  boon-1.1/boon-regs.el
+  boon-1.1/boon-search.el
+  boon-1.1/boon-spaceline.el
+  boon-1.1/boon-tutorial.el
+  boon-1.1/boon-utils.el
+  boon-1.1/boon-workman.el
+  boon-1.1/boon.el
+Built boon in 5.568s, finished at Wed May 19 04:21:35 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  237 May 19 04:21 packages-stable/boon-1.1.entry
+132K -rw-r--r-- 1 root root 130K May 19 04:21 packages-stable/boon-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/boon-badge.svg
+4.0K -rw-r--r-- 1 root root  211 May 19 04:21 packages-stable/boon-readme.txt

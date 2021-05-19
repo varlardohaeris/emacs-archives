@@ -1,0 +1,6 @@
+Package: pipenv
+Fetcher: github
+Source:  https://github.com/pwalsh/pipenv.el.git
+
+Updating /mnt/store/melpa/working/pipenv/
+No valid stable versions found for pipenv

@@ -1,3 +1,4 @@
+
 This plugin was an answer to the lack of proper multiple cursor support in
 Emacs+evil. It allows you to select and edit matches interactively,
 integrating `iedit-mode' into evil-mode with an attempt at sensible defaults.
@@ -6,7 +7,7 @@ Since then, [evil-mc] has matured, and now that I use both I've found they
 can coexist, filling different niches, complimenting evil's built-in
 column/line-wise editing operations.
 
-Usage
+; Usage
 
 Evil-multiedit does not automatically bind any keys. Call
 `evil-multiedit-default-keybinds' to bind my recommended configuration:

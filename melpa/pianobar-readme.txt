@@ -9,7 +9,7 @@ find it, you can find it on GitHub at <http://github.com/agrif/pianobar.el>.
 Suggestions, improvements, and bug reports are welcome. This is a
 *very* early version, so expect there to be many!
 
-Installation:
+; Installation:
 
 Installation instructions:
 

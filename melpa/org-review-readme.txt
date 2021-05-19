@@ -1,3 +1,4 @@
+
 This allows to schedule reviews of org entries.
 
 Entries will be scheduled for review if their NEXT_REVIEW or their
@@ -37,7 +38,7 @@ Example use.
   (add-hook 'org-agenda-mode-hook (lambda () (local-set-key (kbd "C-c
        C-r") 'org-review-insert-last-review)))
 
-Changes
+; Changes
 
 2016-08-18: better detection of org-agenda buffers
 2014-05-08: added the ability to specify next review dates

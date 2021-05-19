@@ -1,0 +1,6 @@
+Package: leaf-defaults
+Fetcher: github
+Source:  https://github.com/conao3/leaf-defaults.el.git
+
+Updating /mnt/store/melpa/working/leaf-defaults/
+No valid stable versions found for leaf-defaults

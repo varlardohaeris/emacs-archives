@@ -1,0 +1,6 @@
+Package: basic-theme
+Fetcher: github
+Source:  https://github.com/fgeller/basic-theme.el.git
+
+Updating /mnt/store/melpa/working/basic-theme/
+No valid stable versions found for basic-theme

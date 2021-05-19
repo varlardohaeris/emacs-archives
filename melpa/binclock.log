@@ -1,0 +1,11 @@
+Package: binclock
+Fetcher: github
+Source:  https://github.com/davep/binclock.el.git
+
+Updating /mnt/store/melpa/working/binclock/
+Built binclock in 9.198s, finished at Wed May 19 03:02:13 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.6K May 19 03:02 packages/binclock-20170802.1116.el
+4.0K -rw-r--r-- 1 root root  390 May 19 03:02 packages/binclock-20170802.1116.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:02 packages/binclock-badge.svg
+4.0K -rw-r--r-- 1 root root   60 May 19 03:02 packages/binclock-readme.txt

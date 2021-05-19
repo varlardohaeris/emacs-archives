@@ -1,0 +1,6 @@
+Package: vc-auto-commit
+Fetcher: github
+Source:  https://github.com/thisirs/vc-auto-commit.git
+
+Updating /mnt/store/melpa/working/vc-auto-commit/
+No valid stable versions found for vc-auto-commit

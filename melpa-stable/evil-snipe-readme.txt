@@ -1,3 +1,4 @@
+
 Evil-snipe emulates vim-seek and/or vim-sneak in evil-mode.
 
 It provides 2-character motions for quickly (and more accurately) jumping around

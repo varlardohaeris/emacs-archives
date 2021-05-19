@@ -1,0 +1,6 @@
+Package: iasm-mode
+Fetcher: github
+Source:  https://github.com/RAttab/iasm-mode.git
+
+Updating /mnt/store/melpa/working/iasm-mode/
+No valid stable versions found for iasm-mode

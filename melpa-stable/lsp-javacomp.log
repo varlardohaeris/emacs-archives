@@ -1,0 +1,6 @@
+Package: lsp-javacomp
+Fetcher: github
+Source:  https://github.com/tigersoldier/lsp-javacomp.git
+
+Updating /mnt/store/melpa/working/lsp-javacomp/
+No valid stable versions found for lsp-javacomp

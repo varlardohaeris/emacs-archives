@@ -1,0 +1,6 @@
+Package: preseed-generic-mode
+Fetcher: github
+Source:  https://github.com/suntong/preseed-generic-mode.git
+
+Updating /mnt/store/melpa/working/preseed-generic-mode/
+No valid stable versions found for preseed-generic-mode

@@ -7,7 +7,7 @@
 ;; Created: 7 Apr 2001
 ;; Version: 2.0.0
 ;; Package-Version: 20200210.921
-;; Package-Commit: 1ef72cc6accd94cd7032c02b1b2c78ae7f1d1965
+;; Package-Commit: c7a188a6148f6391b6926d25b9cf191d4a8b3f42
 ;; URL: https://github.com/browse-kill-ring/browse-kill-ring
 ;; Keywords: convenience
 

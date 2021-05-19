@@ -1,3 +1,4 @@
+
 * Installation
 
 To use without using a package manager:
@@ -58,3 +59,5 @@ typically " <- ", can be customized.  In ESS modes other than R/S,
 an underscore is always inserted.
 
 In addition the ess-smart-underscore attempts to work with noweb-mode
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

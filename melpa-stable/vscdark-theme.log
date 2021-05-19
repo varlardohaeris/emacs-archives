@@ -1,0 +1,6 @@
+Package: vscdark-theme
+Fetcher: github
+Source:  https://github.com/abelikoff/vscdark-theme.git
+
+Updating /mnt/store/melpa/working/vscdark-theme/
+No valid stable versions found for vscdark-theme

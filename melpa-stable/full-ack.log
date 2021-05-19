@@ -1,0 +1,11 @@
+Package: full-ack
+Fetcher: github
+Source:  https://github.com/nschum/full-ack.git
+
+Updating /mnt/store/melpa/working/full-ack/
+Built full-ack in 2.999s, finished at Wed May 19 04:36:26 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  28K May 19 04:36 packages-stable/full-ack-1.0.el
+4.0K -rw-r--r-- 1 root root  334 May 19 04:36 packages-stable/full-ack-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/full-ack-badge.svg
+4.0K -rw-r--r-- 1 root root  714 May 19 04:36 packages-stable/full-ack-readme.txt

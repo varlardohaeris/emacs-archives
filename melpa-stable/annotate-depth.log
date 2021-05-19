@@ -1,0 +1,6 @@
+Package: annotate-depth
+Fetcher: github
+Source:  https://github.com/netromdk/annotate-depth.git
+
+Updating /mnt/store/melpa/working/annotate-depth/
+No valid stable versions found for annotate-depth

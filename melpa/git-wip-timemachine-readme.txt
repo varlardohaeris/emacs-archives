@@ -19,7 +19,7 @@ Finally, there's also `git-wip-timemachine-toggle` which does exactly
 what its name suggests: If the timemachine is on, calling this command
 will turn it off (and vice versa).
 
-Installation
+; Installation
 
 1. If you haven't already, set up `git-wip`:
 

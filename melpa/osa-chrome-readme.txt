@@ -1,3 +1,4 @@
+
 osa-chrome.el is an Emacs Mac port interface to Google Chrome.
 
 The current focus is on ultra-fast tab manipulation that scales to huge

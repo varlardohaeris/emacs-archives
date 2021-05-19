@@ -1,0 +1,11 @@
+Package: flymake-pest
+Fetcher: github
+Source:  https://github.com/ksqsf/pest-mode.git
+
+Updating /mnt/store/melpa/working/flymake-pest/
+Built flymake-pest in 2.977s, finished at Wed May 19 04:35:40 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.2K May 19 04:35 packages-stable/flymake-pest-0.1.0.el
+4.0K -rw-r--r-- 1 root root  410 May 19 04:35 packages-stable/flymake-pest-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-pest-badge.svg
+4.0K -rw-r--r-- 1 root root  272 May 19 04:35 packages-stable/flymake-pest-readme.txt

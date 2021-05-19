@@ -1,0 +1,6 @@
+Package: kaomoji
+Fetcher: github
+Source:  https://github.com/kuanyui/kaomoji.el.git
+
+Updating /mnt/store/melpa/working/kaomoji/
+No valid stable versions found for kaomoji

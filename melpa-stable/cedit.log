@@ -1,0 +1,6 @@
+Package: cedit
+Fetcher: github
+Source:  https://github.com/zk-phi/cedit.git
+
+Updating /mnt/store/melpa/working/cedit/
+No valid stable versions found for cedit

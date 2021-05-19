@@ -1,0 +1,6 @@
+Package: logpad
+Fetcher: github
+Source:  https://github.com/dertuxmalwieder/logpad.el.git
+
+Updating /mnt/store/melpa/working/logpad/
+No valid stable versions found for logpad

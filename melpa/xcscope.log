@@ -1,0 +1,11 @@
+Package: xcscope
+Fetcher: github
+Source:  https://github.com/dkogan/xcscope.el.git
+
+Updating /mnt/store/melpa/working/xcscope/
+Built xcscope in 9.650s, finished at Wed May 19 04:16:30 2021
+ ✓ Success:
+120K -rw-r--r-- 1 root root 119K May 19 04:16 packages/xcscope-20201025.2002.el
+4.0K -rw-r--r-- 1 root root  384 May 19 04:16 packages/xcscope-20201025.2002.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:16 packages/xcscope-badge.svg
+ 20K -rw-r--r-- 1 root root  20K May 19 04:16 packages/xcscope-readme.txt

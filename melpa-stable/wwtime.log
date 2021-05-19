@@ -1,0 +1,6 @@
+Package: wwtime
+Fetcher: github
+Source:  https://github.com/ndw/wwtime.git
+
+Updating /mnt/store/melpa/working/wwtime/
+No valid stable versions found for wwtime

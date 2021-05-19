@@ -1,0 +1,6 @@
+Package: learn-ocaml
+Fetcher: github
+Source:  https://github.com/pfitaxel/learn-ocaml.el.git
+
+Updating /mnt/store/melpa/working/learn-ocaml/
+No valid stable versions found for learn-ocaml

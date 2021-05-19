@@ -1,0 +1,6 @@
+Package: flycheck-clang-analyzer
+Fetcher: github
+Source:  https://github.com/alexmurray/flycheck-clang-analyzer.git
+
+Updating /mnt/store/melpa/working/flycheck-clang-analyzer/
+No valid stable versions found for flycheck-clang-analyzer

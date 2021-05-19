@@ -1,0 +1,6 @@
+Package: ob-applescript
+Fetcher: github
+Source:  https://github.com/stig/ob-applescript.el.git
+
+Updating /mnt/store/melpa/working/ob-applescript/
+No valid stable versions found for ob-applescript

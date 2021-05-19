@@ -1,0 +1,11 @@
+Package: journalctl-mode
+Fetcher: github
+Source:  https://github.com/SebastianMeisel/journalctl-mode.git
+
+Updating /mnt/store/melpa/working/journalctl-mode/
+Built journalctl-mode in 7.096s, finished at Wed May 19 04:44:50 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:44 packages-stable/journalctl-mode-0.8.el
+4.0K -rw-r--r-- 1 root root  415 May 19 04:44 packages-stable/journalctl-mode-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/journalctl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  389 May 19 04:44 packages-stable/journalctl-mode-readme.txt

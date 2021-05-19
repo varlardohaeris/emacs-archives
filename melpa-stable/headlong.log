@@ -1,0 +1,6 @@
+Package: headlong
+Fetcher: github
+Source:  https://github.com/abo-abo/headlong.git
+
+Updating /mnt/store/melpa/working/headlong/
+No valid stable versions found for headlong

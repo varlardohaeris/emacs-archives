@@ -1,2 +1,12 @@
-
-(multitran . [(0 4 10) ((emacs (24)) (cl-lib (0 5))) "Interface to multitran" single ((:commit . "258b1232af6680396b6c0912597ed52e583326f4") (:keywords "dictionary" "hypermedia") (:authors ("Zajcev Evgeny" . "zevlg@yandex.ru")) (:maintainer "Zajcev Evgeny" . "zevlg@yandex.ru"))])
+(multitran .
+	   [(0 4 10)
+	    ((emacs
+	      (24))
+	     (cl-lib
+	      (0 5)))
+	    "Interface to multitran" single
+	    ((:commit . "258b1232af6680396b6c0912597ed52e583326f4")
+	     (:authors
+	      ("Zajcev Evgeny" . "zevlg@yandex.ru"))
+	     (:maintainer "Zajcev Evgeny" . "zevlg@yandex.ru")
+	     (:keywords "dictionary" "hypermedia"))])

@@ -1,0 +1,6 @@
+Package: dropbox
+Fetcher: github
+Source:  https://github.com/pavpanchekha/dropbox.el.git
+
+Updating /mnt/store/melpa/working/dropbox/
+No valid stable versions found for dropbox

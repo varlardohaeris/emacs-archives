@@ -1,0 +1,6 @@
+Package: seti-theme
+Fetcher: github
+Source:  https://github.com/caisah/seti-theme.git
+
+Updating /mnt/store/melpa/working/seti-theme/
+No valid stable versions found for seti-theme

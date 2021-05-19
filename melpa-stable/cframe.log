@@ -1,0 +1,11 @@
+Package: cframe
+Fetcher: github
+Source:  https://github.com/plandes/cframe.git
+
+Updating /mnt/store/melpa/working/cframe/
+Built cframe in 3.157s, finished at Wed May 19 04:22:58 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:22 packages-stable/cframe-0.4.el
+4.0K -rw-r--r-- 1 root root  354 May 19 04:22 packages-stable/cframe-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cframe-badge.svg
+4.0K -rw-r--r-- 1 root root  979 May 19 04:22 packages-stable/cframe-readme.txt

@@ -1,0 +1,12 @@
+Package: git-gutter-fringe+
+Fetcher: github
+Source:  https://github.com/nonsequitur/git-gutter-fringe-plus.git
+
+Updating /mnt/store/melpa/working/git-gutter-fringe+/
+Note: git-gutter-fringe+ :files spec is equivalent to the default.
+Built git-gutter-fringe+ in 2.983s, finished at Wed May 19 04:37:16 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K May 19 04:37 packages-stable/git-gutter-fringe+-0.1.el
+4.0K -rw-r--r-- 1 root root  438 May 19 04:37 packages-stable/git-gutter-fringe+-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-gutter-fringe+-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:37 packages-stable/git-gutter-fringe+-readme.txt

@@ -1,0 +1,6 @@
+Package: achievements
+Fetcher: gitlab
+Source:  https://gitlab.com/gvol/emacs-achievements.git
+
+Updating /mnt/store/melpa/working/achievements/
+No valid stable versions found for achievements

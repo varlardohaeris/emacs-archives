@@ -1,3 +1,4 @@
+
 -*- mode: org -*-
 * Description
 
@@ -7,7 +8,7 @@ with the following commands.
 - M-x toggle-input-method + math-symbols-tex
 - M-x math-symbols-from-tex-region
 - M-x math-symbols-insert
-- M-x math-symbols-helm
+- M-x math-symbols-ivy
 
 Also, you can convert character to TeX names by the following command.
 - M-x math-symbols-to-tex-region

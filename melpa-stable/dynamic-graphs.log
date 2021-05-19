@@ -1,0 +1,6 @@
+Package: dynamic-graphs
+Fetcher: github
+Source:  https://github.com/zellerin/dynamic-graphs.git
+
+Updating /mnt/store/melpa/working/dynamic-graphs/
+No valid stable versions found for dynamic-graphs

@@ -1,0 +1,11 @@
+Package: evil-ruby-text-objects
+Fetcher: github
+Source:  https://github.com/porras/evil-ruby-text-objects.git
+
+Updating /mnt/store/melpa/working/evil-ruby-text-objects/
+Built evil-ruby-text-objects in 3.330s, finished at Wed May 19 04:32:34 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.3K May 19 04:32 packages-stable/evil-ruby-text-objects-0.2.0.el
+4.0K -rw-r--r-- 1 root root  410 May 19 04:32 packages-stable/evil-ruby-text-objects-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-ruby-text-objects-badge.svg
+4.0K -rw-r--r-- 1 root root  139 May 19 04:32 packages-stable/evil-ruby-text-objects-readme.txt

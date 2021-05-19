@@ -1,0 +1,23 @@
+Package: r-autoyas
+Fetcher: github
+Source:  https://github.com/mattfidler/r-autoyas.el.git
+
+Updating /mnt/store/melpa/working/r-autoyas/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/r-autoyas/
+  to /tmp/r-autoyase0Oz7C/r-autoyas-0.28
+    r-autoyas.el -> r-autoyas.el
+    r-autoyas.texi -> r-autoyas.texi
+Created /tmp/r-autoyase0Oz7C/r-autoyas-0.28/r-autoyas.info
+Created r-autoyas-0.28.tar containing:
+  r-autoyas-0.28/
+  r-autoyas-0.28/dir
+  r-autoyas-0.28/r-autoyas-pkg.el
+  r-autoyas-0.28/r-autoyas.el
+  r-autoyas-0.28/r-autoyas.info
+Built r-autoyas in 6.905s, finished at Wed May 19 01:45:22 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  368 May 19 01:45 packages-stable/r-autoyas-0.28.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 01:45 packages-stable/r-autoyas-0.28.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/r-autoyas-badge.svg
+4.0K -rw-r--r-- 1 root root   71 May 19 01:45 packages-stable/r-autoyas-readme.txt

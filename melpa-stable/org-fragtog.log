@@ -1,0 +1,11 @@
+Package: org-fragtog
+Fetcher: github
+Source:  https://github.com/io12/org-fragtog.git
+
+Updating /mnt/store/melpa/working/org-fragtog/
+Built org-fragtog in 2.731s, finished at Wed May 19 01:39:18 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K May 19 01:39 packages-stable/org-fragtog-0.3.2.el
+4.0K -rw-r--r-- 1 root root  376 May 19 01:39 packages-stable/org-fragtog-0.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-fragtog-badge.svg
+4.0K -rw-r--r-- 1 root root  183 May 19 01:39 packages-stable/org-fragtog-readme.txt

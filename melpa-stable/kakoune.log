@@ -1,0 +1,6 @@
+Package: kakoune
+Fetcher: github
+Source:  https://github.com/jmorag/kakoune.el.git
+
+Updating /mnt/store/melpa/working/kakoune/
+No valid stable versions found for kakoune

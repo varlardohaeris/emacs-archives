@@ -1,0 +1,6 @@
+Package: ellocate
+Fetcher: github
+Source:  https://github.com/walseb/ellocate.git
+
+Updating /mnt/store/melpa/working/ellocate/
+No valid stable versions found for ellocate

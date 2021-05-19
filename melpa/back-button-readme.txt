@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'back-button)
@@ -152,7 +153,7 @@ TODO
     which purports to do this, but it doesn't do the hard part of
     classifying all commands.
 
-License
+; License
 
 Simplified BSD License:
 

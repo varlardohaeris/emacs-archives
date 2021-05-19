@@ -1,0 +1,6 @@
+Package: vale-mode
+Fetcher: github
+Source:  https://github.com/jaybosamiya/vale-mode.el.git
+
+Updating /mnt/store/melpa/working/vale-mode/
+No valid stable versions found for vale-mode

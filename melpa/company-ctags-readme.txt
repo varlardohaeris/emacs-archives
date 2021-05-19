@@ -37,3 +37,5 @@ file created by etags.  But it will increase initial loading time.
 - Make sure CLI program diff is executable on Windows.
 It's optional but highly recommended.  It can speed up tags file updating.
 This package uses diff through variable `diff-command'.
+
+- `company-ctags-debug-info' for debugging.

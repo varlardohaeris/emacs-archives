@@ -1,0 +1,6 @@
+Package: mu4e-jump-to-list
+Fetcher: gitlab
+Source:  https://gitlab.com/wavexx/mu4e-jump-to-list.el.git
+
+Updating /mnt/store/melpa/working/mu4e-jump-to-list/
+No valid stable versions found for mu4e-jump-to-list

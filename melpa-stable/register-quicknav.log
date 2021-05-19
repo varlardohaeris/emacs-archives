@@ -1,0 +1,11 @@
+Package: register-quicknav
+Fetcher: git
+Source:  https://schlomp.space/tastytea/register-quicknav.git
+
+Updating /mnt/store/melpa/working/register-quicknav/
+Built register-quicknav in 7.918s, finished at Wed May 19 01:46:22 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:46 packages-stable/register-quicknav-0.4.3.el
+4.0K -rw-r--r-- 1 root root  406 May 19 01:46 packages-stable/register-quicknav-0.4.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/register-quicknav-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K May 19 01:46 packages-stable/register-quicknav-readme.txt

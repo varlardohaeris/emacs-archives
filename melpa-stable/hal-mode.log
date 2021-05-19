@@ -1,0 +1,6 @@
+Package: hal-mode
+Fetcher: github
+Source:  https://github.com/machinekoder/hal-mode.git
+
+Updating /mnt/store/melpa/working/hal-mode/
+No valid stable versions found for hal-mode

@@ -1,0 +1,6 @@
+Package: sclang-snippets
+Fetcher: github
+Source:  https://github.com/ptrv/sclang-snippets.git
+
+Updating /mnt/store/melpa/working/sclang-snippets/
+No valid stable versions found for sclang-snippets

@@ -1,0 +1,11 @@
+Package: insert-esv
+Fetcher: github
+Source:  https://github.com/sam030820/insert-esv.git
+
+Updating /mnt/store/melpa/working/insert-esv/
+Built insert-esv in 3.412s, finished at Wed May 19 04:43:28 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K May 19 04:43 packages-stable/insert-esv-0.1.0.el
+4.0K -rw-r--r-- 1 root root  342 May 19 04:43 packages-stable/insert-esv-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/insert-esv-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:43 packages-stable/insert-esv-readme.txt

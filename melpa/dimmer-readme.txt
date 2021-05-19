@@ -1,3 +1,4 @@
+
 This module provides a minor mode that indicates which buffer is
 currently active by dimming the faces in the other buffers.  It
 does this nondestructively, and computes the dimmed faces

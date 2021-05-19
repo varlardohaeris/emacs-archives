@@ -1,3 +1,4 @@
+
 This package contains a major mode for editing APT’s “.list” files.
 
 The “/etc/apt/sources.list” file and other files in

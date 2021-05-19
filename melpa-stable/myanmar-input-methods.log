@@ -1,0 +1,6 @@
+Package: myanmar-input-methods
+Fetcher: github
+Source:  https://github.com/yelinkyaw/emacs-myanmar-input-methods.git
+
+Updating /mnt/store/melpa/working/myanmar-input-methods/
+No valid stable versions found for myanmar-input-methods

@@ -1,7 +1,7 @@
 This packages integrates cstyle with flycheck to automatically check the
 style of your C/C++ code on the fly.
 
-Setup
+;; Setup
 
 (eval-after-load 'flycheck
   '(progn

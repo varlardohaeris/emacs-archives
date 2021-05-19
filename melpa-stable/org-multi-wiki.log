@@ -1,0 +1,11 @@
+Package: org-multi-wiki
+Fetcher: github
+Source:  https://github.com/akirak/org-multi-wiki.git
+
+Updating /mnt/store/melpa/working/org-multi-wiki/
+Built org-multi-wiki in 3.241s, finished at Wed May 19 01:39:37 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  30K May 19 01:39 packages-stable/org-multi-wiki-0.4.0.el
+4.0K -rw-r--r-- 1 root root  478 May 19 01:39 packages-stable/org-multi-wiki-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-multi-wiki-badge.svg
+4.0K -rw-r--r-- 1 root root  179 May 19 01:39 packages-stable/org-multi-wiki-readme.txt

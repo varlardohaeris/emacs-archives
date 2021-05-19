@@ -1,3 +1,4 @@
+
 Emacs Helm interface for pass, the standard Unix password manager
 
 Users of helm-pass may also be interested in functionality provided by other

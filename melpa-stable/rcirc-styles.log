@@ -1,0 +1,11 @@
+Package: rcirc-styles
+Fetcher: github
+Source:  https://github.com/aaron-em/rcirc-styles.el.git
+
+Updating /mnt/store/melpa/working/rcirc-styles/
+Built rcirc-styles in 3.605s, finished at Wed May 19 01:45:34 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  24K May 19 01:45 packages-stable/rcirc-styles-1.3.2.el
+4.0K -rw-r--r-- 1 root root  189 May 19 01:45 packages-stable/rcirc-styles-1.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rcirc-styles-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K May 19 01:45 packages-stable/rcirc-styles-readme.txt

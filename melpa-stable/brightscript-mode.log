@@ -1,0 +1,11 @@
+Package: brightscript-mode
+Fetcher: github
+Source:  https://github.com/viseztrance/brightscript-mode.git
+
+Updating /mnt/store/melpa/working/brightscript-mode/
+Built brightscript-mode in 5.982s, finished at Wed May 19 04:21:52 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.2K May 19 04:21 packages-stable/brightscript-mode-1.0.0.el
+4.0K -rw-r--r-- 1 root root  409 May 19 04:21 packages-stable/brightscript-mode-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/brightscript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  150 May 19 04:21 packages-stable/brightscript-mode-readme.txt

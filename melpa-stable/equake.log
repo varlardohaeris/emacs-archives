@@ -1,0 +1,6 @@
+Package: equake
+Fetcher: gitlab
+Source:  https://gitlab.com/emacsomancer/equake.git
+
+Updating /mnt/store/melpa/working/equake/
+No valid stable versions found for equake

@@ -1,0 +1,6 @@
+Package: simple-rtm
+Fetcher: gitlab
+Source:  https://gitlab.com/mbunkus/simple-rtm.git
+
+Updating /mnt/store/melpa/working/simple-rtm/
+No valid stable versions found for simple-rtm

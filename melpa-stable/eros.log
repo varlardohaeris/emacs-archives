@@ -1,0 +1,6 @@
+Package: eros
+Fetcher: github
+Source:  https://github.com/xiongtx/eros.git
+
+Updating /mnt/store/melpa/working/eros/
+No valid stable versions found for eros

@@ -3,7 +3,7 @@ You can jump to or read the documentation for the method, module (jump only),
 
 ElDoc support and constant and method completion are also provided.
 
-Usage
+; Usage
 
 (add-hook 'ruby-mode-hook 'robe-mode)
 

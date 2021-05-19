@@ -1,0 +1,6 @@
+Package: demo-it
+Fetcher: github
+Source:  https://github.com/howardabrams/demo-it.git
+
+Updating /mnt/store/melpa/working/demo-it/
+No valid stable versions found for demo-it

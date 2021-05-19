@@ -1,0 +1,11 @@
+Package: play-routes-mode
+Fetcher: github
+Source:  https://github.com/brocode/play-routes-mode.git
+
+Updating /mnt/store/melpa/working/play-routes-mode/
+Built play-routes-mode in 2.803s, finished at Wed May 19 01:43:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.9K May 19 01:43 packages-stable/play-routes-mode-1.0.el
+4.0K -rw-r--r-- 1 root root  421 May 19 01:43 packages-stable/play-routes-mode-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/play-routes-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   61 May 19 01:43 packages-stable/play-routes-mode-readme.txt

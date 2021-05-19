@@ -1,0 +1,6 @@
+Package: mustard-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-mustard-theme.git
+
+Updating /mnt/store/melpa/working/mustard-theme/
+No valid stable versions found for mustard-theme

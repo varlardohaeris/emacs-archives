@@ -1,0 +1,6 @@
+Package: company-tabnine
+Fetcher: github
+Source:  https://github.com/TommyX12/company-tabnine.git
+
+Updating /mnt/store/melpa/working/company-tabnine/
+No valid stable versions found for company-tabnine

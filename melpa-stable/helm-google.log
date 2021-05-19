@@ -1,0 +1,6 @@
+Package: helm-google
+Fetcher: git
+Source:  https://framagit.org/steckerhalter/helm-google.git
+
+Updating /mnt/store/melpa/working/helm-google/
+No valid stable versions found for helm-google

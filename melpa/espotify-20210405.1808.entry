@@ -1,0 +1,11 @@
+(espotify .
+	  [(20210405 1808)
+	   ((emacs
+	     (26 1)))
+	   "Spotify access library" single
+	   ((:commit . "22b81067ebcaef2cea633f967a4b55454af9326a")
+	    (:authors
+	     ("Jose A Ortega Ruiz" . "jao@gnu.org"))
+	    (:maintainer "Jose A Ortega Ruiz")
+	    (:keywords "multimedia")
+	    (:url . "https://codeberg.org/jao/espotify"))])

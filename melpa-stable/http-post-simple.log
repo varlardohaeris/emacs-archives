@@ -1,0 +1,6 @@
+Package: http-post-simple
+Fetcher: github
+Source:  https://github.com/emacsorphanage/http-post-simple.git
+
+Updating /mnt/store/melpa/working/http-post-simple/
+No valid stable versions found for http-post-simple

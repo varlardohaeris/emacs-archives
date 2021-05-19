@@ -1,0 +1,6 @@
+Package: detour
+Fetcher: github
+Source:  https://github.com/ska2342/detour.git
+
+Updating /mnt/store/melpa/working/detour/
+No valid stable versions found for detour

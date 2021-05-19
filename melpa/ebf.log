@@ -1,0 +1,21 @@
+Package: ebf
+Fetcher: github
+Source:  https://github.com/rexim/ebf.git
+
+Updating /mnt/store/melpa/working/ebf/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ebf/
+  to /tmp/ebf0KcIZc/ebf-20210225.1211
+    ebf-helpers.el -> ebf-helpers.el
+    ebf.el -> ebf.el
+Created ebf-20210225.1211.tar containing:
+  ebf-20210225.1211/
+  ebf-20210225.1211/ebf-helpers.el
+  ebf-20210225.1211/ebf-pkg.el
+  ebf-20210225.1211/ebf.el
+Built ebf in 8.555s, finished at Wed May 19 03:13:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  366 May 19 03:13 packages/ebf-20210225.1211.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 03:13 packages/ebf-20210225.1211.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:13 packages/ebf-badge.svg
+4.0K -rw-r--r-- 1 root root   65 May 19 03:13 packages/ebf-readme.txt

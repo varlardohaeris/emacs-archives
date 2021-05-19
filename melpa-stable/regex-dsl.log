@@ -1,0 +1,6 @@
+Package: regex-dsl
+Fetcher: github
+Source:  https://github.com/alk/elisp-regex-dsl.git
+
+Updating /mnt/store/melpa/working/regex-dsl/
+No valid stable versions found for regex-dsl

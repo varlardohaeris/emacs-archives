@@ -1,0 +1,6 @@
+Package: arduino-cli-mode
+Fetcher: github
+Source:  https://github.com/motform/arduino-cli-mode.git
+
+Updating /mnt/store/melpa/working/arduino-cli-mode/
+No valid stable versions found for arduino-cli-mode

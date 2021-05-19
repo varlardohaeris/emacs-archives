@@ -1,0 +1,6 @@
+Package: riscv-mode
+Fetcher: github
+Source:  https://github.com/AdamNiederer/riscv-mode.git
+
+Updating /mnt/store/melpa/working/riscv-mode/
+No valid stable versions found for riscv-mode

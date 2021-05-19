@@ -1,0 +1,25 @@
+Package: jedi-core
+Fetcher: github
+Source:  https://github.com/tkf/emacs-jedi.git
+
+Updating /mnt/store/melpa/working/jedi-core/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/jedi-core/
+  to /tmp/jedi-coreV2gqyX/jedi-core-0.2.8
+    jedi-core.el -> jedi-core.el
+    jediepcserver.py -> jediepcserver.py
+    Makefile -> Makefile
+    setup.py -> setup.py
+Created jedi-core-0.2.8.tar containing:
+  jedi-core-0.2.8/
+  jedi-core-0.2.8/Makefile
+  jedi-core-0.2.8/jedi-core-pkg.el
+  jedi-core-0.2.8/jedi-core.el
+  jedi-core-0.2.8/jediepcserver.py
+  jedi-core-0.2.8/setup.py
+Built jedi-core in 6.811s, finished at Wed May 19 04:44:27 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  398 May 19 04:44 packages-stable/jedi-core-0.2.8.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 04:44 packages-stable/jedi-core-0.2.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/jedi-core-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:44 packages-stable/jedi-core-readme.txt

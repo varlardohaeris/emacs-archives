@@ -1,3 +1,4 @@
+
 This extension provides navigation like the Vimperator Hint Mode of Firefox.
 The interface has the following flow.
  1. pop-up tip about the matched point for some action which user want.
@@ -5,21 +6,21 @@ The interface has the following flow.
 
 For more infomation, see <https://github.com/aki2o/emacs-pophint/blob/master/README.md>
 
-Dependencies:
+; Dependencies:
 
 - yaxception.el ( see <https://github.com/aki2o/yaxception> )
 - log4e.el ( see <https://github.com/aki2o/log4e> )
 
-Installation:
+; Installation:
 
 Put this to your load-path.
 And put the following lines in your .emacs or site-start.el file.
 
 (require 'pophint)
 
-Configuration:
+; Configuration:
 
-Key Binding
+;; Key Binding
 (define-key global-map (kbd "C-;") 'pophint:do-flexibly)
 (define-key global-map (kbd "C-+") 'pophint:do)
 (define-key global-map (kbd "M-;") 'pophint:redo)
@@ -27,7 +28,7 @@ Key Binding
 
 For more information, see Configuration section in <https://github.com/aki2o/emacs-pophint/wiki>
 
-Customization:
+; Customization:
 
 [EVAL] (autodoc-document-lisp-buffer :type 'user-variable :prefix "pophint:" :docstring t)
 `pophint:popup-chars'

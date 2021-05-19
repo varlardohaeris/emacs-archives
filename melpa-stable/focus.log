@@ -1,0 +1,12 @@
+Package: focus
+Fetcher: github
+Source:  https://github.com/larstvei/Focus.git
+
+Updating /mnt/store/melpa/working/focus/
+Built focus in 2.945s, finished at Wed May 19 04:35:57 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:35 packages-stable/focus-1.0.0.el
+4.0K -rw-r--r-- 1 root root  343 May 19 04:35 packages-stable/focus-1.0.0.entry
+4.0K -rw-r--r-- 1 root root  217 May 19 04:35 packages-stable/focus-autosave-mode.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/focus-badge.svg
+4.0K -rw-r--r-- 1 root root  172 May 19 04:35 packages-stable/focus-readme.txt

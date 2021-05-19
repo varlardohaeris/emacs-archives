@@ -1,0 +1,6 @@
+Package: webkit-color-picker
+Fetcher: github
+Source:  https://github.com/osener/emacs-webkit-color-picker.git
+
+Updating /mnt/store/melpa/working/webkit-color-picker/
+No valid stable versions found for webkit-color-picker

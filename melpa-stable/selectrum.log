@@ -1,0 +1,26 @@
+Package: selectrum
+Fetcher: github
+Source:  https://github.com/raxod502/selectrum.git
+
+Updating /mnt/store/melpa/working/selectrum/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/selectrum/
+  to /tmp/selectrumUlR427/selectrum-3.1
+    selectrum-helm.el -> selectrum-helm.el
+    selectrum.el -> selectrum.el
+Created selectrum-3.1.tar containing:
+  selectrum-3.1/
+  selectrum-3.1/selectrum-helm.el
+  selectrum-3.1/selectrum-pkg.el
+  selectrum-3.1/selectrum.el
+Built selectrum in 2.997s, finished at Wed May 19 01:47:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  377 May 19 01:47 packages-stable/selectrum-3.1.entry
+140K -rw-r--r-- 1 root root 140K May 19 01:47 packages-stable/selectrum-3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/selectrum-badge.svg
+ 12K -rw-r--r-- 1 root root 8.2K May 19 01:47 packages-stable/selectrum-prescient-5.1.el
+4.0K -rw-r--r-- 1 root root  462 May 19 01:47 packages-stable/selectrum-prescient-5.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:33 packages-stable/selectrum-prescient-badge.svg
+4.0K -rw-r--r-- 1 root root  287 May 19 01:47 packages-stable/selectrum-prescient-readme.txt
+4.0K -rw-r--r-- 1 root root  155 May 19 01:47 packages-stable/selectrum-prescient.log
+4.0K -rw-r--r-- 1 root root  745 May 19 01:47 packages-stable/selectrum-readme.txt

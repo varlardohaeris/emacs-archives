@@ -13,7 +13,7 @@ Launch makes it easy to do this by using your OS's built-in
 file-associations to launch the appropriate program for a particular
 file.
 
-Installation:
+; Installation:
 
 Launch is available from MELPA <http://melpa.milkbox.net/>.
 Just run \\[package-install] and install `launch'.

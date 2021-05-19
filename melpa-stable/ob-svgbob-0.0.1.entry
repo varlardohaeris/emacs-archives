@@ -1,2 +1,9 @@
-
-(ob-svgbob . [(0 0 1) nil "Babel Functions for svgbob" single ((:commit . "9a930b1ed93e5ce1818029b2ec9e7662c098dbf4") (:keywords "literate programming" "svg" "ascii") (:authors ("Marcio Giaxa" . "i@mgxm.me")) (:maintainer "Marcio Giaxa" . "i@mgxm.me") (:url . "https://github.com/mgxm/ob-svgbob"))])
+(ob-svgbob .
+	   [(0 0 1)
+	    nil "Babel Functions for svgbob" single
+	    ((:commit . "9a930b1ed93e5ce1818029b2ec9e7662c098dbf4")
+	     (:authors
+	      ("Marcio Giaxa" . "i@mgxm.me"))
+	     (:maintainer "Marcio Giaxa" . "i@mgxm.me")
+	     (:keywords "literate programming" "svg" "ascii")
+	     (:url . "https://github.com/mgxm/ob-svgbob"))])

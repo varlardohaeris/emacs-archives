@@ -1,0 +1,24 @@
+Package: neotree
+Fetcher: github
+Source:  https://github.com/jaypei/emacs-neotree.git
+
+Updating /mnt/store/melpa/working/neotree/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/neotree/
+  to /tmp/neotreeS6HXW7/neotree-0.5.2
+    neotree.el -> neotree.el
+    icons => icons
+Created neotree-0.5.2.tar containing:
+  neotree-0.5.2/
+  neotree-0.5.2/icons/
+  neotree-0.5.2/icons/close.xpm
+  neotree-0.5.2/icons/leaf.xpm
+  neotree-0.5.2/icons/open.xpm
+  neotree-0.5.2/neotree-pkg.el
+  neotree-0.5.2/neotree.el
+Built neotree in 3.104s, finished at Wed May 19 01:37:10 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  319 May 19 01:37 packages-stable/neotree-0.5.2.entry
+ 92K -rw-r--r-- 1 root root  90K May 19 01:37 packages-stable/neotree-0.5.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/neotree-badge.svg
+4.0K -rw-r--r-- 1 root root  259 May 19 01:37 packages-stable/neotree-readme.txt

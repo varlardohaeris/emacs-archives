@@ -1,0 +1,6 @@
+Package: 2048-game
+Fetcher: hg
+Source:  https://hg.sr.ht/~zck/game-2048
+
+Updating /mnt/store/melpa/working/2048-game/
+hg exited with status 255

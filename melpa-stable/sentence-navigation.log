@@ -1,0 +1,6 @@
+Package: sentence-navigation
+Fetcher: github
+Source:  https://github.com/noctuid/emacs-sentence-navigation.git
+
+Updating /mnt/store/melpa/working/sentence-navigation/
+No valid stable versions found for sentence-navigation

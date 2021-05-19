@@ -1,0 +1,6 @@
+Package: php-scratch
+Fetcher: github
+Source:  https://github.com/mallt/php-scratch.git
+
+Updating /mnt/store/melpa/working/php-scratch/
+No valid stable versions found for php-scratch

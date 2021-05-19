@@ -35,7 +35,7 @@ The code was developed and fully tested on Gnu Emacs 24.0.93, partially
 tested on Gnu Emacs 22. If you have any compatible problem, please let me
 know.
 
-Contributors
+; Contributors
 Adam Lindberg <eproxus@gmail.com> added a case sensitivity option that can be toggled.
 
 Tassilo Horn <tassilo@member.fsf.org> added an option to match only complete

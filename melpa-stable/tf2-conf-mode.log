@@ -1,0 +1,6 @@
+Package: tf2-conf-mode
+Fetcher: github
+Source:  https://github.com/wynro/emacs-tf2-conf-mode.git
+
+Updating /mnt/store/melpa/working/tf2-conf-mode/
+No valid stable versions found for tf2-conf-mode

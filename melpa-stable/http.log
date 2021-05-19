@@ -1,0 +1,6 @@
+Package: http
+Fetcher: github
+Source:  https://github.com/emacs-pe/http.el.git
+
+Updating /mnt/store/melpa/working/http/
+No valid stable versions found for http

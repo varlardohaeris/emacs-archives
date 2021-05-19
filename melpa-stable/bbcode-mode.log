@@ -1,0 +1,11 @@
+Package: bbcode-mode
+Fetcher: github
+Source:  https://github.com/lassik/emacs-bbcode-mode.git
+
+Updating /mnt/store/melpa/working/bbcode-mode/
+Built bbcode-mode in 2.856s, finished at Wed May 19 04:20:50 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:20 packages-stable/bbcode-mode-2.3.0.el
+4.0K -rw-r--r-- 1 root root  439 May 19 04:20 packages-stable/bbcode-mode-2.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/bbcode-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  372 May 19 04:20 packages-stable/bbcode-mode-readme.txt

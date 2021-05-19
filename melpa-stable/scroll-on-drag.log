@@ -1,0 +1,6 @@
+Package: scroll-on-drag
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-scroll-on-drag.git
+
+Updating /mnt/store/melpa/working/scroll-on-drag/
+No valid stable versions found for scroll-on-drag

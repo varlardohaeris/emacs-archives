@@ -1,0 +1,11 @@
+Package: versuri
+Fetcher: github
+Source:  https://github.com/mihaiolteanu/versuri.git
+
+Updating /mnt/store/melpa/working/versuri/
+Built versuri in 4.276s, finished at Wed May 19 04:13:19 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:13 packages/versuri-20200316.852.el
+4.0K -rw-r--r-- 1 root root  542 May 19 04:13 packages/versuri-20200316.852.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/versuri-badge.svg
+4.0K -rw-r--r-- 1 root root  519 May 19 04:13 packages/versuri-readme.txt

@@ -1,3 +1,4 @@
+
 1. Setup
 Please install either aspell or hunspell and their dictionaries.
 
@@ -17,19 +18,24 @@ They are replaced by this program.  But all the other commands and configuration
 for flyspell is still valid.
 
 3. Tips
-If `wucuo-flyspell-start-mode' is "normal", `wucuo-start' runs `flyspell-buffer'.
-If it's "normal", `wucuo-start' runs `flyspell-region' to check visible region
-in current window.
 
-The interval of checking is set by `wucuo-update-interval'.
+- `wucuo-spell-check-file' checks one file and report typos
+- `wucuo-spell-check-directory' checks files in one directory and report typos
 
-See `wucuo-check-nil-font-face' on how to check plain text (text without font)
+- If `wucuo-flyspell-start-mode' is "normal", `wucuo-start' runs `flyspell-buffer'
+  and `wucuo-spell-check-buffer-max' specifies maximum size of buffer to check.
+  If it's "fast", `wucuo-start' runs `flyspell-region' on current visible region
+  and `wucuo-spell-check-region-max' specifies maximum size of the region to check.
 
-Use `wucuo-current-font-face' to detect font face at point.
+- The interval of checking is set by `wucuo-update-interval'
 
-You can define a function in `wucuo-spell-check-buffer-predicate'.
-If the function returns t, the spell checking of current buffer will continue.
-If it returns nil, the spell checking is skipped.
+- See `wucuo-check-nil-font-face' on how to check plain text (text without font)
+
+- Use `wucuo-current-font-face' to detect font face at point
+
+- You can define a function in `wucuo-spell-check-buffer-predicate'.
+  If the function returns t, the spell checking of current buffer will continue.
+  If it returns nil, the spell checking is skipped.
 
 Here is sample to skip checking in specified major modes,
   (setq wucuo-spell-check-buffer-predicate
@@ -44,3 +50,8 @@ Here is sample to skip checking in specified major modes,
                        gud-mode
                        calc-mode
                        Info-mode)))))
+
+This program assumes Flyspell is already set up properly.
+If you have problems on Flyspell configuration, check  wucuo's website.
+
+To ignore specific typo, you can set `wucuo-extra-predicate'.

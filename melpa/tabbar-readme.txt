@@ -1,3 +1,4 @@
+
 This library provides the Tabbar global minor mode to display a tab
 bar in the header line of Emacs 21 and later versions.  You can use
 the mouse to click on a tab and select it.  Also, three buttons are

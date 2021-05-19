@@ -98,17 +98,22 @@
    `isearchp-toggle-showing-match-number' (Emacs 24.3+),
    `isearchp-toggle-symmetric-char-fold' (Emacs 25+),
    `isearchp-yank-char' (Emacs 22+), `isearchp-yank-line' (Emacs
-   22+), `isearchp-yank-sexp-symbol-or-char' (Emacs 22+),
-   `isearchp-yank-sexp-symbol-or-char-1' (Emacs 22+),
+   22+), `isearchp-yank-line-backward',
+   `isearchp-yank-line-forward', `isearchp-yank-through-key-move',
+   `isearchp-yank-through-new-match',
+   `isearchp-yank-through-rec-edit-move',
+   `isearchp-yank-sexp-symbol-or-char' (Emacs 22+),
+   `isearchp-yank-sexp-symbol-or-char-1',
    `isearchp-yank-symbol-or-char' (Emacs 22+),
-   `isearchp-yank-symbol-or-char-1' (Emacs 22+),
-   `isearchp-yank-word-or-char' (Emacs 22+).
+   `isearchp-yank-word-or-char' (Emacs 22+),
+   `isearchp-yank-word-or-char-backward',
+   `isearchp-yank-word-or-char-forward'.
 
  User options defined here:
 
    `isearchp-auto-keep-filter-predicate-flag' (Emacs 22+),
    `isearchp-case-fold', `isearchp-deactivate-region-flag' (Emacs
-   24.3+), `isearchp-drop-mismatch',
+   24.3+), `isearchp-directional-yank', `isearchp-drop-mismatch',
    `isearchp-drop-mismatch-regexp-flag',
    `isearchp-filter-predicates-alist' (Emacs 24.4+),
    `isearchp-highlight-regexp-group-levels-flag' (Emacs 24.4+),
@@ -143,7 +148,8 @@
 
  Macros defined here:
 
-   `isearchp-define-in/out-filter', `isearchp-user-error'.
+   `isearchp-define-in/out-filter',
+   `isearchp-define-yank-movement-command', `isearchp-user-error'.
 
  Non-interactive functions defined here:
 
@@ -274,6 +280,7 @@
                          regexp, word, multi.  Highlight filter
                          prefixes, and reverse their order.
  `isearch-mouse-2'     - Respect `isearchp-mouse-2-flag'(Emacs 21+)
+ `isearch-process-search-string' - Added arg RESPECT-DIRECTION.
  `isearch-search'      - Can limit to active region (Emacs 24.3+)
  `isearch-repeat'      - Can limit to active region (Emacs 24.3+)
  `isearch-printing-char' - Respect option `isearchp-drop-mismatch'
@@ -286,7 +293,18 @@
  `isearch-update' - Run `isearch-update-post-hook' (Emacs 20-21).
                   - Run `isearchp-noprompt-action-function' and
                     `isearchp-nomodify-action-hook' (Emacs 22+).
- `isearch-yank-string' - Respect `isearchp-regexp-quote-yank-flag'.
+ `isearch-yank-char'   - Respect `isearchp-directional-yank'.
+ `isearch--yank-char-or-syntax' - Added arg RESPECT-DIRECTION.
+ `isearch-yank-string' - 1. Respect `isearchp-regexp-quote-yank-flag'.
+                         2. Added arg RESPECT-DIRECTION.
+ `isearch-yank-internal' - Added arg RESPECT-DIRECTION.
+ `isearch-yank-line'   - 1. Respect `isearchp-directional-yank'.
+                         2. Use `isearchp-yank-line-forward' and
+                            `isearchp-yank-line-backward'.
+ `isearch-yank-symbol-or-char'- Respect `isearchp-directional-yank'
+ `isearch-yank-until-char' - Respect `isearchp-directional-yank'.
+ `isearch-yank-word'   - Respect `isearchp-directional-yank'.
+ `isearch-yank-word-or-char' - Respect `isearchp-directional-yank'.
  `with-isearch-suspended' - Add `catch': update `isearch-success'.
 
 
@@ -329,11 +347,15 @@
    `C-y C-('    `isearchp-yank-sexp-symbol-or-char' (Emacs 22+)
    `C-y C-2'    `isearch-yank-secondary' (requires `second-sel.el')
    `C-y C-c'    `isearchp-yank-char' (Emacs 22+)
-   `C-y C-e'    `isearchp-yank-line'
+   `C-y C-e'    `isearchp-yank-line' (Emacs 22+)
    `C-y C-w'    `isearchp-yank-word-or-char' (Emacs 22+)
    `C-y C-y'    `isearch-yank-kill'
    `C-y M-g'    `isearchp-retrieve-last-quit-search'
    `C-y M-y'    `isearch-yank-pop' (Emacs 24+)
+   `C-y C-M-c'  `isearchp-yank-through-rec-edit-move'
+   `C-y C-M-k'  `isearchp-yank-through-key-move'
+   `C-y C-M-m'  `isearchp-yank-through-new-match' (aka `M-RET`)
+   `C-y C-M-z'  `isearch-yank-until-char'
    `C-z !'      `isearchp-set-filter-predicate' (Emacs 24.4+)
    `C-z %'      `isearchp-add-regexp-filter-predicate'
                 (Emacs 24.4+)
@@ -379,7 +401,7 @@
    `M-:'        `isearchp-eval-sexp-and-insert' (Emacs 22+)
    `M-;'        `isearchp-toggle-hiding-comments' (Emacs 23+)
                 (`isearch-prop.el')
-   `M-left'   `isearchp-init-edit' (Emacs 22+)
+   `M-left'     `isearchp-init-edit' (Emacs 22+)
    `M-b'        `isearchp-init-edit' (Emacs 22+)
    `M-c'        `isearch-toggle-case-fold'
    `M-e'        `isearch-edit-string'
@@ -388,7 +410,7 @@
    `M-r'        `isearch-toggle-regexp'
    `M-w'        `isearchp-kill-ring-save'
    `M-s h '     `isearchp-toggle-lazy-highlighting'
-   `M-s C-e'    `isearchp-yank-line'
+   `M-s C-e'    `isearchp-yank-line' (Emacs 22+)
    `M-s ='      `isearchp-toggle-symmetric-char-fold' (Emacs 25+)
    `M-s #'      `isearchp-toggle-showing-match-number' (Emacs 24.3+)
    `M-s %'      `isearchp-toggle-limit-match-numbers-to-region'
@@ -971,18 +993,22 @@ Overview of Features ---------------------------------------------
    ring. (Note: `M-w' used to toggle word search, but
    `isearch-toggle-word' is now `M-s w'.)
 
- * All commands that yank text onto the search string are bound to
-   keys with prefix `C-y' (in addition to any other Isearch
-   bindings):
+ * Commands that yank buffer text onto the search string are bound
+   to keys with prefix `C-y'.  (Some also have additional Isearch
+   bindings).
 
-     `C-y C-_'   isearchp-yank-symbol-or-char
-     `C-y C-('   isearchp-yank-sexp-symbol-or-char
-     `C-y C-2'   isearch-yank-secondary
-     `C-y C-c'   isearchp-yank-char
-     `C-y C-e'   isearchp-yank-line
-     `C-y C-w'   isearchp-yank-word-or-char
-     `C-y C-y'   isearch-yank-kill
-     `C-y M-y'   isearch-yank-pop
+     `C-y C-_'    isearchp-yank-symbol-or-char
+     `C-y C-('    isearchp-yank-sexp-symbol-or-char
+     `C-y C-2'    isearch-yank-secondary
+     `C-y C-c'    isearchp-yank-char
+     `C-y C-e'    isearchp-yank-line
+     `C-y C-w'    isearchp-yank-word-or-char
+     `C-y C-y'    isearch-yank-kill
+     `C-y M-y'    isearch-yank-pop
+     `C-y C-M-c'  isearchp-yank-through-rec-edit-move
+     `C-y C-M-k'  isearchp-yank-through-key-move
+     `C-y C-M-m'  isearchp-yank-through-new-match (aka `M-RET`)
+     `C-y C-M-z'  isearch-yank-until-char
 
    You can repeat any of these for which it makes sense (i.e., all
    except `isearch-yank-secondary', `isearch-yank-kill', and

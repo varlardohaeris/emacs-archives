@@ -1,0 +1,6 @@
+Package: balanced-windows
+Fetcher: github
+Source:  https://github.com/wbolster/emacs-balanced-windows.git
+
+Updating /mnt/store/melpa/working/balanced-windows/
+No valid stable versions found for balanced-windows

@@ -1,0 +1,24 @@
+Package: gnuplot
+Fetcher: github
+Source:  https://github.com/emacsorphanage/gnuplot.git
+
+Updating /mnt/store/melpa/working/gnuplot/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gnuplot/
+  to /tmp/gnuplotllhbb2/gnuplot-0.8.0
+    gnuplot.el -> gnuplot.el
+    gnuplot-gui.el -> gnuplot-gui.el
+    gnuplot-context.el -> gnuplot-context.el
+Created gnuplot-0.8.0.tar containing:
+  gnuplot-0.8.0/
+  gnuplot-0.8.0/gnuplot-context.el
+  gnuplot-0.8.0/gnuplot-gui.el
+  gnuplot-0.8.0/gnuplot-pkg.el
+  gnuplot-0.8.0/gnuplot.el
+Built gnuplot in 2.930s, finished at Wed May 19 04:37:46 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  399 May 19 04:37 packages-stable/gnuplot-0.8.0.entry
+260K -rw-r--r-- 1 root root 260K May 19 04:37 packages-stable/gnuplot-0.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gnuplot-badge.svg
+4.0K -rw-r--r-- 1 root root  186 May 19 04:37 packages-stable/gnuplot-mode.log
+4.0K -rw-r--r-- 1 root root 2.3K May 19 04:37 packages-stable/gnuplot-readme.txt

@@ -1,0 +1,6 @@
+Package: metronome
+Fetcher: gitlab
+Source:  https://gitlab.com/jagrg/metronome.git
+
+Updating /mnt/store/melpa/working/metronome/
+No valid stable versions found for metronome

@@ -1,0 +1,6 @@
+Package: playerctl
+Fetcher: github
+Source:  https://github.com/thomasluquet/playerctl.el.git
+
+Updating /mnt/store/melpa/working/playerctl/
+No valid stable versions found for playerctl

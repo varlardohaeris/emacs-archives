@@ -1,0 +1,6 @@
+Package: tinkerer
+Fetcher: github
+Source:  https://github.com/yyr/tinkerer.el.git
+
+Updating /mnt/store/melpa/working/tinkerer/
+No valid stable versions found for tinkerer

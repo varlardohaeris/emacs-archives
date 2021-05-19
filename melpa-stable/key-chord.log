@@ -1,0 +1,5 @@
+Package: key-chord
+Fetcher: github
+Source:  https://github.com/emacsorphanage/key-chord.git
+
+Updating /mnt/store/melpa/working/key-chord/

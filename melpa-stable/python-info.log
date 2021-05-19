@@ -1,0 +1,6 @@
+Package: python-info
+Fetcher: github
+Source:  https://github.com/Wilfred/python-info.git
+
+Updating /mnt/store/melpa/working/python-info/
+No valid stable versions found for python-info

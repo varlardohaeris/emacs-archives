@@ -17,7 +17,7 @@ Multiple-cursors in *All*:
 
 *All* is undo-able!
 
-Installation:
+; Installation:
 
 Put all-ext.el to your load-path.
 The load-path is usually ~/elisp/.

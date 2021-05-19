@@ -1,0 +1,6 @@
+Package: spark
+Fetcher: github
+Source:  https://github.com/alvinfrancis/spark.git
+
+Updating /mnt/store/melpa/working/spark/
+No valid stable versions found for spark

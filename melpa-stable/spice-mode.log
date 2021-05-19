@@ -1,0 +1,6 @@
+Package: spice-mode
+Fetcher: github
+Source:  https://github.com/stardiviner/spice-mode.git
+
+Updating /mnt/store/melpa/working/spice-mode/
+No valid stable versions found for spice-mode

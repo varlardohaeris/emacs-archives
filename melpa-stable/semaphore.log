@@ -1,0 +1,6 @@
+Package: semaphore
+Fetcher: github
+Source:  https://github.com/webnf/semaphore.el.git
+
+Updating /mnt/store/melpa/working/semaphore/
+No valid stable versions found for semaphore

@@ -1,0 +1,35 @@
+Package: swift-mode
+Fetcher: github
+Source:  https://github.com/swift-emacs/swift-mode.git
+
+Updating /mnt/store/melpa/working/swift-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/swift-mode/
+  to /tmp/swift-modeESH4Lf/swift-mode-8.2.0
+    src-autoloads.el -> src-autoloads.el
+    swift-mode-beginning-of-defun.el -> swift-mode-beginning-of-defun.el
+    swift-mode-font-lock.el -> swift-mode-font-lock.el
+    swift-mode-imenu.el -> swift-mode-imenu.el
+    swift-mode-indent.el -> swift-mode-indent.el
+    swift-mode-lexer.el -> swift-mode-lexer.el
+    swift-mode-repl.el -> swift-mode-repl.el
+    swift-mode-standard-types.el -> swift-mode-standard-types.el
+    swift-mode.el -> swift-mode.el
+Created swift-mode-8.2.0.tar containing:
+  swift-mode-8.2.0/
+  swift-mode-8.2.0/src-autoloads.el
+  swift-mode-8.2.0/swift-mode-beginning-of-defun.el
+  swift-mode-8.2.0/swift-mode-font-lock.el
+  swift-mode-8.2.0/swift-mode-imenu.el
+  swift-mode-8.2.0/swift-mode-indent.el
+  swift-mode-8.2.0/swift-mode-lexer.el
+  swift-mode-8.2.0/swift-mode-pkg.el
+  swift-mode-8.2.0/swift-mode-repl.el
+  swift-mode-8.2.0/swift-mode-standard-types.el
+  swift-mode-8.2.0/swift-mode.el
+Built swift-mode in 3.201s, finished at Wed May 19 01:50:49 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  312 May 19 01:50 packages-stable/swift-mode-8.2.0.entry
+440K -rw-r--r-- 1 root root 440K May 19 01:50 packages-stable/swift-mode-8.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/swift-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   51 May 19 01:50 packages-stable/swift-mode-readme.txt

@@ -1,0 +1,6 @@
+Package: cinspect
+Fetcher: github
+Source:  https://github.com/inlinestyle/cinspect-mode.git
+
+Updating /mnt/store/melpa/working/cinspect/
+No valid stable versions found for cinspect

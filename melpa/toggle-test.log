@@ -1,0 +1,11 @@
+Package: toggle-test
+Fetcher: github
+Source:  https://github.com/rags/toggle-test.git
+
+Updating /mnt/store/melpa/working/toggle-test/
+Built toggle-test in 6.964s, finished at Wed May 19 04:10:50 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:10 packages/toggle-test-20140723.537.el
+4.0K -rw-r--r-- 1 root root  442 May 19 04:10 packages/toggle-test-20140723.537.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:10 packages/toggle-test-badge.svg
+4.0K -rw-r--r-- 1 root root  457 May 19 04:10 packages/toggle-test-readme.txt

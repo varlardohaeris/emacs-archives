@@ -1,0 +1,6 @@
+Package: flycheck-credo
+Fetcher: github
+Source:  https://github.com/aaronjensen/flycheck-credo.git
+
+Updating /mnt/store/melpa/working/flycheck-credo/
+No valid stable versions found for flycheck-credo

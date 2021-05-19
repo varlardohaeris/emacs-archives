@@ -1,0 +1,21 @@
+Package: binder
+Fetcher: github
+Source:  https://github.com/rnkn/binder.git
+
+Updating /mnt/store/melpa/working/binder/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/binder/
+  to /tmp/binderd5Tp1x/binder-0.4.4
+    binder-tutorial.el -> binder-tutorial.el
+    binder.el -> binder.el
+Created binder-0.4.4.tar containing:
+  binder-0.4.4/
+  binder-0.4.4/binder-pkg.el
+  binder-0.4.4/binder-tutorial.el
+  binder-0.4.4/binder.el
+Built binder in 2.863s, finished at Wed May 19 04:21:15 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  396 May 19 04:21 packages-stable/binder-0.4.4.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:21 packages-stable/binder-0.4.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/binder-badge.svg
+8.0K -rw-r--r-- 1 root root 7.3K May 19 04:21 packages-stable/binder-readme.txt

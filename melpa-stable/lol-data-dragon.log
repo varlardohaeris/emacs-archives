@@ -1,0 +1,6 @@
+Package: lol-data-dragon
+Fetcher: github
+Source:  https://github.com/xuchunyang/lol-data-dragon.el.git
+
+Updating /mnt/store/melpa/working/lol-data-dragon/
+No valid stable versions found for lol-data-dragon

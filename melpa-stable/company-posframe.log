@@ -1,0 +1,11 @@
+Package: company-posframe
+Fetcher: github
+Source:  https://github.com/tumashu/company-posframe.git
+
+Updating /mnt/store/melpa/working/company-posframe/
+Built company-posframe in 3.519s, finished at Wed May 19 04:24:42 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  21K May 19 04:24 packages-stable/company-posframe-0.5.0.el
+4.0K -rw-r--r-- 1 root root  502 May 19 04:24 packages-stable/company-posframe-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-posframe-badge.svg
+4.0K -rw-r--r-- 1 root root 1007 May 19 04:24 packages-stable/company-posframe-readme.txt

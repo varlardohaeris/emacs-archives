@@ -1,0 +1,6 @@
+Package: veri-kompass
+Fetcher: gitlab
+Source:  https://gitlab.com/koral/veri-kompass.git
+
+Updating /mnt/store/melpa/working/veri-kompass/
+Single file veri-kompass-mode.el does not match package name veri-kompass

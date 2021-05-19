@@ -1,0 +1,26 @@
+Package: geben
+Fetcher: github
+Source:  https://github.com/ahungry/geben.git
+
+Updating /mnt/store/melpa/working/geben/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/geben/
+  to /tmp/geben3ZYfHY/geben-1.1.1
+    dbgp.el -> dbgp.el
+    geben.el -> geben.el
+Created geben-1.1.1.tar containing:
+  geben-1.1.1/
+  geben-1.1.1/dbgp.el
+  geben-1.1.1/geben-pkg.el
+  geben-1.1.1/geben.el
+Built geben in 2.715s, finished at Wed May 19 04:36:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  358 May 19 04:36 packages-stable/geben-1.1.1.entry
+212K -rw-r--r-- 1 root root 210K May 19 04:36 packages-stable/geben-1.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geben-badge.svg
+4.0K -rw-r--r-- 1 root root 3.4K May 19 04:36 packages-stable/geben-helm-projectile-0.0.4.el
+4.0K -rw-r--r-- 1 root root  481 May 19 04:36 packages-stable/geben-helm-projectile-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:21 packages-stable/geben-helm-projectile-badge.svg
+4.0K -rw-r--r-- 1 root root  220 May 19 04:36 packages-stable/geben-helm-projectile-readme.txt
+4.0K -rw-r--r-- 1 root root  167 May 19 04:36 packages-stable/geben-helm-projectile.log
+4.0K -rw-r--r-- 1 root root  907 May 19 04:36 packages-stable/geben-readme.txt

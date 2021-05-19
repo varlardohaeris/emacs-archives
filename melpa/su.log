@@ -1,0 +1,11 @@
+Package: su
+Fetcher: github
+Source:  https://github.com/PythonNut/su.el.git
+
+Updating /mnt/store/melpa/working/su/
+Built su in 4.041s, finished at Wed May 19 04:07:28 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:07 packages/su-20210226.42.el
+4.0K -rw-r--r-- 1 root root  413 May 19 04:07 packages/su-20210226.42.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:07 packages/su-badge.svg
+4.0K -rw-r--r-- 1 root root  555 May 19 04:07 packages/su-readme.txt

@@ -1,0 +1,6 @@
+Package: pcmpl-homebrew
+Fetcher: github
+Source:  https://github.com/zwild/pcmpl-homebrew.git
+
+Updating /mnt/store/melpa/working/pcmpl-homebrew/
+No valid stable versions found for pcmpl-homebrew

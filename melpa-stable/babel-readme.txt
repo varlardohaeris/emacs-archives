@@ -1,4 +1,4 @@
-Overview ==========================================================
+; Overview ==========================================================
 
 This module provides an Emacs interface to different translation
 services available on the Internet. You give it a word or paragraph
@@ -96,7 +96,7 @@ adjustments and more improvements.
 User quotes: Dieses ist die größte Sache seit geschnittenem Brot.
                 -- Stainless Steel Rat <ratinox@peorth.gweep.net>
 
-History
+; History
    1.4 * `babel-region' now yank the translation instead insert him at
          point.
 
@@ -104,7 +104,7 @@ History
 
    1.2 * Added FOSS MT platform Apertium
         (by Kevin Brubeck Unhammer)
-	  * Assume UTF-8, if HTTP header missing
+  * Assume UTF-8, if HTTP header missing
 
    1.1 * Fixed invalid language code mapping for serveral
          languages
@@ -128,7 +128,7 @@ History
 
    0.7  * error handling if no backend is available for translating
           the supplied languages
-	   * rely on url-* functions (for charset decoding) on GNU emacs
+   * rely on url-* functions (for charset decoding) on GNU emacs
         * increased chunk size for better performance
         * added support for all Google languages
         * `babel-region' with prefix argument inserts the translation
@@ -143,12 +143,12 @@ History
 
    0.4: * revised FreeTranslation backend
 
-  0.3: * removed non-working backends: systran, intertrans, leo, e-PROMPT
-       * added Google backend
-       * revised UTF-8 handling
-       * Added customizable variables: babel-preferred-to-language, babel-preferred-from-language
-       * revised history handling
-       * added helper function: babel-wash-regex
+;   0.3: * removed non-working backends: systran, intertrans, leo, e-PROMPT
+;        * added Google backend
+;        * revised UTF-8 handling
+;        * Added customizable variables: babel-preferred-to-language, babel-preferred-from-language
+;        * revised history handling
+;        * added helper function: babel-wash-regex
 
 
 TODO:

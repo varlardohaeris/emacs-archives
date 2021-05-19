@@ -1,0 +1,11 @@
+Package: flymake-jslint
+Fetcher: github
+Source:  https://github.com/purcell/flymake-jslint.git
+
+Updating /mnt/store/melpa/working/flymake-jslint/
+Built flymake-jslint in 2.911s, finished at Wed May 19 04:35:35 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.5K May 19 04:35 packages-stable/flymake-jslint-0.23.el
+4.0K -rw-r--r-- 1 root root  327 May 19 04:35 packages-stable/flymake-jslint-0.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-jslint-badge.svg
+4.0K -rw-r--r-- 1 root root  184 May 19 04:35 packages-stable/flymake-jslint-readme.txt

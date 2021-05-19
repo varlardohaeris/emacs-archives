@@ -1,0 +1,6 @@
+Package: java-snippets
+Fetcher: github
+Source:  https://github.com/nekop/yasnippet-java-mode.git
+
+Updating /mnt/store/melpa/working/java-snippets/
+No valid stable versions found for java-snippets

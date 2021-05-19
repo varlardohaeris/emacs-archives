@@ -1,0 +1,6 @@
+Package: erc-terminal-notifier
+Fetcher: github
+Source:  https://github.com/julienXX/erc-terminal-notifier.el.git
+
+Updating /mnt/store/melpa/working/erc-terminal-notifier/
+No valid stable versions found for erc-terminal-notifier

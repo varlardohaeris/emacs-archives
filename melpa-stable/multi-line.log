@@ -1,0 +1,35 @@
+Package: multi-line
+Fetcher: github
+Source:  https://github.com/IvanMalison/multi-line.git
+
+Updating /mnt/store/melpa/working/multi-line/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/multi-line/
+  to /tmp/multi-line6dp82Y/multi-line-0.1.5
+    multi-line-candidate.el -> multi-line-candidate.el
+    multi-line-cycle.el -> multi-line-cycle.el
+    multi-line-decorator.el -> multi-line-decorator.el
+    multi-line-enter.el -> multi-line-enter.el
+    multi-line-find.el -> multi-line-find.el
+    multi-line-highlight.el -> multi-line-highlight.el
+    multi-line-respace.el -> multi-line-respace.el
+    multi-line-shared.el -> multi-line-shared.el
+    multi-line.el -> multi-line.el
+Created multi-line-0.1.5.tar containing:
+  multi-line-0.1.5/
+  multi-line-0.1.5/multi-line-candidate.el
+  multi-line-0.1.5/multi-line-cycle.el
+  multi-line-0.1.5/multi-line-decorator.el
+  multi-line-0.1.5/multi-line-enter.el
+  multi-line-0.1.5/multi-line-find.el
+  multi-line-0.1.5/multi-line-highlight.el
+  multi-line-0.1.5/multi-line-pkg.el
+  multi-line-0.1.5/multi-line-respace.el
+  multi-line-0.1.5/multi-line-shared.el
+  multi-line-0.1.5/multi-line.el
+Built multi-line in 3.065s, finished at Wed May 19 01:36:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  540 May 19 01:36 packages-stable/multi-line-0.1.5.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:36 packages-stable/multi-line-0.1.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/multi-line-badge.svg
+4.0K -rw-r--r-- 1 root root  325 May 19 01:36 packages-stable/multi-line-readme.txt

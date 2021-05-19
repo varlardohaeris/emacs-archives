@@ -1,0 +1,6 @@
+Package: ynab
+Fetcher: github
+Source:  https://github.com/janders223/ynab.el.git
+
+Updating /mnt/store/melpa/working/ynab/
+No valid stable versions found for ynab

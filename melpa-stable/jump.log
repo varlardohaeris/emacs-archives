@@ -1,0 +1,18 @@
+Package: jump
+Fetcher: github
+Source:  https://github.com/eschulte/jump.el.git
+
+Updating /mnt/store/melpa/working/jump/
+Built jump in 3.339s, finished at Wed May 19 04:45:17 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:45 packages-stable/jump-2.5.el
+4.0K -rw-r--r-- 1 root root  381 May 19 04:45 packages-stable/jump-2.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/jump-badge.svg
+4.0K -rw-r--r-- 1 root root  175 May 19 04:45 packages-stable/jump-char.log
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:45 packages-stable/jump-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K May 19 04:45 packages-stable/jump-to-line-0.2.0.el
+4.0K -rw-r--r-- 1 root root  280 May 19 01:30 packages-stable/jump-to-line-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:30 packages-stable/jump-to-line-badge.svg
+4.0K -rw-r--r-- 1 root root   30 May 19 01:30 packages-stable/jump-to-line-readme.txt
+4.0K -rw-r--r-- 1 root root  141 May 19 04:45 packages-stable/jump-to-line.log
+4.0K -rw-r--r-- 1 root root  135 May 19 04:45 packages-stable/jump-tree.log

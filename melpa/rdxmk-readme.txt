@@ -8,7 +8,7 @@ going to rdxmk's customization group with `M-x customize-group RET rdxmk RET`
 and setting `lockfile-no-pollute` to t. For more information, go to the
 documentation with `C-h i`
 
-Installation
+; Installation
 
 For a manual installation, clone the repo in your ~/.emacs.d/, add
 (add-to-list 'load-path "~/.emacs.d/rdxmk")

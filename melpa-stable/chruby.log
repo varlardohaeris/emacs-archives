@@ -1,0 +1,6 @@
+Package: chruby
+Fetcher: github
+Source:  https://github.com/plexus/chruby.el.git
+
+Updating /mnt/store/melpa/working/chruby/
+No valid stable versions found for chruby

@@ -1,0 +1,6 @@
+Package: literate-starter-kit
+Fetcher: github
+Source:  https://github.com/eschulte/emacs24-starter-kit.git
+
+Updating /mnt/store/melpa/working/literate-starter-kit/
+No valid stable versions found for literate-starter-kit

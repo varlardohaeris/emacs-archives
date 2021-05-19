@@ -1,0 +1,11 @@
+Package: inf-crystal
+Fetcher: github
+Source:  https://github.com/brantou/inf-crystal.el.git
+
+Updating /mnt/store/melpa/working/inf-crystal/
+Built inf-crystal in 3.212s, finished at Wed May 19 04:43:13 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 04:43 packages-stable/inf-crystal-0.1.0.el
+4.0K -rw-r--r-- 1 root root  430 May 19 04:43 packages-stable/inf-crystal-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/inf-crystal-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:43 packages-stable/inf-crystal-readme.txt

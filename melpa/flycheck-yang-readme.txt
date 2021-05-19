@@ -3,7 +3,7 @@ in Emacs using the pyang YANG parser[1].
 
 [1] https://github.com/mbj4668/pyang
 
-Setup
+;; Setup
 
 Add this to your Emacs configuration:
 

@@ -5,7 +5,7 @@
 ;; License: BSD-3-clause
 ;; URL: https://github.com/golang/lint
 ;; Package-Version: 20180221.2015
-;; Package-Commit: 738671d3881b9731cc63024d5d88cf28db875626
+;; Package-Commit: 6edffad5e6160f5949cdefc81710b2706fbcd4f6
 
 ;;; Commentary:
 

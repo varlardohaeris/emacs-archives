@@ -1,0 +1,17 @@
+Package: json-rpc
+Fetcher: github
+Source:  https://github.com/skeeto/elisp-json-rpc.git
+
+Updating /mnt/store/melpa/working/json-rpc/
+Note: json-rpc :files spec is equivalent to the default.
+Built json-rpc in 2.939s, finished at Wed May 19 04:45:08 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.3K May 19 04:45 packages-stable/json-rpc-0.0.1.el
+4.0K -rw-r--r-- 1 root root  370 May 19 04:45 packages-stable/json-rpc-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/json-rpc-badge.svg
+4.0K -rw-r--r-- 1 root root  498 May 19 04:45 packages-stable/json-rpc-readme.txt
+ 28K -rw-r--r-- 1 root root  27K May 19 04:45 packages-stable/json-rpc-server-0.2.0.el
+4.0K -rw-r--r-- 1 root root  355 May 19 01:30 packages-stable/json-rpc-server-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:30 packages-stable/json-rpc-server-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 01:30 packages-stable/json-rpc-server-readme.txt
+4.0K -rw-r--r-- 1 root root  149 May 19 04:45 packages-stable/json-rpc-server.log

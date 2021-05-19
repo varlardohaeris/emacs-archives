@@ -1,0 +1,6 @@
+Package: px
+Fetcher: github
+Source:  https://github.com/aaptel/preview-latex.git
+
+Updating /mnt/store/melpa/working/px/
+No valid stable versions found for px

@@ -1,0 +1,11 @@
+Package: feed-discovery
+Fetcher: github
+Source:  https://github.com/HKey/feed-discovery.git
+
+Updating /mnt/store/melpa/working/feed-discovery/
+Built feed-discovery in 3.207s, finished at Wed May 19 04:33:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.7K May 19 04:33 packages-stable/feed-discovery-1.0.0.el
+4.0K -rw-r--r-- 1 root root  369 May 19 04:33 packages-stable/feed-discovery-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/feed-discovery-badge.svg
+4.0K -rw-r--r-- 1 root root  228 May 19 04:33 packages-stable/feed-discovery-readme.txt

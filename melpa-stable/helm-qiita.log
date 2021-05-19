@@ -1,0 +1,11 @@
+Package: helm-qiita
+Fetcher: github
+Source:  https://github.com/masutaka/emacs-helm-qiita.git
+
+Updating /mnt/store/melpa/working/helm-qiita/
+Built helm-qiita in 3.049s, finished at Wed May 19 04:41:00 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:40 packages-stable/helm-qiita-1.1.3.el
+4.0K -rw-r--r-- 1 root root  393 May 19 04:40 packages-stable/helm-qiita-1.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-qiita-badge.svg
+4.0K -rw-r--r-- 1 root root   50 May 19 04:40 packages-stable/helm-qiita-readme.txt

@@ -1,0 +1,6 @@
+Package: selected
+Fetcher: github
+Source:  https://github.com/Kungsgeten/selected.el.git
+
+Updating /mnt/store/melpa/working/selected/
+No valid stable versions found for selected

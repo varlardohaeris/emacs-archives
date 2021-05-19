@@ -1,0 +1,11 @@
+Package: unicode-escape
+Fetcher: github
+Source:  https://github.com/kosh04/unicode-escape.el.git
+
+Updating /mnt/store/melpa/working/unicode-escape/
+Built unicode-escape in 6.000s, finished at Wed May 19 04:12:20 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K May 19 04:12 packages/unicode-escape-20160614.1234.el
+4.0K -rw-r--r-- 1 root root  459 May 19 04:12 packages/unicode-escape-20160614.1234.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:12 packages/unicode-escape-badge.svg
+4.0K -rw-r--r-- 1 root root  154 May 19 04:12 packages/unicode-escape-readme.txt

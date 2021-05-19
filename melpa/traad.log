@@ -1,0 +1,11 @@
+Package: traad
+Fetcher: github
+Source:  https://github.com/abingham/emacs-traad.git
+
+Updating /mnt/store/melpa/working/traad/
+Built traad in 5.404s, finished at Wed May 19 04:11:03 2021
+ ✓ Success:
+ 72K -rw-r--r-- 1 root root  72K May 19 04:11 packages/traad-20180730.48.el
+4.0K -rw-r--r-- 1 root root  524 May 19 04:11 packages/traad-20180730.48.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/traad-badge.svg
+4.0K -rw-r--r-- 1 root root  516 May 19 04:11 packages/traad-readme.txt

@@ -1,0 +1,6 @@
+Package: marmalade-client
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-marmalade-upload.git
+
+Updating /mnt/store/melpa/working/marmalade-client/
+No valid stable versions found for marmalade-client

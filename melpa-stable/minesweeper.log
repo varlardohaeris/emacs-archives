@@ -1,0 +1,6 @@
+Package: minesweeper
+Fetcher: hg
+Source:  https://hg.sr.ht/~zck/minesweeper
+
+Updating /mnt/store/melpa/working/minesweeper/
+hg exited with status 255

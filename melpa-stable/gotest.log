@@ -1,0 +1,11 @@
+Package: gotest
+Fetcher: github
+Source:  https://github.com/nlamirault/gotest.el.git
+
+Updating /mnt/store/melpa/working/gotest/
+Built gotest in 2.676s, finished at Wed May 19 04:38:20 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 04:38 packages-stable/gotest-0.15.0.el
+4.0K -rw-r--r-- 1 root root  437 May 19 04:38 packages-stable/gotest-0.15.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/gotest-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:38 packages-stable/gotest-readme.txt

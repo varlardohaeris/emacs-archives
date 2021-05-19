@@ -1,0 +1,6 @@
+Package: djinni-mode
+Fetcher: github
+Source:  https://github.com/danielmartin/djinni-mode.git
+
+Updating /mnt/store/melpa/working/djinni-mode/
+No valid stable versions found for djinni-mode

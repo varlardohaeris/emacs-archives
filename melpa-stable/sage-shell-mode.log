@@ -1,0 +1,27 @@
+Package: sage-shell-mode
+Fetcher: github
+Source:  https://github.com/sagemath/sage-shell-mode.git
+
+Updating /mnt/store/melpa/working/sage-shell-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sage-shell-mode/
+  to /tmp/sage-shell-modebXctPv/sage-shell-mode-0.3
+    sage-shell-blocks.el -> sage-shell-blocks.el
+    sage-shell-mode.el -> sage-shell-mode.el
+    sage-shell-view.el -> sage-shell-view.el
+    emacs_sage_shell.py -> emacs_sage_shell.py
+    emacs_sage_shell_view.py -> emacs_sage_shell_view.py
+Created sage-shell-mode-0.3.tar containing:
+  sage-shell-mode-0.3/
+  sage-shell-mode-0.3/emacs_sage_shell.py
+  sage-shell-mode-0.3/emacs_sage_shell_view.py
+  sage-shell-mode-0.3/sage-shell-blocks.el
+  sage-shell-mode-0.3/sage-shell-mode-pkg.el
+  sage-shell-mode-0.3/sage-shell-mode.el
+  sage-shell-mode-0.3/sage-shell-view.el
+Built sage-shell-mode in 2.895s, finished at Wed May 19 01:47:24 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  460 May 19 01:47 packages-stable/sage-shell-mode-0.3.entry
+272K -rw-r--r-- 1 root root 270K May 19 01:47 packages-stable/sage-shell-mode-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/sage-shell-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  829 May 19 01:47 packages-stable/sage-shell-mode-readme.txt

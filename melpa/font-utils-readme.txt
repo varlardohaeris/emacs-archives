@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'font-utils)
@@ -76,7 +77,7 @@ TODO
     font-utils-create-fuzzy-matches is not exhaustive enough
     to catch many typos.
 
-License
+; License
 
 Simplified BSD License:
 

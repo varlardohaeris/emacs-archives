@@ -1,0 +1,6 @@
+Package: company-suggest
+Fetcher: github
+Source:  https://github.com/juergenhoetzel/company-suggest.git
+
+Updating /mnt/store/melpa/working/company-suggest/
+No valid stable versions found for company-suggest

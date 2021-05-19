@@ -1,0 +1,11 @@
+Package: cljr-helm
+Fetcher: github
+Source:  https://github.com/philjackson/cljr-helm.git
+
+Updating /mnt/store/melpa/working/cljr-helm/
+Built cljr-helm in 2.855s, finished at Wed May 19 04:23:35 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.3K May 19 04:23 packages-stable/cljr-helm-0.11.el
+4.0K -rw-r--r-- 1 root root  480 May 19 04:23 packages-stable/cljr-helm-0.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cljr-helm-badge.svg
+4.0K -rw-r--r-- 1 root root  423 May 19 04:23 packages-stable/cljr-helm-readme.txt

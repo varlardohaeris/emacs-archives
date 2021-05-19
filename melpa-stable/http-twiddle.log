@@ -1,0 +1,6 @@
+Package: http-twiddle
+Fetcher: github
+Source:  https://github.com/hassy/http-twiddle.git
+
+Updating /mnt/store/melpa/working/http-twiddle/
+No valid stable versions found for http-twiddle

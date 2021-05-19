@@ -1,3 +1,4 @@
+
 fringe-helper contains helper functions for fringe bitmaps.
 
 `fringe-helper-define' allows you to to define fringe bitmaps using a visual
@@ -44,3 +45,4 @@ Here's an example for enhancing `flymake-mode' with fringe bitmaps:
                                         compile)
   (mapc 'fringe-helper-remove flymake-fringe-overlays)
   (setq flymake-fringe-overlays nil))
+

@@ -1,0 +1,6 @@
+Package: bert
+Fetcher: github
+Source:  https://github.com/manzyuk/bert-el.git
+
+Updating /mnt/store/melpa/working/bert/
+No valid stable versions found for bert

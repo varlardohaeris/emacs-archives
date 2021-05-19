@@ -1,0 +1,11 @@
+Package: js2hl
+Fetcher: github
+Source:  https://github.com/redguardtoo/js2hl.git
+
+Updating /mnt/store/melpa/working/js2hl/
+Built js2hl in 3.850s, finished at Wed May 19 04:45:03 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:45 packages-stable/js2hl-0.0.4.el
+4.0K -rw-r--r-- 1 root root  391 May 19 04:45 packages-stable/js2hl-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/js2hl-badge.svg
+4.0K -rw-r--r-- 1 root root  886 May 19 04:45 packages-stable/js2hl-readme.txt

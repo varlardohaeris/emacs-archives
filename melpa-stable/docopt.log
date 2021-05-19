@@ -1,0 +1,35 @@
+Package: docopt
+Fetcher: github
+Source:  https://github.com/r0man/docopt.el.git
+
+Updating /mnt/store/melpa/working/docopt/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/docopt/
+  to /tmp/docopthTLEUO/docopt-0.1.1
+  ! src/docopt-abbrev.el -> docopt-abbrev.el
+  ! src/docopt-analyzer.el -> docopt-analyzer.el
+  ! src/docopt-argv.el -> docopt-argv.el
+  ! src/docopt-ast.el -> docopt-ast.el
+  ! src/docopt-generic.el -> docopt-generic.el
+  ! src/docopt-parser.el -> docopt-parser.el
+  ! src/docopt-transient.el -> docopt-transient.el
+  ! src/docopt-util.el -> docopt-util.el
+  ! src/docopt.el -> docopt.el
+Created docopt-0.1.1.tar containing:
+  docopt-0.1.1/
+  docopt-0.1.1/docopt-abbrev.el
+  docopt-0.1.1/docopt-analyzer.el
+  docopt-0.1.1/docopt-argv.el
+  docopt-0.1.1/docopt-ast.el
+  docopt-0.1.1/docopt-generic.el
+  docopt-0.1.1/docopt-parser.el
+  docopt-0.1.1/docopt-pkg.el
+  docopt-0.1.1/docopt-transient.el
+  docopt-0.1.1/docopt-util.el
+  docopt-0.1.1/docopt.el
+Built docopt in 2.841s, finished at Wed May 19 04:28:31 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  481 May 19 04:28 packages-stable/docopt-0.1.1.entry
+140K -rw-r--r-- 1 root root 140K May 19 04:28 packages-stable/docopt-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/docopt-badge.svg
+4.0K -rw-r--r-- 1 root root   33 May 19 04:28 packages-stable/docopt-readme.txt

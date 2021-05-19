@@ -1,3 +1,4 @@
+
 Navigating the cursor across long lines of text by keyboard in Emacs can be
 cumbersome, since commands like `forward-char', `backward-char',
 `forward-word', and `backward-word' move sequentially, and potentially

@@ -1,0 +1,25 @@
+Package: flycheck-tip
+Fetcher: github
+Source:  https://github.com/yuutayamada/flycheck-tip.git
+
+Updating /mnt/store/melpa/working/flycheck-tip/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-tip/
+  to /tmp/flycheck-tip8RCYwd/flycheck-tip-0.5.0
+    eclim-tip.el -> eclim-tip.el
+    error-tip.el -> error-tip.el
+    flycheck-tip.el -> flycheck-tip.el
+    flymake-tip.el -> flymake-tip.el
+Created flycheck-tip-0.5.0.tar containing:
+  flycheck-tip-0.5.0/
+  flycheck-tip-0.5.0/eclim-tip.el
+  flycheck-tip-0.5.0/error-tip.el
+  flycheck-tip-0.5.0/flycheck-tip-pkg.el
+  flycheck-tip-0.5.0/flycheck-tip.el
+  flycheck-tip-0.5.0/flymake-tip.el
+Built flycheck-tip in 2.792s, finished at Wed May 19 04:35:20 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  421 May 19 04:35 packages-stable/flycheck-tip-0.5.0.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:35 packages-stable/flycheck-tip-0.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-tip-badge.svg
+4.0K -rw-r--r-- 1 root root  612 May 19 04:35 packages-stable/flycheck-tip-readme.txt

@@ -1,0 +1,6 @@
+Package: speeddating
+Fetcher: github
+Source:  https://github.com/xuchunyang/emacs-speeddating.git
+
+Updating /mnt/store/melpa/working/speeddating/
+No valid stable versions found for speeddating

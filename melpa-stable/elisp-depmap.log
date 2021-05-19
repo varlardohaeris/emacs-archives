@@ -1,0 +1,6 @@
+Package: elisp-depmap
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/elisp-depmap.el.git
+
+Updating /mnt/store/melpa/working/elisp-depmap/
+No valid stable versions found for elisp-depmap

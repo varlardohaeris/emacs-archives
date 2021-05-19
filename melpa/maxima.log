@@ -1,0 +1,46 @@
+Package: maxima
+Fetcher: gitlab
+Source:  https://gitlab.com/sasanidas/maxima.git
+
+Updating /mnt/store/melpa/working/maxima/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/maxima/
+  to /tmp/maximaiYGFYJ/maxima-20210124.2005
+    maxima.el -> maxima.el
+    maxima-font-lock.el -> maxima-font-lock.el
+    keywords/constants -> keywords/constants
+    keywords/functions -> keywords/functions
+    keywords/global -> keywords/global
+    keywords/graphic -> keywords/graphic
+    keywords/object -> keywords/object
+    keywords/operators -> keywords/operators
+    keywords/options -> keywords/options
+    keywords/plot -> keywords/plot
+    keywords/properties -> keywords/properties
+    keywords/scene -> keywords/scene
+    keywords/special -> keywords/special
+    keywords/system_variables -> keywords/system_variables
+Created maxima-20210124.2005.tar containing:
+  maxima-20210124.2005/
+  maxima-20210124.2005/keywords/
+  maxima-20210124.2005/keywords/constants
+  maxima-20210124.2005/keywords/functions
+  maxima-20210124.2005/keywords/global
+  maxima-20210124.2005/keywords/graphic
+  maxima-20210124.2005/keywords/object
+  maxima-20210124.2005/keywords/operators
+  maxima-20210124.2005/keywords/options
+  maxima-20210124.2005/keywords/plot
+  maxima-20210124.2005/keywords/properties
+  maxima-20210124.2005/keywords/scene
+  maxima-20210124.2005/keywords/special
+  maxima-20210124.2005/keywords/system_variables
+  maxima-20210124.2005/maxima-font-lock.el
+  maxima-20210124.2005/maxima-pkg.el
+  maxima-20210124.2005/maxima.el
+Built maxima in 4.045s, finished at Wed May 19 03:43:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  416 May 19 03:43 packages/maxima-20210124.2005.entry
+192K -rw-r--r-- 1 root root 190K May 19 03:43 packages/maxima-20210124.2005.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:43 packages/maxima-badge.svg
+4.0K -rw-r--r-- 1 root root  572 May 19 03:43 packages/maxima-readme.txt

@@ -1,0 +1,6 @@
+Package: nova-theme
+Fetcher: github
+Source:  https://github.com/muirmanders/emacs-nova-theme.git
+
+Updating /mnt/store/melpa/working/nova-theme/
+No valid stable versions found for nova-theme

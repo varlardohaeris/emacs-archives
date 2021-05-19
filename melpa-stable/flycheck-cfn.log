@@ -1,0 +1,11 @@
+Package: flycheck-cfn
+Fetcher: gitlab
+Source:  https://gitlab.com/worr/cfn-mode.git
+
+Updating /mnt/store/melpa/working/flycheck-cfn/
+Built flycheck-cfn in 3.029s, finished at Wed May 19 04:34:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 4.0K May 19 04:34 packages-stable/flycheck-cfn-1.0.0.el
+4.0K -rw-r--r-- 1 root root  385 May 19 04:34 packages-stable/flycheck-cfn-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-cfn-badge.svg
+4.0K -rw-r--r-- 1 root root  501 May 19 04:34 packages-stable/flycheck-cfn-readme.txt

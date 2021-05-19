@@ -1,0 +1,24 @@
+Package: ess-smart-underscore
+Fetcher: github
+Source:  https://github.com/mattfidler/ess-smart-underscore.el.git
+
+Updating /mnt/store/melpa/working/ess-smart-underscore/
+Note: ess-smart-underscore :files spec is equivalent to the default.
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ess-smart-underscore/
+  to /tmp/ess-smart-underscoren3WMcv/ess-smart-underscore-0.81
+    ess-smart-underscore.el -> ess-smart-underscore.el
+    dir -> dir
+    ess-smart-underscore.info -> ess-smart-underscore.info
+Created ess-smart-underscore-0.81.tar containing:
+  ess-smart-underscore-0.81/
+  ess-smart-underscore-0.81/dir
+  ess-smart-underscore-0.81/ess-smart-underscore-pkg.el
+  ess-smart-underscore-0.81/ess-smart-underscore.el
+  ess-smart-underscore-0.81/ess-smart-underscore.info
+Built ess-smart-underscore in 2.701s, finished at Wed May 19 04:31:49 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  342 May 19 04:31 packages-stable/ess-smart-underscore-0.81.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:31 packages-stable/ess-smart-underscore-0.81.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ess-smart-underscore-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K May 19 04:31 packages-stable/ess-smart-underscore-readme.txt

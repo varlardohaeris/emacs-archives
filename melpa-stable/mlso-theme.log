@@ -1,0 +1,6 @@
+Package: mlso-theme
+Fetcher: github
+Source:  https://github.com/Mulling/mlso-theme.git
+
+Updating /mnt/store/melpa/working/mlso-theme/
+No valid stable versions found for mlso-theme

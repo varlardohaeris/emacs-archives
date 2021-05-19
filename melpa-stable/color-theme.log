@@ -1,0 +1,6 @@
+Package: color-theme
+Fetcher: github
+Source:  https://github.com/emacsattic/color-theme.git
+
+Updating /mnt/store/melpa/working/color-theme/
+No valid stable versions found for color-theme

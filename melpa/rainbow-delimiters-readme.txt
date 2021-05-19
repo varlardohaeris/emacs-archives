@@ -1,3 +1,4 @@
+
 Rainbow-delimiters is a "rainbow parentheses"-like mode which highlights
 parentheses, brackets, and braces according to their depth. Each
 successive level is highlighted in a different color. This makes it easy

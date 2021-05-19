@@ -1,0 +1,6 @@
+Package: ox-tiddly
+Fetcher: github
+Source:  https://github.com/dfeich/org8-wikiexporters.git
+
+Updating /mnt/store/melpa/working/ox-tiddly/
+No valid stable versions found for ox-tiddly

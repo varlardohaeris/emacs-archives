@@ -1,0 +1,6 @@
+Package: hemisu-theme
+Fetcher: github
+Source:  https://github.com/andrzejsliwa/hemisu-theme.git
+
+Updating /mnt/store/melpa/working/hemisu-theme/
+No valid stable versions found for hemisu-theme

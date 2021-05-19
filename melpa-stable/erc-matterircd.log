@@ -1,0 +1,6 @@
+Package: erc-matterircd
+Fetcher: github
+Source:  https://github.com/alexmurray/erc-matterircd.git
+
+Updating /mnt/store/melpa/working/erc-matterircd/
+No valid stable versions found for erc-matterircd

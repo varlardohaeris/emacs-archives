@@ -1,0 +1,11 @@
+Package: elpa-audit
+Fetcher: github
+Source:  https://github.com/purcell/elpa-audit.git
+
+Updating /mnt/store/melpa/working/elpa-audit/
+Built elpa-audit in 4.622s, finished at Wed May 19 03:15:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.3K May 19 03:15 packages/elpa-audit-20141023.1331.el
+4.0K -rw-r--r-- 1 root root  394 May 19 03:15 packages/elpa-audit-20141023.1331.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:15 packages/elpa-audit-badge.svg
+4.0K -rw-r--r-- 1 root root   50 May 19 03:15 packages/elpa-audit-readme.txt

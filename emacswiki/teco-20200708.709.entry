@@ -1,0 +1,2 @@
+
+(teco . [(20200708 709) nil "Teco interpreter" single ((:commit . "2529eb0f7f35c526c1b6fca5250399718ff5138a") (:keywords "convenience" "emulations" "files") (:authors ("Dale R. Worley" . "worley@alum.mit.edu")) (:maintainer "Mark T. Kennedy" . "mtk@acm.org") (:url . "https://github.com/mtk/teco.git"))])

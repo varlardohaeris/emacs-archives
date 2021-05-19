@@ -1,0 +1,11 @@
+Package: ede-php-autoload-composer-installers
+Fetcher: github
+Source:  https://github.com/xendk/ede-php-autoload-composer-installers.git
+
+Updating /mnt/store/melpa/working/ede-php-autoload-composer-installers/
+Built ede-php-autoload-composer-installers in 2.889s, finished at Wed May 19 04:29:19 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.1K May 19 04:29 packages-stable/ede-php-autoload-composer-installers-0.1.0.el
+4.0K -rw-r--r-- 1 root root  528 May 19 04:29 packages-stable/ede-php-autoload-composer-installers-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/ede-php-autoload-composer-installers-badge.svg
+4.0K -rw-r--r-- 1 root root  336 May 19 04:29 packages-stable/ede-php-autoload-composer-installers-readme.txt

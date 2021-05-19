@@ -1,0 +1,21 @@
+Package: rescript-mode
+Fetcher: github
+Source:  https://github.com/jjlee/rescript-mode.git
+
+Updating /mnt/store/melpa/working/rescript-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rescript-mode/
+  to /tmp/rescript-mode9fF1Dw/rescript-mode-20210506.2101
+    rescript-indent.el -> rescript-indent.el
+    rescript-mode.el -> rescript-mode.el
+Created rescript-mode-20210506.2101.tar containing:
+  rescript-mode-20210506.2101/
+  rescript-mode-20210506.2101/rescript-indent.el
+  rescript-mode-20210506.2101/rescript-mode-pkg.el
+  rescript-mode-20210506.2101/rescript-mode.el
+Built rescript-mode in 4.086s, finished at Wed May 19 04:00:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  456 May 19 04:00 packages/rescript-mode-20210506.2101.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 04:00 packages/rescript-mode-20210506.2101.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/rescript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  268 May 19 04:00 packages/rescript-mode-readme.txt

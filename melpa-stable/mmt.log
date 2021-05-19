@@ -1,0 +1,11 @@
+Package: mmt
+Fetcher: github
+Source:  https://github.com/mrkkrp/mmt.git
+
+Updating /mnt/store/melpa/working/mmt/
+Built mmt in 3.995s, finished at Wed May 19 01:35:35 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 4.0K May 19 01:35 packages-stable/mmt-0.2.0.el
+4.0K -rw-r--r-- 1 root root  403 May 19 01:35 packages-stable/mmt-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mmt-badge.svg
+4.0K -rw-r--r-- 1 root root  236 May 19 01:35 packages-stable/mmt-readme.txt

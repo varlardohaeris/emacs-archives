@@ -1,0 +1,6 @@
+Package: node-resolver
+Fetcher: github
+Source:  https://github.com/meandavejustice/node-resolver.el.git
+
+Updating /mnt/store/melpa/working/node-resolver/
+No valid stable versions found for node-resolver

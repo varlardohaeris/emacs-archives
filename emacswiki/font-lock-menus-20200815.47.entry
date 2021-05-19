@@ -1,0 +1,2 @@
+
+(font-lock-menus . [(20200815 47) nil "Font-lock menus: enhanced `font-menus.el'" single ((:commit . "123b54aa141850c3fbeee97d6b07241ef5f5b20b") (:keywords "font" "highlighting" "syntax" "decoration") (:authors ("Francis J. Wright, Simon Marshal, Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/font-lock-menus.el"))])

@@ -1,0 +1,6 @@
+Package: read-aloud
+Fetcher: github
+Source:  https://github.com/gromnitsky/read-aloud.el.git
+
+Updating /mnt/store/melpa/working/read-aloud/
+No valid stable versions found for read-aloud

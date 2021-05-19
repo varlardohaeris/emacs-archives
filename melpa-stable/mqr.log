@@ -1,0 +1,6 @@
+Package: mqr
+Fetcher: github
+Source:  https://github.com/calancha/multi-replace.git
+
+Updating /mnt/store/melpa/working/mqr/
+No valid stable versions found for mqr

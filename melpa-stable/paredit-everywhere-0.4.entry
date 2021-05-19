@@ -1,2 +1,10 @@
-
-(paredit-everywhere . [(0 4) ((paredit (22))) "Enable some paredit features in non-lisp buffers" single ((:commit . "72b7cd5dcdc02233a32e9f1a6c2d21dc30532170") (:keywords "languages" "convenience") (:authors ("Steve Purcell" . "steve@sanityinc.com")) (:maintainer "Steve Purcell" . "steve@sanityinc.com"))])
+(paredit-everywhere .
+		    [(0 4)
+		     ((paredit
+		       (22)))
+		     "Enable some paredit features in non-lisp buffers" single
+		     ((:commit . "72b7cd5dcdc02233a32e9f1a6c2d21dc30532170")
+		      (:authors
+		       ("Steve Purcell" . "steve@sanityinc.com"))
+		      (:maintainer "Steve Purcell" . "steve@sanityinc.com")
+		      (:keywords "languages" "convenience"))])

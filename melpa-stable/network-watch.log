@@ -1,0 +1,6 @@
+Package: network-watch
+Fetcher: github
+Source:  https://github.com/jamiguet/network-watch.git
+
+Updating /mnt/store/melpa/working/network-watch/
+No valid stable versions found for network-watch

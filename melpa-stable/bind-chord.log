@@ -1,0 +1,11 @@
+Package: bind-chord
+Fetcher: github
+Source:  https://github.com/jwiegley/use-package.git
+
+Updating /mnt/store/melpa/working/bind-chord/
+Built bind-chord in 3.112s, finished at Wed May 19 04:21:12 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:21 packages-stable/bind-chord-2.4.1.el
+4.0K -rw-r--r-- 1 root root  472 May 19 04:21 packages-stable/bind-chord-2.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bind-chord-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:21 packages-stable/bind-chord-readme.txt

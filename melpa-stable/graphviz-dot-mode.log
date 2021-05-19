@@ -1,0 +1,21 @@
+Package: graphviz-dot-mode
+Fetcher: github
+Source:  https://github.com/ppareit/graphviz-dot-mode.git
+
+Updating /mnt/store/melpa/working/graphviz-dot-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/graphviz-dot-mode/
+  to /tmp/graphviz-dot-modevxJIrc/graphviz-dot-mode-0.4.2
+    company-graphviz-dot.el -> company-graphviz-dot.el
+    graphviz-dot-mode.el -> graphviz-dot-mode.el
+Created graphviz-dot-mode-0.4.2.tar containing:
+  graphviz-dot-mode-0.4.2/
+  graphviz-dot-mode-0.4.2/company-graphviz-dot.el
+  graphviz-dot-mode-0.4.2/graphviz-dot-mode-pkg.el
+  graphviz-dot-mode-0.4.2/graphviz-dot-mode.el
+Built graphviz-dot-mode in 2.672s, finished at Wed May 19 04:38:33 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  408 May 19 04:38 packages-stable/graphviz-dot-mode-0.4.2.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 04:38 packages-stable/graphviz-dot-mode-0.4.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/graphviz-dot-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  620 May 19 04:38 packages-stable/graphviz-dot-mode-readme.txt

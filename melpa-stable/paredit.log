@@ -1,0 +1,17 @@
+Package: paredit
+Fetcher: git
+Source:  https://mumble.net/~campbell/git/paredit.git
+
+Updating /mnt/store/melpa/working/paredit/
+Note: paredit :files spec is equivalent to the default.
+Built paredit in 3.497s, finished at Wed May 19 01:41:58 2021
+ ✓ Success:
+120K -rw-r--r-- 1 root root 119K May 19 01:41 packages-stable/paredit-24.el
+4.0K -rw-r--r-- 1 root root  237 May 19 01:41 packages-stable/paredit-24.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/paredit-badge.svg
+4.0K -rw-r--r-- 1 root root 2.8K May 19 01:41 packages-stable/paredit-everywhere-0.4.el
+4.0K -rw-r--r-- 1 root root  377 May 19 01:41 packages-stable/paredit-everywhere-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/paredit-everywhere-badge.svg
+4.0K -rw-r--r-- 1 root root  350 May 19 01:41 packages-stable/paredit-everywhere-readme.txt
+4.0K -rw-r--r-- 1 root root  607 May 19 01:41 packages-stable/paredit-everywhere.log
+4.0K -rw-r--r-- 1 root root  189 May 19 01:41 packages-stable/paredit-menu.log

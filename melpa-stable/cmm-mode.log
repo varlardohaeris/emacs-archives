@@ -1,0 +1,6 @@
+Package: cmm-mode
+Fetcher: github
+Source:  https://github.com/bgamari/cmm-mode.git
+
+Updating /mnt/store/melpa/working/cmm-mode/
+No valid stable versions found for cmm-mode

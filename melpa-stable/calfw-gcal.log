@@ -1,0 +1,6 @@
+Package: calfw-gcal
+Fetcher: github
+Source:  https://github.com/myuhe/calfw-gcal.el.git
+
+Updating /mnt/store/melpa/working/calfw-gcal/
+No valid stable versions found for calfw-gcal

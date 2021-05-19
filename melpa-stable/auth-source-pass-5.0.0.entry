@@ -1,2 +1,12 @@
-
-(auth-source-pass . [(5 0 0) ((emacs (25))) "Integrate auth-source with password-store" single ((:commit . "df074612114c3cc2fa1c3023f26ff182f9b1190a") (:authors ("Damien Cassou" . "damien@cassou.me") ("Nicolas Petton" . "nicolas@petton.fr") ("Keith Amidon" . "camalot@picnicpark.org")) (:maintainer "Damien Cassou" . "damien@cassou.me") (:url . "https://github.com/DamienCassou/auth-password-store"))])
+(auth-source-pass .
+		  [(5 0 0)
+		   ((emacs
+		     (25)))
+		   "Integrate auth-source with password-store" single
+		   ((:commit . "df074612114c3cc2fa1c3023f26ff182f9b1190a")
+		    (:authors
+		     ("Damien Cassou" . "damien@cassou.me")
+		     ("Nicolas Petton" . "nicolas@petton.fr")
+		     ("Keith Amidon" . "camalot@picnicpark.org"))
+		    (:maintainer "Damien Cassou" . "damien@cassou.me")
+		    (:url . "https://github.com/DamienCassou/auth-password-store"))])

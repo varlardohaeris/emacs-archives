@@ -1,0 +1,11 @@
+Package: image+
+Fetcher: github
+Source:  https://github.com/emacsorphanage/image-plus.git
+
+Updating /mnt/store/melpa/working/image+/
+Built image+ in 3.099s, finished at Wed May 19 04:42:54 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 04:42 packages-stable/image+-0.6.2.el
+4.0K -rw-r--r-- 1 root root  382 May 19 04:42 packages-stable/image+-0.6.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/image+-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 04:42 packages-stable/image+-readme.txt

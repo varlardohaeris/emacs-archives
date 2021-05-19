@@ -1,0 +1,6 @@
+Package: helm-addressbook
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-addressbook.git
+
+Updating /mnt/store/melpa/working/helm-addressbook/
+No valid stable versions found for helm-addressbook

@@ -1,0 +1,6 @@
+Package: prosjekt
+Fetcher: github
+Source:  https://github.com/abingham/prosjekt.git
+
+Updating /mnt/store/melpa/working/prosjekt/
+No valid stable versions found for prosjekt

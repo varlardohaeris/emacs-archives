@@ -1,0 +1,6 @@
+Package: hungarian-holidays
+Fetcher: github
+Source:  https://github.com/gergelypolonkai/hungarian-holidays.git
+
+Updating /mnt/store/melpa/working/hungarian-holidays/
+No valid stable versions found for hungarian-holidays

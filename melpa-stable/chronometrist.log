@@ -1,0 +1,36 @@
+Package: chronometrist
+Fetcher: git
+Source:  https://tildegit.org/contrapunctus/chronometrist.git
+
+Updating /mnt/store/melpa/working/chronometrist/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chronometrist/
+  to /tmp/chronometrist7pCNjK/chronometrist-0.7.1
+  ! doc/manual.info -> manual.info
+  ! elisp/chronometrist-diary-view.el -> chronometrist-diary-view.el
+  ! elisp/chronometrist.el -> chronometrist.el
+  ! elisp/chronometrist.org -> chronometrist.org
+Created chronometrist-0.7.1.tar containing:
+  chronometrist-0.7.1/
+  chronometrist-0.7.1/chronometrist-diary-view.el
+  chronometrist-0.7.1/chronometrist-pkg.el
+  chronometrist-0.7.1/chronometrist.el
+  chronometrist-0.7.1/chronometrist.org
+  chronometrist-0.7.1/dir
+  chronometrist-0.7.1/manual.info
+Built chronometrist in 2.827s, finished at Wed May 19 04:23:13 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  478 May 19 04:23 packages-stable/chronometrist-0.7.1.entry
+172K -rw-r--r-- 1 root root 170K May 19 04:23 packages-stable/chronometrist-0.7.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/chronometrist-badge.svg
+ 12K -rw-r--r-- 1 root root  12K May 10 19:25 packages-stable/chronometrist-goal-0.3.0.el
+4.0K -rw-r--r-- 1 root root  518 May 10 19:25 packages-stable/chronometrist-goal-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 10 19:25 packages-stable/chronometrist-goal-badge.svg
+4.0K -rw-r--r-- 1 root root  169 May 10 19:25 packages-stable/chronometrist-goal-readme.txt
+4.0K -rw-r--r-- 1 root root  217 May 19 04:23 packages-stable/chronometrist-goal.log
+4.0K -rw-r--r-- 1 root root  439 May 19 04:23 packages-stable/chronometrist-key-values-0.7.1.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:23 packages-stable/chronometrist-key-values-0.7.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:08 packages-stable/chronometrist-key-values-badge.svg
+4.0K -rw-r--r-- 1 root root  379 May 19 04:23 packages-stable/chronometrist-key-values-readme.txt
+4.0K -rw-r--r-- 1 root root 1004 May 19 04:23 packages-stable/chronometrist-key-values.log
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:23 packages-stable/chronometrist-readme.txt

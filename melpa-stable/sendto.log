@@ -1,0 +1,6 @@
+Package: sendto
+Fetcher: github
+Source:  https://github.com/lujun9972/sendto.el.git
+
+Updating /mnt/store/melpa/working/sendto/
+No valid stable versions found for sendto

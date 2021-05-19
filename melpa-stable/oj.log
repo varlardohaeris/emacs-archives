@@ -1,0 +1,6 @@
+Package: oj
+Fetcher: github
+Source:  https://github.com/conao3/oj.el.git
+
+Updating /mnt/store/melpa/working/oj/
+No valid stable versions found for oj

@@ -1,0 +1,6 @@
+Package: indian-ext
+Fetcher: github
+Source:  https://github.com/paddymcall/indian-ext.git
+
+Updating /mnt/store/melpa/working/indian-ext/
+No valid stable versions found for indian-ext

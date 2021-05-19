@@ -1,0 +1,6 @@
+Package: inf-mongo
+Fetcher: github
+Source:  https://github.com/endofunky/inf-mongo.git
+
+Updating /mnt/store/melpa/working/inf-mongo/
+No valid stable versions found for inf-mongo

@@ -1,0 +1,22 @@
+Package: yaml
+Fetcher: github
+Source:  https://github.com/zkry/yaml.el.git
+
+Updating /mnt/store/melpa/working/yaml/
+Built yaml in 3.872s, finished at Wed May 19 01:56:14 2021
+ ✓ Success:
+104K -rw-r--r-- 1 root root 104K May 19 01:56 packages-stable/yaml-0.2.1.el
+4.0K -rw-r--r-- 1 root root  323 May 19 01:56 packages-stable/yaml-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yaml-badge.svg
+4.0K -rw-r--r-- 1 root root  445 May 19 01:56 packages-stable/yaml-imenu-1.0.2.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:56 packages-stable/yaml-imenu-1.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yaml-imenu-badge.svg
+4.0K -rw-r--r-- 1 root root  795 May 19 01:56 packages-stable/yaml-imenu-readme.txt
+4.0K -rw-r--r-- 1 root root  909 May 19 01:56 packages-stable/yaml-imenu.log
+ 20K -rw-r--r-- 1 root root  18K May 19 01:56 packages-stable/yaml-mode-0.0.15.el
+4.0K -rw-r--r-- 1 root root  387 May 18 22:41 packages-stable/yaml-mode-0.0.15.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:41 packages-stable/yaml-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  942 May 18 22:41 packages-stable/yaml-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  131 May 19 01:56 packages-stable/yaml-mode.log
+4.0K -rw-r--r-- 1 root root  512 May 19 01:56 packages-stable/yaml-readme.txt
+4.0K -rw-r--r-- 1 root root  189 May 19 01:56 packages-stable/yaml-tomato.log

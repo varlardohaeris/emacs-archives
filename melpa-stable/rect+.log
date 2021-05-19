@@ -1,0 +1,11 @@
+Package: rect+
+Fetcher: github
+Source:  https://github.com/mhayashi1120/Emacs-rectplus.git
+
+Updating /mnt/store/melpa/working/rect+/
+Built rect+ in 4.710s, finished at Wed May 19 01:45:54 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:45 packages-stable/rect+-1.0.10.el
+4.0K -rw-r--r-- 1 root root  350 May 19 01:45 packages-stable/rect+-1.0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rect+-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:45 packages-stable/rect+-readme.txt

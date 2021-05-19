@@ -1,0 +1,6 @@
+Package: clevercss
+Fetcher: github
+Source:  https://github.com/jschaf/CleverCSS-Mode.git
+
+Updating /mnt/store/melpa/working/clevercss/
+No valid stable versions found for clevercss

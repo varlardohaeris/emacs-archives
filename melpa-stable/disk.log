@@ -1,0 +1,6 @@
+Package: disk
+Fetcher: github
+Source:  https://github.com/kensanata/disk.git
+
+Updating /mnt/store/melpa/working/disk/
+No valid stable versions found for disk

@@ -1,0 +1,6 @@
+Package: swiss-holidays
+Fetcher: github
+Source:  https://github.com/egli/swiss-holidays.git
+
+Updating /mnt/store/melpa/working/swiss-holidays/
+No valid stable versions found for swiss-holidays

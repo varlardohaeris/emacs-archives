@@ -1,0 +1,6 @@
+Package: fuo
+Fetcher: github
+Source:  https://github.com/feeluown/emacs-fuo.git
+
+Updating /mnt/store/melpa/working/fuo/
+No valid stable versions found for fuo

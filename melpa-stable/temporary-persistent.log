@@ -1,0 +1,6 @@
+Package: temporary-persistent
+Fetcher: github
+Source:  https://github.com/kostafey/temporary-persistent.git
+
+Updating /mnt/store/melpa/working/temporary-persistent/
+No valid stable versions found for temporary-persistent

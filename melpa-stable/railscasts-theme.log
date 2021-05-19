@@ -1,0 +1,6 @@
+Package: railscasts-theme
+Fetcher: github
+Source:  https://github.com/mikenichols/railscasts-theme.git
+
+Updating /mnt/store/melpa/working/railscasts-theme/
+No valid stable versions found for railscasts-theme

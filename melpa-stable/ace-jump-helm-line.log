@@ -1,0 +1,11 @@
+Package: ace-jump-helm-line
+Fetcher: github
+Source:  https://github.com/cute-jumper/ace-jump-helm-line.git
+
+Updating /mnt/store/melpa/working/ace-jump-helm-line/
+Built ace-jump-helm-line in 3.132s, finished at Wed May 19 04:18:39 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  24K May 19 04:18 packages-stable/ace-jump-helm-line-0.5.0.el
+4.0K -rw-r--r-- 1 root root  452 May 19 04:18 packages-stable/ace-jump-helm-line-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ace-jump-helm-line-badge.svg
+ 12K -rw-r--r-- 1 root root 9.5K May 19 04:18 packages-stable/ace-jump-helm-line-readme.txt

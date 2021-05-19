@@ -1,0 +1,55 @@
+Package: mmm-mode
+Fetcher: github
+Source:  https://github.com/purcell/mmm-mode.git
+
+Updating /mnt/store/melpa/working/mmm-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mmm-mode/
+  to /tmp/mmm-modeH4epkM/mmm-mode-0.5.8
+    mmm-auto.el -> mmm-auto.el
+    mmm-class.el -> mmm-class.el
+    mmm-cmds.el -> mmm-cmds.el
+    mmm-compat.el -> mmm-compat.el
+    mmm-cweb.el -> mmm-cweb.el
+    mmm-defaults.el -> mmm-defaults.el
+    mmm-erb.el -> mmm-erb.el
+    mmm-mason.el -> mmm-mason.el
+    mmm-mode.el -> mmm-mode.el
+    mmm-myghty.el -> mmm-myghty.el
+    mmm-noweb.el -> mmm-noweb.el
+    mmm-region.el -> mmm-region.el
+    mmm-rpm.el -> mmm-rpm.el
+    mmm-sample.el -> mmm-sample.el
+    mmm-univ.el -> mmm-univ.el
+    mmm-utils.el -> mmm-utils.el
+    mmm-vars.el -> mmm-vars.el
+    mmm.texinfo -> mmm.texinfo
+Created /tmp/mmm-modeH4epkM/mmm-mode-0.5.8/mmm.info
+Created mmm-mode-0.5.8.tar containing:
+  mmm-mode-0.5.8/
+  mmm-mode-0.5.8/dir
+  mmm-mode-0.5.8/mmm-auto.el
+  mmm-mode-0.5.8/mmm-class.el
+  mmm-mode-0.5.8/mmm-cmds.el
+  mmm-mode-0.5.8/mmm-compat.el
+  mmm-mode-0.5.8/mmm-cweb.el
+  mmm-mode-0.5.8/mmm-defaults.el
+  mmm-mode-0.5.8/mmm-erb.el
+  mmm-mode-0.5.8/mmm-mason.el
+  mmm-mode-0.5.8/mmm-mode-pkg.el
+  mmm-mode-0.5.8/mmm-mode.el
+  mmm-mode-0.5.8/mmm-myghty.el
+  mmm-mode-0.5.8/mmm-noweb.el
+  mmm-mode-0.5.8/mmm-region.el
+  mmm-mode-0.5.8/mmm-rpm.el
+  mmm-mode-0.5.8/mmm-sample.el
+  mmm-mode-0.5.8/mmm-univ.el
+  mmm-mode-0.5.8/mmm-utils.el
+  mmm-mode-0.5.8/mmm-vars.el
+  mmm-mode-0.5.8/mmm.info
+Built mmm-mode in 12.674s, finished at Wed May 19 01:35:43 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  405 May 19 01:35 packages-stable/mmm-mode-0.5.8.entry
+312K -rw-r--r-- 1 root root 310K May 19 01:35 packages-stable/mmm-mode-0.5.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mmm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K May 19 01:35 packages-stable/mmm-mode-readme.txt

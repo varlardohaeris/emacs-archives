@@ -1,0 +1,11 @@
+Package: flycheck-cask
+Fetcher: github
+Source:  https://github.com/flycheck/flycheck-cask.git
+
+Updating /mnt/store/melpa/working/flycheck-cask/
+Built flycheck-cask in 2.893s, finished at Wed May 19 04:34:28 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.7K May 19 04:34 packages-stable/flycheck-cask-0.4.el
+4.0K -rw-r--r-- 1 root root  423 May 19 04:34 packages-stable/flycheck-cask-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-cask-badge.svg
+4.0K -rw-r--r-- 1 root root  166 May 19 04:34 packages-stable/flycheck-cask-readme.txt

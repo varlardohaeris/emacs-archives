@@ -1,0 +1,6 @@
+Package: magit-reviewboard
+Fetcher: github
+Source:  https://github.com/jtamagnan/magit-reviewboard.git
+
+Updating /mnt/store/melpa/working/magit-reviewboard/
+No valid stable versions found for magit-reviewboard

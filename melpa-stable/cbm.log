@@ -1,0 +1,11 @@
+Package: cbm
+Fetcher: github
+Source:  https://github.com/akermu/cbm.el.git
+
+Updating /mnt/store/melpa/working/cbm/
+Built cbm in 3.605s, finished at Wed May 19 04:22:47 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K May 19 04:22 packages-stable/cbm-0.6.el
+4.0K -rw-r--r-- 1 root root  355 May 19 04:22 packages-stable/cbm-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cbm-badge.svg
+4.0K -rw-r--r-- 1 root root  557 May 19 04:22 packages-stable/cbm-readme.txt

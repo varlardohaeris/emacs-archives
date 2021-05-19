@@ -1,3 +1,4 @@
+
 In scientific literature, it is common to format the symbols for
 chemical elements, molecules and unit names by using roman (as
 opposed to italic) letters for the names.  This makes such things
@@ -119,3 +120,5 @@ Version 1.1
 - Add formatting of numbers
 Version 1.2
 - Allow point to force isotope/stoichiometric assignment like C18.H
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

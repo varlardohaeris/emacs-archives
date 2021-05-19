@@ -1,0 +1,6 @@
+Package: gopher
+Fetcher: github
+Source:  https://github.com/msnyder-info/gopher.el.git
+
+Updating /mnt/store/melpa/working/gopher/
+No valid stable versions found for gopher

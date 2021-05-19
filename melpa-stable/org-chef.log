@@ -1,0 +1,6 @@
+Package: org-chef
+Fetcher: github
+Source:  https://github.com/Chobbes/org-chef.git
+
+Updating /mnt/store/melpa/working/org-chef/
+No valid stable versions found for org-chef

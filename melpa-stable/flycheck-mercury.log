@@ -1,0 +1,6 @@
+Package: flycheck-mercury
+Fetcher: github
+Source:  https://github.com/flycheck/flycheck-mercury.git
+
+Updating /mnt/store/melpa/working/flycheck-mercury/
+No valid stable versions found for flycheck-mercury

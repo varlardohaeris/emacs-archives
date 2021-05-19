@@ -1,0 +1,11 @@
+Package: flymake-json
+Fetcher: github
+Source:  https://github.com/purcell/flymake-json.git
+
+Updating /mnt/store/melpa/working/flymake-json/
+Built flymake-json in 2.966s, finished at Wed May 19 04:35:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.6K May 19 04:35 packages-stable/flymake-json-0.1.el
+4.0K -rw-r--r-- 1 root root  357 May 19 04:35 packages-stable/flymake-json-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-json-badge.svg
+4.0K -rw-r--r-- 1 root root  335 May 19 04:35 packages-stable/flymake-json-readme.txt

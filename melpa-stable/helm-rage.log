@@ -1,0 +1,6 @@
+Package: helm-rage
+Fetcher: github
+Source:  https://github.com/bomgar/helm-rage.git
+
+Updating /mnt/store/melpa/working/helm-rage/
+No valid stable versions found for helm-rage

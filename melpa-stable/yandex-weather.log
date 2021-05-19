@@ -1,0 +1,6 @@
+Package: yandex-weather
+Fetcher: github
+Source:  https://github.com/acme4j/yandex-weather.el.git
+
+Updating /mnt/store/melpa/working/yandex-weather/
+No valid stable versions found for yandex-weather

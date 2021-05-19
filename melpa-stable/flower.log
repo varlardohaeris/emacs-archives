@@ -1,0 +1,21 @@
+Package: flower
+Fetcher: github
+Source:  https://github.com/PositiveTechnologies/flower.git
+
+Updating /mnt/store/melpa/working/flower/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flower/
+  to /tmp/flowerVDeOK4/flower-0.4.6
+    flower.el -> flower.el
+    project.clj -> project.clj
+Created flower-0.4.6.tar containing:
+  flower-0.4.6/
+  flower-0.4.6/flower-pkg.el
+  flower-0.4.6/flower.el
+  flower-0.4.6/project.clj
+Built flower in 2.998s, finished at Wed May 19 04:34:20 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  396 May 19 04:34 packages-stable/flower-0.4.6.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:34 packages-stable/flower-0.4.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flower-badge.svg
+4.0K -rw-r--r-- 1 root root  205 May 19 04:34 packages-stable/flower-readme.txt

@@ -1,6 +1,6 @@
 Provides an `cider-decompile' command.
 
-Installation:
+; Installation:
 
 Available as a package in marmalade-repo.org and melpa.org.
 

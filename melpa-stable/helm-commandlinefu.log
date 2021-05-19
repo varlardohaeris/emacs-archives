@@ -1,0 +1,11 @@
+Package: helm-commandlinefu
+Fetcher: github
+Source:  https://github.com/xuchunyang/helm-commandlinefu.git
+
+Updating /mnt/store/melpa/working/helm-commandlinefu/
+Built helm-commandlinefu in 3.201s, finished at Wed May 19 04:40:01 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K May 19 04:40 packages-stable/helm-commandlinefu-0.3.el
+4.0K -rw-r--r-- 1 root root  533 May 19 04:40 packages-stable/helm-commandlinefu-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-commandlinefu-badge.svg
+4.0K -rw-r--r-- 1 root root  281 May 19 04:40 packages-stable/helm-commandlinefu-readme.txt

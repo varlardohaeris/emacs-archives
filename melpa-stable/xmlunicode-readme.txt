@@ -2,7 +2,7 @@ This file provides a suite of functions designed to make it easier
 to enter Unicode into Emacs. It is not, in fact, particularly XML-specific though
 it does define an 'xml input-mode and does support the ISO 8879 entity names.
 
-Usage
+; Usage
 
 1. By default, the entire Unicode character list (as defined in
    xmlunicode-character-list.el) will be loaded. You can tailor
@@ -60,8 +60,19 @@ Usage
    you don't have it in your fonts, use xmlunicode-character-insert or
    xmlunicode-iso8879-character-insert with a prefix.)
 
-Changes
+; Changes
 
+v1.23 23 Aug 2020
+  Fixed bug where xmlunicode-smart-hyphen didn't recognize the
+  context "<!-" as the beginning of a comment and therefore that
+  another "-" should be inserted rather than replacing the hyphen
+  with an emdash. This was a consequence of changing
+  xmlunicode-in-comment so that a bare "<!" wasn't recognized as
+  the start of a comment.
+v1.22 11 Aug 2020
+  Fixed a bug in xmlunicode-in-comment where it would mistake the
+  beginning of a CDATA section for the start of a comment.
+  Removed deprecated 'cl package.
 v1.21 24 Nov 2019
   Moved the helm-related functions into a separate file. Helm must be
   setup before you can require 'xmlunicode-helm. This avoids an ugly bug

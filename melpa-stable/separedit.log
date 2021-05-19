@@ -1,0 +1,12 @@
+Package: separedit
+Fetcher: github
+Source:  https://github.com/twlz0ne/separedit.el.git
+
+Updating /mnt/store/melpa/working/separedit/
+Note: separedit :files spec is equivalent to the default.
+Built separedit in 3.755s, finished at Wed May 19 01:47:59 2021
+ ✓ Success:
+ 72K -rw-r--r-- 1 root root  70K May 19 01:47 packages-stable/separedit-0.3.0.el
+4.0K -rw-r--r-- 1 root root  483 May 19 01:47 packages-stable/separedit-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/separedit-badge.svg
+ 12K -rw-r--r-- 1 root root 9.4K May 19 01:47 packages-stable/separedit-readme.txt

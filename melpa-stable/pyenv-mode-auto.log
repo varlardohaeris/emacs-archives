@@ -1,0 +1,6 @@
+Package: pyenv-mode-auto
+Fetcher: github
+Source:  https://github.com/ssbb/pyenv-mode-auto.git
+
+Updating /mnt/store/melpa/working/pyenv-mode-auto/
+No valid stable versions found for pyenv-mode-auto

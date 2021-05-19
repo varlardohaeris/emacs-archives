@@ -1,0 +1,6 @@
+Package: todoist
+Fetcher: github
+Source:  https://github.com/abrochard/emacs-todoist.git
+
+Updating /mnt/store/melpa/working/todoist/
+No valid stable versions found for todoist

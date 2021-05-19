@@ -1,0 +1,11 @@
+Package: yoshi-theme
+Fetcher: github
+Source:  https://github.com/ryuslash/yoshi-theme.git
+
+Updating /mnt/store/melpa/working/yoshi-theme/
+Built yoshi-theme in 3.815s, finished at Wed May 19 01:56:33 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  28K May 19 01:56 packages-stable/yoshi-theme-6.2.0.el
+4.0K -rw-r--r-- 1 root root  347 May 19 01:56 packages-stable/yoshi-theme-6.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yoshi-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   70 May 19 01:56 packages-stable/yoshi-theme-readme.txt

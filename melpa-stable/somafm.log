@@ -1,0 +1,6 @@
+Package: somafm
+Fetcher: github
+Source:  https://github.com/artenator/somafm.el.git
+
+Updating /mnt/store/melpa/working/somafm/
+No valid stable versions found for somafm

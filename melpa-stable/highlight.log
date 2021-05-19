@@ -1,0 +1,6 @@
+Package: highlight
+Fetcher: github
+Source:  https://github.com/emacsmirror/highlight.git
+
+Updating /mnt/store/melpa/working/highlight/
+No valid stable versions found for highlight

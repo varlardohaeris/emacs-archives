@@ -1,3 +1,4 @@
+
 This code is used to run to functions depending on whether the
 current font-lock font is at point.  As font-lock is usually
 syntactically meaningful this means that you can for instance
@@ -17,7 +18,7 @@ is.  The default behaviour is to switch `auto-fill' mode on when
 point is within comments, and off when its in anything else.
 
 
-Notes for developers:
+; Notes for developers:
 ~/src/ht/home_website/
 There are actually two ways to use this mode, firstly as a minor
 mode. Default behaviour is to toggle auto-fill on and off, but you
@@ -86,7 +87,7 @@ let me know if it works elsewhere. The current version should be
 available at http://www.bioinf.man.ac.uk/~lord
 
 
-Acknowledgements:
+; Acknowledgements:
 
 This code has grown up over about a year. It originally started off
 as jde-auto-abbrev. I would like to thank Joakim Verona

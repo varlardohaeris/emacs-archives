@@ -1,0 +1,6 @@
+Package: sequences
+Fetcher: github
+Source:  https://github.com/timvisher/sequences.el.git
+
+Updating /mnt/store/melpa/working/sequences/
+No valid stable versions found for sequences

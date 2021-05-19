@@ -1,0 +1,6 @@
+Package: srcery-theme
+Fetcher: github
+Source:  https://github.com/srcery-colors/srcery-emacs.git
+
+Updating /mnt/store/melpa/working/srcery-theme/
+No valid stable versions found for srcery-theme

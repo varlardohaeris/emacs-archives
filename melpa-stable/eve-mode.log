@@ -1,0 +1,6 @@
+Package: eve-mode
+Fetcher: github
+Source:  https://github.com/witheve/emacs-eve-mode.git
+
+Updating /mnt/store/melpa/working/eve-mode/
+No valid stable versions found for eve-mode

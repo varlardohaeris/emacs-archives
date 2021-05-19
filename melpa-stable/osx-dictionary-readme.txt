@@ -1,3 +1,4 @@
+
 Interface for OSX Dictionary.app
 
 Translation word by Dictionary.app, and display result using buffer.
@@ -9,6 +10,6 @@ Search input word and display result with buffer
 Search word around and display result with buffer
 
 
-Installation:
+; Installation:
 
 This package is available on Melpa.

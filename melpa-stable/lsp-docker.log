@@ -1,0 +1,6 @@
+Package: lsp-docker
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-docker.git
+
+Updating /mnt/store/melpa/working/lsp-docker/
+No valid stable versions found for lsp-docker

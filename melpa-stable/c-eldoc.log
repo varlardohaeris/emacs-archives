@@ -1,0 +1,6 @@
+Package: c-eldoc
+Fetcher: github
+Source:  https://github.com/nflath/c-eldoc.git
+
+Updating /mnt/store/melpa/working/c-eldoc/
+No valid stable versions found for c-eldoc

@@ -1,0 +1,11 @@
+Package: inform7
+Fetcher: github
+Source:  https://github.com/GuiltyDolphin/inform7-mode.git
+
+Updating /mnt/store/melpa/working/inform7/
+Built inform7 in 2.969s, finished at Wed May 19 04:43:19 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.4K May 19 04:43 packages-stable/inform7-0.1.1.el
+4.0K -rw-r--r-- 1 root root  399 May 19 04:43 packages-stable/inform7-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/inform7-badge.svg
+4.0K -rw-r--r-- 1 root root  128 May 19 04:43 packages-stable/inform7-readme.txt

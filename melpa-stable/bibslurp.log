@@ -1,0 +1,6 @@
+Package: bibslurp
+Fetcher: github
+Source:  https://github.com/mkmcc/bibslurp.git
+
+Updating /mnt/store/melpa/working/bibslurp/
+No valid stable versions found for bibslurp

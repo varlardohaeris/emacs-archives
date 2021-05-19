@@ -1,0 +1,6 @@
+Package: magit-diff-flycheck
+Fetcher: github
+Source:  https://github.com/ragone/magit-diff-flycheck.git
+
+Updating /mnt/store/melpa/working/magit-diff-flycheck/
+No valid stable versions found for magit-diff-flycheck

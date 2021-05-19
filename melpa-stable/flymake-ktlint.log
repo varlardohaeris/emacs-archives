@@ -1,0 +1,6 @@
+Package: flymake-ktlint
+Fetcher: github
+Source:  https://github.com/jojojames/flymake-ktlint.git
+
+Updating /mnt/store/melpa/working/flymake-ktlint/
+No valid stable versions found for flymake-ktlint

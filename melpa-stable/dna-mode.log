@@ -1,0 +1,6 @@
+Package: dna-mode
+Fetcher: github
+Source:  https://github.com/jhgorrell/dna-mode-el.git
+
+Updating /mnt/store/melpa/working/dna-mode/
+No valid stable versions found for dna-mode

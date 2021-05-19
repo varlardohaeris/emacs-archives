@@ -1,0 +1,25 @@
+Package: rime
+Fetcher: github
+Source:  https://github.com/DogLooksGood/emacs-rime.git
+
+Updating /mnt/store/melpa/working/rime/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rime/
+  to /tmp/rime6sv2Ul/rime-1.0.4
+    rime-predicates.el -> rime-predicates.el
+    rime.el -> rime.el
+    lib.c -> lib.c
+    Makefile -> Makefile
+Created rime-1.0.4.tar containing:
+  rime-1.0.4/
+  rime-1.0.4/Makefile
+  rime-1.0.4/lib.c
+  rime-1.0.4/rime-pkg.el
+  rime-1.0.4/rime-predicates.el
+  rime-1.0.4/rime.el
+Built rime in 3.013s, finished at Wed May 19 01:46:49 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  386 May 19 01:46 packages-stable/rime-1.0.4.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 01:46 packages-stable/rime-1.0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/rime-badge.svg
+4.0K -rw-r--r-- 1 root root 3.0K May 19 01:46 packages-stable/rime-readme.txt

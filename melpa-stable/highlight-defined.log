@@ -1,0 +1,11 @@
+Package: highlight-defined
+Fetcher: github
+Source:  https://github.com/Fanael/highlight-defined.git
+
+Updating /mnt/store/melpa/working/highlight-defined/
+Built highlight-defined in 3.013s, finished at Wed May 19 04:41:40 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.0K May 19 04:41 packages-stable/highlight-defined-0.1.6.el
+4.0K -rw-r--r-- 1 root root  380 May 19 04:41 packages-stable/highlight-defined-0.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/highlight-defined-badge.svg
+4.0K -rw-r--r-- 1 root root  211 May 19 04:41 packages-stable/highlight-defined-readme.txt

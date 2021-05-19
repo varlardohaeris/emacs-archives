@@ -1,0 +1,11 @@
+Package: pkg-info
+Fetcher: github
+Source:  https://github.com/emacsorphanage/pkg-info.git
+
+Updating /mnt/store/melpa/working/pkg-info/
+Built pkg-info in 3.872s, finished at Wed May 19 01:43:12 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:43 packages-stable/pkg-info-0.6.el
+4.0K -rw-r--r-- 1 root root  374 May 19 01:43 packages-stable/pkg-info-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/pkg-info-badge.svg
+4.0K -rw-r--r-- 1 root root   59 May 19 01:43 packages-stable/pkg-info-readme.txt

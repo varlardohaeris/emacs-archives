@@ -1,0 +1,11 @@
+Package: consult-lsp
+Fetcher: github
+Source:  https://github.com/gagbo/consult-lsp.git
+
+Updating /mnt/store/melpa/working/consult-lsp/
+Built consult-lsp in 3.488s, finished at Wed May 19 04:25:06 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:25 packages-stable/consult-lsp-0.2.el
+4.0K -rw-r--r-- 1 root root  423 May 19 04:25 packages-stable/consult-lsp-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/consult-lsp-badge.svg
+4.0K -rw-r--r-- 1 root root 1001 May 19 04:25 packages-stable/consult-lsp-readme.txt

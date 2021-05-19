@@ -1,0 +1,6 @@
+Package: blimp
+Fetcher: github
+Source:  https://github.com/walseb/blimp.git
+
+Updating /mnt/store/melpa/working/blimp/
+No valid stable versions found for blimp

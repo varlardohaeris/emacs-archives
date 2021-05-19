@@ -1,0 +1,6 @@
+Package: clhs
+Fetcher: gitlab
+Source:  https://gitlab.com/sam-s/clhs.git
+
+Updating /mnt/store/melpa/working/clhs/
+No valid stable versions found for clhs

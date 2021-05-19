@@ -1,0 +1,6 @@
+Package: rustic
+Fetcher: github
+Source:  https://github.com/brotzeit/rustic.git
+
+Updating /mnt/store/melpa/working/rustic/
+No valid stable versions found for rustic

@@ -1,0 +1,6 @@
+Package: flycheck-dialyxir
+Fetcher: github
+Source:  https://github.com/aaronjensen/flycheck-dialyxir.git
+
+Updating /mnt/store/melpa/working/flycheck-dialyxir/
+No valid stable versions found for flycheck-dialyxir

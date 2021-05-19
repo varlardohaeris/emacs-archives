@@ -1,3 +1,4 @@
+
   This defines a new local minor-mode `sotclojure-mode', which is
   activated by the global `speed-of-thought-mode' on any clojure
   buffers.

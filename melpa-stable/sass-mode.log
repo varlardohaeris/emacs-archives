@@ -1,0 +1,11 @@
+Package: sass-mode
+Fetcher: github
+Source:  https://github.com/nex3/sass-mode.git
+
+Updating /mnt/store/melpa/working/sass-mode/
+Built sass-mode in 3.420s, finished at Wed May 19 01:47:27 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.5K May 19 01:47 packages-stable/sass-mode-3.0.18.el
+4.0K -rw-r--r-- 1 root root  361 May 19 01:47 packages-stable/sass-mode-3.0.18.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/sass-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  352 May 19 01:47 packages-stable/sass-mode-readme.txt

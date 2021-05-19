@@ -1,0 +1,11 @@
+Package: bool-flip
+Fetcher: github
+Source:  https://github.com/michaeljb/bool-flip.git
+
+Updating /mnt/store/melpa/working/bool-flip/
+Built bool-flip in 4.128s, finished at Wed May 19 03:02:45 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.7K May 19 03:02 packages/bool-flip-20161215.1539.el
+4.0K -rw-r--r-- 1 root root  422 May 19 03:02 packages/bool-flip-20161215.1539.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:02 packages/bool-flip-badge.svg
+4.0K -rw-r--r-- 1 root root  141 May 19 03:02 packages/bool-flip-readme.txt

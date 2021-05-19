@@ -1,0 +1,6 @@
+Package: term+
+Fetcher: github
+Source:  https://github.com/tarao/term-plus-el.git
+
+Updating /mnt/store/melpa/working/term+/
+No valid stable versions found for term+

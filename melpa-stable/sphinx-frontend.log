@@ -1,0 +1,6 @@
+Package: sphinx-frontend
+Fetcher: github
+Source:  https://github.com/kostafey/sphinx-frontend.git
+
+Updating /mnt/store/melpa/working/sphinx-frontend/
+No valid stable versions found for sphinx-frontend

@@ -1,0 +1,11 @@
+Package: ix
+Fetcher: github
+Source:  https://github.com/theanalyst/ix.el.git
+
+Updating /mnt/store/melpa/working/ix/
+Built ix in 3.437s, finished at Wed May 19 04:44:10 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K May 19 04:44 packages-stable/ix-0.7.el
+4.0K -rw-r--r-- 1 root root  352 May 19 04:44 packages-stable/ix-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/ix-badge.svg
+4.0K -rw-r--r-- 1 root root  965 May 19 04:44 packages-stable/ix-readme.txt

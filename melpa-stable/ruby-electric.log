@@ -1,0 +1,11 @@
+Package: ruby-electric
+Fetcher: github
+Source:  https://github.com/ruby/elisp-ruby-electric.git
+
+Updating /mnt/store/melpa/working/ruby-electric/
+Built ruby-electric in 4.151s, finished at Wed May 19 01:47:08 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K May 19 01:47 packages-stable/ruby-electric-2.3.3.el
+4.0K -rw-r--r-- 1 root root  302 May 19 01:47 packages-stable/ruby-electric-2.3.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/ruby-electric-badge.svg
+4.0K -rw-r--r-- 1 root root  634 May 19 01:47 packages-stable/ruby-electric-readme.txt

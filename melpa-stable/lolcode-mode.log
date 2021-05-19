@@ -1,0 +1,6 @@
+Package: lolcode-mode
+Fetcher: github
+Source:  https://github.com/bodil/lolcode-mode.git
+
+Updating /mnt/store/melpa/working/lolcode-mode/
+No valid stable versions found for lolcode-mode

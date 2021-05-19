@@ -1,0 +1,6 @@
+Package: flycheck-mypy
+Fetcher: github
+Source:  https://github.com/lbolla/emacs-flycheck-mypy.git
+
+Updating /mnt/store/melpa/working/flycheck-mypy/
+No valid stable versions found for flycheck-mypy

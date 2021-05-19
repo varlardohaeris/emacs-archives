@@ -1,0 +1,6 @@
+Package: flymake-proselint
+Fetcher: github
+Source:  https://github.com/manuel-uberti/flymake-proselint.git
+
+Updating /mnt/store/melpa/working/flymake-proselint/
+No valid stable versions found for flymake-proselint

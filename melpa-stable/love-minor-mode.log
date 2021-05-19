@@ -1,0 +1,11 @@
+Package: love-minor-mode
+Fetcher: github
+Source:  https://github.com/ejmr/love-minor-mode.git
+
+Updating /mnt/store/melpa/working/love-minor-mode/
+Built love-minor-mode in 3.076s, finished at Thu Feb  4 20:46:14 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.9K Feb  4 20:46 packages-stable/love-minor-mode-1.2.el
+4.0K -rw-r--r-- 1 root root  331 Feb  4 20:46 packages-stable/love-minor-mode-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Feb  4 20:46 packages-stable/love-minor-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  764 Feb  4 20:46 packages-stable/love-minor-mode-readme.txt

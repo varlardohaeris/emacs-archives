@@ -1,0 +1,6 @@
+Package: helm-ag-r
+Fetcher: github
+Source:  https://github.com/yuutayamada/helm-ag-r.git
+
+Updating /mnt/store/melpa/working/helm-ag-r/
+No valid stable versions found for helm-ag-r

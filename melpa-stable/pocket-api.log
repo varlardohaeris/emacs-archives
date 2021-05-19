@@ -1,0 +1,6 @@
+Package: pocket-api
+Fetcher: github
+Source:  https://github.com/lujun9972/pocket-api.el.git
+
+Updating /mnt/store/melpa/working/pocket-api/
+No valid stable versions found for pocket-api

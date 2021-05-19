@@ -1,0 +1,6 @@
+Package: planet-theme
+Fetcher: github
+Source:  https://github.com/cmack/emacs-planet-theme.git
+
+Updating /mnt/store/melpa/working/planet-theme/
+No valid stable versions found for planet-theme

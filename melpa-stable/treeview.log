@@ -1,0 +1,6 @@
+Package: treeview
+Fetcher: github
+Source:  https://github.com/tilmanrassy/emacs-treeview.git
+
+Updating /mnt/store/melpa/working/treeview/
+No valid stable versions found for treeview

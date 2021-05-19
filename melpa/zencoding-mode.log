@@ -1,0 +1,11 @@
+Package: zencoding-mode
+Fetcher: github
+Source:  https://github.com/rooney/zencoding.git
+
+Updating /mnt/store/melpa/working/zencoding-mode/
+Built zencoding-mode in 4.317s, finished at Wed May 19 04:17:32 2021
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  46K May 19 04:17 packages/zencoding-mode-20140213.822.el
+4.0K -rw-r--r-- 1 root root  356 May 19 04:17 packages/zencoding-mode-20140213.822.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:17 packages/zencoding-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  800 May 19 04:17 packages/zencoding-mode-readme.txt

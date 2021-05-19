@@ -1,0 +1,11 @@
+Package: date-at-point
+Fetcher: github
+Source:  https://github.com/alezost/date-at-point.el.git
+
+Updating /mnt/store/melpa/working/date-at-point/
+Built date-at-point in 3.655s, finished at Wed May 19 04:26:41 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:26 packages-stable/date-at-point-0.1.el
+4.0K -rw-r--r-- 1 root root  346 May 19 04:26 packages-stable/date-at-point-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/date-at-point-badge.svg
+4.0K -rw-r--r-- 1 root root  288 May 19 04:26 packages-stable/date-at-point-readme.txt

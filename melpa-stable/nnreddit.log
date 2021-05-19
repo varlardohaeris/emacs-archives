@@ -1,0 +1,6 @@
+Package: nnreddit
+Fetcher: github
+Source:  https://github.com/dickmao/nnreddit.git
+
+Updating /mnt/store/melpa/working/nnreddit/
+No valid stable versions found for nnreddit

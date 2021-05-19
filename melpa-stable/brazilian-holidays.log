@@ -1,0 +1,11 @@
+Package: brazilian-holidays
+Fetcher: github
+Source:  https://github.com/jadler/brazilian-holidays.git
+
+Updating /mnt/store/melpa/working/brazilian-holidays/
+Built brazilian-holidays in 7.592s, finished at Wed May 19 04:21:50 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:21 packages-stable/brazilian-holidays-2.1.2.el
+4.0K -rw-r--r-- 1 root root  445 May 19 04:21 packages-stable/brazilian-holidays-2.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/brazilian-holidays-badge.svg
+4.0K -rw-r--r-- 1 root root  362 May 19 04:21 packages-stable/brazilian-holidays-readme.txt

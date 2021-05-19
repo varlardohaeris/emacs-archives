@@ -1,0 +1,12 @@
+Package: graphql
+Fetcher: github
+Source:  https://github.com/vermiculus/graphql.el.git
+
+Updating /mnt/store/melpa/working/graphql/
+Built graphql in 3.897s, finished at Wed May 19 04:38:33 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.4K May 19 04:38 packages-stable/graphql-0.1.1.el
+4.0K -rw-r--r-- 1 root root  353 May 19 04:38 packages-stable/graphql-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/graphql-badge.svg
+4.0K -rw-r--r-- 1 root root  187 May 19 04:38 packages-stable/graphql-mode.log
+4.0K -rw-r--r-- 1 root root  147 May 19 04:38 packages-stable/graphql-readme.txt

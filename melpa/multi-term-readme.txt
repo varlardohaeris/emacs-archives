@@ -1,3 +1,4 @@
+
 This package is for creating and managing multiple terminal buffers in Emacs.
 
 By default, term.el provides a great terminal emulator in Emacs.
@@ -21,7 +22,7 @@ But I have some troubles with term-mode:
 And multi-term.el is enhanced with those features.
 
 
-Installation:
+; Installation:
 
 Copy multi-term.el to your load-path and add to your ~/.emacs
 

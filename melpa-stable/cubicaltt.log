@@ -1,0 +1,12 @@
+Package: cubicaltt
+Fetcher: github
+Source:  https://github.com/mortberg/cubicaltt.git
+
+Updating /mnt/store/melpa/working/cubicaltt/
+Note: cubicaltt :files spec is equivalent to the default.
+Built cubicaltt in 4.186s, finished at Wed May 19 04:26:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.6K May 19 04:26 packages-stable/cubicaltt-1.0.el
+4.0K -rw-r--r-- 1 root root  273 May 19 04:26 packages-stable/cubicaltt-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/cubicaltt-badge.svg
+4.0K -rw-r--r-- 1 root root  120 May 19 04:26 packages-stable/cubicaltt-readme.txt

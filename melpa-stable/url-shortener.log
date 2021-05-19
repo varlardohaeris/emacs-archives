@@ -1,0 +1,6 @@
+Package: url-shortener
+Fetcher: github
+Source:  https://github.com/yuyang0/url-shortener.git
+
+Updating /mnt/store/melpa/working/url-shortener/
+No valid stable versions found for url-shortener

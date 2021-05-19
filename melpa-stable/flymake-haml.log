@@ -1,0 +1,11 @@
+Package: flymake-haml
+Fetcher: github
+Source:  https://github.com/purcell/flymake-haml.git
+
+Updating /mnt/store/melpa/working/flymake-haml/
+Built flymake-haml in 2.889s, finished at Wed May 19 04:35:32 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:35 packages-stable/flymake-haml-0.8.el
+4.0K -rw-r--r-- 1 root root  348 May 19 04:35 packages-stable/flymake-haml-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-haml-badge.svg
+4.0K -rw-r--r-- 1 root root  274 May 19 04:35 packages-stable/flymake-haml-readme.txt

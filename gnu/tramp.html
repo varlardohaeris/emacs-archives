@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC>
-<html>
+<html lang="en" xml:lang="en">
     <head>
         <title>GNU ELPA - tramp</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -23,10 +23,10 @@
 
             <div class="container">
 <h2 class="package">tramp</h2><dl><dt>Description</dt><dd>Transparent Remote Access, Multiple Protocol</dd>
-<dt>Latest</dt> <dd><a href="tramp-2.4.3.5.tar">tramp-2.4.3.5.tar</a>, 2020-May-29, 1.50&nbsp;MiB</dd>
+<dt>Latest</dt> <dd><a href="tramp-2.5.0.4.tar">tramp-2.5.0.4.tar</a>, 2021-Apr-29, 1.65&nbsp;MiB</dd>
 <dt>Maintainer</dt> <dd>Michael Albinus &lt;michael.albinus@gmx.de></dd>
-<dt>Home page</dt> <dd><a href="https://savannah.gnu.org/projects/tramp">https://savannah.gnu.org/projects/tramp</a></dd>
-<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/tramp">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/tramp">Gitweb</a></dd>
+<dt>Home page</dt> <dd><a href="https://www.gnu.org/software/tramp/">https://www.gnu.org/software/tramp/</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="https://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/tramp">CGit</a> or <a href="https://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/tramp">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">tramp</span> RET</pre><h2>Full description</h2><pre>
 Tramp stands for `Transparent Remote (file) Access, Multiple
@@ -43,18 +43,51 @@ A remote file name has always the syntax
 
 Most of the parts are optional, read the manual for details.
 
+Tramp must be compiled for the Emacs version you are running.  If you
+experience compatibility error messages for the Tramp package, or if
+you use another major Emacs version than the version Tramp has been
+installed with, you must recompile the package.  Run the command
+
+  M-x tramp-recompile-elpa
+
+Afterwards, you must restart Emacs.
+
 </pre>
 <h2>Old versions</h2><table>
-<tr><td><a href="tramp-2.4.3.4.tar">tramp-2.4.3.4.tar</a></td><td>2020-Apr-29</td><td>1.49&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.3.3.tar">tramp-2.4.3.3.tar</a></td><td>2020-Mar-29</td><td>1.48&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.3.2.tar">tramp-2.4.3.2.tar</a></td><td>2020-Feb-27</td><td>1.48&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.3.1.tar">tramp-2.4.3.1.tar</a></td><td>2020-Jan-28</td><td>1.48&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.3.tar">tramp-2.4.3.tar</a></td><td>2019-Dec-29</td><td>1.48&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.2.5.tar">tramp-2.4.2.5.tar</a></td><td>2019-Nov-30</td><td>1.47&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.2.4.tar">tramp-2.4.2.4.tar</a></td><td>2019-Oct-30</td><td>1.44&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.2.3.tar">tramp-2.4.2.3.tar</a></td><td>2019-Sep-26</td><td>1.45&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.2.2.tar">tramp-2.4.2.2.tar</a></td><td>2019-Aug-29</td><td>1.44&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.2.1.tar">tramp-2.4.2.1.tar</a></td><td>2019-Jul-29</td><td>1.44&nbsp;MiB</td>
-<tr><td><a href="tramp-2.4.2.tar">tramp-2.4.2.tar</a></td><td>2019-Jun-30</td><td>1.43&nbsp;MiB</td>
+<tr><td><a href="tramp-2.5.0.3.tar.lz">tramp-2.5.0.3.tar.lz</a></td><td>2021-Mar-30</td><td> 264&nbsp;KiB</td>
+<tr><td><a href="tramp-2.5.0.2.tar.lz">tramp-2.5.0.2.tar.lz</a></td><td>2021-Feb-27</td><td> 261&nbsp;KiB</td>
+<tr><td><a href="tramp-2.5.0.1.tar.lz">tramp-2.5.0.1.tar.lz</a></td><td>2021-Jan-29</td><td> 261&nbsp;KiB</td>
+<tr><td><a href="tramp-2.5.0.tar.lz">tramp-2.5.0.tar.lz</a></td><td>2020-Dec-29</td><td> 260&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.4.4.tar.lz">tramp-2.4.4.4.tar.lz</a></td><td>2020-Nov-29</td><td> 222&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.4.3.tar.lz">tramp-2.4.4.3.tar.lz</a></td><td>2020-Oct-29</td><td> 244&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.4.2.tar.lz">tramp-2.4.4.2.tar.lz</a></td><td>2020-Aug-29</td><td> 243&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.4.1.tar.lz">tramp-2.4.4.1.tar.lz</a></td><td>2020-Jul-29</td><td> 243&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.4.tar.lz">tramp-2.4.4.tar.lz</a></td><td>2020-Jun-29</td><td> 243&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.3.5.tar.lz">tramp-2.4.3.5.tar.lz</a></td><td>2020-May-29</td><td> 243&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.3.4.tar.lz">tramp-2.4.3.4.tar.lz</a></td><td>2020-Apr-29</td><td> 242&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.3.3.tar.lz">tramp-2.4.3.3.tar.lz</a></td><td>2020-Mar-29</td><td> 241&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.3.2.tar.lz">tramp-2.4.3.2.tar.lz</a></td><td>2020-Feb-27</td><td> 241&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.3.1.tar.lz">tramp-2.4.3.1.tar.lz</a></td><td>2020-Jan-28</td><td> 241&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.3.tar.lz">tramp-2.4.3.tar.lz</a></td><td>2019-Dec-29</td><td> 241&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.2.5.tar.lz">tramp-2.4.2.5.tar.lz</a></td><td>2019-Nov-30</td><td> 240&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.2.4.tar.lz">tramp-2.4.2.4.tar.lz</a></td><td>2019-Oct-30</td><td> 235&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.2.3.tar.lz">tramp-2.4.2.3.tar.lz</a></td><td>2019-Sep-26</td><td> 235&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.2.1.tar.lz">tramp-2.4.2.1.tar.lz</a></td><td>2019-Jul-29</td><td> 233&nbsp;KiB</td>
+<tr><td><a href="tramp-2.4.2.tar.lz">tramp-2.4.2.tar.lz</a></td><td>2019-Jun-30</td><td> 233&nbsp;KiB</td>
 </table>
+
+
+        <div class="footer">
+            <div class="container">
+                <p>Copyright 2016-2021 <a href="https://fsf.org">Free Software Foundation</a>, Inc.</p>
+                <p>Design provided by <a href="https://nicolas.petton.fr">Nicolas Petton</a></p>
+                <p>
+                  This website is licensed under the
+                  <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+                  International License.
+                </p>
+                <p><a href="/jslicense.html" data-jslicense="1">JavaScript Licenses</a></p>
+            </div>
+        </div>
+
 </body>

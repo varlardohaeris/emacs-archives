@@ -1,0 +1,11 @@
+Package: vdirel
+Fetcher: github
+Source:  https://github.com/DamienCassou/vdirel.git
+
+Updating /mnt/store/melpa/working/vdirel/
+Built vdirel in 2.999s, finished at Wed May 19 01:53:57 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.5K May 19 01:53 packages-stable/vdirel-0.2.0.el
+4.0K -rw-r--r-- 1 root root  422 May 19 01:53 packages-stable/vdirel-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/vdirel-badge.svg
+4.0K -rw-r--r-- 1 root root   54 May 19 01:53 packages-stable/vdirel-readme.txt

@@ -1,0 +1,6 @@
+Package: tql-mode
+Fetcher: github
+Source:  https://github.com/tiros-dev/tql-mode.git
+
+Updating /mnt/store/melpa/working/tql-mode/
+No valid stable versions found for tql-mode

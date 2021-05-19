@@ -1,0 +1,6 @@
+Package: taskrunner
+Fetcher: github
+Source:  https://github.com/emacs-taskrunner/emacs-taskrunner.git
+
+Updating /mnt/store/melpa/working/taskrunner/
+No valid stable versions found for taskrunner

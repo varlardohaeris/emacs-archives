@@ -1,0 +1,6 @@
+Package: command-queue
+Fetcher: github
+Source:  https://github.com/Yuki-Inoue/command-queue.git
+
+Updating /mnt/store/melpa/working/command-queue/
+No valid stable versions found for command-queue

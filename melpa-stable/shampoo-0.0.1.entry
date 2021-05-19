@@ -1,2 +1,4 @@
-
-(shampoo . [(0 0 1) nil "Shampoo, a remote Smalltalk developemnt" tar ((:commit . "9bf488ad4025beef6eef63d2d5b72bc1c9b9e142"))])
+(shampoo .
+	 [(0 0 1)
+	  nil "Shampoo, a remote Smalltalk developemnt" tar
+	  ((:commit . "9bf488ad4025beef6eef63d2d5b72bc1c9b9e142"))])

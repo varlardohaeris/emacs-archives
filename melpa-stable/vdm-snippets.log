@@ -1,0 +1,58 @@
+Package: vdm-snippets
+Fetcher: github
+Source:  https://github.com/peterwvj/vdm-mode.git
+
+Updating /mnt/store/melpa/working/vdm-snippets/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vdm-snippets/
+  to /tmp/vdm-snippetsUICIhS/vdm-snippets-0.0.4
+    vdm-snippets.el -> vdm-snippets.el
+    snippets => snippets
+Created vdm-snippets-0.0.4.tar containing:
+  vdm-snippets-0.0.4/
+  vdm-snippets-0.0.4/snippets/
+  vdm-snippets-0.0.4/snippets/vdm-mode/
+  vdm-snippets-0.0.4/snippets/vdm-mode/bus
+  vdm-snippets-0.0.4/snippets/vdm-mode/class
+  vdm-snippets-0.0.4/snippets/vdm-mode/cpu
+  vdm-snippets-0.0.4/snippets/vdm-mode/dcl
+  vdm-snippets-0.0.4/snippets/vdm-mode/definitions
+  vdm-snippets-0.0.4/snippets/vdm-mode/deploy
+  vdm-snippets-0.0.4/snippets/vdm-mode/exists
+  vdm-snippets-0.0.4/snippets/vdm-mode/exists1
+  vdm-snippets-0.0.4/snippets/vdm-mode/exports-all
+  vdm-snippets-0.0.4/snippets/vdm-mode/forall
+  vdm-snippets-0.0.4/snippets/vdm-mode/function-definition
+  vdm-snippets-0.0.4/snippets/vdm-mode/functions
+  vdm-snippets-0.0.4/snippets/vdm-mode/getter
+  vdm-snippets-0.0.4/snippets/vdm-mode/imports-all
+  vdm-snippets-0.0.4/snippets/vdm-mode/instance-var
+  vdm-snippets-0.0.4/snippets/vdm-mode/instance-variables
+  vdm-snippets-0.0.4/snippets/vdm-mode/let
+  vdm-snippets-0.0.4/snippets/vdm-mode/map-comp
+  vdm-snippets-0.0.4/snippets/vdm-mode/module
+  vdm-snippets-0.0.4/snippets/vdm-mode/operation-definition
+  vdm-snippets-0.0.4/snippets/vdm-mode/operations
+  vdm-snippets-0.0.4/snippets/vdm-mode/periodic-thread
+  vdm-snippets-0.0.4/snippets/vdm-mode/priority
+  vdm-snippets-0.0.4/snippets/vdm-mode/private
+  vdm-snippets-0.0.4/snippets/vdm-mode/protected
+  vdm-snippets-0.0.4/snippets/vdm-mode/public
+  vdm-snippets-0.0.4/snippets/vdm-mode/return
+  vdm-snippets-0.0.4/snippets/vdm-mode/seq-comp
+  vdm-snippets-0.0.4/snippets/vdm-mode/set-comp
+  vdm-snippets-0.0.4/snippets/vdm-mode/sporadic-thread
+  vdm-snippets-0.0.4/snippets/vdm-mode/state-definition
+  vdm-snippets-0.0.4/snippets/vdm-mode/system
+  vdm-snippets-0.0.4/snippets/vdm-mode/traces
+  vdm-snippets-0.0.4/snippets/vdm-mode/types
+  vdm-snippets-0.0.4/snippets/vdm-mode/value definition
+  vdm-snippets-0.0.4/snippets/vdm-mode/values
+  vdm-snippets-0.0.4/vdm-snippets-pkg.el
+  vdm-snippets-0.0.4/vdm-snippets.el
+Built vdm-snippets in 4.314s, finished at Wed May 19 01:54:01 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  427 May 19 01:54 packages-stable/vdm-snippets-0.0.4.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:54 packages-stable/vdm-snippets-0.0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/vdm-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root   38 May 19 01:54 packages-stable/vdm-snippets-readme.txt

@@ -1,7 +1,8 @@
+
 Emacs wrapper for pyopl (python online paper locator) to search and fetch
 scientific citations online and add them to a bib file.
 
-Installation:
+; Installation:
 
   (require 'empos)
   (setq empos-available-engines '("arxiv" "crossref"))

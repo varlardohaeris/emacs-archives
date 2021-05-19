@@ -1,0 +1,6 @@
+Package: launchctl
+Fetcher: github
+Source:  https://github.com/pekingduck/launchctl-el.git
+
+Updating /mnt/store/melpa/working/launchctl/
+No valid stable versions found for launchctl

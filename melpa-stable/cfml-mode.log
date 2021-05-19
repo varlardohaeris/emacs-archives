@@ -1,0 +1,6 @@
+Package: cfml-mode
+Fetcher: github
+Source:  https://github.com/amyers634/cfml-mode.git
+
+Updating /mnt/store/melpa/working/cfml-mode/
+No valid stable versions found for cfml-mode

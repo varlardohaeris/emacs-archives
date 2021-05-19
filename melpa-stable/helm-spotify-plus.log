@@ -1,0 +1,6 @@
+Package: helm-spotify-plus
+Fetcher: github
+Source:  https://github.com/wandersoncferreira/helm-spotify-plus.git
+
+Updating /mnt/store/melpa/working/helm-spotify-plus/
+No valid stable versions found for helm-spotify-plus

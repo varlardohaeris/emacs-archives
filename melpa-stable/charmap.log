@@ -1,0 +1,10 @@
+Package: charmap
+Fetcher: github
+Source:  https://github.com/lateau/charmap.git
+
+Updating /mnt/store/melpa/working/charmap/
+Built charmap in 3.443s, finished at Wed May 19 04:23:03 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:23 packages-stable/charmap-0.0.1.el
+4.0K -rw-r--r-- 1 root root  327 May 19 04:23 packages-stable/charmap-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/charmap-badge.svg

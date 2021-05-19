@@ -1,0 +1,6 @@
+Package: helm-cmd-t
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-cmd-t.git
+
+Updating /mnt/store/melpa/working/helm-cmd-t/
+No valid stable versions found for helm-cmd-t

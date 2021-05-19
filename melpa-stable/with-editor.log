@@ -1,0 +1,23 @@
+Package: with-editor
+Fetcher: github
+Source:  https://github.com/magit/with-editor.git
+
+Updating /mnt/store/melpa/working/with-editor/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/with-editor/
+  to /tmp/with-editorxy1frC/with-editor-3.0.2
+    with-editor.el -> with-editor.el
+    with-editor.texi -> with-editor.texi
+Created /tmp/with-editorxy1frC/with-editor-3.0.2/with-editor.info
+Created with-editor-3.0.2.tar containing:
+  with-editor-3.0.2/
+  with-editor-3.0.2/dir
+  with-editor-3.0.2/with-editor-pkg.el
+  with-editor-3.0.2/with-editor.el
+  with-editor-3.0.2/with-editor.info
+Built with-editor in 9.036s, finished at Wed May 19 01:55:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  397 May 19 01:55 packages-stable/with-editor-3.0.2.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 01:55 packages-stable/with-editor-3.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/with-editor-badge.svg
+4.0K -rw-r--r-- 1 root root 2.3K May 19 01:55 packages-stable/with-editor-readme.txt

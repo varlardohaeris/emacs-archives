@@ -1,0 +1,6 @@
+Package: lean-mode
+Fetcher: github
+Source:  https://github.com/leanprover/lean-mode.git
+
+Updating /mnt/store/melpa/working/lean-mode/
+No valid stable versions found for lean-mode

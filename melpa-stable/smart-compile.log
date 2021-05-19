@@ -1,0 +1,6 @@
+Package: smart-compile
+Fetcher: github
+Source:  https://github.com/zenitani/elisp.git
+
+Updating /mnt/store/melpa/working/smart-compile/
+No valid stable versions found for smart-compile

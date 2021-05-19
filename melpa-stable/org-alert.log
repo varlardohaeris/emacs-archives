@@ -1,0 +1,11 @@
+Package: org-alert
+Fetcher: github
+Source:  https://github.com/spegoraro/org-alert.git
+
+Updating /mnt/store/melpa/working/org-alert/
+Built org-alert in 3.067s, finished at Wed May 19 01:38:52 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.4K May 19 01:38 packages-stable/org-alert-0.1.0.el
+4.0K -rw-r--r-- 1 root root  474 May 19 01:38 packages-stable/org-alert-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/org-alert-badge.svg
+4.0K -rw-r--r-- 1 root root  384 May 19 01:38 packages-stable/org-alert-readme.txt

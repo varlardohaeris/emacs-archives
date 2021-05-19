@@ -1,0 +1,6 @@
+Package: arch-packer
+Fetcher: github
+Source:  https://github.com/brotzeit/arch-packer.git
+
+Updating /mnt/store/melpa/working/arch-packer/
+No valid stable versions found for arch-packer

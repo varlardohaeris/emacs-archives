@@ -1,0 +1,6 @@
+Package: stock-tracker
+Fetcher: github
+Source:  https://github.com/beacoder/stock-tracker.git
+
+Updating /mnt/store/melpa/working/stock-tracker/
+No valid stable versions found for stock-tracker

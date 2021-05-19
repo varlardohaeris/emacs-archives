@@ -1,0 +1,6 @@
+Package: yesterbox
+Fetcher: github
+Source:  https://github.com/sje30/yesterbox.git
+
+Updating /mnt/store/melpa/working/yesterbox/
+No valid stable versions found for yesterbox

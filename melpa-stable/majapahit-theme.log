@@ -1,0 +1,6 @@
+Package: majapahit-theme
+Fetcher: gitlab
+Source:  https://gitlab.com/franksn/majapahit-theme.git
+
+Updating /mnt/store/melpa/working/majapahit-theme/
+No valid stable versions found for majapahit-theme

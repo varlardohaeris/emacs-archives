@@ -1,0 +1,64 @@
+Package: smartparens
+Fetcher: github
+Source:  https://github.com/Fuco1/smartparens.git
+
+Updating /mnt/store/melpa/working/smartparens/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/smartparens/
+  to /tmp/smartparensMaO6I5/smartparens-20210330.850
+    smartparens-c.el -> smartparens-c.el
+    smartparens-clojure.el -> smartparens-clojure.el
+    smartparens-config.el -> smartparens-config.el
+    smartparens-crystal.el -> smartparens-crystal.el
+    smartparens-elixir.el -> smartparens-elixir.el
+    smartparens-ess.el -> smartparens-ess.el
+    smartparens-haskell.el -> smartparens-haskell.el
+    smartparens-html.el -> smartparens-html.el
+    smartparens-javascript.el -> smartparens-javascript.el
+    smartparens-latex.el -> smartparens-latex.el
+    smartparens-lua.el -> smartparens-lua.el
+    smartparens-markdown.el -> smartparens-markdown.el
+    smartparens-ml.el -> smartparens-ml.el
+    smartparens-org.el -> smartparens-org.el
+    smartparens-pkg.el -> smartparens-pkg.el
+    smartparens-python.el -> smartparens-python.el
+    smartparens-racket.el -> smartparens-racket.el
+    smartparens-rst.el -> smartparens-rst.el
+    smartparens-ruby.el -> smartparens-ruby.el
+    smartparens-rust.el -> smartparens-rust.el
+    smartparens-scala.el -> smartparens-scala.el
+    smartparens-text.el -> smartparens-text.el
+    smartparens.el -> smartparens.el
+    sp-sublimetext-like.el -> sp-sublimetext-like.el
+Created smartparens-20210330.850.tar containing:
+  smartparens-20210330.850/
+  smartparens-20210330.850/smartparens-c.el
+  smartparens-20210330.850/smartparens-clojure.el
+  smartparens-20210330.850/smartparens-config.el
+  smartparens-20210330.850/smartparens-crystal.el
+  smartparens-20210330.850/smartparens-elixir.el
+  smartparens-20210330.850/smartparens-ess.el
+  smartparens-20210330.850/smartparens-haskell.el
+  smartparens-20210330.850/smartparens-html.el
+  smartparens-20210330.850/smartparens-javascript.el
+  smartparens-20210330.850/smartparens-latex.el
+  smartparens-20210330.850/smartparens-lua.el
+  smartparens-20210330.850/smartparens-markdown.el
+  smartparens-20210330.850/smartparens-ml.el
+  smartparens-20210330.850/smartparens-org.el
+  smartparens-20210330.850/smartparens-pkg.el
+  smartparens-20210330.850/smartparens-python.el
+  smartparens-20210330.850/smartparens-racket.el
+  smartparens-20210330.850/smartparens-rst.el
+  smartparens-20210330.850/smartparens-ruby.el
+  smartparens-20210330.850/smartparens-rust.el
+  smartparens-20210330.850/smartparens-scala.el
+  smartparens-20210330.850/smartparens-text.el
+  smartparens-20210330.850/smartparens.el
+  smartparens-20210330.850/sp-sublimetext-like.el
+Built smartparens in 4.162s, finished at Wed May 19 04:05:22 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  489 May 19 04:05 packages/smartparens-20210330.850.entry
+512K -rw-r--r-- 1 root root 510K May 19 04:05 packages/smartparens-20210330.850.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:05 packages/smartparens-badge.svg
+4.0K -rw-r--r-- 1 root root  836 May 19 04:05 packages/smartparens-readme.txt

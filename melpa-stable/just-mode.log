@@ -1,0 +1,11 @@
+Package: just-mode
+Fetcher: github
+Source:  https://github.com/leon-barrett/just-mode.el.git
+
+Updating /mnt/store/melpa/working/just-mode/
+Built just-mode in 3.003s, finished at Wed May 19 04:45:21 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K May 19 04:45 packages-stable/just-mode-0.1.4.el
+4.0K -rw-r--r-- 1 root root  391 May 19 04:45 packages-stable/just-mode-0.1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/just-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   97 May 19 04:45 packages-stable/just-mode-readme.txt

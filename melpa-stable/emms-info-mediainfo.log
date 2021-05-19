@@ -1,0 +1,6 @@
+Package: emms-info-mediainfo
+Fetcher: github
+Source:  https://github.com/fgallina/emms-info-mediainfo.git
+
+Updating /mnt/store/melpa/working/emms-info-mediainfo/
+No valid stable versions found for emms-info-mediainfo

@@ -1,0 +1,6 @@
+Package: hamlet-mode
+Fetcher: github
+Source:  https://github.com/lightquake/hamlet-mode.git
+
+Updating /mnt/store/melpa/working/hamlet-mode/
+No valid stable versions found for hamlet-mode

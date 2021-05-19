@@ -1,0 +1,6 @@
+Package: snow
+Fetcher: github
+Source:  https://github.com/alphapapa/snow.el.git
+
+Updating /mnt/store/melpa/working/snow/
+No valid stable versions found for snow

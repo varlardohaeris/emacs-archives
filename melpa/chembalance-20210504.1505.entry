@@ -1,0 +1,11 @@
+(chembalance .
+	     [(20210504 1505)
+	      ((emacs
+		(24 4)))
+	      "Balance chemical equations" single
+	      ((:commit . "dc081acfcca44cf5b7d8762d6b2ef9d580abf566")
+	       (:authors
+		("Sergi Ruiz Trepat"))
+	       (:maintainer "Sergi Ruiz Trepat")
+	       (:keywords "convenience" "chemistry")
+	       (:url . "https://github.com/sergiruiztrepat/chembalance"))])

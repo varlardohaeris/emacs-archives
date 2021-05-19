@@ -1,0 +1,6 @@
+Package: org-grep
+Fetcher: github
+Source:  https://github.com/emacsorphanage/org-grep.git
+
+Updating /mnt/store/melpa/working/org-grep/
+No valid stable versions found for org-grep

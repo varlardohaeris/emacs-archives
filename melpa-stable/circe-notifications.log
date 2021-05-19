@@ -1,0 +1,10 @@
+Package: circe-notifications
+Fetcher: github
+Source:  https://github.com/eqyiel/circe-notifications.git
+
+Updating /mnt/store/melpa/working/circe-notifications/
+Built circe-notifications in 2.810s, finished at Wed May 19 04:23:21 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.4K May 19 04:23 packages-stable/circe-notifications-1.0.el
+4.0K -rw-r--r-- 1 root root  411 May 19 04:23 packages-stable/circe-notifications-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/circe-notifications-badge.svg

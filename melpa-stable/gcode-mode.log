@@ -1,0 +1,6 @@
+Package: gcode-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/wavexx/gcode-mode.el.git
+
+Updating /mnt/store/melpa/working/gcode-mode/
+No valid stable versions found for gcode-mode

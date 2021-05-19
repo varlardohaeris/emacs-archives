@@ -1,0 +1,6 @@
+Package: ibuffer-git
+Fetcher: github
+Source:  https://github.com/jrockway/ibuffer-git.git
+
+Updating /mnt/store/melpa/working/ibuffer-git/
+No valid stable versions found for ibuffer-git

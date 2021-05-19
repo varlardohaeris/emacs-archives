@@ -1,0 +1,11 @@
+Package: helm-rg
+Fetcher: github
+Source:  https://github.com/cosmicexplorer/helm-rg.git
+
+Updating /mnt/store/melpa/working/helm-rg/
+Built helm-rg in 3.036s, finished at Wed May 19 04:41:06 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:41 packages-stable/helm-rg-0.1.el
+4.0K -rw-r--r-- 1 root root  436 May 19 04:41 packages-stable/helm-rg-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-rg-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K May 19 04:41 packages-stable/helm-rg-readme.txt

@@ -1,0 +1,41 @@
+Package: zmq
+Fetcher: github
+Source:  https://github.com/nnicandro/emacs-zmq.git
+
+Updating /mnt/store/melpa/working/zmq/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/zmq/
+  to /tmp/zmqxCXAeO/zmq-0.10.10
+    zmq.el -> zmq.el
+    Makefile -> Makefile
+    src => src
+Created zmq-0.10.10.tar containing:
+  zmq-0.10.10/
+  zmq-0.10.10/Makefile
+  zmq-0.10.10/src/
+  zmq-0.10.10/src/Makefile.am
+  zmq-0.10.10/src/configure.ac
+  zmq-0.10.10/src/constants.c
+  zmq-0.10.10/src/context.c
+  zmq-0.10.10/src/context.h
+  zmq-0.10.10/src/core.c
+  zmq-0.10.10/src/core.h
+  zmq-0.10.10/src/emacs-module.h
+  zmq-0.10.10/src/emacs-zmq.c
+  zmq-0.10.10/src/emacs-zmq.h
+  zmq-0.10.10/src/msg.c
+  zmq-0.10.10/src/msg.h
+  zmq-0.10.10/src/poll.c
+  zmq-0.10.10/src/poll.h
+  zmq-0.10.10/src/socket.c
+  zmq-0.10.10/src/socket.h
+  zmq-0.10.10/src/util.c
+  zmq-0.10.10/src/util.h
+  zmq-0.10.10/zmq-pkg.el
+  zmq-0.10.10/zmq.el
+Built zmq in 3.403s, finished at Wed May 19 01:56:48 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  393 May 19 01:56 packages-stable/zmq-0.10.10.entry
+152K -rw-r--r-- 1 root root 150K May 19 01:56 packages-stable/zmq-0.10.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zmq-badge.svg
+4.0K -rw-r--r-- 1 root root   60 May 19 01:56 packages-stable/zmq-readme.txt

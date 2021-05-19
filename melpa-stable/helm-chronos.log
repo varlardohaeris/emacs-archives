@@ -1,0 +1,6 @@
+Package: helm-chronos
+Fetcher: github
+Source:  https://github.com/dxknight/helm-chronos.git
+
+Updating /mnt/store/melpa/working/helm-chronos/
+No valid stable versions found for helm-chronos

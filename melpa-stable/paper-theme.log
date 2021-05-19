@@ -1,0 +1,6 @@
+Package: paper-theme
+Fetcher: github
+Source:  https://github.com/cadadr/elisp.git
+
+Updating /mnt/store/melpa/working/paper-theme/
+No valid stable versions found for paper-theme

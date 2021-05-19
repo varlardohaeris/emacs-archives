@@ -1,0 +1,6 @@
+Package: mozc-im
+Fetcher: github
+Source:  https://github.com/d5884/mozc-im.git
+
+Updating /mnt/store/melpa/working/mozc-im/
+No valid stable versions found for mozc-im

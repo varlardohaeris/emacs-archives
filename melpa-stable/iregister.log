@@ -1,0 +1,6 @@
+Package: iregister
+Fetcher: github
+Source:  https://github.com/atykhonov/iregister.el.git
+
+Updating /mnt/store/melpa/working/iregister/
+No valid stable versions found for iregister

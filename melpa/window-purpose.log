@@ -1,0 +1,39 @@
+Package: window-purpose
+Fetcher: github
+Source:  https://github.com/bmag/emacs-purpose.git
+
+Updating /mnt/store/melpa/working/window-purpose/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/window-purpose/
+  to /tmp/window-purposepnv25h/window-purpose-20210423.454
+    window-purpose-configuration.el -> window-purpose-configuration.el
+    window-purpose-core.el -> window-purpose-core.el
+    window-purpose-fixes.el -> window-purpose-fixes.el
+    window-purpose-layout.el -> window-purpose-layout.el
+    window-purpose-prefix-overload.el -> window-purpose-prefix-overload.el
+    window-purpose-switch.el -> window-purpose-switch.el
+    window-purpose-utils.el -> window-purpose-utils.el
+    window-purpose-x.el -> window-purpose-x.el
+    window-purpose.el -> window-purpose.el
+    layouts => layouts
+Created window-purpose-20210423.454.tar containing:
+  window-purpose-20210423.454/
+  window-purpose-20210423.454/layouts/
+  window-purpose-20210423.454/layouts/edit-terminal-general.window-layout
+  window-purpose-20210423.454/layouts/edit-terminal.window-layout
+  window-purpose-20210423.454/window-purpose-configuration.el
+  window-purpose-20210423.454/window-purpose-core.el
+  window-purpose-20210423.454/window-purpose-fixes.el
+  window-purpose-20210423.454/window-purpose-layout.el
+  window-purpose-20210423.454/window-purpose-pkg.el
+  window-purpose-20210423.454/window-purpose-prefix-overload.el
+  window-purpose-20210423.454/window-purpose-switch.el
+  window-purpose-20210423.454/window-purpose-utils.el
+  window-purpose-20210423.454/window-purpose-x.el
+  window-purpose-20210423.454/window-purpose.el
+Built window-purpose in 4.072s, finished at Wed May 19 04:15:09 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  376 May 19 04:15 packages/window-purpose-20210423.454.entry
+200K -rw-r--r-- 1 root root 200K May 19 04:15 packages/window-purpose-20210423.454.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/window-purpose-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:15 packages/window-purpose-readme.txt

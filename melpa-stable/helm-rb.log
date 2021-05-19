@@ -1,0 +1,6 @@
+Package: helm-rb
+Fetcher: github
+Source:  https://github.com/yuutayamada/helm-rb.git
+
+Updating /mnt/store/melpa/working/helm-rb/
+No valid stable versions found for helm-rb

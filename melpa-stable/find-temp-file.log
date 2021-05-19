@@ -1,0 +1,6 @@
+Package: find-temp-file
+Fetcher: github
+Source:  https://github.com/thisirs/find-temp-file.git
+
+Updating /mnt/store/melpa/working/find-temp-file/
+No valid stable versions found for find-temp-file

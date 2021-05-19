@@ -1,0 +1,6 @@
+Package: gh-md
+Fetcher: github
+Source:  https://github.com/emacsorphanage/gh-md.git
+
+Updating /mnt/store/melpa/working/gh-md/
+No valid stable versions found for gh-md

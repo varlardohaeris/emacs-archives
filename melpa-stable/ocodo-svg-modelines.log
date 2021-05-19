@@ -1,0 +1,55 @@
+Package: ocodo-svg-modelines
+Fetcher: github
+Source:  https://github.com/ocodo/ocodo-svg-modelines.git
+
+Updating /mnt/store/melpa/working/ocodo-svg-modelines/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ocodo-svg-modelines/
+  to /tmp/ocodo-svg-modelinesmeI3Os/ocodo-svg-modelines-0.1.4
+    ocodo-geometry-flakes-smt.el -> ocodo-geometry-flakes-smt.el
+    ocodo-kawaii-light-smt.el -> ocodo-kawaii-light-smt.el
+    ocodo-mesh-aqua-smt.el -> ocodo-mesh-aqua-smt.el
+    ocodo-mesh-grass-smt.el -> ocodo-mesh-grass-smt.el
+    ocodo-mesh-retro-aqua-smt.el -> ocodo-mesh-retro-aqua-smt.el
+    ocodo-minimal-dark-smt.el -> ocodo-minimal-dark-smt.el
+    ocodo-minimal-light-smt.el -> ocodo-minimal-light-smt.el
+    ocodo-smt-overrides.el -> ocodo-smt-overrides.el
+    ocodo-steps-aqua-smt.el -> ocodo-steps-aqua-smt.el
+    ocodo-steps-grass-smt.el -> ocodo-steps-grass-smt.el
+    ocodo-svg-modelines-pkg.el -> ocodo-svg-modelines-pkg.el
+    ocodo-svg-modelines.el -> ocodo-svg-modelines.el
+    images/geometry2.png.base64 -> images/geometry2.png.base64
+    images/mesh-aqua.svg.base64 -> images/mesh-aqua.svg.base64
+    images/mesh-grass.svg.base64 -> images/mesh-grass.svg.base64
+    images/mesh-retro-aqua.svg.base64 -> images/mesh-retro-aqua.svg.base64
+    images/rainbow-stache-banana.png.base64 -> images/rainbow-stache-banana.png.base64
+    images/steps-aqua.svg.base64 -> images/steps-aqua.svg.base64
+    images/steps-grass.svg.base64 -> images/steps-grass.svg.base64
+Created ocodo-svg-modelines-0.1.4.tar containing:
+  ocodo-svg-modelines-0.1.4/
+  ocodo-svg-modelines-0.1.4/images/
+  ocodo-svg-modelines-0.1.4/images/geometry2.png.base64
+  ocodo-svg-modelines-0.1.4/images/mesh-aqua.svg.base64
+  ocodo-svg-modelines-0.1.4/images/mesh-grass.svg.base64
+  ocodo-svg-modelines-0.1.4/images/mesh-retro-aqua.svg.base64
+  ocodo-svg-modelines-0.1.4/images/rainbow-stache-banana.png.base64
+  ocodo-svg-modelines-0.1.4/images/steps-aqua.svg.base64
+  ocodo-svg-modelines-0.1.4/images/steps-grass.svg.base64
+  ocodo-svg-modelines-0.1.4/ocodo-geometry-flakes-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-kawaii-light-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-mesh-aqua-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-mesh-grass-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-mesh-retro-aqua-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-minimal-dark-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-minimal-light-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-smt-overrides.el
+  ocodo-svg-modelines-0.1.4/ocodo-steps-aqua-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-steps-grass-smt.el
+  ocodo-svg-modelines-0.1.4/ocodo-svg-modelines-pkg.el
+  ocodo-svg-modelines-0.1.4/ocodo-svg-modelines.el
+Built ocodo-svg-modelines in 3.140s, finished at Wed May 19 01:38:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  385 May 19 01:38 packages-stable/ocodo-svg-modelines-0.1.4.entry
+260K -rw-r--r-- 1 root root 260K May 19 01:38 packages-stable/ocodo-svg-modelines-0.1.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ocodo-svg-modelines-badge.svg
+8.0K -rw-r--r-- 1 root root 4.6K May 19 01:38 packages-stable/ocodo-svg-modelines-readme.txt

@@ -1,0 +1,11 @@
+Package: pug-mode
+Fetcher: github
+Source:  https://github.com/hlissner/emacs-pug-mode.git
+
+Updating /mnt/store/melpa/working/pug-mode/
+Built pug-mode in 3.475s, finished at Wed May 19 01:44:35 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K May 19 01:44 packages-stable/pug-mode-1.0.7.el
+4.0K -rw-r--r-- 1 root root  404 May 19 01:44 packages-stable/pug-mode-1.0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pug-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   89 May 19 01:44 packages-stable/pug-mode-readme.txt

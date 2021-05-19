@@ -1,0 +1,11 @@
+Package: ess-view-data
+Fetcher: github
+Source:  https://github.com/ShuguangSun/ess-view-data.git
+
+Updating /mnt/store/melpa/working/ess-view-data/
+Built ess-view-data in 2.800s, finished at Wed May 19 04:31:50 2021
+ ✓ Success:
+ 84K -rw-r--r-- 1 root root  83K May 19 04:31 packages-stable/ess-view-data-1.2.el
+4.0K -rw-r--r-- 1 root root  353 May 19 04:31 packages-stable/ess-view-data-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ess-view-data-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ess-view-data-readme.txt

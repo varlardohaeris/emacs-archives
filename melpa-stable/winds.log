@@ -1,0 +1,6 @@
+Package: winds
+Fetcher: github
+Source:  https://github.com/Javyre/winds.el.git
+
+Updating /mnt/store/melpa/working/winds/
+No valid stable versions found for winds

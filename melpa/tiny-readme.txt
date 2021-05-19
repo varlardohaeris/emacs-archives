@@ -1,3 +1,4 @@
+
 To set it up, just bind e.g.:
 
     (global-set-key (kbd "C-;") #'tiny-expand)

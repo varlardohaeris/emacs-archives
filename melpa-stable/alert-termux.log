@@ -1,0 +1,6 @@
+Package: alert-termux
+Fetcher: github
+Source:  https://github.com/gergelypolonkai/alert-termux.git
+
+Updating /mnt/store/melpa/working/alert-termux/
+No valid stable versions found for alert-termux

@@ -1,0 +1,11 @@
+Package: grails-mode
+Fetcher: github
+Source:  https://github.com/Groovy-Emacs-Modes/groovy-emacs-modes.git
+
+Updating /mnt/store/melpa/working/grails-mode/
+Built grails-mode in 2.951s, finished at Wed May 19 04:38:28 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K May 19 04:38 packages-stable/grails-mode-2.0.el
+4.0K -rw-r--r-- 1 root root  383 May 19 04:38 packages-stable/grails-mode-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grails-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  670 May 19 04:38 packages-stable/grails-mode-readme.txt

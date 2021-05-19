@@ -1,0 +1,6 @@
+Package: wotd
+Fetcher: github
+Source:  https://github.com/cute-jumper/emacs-word-of-the-day.git
+
+Updating /mnt/store/melpa/working/wotd/
+No valid stable versions found for wotd

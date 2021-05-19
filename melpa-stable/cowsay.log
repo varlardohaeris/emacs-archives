@@ -1,0 +1,6 @@
+Package: cowsay
+Fetcher: github
+Source:  https://github.com/lassik/emacs-cowsay.git
+
+Updating /mnt/store/melpa/working/cowsay/
+No valid stable versions found for cowsay

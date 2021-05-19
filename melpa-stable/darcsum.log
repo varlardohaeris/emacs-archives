@@ -1,0 +1,6 @@
+Package: darcsum
+Fetcher: github
+Source:  https://github.com/emacsmirror/darcsum.git
+
+Updating /mnt/store/melpa/working/darcsum/
+No valid stable versions found for darcsum

@@ -1,0 +1,6 @@
+Package: go-playground-cli
+Fetcher: github
+Source:  https://github.com/kosh04/emacs-go-playground.git
+
+Updating /mnt/store/melpa/working/go-playground-cli/
+No valid stable versions found for go-playground-cli

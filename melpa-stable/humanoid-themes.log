@@ -1,0 +1,6 @@
+Package: humanoid-themes
+Fetcher: github
+Source:  https://github.com/humanoid-colors/emacs-humanoid-themes.git
+
+Updating /mnt/store/melpa/working/humanoid-themes/
+No valid stable versions found for humanoid-themes

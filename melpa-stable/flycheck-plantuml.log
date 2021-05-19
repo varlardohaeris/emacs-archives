@@ -1,0 +1,6 @@
+Package: flycheck-plantuml
+Fetcher: github
+Source:  https://github.com/alexmurray/flycheck-plantuml.git
+
+Updating /mnt/store/melpa/working/flycheck-plantuml/
+No valid stable versions found for flycheck-plantuml

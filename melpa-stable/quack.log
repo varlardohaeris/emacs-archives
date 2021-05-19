@@ -1,0 +1,6 @@
+Package: quack
+Fetcher: github
+Source:  https://github.com/emacsmirror/quack.git
+
+Updating /mnt/store/melpa/working/quack/
+No valid stable versions found for quack

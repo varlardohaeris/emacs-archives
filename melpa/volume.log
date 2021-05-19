@@ -1,0 +1,11 @@
+Package: volume
+Fetcher: github
+Source:  https://github.com/dbrock/volume.el.git
+
+Updating /mnt/store/melpa/working/volume/
+Built volume in 4.380s, finished at Wed May 19 04:13:41 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  39K May 19 04:13 packages/volume-20201002.1022.el
+4.0K -rw-r--r-- 1 root root  320 May 19 04:13 packages/volume-20201002.1022.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/volume-badge.svg
+4.0K -rw-r--r-- 1 root root  773 May 19 04:13 packages/volume-readme.txt

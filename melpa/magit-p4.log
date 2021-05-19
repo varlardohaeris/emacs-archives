@@ -1,0 +1,6 @@
+Package: magit-p4
+Fetcher: github
+Source:  https://github.com/emacsorphanage/magit-p4.git
+
+Updating /mnt/store/melpa/working/magit-p4/
+End of file during parsing

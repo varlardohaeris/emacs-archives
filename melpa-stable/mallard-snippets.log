@@ -1,0 +1,6 @@
+Package: mallard-snippets
+Fetcher: github
+Source:  https://github.com/jhradilek/emacs-mallard-snippets.git
+
+Updating /mnt/store/melpa/working/mallard-snippets/
+No valid stable versions found for mallard-snippets

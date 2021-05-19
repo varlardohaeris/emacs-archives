@@ -1,0 +1,6 @@
+Package: bbdb-ext
+Fetcher: github
+Source:  https://github.com/vapniks/bbdb-ext.git
+
+Updating /mnt/store/melpa/working/bbdb-ext/
+No valid stable versions found for bbdb-ext

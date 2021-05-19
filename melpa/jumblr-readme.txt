@@ -11,7 +11,7 @@ reshuffles the letters.
 I tried to make the interface pretty responsive; take a look at the
 screenshots in the github repository for a sense of how it works.
 
-Notes about the implementation:
+; Notes about the implementation:
 
 The implementation is pretty straightforward and mostly consists of
 functions to find permutations and subsets of words; I'm sure this
@@ -46,7 +46,7 @@ follows:
 Let me know how you find the difficulty levels -- I'd really
 appreciate the feedback!
 
-Installation:
+; Installation:
 
 Use package.el. You'll need to add MELPA to your archives:
 
@@ -58,7 +58,7 @@ Alternatively, you can just save this file and do the standard
 (add-to-list 'load-path "/path/to/jumblr.el")
 (require 'jumblr)
 
-Customization:
+; Customization:
 
 See the defvar definitions at the beginning of the source code.
 For example, to switch the dictionary, add the following to your

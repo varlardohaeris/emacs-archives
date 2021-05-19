@@ -1,0 +1,11 @@
+Package: yequake
+Fetcher: github
+Source:  https://github.com/alphapapa/yequake.git
+
+Updating /mnt/store/melpa/working/yequake/
+Built yequake in 3.162s, finished at Wed May 19 01:56:28 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:56 packages-stable/yequake-0.1.el
+4.0K -rw-r--r-- 1 root root  395 May 19 01:56 packages-stable/yequake-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yequake-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:56 packages-stable/yequake-readme.txt

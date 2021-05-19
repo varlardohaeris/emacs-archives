@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'truthy)
@@ -65,7 +66,7 @@ Bugs
 
 TODO
 
-License
+; License
 
 Simplified BSD License:
 

@@ -1,0 +1,6 @@
+Package: with-namespace
+Fetcher: github
+Source:  https://github.com/Wilfred/with-namespace.el.git
+
+Updating /mnt/store/melpa/working/with-namespace/
+No valid stable versions found for with-namespace

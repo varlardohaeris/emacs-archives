@@ -1,0 +1,60 @@
+Package: circe
+Fetcher: github
+Source:  https://github.com/jorgenschaefer/circe.git
+
+Updating /mnt/store/melpa/working/circe/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/circe/
+  to /tmp/circeq9r6Hf/circe-20210508.1616
+    circe-chanop.el -> circe-chanop.el
+    circe-color-nicks.el -> circe-color-nicks.el
+    circe-compat.el -> circe-compat.el
+    circe-display-images.el -> circe-display-images.el
+    circe-lagmon.el -> circe-lagmon.el
+    circe-new-day-notifier.el -> circe-new-day-notifier.el
+    circe-pkg.el -> circe-pkg.el
+    circe.el -> circe.el
+    irc.el -> irc.el
+    lcs.el -> lcs.el
+    lui-autopaste.el -> lui-autopaste.el
+    lui-format.el -> lui-format.el
+    lui-irc-colors.el -> lui-irc-colors.el
+    lui-logging.el -> lui-logging.el
+    lui-track-bar.el -> lui-track-bar.el
+    lui-track.el -> lui-track.el
+    lui.el -> lui.el
+    make-tls-process.el -> make-tls-process.el
+    shorten.el -> shorten.el
+    tracking.el -> tracking.el
+Created circe-20210508.1616.tar containing:
+  circe-20210508.1616/
+  circe-20210508.1616/circe-chanop.el
+  circe-20210508.1616/circe-color-nicks.el
+  circe-20210508.1616/circe-compat.el
+  circe-20210508.1616/circe-display-images.el
+  circe-20210508.1616/circe-lagmon.el
+  circe-20210508.1616/circe-new-day-notifier.el
+  circe-20210508.1616/circe-pkg.el
+  circe-20210508.1616/circe.el
+  circe-20210508.1616/irc.el
+  circe-20210508.1616/lcs.el
+  circe-20210508.1616/lui-autopaste.el
+  circe-20210508.1616/lui-format.el
+  circe-20210508.1616/lui-irc-colors.el
+  circe-20210508.1616/lui-logging.el
+  circe-20210508.1616/lui-track-bar.el
+  circe-20210508.1616/lui-track.el
+  circe-20210508.1616/lui.el
+  circe-20210508.1616/make-tls-process.el
+  circe-20210508.1616/shorten.el
+  circe-20210508.1616/tracking.el
+Built circe in 4.978s, finished at Wed May 19 03:04:58 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  364 May 19 03:04 packages/circe-20210508.1616.entry
+372K -rw-r--r-- 1 root root 370K May 19 03:04 packages/circe-20210508.1616.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:04 packages/circe-badge.svg
+ 12K -rw-r--r-- 1 root root 9.6K May 19 03:04 packages/circe-notifications-20180102.2318.el
+4.0K -rw-r--r-- 1 root root  421 May 19 03:04 packages/circe-notifications-20180102.2318.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:04 packages/circe-notifications-badge.svg
+4.0K -rw-r--r-- 1 root root  520 May 19 03:04 packages/circe-notifications.log
+4.0K -rw-r--r-- 1 root root  227 May 19 03:04 packages/circe-readme.txt

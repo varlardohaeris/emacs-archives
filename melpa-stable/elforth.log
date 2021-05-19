@@ -1,0 +1,6 @@
+Package: elforth
+Fetcher: github
+Source:  https://github.com/lassik/elforth.git
+
+Updating /mnt/store/melpa/working/elforth/
+No valid stable versions found for elforth

@@ -1,0 +1,11 @@
+Package: diffview
+Fetcher: github
+Source:  https://github.com/mgalgs/diffview-mode.git
+
+Updating /mnt/store/melpa/working/diffview/
+Built diffview in 5.756s, finished at Wed May 19 04:27:19 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K May 19 04:27 packages-stable/diffview-1.0.el
+4.0K -rw-r--r-- 1 root root  369 May 19 04:27 packages-stable/diffview-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/diffview-badge.svg
+4.0K -rw-r--r-- 1 root root  237 May 19 04:27 packages-stable/diffview-readme.txt

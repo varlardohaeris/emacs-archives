@@ -1,0 +1,6 @@
+Package: vega-view
+Fetcher: github
+Source:  https://github.com/applied-science/emacs-vega-view.git
+
+Updating /mnt/store/melpa/working/vega-view/
+No valid stable versions found for vega-view

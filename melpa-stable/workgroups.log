@@ -1,0 +1,6 @@
+Package: workgroups
+Fetcher: github
+Source:  https://github.com/tlh/workgroups.el.git
+
+Updating /mnt/store/melpa/working/workgroups/
+No valid stable versions found for workgroups

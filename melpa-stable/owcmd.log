@@ -1,0 +1,6 @@
+Package: owcmd
+Fetcher: github
+Source:  https://github.com/fishyfriend/owcmd.git
+
+Updating /mnt/store/melpa/working/owcmd/
+No valid stable versions found for owcmd

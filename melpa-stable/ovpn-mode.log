@@ -1,0 +1,6 @@
+Package: ovpn-mode
+Fetcher: github
+Source:  https://github.com/anticomputer/ovpn-mode.git
+
+Updating /mnt/store/melpa/working/ovpn-mode/
+No valid stable versions found for ovpn-mode

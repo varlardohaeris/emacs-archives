@@ -1,0 +1,32 @@
+Package: mustache
+Fetcher: github
+Source:  https://github.com/Wilfred/mustache.el.git
+
+Updating /mnt/store/melpa/working/mustache/
+Note: mustache :files spec is equivalent to the default.
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mustache/
+  to /tmp/mustachePI3NqJ/mustache-0.23
+    mustache-lex.el -> mustache-lex.el
+    mustache-parse.el -> mustache-parse.el
+    mustache-pkg.el -> mustache-pkg.el
+    mustache-render.el -> mustache-render.el
+    mustache.el -> mustache.el
+Created mustache-0.23.tar containing:
+  mustache-0.23/
+  mustache-0.23/mustache-lex.el
+  mustache-0.23/mustache-parse.el
+  mustache-0.23/mustache-pkg.el
+  mustache-0.23/mustache-render.el
+  mustache-0.23/mustache.el
+Built mustache in 3.655s, finished at Wed May 19 01:36:38 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  370 May 19 01:36 packages-stable/mustache-0.23.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:36 packages-stable/mustache-0.23.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mustache-badge.svg
+ 12K -rw-r--r-- 1 root root  10K May 18 22:22 packages-stable/mustache-mode-1.3.el
+4.0K -rw-r--r-- 1 root root  269 May 18 22:22 packages-stable/mustache-mode-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:22 packages-stable/mustache-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  323 May 18 22:22 packages-stable/mustache-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  136 May 19 01:36 packages-stable/mustache-mode.log
+4.0K -rw-r--r-- 1 root root  566 May 19 01:36 packages-stable/mustache-readme.txt

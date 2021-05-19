@@ -1,0 +1,6 @@
+Package: litecoin-ticker
+Fetcher: github
+Source:  https://github.com/llcc/btcbox-ticker.git
+
+Updating /mnt/store/melpa/working/litecoin-ticker/
+No valid stable versions found for litecoin-ticker

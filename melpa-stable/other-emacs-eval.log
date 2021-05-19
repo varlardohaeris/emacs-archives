@@ -1,0 +1,6 @@
+Package: other-emacs-eval
+Fetcher: github
+Source:  https://github.com/xuchunyang/other-emacs-eval.git
+
+Updating /mnt/store/melpa/working/other-emacs-eval/
+No valid stable versions found for other-emacs-eval

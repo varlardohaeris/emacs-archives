@@ -1,0 +1,6 @@
+Package: plain-org-wiki
+Fetcher: github
+Source:  https://github.com/abo-abo/plain-org-wiki.git
+
+Updating /mnt/store/melpa/working/plain-org-wiki/
+No valid stable versions found for plain-org-wiki

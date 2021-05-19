@@ -1,0 +1,6 @@
+Package: helm-cider-history
+Fetcher: github
+Source:  https://github.com/Kungi/helm-cider-history.git
+
+Updating /mnt/store/melpa/working/helm-cider-history/
+No valid stable versions found for helm-cider-history

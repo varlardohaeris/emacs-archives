@@ -1,0 +1,6 @@
+Package: sensitive
+Fetcher: github
+Source:  https://github.com/timvisher/sensitive.el.git
+
+Updating /mnt/store/melpa/working/sensitive/
+No valid stable versions found for sensitive

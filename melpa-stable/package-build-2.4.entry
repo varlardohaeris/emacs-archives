@@ -1,2 +1,10 @@
-
-(package-build . [(2 4) ((cl-lib (0 5))) "Tools for assembling a package archive" tar ((:commit . "bc06686806d676658b5e962497770e47025c17f1") (:keywords "tools") (:authors ("Donald Ephraim Curtis" . "dcurtis@milkbox.net")) (:maintainer "Donald Ephraim Curtis" . "dcurtis@milkbox.net"))])
+(package-build .
+	       [(2 4)
+		((cl-lib
+		  (0 5)))
+		"Tools for assembling a package archive" tar
+		((:commit . "bc06686806d676658b5e962497770e47025c17f1")
+		 (:authors
+		  ("Donald Ephraim Curtis" . "dcurtis@milkbox.net"))
+		 (:maintainer "Donald Ephraim Curtis" . "dcurtis@milkbox.net")
+		 (:keywords "tools"))])

@@ -1,0 +1,6 @@
+Package: elisp-sandbox
+Fetcher: github
+Source:  https://github.com/joelmccracken/elisp-sandbox.git
+
+Updating /mnt/store/melpa/working/elisp-sandbox/
+No valid stable versions found for elisp-sandbox

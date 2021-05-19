@@ -1,0 +1,12 @@
+Package: org-drill
+Fetcher: gitlab
+Source:  https://gitlab.com/phillord/org-drill.git
+
+Updating /mnt/store/melpa/working/org-drill/
+Built org-drill in 3.138s, finished at Wed May 19 01:39:13 2021
+ ✓ Success:
+156K -rw-r--r-- 1 root root 155K May 19 01:39 packages-stable/org-drill-2.7.0.el
+4.0K -rw-r--r-- 1 root root  497 May 19 01:39 packages-stable/org-drill-2.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-drill-badge.svg
+4.0K -rw-r--r-- 1 root root  721 May 19 01:39 packages-stable/org-drill-readme.txt
+4.0K -rw-r--r-- 1 root root  205 May 19 01:39 packages-stable/org-drill-table.log

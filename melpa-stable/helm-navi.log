@@ -1,0 +1,6 @@
+Package: helm-navi
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-navi.git
+
+Updating /mnt/store/melpa/working/helm-navi/
+No valid stable versions found for helm-navi

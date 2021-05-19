@@ -1,0 +1,6 @@
+Package: ob-html-chrome
+Fetcher: github
+Source:  https://github.com/nikclayton/ob-html-chrome.git
+
+Updating /mnt/store/melpa/working/ob-html-chrome/
+No valid stable versions found for ob-html-chrome

@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'persistent-soft)
@@ -76,7 +77,7 @@ TODO
 
     Notice and delete old data files.
 
-License
+; License
 
 Simplified BSD License:
 

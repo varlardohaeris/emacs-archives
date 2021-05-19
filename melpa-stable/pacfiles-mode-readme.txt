@@ -1,3 +1,4 @@
+
 `pacfiles-mode' is an Emacs major mode to manage `.pacnew` and `.pacsave`
 files left by Arch's pacman. To merge files, *pacfiles-mode* automatically
 creates an Ediff merge session that a user can interact with. After finishing

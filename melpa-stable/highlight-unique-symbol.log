@@ -1,0 +1,6 @@
+Package: highlight-unique-symbol
+Fetcher: github
+Source:  https://github.com/hitode909/emacs-highlight-unique-symbol.git
+
+Updating /mnt/store/melpa/working/highlight-unique-symbol/
+No valid stable versions found for highlight-unique-symbol

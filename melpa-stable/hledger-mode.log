@@ -1,0 +1,6 @@
+Package: hledger-mode
+Fetcher: github
+Source:  https://github.com/narendraj9/hledger-mode.git
+
+Updating /mnt/store/melpa/working/hledger-mode/
+No valid stable versions found for hledger-mode

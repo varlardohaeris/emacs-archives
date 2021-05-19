@@ -1,0 +1,11 @@
+Package: mark-thing-at
+Fetcher: github
+Source:  https://github.com/plandes/mark-thing-at.git
+
+Updating /mnt/store/melpa/working/mark-thing-at/
+Built mark-thing-at in 3.485s, finished at Wed May 19 01:34:05 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.7K May 19 01:34 packages-stable/mark-thing-at-0.3.el
+4.0K -rw-r--r-- 1 root root  349 May 19 01:34 packages-stable/mark-thing-at-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/mark-thing-at-badge.svg
+4.0K -rw-r--r-- 1 root root  456 May 19 01:34 packages-stable/mark-thing-at-readme.txt

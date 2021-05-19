@@ -1,0 +1,6 @@
+Package: helm-gitignore
+Fetcher: github
+Source:  https://github.com/jupl/helm-gitignore.git
+
+Updating /mnt/store/melpa/working/helm-gitignore/
+No valid stable versions found for helm-gitignore

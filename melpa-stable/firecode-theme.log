@@ -1,0 +1,6 @@
+Package: firecode-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-firecode-theme.git
+
+Updating /mnt/store/melpa/working/firecode-theme/
+No valid stable versions found for firecode-theme

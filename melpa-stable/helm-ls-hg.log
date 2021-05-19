@@ -1,0 +1,10 @@
+Package: helm-ls-hg
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-ls-hg.git
+
+Updating /mnt/store/melpa/working/helm-ls-hg/
+Built helm-ls-hg in 2.962s, finished at Wed May 19 04:40:40 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.4K May 19 04:40 packages-stable/helm-ls-hg-1.8.0.el
+4.0K -rw-r--r-- 1 root root  168 May 19 04:40 packages-stable/helm-ls-hg-1.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-ls-hg-badge.svg

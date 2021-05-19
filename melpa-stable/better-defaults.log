@@ -1,0 +1,6 @@
+Package: better-defaults
+Fetcher: git
+Source:  https://git.sr.ht/~technomancy/better-defaults
+
+Updating /mnt/store/melpa/working/better-defaults/
+No valid stable versions found for better-defaults

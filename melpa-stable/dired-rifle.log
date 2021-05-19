@@ -1,0 +1,6 @@
+Package: dired-rifle
+Fetcher: github
+Source:  https://github.com/vifon/dired-rifle.el.git
+
+Updating /mnt/store/melpa/working/dired-rifle/
+No valid stable versions found for dired-rifle

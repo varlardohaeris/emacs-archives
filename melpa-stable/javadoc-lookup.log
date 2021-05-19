@@ -1,0 +1,26 @@
+Package: javadoc-lookup
+Fetcher: github
+Source:  https://github.com/skeeto/javadoc-lookup.git
+
+Updating /mnt/store/melpa/working/javadoc-lookup/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/javadoc-lookup/
+  to /tmp/javadoc-lookupquMDYT/javadoc-lookup-1.1.0
+    javadoc-import.el -> javadoc-import.el
+    javadoc-lookup.el -> javadoc-lookup.el
+    maven-fetch.el -> maven-fetch.el
+    webcache/http+++docs.oracle.com+javase+8+docs+api+.v4 -> webcache/http+++docs.oracle.com+javase+8+docs+api+.v4
+Created javadoc-lookup-1.1.0.tar containing:
+  javadoc-lookup-1.1.0/
+  javadoc-lookup-1.1.0/javadoc-import.el
+  javadoc-lookup-1.1.0/javadoc-lookup-pkg.el
+  javadoc-lookup-1.1.0/javadoc-lookup.el
+  javadoc-lookup-1.1.0/maven-fetch.el
+  javadoc-lookup-1.1.0/webcache/
+  javadoc-lookup-1.1.0/webcache/http+++docs.oracle.com+javase+8+docs+api+.v4
+Built javadoc-lookup in 3.485s, finished at Wed May 19 04:44:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  358 May 19 04:44 packages-stable/javadoc-lookup-1.1.0.entry
+412K -rw-r--r-- 1 root root 410K May 19 04:44 packages-stable/javadoc-lookup-1.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/javadoc-lookup-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:44 packages-stable/javadoc-lookup-readme.txt

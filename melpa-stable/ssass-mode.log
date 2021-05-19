@@ -1,0 +1,11 @@
+Package: ssass-mode
+Fetcher: github
+Source:  https://github.com/AdamNiederer/ssass-mode.git
+
+Updating /mnt/store/melpa/working/ssass-mode/
+Built ssass-mode in 3.337s, finished at Wed May 19 01:50:13 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K May 19 01:50 packages-stable/ssass-mode-0.2.el
+4.0K -rw-r--r-- 1 root root  407 May 19 01:50 packages-stable/ssass-mode-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/ssass-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  225 May 19 01:50 packages-stable/ssass-mode-readme.txt

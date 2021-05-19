@@ -1,0 +1,11 @@
+Package: ox-pandoc
+Fetcher: github
+Source:  https://github.com/kawabata/ox-pandoc.git
+
+Updating /mnt/store/melpa/working/ox-pandoc/
+Built ox-pandoc in 2.924s, finished at Wed May 19 01:41:31 2021
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  46K May 19 01:41 packages-stable/ox-pandoc-1.150707.el
+4.0K -rw-r--r-- 1 root root  459 May 19 01:41 packages-stable/ox-pandoc-1.150707.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-pandoc-badge.svg
+4.0K -rw-r--r-- 1 root root  257 May 19 01:41 packages-stable/ox-pandoc-readme.txt

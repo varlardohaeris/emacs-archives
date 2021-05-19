@@ -1,0 +1,6 @@
+Package: man-commands
+Fetcher: github
+Source:  https://github.com/nflath/man-commands.git
+
+Updating /mnt/store/melpa/working/man-commands/
+No valid stable versions found for man-commands

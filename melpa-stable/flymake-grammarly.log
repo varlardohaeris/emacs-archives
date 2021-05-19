@@ -1,0 +1,11 @@
+Package: flymake-grammarly
+Fetcher: github
+Source:  https://github.com/emacs-grammarly/flymake-grammarly.git
+
+Updating /mnt/store/melpa/working/flymake-grammarly/
+Built flymake-grammarly in 2.941s, finished at Wed May 19 04:35:32 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.5K May 19 04:35 packages-stable/flymake-grammarly-0.2.1.el
+4.0K -rw-r--r-- 1 root root  408 May 19 04:35 packages-stable/flymake-grammarly-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-grammarly-badge.svg
+4.0K -rw-r--r-- 1 root root   32 May 19 04:35 packages-stable/flymake-grammarly-readme.txt

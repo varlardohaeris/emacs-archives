@@ -1,4 +1,3 @@
-Commentary:
 
 * Introduction
 I would like to drag files onto a ESS buffer and write the appropriate
@@ -53,3 +52,5 @@ write.csv(d,"${1:`yas/selected-text`}");
 ** TODO Support dired mode
 ** TODO Support inferior processes.
 ** TODO Allow generic Yasnippet expansion by key name (like dnd_csv will automatically do drag and drop for csv files)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

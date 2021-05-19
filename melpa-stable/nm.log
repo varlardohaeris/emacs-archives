@@ -1,0 +1,6 @@
+Package: nm
+Fetcher: github
+Source:  https://github.com/tjim/nevermore.git
+
+Updating /mnt/store/melpa/working/nm/
+No valid stable versions found for nm

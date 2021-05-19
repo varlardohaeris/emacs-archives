@@ -1,0 +1,6 @@
+Package: historian
+Fetcher: github
+Source:  https://github.com/PythonNut/historian.el.git
+
+Updating /mnt/store/melpa/working/historian/
+No valid stable versions found for historian

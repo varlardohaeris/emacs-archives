@@ -1,0 +1,6 @@
+Package: auto-complete-rst
+Fetcher: github
+Source:  https://github.com/tkf/auto-complete-rst.git
+
+Updating /mnt/store/melpa/working/auto-complete-rst/
+No valid stable versions found for auto-complete-rst

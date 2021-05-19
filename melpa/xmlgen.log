@@ -1,0 +1,11 @@
+Package: xmlgen
+Fetcher: github
+Source:  https://github.com/philjackson/xmlgen.git
+
+Updating /mnt/store/melpa/working/xmlgen/
+Built xmlgen in 4.867s, finished at Wed May 19 04:16:37 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K May 19 04:16 packages/xmlgen-20170411.1317.el
+4.0K -rw-r--r-- 1 root root  257 May 19 04:16 packages/xmlgen-20170411.1317.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:16 packages/xmlgen-badge.svg
+4.0K -rw-r--r-- 1 root root  562 May 19 04:16 packages/xmlgen-readme.txt

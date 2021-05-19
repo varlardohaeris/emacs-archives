@@ -1,0 +1,11 @@
+Package: org-starter-swiper
+Fetcher: github
+Source:  https://github.com/akirak/org-starter.git
+
+Updating /mnt/store/melpa/working/org-starter-swiper/
+Built org-starter-swiper in 6.555s, finished at Wed May 19 01:40:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.3K May 19 01:40 packages-stable/org-starter-swiper-0.2.9.el
+4.0K -rw-r--r-- 1 root root  448 May 19 01:40 packages-stable/org-starter-swiper-0.2.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-starter-swiper-badge.svg
+4.0K -rw-r--r-- 1 root root  122 May 19 01:40 packages-stable/org-starter-swiper-readme.txt

@@ -1,0 +1,6 @@
+Package: i-ching
+Fetcher: github
+Source:  https://github.com/zzkt/i-ching.git
+
+Updating /mnt/store/melpa/working/i-ching/
+No valid stable versions found for i-ching

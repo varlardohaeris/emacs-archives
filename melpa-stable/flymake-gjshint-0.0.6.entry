@@ -1,2 +1,8 @@
-
-(flymake-gjshint . [(0 0 6) nil "A flymake handler for javascript using both jshint and gjslint" single ((:commit . "71495ee5303de18293decd57ab9f9abdbaabfa05") (:keywords "flymake" "javascript" "jshint" "gjslint") (:authors ("Yasuyuki Oka" . "yasuyk@gmail.com")) (:maintainer "Yasuyuki Oka" . "yasuyk@gmail.com"))])
+(flymake-gjshint .
+		 [(0 0 6)
+		  nil "A flymake handler for javascript using both jshint and gjslint" single
+		  ((:commit . "71495ee5303de18293decd57ab9f9abdbaabfa05")
+		   (:authors
+		    ("Yasuyuki Oka" . "yasuyk@gmail.com"))
+		   (:maintainer "Yasuyuki Oka" . "yasuyk@gmail.com")
+		   (:keywords "flymake" "javascript" "jshint" "gjslint"))])

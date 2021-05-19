@@ -1,0 +1,6 @@
+Package: dayone
+Fetcher: github
+Source:  https://github.com/mori-dev/emacs-dayone.git
+
+Updating /mnt/store/melpa/working/dayone/
+No valid stable versions found for dayone

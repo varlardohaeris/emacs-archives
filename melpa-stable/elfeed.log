@@ -1,0 +1,56 @@
+Package: elfeed
+Fetcher: github
+Source:  https://github.com/skeeto/elfeed.git
+
+Updating /mnt/store/melpa/working/elfeed/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elfeed/
+  to /tmp/elfeedTAuN3x/elfeed-3.4.1
+    elfeed-csv.el -> elfeed-csv.el
+    elfeed-curl.el -> elfeed-curl.el
+    elfeed-db.el -> elfeed-db.el
+    elfeed-lib.el -> elfeed-lib.el
+    elfeed-link.el -> elfeed-link.el
+    elfeed-log.el -> elfeed-log.el
+    elfeed-pkg.el -> elfeed-pkg.el
+    elfeed-search.el -> elfeed-search.el
+    elfeed-show.el -> elfeed-show.el
+    elfeed.el -> elfeed.el
+    xml-query.el -> xml-query.el
+Created elfeed-3.4.1.tar containing:
+  elfeed-3.4.1/
+  elfeed-3.4.1/elfeed-csv.el
+  elfeed-3.4.1/elfeed-curl.el
+  elfeed-3.4.1/elfeed-db.el
+  elfeed-3.4.1/elfeed-lib.el
+  elfeed-3.4.1/elfeed-link.el
+  elfeed-3.4.1/elfeed-log.el
+  elfeed-3.4.1/elfeed-pkg.el
+  elfeed-3.4.1/elfeed-search.el
+  elfeed-3.4.1/elfeed-show.el
+  elfeed-3.4.1/elfeed.el
+  elfeed-3.4.1/xml-query.el
+Built elfeed in 4.146s, finished at Wed May 19 04:30:04 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  326 May 19 04:30 packages-stable/elfeed-3.4.1.entry
+180K -rw-r--r-- 1 root root 180K May 19 04:30 packages-stable/elfeed-3.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elfeed-badge.svg
+4.0K -rw-r--r-- 1 root root  205 May 19 04:30 packages-stable/elfeed-dashboard.log
+4.0K -rw-r--r-- 1 root root  197 May 19 04:30 packages-stable/elfeed-goodies.log
+4.0K -rw-r--r-- 1 root root  182 May 19 04:30 packages-stable/elfeed-org.log
+4.0K -rw-r--r-- 1 root root  448 May 19 01:15 packages-stable/elfeed-protocol-0.8.0.entry
+160K -rw-r--r-- 1 root root 160K May 19 01:15 packages-stable/elfeed-protocol-0.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/elfeed-protocol-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 01:15 packages-stable/elfeed-protocol-readme.txt
+4.0K -rw-r--r-- 1 root root  149 May 19 04:30 packages-stable/elfeed-protocol.log
+4.0K -rw-r--r-- 1 root root   99 May 19 04:30 packages-stable/elfeed-readme.txt
+4.0K -rw-r--r-- 1 root root  377 May 19 01:15 packages-stable/elfeed-score-0.7.8.entry
+180K -rw-r--r-- 1 root root 180K May 19 01:15 packages-stable/elfeed-score-0.7.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/elfeed-score-badge.svg
+4.0K -rw-r--r-- 1 root root  629 May 19 01:15 packages-stable/elfeed-score-readme.txt
+4.0K -rw-r--r-- 1 root root  138 May 19 04:30 packages-stable/elfeed-score.log
+4.0K -rw-r--r-- 1 root root  430 May 19 01:15 packages-stable/elfeed-web-3.4.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:15 packages-stable/elfeed-web-3.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/elfeed-web-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:15 packages-stable/elfeed-web-readme.txt
+   0 -rw-r--r-- 1 root root    0 May 19 04:30 packages-stable/elfeed-web.log

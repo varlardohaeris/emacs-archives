@@ -1,0 +1,6 @@
+Package: slow-keys
+Fetcher: github
+Source:  https://github.com/manuel-uberti/slow-keys.git
+
+Updating /mnt/store/melpa/working/slow-keys/
+No valid stable versions found for slow-keys

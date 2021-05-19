@@ -1,0 +1,6 @@
+Package: teco
+Fetcher: github
+Source:  https://github.com/mtk/teco.git
+
+Updating /mnt/store/melpa/working/teco/
+No valid stable versions found for teco

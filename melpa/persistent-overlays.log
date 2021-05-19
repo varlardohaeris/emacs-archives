@@ -1,0 +1,23 @@
+Package: persistent-overlays
+Fetcher: github
+Source:  https://github.com/mneilly/Emacs-Persistent-Overlays.git
+
+Updating /mnt/store/melpa/working/persistent-overlays/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/persistent-overlays/
+  to /tmp/persistent-overlaysusS61T/persistent-overlays-20161128.700
+    persistent-overlays.el -> persistent-overlays.el
+    README.md -> README.md
+    LICENSE -> LICENSE
+Created persistent-overlays-20161128.700.tar containing:
+  persistent-overlays-20161128.700/
+  persistent-overlays-20161128.700/LICENSE
+  persistent-overlays-20161128.700/README.md
+  persistent-overlays-20161128.700/persistent-overlays-pkg.el
+  persistent-overlays-20161128.700/persistent-overlays.el
+Built persistent-overlays in 3.490s, finished at Wed May 19 03:54:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  432 May 19 03:54 packages/persistent-overlays-20161128.700.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 03:54 packages/persistent-overlays-20161128.700.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:54 packages/persistent-overlays-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 03:54 packages/persistent-overlays-readme.txt

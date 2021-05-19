@@ -1,0 +1,6 @@
+Package: yabin
+Fetcher: github
+Source:  https://github.com/d5884/yabin.git
+
+Updating /mnt/store/melpa/working/yabin/
+No valid stable versions found for yabin

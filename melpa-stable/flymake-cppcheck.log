@@ -1,0 +1,6 @@
+Package: flymake-cppcheck
+Fetcher: github
+Source:  https://github.com/senda-akiha/flymake-cppcheck.git
+
+Updating /mnt/store/melpa/working/flymake-cppcheck/
+No valid stable versions found for flymake-cppcheck

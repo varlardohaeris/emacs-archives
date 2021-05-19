@@ -1,0 +1,6 @@
+Package: flycheck-vale
+Fetcher: github
+Source:  https://github.com/abingham/flycheck-vale.git
+
+Updating /mnt/store/melpa/working/flycheck-vale/
+No valid stable versions found for flycheck-vale

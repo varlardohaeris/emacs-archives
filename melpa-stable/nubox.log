@@ -1,0 +1,6 @@
+Package: nubox
+Fetcher: github
+Source:  https://github.com/martijnat/nubox.git
+
+Updating /mnt/store/melpa/working/nubox/
+No valid stable versions found for nubox

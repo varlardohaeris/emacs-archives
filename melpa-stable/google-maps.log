@@ -1,0 +1,27 @@
+Package: google-maps
+Fetcher: github
+Source:  https://github.com/jd/google-maps.el.git
+
+Updating /mnt/store/melpa/working/google-maps/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/google-maps/
+  to /tmp/google-mapseeC2RT/google-maps-1.0.0
+    google-maps-base.el -> google-maps-base.el
+    google-maps-geocode.el -> google-maps-geocode.el
+    google-maps-static.el -> google-maps-static.el
+    google-maps.el -> google-maps.el
+    org-location-google-maps.el -> org-location-google-maps.el
+Created google-maps-1.0.0.tar containing:
+  google-maps-1.0.0/
+  google-maps-1.0.0/google-maps-base.el
+  google-maps-1.0.0/google-maps-geocode.el
+  google-maps-1.0.0/google-maps-pkg.el
+  google-maps-1.0.0/google-maps-static.el
+  google-maps-1.0.0/google-maps.el
+  google-maps-1.0.0/org-location-google-maps.el
+Built google-maps in 2.830s, finished at Wed May 19 04:38:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  293 May 19 04:38 packages-stable/google-maps-1.0.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 04:38 packages-stable/google-maps-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/google-maps-badge.svg
+4.0K -rw-r--r-- 1 root root    5 May 19 04:38 packages-stable/google-maps-readme.txt

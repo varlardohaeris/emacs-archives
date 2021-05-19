@@ -1,0 +1,6 @@
+Package: jaword
+Fetcher: github
+Source:  https://github.com/zk-phi/jaword.git
+
+Updating /mnt/store/melpa/working/jaword/
+No valid stable versions found for jaword

@@ -1,0 +1,6 @@
+Package: plaster
+Fetcher: github
+Source:  https://github.com/Shirakumo/plaster.git
+
+Updating /mnt/store/melpa/working/plaster/
+No valid stable versions found for plaster

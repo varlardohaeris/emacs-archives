@@ -1,0 +1,11 @@
+Package: iceberg-theme
+Fetcher: github
+Source:  https://github.com/conao3/iceberg-theme.el.git
+
+Updating /mnt/store/melpa/working/iceberg-theme/
+Built iceberg-theme in 3.016s, finished at Wed May 19 04:42:32 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.0K May 19 04:42 packages-stable/iceberg-theme-1.0.0.el
+4.0K -rw-r--r-- 1 root root  413 May 19 04:42 packages-stable/iceberg-theme-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/iceberg-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  202 May 19 04:42 packages-stable/iceberg-theme-readme.txt

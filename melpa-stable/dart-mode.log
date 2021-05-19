@@ -1,0 +1,11 @@
+Package: dart-mode
+Fetcher: github
+Source:  https://github.com/bradyt/dart-mode.git
+
+Updating /mnt/store/melpa/working/dart-mode/
+Built dart-mode in 3.536s, finished at Wed May 19 04:26:35 2021
+ ✓ Success:
+ 80K -rw-r--r-- 1 root root  78K May 19 04:26 packages-stable/dart-mode-1.0.5.el
+4.0K -rw-r--r-- 1 root root  510 May 19 04:26 packages-stable/dart-mode-1.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/dart-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  151 May 19 04:26 packages-stable/dart-mode-readme.txt

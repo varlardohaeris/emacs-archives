@@ -1,0 +1,6 @@
+Package: ayu-theme
+Fetcher: github
+Source:  https://github.com/vutran1710/Ayu-Theme-Emacs.git
+
+Updating /mnt/store/melpa/working/ayu-theme/
+No valid stable versions found for ayu-theme

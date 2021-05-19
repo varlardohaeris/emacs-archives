@@ -1,0 +1,6 @@
+Package: xahk-mode
+Fetcher: github
+Source:  https://github.com/xahlee/xahk-mode.el.git
+
+Updating /mnt/store/melpa/working/xahk-mode/
+No valid stable versions found for xahk-mode

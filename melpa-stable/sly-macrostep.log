@@ -1,0 +1,6 @@
+Package: sly-macrostep
+Fetcher: github
+Source:  https://github.com/joaotavora/sly-macrostep.git
+
+Updating /mnt/store/melpa/working/sly-macrostep/
+No valid stable versions found for sly-macrostep

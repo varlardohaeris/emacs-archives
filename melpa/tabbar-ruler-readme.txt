@@ -1,3 +1,4 @@
+
 * Introduction
 Tabbar ruler is an Emacs package that allows both the tabbar and the
 ruler to be used together.  In addition it allows auto-hiding of the
@@ -57,3 +58,5 @@ the buffer movement you can press enter or space.
 
 * Known issues
 the left arrow is text instead of an image.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

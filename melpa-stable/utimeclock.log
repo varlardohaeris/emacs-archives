@@ -1,0 +1,6 @@
+Package: utimeclock
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-utimeclock.git
+
+Updating /mnt/store/melpa/working/utimeclock/
+No valid stable versions found for utimeclock

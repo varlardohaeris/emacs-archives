@@ -1,0 +1,24 @@
+Package: synosaurus
+Fetcher: github
+Source:  https://github.com/hpdeifel/synosaurus.git
+
+Updating /mnt/store/melpa/working/synosaurus/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/synosaurus/
+  to /tmp/synosaurusVSbykg/synosaurus-0.2.0
+    synosaurus-openthesaurus.el -> synosaurus-openthesaurus.el
+    synosaurus-pkg.el -> synosaurus-pkg.el
+    synosaurus-wordnet.el -> synosaurus-wordnet.el
+    synosaurus.el -> synosaurus.el
+Created synosaurus-0.2.0.tar containing:
+  synosaurus-0.2.0/
+  synosaurus-0.2.0/synosaurus-openthesaurus.el
+  synosaurus-0.2.0/synosaurus-pkg.el
+  synosaurus-0.2.0/synosaurus-wordnet.el
+  synosaurus-0.2.0/synosaurus.el
+Built synosaurus in 3.870s, finished at Wed May 19 01:51:02 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  349 May 19 01:51 packages-stable/synosaurus-0.2.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:51 packages-stable/synosaurus-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/synosaurus-badge.svg
+4.0K -rw-r--r-- 1 root root  353 May 19 01:51 packages-stable/synosaurus-readme.txt

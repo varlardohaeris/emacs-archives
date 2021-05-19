@@ -1,0 +1,6 @@
+Package: futhark-mode
+Fetcher: github
+Source:  https://github.com/diku-dk/futhark-mode.git
+
+Updating /mnt/store/melpa/working/futhark-mode/
+No valid stable versions found for futhark-mode

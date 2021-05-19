@@ -1,0 +1,6 @@
+Package: imbot
+Fetcher: github
+Source:  https://github.com/QiangF/imbot.git
+
+Updating /mnt/store/melpa/working/imbot/
+No valid stable versions found for imbot

@@ -1,3 +1,4 @@
+
 This minor mode provides some enhancements to ruby-mode in
 the contexts of RSpec specifications.  Namely, it provides the
 following capabilities:

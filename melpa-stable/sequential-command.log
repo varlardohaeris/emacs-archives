@@ -1,0 +1,6 @@
+Package: sequential-command
+Fetcher: github
+Source:  https://github.com/rubikitch/sequential-command.git
+
+Updating /mnt/store/melpa/working/sequential-command/
+No valid stable versions found for sequential-command

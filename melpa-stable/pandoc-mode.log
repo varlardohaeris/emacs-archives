@@ -1,0 +1,24 @@
+Package: pandoc-mode
+Fetcher: github
+Source:  https://github.com/joostkremers/pandoc-mode.git
+
+Updating /mnt/store/melpa/working/pandoc-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pandoc-mode/
+  to /tmp/pandoc-modeVcQ1dX/pandoc-mode-2.31
+    pandoc-mode-utils.el -> pandoc-mode-utils.el
+    pandoc-mode.el -> pandoc-mode.el
+    pandoc-mode.info -> pandoc-mode.info
+Created pandoc-mode-2.31.tar containing:
+  pandoc-mode-2.31/
+  pandoc-mode-2.31/dir
+  pandoc-mode-2.31/pandoc-mode-pkg.el
+  pandoc-mode-2.31/pandoc-mode-utils.el
+  pandoc-mode-2.31/pandoc-mode.el
+  pandoc-mode-2.31/pandoc-mode.info
+Built pandoc-mode in 2.829s, finished at Wed May 19 01:41:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  434 May 19 01:41 packages-stable/pandoc-mode-2.31.entry
+192K -rw-r--r-- 1 root root 190K May 19 01:41 packages-stable/pandoc-mode-2.31.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/pandoc-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  197 May 19 01:41 packages-stable/pandoc-mode-readme.txt

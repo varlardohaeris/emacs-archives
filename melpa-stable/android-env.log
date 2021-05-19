@@ -1,0 +1,6 @@
+Package: android-env
+Fetcher: github
+Source:  https://github.com/fernando-jascovich/android-env.el.git
+
+Updating /mnt/store/melpa/working/android-env/
+No valid stable versions found for android-env

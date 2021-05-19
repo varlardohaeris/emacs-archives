@@ -1,0 +1,6 @@
+Package: sunshine
+Fetcher: github
+Source:  https://github.com/aaronbieber/sunshine.el.git
+
+Updating /mnt/store/melpa/working/sunshine/
+No valid stable versions found for sunshine

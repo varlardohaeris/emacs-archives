@@ -1,0 +1,6 @@
+Package: focus-autosave-mode
+Fetcher: github
+Source:  https://github.com/vifon/focus-autosave-mode.el.git
+
+Updating /mnt/store/melpa/working/focus-autosave-mode/
+No valid stable versions found for focus-autosave-mode

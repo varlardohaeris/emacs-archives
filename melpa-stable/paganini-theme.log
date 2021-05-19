@@ -1,0 +1,6 @@
+Package: paganini-theme
+Fetcher: github
+Source:  https://github.com/onurtemizkan/paganini.git
+
+Updating /mnt/store/melpa/working/paganini-theme/
+No valid stable versions found for paganini-theme

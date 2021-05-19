@@ -8,7 +8,7 @@ as its transport and uses Emacs' font-lock as its syntax
 highlighter instead of relying on a third-party syntax highlighter
 for which individual language support must be added one-by-one.
 
-Install
+; Install
 
 Requires htmlize; available at
 https://github.com/hniksic/emacs-htmlize.  If htmlize is not
@@ -42,7 +42,7 @@ it should link to:
 (setq scpaste-user-name "Technomancy"
       scpaste-user-address "https://technomancy.us/")
 
-Usage
+; Usage
 
 M-x scpaste, enter a name, and press return. The name will be
 incorporated into the URL by escaping it and adding it to the end

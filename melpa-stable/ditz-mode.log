@@ -1,0 +1,6 @@
+Package: ditz-mode
+Fetcher: hg
+Source:  https://hg.sr.ht/~zondo/ditz-mode
+
+Updating /mnt/store/melpa/working/ditz-mode/
+hg exited with status 255

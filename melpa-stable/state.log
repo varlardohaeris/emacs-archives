@@ -1,0 +1,6 @@
+Package: state
+Fetcher: github
+Source:  https://github.com/thisirs/state.git
+
+Updating /mnt/store/melpa/working/state/
+No valid stable versions found for state

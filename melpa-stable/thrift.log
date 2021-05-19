@@ -1,0 +1,11 @@
+Package: thrift
+Fetcher: github
+Source:  https://github.com/facebook/fbthrift.git
+
+Updating /mnt/store/melpa/working/thrift/
+Built thrift in 5.234s, finished at Wed May 19 01:52:15 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 01:52 packages-stable/thrift-2021.5.17.0.el
+4.0K -rw-r--r-- 1 root root  194 May 19 01:52 packages-stable/thrift-2021.5.17.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/thrift-badge.svg
+4.0K -rw-r--r-- 1 root root  323 May 19 01:52 packages-stable/thrift-readme.txt

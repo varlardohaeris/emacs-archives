@@ -1,0 +1,6 @@
+Package: yara-mode
+Fetcher: github
+Source:  https://github.com/binjo/yara-mode.git
+
+Updating /mnt/store/melpa/working/yara-mode/
+No valid stable versions found for yara-mode

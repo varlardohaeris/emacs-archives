@@ -1,0 +1,11 @@
+Package: srv
+Fetcher: github
+Source:  https://github.com/legoscia/srv.el.git
+
+Updating /mnt/store/melpa/working/srv/
+Built srv in 2.928s, finished at Wed May 19 01:50:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.4K May 19 01:50 packages-stable/srv-0.2.el
+4.0K -rw-r--r-- 1 root root  357 May 19 01:50 packages-stable/srv-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/srv-badge.svg
+4.0K -rw-r--r-- 1 root root  640 May 19 01:50 packages-stable/srv-readme.txt

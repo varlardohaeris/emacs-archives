@@ -1,0 +1,26 @@
+Package: datetime
+Fetcher: github
+Source:  https://github.com/doublep/datetime.git
+
+Updating /mnt/store/melpa/working/datetime/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/datetime/
+  to /tmp/datetimexT4ogj/datetime-0.7
+    datetime.el -> datetime.el
+    locale-data.extmap -> locale-data.extmap
+    timezone-data.extmap -> timezone-data.extmap
+    timezone-name-data.extmap -> timezone-name-data.extmap
+Created datetime-0.7.tar containing:
+  datetime-0.7/
+  datetime-0.7/datetime-pkg.el
+  datetime-0.7/datetime.el
+  datetime-0.7/locale-data.extmap
+  datetime-0.7/timezone-data.extmap
+  datetime-0.7/timezone-name-data.extmap
+Built datetime in 2.775s, finished at Wed May 19 04:26:44 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  406 May 19 04:26 packages-stable/datetime-0.7.entry
+3.9M -rw-r--r-- 1 root root 3.9M May 19 04:26 packages-stable/datetime-0.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/datetime-badge.svg
+4.0K -rw-r--r-- 1 root root  201 May 19 04:26 packages-stable/datetime-format.log
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:26 packages-stable/datetime-readme.txt

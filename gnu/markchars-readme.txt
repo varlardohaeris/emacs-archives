@@ -9,3 +9,9 @@ The marked text will have the 'markchars property set to either
 'confusable or 'pattern and the face set to either
 `markchars-face-confusable' or `markchars-face-pattern'
 respectively.
+
+You can set `nobreak-char-display' to nil, and use
+`markchars-nobreak-space' and `markchars-nobreak-hyphen'
+in Dired buffers to highlight `nobreak-space' and `nobreak-hyphen'
+only in file names, not `nobreak-space' used by thousands separators
+in file sizes (bug#44236).

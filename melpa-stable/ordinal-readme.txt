@@ -10,6 +10,6 @@ You can prohibit "0th" for correct English.
 
 (let ((ordinal-number-accept-0 nil))
   (ordinal-format 0))
-=>  Assertion failed: (>= n 1)
+;; =>  Assertion failed: (>= n 1)
 
 This variable works with dynamic scope.  Do not use `setq' for `ordinal-number-accept-0'.

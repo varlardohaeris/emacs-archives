@@ -1,0 +1,11 @@
+Package: osx-clipboard
+Fetcher: github
+Source:  https://github.com/joddie/osx-clipboard-mode.git
+
+Updating /mnt/store/melpa/working/osx-clipboard/
+Built osx-clipboard in 3.090s, finished at Wed May 19 01:41:05 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K May 19 01:41 packages-stable/osx-clipboard-0.1.el
+4.0K -rw-r--r-- 1 root root  321 May 19 01:41 packages-stable/osx-clipboard-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/osx-clipboard-badge.svg
+4.0K -rw-r--r-- 1 root root  754 May 19 01:41 packages-stable/osx-clipboard-readme.txt

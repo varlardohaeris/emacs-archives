@@ -1,2 +1,13 @@
-
-(myterminal-controls . [(1 3 0) ((emacs (24)) (cl-lib (0 5))) "Quick toggle controls at a key-stroke" single ((:commit . "df144b269bc274162602e50c692be20ac9b90547") (:keywords "convenience" "shortcuts") (:authors ("Mohammed Ismail Ansari" . "team.terminal@gmail.com")) (:maintainer "Mohammed Ismail Ansari" . "team.terminal@gmail.com") (:url . "http://ismail.teamfluxion.com"))])
+(myterminal-controls .
+		     [(1 3 0)
+		      ((emacs
+			(24))
+		       (cl-lib
+			(0 5)))
+		      "Quick toggle controls at a key-stroke" single
+		      ((:commit . "df144b269bc274162602e50c692be20ac9b90547")
+		       (:authors
+			("Mohammed Ismail Ansari" . "team.terminal@gmail.com"))
+		       (:maintainer "Mohammed Ismail Ansari" . "team.terminal@gmail.com")
+		       (:keywords "convenience" "shortcuts")
+		       (:url . "http://ismail.teamfluxion.com"))])

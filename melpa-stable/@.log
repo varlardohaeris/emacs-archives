@@ -1,0 +1,6 @@
+Package: @
+Fetcher: github
+Source:  https://github.com/skeeto/at-el.git
+
+Updating /mnt/store/melpa/working/@/
+No valid stable versions found for @

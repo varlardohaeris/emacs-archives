@@ -1,0 +1,6 @@
+Package: avy-flycheck
+Fetcher: github
+Source:  https://github.com/magicdirac/avy-flycheck.git
+
+Updating /mnt/store/melpa/working/avy-flycheck/
+No valid stable versions found for avy-flycheck

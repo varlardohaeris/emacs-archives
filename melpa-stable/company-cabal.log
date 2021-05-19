@@ -1,0 +1,21 @@
+Package: company-cabal
+Fetcher: github
+Source:  https://github.com/iquiw/company-cabal.git
+
+Updating /mnt/store/melpa/working/company-cabal/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-cabal/
+  to /tmp/company-cabalptknA8/company-cabal-0.2.1
+    company-cabal-fields.el -> company-cabal-fields.el
+    company-cabal.el -> company-cabal.el
+Created company-cabal-0.2.1.tar containing:
+  company-cabal-0.2.1/
+  company-cabal-0.2.1/company-cabal-fields.el
+  company-cabal-0.2.1/company-cabal-pkg.el
+  company-cabal-0.2.1/company-cabal.el
+Built company-cabal in 2.819s, finished at Wed May 19 04:24:20 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  360 May 19 04:24 packages-stable/company-cabal-0.2.1.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:24 packages-stable/company-cabal-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-cabal-badge.svg
+4.0K -rw-r--r-- 1 root root  231 May 19 04:24 packages-stable/company-cabal-readme.txt

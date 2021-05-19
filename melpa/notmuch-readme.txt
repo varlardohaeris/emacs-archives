@@ -9,18 +9,18 @@ To install this software, copy it to a directory that is on the
 /usr/local/share/emacs/site-lisp). If you are viewing this from the
 notmuch source distribution then you can simply run:
 
-	sudo make install-emacs
+sudo make install-emacs
 
 to install it.
 
 Then, to actually run it, add:
 
-	(autoload 'notmuch "notmuch" "Notmuch mail" t)
+(autoload 'notmuch "notmuch" "Notmuch mail" t)
 
 to your ~/.emacs file, and then run "M-x notmuch" from within emacs,
 or run:
 
-	emacs -f notmuch
+emacs -f notmuch
 
 Have fun, and let us know if you have any comment, questions, or
 kudos: Notmuch list <notmuch@notmuchmail.org> (subscription is not

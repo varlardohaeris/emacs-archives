@@ -1,0 +1,6 @@
+Package: dyalog-mode
+Fetcher: github
+Source:  https://github.com/harsman/dyalog-mode.git
+
+Updating /mnt/store/melpa/working/dyalog-mode/
+No valid stable versions found for dyalog-mode

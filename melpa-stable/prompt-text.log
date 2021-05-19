@@ -1,0 +1,11 @@
+Package: prompt-text
+Fetcher: github
+Source:  https://github.com/10sr/prompt-text-el.git
+
+Updating /mnt/store/melpa/working/prompt-text/
+Built prompt-text in 2.785s, finished at Wed May 19 01:44:22 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.9K May 19 01:44 packages-stable/prompt-text-0.1.0.el
+4.0K -rw-r--r-- 1 root root  387 May 19 01:44 packages-stable/prompt-text-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/prompt-text-badge.svg
+4.0K -rw-r--r-- 1 root root  507 May 19 01:44 packages-stable/prompt-text-readme.txt

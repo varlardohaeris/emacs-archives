@@ -8,7 +8,7 @@ I've implemented 5 refactorings
  - Add Parameter
  - Extract to Let
 
-## Install
+; ## Install
 Add this file to your load path.
 (require 'ruby-refactor)  ; if not installed from a package
 (add-hook 'ruby-mode-hook 'ruby-refactor-mode-launch)

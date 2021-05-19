@@ -1,0 +1,11 @@
+Package: pastebin
+Fetcher: github
+Source:  https://github.com/nicferrier/elpastebin.git
+
+Updating /mnt/store/melpa/working/pastebin/
+Built pastebin in 4.128s, finished at Wed May 19 03:54:30 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K May 19 03:54 packages/pastebin-20101125.2002.el
+4.0K -rw-r--r-- 1 root root  166 May 19 03:54 packages/pastebin-20101125.2002.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:54 packages/pastebin-badge.svg
+4.0K -rw-r--r-- 1 root root  257 May 19 03:54 packages/pastebin-readme.txt

@@ -3,6 +3,6 @@ structure has been borrowed from color-theme-sanityinc-solarized
 URL: https://github.com/purcell/color-theme-sanityinc-solarized by
 Steve Purcell.
 
-Requirements:
+; Requirements:
 
 Emacs 24.

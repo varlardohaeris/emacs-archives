@@ -1,0 +1,6 @@
+Package: fcopy
+Fetcher: github
+Source:  https://github.com/ataka/fcopy.git
+
+Updating /mnt/store/melpa/working/fcopy/
+No valid stable versions found for fcopy

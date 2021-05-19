@@ -1,0 +1,6 @@
+Package: pager-default-keybindings
+Fetcher: github
+Source:  https://github.com/nflath/pager-default-keybindings.git
+
+Updating /mnt/store/melpa/working/pager-default-keybindings/
+No valid stable versions found for pager-default-keybindings

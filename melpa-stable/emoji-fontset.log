@@ -1,0 +1,11 @@
+Package: emoji-fontset
+Fetcher: github
+Source:  https://github.com/zonuexe/emoji-fontset.el.git
+
+Updating /mnt/store/melpa/working/emoji-fontset/
+Built emoji-fontset in 2.739s, finished at Wed May 19 04:30:56 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 4.0K May 19 04:30 packages-stable/emoji-fontset-0.1.1.el
+4.0K -rw-r--r-- 1 root root  277 May 19 04:30 packages-stable/emoji-fontset-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emoji-fontset-badge.svg
+4.0K -rw-r--r-- 1 root root  230 May 19 04:30 packages-stable/emoji-fontset-readme.txt

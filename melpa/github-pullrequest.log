@@ -1,0 +1,11 @@
+Package: github-pullrequest
+Fetcher: github
+Source:  https://github.com/jakoblind/github-pullrequest.git
+
+Updating /mnt/store/melpa/working/github-pullrequest/
+Built github-pullrequest in 3.865s, finished at Wed May 19 03:26:10 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.6K May 19 03:26 packages/github-pullrequest-20170116.616.el
+4.0K -rw-r--r-- 1 root root  542 May 19 03:26 packages/github-pullrequest-20170116.616.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:26 packages/github-pullrequest-badge.svg
+4.0K -rw-r--r-- 1 root root  126 May 19 03:26 packages/github-pullrequest-readme.txt

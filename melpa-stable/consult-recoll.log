@@ -1,0 +1,6 @@
+Package: consult-recoll
+Fetcher: git
+Source:  https://codeberg.org/jao/consult-recoll.git
+
+Updating /mnt/store/melpa/working/consult-recoll/
+No valid stable versions found for consult-recoll

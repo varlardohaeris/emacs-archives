@@ -1,0 +1,2 @@
+
+(help+ . [(20210315 548) nil "Extensions to `help.el'." single ((:commit . "405d525cffd25fd3f3c7976b4fdb0d0a3bccb64c") (:keywords "help") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/help%2b.el"))])

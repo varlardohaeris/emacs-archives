@@ -1,0 +1,6 @@
+Package: pepita
+Fetcher: github
+Source:  https://github.com/sebasmonia/pepita.git
+
+Updating /mnt/store/melpa/working/pepita/
+No valid stable versions found for pepita

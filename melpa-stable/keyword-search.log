@@ -1,0 +1,6 @@
+Package: keyword-search
+Fetcher: github
+Source:  https://github.com/keyword-search/keyword-search.git
+
+Updating /mnt/store/melpa/working/keyword-search/
+No valid stable versions found for keyword-search

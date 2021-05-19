@@ -1,0 +1,13 @@
+(autocrypt .
+	   [(20210412 1127)
+	    ((emacs
+	      (25 1))
+	     (cl-generic
+	      (0 3)))
+	    "Autocrypt implementation" tar
+	    ((:commit . "5b55f8d37545e9c441788627c17e350d7edf4055")
+	     (:authors
+	      ("Philip K." . "philip@warpmail.net"))
+	     (:maintainer "Philip K." . "philip@warpmail.net")
+	     (:keywords "comm")
+	     (:url . "https://git.sr.ht/~zge/autocrypt"))])

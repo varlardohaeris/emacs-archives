@@ -1,2 +1,11 @@
-
-(org-bookmark-heading . [(1 0 0) ((emacs (24 4))) "Emacs bookmark support for org-mode" single ((:commit . "70b014e09977371a8c9bad03085c116693062b19") (:keywords "hypermedia" "outlines") (:authors ("Adam Porter" . "adam@alphapapa.net")) (:maintainer "Adam Porter" . "adam@alphapapa.net") (:url . "http://github.com/alphapapa/org-bookmark-heading"))])
+(org-bookmark-heading .
+		      [(1 0 0)
+		       ((emacs
+			 (24 4)))
+		       "Emacs bookmark support for org-mode" single
+		       ((:commit . "70b014e09977371a8c9bad03085c116693062b19")
+			(:authors
+			 ("Adam Porter" . "adam@alphapapa.net"))
+			(:maintainer "Adam Porter" . "adam@alphapapa.net")
+			(:keywords "hypermedia" "outlines")
+			(:url . "http://github.com/alphapapa/org-bookmark-heading"))])

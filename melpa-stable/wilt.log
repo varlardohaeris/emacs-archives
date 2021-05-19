@@ -1,0 +1,6 @@
+Package: wilt
+Fetcher: github
+Source:  https://github.com/sixty-north/emacs-wilt.git
+
+Updating /mnt/store/melpa/working/wilt/
+No valid stable versions found for wilt

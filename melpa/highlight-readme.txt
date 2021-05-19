@@ -1,3 +1,4 @@
+
    Highlighting commands.
 
    More description below.
@@ -730,3 +731,5 @@
  brennan@hal.com, in 1992.  I haven't been able to locate that
  file, so my change log is the only record I have of what our
  relative contributions are.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

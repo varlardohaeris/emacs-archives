@@ -1,0 +1,6 @@
+Package: forge
+Fetcher: github
+Source:  https://github.com/magit/forge.git
+
+Updating /mnt/store/melpa/working/forge/
+No valid stable versions found for forge

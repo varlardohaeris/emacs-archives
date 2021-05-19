@@ -1,2 +1,11 @@
-
-(auto-minor-mode . [(20180527 1) ((emacs (24 4))) "Enable minor modes by file name and contents" single ((:commit . "c62f4e04c7b73835c399f0348bea0ade2720bcbb") (:keywords "convenience") (:authors ("Joe Wreschnig" . "joe.wreschnig@gmail.com")) (:maintainer "Joe Wreschnig" . "joe.wreschnig@gmail.com") (:url . "https://github.com/joewreschnig/auto-minor-mode"))])
+(auto-minor-mode .
+		 [(20180527 1)
+		  ((emacs
+		    (24 4)))
+		  "Enable minor modes by file name and contents" single
+		  ((:commit . "c62f4e04c7b73835c399f0348bea0ade2720bcbb")
+		   (:authors
+		    ("Joe Wreschnig" . "joe.wreschnig@gmail.com"))
+		   (:maintainer "Joe Wreschnig" . "joe.wreschnig@gmail.com")
+		   (:keywords "convenience")
+		   (:url . "https://github.com/joewreschnig/auto-minor-mode"))])

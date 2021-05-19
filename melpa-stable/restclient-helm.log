@@ -1,0 +1,6 @@
+Package: restclient-helm
+Fetcher: github
+Source:  https://github.com/pashky/restclient.el.git
+
+Updating /mnt/store/melpa/working/restclient-helm/
+No valid stable versions found for restclient-helm

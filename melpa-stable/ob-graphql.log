@@ -1,0 +1,6 @@
+Package: ob-graphql
+Fetcher: github
+Source:  https://github.com/jdormit/ob-graphql.git
+
+Updating /mnt/store/melpa/working/ob-graphql/
+No valid stable versions found for ob-graphql

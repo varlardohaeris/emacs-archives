@@ -1,0 +1,11 @@
+Package: transmission
+Fetcher: github
+Source:  https://github.com/holomorph/transmission.git
+
+Updating /mnt/store/melpa/working/transmission/
+Built transmission in 4.674s, finished at Wed May 19 04:11:12 2021
+ ✓ Success:
+104K -rw-r--r-- 1 root root 103K May 19 04:11 packages/transmission-20210218.2015.el
+4.0K -rw-r--r-- 1 root root  351 May 19 04:11 packages/transmission-20210218.2015.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/transmission-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:11 packages/transmission-readme.txt

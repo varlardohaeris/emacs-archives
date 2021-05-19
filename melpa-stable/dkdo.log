@@ -1,0 +1,6 @@
+Package: dkdo
+Fetcher: github
+Source:  https://github.com/davidkeegan/dkdo.git
+
+Updating /mnt/store/melpa/working/dkdo/
+No valid stable versions found for dkdo

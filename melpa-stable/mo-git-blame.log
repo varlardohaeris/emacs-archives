@@ -1,0 +1,6 @@
+Package: mo-git-blame
+Fetcher: gitlab
+Source:  https://gitlab.com/mbunkus/mo-git-blame.git
+
+Updating /mnt/store/melpa/working/mo-git-blame/
+No valid stable versions found for mo-git-blame

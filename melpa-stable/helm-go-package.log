@@ -1,0 +1,11 @@
+Package: helm-go-package
+Fetcher: github
+Source:  https://github.com/yasuyk/helm-go-package.git
+
+Updating /mnt/store/melpa/working/helm-go-package/
+Built helm-go-package in 2.714s, finished at Wed May 19 04:40:26 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.2K May 19 04:40 packages-stable/helm-go-package-0.3.0.el
+4.0K -rw-r--r-- 1 root root  449 May 19 04:40 packages-stable/helm-go-package-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-go-package-badge.svg
+4.0K -rw-r--r-- 1 root root  244 May 19 04:40 packages-stable/helm-go-package-readme.txt

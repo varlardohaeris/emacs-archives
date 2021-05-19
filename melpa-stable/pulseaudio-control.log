@@ -1,0 +1,6 @@
+Package: pulseaudio-control
+Fetcher: github
+Source:  https://github.com/flexibeast/pulseaudio-control.git
+
+Updating /mnt/store/melpa/working/pulseaudio-control/
+No valid stable versions found for pulseaudio-control

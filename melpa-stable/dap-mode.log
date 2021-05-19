@@ -1,0 +1,93 @@
+Package: dap-mode
+Fetcher: github
+Source:  https://github.com/emacs-lsp/dap-mode.git
+
+Updating /mnt/store/melpa/working/dap-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dap-mode/
+  to /tmp/dap-modeaEnBIz/dap-mode-0.6
+    dap-chrome.el -> dap-chrome.el
+    dap-edge.el -> dap-edge.el
+    dap-elixir.el -> dap-elixir.el
+    dap-firefox.el -> dap-firefox.el
+    dap-gdb-lldb.el -> dap-gdb-lldb.el
+    dap-go.el -> dap-go.el
+    dap-hydra.el -> dap-hydra.el
+    dap-lldb.el -> dap-lldb.el
+    dap-mode.el -> dap-mode.el
+    dap-mouse.el -> dap-mouse.el
+    dap-node.el -> dap-node.el
+    dap-overlays.el -> dap-overlays.el
+    dap-php.el -> dap-php.el
+    dap-pwsh.el -> dap-pwsh.el
+    dap-python.el -> dap-python.el
+    dap-ruby.el -> dap-ruby.el
+    dap-ui-repl.el -> dap-ui-repl.el
+    dap-ui.el -> dap-ui.el
+    dap-utils.el -> dap-utils.el
+    dapui.el -> dapui.el
+    icons => icons
+Created dap-mode-0.6.tar containing:
+  dap-mode-0.6/
+  dap-mode-0.6/dap-chrome.el
+  dap-mode-0.6/dap-edge.el
+  dap-mode-0.6/dap-elixir.el
+  dap-mode-0.6/dap-firefox.el
+  dap-mode-0.6/dap-gdb-lldb.el
+  dap-mode-0.6/dap-go.el
+  dap-mode-0.6/dap-hydra.el
+  dap-mode-0.6/dap-lldb.el
+  dap-mode-0.6/dap-mode-pkg.el
+  dap-mode-0.6/dap-mode.el
+  dap-mode-0.6/dap-mouse.el
+  dap-mode-0.6/dap-node.el
+  dap-mode-0.6/dap-overlays.el
+  dap-mode-0.6/dap-php.el
+  dap-mode-0.6/dap-pwsh.el
+  dap-mode-0.6/dap-python.el
+  dap-mode-0.6/dap-ruby.el
+  dap-mode-0.6/dap-ui-repl.el
+  dap-mode-0.6/dap-ui.el
+  dap-mode-0.6/dap-utils.el
+  dap-mode-0.6/dapui.el
+  dap-mode-0.6/icons/
+  dap-mode-0.6/icons/eclipse/
+  dap-mode-0.6/icons/eclipse/collapsed.png
+  dap-mode-0.6/icons/eclipse/expanded.png
+  dap-mode-0.6/icons/eclipse/inspect.png
+  dap-mode-0.6/icons/eclipse/project-running.png
+  dap-mode-0.6/icons/eclipse/project-stopped.png
+  dap-mode-0.6/icons/eclipse/scope.png
+  dap-mode-0.6/icons/eclipse/stack-frame-running.png
+  dap-mode-0.6/icons/eclipse/stack-frame-stopped.png
+  dap-mode-0.6/icons/eclipse/thread-running.png
+  dap-mode-0.6/icons/eclipse/thread-stopped.png
+  dap-mode-0.6/icons/eclipse/variable.png
+  dap-mode-0.6/icons/vscode/
+  dap-mode-0.6/icons/vscode/close-all.png
+  dap-mode-0.6/icons/vscode/continue-disabled.png
+  dap-mode-0.6/icons/vscode/continue.png
+  dap-mode-0.6/icons/vscode/disconnect-disabled.png
+  dap-mode-0.6/icons/vscode/disconnect.png
+  dap-mode-0.6/icons/vscode/pause-disabled.png
+  dap-mode-0.6/icons/vscode/pause.png
+  dap-mode-0.6/icons/vscode/restart-disabled.png
+  dap-mode-0.6/icons/vscode/restart.png
+  dap-mode-0.6/icons/vscode/reverse-continue.png
+  dap-mode-0.6/icons/vscode/start.png
+  dap-mode-0.6/icons/vscode/step-back.png
+  dap-mode-0.6/icons/vscode/step-into-disabled.png
+  dap-mode-0.6/icons/vscode/step-into.png
+  dap-mode-0.6/icons/vscode/step-out-disabled.png
+  dap-mode-0.6/icons/vscode/step-out.png
+  dap-mode-0.6/icons/vscode/step-over-disabled.png
+  dap-mode-0.6/icons/vscode/step-over.png
+  dap-mode-0.6/icons/vscode/stop-disabled.png
+  dap-mode-0.6/icons/vscode/stop.png
+  dap-mode-0.6/icons/vscode/toggle-breakpoints.png
+Built dap-mode in 3.087s, finished at Wed May 19 04:26:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  589 May 19 04:26 packages-stable/dap-mode-0.6.entry
+272K -rw-r--r-- 1 root root 270K May 19 04:26 packages-stable/dap-mode-0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/dap-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   41 May 19 04:26 packages-stable/dap-mode-readme.txt

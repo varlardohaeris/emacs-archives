@@ -1,0 +1,6 @@
+Package: osx-lib
+Fetcher: github
+Source:  https://github.com/raghavgautam/osx-lib.git
+
+Updating /mnt/store/melpa/working/osx-lib/
+No valid stable versions found for osx-lib

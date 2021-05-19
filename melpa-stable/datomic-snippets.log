@@ -1,0 +1,6 @@
+Package: datomic-snippets
+Fetcher: github
+Source:  https://github.com/magnars/datomic-snippets.git
+
+Updating /mnt/store/melpa/working/datomic-snippets/
+No valid stable versions found for datomic-snippets

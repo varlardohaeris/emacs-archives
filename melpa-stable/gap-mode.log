@@ -1,0 +1,6 @@
+Package: gap-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/gvol/gap-mode.git
+
+Updating /mnt/store/melpa/working/gap-mode/
+No valid stable versions found for gap-mode

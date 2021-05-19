@@ -1,3 +1,4 @@
+
 This extension facilitates moving images from point A to point B.
 
 Point A (the source) can be:

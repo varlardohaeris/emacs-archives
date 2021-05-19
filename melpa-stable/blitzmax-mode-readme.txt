@@ -3,4 +3,4 @@ highlighting, keyword capitalization, and automatic indentation.
 
 If quickrun is installed and enabled, this mode adds BlitzMax for quickrun.
 
-Configuration:
+; Configuration:

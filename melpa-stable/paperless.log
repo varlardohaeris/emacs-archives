@@ -1,0 +1,6 @@
+Package: paperless
+Fetcher: github
+Source:  https://github.com/atgreen/paperless.git
+
+Updating /mnt/store/melpa/working/paperless/
+No valid stable versions found for paperless

@@ -1,0 +1,6 @@
+Package: mingus
+Fetcher: github
+Source:  https://github.com/pft/mingus.git
+
+Updating /mnt/store/melpa/working/mingus/
+No valid stable versions found for mingus

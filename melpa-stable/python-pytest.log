@@ -1,0 +1,11 @@
+Package: python-pytest
+Fetcher: github
+Source:  https://github.com/wbolster/emacs-python-pytest.git
+
+Updating /mnt/store/melpa/working/python-pytest/
+Built python-pytest in 4.740s, finished at Wed May 19 01:45:03 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 01:45 packages-stable/python-pytest-3.0.0.el
+4.0K -rw-r--r-- 1 root root  544 May 19 01:45 packages-stable/python-pytest-3.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/python-pytest-badge.svg
+4.0K -rw-r--r-- 1 root root   69 May 19 01:45 packages-stable/python-pytest-readme.txt

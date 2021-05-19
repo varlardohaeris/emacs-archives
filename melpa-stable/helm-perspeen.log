@@ -1,0 +1,11 @@
+Package: helm-perspeen
+Fetcher: github
+Source:  https://github.com/jimo1001/helm-perspeen.git
+
+Updating /mnt/store/melpa/working/helm-perspeen/
+Built helm-perspeen in 3.070s, finished at Wed May 19 04:40:54 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K May 19 04:40 packages-stable/helm-perspeen-0.1.2.el
+4.0K -rw-r--r-- 1 root root  352 May 19 04:40 packages-stable/helm-perspeen-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-perspeen-badge.svg
+4.0K -rw-r--r-- 1 root root  499 May 19 04:40 packages-stable/helm-perspeen-readme.txt

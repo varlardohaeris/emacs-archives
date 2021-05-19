@@ -1,0 +1,11 @@
+Package: git-timemachine
+Fetcher: gitlab
+Source:  https://gitlab.com/pidu/git-timemachine.git
+
+Updating /mnt/store/melpa/working/git-timemachine/
+Built git-timemachine in 3.551s, finished at Wed May 19 04:37:21 2021
+ ✓ Success:
+ 20K -rwxr-xr-x 1 root root  18K May 19 04:37 packages-stable/git-timemachine-4.11.el
+4.0K -rw-r--r-- 1 root root  414 May 19 04:37 packages-stable/git-timemachine-4.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-timemachine-badge.svg
+4.0K -rw-r--r-- 1 root root   94 May 19 04:37 packages-stable/git-timemachine-readme.txt

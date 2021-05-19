@@ -1,0 +1,6 @@
+Package: remind-bindings
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/remind-bindings.el.git
+
+Updating /mnt/store/melpa/working/remind-bindings/
+No valid stable versions found for remind-bindings

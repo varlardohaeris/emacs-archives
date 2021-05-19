@@ -21,7 +21,7 @@ This package provides the following features:
  * interactive function glsl-find-man-page prompts for glsl built
    in function, formats opengl.org url and passes to browse-url
 
-Installation:
+; Installation:
 
 This file requires Emacs-20.3 or higher and package cc-mode.
 

@@ -1,3 +1,4 @@
+
 * About auto-indent-mode
 Provides auto-indentation minor mode for Emacs.  This allows the
 following:
@@ -332,3 +333,5 @@ can be turned off customizing the `auto-indent-newline-function' to
 
 This will insert a newline and then indent.  Not reindent according
 to the major mode's conventions.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

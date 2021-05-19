@@ -1,0 +1,6 @@
+Package: motion-mode
+Fetcher: github
+Source:  https://github.com/ainame/motion-mode.git
+
+Updating /mnt/store/melpa/working/motion-mode/
+No valid stable versions found for motion-mode

@@ -1,0 +1,6 @@
+Package: scratch-log
+Fetcher: github
+Source:  https://github.com/mori-dev/scratch-log.git
+
+Updating /mnt/store/melpa/working/scratch-log/
+No valid stable versions found for scratch-log

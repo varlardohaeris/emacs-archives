@@ -1,0 +1,6 @@
+Package: vtm
+Fetcher: github
+Source:  https://github.com/laishulu/emacs-vterm-manager.git
+
+Updating /mnt/store/melpa/working/vtm/
+No valid stable versions found for vtm

@@ -1,0 +1,6 @@
+Package: danneskjold-theme
+Fetcher: github
+Source:  https://github.com/rails-to-cosmos/danneskjold-theme.git
+
+Updating /mnt/store/melpa/working/danneskjold-theme/
+No valid stable versions found for danneskjold-theme

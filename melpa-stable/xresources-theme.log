@@ -1,0 +1,11 @@
+Package: xresources-theme
+Fetcher: github
+Source:  https://github.com/cqql/xresources-theme.git
+
+Updating /mnt/store/melpa/working/xresources-theme/
+Built xresources-theme in 3.255s, finished at Wed May 19 01:56:06 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  24K May 19 01:56 packages-stable/xresources-theme-1.0.0.el
+4.0K -rw-r--r-- 1 root root  329 May 19 01:56 packages-stable/xresources-theme-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/xresources-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   63 May 19 01:56 packages-stable/xresources-theme-readme.txt

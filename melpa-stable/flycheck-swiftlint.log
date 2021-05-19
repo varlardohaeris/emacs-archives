@@ -1,0 +1,6 @@
+Package: flycheck-swiftlint
+Fetcher: github
+Source:  https://github.com/jojojames/flycheck-swiftlint.git
+
+Updating /mnt/store/melpa/working/flycheck-swiftlint/
+No valid stable versions found for flycheck-swiftlint

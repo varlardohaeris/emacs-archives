@@ -1,0 +1,6 @@
+Package: mandoku
+Fetcher: github
+Source:  https://github.com/mandoku/mandoku.git
+
+Updating /mnt/store/melpa/working/mandoku/
+No valid stable versions found for mandoku

@@ -1,0 +1,4 @@
+(agda2-mode .
+	    [(2 6 1 3)
+	     nil "interactive development for Agda, a dependently typed functional programming language" tar
+	     ((:commit . "e5486b79cc78689e3fd07b6c924d0085063915ea"))])

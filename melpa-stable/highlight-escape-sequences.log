@@ -1,0 +1,6 @@
+Package: highlight-escape-sequences
+Fetcher: github
+Source:  https://github.com/dgutov/highlight-escape-sequences.git
+
+Updating /mnt/store/melpa/working/highlight-escape-sequences/
+No valid stable versions found for highlight-escape-sequences

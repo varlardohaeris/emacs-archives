@@ -1,0 +1,21 @@
+Package: git-gutter
+Fetcher: github
+Source:  https://github.com/emacsorphanage/git-gutter.git
+
+Updating /mnt/store/melpa/working/git-gutter/
+Built git-gutter in 2.880s, finished at Wed May 19 04:37:14 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  43K May 19 04:37 packages-stable/git-gutter-0.91.el
+4.0K -rw-r--r-- 1 root root  374 May 19 04:37 packages-stable/git-gutter-0.91.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-gutter-badge.svg
+8.0K -rw-r--r-- 1 root root 4.9K May 19 01:22 packages-stable/git-gutter-fringe+-0.1.el
+4.0K -rw-r--r-- 1 root root  438 May 19 01:22 packages-stable/git-gutter-fringe+-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:22 packages-stable/git-gutter-fringe+-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:22 packages-stable/git-gutter-fringe+-readme.txt
+4.0K -rw-r--r-- 1 root root  166 May 19 04:37 packages-stable/git-gutter-fringe+.log
+8.0K -rw-r--r-- 1 root root 5.0K May 19 04:37 packages-stable/git-gutter-fringe-0.23.el
+4.0K -rw-r--r-- 1 root root  472 May 19 04:37 packages-stable/git-gutter-fringe-0.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-gutter-fringe-badge.svg
+4.0K -rw-r--r-- 1 root root  331 May 19 04:37 packages-stable/git-gutter-fringe-readme.txt
+4.0K -rw-r--r-- 1 root root  608 May 19 04:37 packages-stable/git-gutter-fringe.log
+4.0K -rw-r--r-- 1 root root   53 May 19 04:37 packages-stable/git-gutter-readme.txt

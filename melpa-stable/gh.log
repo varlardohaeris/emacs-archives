@@ -1,0 +1,55 @@
+Package: gh
+Fetcher: github
+Source:  https://github.com/sigma/gh.el.git
+
+Updating /mnt/store/melpa/working/gh/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gh/
+  to /tmp/gh63BOp5/gh-1.0.1
+    gh-api.el -> gh-api.el
+    gh-auth.el -> gh-auth.el
+    gh-cache.el -> gh-cache.el
+    gh-comments.el -> gh-comments.el
+    gh-common.el -> gh-common.el
+    gh-gist.el -> gh-gist.el
+    gh-issue-comments.el -> gh-issue-comments.el
+    gh-issues.el -> gh-issues.el
+    gh-oauth.el -> gh-oauth.el
+    gh-orgs.el -> gh-orgs.el
+    gh-pkg.el -> gh-pkg.el
+    gh-profile.el -> gh-profile.el
+    gh-pull-comments.el -> gh-pull-comments.el
+    gh-pulls.el -> gh-pulls.el
+    gh-repos.el -> gh-repos.el
+    gh-search.el -> gh-search.el
+    gh-url.el -> gh-url.el
+    gh-users.el -> gh-users.el
+    gh.el -> gh.el
+Created gh-1.0.1.tar containing:
+  gh-1.0.1/
+  gh-1.0.1/gh-api.el
+  gh-1.0.1/gh-auth.el
+  gh-1.0.1/gh-cache.el
+  gh-1.0.1/gh-comments.el
+  gh-1.0.1/gh-common.el
+  gh-1.0.1/gh-gist.el
+  gh-1.0.1/gh-issue-comments.el
+  gh-1.0.1/gh-issues.el
+  gh-1.0.1/gh-oauth.el
+  gh-1.0.1/gh-orgs.el
+  gh-1.0.1/gh-pkg.el
+  gh-1.0.1/gh-profile.el
+  gh-1.0.1/gh-pull-comments.el
+  gh-1.0.1/gh-pulls.el
+  gh-1.0.1/gh-repos.el
+  gh-1.0.1/gh-search.el
+  gh-1.0.1/gh-url.el
+  gh-1.0.1/gh-users.el
+  gh-1.0.1/gh.el
+Built gh in 3.144s, finished at Wed May 19 04:36:58 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  361 May 19 04:36 packages-stable/gh-1.0.1.entry
+112K -rw-r--r-- 1 root root 110K May 19 04:36 packages-stable/gh-1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/gh-badge.svg
+4.0K -rw-r--r-- 1 root root  167 May 19 04:36 packages-stable/gh-md.log
+   0 -rw-r--r-- 1 root root    0 May 19 04:36 packages-stable/gh-readme.txt

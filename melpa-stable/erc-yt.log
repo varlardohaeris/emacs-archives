@@ -1,0 +1,6 @@
+Package: erc-yt
+Fetcher: github
+Source:  https://github.com/yhvh/erc-yt.git
+
+Updating /mnt/store/melpa/working/erc-yt/
+No valid stable versions found for erc-yt

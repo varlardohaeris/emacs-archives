@@ -1,0 +1,11 @@
+Package: colorless-themes
+Fetcher: git
+Source:  https://git.sr.ht/~lthms/colorless-themes.el
+
+Updating /mnt/store/melpa/working/colorless-themes/
+Built colorless-themes in 4.426s, finished at Wed May 19 04:24:03 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:24 packages-stable/colorless-themes-0.2.el
+4.0K -rw-r--r-- 1 root root  415 May 19 04:24 packages-stable/colorless-themes-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/colorless-themes-badge.svg
+4.0K -rw-r--r-- 1 root root  385 May 19 04:24 packages-stable/colorless-themes-readme.txt

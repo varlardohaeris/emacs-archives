@@ -6,6 +6,7 @@
 ;;         Anders Bakken <agbakken@gmail.com>
 ;; URL: http://rtags.net
 ;; Package-Version: 3.23
+;; Package-Commit: 7169ed577d676690a3c6f0025b54e8477d80eacf
 ;; Version: 0.2
 ;; Package-Requires: ((helm "2.0") (rtags "2.10"))
 

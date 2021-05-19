@@ -1,0 +1,21 @@
+Package: edwina
+Fetcher: github
+Source:  https://github.com/ajgrf/edwina.git
+
+Updating /mnt/store/melpa/working/edwina/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/edwina/
+  to /tmp/edwinazZbizI/edwina-0.2.0
+    edwin.el -> edwin.el
+    edwina.el -> edwina.el
+Created edwina-0.2.0.tar containing:
+  edwina-0.2.0/
+  edwina-0.2.0/edwin.el
+  edwina-0.2.0/edwina-pkg.el
+  edwina-0.2.0/edwina.el
+Built edwina in 2.898s, finished at Wed May 19 04:29:32 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  307 May 19 04:29 packages-stable/edwina-0.2.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:29 packages-stable/edwina-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/edwina-badge.svg
+4.0K -rw-r--r-- 1 root root  162 May 19 04:29 packages-stable/edwina-readme.txt

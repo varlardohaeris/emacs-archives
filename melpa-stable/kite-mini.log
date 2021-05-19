@@ -1,0 +1,6 @@
+Package: kite-mini
+Fetcher: github
+Source:  https://github.com/tungd/kite-mini.el.git
+
+Updating /mnt/store/melpa/working/kite-mini/
+No valid stable versions found for kite-mini

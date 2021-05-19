@@ -1,1 +1,1 @@
-Major mode for literate calculations.
+Major/minor mode for literate calculations.

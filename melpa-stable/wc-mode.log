@@ -1,0 +1,11 @@
+Package: wc-mode
+Fetcher: github
+Source:  https://github.com/bnbeckwith/wc-mode.git
+
+Updating /mnt/store/melpa/working/wc-mode/
+Built wc-mode in 3.095s, finished at Wed May 19 01:54:40 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 01:54 packages-stable/wc-mode-1.4.1.el
+4.0K -rw-r--r-- 1 root root  297 May 19 01:54 packages-stable/wc-mode-1.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/wc-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  361 May 19 01:54 packages-stable/wc-mode-readme.txt

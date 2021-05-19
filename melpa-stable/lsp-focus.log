@@ -1,0 +1,11 @@
+Package: lsp-focus
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-focus.git
+
+Updating /mnt/store/melpa/working/lsp-focus/
+Built lsp-focus in 3.033s, finished at Wed May 19 01:32:59 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.1K May 19 01:32 packages-stable/lsp-focus-1.0.1.el
+4.0K -rw-r--r-- 1 root root  365 May 19 01:32 packages-stable/lsp-focus-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lsp-focus-badge.svg
+4.0K -rw-r--r-- 1 root root  206 May 19 01:32 packages-stable/lsp-focus-readme.txt

@@ -1,0 +1,22 @@
+Package: package+
+Fetcher: github
+Source:  https://github.com/zenspider/package.git
+
+Updating /mnt/store/melpa/working/package+/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/package+/
+  to /tmp/package+SsKpIX/package+-1.4.0
+    package+.el -> package+.el
+    package+advice.el -> package+advice.el
+Created package+-1.4.0.tar containing:
+  package+-1.4.0/
+  package+-1.4.0/package+-pkg.el
+  package+-1.4.0/package+.el
+  package+-1.4.0/package+advice.el
+Built package+ in 2.748s, finished at Wed May 19 01:41:42 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Jan 24 22:40 packages-stable/package+-1.4.0.el
+4.0K -rw-r--r-- 1 root root  378 May 19 01:41 packages-stable/package+-1.4.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 01:41 packages-stable/package+-1.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/package+-badge.svg
+4.0K -rw-r--r-- 1 root root  898 May 19 01:41 packages-stable/package+-readme.txt

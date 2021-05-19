@@ -1,0 +1,6 @@
+Package: lockfile-mode
+Fetcher: github
+Source:  https://github.com/preetpalS/emacs-lockfile-mode.git
+
+Updating /mnt/store/melpa/working/lockfile-mode/
+No valid stable versions found for lockfile-mode

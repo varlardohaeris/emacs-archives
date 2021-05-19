@@ -1,0 +1,11 @@
+Package: lisp-local
+Fetcher: github
+Source:  https://github.com/lispunion/emacs-lisp-local.git
+
+Updating /mnt/store/melpa/working/lisp-local/
+Built lisp-local in 3.089s, finished at Wed May 19 01:32:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K May 19 01:32 packages-stable/lisp-local-0.1.el
+4.0K -rw-r--r-- 1 root root  436 May 19 01:32 packages-stable/lisp-local-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lisp-local-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:32 packages-stable/lisp-local-readme.txt

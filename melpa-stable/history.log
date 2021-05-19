@@ -1,0 +1,36 @@
+Package: history
+Fetcher: github
+Source:  https://github.com/tcw165/history.git
+
+Updating /mnt/store/melpa/working/history/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/history/
+  to /tmp/historyyHHSXZ/history-1.0.0
+    history.el -> history.el
+    images/add-history.xpm -> images/add-history.xpm
+    images/goto-history.xpm -> images/goto-history.xpm
+    images/next-history.xpm -> images/next-history.xpm
+    images/prev-history.xpm -> images/prev-history.xpm
+    images/add-history.png -> images/add-history.png
+    images/goto-history.png -> images/goto-history.png
+    images/next-history.png -> images/next-history.png
+    images/prev-history.png -> images/prev-history.png
+Created history-1.0.0.tar containing:
+  history-1.0.0/
+  history-1.0.0/history-pkg.el
+  history-1.0.0/history.el
+  history-1.0.0/images/
+  history-1.0.0/images/add-history.png
+  history-1.0.0/images/add-history.xpm
+  history-1.0.0/images/goto-history.png
+  history-1.0.0/images/goto-history.xpm
+  history-1.0.0/images/next-history.png
+  history-1.0.0/images/next-history.xpm
+  history-1.0.0/images/prev-history.png
+  history-1.0.0/images/prev-history.xpm
+Built history in 3.057s, finished at Wed May 19 04:41:52 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  271 May 19 04:41 packages-stable/history-1.0.0.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 04:41 packages-stable/history-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/history-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 04:41 packages-stable/history-readme.txt

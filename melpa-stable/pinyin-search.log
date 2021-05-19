@@ -1,0 +1,11 @@
+Package: pinyin-search
+Fetcher: github
+Source:  https://github.com/xuchunyang/pinyin-search.el.git
+
+Updating /mnt/store/melpa/working/pinyin-search/
+Built pinyin-search in 5.350s, finished at Wed May 19 01:43:07 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  28K May 19 01:43 packages-stable/pinyin-search-1.1.0.el
+4.0K -rw-r--r-- 1 root root  349 May 19 01:43 packages-stable/pinyin-search-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/pinyin-search-badge.svg
+4.0K -rw-r--r-- 1 root root  417 May 19 01:43 packages-stable/pinyin-search-readme.txt

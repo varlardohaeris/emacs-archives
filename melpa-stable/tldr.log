@@ -1,0 +1,6 @@
+Package: tldr
+Fetcher: github
+Source:  https://github.com/kuanyui/tldr.el.git
+
+Updating /mnt/store/melpa/working/tldr/
+No valid stable versions found for tldr

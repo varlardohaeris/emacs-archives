@@ -1,0 +1,37 @@
+Package: emr
+Fetcher: github
+Source:  https://github.com/Wilfred/emacs-refactor.git
+
+Updating /mnt/store/melpa/working/emr/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emr/
+  to /tmp/emrbAB2aW/emr-0.4
+    emr-c.el -> emr-c.el
+    emr-css.el -> emr-css.el
+    emr-elisp.el -> emr-elisp.el
+    emr-iedit.el -> emr-iedit.el
+    emr-js.el -> emr-js.el
+    emr-lisp.el -> emr-lisp.el
+    emr-prog.el -> emr-prog.el
+    emr-ruby.el -> emr-ruby.el
+    emr-scheme.el -> emr-scheme.el
+    emr.el -> emr.el
+Created emr-0.4.tar containing:
+  emr-0.4/
+  emr-0.4/emr-c.el
+  emr-0.4/emr-css.el
+  emr-0.4/emr-elisp.el
+  emr-0.4/emr-iedit.el
+  emr-0.4/emr-js.el
+  emr-0.4/emr-lisp.el
+  emr-0.4/emr-pkg.el
+  emr-0.4/emr-prog.el
+  emr-0.4/emr-ruby.el
+  emr-0.4/emr-scheme.el
+  emr-0.4/emr.el
+Built emr in 3.094s, finished at Wed May 19 04:31:01 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  554 May 19 04:31 packages-stable/emr-0.4.entry
+112K -rw-r--r-- 1 root root 110K May 19 04:31 packages-stable/emr-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/emr-badge.svg
+4.0K -rw-r--r-- 1 root root  338 May 19 04:31 packages-stable/emr-readme.txt

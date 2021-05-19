@@ -1,0 +1,6 @@
+Package: dsvn
+Fetcher: github
+Source:  https://github.com/emacsmirror/dsvn.git
+
+Updating /mnt/store/melpa/working/dsvn/
+No valid stable versions found for dsvn

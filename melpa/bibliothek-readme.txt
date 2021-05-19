@@ -31,7 +31,7 @@ the keybindings, besides additional info.
 
 
 
-Installation:
+;; Installation:
 
 Bibliothek.el depends on ‘pdf-tools’.
 

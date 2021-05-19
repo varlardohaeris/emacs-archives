@@ -1,0 +1,6 @@
+Package: liquid-types
+Fetcher: github
+Source:  https://github.com/ucsd-progsys/liquid-types.el.git
+
+Updating /mnt/store/melpa/working/liquid-types/
+No valid stable versions found for liquid-types

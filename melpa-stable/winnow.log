@@ -1,0 +1,6 @@
+Package: winnow
+Fetcher: github
+Source:  https://github.com/dgtized/winnow.el.git
+
+Updating /mnt/store/melpa/working/winnow/
+No valid stable versions found for winnow

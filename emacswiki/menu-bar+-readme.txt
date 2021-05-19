@@ -72,8 +72,9 @@
    `menu-bar-edit-sort-menu', `menu-bar-emacs-lisp-manual-menu',
    `menu-bar-emacs-manual-menu', `menu-bar-frames-menu',
    `menu-bar-i-search-menu' (Emacs < 22),
-   `menu-bar-search-replace-menu', `menu-bar-search-tags-menu',
-   `menu-bar-whereami-menu', `yank-menu'.
+   `menu-bar-non-i-search-menu', `menu-bar-search-replace-menu',
+   `menu-bar-search-tags-menu', `menu-bar-whereami-menu',
+   `yank-menu'.
 
 
  ***** NOTE: The following functions defined in `menu-bar.el' have

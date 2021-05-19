@@ -1,0 +1,6 @@
+Package: flymake-shellcheck
+Fetcher: github
+Source:  https://github.com/federicotdn/flymake-shellcheck.git
+
+Updating /mnt/store/melpa/working/flymake-shellcheck/
+No valid stable versions found for flymake-shellcheck

@@ -1,0 +1,29 @@
+Package: aproject
+Fetcher: github
+Source:  https://github.com/vietor/aproject.git
+
+Updating /mnt/store/melpa/working/aproject/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/aproject/
+  to /tmp/aprojectsFqfxa/aproject-0.4
+    aproject-bookmark.el -> aproject-bookmark.el
+    aproject-desktop.el -> aproject-desktop.el
+    aproject-environ.el -> aproject-environ.el
+    aproject-ido.el -> aproject-ido.el
+    aproject-recentf.el -> aproject-recentf.el
+    aproject.el -> aproject.el
+Created aproject-0.4.tar containing:
+  aproject-0.4/
+  aproject-0.4/aproject-bookmark.el
+  aproject-0.4/aproject-desktop.el
+  aproject-0.4/aproject-environ.el
+  aproject-0.4/aproject-ido.el
+  aproject-0.4/aproject-pkg.el
+  aproject-0.4/aproject-recentf.el
+  aproject-0.4/aproject.el
+Built aproject in 2.894s, finished at Wed May 19 04:19:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  344 May 19 04:19 packages-stable/aproject-0.4.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 04:19 packages-stable/aproject-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/aproject-badge.svg
+4.0K -rw-r--r-- 1 root root  161 May 19 04:19 packages-stable/aproject-readme.txt

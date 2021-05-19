@@ -1,0 +1,6 @@
+Package: gitolite-clone
+Fetcher: github
+Source:  https://github.com/IvanMalison/gitolite-clone.git
+
+Updating /mnt/store/melpa/working/gitolite-clone/
+No valid stable versions found for gitolite-clone

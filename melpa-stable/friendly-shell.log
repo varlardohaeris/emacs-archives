@@ -1,0 +1,16 @@
+Package: friendly-shell
+Fetcher: github
+Source:  https://github.com/p3r7/friendly-shell.git
+
+Updating /mnt/store/melpa/working/friendly-shell/
+Built friendly-shell in 3.129s, finished at Wed May 19 04:36:20 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K May 19 04:36 packages-stable/friendly-shell-0.2.4.el
+4.0K -rw-r--r-- 1 root root  312 May 19 04:36 packages-stable/friendly-shell-0.2.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/friendly-shell-badge.svg
+8.0K -rw-r--r-- 1 root root 6.8K May 19 04:36 packages-stable/friendly-shell-command-0.2.4.el
+4.0K -rw-r--r-- 1 root root  361 May 19 04:36 packages-stable/friendly-shell-command-0.2.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/friendly-shell-command-badge.svg
+4.0K -rw-r--r-- 1 root root  632 May 19 04:36 packages-stable/friendly-shell-command-readme.txt
+4.0K -rw-r--r-- 1 root root  236 May 19 04:36 packages-stable/friendly-shell-command.log
+4.0K -rw-r--r-- 1 root root  376 May 19 04:36 packages-stable/friendly-shell-readme.txt

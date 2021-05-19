@@ -1,0 +1,6 @@
+Package: windwow
+Fetcher: github
+Source:  https://github.com/vijumathew/windwow.git
+
+Updating /mnt/store/melpa/working/windwow/
+No valid stable versions found for windwow

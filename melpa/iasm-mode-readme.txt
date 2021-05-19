@@ -14,7 +14,7 @@ add a few functionalities, contributions are more then welcome. See the todo
 section for ideas.
 
 
-Installation:
+; Installation:
 
 Make sure to place `iasm-mode.el` somewhere in the load-path and add the
 following lines to your `.emacs` to enable iasm:

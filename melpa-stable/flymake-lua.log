@@ -1,0 +1,6 @@
+Package: flymake-lua
+Fetcher: github
+Source:  https://github.com/sroccaserra/flymake-lua.git
+
+Updating /mnt/store/melpa/working/flymake-lua/
+No valid stable versions found for flymake-lua

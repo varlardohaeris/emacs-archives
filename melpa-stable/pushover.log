@@ -1,0 +1,6 @@
+Package: pushover
+Fetcher: git
+Source:  https://git.flintfam.org/swf-projects/emacs-pushover.git
+
+Updating /mnt/store/melpa/working/pushover/
+No valid stable versions found for pushover

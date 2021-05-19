@@ -1,0 +1,72 @@
+Package: org-page
+Fetcher: github
+Source:  https://github.com/emacsorphanage/org-page.git
+
+Updating /mnt/store/melpa/working/org-page/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-page/
+  to /tmp/org-pageFSuNV1/org-page-0.41
+    op-enhance.el -> op-enhance.el
+    op-export.el -> op-export.el
+    op-git.el -> op-git.el
+    op-template.el -> op-template.el
+    op-util.el -> op-util.el
+    op-vars.el -> op-vars.el
+    org-page-pkg.el -> org-page-pkg.el
+    org-page.el -> org-page.el
+    doc => doc
+    themes => themes
+Created org-page-0.41.tar containing:
+  org-page-0.41/
+  org-page-0.41/doc/
+  org-page-0.41/doc/changelog.org
+  org-page-0.41/doc/quick-guide.org
+  org-page-0.41/op-enhance.el
+  org-page-0.41/op-export.el
+  org-page-0.41/op-git.el
+  org-page-0.41/op-template.el
+  org-page-0.41/op-util.el
+  org-page-0.41/op-vars.el
+  org-page-0.41/org-page-pkg.el
+  org-page-0.41/org-page.el
+  org-page-0.41/themes/
+  org-page-0.41/themes/gray/
+  org-page-0.41/themes/gray/README
+  org-page-0.41/themes/gray/resources/
+  org-page-0.41/themes/gray/resources/css/
+  org-page-0.41/themes/gray/resources/css/main.css
+  org-page-0.41/themes/gray/resources/font/
+  org-page-0.41/themes/gray/resources/font/fontawesome-webfont.eot
+  org-page-0.41/themes/gray/resources/font/fontawesome-webfont.svg
+  org-page-0.41/themes/gray/resources/font/fontawesome-webfont.ttf
+  org-page-0.41/themes/gray/resources/font/fontawesome-webfont.woff
+  org-page-0.41/themes/gray/resources/img/
+  org-page-0.41/themes/gray/resources/img/github.png
+  org-page-0.41/themes/gray/resources/img/loading.gif
+  org-page-0.41/themes/gray/resources/img/rss.png
+  org-page-0.41/themes/gray/templates/
+  org-page-0.41/themes/gray/templates/template.html
+  org-page-0.41/themes/mdo/
+  org-page-0.41/themes/mdo/resources/
+  org-page-0.41/themes/mdo/resources/css/
+  org-page-0.41/themes/mdo/resources/css/main.css
+  org-page-0.41/themes/mdo/resources/img/
+  org-page-0.41/themes/mdo/resources/img/search.png
+  org-page-0.41/themes/mdo/templates/
+  org-page-0.41/themes/mdo/templates/about.mustache
+  org-page-0.41/themes/mdo/templates/category-index.mustache
+  org-page-0.41/themes/mdo/templates/container.mustache
+  org-page-0.41/themes/mdo/templates/footer.mustache
+  org-page-0.41/themes/mdo/templates/header.mustache
+  org-page-0.41/themes/mdo/templates/index.mustache
+  org-page-0.41/themes/mdo/templates/nav.mustache
+  org-page-0.41/themes/mdo/templates/post.mustache
+  org-page-0.41/themes/mdo/templates/tag-index.mustache
+  org-page-0.41/themes/mdo/templates/tag.mustache
+  org-page-0.41/themes/mdo/templates/template.html
+Built org-page in 3.363s, finished at Wed May 19 01:39:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  479 May 19 01:39 packages-stable/org-page-0.41.entry
+420K -rw-r--r-- 1 root root 420K May 19 01:39 packages-stable/org-page-0.41.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-page-badge.svg
+4.0K -rw-r--r-- 1 root root  569 May 19 01:39 packages-stable/org-page-readme.txt

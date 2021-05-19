@@ -1,3 +1,4 @@
+
 `imenu-anywhere` provides navigation for imenu tags across all buffers that
 satisfy grouping criteria. Available criteria include - all buffers with the
 same major mode, same project buffers and user defined list of friendly mode

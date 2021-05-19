@@ -1,0 +1,6 @@
+Package: cmake-font-lock
+Fetcher: github
+Source:  https://github.com/Lindydancer/cmake-font-lock.git
+
+Updating /mnt/store/melpa/working/cmake-font-lock/
+No valid stable versions found for cmake-font-lock

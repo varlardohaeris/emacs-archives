@@ -1,0 +1,6 @@
+Package: heroku-theme
+Fetcher: github
+Source:  https://github.com/jonathanchu/heroku-theme.git
+
+Updating /mnt/store/melpa/working/heroku-theme/
+No valid stable versions found for heroku-theme

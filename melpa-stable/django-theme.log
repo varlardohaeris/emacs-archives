@@ -1,0 +1,6 @@
+Package: django-theme
+Fetcher: github
+Source:  https://github.com/andrzejsliwa/django-theme.el.git
+
+Updating /mnt/store/melpa/working/django-theme/
+No valid stable versions found for django-theme

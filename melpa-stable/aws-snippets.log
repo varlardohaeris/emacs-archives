@@ -1,0 +1,6 @@
+Package: aws-snippets
+Fetcher: github
+Source:  https://github.com/baron42bba/aws-snippets.git
+
+Updating /mnt/store/melpa/working/aws-snippets/
+No valid stable versions found for aws-snippets

@@ -1,0 +1,11 @@
+Package: resize-window
+Fetcher: github
+Source:  https://github.com/dpsutton/resize-window.git
+
+Updating /mnt/store/melpa/working/resize-window/
+Built resize-window in 3.463s, finished at Wed May 19 01:46:37 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 01:46 packages-stable/resize-window-0.7.el
+4.0K -rw-r--r-- 1 root root  379 May 19 01:46 packages-stable/resize-window-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/resize-window-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 01:46 packages-stable/resize-window-readme.txt

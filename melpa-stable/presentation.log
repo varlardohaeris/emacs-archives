@@ -1,0 +1,11 @@
+Package: presentation
+Fetcher: github
+Source:  https://github.com/zonuexe/emacs-presentation-mode.git
+
+Updating /mnt/store/melpa/working/presentation/
+Built presentation in 2.866s, finished at Wed May 19 01:43:58 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K May 19 01:43 packages-stable/presentation-0.1.1.el
+4.0K -rw-r--r-- 1 root root  414 May 19 01:43 packages-stable/presentation-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/presentation-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 01:43 packages-stable/presentation-readme.txt

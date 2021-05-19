@@ -1,0 +1,6 @@
+Package: brutalist-theme
+Fetcher: git
+Source:  https://git.madhouse-project.org/algernon/brutalist-theme.el.git
+
+Updating /mnt/store/melpa/working/brutalist-theme/
+No valid stable versions found for brutalist-theme

@@ -1,0 +1,32 @@
+Package: cask
+Fetcher: github
+Source:  https://github.com/cask/cask.git
+
+Updating /mnt/store/melpa/working/cask/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cask/
+  to /tmp/cask1eyv3N/cask-0.8.7
+    cask.el -> cask.el
+    cask-bootstrap.el -> cask-bootstrap.el
+Created cask-0.8.7.tar containing:
+  cask-0.8.7/
+  cask-0.8.7/cask-bootstrap.el
+  cask-0.8.7/cask-pkg.el
+  cask-0.8.7/cask.el
+Built cask in 3.216s, finished at Wed May 19 04:22:44 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  36K Jun 29  2019 packages-stable/cask-0.8.4.el
+4.0K -rw-r--r-- 1 root root  501 May 19 04:22 packages-stable/cask-0.8.7.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 04:22 packages-stable/cask-0.8.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cask-badge.svg
+4.0K -rw-r--r-- 1 root root 3.2K May 19 04:22 packages-stable/cask-mode-0.1.el
+4.0K -rw-r--r-- 1 root root  287 May 19 04:22 packages-stable/cask-mode-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cask-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  117 May 19 04:22 packages-stable/cask-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  535 May 19 04:22 packages-stable/cask-mode.log
+4.0K -rw-r--r-- 1 root root  566 May 19 01:07 packages-stable/cask-package-toolset-0.9.2.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:07 packages-stable/cask-package-toolset-0.9.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:08 packages-stable/cask-package-toolset-badge.svg
+4.0K -rw-r--r-- 1 root root  276 May 19 01:07 packages-stable/cask-package-toolset-readme.txt
+4.0K -rw-r--r-- 1 root root  428 May 19 04:22 packages-stable/cask-package-toolset.log
+4.0K -rw-r--r-- 1 root root   95 May 19 04:22 packages-stable/cask-readme.txt

@@ -1,0 +1,6 @@
+Package: ob-sql-mode
+Fetcher: github
+Source:  https://github.com/nikclayton/ob-sql-mode.git
+
+Updating /mnt/store/melpa/working/ob-sql-mode/
+No valid stable versions found for ob-sql-mode

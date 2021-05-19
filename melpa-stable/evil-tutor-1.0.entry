@@ -1,2 +1,11 @@
-
-(evil-tutor . [(1 0) ((evil (1 0 9))) "Vimtutor adapted to Evil and wrapped in a major-mode" tar ((:commit . "909273bac88b98a565f1b89bbb13d523b7edce2b") (:keywords "convenience" "editing" "evil") (:authors ("Sylvain Benner" . "sylvain.benner@gmail.com")) (:maintainer "Sylvain Benner" . "sylvain.benner@gmail.com") (:url . "https://github.com/syl20bnr/evil-tutor"))])
+(evil-tutor .
+	    [(1 0)
+	     ((evil
+	       (1 0 9)))
+	     "Vimtutor adapted to Evil and wrapped in a major-mode" tar
+	     ((:commit . "909273bac88b98a565f1b89bbb13d523b7edce2b")
+	      (:authors
+	       ("Sylvain Benner" . "sylvain.benner@gmail.com"))
+	      (:maintainer "Sylvain Benner" . "sylvain.benner@gmail.com")
+	      (:keywords "convenience" "editing" "evil")
+	      (:url . "https://github.com/syl20bnr/evil-tutor"))])

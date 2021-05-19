@@ -1,0 +1,6 @@
+Package: malyon
+Fetcher: github
+Source:  https://github.com/speedenator/malyon.git
+
+Updating /mnt/store/melpa/working/malyon/
+No valid stable versions found for malyon

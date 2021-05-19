@@ -1,0 +1,6 @@
+Package: goggles
+Fetcher: github
+Source:  https://github.com/minad/goggles.git
+
+Updating /mnt/store/melpa/working/goggles/
+No valid stable versions found for goggles

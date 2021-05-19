@@ -1,2 +1,9 @@
-
-(typo . [(1 1) nil "Minor mode for typographic editing" single ((:commit . "e72171e4eb0b9ec80b9dabc3198d137d9fb4f972") (:keywords "convenience" "wp") (:authors ("Jorgen Schaefer" . "forcer@forcix.cx")) (:maintainer "Jorgen Schaefer" . "forcer@forcix.cx") (:url . "https://github.com/jorgenschaefer/typoel"))])
+(typo .
+      [(1 1)
+       nil "Minor mode for typographic editing" single
+       ((:commit . "e72171e4eb0b9ec80b9dabc3198d137d9fb4f972")
+	(:authors
+	 ("Jorgen Schaefer" . "forcer@forcix.cx"))
+	(:maintainer "Jorgen Schaefer" . "forcer@forcix.cx")
+	(:keywords "convenience" "wp")
+	(:url . "https://github.com/jorgenschaefer/typoel"))])

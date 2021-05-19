@@ -1,0 +1,6 @@
+Package: emms-mark-ext
+Fetcher: github
+Source:  https://github.com/vapniks/emms-mark-ext.git
+
+Updating /mnt/store/melpa/working/emms-mark-ext/
+No valid stable versions found for emms-mark-ext

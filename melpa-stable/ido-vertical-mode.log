@@ -1,0 +1,11 @@
+Package: ido-vertical-mode
+Fetcher: github
+Source:  https://github.com/creichert/ido-vertical-mode.el.git
+
+Updating /mnt/store/melpa/working/ido-vertical-mode/
+Built ido-vertical-mode in 2.744s, finished at Wed May 19 04:42:49 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:42 packages-stable/ido-vertical-mode-0.1.6.el
+4.0K -rw-r--r-- 1 root root  361 May 19 04:42 packages-stable/ido-vertical-mode-0.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/ido-vertical-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   44 May 19 04:42 packages-stable/ido-vertical-mode-readme.txt

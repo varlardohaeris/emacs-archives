@@ -8,7 +8,7 @@ It works by creating a `.o` file using make (if you have a Makefile) or the
 default system compiler. It then runs that file through objdump to generate
 the human-readable assembly.
 
-Installation:
+; Installation:
 
 Make sure to place `disaster.el` somewhere in the load-path and add the
 following lines to your `.emacs` file to enable the `C-c d` shortcut to

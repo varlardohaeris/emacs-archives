@@ -1,3 +1,4 @@
+
 Based in part on http://d.hatena.ne.jp/kitokitoki/20120306/p1
 
 Usage:

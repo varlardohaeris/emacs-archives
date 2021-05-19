@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'buffer-utils)
@@ -53,7 +54,7 @@ Bugs
 
 TODO
 
-License
+; License
 
 Simplified BSD License:
 

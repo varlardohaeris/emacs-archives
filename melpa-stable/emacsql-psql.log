@@ -1,0 +1,21 @@
+Package: emacsql-psql
+Fetcher: github
+Source:  https://github.com/skeeto/emacsql.git
+
+Updating /mnt/store/melpa/working/emacsql-psql/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsql-psql/
+  to /tmp/emacsql-psqlPcJ8WK/emacsql-psql-3.0.0
+    emacsql-psql.el -> emacsql-psql.el
+    emacsql-pg.el -> emacsql-pg.el
+Created emacsql-psql-3.0.0.tar containing:
+  emacsql-psql-3.0.0/
+  emacsql-psql-3.0.0/emacsql-pg.el
+  emacsql-psql-3.0.0/emacsql-psql-pkg.el
+  emacsql-psql-3.0.0/emacsql-psql.el
+Built emacsql-psql in 2.566s, finished at Wed May 19 04:30:41 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  386 May 19 04:30 packages-stable/emacsql-psql-3.0.0.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:30 packages-stable/emacsql-psql-3.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emacsql-psql-badge.svg
+4.0K -rw-r--r-- 1 root root  189 May 19 04:30 packages-stable/emacsql-psql-readme.txt

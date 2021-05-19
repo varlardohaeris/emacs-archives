@@ -1,0 +1,6 @@
+Package: flymake-joker
+Fetcher: github
+Source:  https://github.com/beetleman/flymake-joker.git
+
+Updating /mnt/store/melpa/working/flymake-joker/
+No valid stable versions found for flymake-joker

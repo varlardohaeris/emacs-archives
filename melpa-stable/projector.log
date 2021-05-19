@@ -1,0 +1,6 @@
+Package: projector
+Fetcher: github
+Source:  https://github.com/waymondo/projector.el.git
+
+Updating /mnt/store/melpa/working/projector/
+No valid stable versions found for projector

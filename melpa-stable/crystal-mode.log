@@ -1,0 +1,11 @@
+Package: crystal-mode
+Fetcher: github
+Source:  https://github.com/crystal-lang-tools/emacs-crystal-mode.git
+
+Updating /mnt/store/melpa/working/crystal-mode/
+Built crystal-mode in 4.909s, finished at Wed May 19 04:25:54 2021
+ ✓ Success:
+104K -rw-r--r-- 1 root root 102K May 19 04:25 packages-stable/crystal-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  287 May 19 04:25 packages-stable/crystal-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/crystal-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  445 May 19 04:25 packages-stable/crystal-mode-readme.txt

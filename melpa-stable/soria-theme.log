@@ -1,0 +1,21 @@
+Package: soria-theme
+Fetcher: github
+Source:  https://github.com/mssola/soria.git
+
+Updating /mnt/store/melpa/working/soria-theme/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/soria-theme/
+  to /tmp/soria-themeDVrwYZ/soria-theme-0.4.0
+    soria-theme-tree.el -> soria-theme-tree.el
+    soria-theme.el -> soria-theme.el
+Created soria-theme-0.4.0.tar containing:
+  soria-theme-0.4.0/
+  soria-theme-0.4.0/soria-theme-pkg.el
+  soria-theme-0.4.0/soria-theme-tree.el
+  soria-theme-0.4.0/soria-theme.el
+Built soria-theme in 3.344s, finished at Wed May 19 01:49:41 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  403 May 19 01:49 packages-stable/soria-theme-0.4.0.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 01:49 packages-stable/soria-theme-0.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/soria-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  189 May 19 01:49 packages-stable/soria-theme-readme.txt

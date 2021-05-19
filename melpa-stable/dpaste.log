@@ -1,0 +1,6 @@
+Package: dpaste
+Fetcher: github
+Source:  https://github.com/gregnewman/dpaste.el.git
+
+Updating /mnt/store/melpa/working/dpaste/
+No valid stable versions found for dpaste

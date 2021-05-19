@@ -1,0 +1,6 @@
+Package: uuid
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-uuid.git
+
+Updating /mnt/store/melpa/working/uuid/
+No valid stable versions found for uuid

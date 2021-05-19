@@ -1,0 +1,6 @@
+Package: flycheck-elsa
+Fetcher: github
+Source:  https://github.com/emacs-elsa/flycheck-elsa.git
+
+Updating /mnt/store/melpa/working/flycheck-elsa/
+No valid stable versions found for flycheck-elsa

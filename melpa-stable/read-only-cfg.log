@@ -1,0 +1,6 @@
+Package: read-only-cfg
+Fetcher: github
+Source:  https://github.com/pfchen/read-only-cfg.git
+
+Updating /mnt/store/melpa/working/read-only-cfg/
+No valid stable versions found for read-only-cfg

@@ -1,3 +1,4 @@
+
 phi-search-mc.el provides the following interactive commands:
 
 * phi-search-mc/mark-here
@@ -18,7 +19,7 @@ Run the following line to rebind `mc/mark-next-like-this',
 phi-search buffer to `phi-search-mc/mark-next',
 `phi-search-mc/mark-previous' and `phi-search-mc/mark-all',
 respectively.
-
+;
   (phi-search-mc/setup-keys)
 
 Run the following line to bind `phi-search',

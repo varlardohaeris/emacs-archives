@@ -1,0 +1,6 @@
+Package: eloud
+Fetcher: github
+Source:  https://github.com/smythp/eloud.git
+
+Updating /mnt/store/melpa/working/eloud/
+No valid stable versions found for eloud

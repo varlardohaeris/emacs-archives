@@ -1,0 +1,11 @@
+Package: json-reformat
+Fetcher: github
+Source:  https://github.com/gongo/json-reformat.git
+
+Updating /mnt/store/melpa/working/json-reformat/
+Built json-reformat in 3.543s, finished at Wed May 19 04:45:08 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.0K May 19 04:45 packages-stable/json-reformat-0.0.6.el
+4.0K -rw-r--r-- 1 root root  327 May 19 04:45 packages-stable/json-reformat-0.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/json-reformat-badge.svg
+4.0K -rw-r--r-- 1 root root  220 May 19 04:45 packages-stable/json-reformat-readme.txt

@@ -19,7 +19,7 @@ the relevant link tags in the browser.
 Thus, what you see on a fresh pageload is always exactly what you see while
 live-editing.
 
-Setup
+; Setup
 
 Install from MELPA, then put the following somewhere in your init file:
 
@@ -34,7 +34,7 @@ then set `skewer-reload-css-compile-command' to your transpile command:
 This variable is best set in .dir-locals.el, so it can be set correctly
 per-project.
 
-Usage
+; Usage
 
 Open a browser window for the URL whose stylesheets you want to live-edit.
 Skewer that window.

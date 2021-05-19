@@ -1,0 +1,6 @@
+Package: dut-mode
+Fetcher: github
+Source:  https://github.com/dut-lang/dut-mode.git
+
+Updating /mnt/store/melpa/working/dut-mode/
+No valid stable versions found for dut-mode

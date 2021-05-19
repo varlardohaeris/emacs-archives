@@ -1,0 +1,6 @@
+Package: helm-sql-connect
+Fetcher: github
+Source:  https://github.com/eric-hansen/helm-sql-connect.git
+
+Updating /mnt/store/melpa/working/helm-sql-connect/
+No valid stable versions found for helm-sql-connect

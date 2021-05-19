@@ -1,0 +1,31 @@
+Package: async
+Fetcher: github
+Source:  https://github.com/jwiegley/emacs-async.git
+
+Updating /mnt/store/melpa/working/async/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/async/
+  to /tmp/asyncGhZAJX/async-1.9.4
+    async-bytecomp.el -> async-bytecomp.el
+    async-pkg.el -> async-pkg.el
+    async.el -> async.el
+    dired-async.el -> dired-async.el
+    smtpmail-async.el -> smtpmail-async.el
+Created async-1.9.4.tar containing:
+  async-1.9.4/
+  async-1.9.4/async-bytecomp.el
+  async-1.9.4/async-pkg.el
+  async-1.9.4/async.el
+  async-1.9.4/dired-async.el
+  async-1.9.4/smtpmail-async.el
+Built async in 3.186s, finished at Wed May 19 04:19:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  314 May 19 04:19 packages-stable/async-1.9.4.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 04:19 packages-stable/async-1.9.4.tar
+8.0K -rw-r--r-- 1 root root 7.8K May 19 04:19 packages-stable/async-await-1.1.el
+4.0K -rw-r--r-- 1 root root  441 May 19 04:19 packages-stable/async-await-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/async-await-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 04:19 packages-stable/async-await-readme.txt
+4.0K -rw-r--r-- 1 root root  224 May 19 04:19 packages-stable/async-await.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/async-badge.svg
+4.0K -rw-r--r-- 1 root root  139 May 19 04:19 packages-stable/async-readme.txt

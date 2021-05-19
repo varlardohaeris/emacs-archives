@@ -1,0 +1,11 @@
+Package: vterm-toggle
+Fetcher: github
+Source:  https://github.com/jixiuf/vterm-toggle.git
+
+Updating /mnt/store/melpa/working/vterm-toggle/
+Built vterm-toggle in 4.525s, finished at Wed May 19 04:13:47 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K May 19 04:13 packages/vterm-toggle-20210518.1528.el
+4.0K -rw-r--r-- 1 root root  405 May 19 04:13 packages/vterm-toggle-20210518.1528.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/vterm-toggle-badge.svg
+4.0K -rw-r--r-- 1 root root  582 May 19 04:13 packages/vterm-toggle-readme.txt

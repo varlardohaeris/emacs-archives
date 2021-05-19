@@ -1,0 +1,6 @@
+Package: cmd-to-echo
+Fetcher: github
+Source:  https://github.com/mallt/cmd-to-echo.git
+
+Updating /mnt/store/melpa/working/cmd-to-echo/
+No valid stable versions found for cmd-to-echo

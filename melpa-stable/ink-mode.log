@@ -1,0 +1,34 @@
+Package: ink-mode
+Fetcher: github
+Source:  https://github.com/Kungsgeten/ink-mode.git
+
+Updating /mnt/store/melpa/working/ink-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ink-mode/
+  to /tmp/ink-modeXGvSkU/ink-mode-0.3.2
+    ink-mode.el -> ink-mode.el
+  ! doc/WritingWithInk.texi -> WritingWithInk.texi
+    snippets => snippets
+Created /tmp/ink-modeXGvSkU/ink-mode-0.3.2/WritingWithInk.info
+Created ink-mode-0.3.2.tar containing:
+  ink-mode-0.3.2/
+  ink-mode-0.3.2/WritingWithInk.info
+  ink-mode-0.3.2/dir
+  ink-mode-0.3.2/ink-mode-pkg.el
+  ink-mode-0.3.2/ink-mode.el
+  ink-mode-0.3.2/snippets/
+  ink-mode-0.3.2/snippets/ink-mode/
+  ink-mode-0.3.2/snippets/ink-mode/choice_once
+  ink-mode-0.3.2/snippets/ink-mode/choice_sticky
+  ink-mode-0.3.2/snippets/ink-mode/condition
+  ink-mode-0.3.2/snippets/ink-mode/condition_multiline
+  ink-mode-0.3.2/snippets/ink-mode/divert
+  ink-mode-0.3.2/snippets/ink-mode/knot
+  ink-mode-0.3.2/snippets/ink-mode/stitch
+Built ink-mode in 13.439s, finished at Wed May 19 04:43:34 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  42K Jun 10  2020 packages-stable/ink-mode-0.3.0.el
+4.0K -rw-r--r-- 1 root root  377 May 19 04:43 packages-stable/ink-mode-0.3.2.entry
+220K -rw-r--r-- 1 root root 220K May 19 04:43 packages-stable/ink-mode-0.3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ink-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  380 May 19 04:43 packages-stable/ink-mode-readme.txt

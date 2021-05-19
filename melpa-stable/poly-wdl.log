@@ -1,0 +1,6 @@
+Package: poly-wdl
+Fetcher: github
+Source:  https://github.com/jmonlong/poly-wdl.git
+
+Updating /mnt/store/melpa/working/poly-wdl/
+No valid stable versions found for poly-wdl

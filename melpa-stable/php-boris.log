@@ -1,0 +1,6 @@
+Package: php-boris
+Fetcher: github
+Source:  https://github.com/tomterl/php-boris.git
+
+Updating /mnt/store/melpa/working/php-boris/
+No valid stable versions found for php-boris

@@ -8,7 +8,7 @@ Installation instructions:
     1. Install MELPA (https://melpa.org/#/getting-started)
     2. In Emacs, M-x package-list-package,
        select `wdl-mode`,
-        press `i` to mark it for installation,
+;         press `i` to mark it for installation,
        then press `x` to perform installation.
 
   Manual installation

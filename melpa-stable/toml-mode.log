@@ -1,0 +1,6 @@
+Package: toml-mode
+Fetcher: github
+Source:  https://github.com/dryman/toml-mode.el.git
+
+Updating /mnt/store/melpa/working/toml-mode/
+No valid stable versions found for toml-mode

@@ -1,0 +1,6 @@
+Package: bfbuilder
+Fetcher: github
+Source:  https://github.com/zk-phi/bfbuilder.git
+
+Updating /mnt/store/melpa/working/bfbuilder/
+No valid stable versions found for bfbuilder

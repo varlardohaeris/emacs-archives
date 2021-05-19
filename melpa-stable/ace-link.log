@@ -1,0 +1,11 @@
+Package: ace-link
+Fetcher: github
+Source:  https://github.com/abo-abo/ace-link.git
+
+Updating /mnt/store/melpa/working/ace-link/
+Built ace-link in 3.283s, finished at Wed May 19 04:18:40 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 04:18 packages-stable/ace-link-0.5.0.el
+4.0K -rw-r--r-- 1 root root  363 May 19 04:18 packages-stable/ace-link-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ace-link-badge.svg
+4.0K -rw-r--r-- 1 root root  511 May 19 04:18 packages-stable/ace-link-readme.txt

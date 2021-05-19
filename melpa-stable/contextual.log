@@ -1,0 +1,16 @@
+Package: contextual
+Fetcher: github
+Source:  https://github.com/e-user/contextual.git
+
+Updating /mnt/store/melpa/working/contextual/
+Built contextual in 3.711s, finished at Wed May 19 04:25:10 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.3K May 19 04:25 packages-stable/contextual-1.0.1.el
+4.0K -rw-r--r-- 1 root root  455 May 19 04:25 packages-stable/contextual-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/contextual-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 04:25 packages-stable/contextual-menubar-1.0.0.el
+4.0K -rw-r--r-- 1 root root  374 May 19 01:10 packages-stable/contextual-menubar-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/contextual-menubar-badge.svg
+4.0K -rw-r--r-- 1 root root  211 May 19 01:10 packages-stable/contextual-menubar-readme.txt
+4.0K -rw-r--r-- 1 root root  162 May 19 04:25 packages-stable/contextual-menubar.log
+4.0K -rw-r--r-- 1 root root  181 May 19 04:25 packages-stable/contextual-readme.txt

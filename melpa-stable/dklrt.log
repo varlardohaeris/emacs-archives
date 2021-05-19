@@ -1,0 +1,6 @@
+Package: dklrt
+Fetcher: github
+Source:  https://github.com/davidkeegan/dklrt.git
+
+Updating /mnt/store/melpa/working/dklrt/
+No valid stable versions found for dklrt

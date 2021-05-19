@@ -9,7 +9,7 @@ GPLv2).
 Thanks to everyone, including Christopher Gilbreth and Ralph Möritz,
 for sending suggestions, improvements, and fixes.
 
-Installation:
+; Installation:
 
 Use package.el. You'll need to add MELPA to your archives:
 
@@ -20,21 +20,21 @@ Use package.el. You'll need to add MELPA to your archives:
 Alternatively, you can just save this file and do the standard
 (add-to-list 'load-path "/path/to/gnuplot-mode.el")
 
-Configuration:
+; Configuration:
 
 If you installed this via `package.el', you should take advantage
 of autoloading.  You can customize features using `defvar' and
 `eval-after-load', as illustrated below:
 
-specify the gnuplot executable (if other than "gnuplot")
+;; specify the gnuplot executable (if other than "gnuplot")
 (defvar gnuplot-program "/sw/bin/gnuplot")
 
-set gnuplot arguments (if other than "-persist")
+;; set gnuplot arguments (if other than "-persist")
 (defvar gnuplot-flags "-persist -pointsize 2")
 
-if you want, add a mode hook.  e.g., the following turns on
-spell-checking for strings and comments and automatically cleans
-up whitespace on save.
+;; if you want, add a mode hook.  e.g., the following turns on
+;; spell-checking for strings and comments and automatically cleans
+;; up whitespace on save.
 (eval-after-load 'gnuplot-mode
   '(add-hook 'gnuplot-mode-hook
              (lambda ()
@@ -48,15 +48,15 @@ the following to your .emacs:
 
 (require 'gnuplot-mode)
 
-specify the gnuplot executable (if other than "gnuplot")
+;; specify the gnuplot executable (if other than "gnuplot")
 (setq gnuplot-program "/sw/bin/gnuplot")
 
-set gnuplot arguments (if other than "-persist")
+;; set gnuplot arguments (if other than "-persist")
 (setq gnuplot-flags "-persist -pointsize 2")
 
-if you want, add a mode hook.  e.g., the following turns on
-spell-checking for strings and comments and automatically cleans
-up whitespace on save.
+;; if you want, add a mode hook.  e.g., the following turns on
+;; spell-checking for strings and comments and automatically cleans
+;; up whitespace on save.
 (add-hook 'gnuplot-mode-hook
           (lambda ()
             (flyspell-prog-mode)

@@ -1,0 +1,6 @@
+Package: projectile-direnv
+Fetcher: github
+Source:  https://github.com/christianromney/projectile-direnv.git
+
+Updating /mnt/store/melpa/working/projectile-direnv/
+No valid stable versions found for projectile-direnv

@@ -1,0 +1,6 @@
+Package: math-symbols
+Fetcher: github
+Source:  https://github.com/kawabata/math-symbols.git
+
+Updating /mnt/store/melpa/working/math-symbols/
+No valid stable versions found for math-symbols

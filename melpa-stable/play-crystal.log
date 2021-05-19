@@ -1,0 +1,11 @@
+Package: play-crystal
+Fetcher: github
+Source:  https://github.com/veelenga/play-crystal.el.git
+
+Updating /mnt/store/melpa/working/play-crystal/
+Built play-crystal in 3.384s, finished at Wed May 19 01:43:18 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K May 19 01:43 packages-stable/play-crystal-0.1.2.el
+4.0K -rw-r--r-- 1 root root  390 May 19 01:43 packages-stable/play-crystal-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/play-crystal-badge.svg
+4.0K -rw-r--r-- 1 root root  700 May 19 01:43 packages-stable/play-crystal-readme.txt

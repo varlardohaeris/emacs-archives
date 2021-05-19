@@ -1,0 +1,31 @@
+Package: buttercup
+Fetcher: github
+Source:  https://github.com/jorgenschaefer/emacs-buttercup.git
+
+Updating /mnt/store/melpa/working/buttercup/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/buttercup/
+  to /tmp/buttercupR2QJ8I/buttercup-1.24
+    buttercup-compat.el -> buttercup-compat.el
+    buttercup-pkg.el -> buttercup-pkg.el
+    buttercup.el -> buttercup.el
+    bin => bin
+Created buttercup-1.24.tar containing:
+  buttercup-1.24/
+  buttercup-1.24/bin/
+  buttercup-1.24/bin/buttercup
+  buttercup-1.24/bin/buttercup.bat
+  buttercup-1.24/buttercup-compat.el
+  buttercup-1.24/buttercup-pkg.el
+  buttercup-1.24/buttercup.el
+Built buttercup in 3.183s, finished at Wed May 19 04:22:25 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  348 May 19 04:22 packages-stable/buttercup-1.24.entry
+112K -rw-r--r-- 1 root root 110K May 19 04:22 packages-stable/buttercup-1.24.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/buttercup-badge.svg
+ 16K -rw-r--r-- 1 root root  14K May 19 04:22 packages-stable/buttercup-junit-1.1.1.el
+4.0K -rw-r--r-- 1 root root  442 May 19 04:22 packages-stable/buttercup-junit-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/buttercup-junit-badge.svg
+4.0K -rw-r--r-- 1 root root  905 May 19 04:22 packages-stable/buttercup-junit-readme.txt
+4.0K -rw-r--r-- 1 root root  586 May 19 04:22 packages-stable/buttercup-junit.log
+4.0K -rw-r--r-- 1 root root  565 May 19 04:22 packages-stable/buttercup-readme.txt

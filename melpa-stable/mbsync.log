@@ -1,0 +1,6 @@
+Package: mbsync
+Fetcher: github
+Source:  https://github.com/dimitri/mbsync-el.git
+
+Updating /mnt/store/melpa/working/mbsync/
+No valid stable versions found for mbsync

@@ -20,7 +20,7 @@ previous column).  Pressing TAB or RET will select the highlighted match
 To create a new buffer with the given name, press C-x e.  To open dired at
 the current viewed directory, press C-x d.
 
-Customization:
+; Customization:
  --------------
 
 To modify the keybindings, use something like:
@@ -37,7 +37,7 @@ Further info:   <https://www.emacswiki.org/cgi-bin/wiki/LustyExplorer>
                 (Probably out-of-date)
 
 
-Contributors:
+; Contributors:
 
 Tassilo Horn
 Jan Rehders

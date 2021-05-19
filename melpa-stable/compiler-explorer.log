@@ -1,0 +1,11 @@
+Package: compiler-explorer
+Fetcher: github
+Source:  https://github.com/mkcms/compiler-explorer.el.git
+
+Updating /mnt/store/melpa/working/compiler-explorer/
+Built compiler-explorer in 3.534s, finished at Wed May 19 04:24:56 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  40K May 19 04:24 packages-stable/compiler-explorer-0.1.0.el
+4.0K -rw-r--r-- 1 root root  450 May 19 04:24 packages-stable/compiler-explorer-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/compiler-explorer-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 04:24 packages-stable/compiler-explorer-readme.txt

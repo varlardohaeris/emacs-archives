@@ -1,0 +1,30 @@
+Package: org-commentary
+Fetcher: github
+Source:  https://github.com/smaximov/org-commentary.git
+
+Updating /mnt/store/melpa/working/org-commentary/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-commentary/
+  to /tmp/org-commentaryx0GIRj/org-commentary-0.3.0
+    org-commentary-cli.el -> org-commentary-cli.el
+    org-commentary-export.el -> org-commentary-export.el
+    org-commentary-headers.el -> org-commentary-headers.el
+    org-commentary-util.el -> org-commentary-util.el
+    org-commentary.el -> org-commentary.el
+    bin => bin
+Created org-commentary-0.3.0.tar containing:
+  org-commentary-0.3.0/
+  org-commentary-0.3.0/bin/
+  org-commentary-0.3.0/bin/org-doc
+  org-commentary-0.3.0/org-commentary-cli.el
+  org-commentary-0.3.0/org-commentary-export.el
+  org-commentary-0.3.0/org-commentary-headers.el
+  org-commentary-0.3.0/org-commentary-pkg.el
+  org-commentary-0.3.0/org-commentary-util.el
+  org-commentary-0.3.0/org-commentary.el
+Built org-commentary in 3.193s, finished at Wed May 19 01:39:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  466 May 19 01:39 packages-stable/org-commentary-0.3.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:39 packages-stable/org-commentary-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-commentary-badge.svg
+ 12K -rw-r--r-- 1 root root 9.6K May 19 01:39 packages-stable/org-commentary-readme.txt

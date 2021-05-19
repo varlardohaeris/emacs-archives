@@ -1,0 +1,6 @@
+Package: counsel-osx-app
+Fetcher: github
+Source:  https://github.com/d12frosted/counsel-osx-app.git
+
+Updating /mnt/store/melpa/working/counsel-osx-app/
+No valid stable versions found for counsel-osx-app

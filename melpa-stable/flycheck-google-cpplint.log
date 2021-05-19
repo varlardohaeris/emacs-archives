@@ -1,0 +1,11 @@
+Package: flycheck-google-cpplint
+Fetcher: github
+Source:  https://github.com/flycheck/flycheck-google-cpplint.git
+
+Updating /mnt/store/melpa/working/flycheck-google-cpplint/
+Built flycheck-google-cpplint in 2.895s, finished at Wed May 19 04:34:46 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.1K May 19 04:34 packages-stable/flycheck-google-cpplint-1.0.2.el
+4.0K -rw-r--r-- 1 root root  438 May 19 04:34 packages-stable/flycheck-google-cpplint-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-google-cpplint-badge.svg
+4.0K -rw-r--r-- 1 root root  673 May 19 04:34 packages-stable/flycheck-google-cpplint-readme.txt

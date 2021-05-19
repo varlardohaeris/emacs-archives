@@ -1,0 +1,6 @@
+Package: lexic
+Fetcher: github
+Source:  https://github.com/tecosaur/lexic.git
+
+Updating /mnt/store/melpa/working/lexic/
+No valid stable versions found for lexic

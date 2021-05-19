@@ -1,0 +1,11 @@
+Package: virtualenvwrapper
+Fetcher: github
+Source:  https://github.com/porterjamesj/virtualenvwrapper.el.git
+
+Updating /mnt/store/melpa/working/virtualenvwrapper/
+Built virtualenvwrapper in 3.279s, finished at Wed May 19 01:54:14 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K May 19 01:54 packages-stable/virtualenvwrapper-0.2.0.el
+4.0K -rw-r--r-- 1 root root  480 May 19 01:54 packages-stable/virtualenvwrapper-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/virtualenvwrapper-badge.svg
+4.0K -rw-r--r-- 1 root root  258 May 19 01:54 packages-stable/virtualenvwrapper-readme.txt

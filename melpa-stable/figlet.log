@@ -1,0 +1,6 @@
+Package: figlet
+Fetcher: github
+Source:  https://github.com/jpkotta/figlet.git
+
+Updating /mnt/store/melpa/working/figlet/
+No valid stable versions found for figlet

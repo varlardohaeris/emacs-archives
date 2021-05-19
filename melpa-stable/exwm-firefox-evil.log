@@ -1,0 +1,6 @@
+Package: exwm-firefox-evil
+Fetcher: github
+Source:  https://github.com/walseb/exwm-firefox-evil.git
+
+Updating /mnt/store/melpa/working/exwm-firefox-evil/
+No valid stable versions found for exwm-firefox-evil

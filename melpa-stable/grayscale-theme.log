@@ -1,0 +1,6 @@
+Package: grayscale-theme
+Fetcher: github
+Source:  https://github.com/belak/emacs-grayscale-theme.git
+
+Updating /mnt/store/melpa/working/grayscale-theme/
+No valid stable versions found for grayscale-theme

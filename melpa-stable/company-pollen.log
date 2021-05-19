@@ -1,0 +1,6 @@
+Package: company-pollen
+Fetcher: github
+Source:  https://github.com/lijunsong/pollen-mode.git
+
+Updating /mnt/store/melpa/working/company-pollen/
+No valid stable versions found for company-pollen

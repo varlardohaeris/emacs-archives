@@ -1,0 +1,23 @@
+Package: bbdb-vcard
+Fetcher: github
+Source:  https://github.com/tohojo/bbdb-vcard.git
+
+Updating /mnt/store/melpa/working/bbdb-vcard/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bbdb-vcard/
+  to /tmp/bbdb-vcardwc97T9/bbdb-vcard-0.3
+    bbdb-vcard.el -> bbdb-vcard.el
+    test-bbdb-vcard.el -> test-bbdb-vcard.el
+    vcard.el -> vcard.el
+Created bbdb-vcard-0.3.tar containing:
+  bbdb-vcard-0.3/
+  bbdb-vcard-0.3/bbdb-vcard-pkg.el
+  bbdb-vcard-0.3/bbdb-vcard.el
+  bbdb-vcard-0.3/test-bbdb-vcard.el
+  bbdb-vcard-0.3/vcard.el
+Built bbdb-vcard in 3.012s, finished at Wed May 19 04:20:52 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  381 May 19 04:20 packages-stable/bbdb-vcard-0.3.entry
+132K -rw-r--r-- 1 root root 130K May 19 04:20 packages-stable/bbdb-vcard-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/bbdb-vcard-badge.svg
+ 12K -rw-r--r-- 1 root root 9.1K May 19 04:20 packages-stable/bbdb-vcard-readme.txt

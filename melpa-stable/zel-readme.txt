@@ -15,13 +15,13 @@ list.
 
 [1] https://github.com/rupa/z
 
-Installation
+;; Installation
 
-MELPA
+;;; MELPA
 
 If you installed from MELPA, you're done.
 
-use-package
+;;; use-package
 
 (use-package zel
   :ensure t
@@ -29,7 +29,7 @@ use-package
   :bind (("C-x C-r" . zel-find-file-frecent))
   :config (zel-install))
 
-Manual
+;;; Manual
 
 Install these required packages:
 
@@ -40,7 +40,7 @@ file:
 
 (require 'zel)
 
-Usage
+;; Usage
 
 1. Run (zel-install)
 2. Bind `zel-find-file-frecent' to a key,
@@ -59,12 +59,12 @@ along with their score.
 If you'd like to stop building up the 'frecent' list then run
 `zel-uninstall' to deregister `zel' from all hooks.
 
-Credits
+;; Credits
 
 - https://github.com/rupa/z
 - https://github.com/alphapapa/frecency.el
 
-License
+; License
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

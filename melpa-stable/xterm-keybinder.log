@@ -1,0 +1,6 @@
+Package: xterm-keybinder
+Fetcher: github
+Source:  https://github.com/yuutayamada/xterm-keybinder-el.git
+
+Updating /mnt/store/melpa/working/xterm-keybinder/
+No valid stable versions found for xterm-keybinder

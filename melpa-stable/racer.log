@@ -1,0 +1,11 @@
+Package: racer
+Fetcher: github
+Source:  https://github.com/racer-rust/emacs-racer.git
+
+Updating /mnt/store/melpa/working/racer/
+Built racer in 2.977s, finished at Wed May 19 01:45:18 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  28K May 19 01:45 packages-stable/racer-1.2.el
+4.0K -rw-r--r-- 1 root root  411 May 19 01:45 packages-stable/racer-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/racer-badge.svg
+4.0K -rw-r--r-- 1 root root   88 May 19 01:45 packages-stable/racer-readme.txt

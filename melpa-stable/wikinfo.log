@@ -1,0 +1,6 @@
+Package: wikinfo
+Fetcher: github
+Source:  https://github.com/progfolio/wikinfo.git
+
+Updating /mnt/store/melpa/working/wikinfo/
+No valid stable versions found for wikinfo

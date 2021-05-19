@@ -1,0 +1,11 @@
+Package: list-unicode-display
+Fetcher: github
+Source:  https://github.com/purcell/list-unicode-display.git
+
+Updating /mnt/store/melpa/working/list-unicode-display/
+Built list-unicode-display in 2.947s, finished at Wed May 19 01:32:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.1K May 19 01:32 packages-stable/list-unicode-display-0.1.el
+4.0K -rw-r--r-- 1 root root  348 May 19 01:32 packages-stable/list-unicode-display-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/list-unicode-display-badge.svg
+4.0K -rw-r--r-- 1 root root  103 May 19 01:32 packages-stable/list-unicode-display-readme.txt

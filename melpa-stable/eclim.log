@@ -1,0 +1,44 @@
+Package: eclim
+Fetcher: github
+Source:  https://github.com/emacs-eclim/emacs-eclim.git
+
+Updating /mnt/store/melpa/working/eclim/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eclim/
+  to /tmp/eclimXYQiNA/eclim-0.4
+    eclim-ant.el -> eclim-ant.el
+    eclim-common.el -> eclim-common.el
+    eclim-completion.el -> eclim-completion.el
+    eclim-debug.el -> eclim-debug.el
+    eclim-java-run.el -> eclim-java-run.el
+    eclim-java.el -> eclim-java.el
+    eclim-macros.el -> eclim-macros.el
+    eclim-maven.el -> eclim-maven.el
+    eclim-pkg.el -> eclim-pkg.el
+    eclim-problems.el -> eclim-problems.el
+    eclim-project.el -> eclim-project.el
+    eclim-scala.el -> eclim-scala.el
+    eclim.el -> eclim.el
+    eclimd.el -> eclimd.el
+Created eclim-0.4.tar containing:
+  eclim-0.4/
+  eclim-0.4/eclim-ant.el
+  eclim-0.4/eclim-common.el
+  eclim-0.4/eclim-completion.el
+  eclim-0.4/eclim-debug.el
+  eclim-0.4/eclim-java-run.el
+  eclim-0.4/eclim-java.el
+  eclim-0.4/eclim-macros.el
+  eclim-0.4/eclim-maven.el
+  eclim-0.4/eclim-pkg.el
+  eclim-0.4/eclim-problems.el
+  eclim-0.4/eclim-project.el
+  eclim-0.4/eclim-scala.el
+  eclim-0.4/eclim.el
+  eclim-0.4/eclimd.el
+Built eclim in 3.039s, finished at Wed May 19 04:29:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  247 May 19 04:29 packages-stable/eclim-0.4.entry
+172K -rw-r--r-- 1 root root 170K May 19 04:29 packages-stable/eclim-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eclim-badge.svg
+4.0K -rw-r--r-- 1 root root  232 May 19 04:29 packages-stable/eclim-readme.txt

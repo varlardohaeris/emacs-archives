@@ -1,3 +1,4 @@
+
 Add something like below to `~/.emacs`:
 
 (add-hook 'go-mode-hook

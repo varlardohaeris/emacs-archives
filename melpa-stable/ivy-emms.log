@@ -1,0 +1,6 @@
+Package: ivy-emms
+Fetcher: github
+Source:  https://github.com/franburstall/ivy-emms.git
+
+Updating /mnt/store/melpa/working/ivy-emms/
+No valid stable versions found for ivy-emms

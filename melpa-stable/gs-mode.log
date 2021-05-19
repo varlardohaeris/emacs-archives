@@ -1,0 +1,6 @@
+Package: gs-mode
+Fetcher: github
+Source:  https://github.com/yyr/emacs-grads.git
+
+Updating /mnt/store/melpa/working/gs-mode/
+No valid stable versions found for gs-mode

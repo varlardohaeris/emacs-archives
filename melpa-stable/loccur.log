@@ -1,0 +1,6 @@
+Package: loccur
+Fetcher: github
+Source:  https://github.com/fourier/loccur.git
+
+Updating /mnt/store/melpa/working/loccur/
+No valid stable versions found for loccur

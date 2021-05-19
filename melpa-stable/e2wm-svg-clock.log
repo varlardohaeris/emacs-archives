@@ -1,0 +1,6 @@
+Package: e2wm-svg-clock
+Fetcher: github
+Source:  https://github.com/myuhe/e2wm-svg-clock.el.git
+
+Updating /mnt/store/melpa/working/e2wm-svg-clock/
+No valid stable versions found for e2wm-svg-clock

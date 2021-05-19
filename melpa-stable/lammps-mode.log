@@ -1,0 +1,6 @@
+Package: lammps-mode
+Fetcher: github
+Source:  https://github.com/HaoZeke/lammps-mode.git
+
+Updating /mnt/store/melpa/working/lammps-mode/
+No valid stable versions found for lammps-mode

@@ -1,0 +1,6 @@
+Package: insert-char-preview
+Fetcher: gitlab
+Source:  https://gitlab.com/matsievskiysv/insert-char-preview.git
+
+Updating /mnt/store/melpa/working/insert-char-preview/
+No valid stable versions found for insert-char-preview

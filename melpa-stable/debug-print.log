@@ -1,0 +1,6 @@
+Package: debug-print
+Fetcher: github
+Source:  https://github.com/kenoss/debug-print.git
+
+Updating /mnt/store/melpa/working/debug-print/
+No valid stable versions found for debug-print

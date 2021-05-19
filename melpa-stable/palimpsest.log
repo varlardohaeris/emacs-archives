@@ -1,0 +1,6 @@
+Package: palimpsest
+Fetcher: github
+Source:  https://github.com/danielsz/Palimpsest.git
+
+Updating /mnt/store/melpa/working/palimpsest/
+No valid stable versions found for palimpsest

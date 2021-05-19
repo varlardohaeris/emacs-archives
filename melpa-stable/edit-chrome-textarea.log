@@ -1,0 +1,6 @@
+Package: edit-chrome-textarea
+Fetcher: github
+Source:  https://github.com/xuchunyang/edit-chrome-textarea.el.git
+
+Updating /mnt/store/melpa/working/edit-chrome-textarea/
+No valid stable versions found for edit-chrome-textarea

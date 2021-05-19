@@ -1,0 +1,6 @@
+Package: helm-dired-recent-dirs
+Fetcher: github
+Source:  https://github.com/zonkyy/helm-dired-recent-dirs.git
+
+Updating /mnt/store/melpa/working/helm-dired-recent-dirs/
+No valid stable versions found for helm-dired-recent-dirs

@@ -1,0 +1,6 @@
+Package: flycheck-pyflakes
+Fetcher: github
+Source:  https://github.com/Wilfred/flycheck-pyflakes.git
+
+Updating /mnt/store/melpa/working/flycheck-pyflakes/
+No valid stable versions found for flycheck-pyflakes

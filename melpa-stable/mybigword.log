@@ -1,0 +1,21 @@
+Package: mybigword
+Fetcher: github
+Source:  https://github.com/redguardtoo/mybigword.git
+
+Updating /mnt/store/melpa/working/mybigword/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mybigword/
+  to /tmp/mybigworddlFo2d/mybigword-0.1.1
+    mybigword.el -> mybigword.el
+    eng.zipf -> eng.zipf
+Created mybigword-0.1.1.tar containing:
+  mybigword-0.1.1/
+  mybigword-0.1.1/eng.zipf
+  mybigword-0.1.1/mybigword-pkg.el
+  mybigword-0.1.1/mybigword.el
+Built mybigword in 3.756s, finished at Wed May 19 01:36:48 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  407 May 19 01:36 packages-stable/mybigword-0.1.1.entry
+1.3M -rw-r--r-- 1 root root 1.3M May 19 01:36 packages-stable/mybigword-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mybigword-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K May 19 01:36 packages-stable/mybigword-readme.txt

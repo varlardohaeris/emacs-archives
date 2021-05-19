@@ -1,0 +1,6 @@
+Package: turnip
+Fetcher: github
+Source:  https://github.com/kljohann/turnip.el.git
+
+Updating /mnt/store/melpa/working/turnip/
+No valid stable versions found for turnip

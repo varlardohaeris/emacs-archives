@@ -1,3 +1,4 @@
+
 Purpose of this package: minor mode to repeat typing or commands
 
 Installation instructions
@@ -72,26 +73,26 @@ Known bugs:
 none
 
 
-COMMENTARY
+; COMMENTARY
+;
+; This mode is written to address one argument in the emacs vs. vi
+; jihad :-)  It emulates the vi `redo' command, repeating the
+; immediately preceding sequence of commands.  This is done by
+; recording input commands which change the buffer, i.e. not motion
+; commands.
 
-This mode is written to address one argument in the emacs vs. vi
-jihad :-)  It emulates the vi `redo' command, repeating the
-immediately preceding sequence of commands.  This is done by
-recording input commands which change the buffer, i.e. not motion
-commands.
-
-DESIGN
-
-The heart of this minor mode is a state machine.  The function
-dot-mode-after-change is called from after-change-functions and
-sets a variable (is there one already?  I couldn't find it) which
-is examined by dot-mode-loop, called from from post-command-hook.
-This variable, dot-mode-changed, is used in conjunction with
-dot-mode-state to move to the next state in the state machine.
-The state machine is hard coded into dot-mode-loop in the
-interests of speed; it uses two normal states (idle and store)
-and two corresponding override states which allow the user to
-forcibly store commands which do not change the buffer.
-
-TODO
-* Explore using recent-keys for this functionality
+; DESIGN
+;
+; The heart of this minor mode is a state machine.  The function
+; dot-mode-after-change is called from after-change-functions and
+; sets a variable (is there one already?  I couldn't find it) which
+; is examined by dot-mode-loop, called from from post-command-hook.
+; This variable, dot-mode-changed, is used in conjunction with
+; dot-mode-state to move to the next state in the state machine.
+; The state machine is hard coded into dot-mode-loop in the
+; interests of speed; it uses two normal states (idle and store)
+; and two corresponding override states which allow the user to
+; forcibly store commands which do not change the buffer.
+;
+; TODO
+; * Explore using recent-keys for this functionality

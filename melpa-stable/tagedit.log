@@ -1,0 +1,12 @@
+Package: tagedit
+Fetcher: github
+Source:  https://github.com/magnars/tagedit.git
+
+Updating /mnt/store/melpa/working/tagedit/
+Note: tagedit :files spec is equivalent to the default.
+Built tagedit in 3.023s, finished at Wed May 19 01:51:14 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  27K May 19 01:51 packages-stable/tagedit-1.4.0.el
+4.0K -rw-r--r-- 1 root root  327 May 19 01:51 packages-stable/tagedit-1.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/tagedit-badge.svg
+4.0K -rw-r--r-- 1 root root 2.3K May 19 01:51 packages-stable/tagedit-readme.txt

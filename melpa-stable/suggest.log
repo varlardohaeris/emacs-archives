@@ -1,0 +1,21 @@
+Package: suggest
+Fetcher: github
+Source:  https://github.com/Wilfred/suggest.el.git
+
+Updating /mnt/store/melpa/working/suggest/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/suggest/
+  to /tmp/suggest6K0H6c/suggest-0.7
+    suggest-bench.el -> suggest-bench.el
+    suggest.el -> suggest.el
+Created suggest-0.7.tar containing:
+  suggest-0.7/
+  suggest-0.7/suggest-bench.el
+  suggest-0.7/suggest-pkg.el
+  suggest-0.7/suggest.el
+Built suggest in 3.020s, finished at Wed May 19 01:50:38 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  488 May 19 01:50 packages-stable/suggest-0.7.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:50 packages-stable/suggest-0.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/suggest-badge.svg
+4.0K -rw-r--r-- 1 root root  132 May 19 01:50 packages-stable/suggest-readme.txt

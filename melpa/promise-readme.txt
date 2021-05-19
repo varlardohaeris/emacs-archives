@@ -16,7 +16,7 @@ See `promise-examples.el' for details.
 
 (require 'promise)
 
-Please be sure to enable it when developing.
+;; Please be sure to enable it when developing.
 (promise-rejection-tracking-enable '((all-rejections . t)))
 
 (defun do-something-async (delay-sec value)

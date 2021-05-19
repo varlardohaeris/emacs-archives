@@ -1,0 +1,6 @@
+Package: dist-file-mode
+Fetcher: github
+Source:  https://github.com/emacs-php/dist-file-mode.el.git
+
+Updating /mnt/store/melpa/working/dist-file-mode/
+No valid stable versions found for dist-file-mode

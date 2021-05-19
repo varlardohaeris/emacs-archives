@@ -1,0 +1,11 @@
+Package: highlight-context-line
+Fetcher: github
+Source:  https://github.com/ska2342/highlight-context-line.git
+
+Updating /mnt/store/melpa/working/highlight-context-line/
+Built highlight-context-line in 2.939s, finished at Wed May 19 04:41:40 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.3K May 19 04:41 packages-stable/highlight-context-line-2.0.el
+4.0K -rw-r--r-- 1 root root  386 May 19 04:41 packages-stable/highlight-context-line-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/highlight-context-line-badge.svg
+4.0K -rw-r--r-- 1 root root  766 May 19 04:41 packages-stable/highlight-context-line-readme.txt

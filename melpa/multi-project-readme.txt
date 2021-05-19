@@ -1,3 +1,4 @@
+
 Multi-project simplifies working with different projects by providing support
 for creating, deleting, and searching with projects.  Multi-project
 supports interactively finding a file within a project by using a TAGS file.
@@ -47,12 +48,12 @@ that provides a customized compilation command.  For example,
 
 (defun my-compilation-command (project-list)
   (let ((project-name (car project-list))
-	   (project-dir (nth 1 project-list))
-	   (project-subdir (nth 2 project-list)))
+   (project-dir (nth 1 project-list))
+   (project-subdir (nth 2 project-list)))
 
     (cond ((string-match "proj1" project-name)
-	      (concat "ant -f " project-dir "/" project-subdir "/build.xml"))
-	     (t
-	      (concat "make -C " project-dir "/" project-subdir)))))
+      (concat "ant -f " project-dir "/" project-subdir "/build.xml"))
+     (t
+      (concat "make -C " project-dir "/" project-subdir)))))
 
 (setq multi-project-compilation-command 'my-compilation-command)

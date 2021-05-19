@@ -14,7 +14,7 @@ Difference of math-*/calcFunc-* functions:
    into NaN.  For vectors, operation isn't defined.  Fractions are supported
    only as input parameter.
 
-Installed functions:
+; Installed functions:
 
  All public functions have alias name that prefix replaced like
  `yabin-OPERATION' -> `!OPERATION', and some functions that exists

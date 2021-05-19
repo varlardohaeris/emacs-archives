@@ -1,0 +1,11 @@
+Package: cfengine-code-style
+Fetcher: github
+Source:  https://github.com/cfengine/core.git
+
+Updating /mnt/store/melpa/working/cfengine-code-style/
+Built cfengine-code-style in 6.757s, finished at Wed May 19 04:22:59 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.5K May 19 04:22 packages-stable/cfengine-code-style-3.17.0.el
+4.0K -rw-r--r-- 1 root root  366 May 19 04:22 packages-stable/cfengine-code-style-3.17.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cfengine-code-style-badge.svg
+4.0K -rw-r--r-- 1 root root  392 May 19 04:22 packages-stable/cfengine-code-style-readme.txt

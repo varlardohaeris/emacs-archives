@@ -1,0 +1,35 @@
+Package: lsp-java
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-java.git
+
+Updating /mnt/store/melpa/working/lsp-java/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lsp-java/
+  to /tmp/lsp-java5DzH2P/lsp-java-3.1
+    dap-java.el -> dap-java.el
+    lsp-java-boot.el -> lsp-java-boot.el
+    lsp-java.el -> lsp-java.el
+    lsp-jt.el -> lsp-jt.el
+    icons => icons
+Created lsp-java-3.1.tar containing:
+  lsp-java-3.1/
+  lsp-java-3.1/dap-java.el
+  lsp-java-3.1/icons/
+  lsp-java-3.1/icons/vscode/
+  lsp-java-3.1/icons/vscode/class.png
+  lsp-java-3.1/icons/vscode/debug.png
+  lsp-java-3.1/icons/vscode/method.png
+  lsp-java-3.1/icons/vscode/package.png
+  lsp-java-3.1/icons/vscode/placeholder.png
+  lsp-java-3.1/icons/vscode/refresh.png
+  lsp-java-3.1/icons/vscode/run.png
+  lsp-java-3.1/lsp-java-boot.el
+  lsp-java-3.1/lsp-java-pkg.el
+  lsp-java-3.1/lsp-java.el
+  lsp-java-3.1/lsp-jt.el
+Built lsp-java in 3.770s, finished at Wed May 19 01:33:03 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  495 May 19 01:33 packages-stable/lsp-java-3.1.entry
+160K -rw-r--r-- 1 root root 160K May 19 01:33 packages-stable/lsp-java-3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-java-badge.svg
+4.0K -rw-r--r-- 1 root root   35 May 19 01:33 packages-stable/lsp-java-readme.txt

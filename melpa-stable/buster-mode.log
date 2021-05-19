@@ -1,0 +1,6 @@
+Package: buster-mode
+Fetcher: github
+Source:  https://github.com/magnars/buster-mode.git
+
+Updating /mnt/store/melpa/working/buster-mode/
+No valid stable versions found for buster-mode

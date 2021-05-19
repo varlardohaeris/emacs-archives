@@ -1,0 +1,11 @@
+Package: mu4e-views
+Fetcher: github
+Source:  https://github.com/lordpretzel/mu4e-views.git
+
+Updating /mnt/store/melpa/working/mu4e-views/
+Built mu4e-views in 3.157s, finished at Wed May 19 01:36:24 2021
+ ✓ Success:
+ 56K -rw-r--r-- 1 root root  54K May 19 01:36 packages-stable/mu4e-views-0.5.el
+4.0K -rw-r--r-- 1 root root  459 May 19 01:36 packages-stable/mu4e-views-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mu4e-views-badge.svg
+4.0K -rw-r--r-- 1 root root  411 May 19 01:36 packages-stable/mu4e-views-readme.txt

@@ -1,2 +1,8 @@
-
-(dedicated . [(1 0 0) nil "A very simple minor mode for dedicated buffers" single ((:commit . "8275fb672f9cc4ba6682ebda0ef91db827e32992") (:keywords "dedicated" "buffer") (:authors ("Eric Crampton" . "eric@atdesk.com")) (:maintainer "Eric Crampton" . "eric@atdesk.com"))])
+(dedicated .
+	   [(1 0 0)
+	    nil "A very simple minor mode for dedicated buffers" single
+	    ((:commit . "8275fb672f9cc4ba6682ebda0ef91db827e32992")
+	     (:authors
+	      ("Eric Crampton" . "eric@atdesk.com"))
+	     (:maintainer "Eric Crampton" . "eric@atdesk.com")
+	     (:keywords "dedicated" "buffer"))])

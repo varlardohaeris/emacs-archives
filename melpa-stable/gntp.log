@@ -1,0 +1,11 @@
+Package: gntp
+Fetcher: github
+Source:  https://github.com/tekai/gntp.el.git
+
+Updating /mnt/store/melpa/working/gntp/
+Built gntp in 2.936s, finished at Wed May 19 04:37:44 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K May 19 04:37 packages-stable/gntp-0.1.el
+4.0K -rw-r--r-- 1 root root  246 May 19 04:37 packages-stable/gntp-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gntp-badge.svg
+4.0K -rw-r--r-- 1 root root  197 May 19 04:37 packages-stable/gntp-readme.txt

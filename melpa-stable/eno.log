@@ -1,0 +1,6 @@
+Package: eno
+Fetcher: github
+Source:  https://github.com/emacsattic/eno.git
+
+Updating /mnt/store/melpa/working/eno/
+No valid stable versions found for eno

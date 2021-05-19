@@ -1,0 +1,11 @@
+Package: repl-toggle
+Fetcher: git
+Source:  https://git.sr.ht/~tomterl/repl-toggle
+
+Updating /mnt/store/melpa/working/repl-toggle/
+Built repl-toggle in 3.788s, finished at Wed May 19 01:46:29 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:46 packages-stable/repl-toggle-0.7.1.el
+4.0K -rw-r--r-- 1 root root  350 May 19 01:46 packages-stable/repl-toggle-0.7.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/repl-toggle-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K May 19 01:46 packages-stable/repl-toggle-readme.txt

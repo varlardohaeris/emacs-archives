@@ -1,0 +1,6 @@
+Package: pretty-sha-path
+Fetcher: github
+Source:  https://github.com/alezost/pretty-sha-path.el.git
+
+Updating /mnt/store/melpa/working/pretty-sha-path/
+No valid stable versions found for pretty-sha-path

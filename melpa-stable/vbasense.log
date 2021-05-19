@@ -1,0 +1,31 @@
+Package: vbasense
+Fetcher: github
+Source:  https://github.com/aki2o/emacs-vbasense.git
+
+Updating /mnt/store/melpa/working/vbasense/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vbasense/
+  to /tmp/vbasensero1Byg/vbasense-0.1.1
+    vbasense.el -> vbasense.el
+    chkTLI.vbs -> chkTLI.vbs
+    getProgIDAll.vbs -> getProgIDAll.vbs
+    getTLI.vbs -> getTLI.vbs
+    chkTLI.bat -> chkTLI.bat
+    getProgIDAll.bat -> getProgIDAll.bat
+    getTLI.bat -> getTLI.bat
+Created vbasense-0.1.1.tar containing:
+  vbasense-0.1.1/
+  vbasense-0.1.1/chkTLI.bat
+  vbasense-0.1.1/chkTLI.vbs
+  vbasense-0.1.1/getProgIDAll.bat
+  vbasense-0.1.1/getProgIDAll.vbs
+  vbasense-0.1.1/getTLI.bat
+  vbasense-0.1.1/getTLI.vbs
+  vbasense-0.1.1/vbasense-pkg.el
+  vbasense-0.1.1/vbasense.el
+Built vbasense in 3.036s, finished at Wed May 19 01:53:49 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  457 May 19 01:53 packages-stable/vbasense-0.1.1.entry
+152K -rw-r--r-- 1 root root 150K May 19 01:53 packages-stable/vbasense-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/vbasense-badge.svg
+4.0K -rw-r--r-- 1 root root  258 May 19 01:53 packages-stable/vbasense-readme.txt

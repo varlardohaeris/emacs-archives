@@ -1,0 +1,6 @@
+Package: flycheck-liquidhs
+Fetcher: github
+Source:  https://github.com/ucsd-progsys/flycheck-liquidhs.el.git
+
+Updating /mnt/store/melpa/working/flycheck-liquidhs/
+No valid stable versions found for flycheck-liquidhs

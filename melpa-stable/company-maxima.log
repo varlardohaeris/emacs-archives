@@ -1,0 +1,11 @@
+Package: company-maxima
+Fetcher: gitlab
+Source:  https://gitlab.com/sasanidas/maxima.git
+
+Updating /mnt/store/melpa/working/company-maxima/
+Built company-maxima in 3.442s, finished at Wed May 19 04:24:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K May 19 04:24 packages-stable/company-maxima-0.7.6.el
+4.0K -rw-r--r-- 1 root root  422 May 19 04:24 packages-stable/company-maxima-0.7.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-maxima-badge.svg
+4.0K -rw-r--r-- 1 root root  213 May 19 04:24 packages-stable/company-maxima-readme.txt

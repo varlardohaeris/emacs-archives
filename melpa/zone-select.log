@@ -1,0 +1,11 @@
+Package: zone-select
+Fetcher: github
+Source:  https://github.com/kawabata/zone-select.git
+
+Updating /mnt/store/melpa/working/zone-select/
+Built zone-select in 4.036s, finished at Wed May 19 04:17:45 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K May 19 04:17 packages/zone-select-20160118.1419.el
+4.0K -rw-r--r-- 1 root root  423 May 19 04:17 packages/zone-select-20160118.1419.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:17 packages/zone-select-badge.svg
+4.0K -rw-r--r-- 1 root root   51 May 19 04:17 packages/zone-select-readme.txt

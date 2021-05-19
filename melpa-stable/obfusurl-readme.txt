@@ -1,3 +1,4 @@
+
 obfusurl.el provides `obfusurl', a command that will obfuscate an
 URL under the cursor. This might be useful if you are writing out an URL
 for someone but the URL itself might spoil the surprise.

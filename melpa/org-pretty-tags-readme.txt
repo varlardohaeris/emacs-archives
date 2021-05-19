@@ -1,7 +1,5 @@
 Display text or image surrogates for Org mode tags.
 
-See images at https://gitlab.com/marcowahl/org-pretty-tags.
-
 In Org mode only a small set of characters is allowed in tags.  A
 wider range of symbols might increase readability and joy.
 

@@ -1,0 +1,11 @@
+Package: kaesar-file
+Fetcher: github
+Source:  https://github.com/mhayashi1120/Emacs-kaesar.git
+
+Updating /mnt/store/melpa/working/kaesar-file/
+Built kaesar-file in 4.111s, finished at Wed May 19 04:45:24 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.4K May 19 04:45 packages-stable/kaesar-file-0.9.0.el
+4.0K -rw-r--r-- 1 root root  452 May 19 04:45 packages-stable/kaesar-file-0.9.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kaesar-file-badge.svg
+4.0K -rw-r--r-- 1 root root  260 May 19 04:45 packages-stable/kaesar-file-readme.txt

@@ -1,0 +1,6 @@
+Package: dactyl-mode
+Fetcher: github
+Source:  https://github.com/luxbock/dactyl-mode.git
+
+Updating /mnt/store/melpa/working/dactyl-mode/
+No valid stable versions found for dactyl-mode

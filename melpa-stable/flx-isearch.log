@@ -1,0 +1,6 @@
+Package: flx-isearch
+Fetcher: github
+Source:  https://github.com/PythonNut/flx-isearch.git
+
+Updating /mnt/store/melpa/working/flx-isearch/
+No valid stable versions found for flx-isearch

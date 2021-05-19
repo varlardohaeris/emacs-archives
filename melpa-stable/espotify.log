@@ -1,0 +1,6 @@
+Package: espotify
+Fetcher: git
+Source:  https://codeberg.org/jao/espotify
+
+Updating /mnt/store/melpa/working/espotify/
+No valid stable versions found for espotify

@@ -1,0 +1,11 @@
+Package: aes
+Fetcher: github
+Source:  https://github.com/Sauermann/emacs-aes.git
+
+Updating /mnt/store/melpa/working/aes/
+Built aes in 3.101s, finished at Wed May 19 04:18:51 2021
+ ✓ Success:
+ 64K -rw-r--r-- 1 root root  61K May 19 04:18 packages-stable/aes-0.9.el
+4.0K -rw-r--r-- 1 root root  372 May 19 04:18 packages-stable/aes-0.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/aes-badge.svg
+8.0K -rw-r--r-- 1 root root 5.0K May 19 04:18 packages-stable/aes-readme.txt

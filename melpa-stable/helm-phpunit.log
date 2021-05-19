@@ -1,0 +1,6 @@
+Package: helm-phpunit
+Fetcher: github
+Source:  https://github.com/eric-hansen/helm-phpunit.git
+
+Updating /mnt/store/melpa/working/helm-phpunit/
+No valid stable versions found for helm-phpunit

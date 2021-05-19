@@ -1,0 +1,6 @@
+Package: undo-fu-session
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-undo-fu-session.git
+
+Updating /mnt/store/melpa/working/undo-fu-session/
+No valid stable versions found for undo-fu-session

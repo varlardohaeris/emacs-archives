@@ -1,0 +1,6 @@
+Package: eimp
+Fetcher: github
+Source:  https://github.com/nicferrier/eimp.git
+
+Updating /mnt/store/melpa/working/eimp/
+No valid stable versions found for eimp

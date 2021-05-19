@@ -1,0 +1,6 @@
+Package: google
+Fetcher: github
+Source:  https://github.com/hober/google-el.git
+
+Updating /mnt/store/melpa/working/google/
+No valid stable versions found for google

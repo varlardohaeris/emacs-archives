@@ -1,0 +1,11 @@
+Package: wgrep-ag
+Fetcher: github
+Source:  https://github.com/mhayashi1120/Emacs-wgrep.git
+
+Updating /mnt/store/melpa/working/wgrep-ag/
+Built wgrep-ag in 3.002s, finished at Wed May 19 01:54:56 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K May 19 01:54 packages-stable/wgrep-ag-2.3.2.el
+4.0K -rw-r--r-- 1 root root  439 May 19 01:54 packages-stable/wgrep-ag-2.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/wgrep-ag-badge.svg
+4.0K -rw-r--r-- 1 root root   84 May 19 01:54 packages-stable/wgrep-ag-readme.txt

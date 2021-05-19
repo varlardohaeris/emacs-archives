@@ -16,7 +16,7 @@ Interact with Bundler from Emacs.
    *Bundler* as the target buffer. This exists so the output won't mess
    with the default buffer used by M-& and async-shell-command.
 
-Install
+; Install
 
 $ cd ~/.emacs.d/vendor
 $ git clone git://github.com/endofunky/bundler.el.git

@@ -1,0 +1,6 @@
+Package: itasca
+Fetcher: github
+Source:  https://github.com/jkfurtney/itasca-emacs.git
+
+Updating /mnt/store/melpa/working/itasca/
+No valid stable versions found for itasca

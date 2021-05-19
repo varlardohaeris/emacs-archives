@@ -1,0 +1,6 @@
+Package: bar-cursor
+Fetcher: github
+Source:  https://github.com/ajsquared/bar-cursor.git
+
+Updating /mnt/store/melpa/working/bar-cursor/
+No valid stable versions found for bar-cursor

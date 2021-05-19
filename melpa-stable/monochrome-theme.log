@@ -1,0 +1,6 @@
+Package: monochrome-theme
+Fetcher: github
+Source:  https://github.com/fxn/monochrome-theme.el.git
+
+Updating /mnt/store/melpa/working/monochrome-theme/
+No valid stable versions found for monochrome-theme

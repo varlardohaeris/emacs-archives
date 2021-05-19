@@ -1,0 +1,11 @@
+Package: better-shell
+Fetcher: github
+Source:  https://github.com/killdash9/better-shell.git
+
+Updating /mnt/store/melpa/working/better-shell/
+Built better-shell in 3.673s, finished at Wed May 19 04:21:03 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:21 packages-stable/better-shell-1.2.1.el
+4.0K -rw-r--r-- 1 root root  359 May 19 04:21 packages-stable/better-shell-1.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/better-shell-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 04:21 packages-stable/better-shell-readme.txt

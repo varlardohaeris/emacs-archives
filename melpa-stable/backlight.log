@@ -1,0 +1,6 @@
+Package: backlight
+Fetcher: github
+Source:  https://github.com/mschuldt/backlight.el.git
+
+Updating /mnt/store/melpa/working/backlight/
+No valid stable versions found for backlight

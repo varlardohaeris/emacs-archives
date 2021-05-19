@@ -1,0 +1,6 @@
+Package: flymake-puppet
+Fetcher: github
+Source:  https://github.com/benprew/flymake-puppet.git
+
+Updating /mnt/store/melpa/working/flymake-puppet/
+No valid stable versions found for flymake-puppet

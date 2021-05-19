@@ -1,0 +1,6 @@
+Package: rcirc-alertify
+Fetcher: github
+Source:  https://github.com/fgallina/rcirc-alertify.git
+
+Updating /mnt/store/melpa/working/rcirc-alertify/
+No valid stable versions found for rcirc-alertify

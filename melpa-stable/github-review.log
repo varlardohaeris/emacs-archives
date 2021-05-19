@@ -1,0 +1,6 @@
+Package: github-review
+Fetcher: github
+Source:  https://github.com/charignon/github-review.git
+
+Updating /mnt/store/melpa/working/github-review/
+No valid stable versions found for github-review

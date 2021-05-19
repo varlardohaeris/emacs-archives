@@ -1,0 +1,11 @@
+Package: move-dup
+Fetcher: github
+Source:  https://github.com/wyuenho/move-dup.git
+
+Updating /mnt/store/melpa/working/move-dup/
+Built move-dup in 3.875s, finished at Wed May 19 01:36:05 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.5K May 19 01:36 packages-stable/move-dup-2.0.0.el
+4.0K -rw-r--r-- 1 root root  409 May 19 01:36 packages-stable/move-dup-2.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/move-dup-badge.svg
+4.0K -rw-r--r-- 1 root root  971 May 19 01:36 packages-stable/move-dup-readme.txt

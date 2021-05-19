@@ -1,2 +1,6 @@
-
-(helm-ls-git . [(1 9 1) ((helm (1 7 8))) "list git files." single ((:commit . "7b7b6dc2554603ad98412927f84a803625069ab3"))])
+(helm-ls-git .
+	     [(1 9 1)
+	      ((helm
+		(1 7 8)))
+	      "list git files." single
+	      ((:commit . "7b7b6dc2554603ad98412927f84a803625069ab3"))])

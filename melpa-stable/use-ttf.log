@@ -1,0 +1,11 @@
+Package: use-ttf
+Fetcher: github
+Source:  https://github.com/jcs-elpa/use-ttf.git
+
+Updating /mnt/store/melpa/working/use-ttf/
+Built use-ttf in 3.104s, finished at Wed May 19 01:53:41 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.5K May 19 01:53 packages-stable/use-ttf-0.1.1.el
+4.0K -rw-r--r-- 1 root root  361 May 19 01:53 packages-stable/use-ttf-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/use-ttf-badge.svg
+4.0K -rw-r--r-- 1 root root   45 May 19 01:53 packages-stable/use-ttf-readme.txt

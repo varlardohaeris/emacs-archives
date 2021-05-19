@@ -1,0 +1,6 @@
+Package: elquery
+Fetcher: github
+Source:  https://github.com/AdamNiederer/elquery.git
+
+Updating /mnt/store/melpa/working/elquery/
+No valid stable versions found for elquery

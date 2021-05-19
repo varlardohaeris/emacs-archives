@@ -1,0 +1,29 @@
+Package: paradox
+Fetcher: github
+Source:  https://github.com/Malabarba/paradox.git
+
+Updating /mnt/store/melpa/working/paradox/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/paradox/
+  to /tmp/paradoxDjctdx/paradox-2.5.4
+    paradox-commit-list.el -> paradox-commit-list.el
+    paradox-core.el -> paradox-core.el
+    paradox-execute.el -> paradox-execute.el
+    paradox-github.el -> paradox-github.el
+    paradox-menu.el -> paradox-menu.el
+    paradox.el -> paradox.el
+Created paradox-2.5.4.tar containing:
+  paradox-2.5.4/
+  paradox-2.5.4/paradox-commit-list.el
+  paradox-2.5.4/paradox-core.el
+  paradox-2.5.4/paradox-execute.el
+  paradox-2.5.4/paradox-github.el
+  paradox-2.5.4/paradox-menu.el
+  paradox-2.5.4/paradox-pkg.el
+  paradox-2.5.4/paradox.el
+Built paradox in 3.119s, finished at Wed May 19 01:41:56 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  528 May 19 01:41 packages-stable/paradox-2.5.4.entry
+100K -rw-r--r-- 1 root root 100K May 19 01:41 packages-stable/paradox-2.5.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/paradox-badge.svg
+4.0K -rw-r--r-- 1 root root 2.9K May 19 01:41 packages-stable/paradox-readme.txt

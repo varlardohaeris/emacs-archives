@@ -1,0 +1,11 @@
+Package: fantom-theme
+Fetcher: github
+Source:  https://github.com/adsva/fantom-emacs-theme.git
+
+Updating /mnt/store/melpa/working/fantom-theme/
+Built fantom-theme in 3.528s, finished at Wed May 19 04:33:38 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:33 packages-stable/fantom-theme-1.0.el
+4.0K -rw-r--r-- 1 root root  300 May 19 04:33 packages-stable/fantom-theme-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/fantom-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  127 May 19 04:33 packages-stable/fantom-theme-readme.txt

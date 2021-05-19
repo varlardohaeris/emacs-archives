@@ -1,0 +1,6 @@
+Package: carbon-now-sh
+Fetcher: github
+Source:  https://github.com/veelenga/carbon-now-sh.el.git
+
+Updating /mnt/store/melpa/working/carbon-now-sh/
+No valid stable versions found for carbon-now-sh

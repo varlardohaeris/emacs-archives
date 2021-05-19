@@ -1,0 +1,6 @@
+Package: magit-rbr
+Fetcher: github
+Source:  https://github.com/fanatoly/magit-rbr.git
+
+Updating /mnt/store/melpa/working/magit-rbr/
+No valid stable versions found for magit-rbr

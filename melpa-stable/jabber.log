@@ -1,0 +1,6 @@
+Package: jabber
+Fetcher: github
+Source:  https://github.com/legoscia/emacs-jabber.git
+
+Updating /mnt/store/melpa/working/jabber/
+No valid stable versions found for jabber

@@ -1,0 +1,10 @@
+Package: helm-firefox
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-firefox.git
+
+Updating /mnt/store/melpa/working/helm-firefox/
+Built helm-firefox in 3.186s, finished at Wed May 19 04:40:17 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K May 19 04:40 packages-stable/helm-firefox-1.3.el
+4.0K -rw-r--r-- 1 root root  254 May 19 04:40 packages-stable/helm-firefox-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-firefox-badge.svg

@@ -1,0 +1,6 @@
+Package: proc-net
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-proc-net.git
+
+Updating /mnt/store/melpa/working/proc-net/
+No valid stable versions found for proc-net

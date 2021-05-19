@@ -1,0 +1,6 @@
+Package: hemera-theme
+Fetcher: github
+Source:  https://github.com/guidoschmidt/emacs-hemera-theme.git
+
+Updating /mnt/store/melpa/working/hemera-theme/
+No valid stable versions found for hemera-theme

@@ -1,0 +1,6 @@
+Package: white-theme
+Fetcher: github
+Source:  https://github.com/anler/white-theme.el.git
+
+Updating /mnt/store/melpa/working/white-theme/
+No valid stable versions found for white-theme

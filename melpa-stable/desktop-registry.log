@@ -1,0 +1,11 @@
+Package: desktop-registry
+Fetcher: github
+Source:  https://github.com/ryuslash/desktop-registry.git
+
+Updating /mnt/store/melpa/working/desktop-registry/
+Built desktop-registry in 3.222s, finished at Wed May 19 04:27:05 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:27 packages-stable/desktop-registry-1.2.0.el
+4.0K -rw-r--r-- 1 root root  370 May 19 04:27 packages-stable/desktop-registry-1.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/desktop-registry-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K May 19 04:27 packages-stable/desktop-registry-readme.txt

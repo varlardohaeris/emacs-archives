@@ -1,0 +1,6 @@
+Package: aws-ec2
+Fetcher: github
+Source:  https://github.com/Yuki-Inoue/aws.el.git
+
+Updating /mnt/store/melpa/working/aws-ec2/
+No valid stable versions found for aws-ec2

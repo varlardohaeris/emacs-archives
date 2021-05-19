@@ -1,0 +1,6 @@
+Package: inline-docs
+Fetcher: github
+Source:  https://github.com/stardiviner/inline-docs.el.git
+
+Updating /mnt/store/melpa/working/inline-docs/
+No valid stable versions found for inline-docs

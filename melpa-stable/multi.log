@@ -1,0 +1,33 @@
+Package: multi
+Fetcher: github
+Source:  https://github.com/kurisuwhyte/emacs-multi.git
+
+Updating /mnt/store/melpa/working/multi/
+Built multi in 3.667s, finished at Wed May 19 01:36:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K May 19 01:36 packages-stable/multi-2.0.1.el
+4.0K -rw-r--r-- 1 root root  397 May 19 01:36 packages-stable/multi-2.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/multi-badge.svg
+4.0K -rw-r--r-- 1 root root  197 May 19 01:36 packages-stable/multi-compile.log
+4.0K -rw-r--r-- 1 root root  540 May 18 22:22 packages-stable/multi-line-0.1.5.entry
+ 52K -rw-r--r-- 1 root root  50K May 18 22:22 packages-stable/multi-line-0.1.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:22 packages-stable/multi-line-badge.svg
+4.0K -rw-r--r-- 1 root root  325 May 18 22:22 packages-stable/multi-line-readme.txt
+4.0K -rw-r--r-- 1 root root  138 May 19 01:36 packages-stable/multi-line.log
+4.0K -rw-r--r-- 1 root root   98 May 19 01:36 packages-stable/multi-project.log
+ 12K -rw-r--r-- 1 root root  12K May 18 22:22 packages-stable/multi-run-1.el
+4.0K -rw-r--r-- 1 root root  380 May 18 22:22 packages-stable/multi-run-1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:22 packages-stable/multi-run-badge.svg
+4.0K -rw-r--r-- 1 root root  145 May 18 22:22 packages-stable/multi-run-readme.txt
+4.0K -rw-r--r-- 1 root root  132 May 19 01:36 packages-stable/multi-run.log
+ 32K -rw-r--r-- 1 root root  32K Jun 24  2019 packages-stable/multi-term-1.2.el
+4.0K -rw-r--r-- 1 root root  369 Jun 24  2019 packages-stable/multi-term-1.2.entry
+4.0K -rw-r--r-- 1 root root  963 Jun 24  2019 packages-stable/multi-term-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Jun 24  2019 packages-stable/multi-term-readme.txt
+4.0K -rw-r--r-- 1 root root  141 May 19 01:36 packages-stable/multi-term.log
+   0 -rw-r--r-- 1 root root    0 May 19 01:36 packages-stable/multi-vterm.log
+4.0K -rw-r--r-- 1 root root  333 May 18 22:22 packages-stable/multi-web-mode-0.2.1.entry
+ 32K -rw-r--r-- 1 root root  30K May 18 22:22 packages-stable/multi-web-mode-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:22 packages-stable/multi-web-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  291 May 18 22:22 packages-stable/multi-web-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 1.2K May 18 22:22 packages-stable/multi-web-mode.log

@@ -1,0 +1,17 @@
+(cfn-mode .
+	  [(1 0 2)
+	   ((emacs
+	     (26 0))
+	    (f
+	     (0 20 0))
+	    (s
+	     (1 12 0))
+	    (yaml-mode
+	     (0 0 13)))
+	   "AWS cloudformation mode" tar
+	   ((:commit . "f3462930067de8f79c3d2e8da14d1924f609d3ab")
+	    (:authors
+	     ("William Orr" . "will@worrbase.com"))
+	    (:maintainer "William Orr" . "will@worrbase.com")
+	    (:keywords "convenience" "languages" "tools")
+	    (:url . "https://gitlab.com/worr/cfn-mode"))])

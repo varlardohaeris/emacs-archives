@@ -1,0 +1,6 @@
+Package: latexdiff
+Fetcher: github
+Source:  https://github.com/galaunay/latexdiff.el.git
+
+Updating /mnt/store/melpa/working/latexdiff/
+No valid stable versions found for latexdiff

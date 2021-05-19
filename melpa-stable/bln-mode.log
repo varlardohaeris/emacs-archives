@@ -1,0 +1,6 @@
+Package: bln-mode
+Fetcher: github
+Source:  https://github.com/mgrachten/bln-mode.git
+
+Updating /mnt/store/melpa/working/bln-mode/
+No valid stable versions found for bln-mode

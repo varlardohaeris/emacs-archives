@@ -1,0 +1,11 @@
+Package: phan
+Fetcher: github
+Source:  https://github.com/emacs-php/phan.el.git
+
+Updating /mnt/store/melpa/working/phan/
+Built phan in 3.097s, finished at Wed May 19 01:42:41 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 01:42 packages-stable/phan-0.0.4.el
+4.0K -rw-r--r-- 1 root root  391 May 19 01:42 packages-stable/phan-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phan-badge.svg
+4.0K -rw-r--r-- 1 root root  287 May 19 01:42 packages-stable/phan-readme.txt

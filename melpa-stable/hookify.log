@@ -1,0 +1,11 @@
+Package: hookify
+Fetcher: github
+Source:  https://github.com/Silex/hookify.git
+
+Updating /mnt/store/melpa/working/hookify/
+Built hookify in 3.131s, finished at Wed May 19 04:42:06 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.2K May 19 04:42 packages-stable/hookify-0.2.1.el
+4.0K -rw-r--r-- 1 root root  414 May 19 04:42 packages-stable/hookify-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hookify-badge.svg
+4.0K -rw-r--r-- 1 root root   70 May 19 04:42 packages-stable/hookify-readme.txt

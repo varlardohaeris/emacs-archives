@@ -1,3 +1,4 @@
+
 Import and export of vCards as defined in RFC 2425 and RFC 2426
 to/from The Insidious Big Brother Database (BBDB) v3.
 
@@ -69,7 +70,7 @@ Mapping of vCard types to BBDB types:
 | ROLE                    | Xfields<role                            |
 | AGENT                   | Xfields<agent                           |
 | MAILER                  | Xfields<mailer                          |
-| UID                     | Xfields<uid                             |
+| UID                     | Xfields<vcard-uid                       |
 | PRODID                  | Xfields<prodid                          |
 | CLASS                   | Xfields<class                           |
 | X-BBDB-FOO              | Xfields<foo                             |

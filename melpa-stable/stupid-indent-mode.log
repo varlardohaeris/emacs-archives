@@ -1,0 +1,6 @@
+Package: stupid-indent-mode
+Fetcher: git
+Source:  https://gist.github.com/5487564.git
+
+Updating /mnt/store/melpa/working/stupid-indent-mode/
+No valid stable versions found for stupid-indent-mode

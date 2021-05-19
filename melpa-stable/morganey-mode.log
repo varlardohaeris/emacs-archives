@@ -1,0 +1,6 @@
+Package: morganey-mode
+Fetcher: github
+Source:  https://github.com/morganey-lang/morganey-mode.git
+
+Updating /mnt/store/melpa/working/morganey-mode/
+No valid stable versions found for morganey-mode

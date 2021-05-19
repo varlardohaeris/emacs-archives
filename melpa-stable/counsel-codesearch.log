@@ -1,0 +1,6 @@
+Package: counsel-codesearch
+Fetcher: github
+Source:  https://github.com/abingham/emacs-counsel-codesearch.git
+
+Updating /mnt/store/melpa/working/counsel-codesearch/
+No valid stable versions found for counsel-codesearch

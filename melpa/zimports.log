@@ -1,0 +1,11 @@
+Package: zimports
+Fetcher: github
+Source:  https://github.com/schmir/zimports.el.git
+
+Updating /mnt/store/melpa/working/zimports/
+Built zimports in 4.224s, finished at Wed May 19 04:17:39 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 4.0K May 19 04:17 packages/zimports-20200809.2035.el
+4.0K -rw-r--r-- 1 root root  259 May 19 04:17 packages/zimports-20200809.2035.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:17 packages/zimports-badge.svg
+4.0K -rw-r--r-- 1 root root   49 May 19 04:17 packages/zimports-readme.txt

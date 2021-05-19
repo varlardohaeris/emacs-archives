@@ -1,3 +1,4 @@
+
 This file provides `git-time-metric-record', which records time with gtm. Essentially it calls `gtm record [options] <file_name>'.
 
 Usage:

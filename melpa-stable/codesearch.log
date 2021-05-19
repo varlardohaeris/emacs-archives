@@ -1,0 +1,6 @@
+Package: codesearch
+Fetcher: github
+Source:  https://github.com/abingham/emacs-codesearch.git
+
+Updating /mnt/store/melpa/working/codesearch/
+No valid stable versions found for codesearch

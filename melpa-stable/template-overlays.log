@@ -1,0 +1,6 @@
+Package: template-overlays
+Fetcher: github
+Source:  https://github.com/mmontone/template-overlays.git
+
+Updating /mnt/store/melpa/working/template-overlays/
+No valid stable versions found for template-overlays

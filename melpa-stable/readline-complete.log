@@ -1,0 +1,6 @@
+Package: readline-complete
+Fetcher: github
+Source:  https://github.com/monsanto/readline-complete.el.git
+
+Updating /mnt/store/melpa/working/readline-complete/
+No valid stable versions found for readline-complete

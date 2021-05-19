@@ -1,0 +1,41 @@
+Package: tree-sitter
+Fetcher: github
+Source:  https://github.com/ubolonton/emacs-tree-sitter.git
+
+Updating /mnt/store/melpa/working/tree-sitter/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tree-sitter/
+  to /tmp/tree-sitterQIPZUf/tree-sitter-20210328.434
+  ! lisp/tree-sitter-cli.el -> tree-sitter-cli.el
+  ! lisp/tree-sitter-debug.el -> tree-sitter-debug.el
+  ! lisp/tree-sitter-extras.el -> tree-sitter-extras.el
+  ! lisp/tree-sitter-hl.el -> tree-sitter-hl.el
+  ! lisp/tree-sitter-load.el -> tree-sitter-load.el
+  ! lisp/tree-sitter-query.el -> tree-sitter-query.el
+  ! lisp/tree-sitter.el -> tree-sitter.el
+Created tree-sitter-20210328.434.tar containing:
+  tree-sitter-20210328.434/
+  tree-sitter-20210328.434/tree-sitter-cli.el
+  tree-sitter-20210328.434/tree-sitter-debug.el
+  tree-sitter-20210328.434/tree-sitter-extras.el
+  tree-sitter-20210328.434/tree-sitter-hl.el
+  tree-sitter-20210328.434/tree-sitter-load.el
+  tree-sitter-20210328.434/tree-sitter-pkg.el
+  tree-sitter-20210328.434/tree-sitter-query.el
+  tree-sitter-20210328.434/tree-sitter.el
+Built tree-sitter in 5.258s, finished at Wed May 19 04:11:20 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  461 May 19 04:11 packages/tree-sitter-20210328.434.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:11 packages/tree-sitter-20210328.434.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/tree-sitter-badge.svg
+ 24K -rw-r--r-- 1 root root  23K May 19 04:11 packages/tree-sitter-indent-20210322.2033.el
+4.0K -rw-r--r-- 1 root root  533 May 19 00:56 packages/tree-sitter-indent-20210322.2033.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 00:56 packages/tree-sitter-indent-badge.svg
+4.0K -rw-r--r-- 1 root root  532 May 19 00:56 packages/tree-sitter-indent-readme.txt
+4.0K -rw-r--r-- 1 root root  163 May 19 04:11 packages/tree-sitter-indent.log
+4.0K -rw-r--r-- 1 root root  489 May 19 00:56 packages/tree-sitter-langs-20210314.1704.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 00:56 packages/tree-sitter-langs-20210314.1704.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 00:56 packages/tree-sitter-langs-badge.svg
+4.0K -rw-r--r-- 1 root root  786 May 19 00:56 packages/tree-sitter-langs-readme.txt
+4.0K -rw-r--r-- 1 root root  447 May 19 04:11 packages/tree-sitter-langs.log
+4.0K -rw-r--r-- 1 root root  318 May 19 04:11 packages/tree-sitter-readme.txt

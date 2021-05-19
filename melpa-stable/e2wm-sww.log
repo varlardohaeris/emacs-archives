@@ -1,0 +1,11 @@
+Package: e2wm-sww
+Fetcher: github
+Source:  https://github.com/aki2o/e2wm-sww.git
+
+Updating /mnt/store/melpa/working/e2wm-sww/
+Built e2wm-sww in 2.905s, finished at Wed May 19 04:29:07 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 04:29 packages-stable/e2wm-sww-0.0.3.el
+4.0K -rw-r--r-- 1 root root  387 May 19 04:29 packages-stable/e2wm-sww-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/e2wm-sww-badge.svg
+4.0K -rw-r--r-- 1 root root   63 May 19 04:29 packages-stable/e2wm-sww-readme.txt

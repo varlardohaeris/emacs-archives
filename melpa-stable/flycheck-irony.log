@@ -1,0 +1,11 @@
+Package: flycheck-irony
+Fetcher: github
+Source:  https://github.com/Sarcasm/flycheck-irony.git
+
+Updating /mnt/store/melpa/working/flycheck-irony/
+Built flycheck-irony in 3.083s, finished at Wed May 19 04:34:53 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.3K May 19 04:34 packages-stable/flycheck-irony-0.1.0.el
+4.0K -rw-r--r-- 1 root root  452 May 19 04:34 packages-stable/flycheck-irony-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-irony-badge.svg
+4.0K -rw-r--r-- 1 root root  165 May 19 04:34 packages-stable/flycheck-irony-readme.txt

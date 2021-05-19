@@ -1,0 +1,21 @@
+Package: mykie
+Fetcher: github
+Source:  https://github.com/yuutayamada/mykie-el.git
+
+Updating /mnt/store/melpa/working/mykie/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mykie/
+  to /tmp/mykiec8aJUf/mykie-0.3.1
+  ! lisp/helm-mykie-keywords.el -> helm-mykie-keywords.el
+  ! lisp/mykie.el -> mykie.el
+Created mykie-0.3.1.tar containing:
+  mykie-0.3.1/
+  mykie-0.3.1/helm-mykie-keywords.el
+  mykie-0.3.1/mykie-pkg.el
+  mykie-0.3.1/mykie.el
+Built mykie in 3.676s, finished at Wed May 19 01:36:47 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  410 May 19 01:36 packages-stable/mykie-0.3.1.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:36 packages-stable/mykie-0.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mykie-badge.svg
+4.0K -rw-r--r-- 1 root root  799 May 19 01:36 packages-stable/mykie-readme.txt

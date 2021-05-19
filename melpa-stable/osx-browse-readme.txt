@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'osx-browse)
@@ -117,7 +118,7 @@ TODO
 
     Examine the process object returned by start-process.
 
-License
+; License
 
 Simplified BSD License
 

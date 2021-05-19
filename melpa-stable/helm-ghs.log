@@ -1,0 +1,6 @@
+Package: helm-ghs
+Fetcher: github
+Source:  https://github.com/iory/emacs-helm-ghs.git
+
+Updating /mnt/store/melpa/working/helm-ghs/
+No valid stable versions found for helm-ghs

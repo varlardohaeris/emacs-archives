@@ -1,3 +1,4 @@
+
 Main function is `centi-assign'.  It's very similar to <f3>, except
 `centi-assign' prompts you for a key combination to use, while for
 <f3> this key combination is always <f4>.

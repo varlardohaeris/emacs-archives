@@ -1,0 +1,6 @@
+Package: smyx-theme
+Fetcher: github
+Source:  https://github.com/tacit7/smyx.git
+
+Updating /mnt/store/melpa/working/smyx-theme/
+No valid stable versions found for smyx-theme

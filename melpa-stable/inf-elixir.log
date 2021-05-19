@@ -1,0 +1,11 @@
+Package: inf-elixir
+Fetcher: github
+Source:  https://github.com/J3RN/inf-elixir.git
+
+Updating /mnt/store/melpa/working/inf-elixir/
+Built inf-elixir in 3.471s, finished at Wed May 19 04:43:14 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K May 19 04:43 packages-stable/inf-elixir-2.1.0.el
+4.0K -rw-r--r-- 1 root root  430 May 19 04:43 packages-stable/inf-elixir-2.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/inf-elixir-badge.svg
+4.0K -rw-r--r-- 1 root root  124 May 19 04:43 packages-stable/inf-elixir-readme.txt

@@ -1,0 +1,6 @@
+Package: py-test
+Fetcher: github
+Source:  https://github.com/Bogdanp/py-test.el.git
+
+Updating /mnt/store/melpa/working/py-test/
+No valid stable versions found for py-test

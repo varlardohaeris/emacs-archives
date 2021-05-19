@@ -1,0 +1,6 @@
+Package: micgoline
+Fetcher: github
+Source:  https://github.com/yzprofile/micgoline.git
+
+Updating /mnt/store/melpa/working/micgoline/
+No valid stable versions found for micgoline

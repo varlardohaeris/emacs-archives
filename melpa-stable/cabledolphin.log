@@ -1,0 +1,6 @@
+Package: cabledolphin
+Fetcher: github
+Source:  https://github.com/legoscia/cabledolphin.git
+
+Updating /mnt/store/melpa/working/cabledolphin/
+No valid stable versions found for cabledolphin

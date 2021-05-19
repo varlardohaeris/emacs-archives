@@ -1,0 +1,36 @@
+Package: lsp-ui
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-ui.git
+
+Updating /mnt/store/melpa/working/lsp-ui/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lsp-ui/
+  to /tmp/lsp-uikm1dug/lsp-ui-20210330.428
+    lsp-ui-doc.el -> lsp-ui-doc.el
+    lsp-ui-flycheck.el -> lsp-ui-flycheck.el
+    lsp-ui-imenu.el -> lsp-ui-imenu.el
+    lsp-ui-peek.el -> lsp-ui-peek.el
+    lsp-ui-sideline.el -> lsp-ui-sideline.el
+    lsp-ui-util.el -> lsp-ui-util.el
+    lsp-ui.el -> lsp-ui.el
+    lsp-ui-doc.html -> lsp-ui-doc.html
+    resources => resources
+Created lsp-ui-20210330.428.tar containing:
+  lsp-ui-20210330.428/
+  lsp-ui-20210330.428/lsp-ui-doc.el
+  lsp-ui-20210330.428/lsp-ui-doc.html
+  lsp-ui-20210330.428/lsp-ui-flycheck.el
+  lsp-ui-20210330.428/lsp-ui-imenu.el
+  lsp-ui-20210330.428/lsp-ui-peek.el
+  lsp-ui-20210330.428/lsp-ui-pkg.el
+  lsp-ui-20210330.428/lsp-ui-sideline.el
+  lsp-ui-20210330.428/lsp-ui-util.el
+  lsp-ui-20210330.428/lsp-ui.el
+  lsp-ui-20210330.428/resources/
+  lsp-ui-20210330.428/resources/lightbulb.png
+Built lsp-ui in 5.115s, finished at Wed May 19 03:41:36 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  485 May 19 03:41 packages/lsp-ui-20210330.428.entry
+160K -rw-r--r-- 1 root root 160K May 19 03:41 packages/lsp-ui-20210330.428.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:41 packages/lsp-ui-badge.svg
+4.0K -rw-r--r-- 1 root root  104 May 19 03:41 packages/lsp-ui-readme.txt

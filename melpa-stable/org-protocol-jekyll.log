@@ -1,0 +1,11 @@
+Package: org-protocol-jekyll
+Fetcher: github
+Source:  https://github.com/vonavi/org-protocol-jekyll.git
+
+Updating /mnt/store/melpa/working/org-protocol-jekyll/
+Built org-protocol-jekyll in 2.827s, finished at Wed May 19 01:39:48 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:39 packages-stable/org-protocol-jekyll-0.1.el
+4.0K -rw-r--r-- 1 root root  291 May 19 01:39 packages-stable/org-protocol-jekyll-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-protocol-jekyll-badge.svg
+4.0K -rw-r--r-- 1 root root  386 May 19 01:39 packages-stable/org-protocol-jekyll-readme.txt

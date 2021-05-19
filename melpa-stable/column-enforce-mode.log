@@ -1,0 +1,6 @@
+Package: column-enforce-mode
+Fetcher: github
+Source:  https://github.com/jordonbiondo/column-enforce-mode.git
+
+Updating /mnt/store/melpa/working/column-enforce-mode/
+No valid stable versions found for column-enforce-mode

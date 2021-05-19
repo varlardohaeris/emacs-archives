@@ -1,0 +1,12 @@
+Package: helm-ag
+Fetcher: github
+Source:  https://github.com/emacsorphanage/helm-ag.git
+
+Updating /mnt/store/melpa/working/helm-ag/
+Built helm-ag in 2.973s, finished at Wed May 19 04:39:44 2021
+ ✓ Success:
+ 56K -rw-r--r-- 1 root root  54K May 19 04:39 packages-stable/helm-ag-0.64.el
+4.0K -rw-r--r-- 1 root root  353 May 19 04:39 packages-stable/helm-ag-0.64.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-ag-badge.svg
+4.0K -rw-r--r-- 1 root root  180 May 19 04:39 packages-stable/helm-ag-r.log
+4.0K -rw-r--r-- 1 root root  206 May 19 04:39 packages-stable/helm-ag-readme.txt

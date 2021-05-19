@@ -1,0 +1,11 @@
+Package: org-special-block-extras
+Fetcher: github
+Source:  https://github.com/alhassy/org-special-block-extras.git
+
+Updating /mnt/store/melpa/working/org-special-block-extras/
+Built org-special-block-extras in 7.825s, finished at Wed May 19 01:40:10 2021
+ ✓ Success:
+ 64K -rw-r--r-- 1 root root  64K May 19 01:40 packages-stable/org-special-block-extras-2.el
+4.0K -rw-r--r-- 1 root root  577 May 19 01:40 packages-stable/org-special-block-extras-2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-special-block-extras-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K May 19 01:40 packages-stable/org-special-block-extras-readme.txt

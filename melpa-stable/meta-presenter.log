@@ -1,0 +1,11 @@
+Package: meta-presenter
+Fetcher: github
+Source:  https://github.com/myTerminal/meta-presenter.git
+
+Updating /mnt/store/melpa/working/meta-presenter/
+Built meta-presenter in 3.271s, finished at Wed May 19 01:35:06 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K May 19 01:35 packages-stable/meta-presenter-1.1.0.el
+4.0K -rw-r--r-- 1 root root  392 May 19 01:35 packages-stable/meta-presenter-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/meta-presenter-badge.svg
+4.0K -rw-r--r-- 1 root root  299 May 19 01:35 packages-stable/meta-presenter-readme.txt

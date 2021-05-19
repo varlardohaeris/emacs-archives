@@ -1,0 +1,11 @@
+Package: eslintd-fix
+Fetcher: github
+Source:  https://github.com/aaronjensen/eslintd-fix.git
+
+Updating /mnt/store/melpa/working/eslintd-fix/
+Built eslintd-fix in 3.196s, finished at Wed May 19 04:31:44 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 04:31 packages-stable/eslintd-fix-1.2.0.el
+4.0K -rw-r--r-- 1 root root  396 May 19 04:31 packages-stable/eslintd-fix-1.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eslintd-fix-badge.svg
+4.0K -rw-r--r-- 1 root root  327 May 19 04:31 packages-stable/eslintd-fix-readme.txt

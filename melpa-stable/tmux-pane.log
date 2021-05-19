@@ -1,0 +1,6 @@
+Package: tmux-pane
+Fetcher: github
+Source:  https://github.com/laishulu/emacs-tmux-pane.git
+
+Updating /mnt/store/melpa/working/tmux-pane/
+No valid stable versions found for tmux-pane

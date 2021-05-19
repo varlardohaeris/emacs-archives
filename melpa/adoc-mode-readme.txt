@@ -1,3 +1,4 @@
+
 # Introduction
 
 [AsciiDoc](http://www.methods.co.nz/asciidoc/) is a text document format for
@@ -106,3 +107,4 @@ The highlighting emphasizes on how the output will look like. _All_
 characters are visible, however meta characters are displayed in a faint way.
 
 ![screenshot](http://dl.dropbox.com/u/75789984/adoc-mode.png)
+

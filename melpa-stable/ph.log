@@ -1,0 +1,32 @@
+Package: ph
+Fetcher: github
+Source:  https://github.com/gromnitsky/ph.git
+
+Updating /mnt/store/melpa/working/ph/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ph/
+  to /tmp/phpfa0c5/ph-0.1.0
+    ph-metadata.el -> ph-metadata.el
+    ph-pkg.el -> ph-pkg.el
+    ph-u.el -> ph-u.el
+    ph-venture.el -> ph-venture.el
+    ph.el -> ph.el
+    meta.json -> meta.json
+    README -> README
+    bin/ph-project-new -> bin/ph-project-new
+Created ph-0.1.0.tar containing:
+  ph-0.1.0/
+  ph-0.1.0/README
+  ph-0.1.0/bin/
+  ph-0.1.0/bin/ph-project-new
+  ph-0.1.0/meta.json
+  ph-0.1.0/ph-metadata.el
+  ph-0.1.0/ph-pkg.el
+  ph-0.1.0/ph-u.el
+  ph-0.1.0/ph-venture.el
+  ph-0.1.0/ph.el
+Built ph in 3.122s, finished at Wed May 19 01:42:39 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  175 May 19 01:42 packages-stable/ph-0.1.0.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 01:42 packages-stable/ph-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/ph-badge.svg

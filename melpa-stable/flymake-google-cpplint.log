@@ -1,0 +1,6 @@
+Package: flymake-google-cpplint
+Fetcher: github
+Source:  https://github.com/senda-akiha/flymake-google-cpplint.git
+
+Updating /mnt/store/melpa/working/flymake-google-cpplint/
+No valid stable versions found for flymake-google-cpplint

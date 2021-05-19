@@ -6,4 +6,4 @@ Alternately, configure a mode-hook for your Javascript major mode of choice:
 
 A handful of configurable options can be found in the `flymake-eslint' customization group: view and modify them with the command `M-x customize-group [RET] flymake-eslint [RET]'.
 
-License: MIT
+; License: MIT

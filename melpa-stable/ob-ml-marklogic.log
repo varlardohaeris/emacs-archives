@@ -1,0 +1,27 @@
+Package: ob-ml-marklogic
+Fetcher: github
+Source:  https://github.com/ndw/ob-ml-marklogic.git
+
+Updating /mnt/store/melpa/working/ob-ml-marklogic/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ob-ml-marklogic/
+  to /tmp/ob-ml-marklogicVeLjSI/ob-ml-marklogic-1.1.0
+    ob-ml-common.el -> ob-ml-common.el
+    ob-ml-javascript.el -> ob-ml-javascript.el
+    ob-ml-marklogic.el -> ob-ml-marklogic.el
+    ob-ml-sparql.el -> ob-ml-sparql.el
+    ob-ml-xquery.el -> ob-ml-xquery.el
+Created ob-ml-marklogic-1.1.0.tar containing:
+  ob-ml-marklogic-1.1.0/
+  ob-ml-marklogic-1.1.0/ob-ml-common.el
+  ob-ml-marklogic-1.1.0/ob-ml-javascript.el
+  ob-ml-marklogic-1.1.0/ob-ml-marklogic-pkg.el
+  ob-ml-marklogic-1.1.0/ob-ml-marklogic.el
+  ob-ml-marklogic-1.1.0/ob-ml-sparql.el
+  ob-ml-marklogic-1.1.0/ob-ml-xquery.el
+Built ob-ml-marklogic in 2.788s, finished at Wed May 19 01:38:13 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  378 May 19 01:38 packages-stable/ob-ml-marklogic-1.1.0.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 01:38 packages-stable/ob-ml-marklogic-1.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-ml-marklogic-badge.svg
+4.0K -rw-r--r-- 1 root root 3.9K May 19 01:38 packages-stable/ob-ml-marklogic-readme.txt

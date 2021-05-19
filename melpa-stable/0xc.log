@@ -1,0 +1,6 @@
+Package: 0xc
+Fetcher: github
+Source:  https://github.com/AdamNiederer/0xc.git
+
+Updating /mnt/store/melpa/working/0xc/
+No valid stable versions found for 0xc

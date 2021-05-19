@@ -1,0 +1,21 @@
+Package: zephir-mode
+Fetcher: github
+Source:  https://github.com/zephir-lang/zephir-mode.git
+
+Updating /mnt/store/melpa/working/zephir-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/zephir-mode/
+  to /tmp/zephir-modeh4aFcj/zephir-mode-0.6.0
+    zephir-face.el -> zephir-face.el
+    zephir-mode.el -> zephir-mode.el
+Created zephir-mode-0.6.0.tar containing:
+  zephir-mode-0.6.0/
+  zephir-mode-0.6.0/zephir-face.el
+  zephir-mode-0.6.0/zephir-mode-pkg.el
+  zephir-mode-0.6.0/zephir-mode.el
+Built zephir-mode in 2.921s, finished at Wed May 19 01:56:42 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  447 May 19 01:56 packages-stable/zephir-mode-0.6.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:56 packages-stable/zephir-mode-0.6.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zephir-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zephir-mode-readme.txt

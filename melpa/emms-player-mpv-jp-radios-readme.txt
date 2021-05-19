@@ -28,36 +28,36 @@ Setup:
 (add-to-list 'load-path "/path/to/emms-player-mpv-jp-radios")
 (require 'emms-player-mpv-jp-radios)
 
-Adding all emms jp radio players
+;; Adding all emms jp radio players
 (emms-player-mpv-jp-radios-add-all)
 
-Adding separetely
-e.g. Only for Radiko and らじる★らじる
+;; Adding separetely
+;; e.g. Only for Radiko and らじる★らじる
 (emms-player-mpv-jp-radios-add "radiko" "radiru")
 
 Usage:
 
 M-x emms-streams
-stationName is radiko, radiru, etc.
+;; stationName is radiko, radiru, etc.
 M-x emms-stream-stationName-add-bookmark
 
 Some functions can update cache of stream list.
-Updating synchronously
+;; Updating synchronously
 C-u M-x emms-stream-stationName-add-bookmark
-Updating asynchronously
+;; Updating asynchronously
 C-u -1 M-x emms-stream-stationName-add-bookmark
 
 emms-streams-jp-radios.el provides `emms-streams-jp-radios' and
 `emms-stream-jp-radios-popup' like `emms-streams'.
 
-If `anything' is installed, `emms-streams-jp-radios-anything' is available.
+;; If `anything' is installed, `emms-streams-jp-radios-anything' is available.
 (autoload 'emms-streams-jp-radios-anything
   "emms-streams-jp-radios-anything" nil t)
 
-If `helm' is installed, `emms-streams-jp-radios-helm' is available.
+;; If `helm' is installed, `emms-streams-jp-radios-helm' is available.
 (autoload 'emms-streams-jp-radios-helm
   "emms-streams-jp-radios-helm" nil t)
 
-If `ivy' is installed, `emms-streams-jp-radios-counsel' is available.
+;; If `ivy' is installed, `emms-streams-jp-radios-counsel' is available.
 (autoload 'emms-streams-jp-radios-counsel
   "emms-streams-jp-radios-counsel" nil t)

@@ -1,6 +1,6 @@
 Add a Tcl checker to Flycheck using ActiveState's tclchecker.
 
-Setup
+;; Setup
 
 Add the following to your init file:
 

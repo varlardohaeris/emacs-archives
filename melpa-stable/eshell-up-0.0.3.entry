@@ -1,2 +1,11 @@
-
-(eshell-up . [(0 0 3) ((emacs (24))) "Quickly go to a specific parent directory in eshell" single ((:commit . "653121392acd607d5dfbca0832927e06806a2d39") (:keywords "eshell") (:authors ("Peter W. V. Tran-Jørgensen" . "peter.w.v.jorgensen@gmail.com")) (:maintainer "Peter W. V. Tran-Jørgensen" . "peter.w.v.jorgensen@gmail.com") (:url . "https://github.com/peterwvj/eshell-up"))])
+(eshell-up .
+	   [(0 0 3)
+	    ((emacs
+	      (24)))
+	    "Quickly go to a specific parent directory in eshell" single
+	    ((:commit . "653121392acd607d5dfbca0832927e06806a2d39")
+	     (:authors
+	      ("Peter W. V. Tran-Jørgensen" . "peter.w.v.jorgensen@gmail.com"))
+	     (:maintainer "Peter W. V. Tran-Jørgensen" . "peter.w.v.jorgensen@gmail.com")
+	     (:keywords "eshell")
+	     (:url . "https://github.com/peterwvj/eshell-up"))])

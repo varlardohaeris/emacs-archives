@@ -1,0 +1,6 @@
+Package: what-the-commit
+Fetcher: github
+Source:  https://github.com/danbarbarito/what-the-commit.el.git
+
+Updating /mnt/store/melpa/working/what-the-commit/
+No valid stable versions found for what-the-commit

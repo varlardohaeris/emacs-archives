@@ -1,0 +1,11 @@
+Package: erc-view-log
+Fetcher: github
+Source:  https://github.com/Niluge-KiWi/erc-view-log.git
+
+Updating /mnt/store/melpa/working/erc-view-log/
+Built erc-view-log in 4.206s, finished at Wed May 19 03:16:48 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.9K May 19 03:16 packages/erc-view-log-20140227.2039.el
+4.0K -rw-r--r-- 1 root root  409 May 19 03:16 packages/erc-view-log-20140227.2039.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:16 packages/erc-view-log-badge.svg
+4.0K -rw-r--r-- 1 root root  771 May 19 03:16 packages/erc-view-log-readme.txt

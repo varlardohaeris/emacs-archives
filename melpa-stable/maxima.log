@@ -1,0 +1,46 @@
+Package: maxima
+Fetcher: gitlab
+Source:  https://gitlab.com/sasanidas/maxima.git
+
+Updating /mnt/store/melpa/working/maxima/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/maxima/
+  to /tmp/maximasKALI4/maxima-0.7.6
+    maxima.el -> maxima.el
+    maxima-font-lock.el -> maxima-font-lock.el
+    keywords/constants -> keywords/constants
+    keywords/functions -> keywords/functions
+    keywords/global -> keywords/global
+    keywords/graphic -> keywords/graphic
+    keywords/object -> keywords/object
+    keywords/operators -> keywords/operators
+    keywords/options -> keywords/options
+    keywords/plot -> keywords/plot
+    keywords/properties -> keywords/properties
+    keywords/scene -> keywords/scene
+    keywords/special -> keywords/special
+    keywords/system_variables -> keywords/system_variables
+Created maxima-0.7.6.tar containing:
+  maxima-0.7.6/
+  maxima-0.7.6/keywords/
+  maxima-0.7.6/keywords/constants
+  maxima-0.7.6/keywords/functions
+  maxima-0.7.6/keywords/global
+  maxima-0.7.6/keywords/graphic
+  maxima-0.7.6/keywords/object
+  maxima-0.7.6/keywords/operators
+  maxima-0.7.6/keywords/options
+  maxima-0.7.6/keywords/plot
+  maxima-0.7.6/keywords/properties
+  maxima-0.7.6/keywords/scene
+  maxima-0.7.6/keywords/special
+  maxima-0.7.6/keywords/system_variables
+  maxima-0.7.6/maxima-font-lock.el
+  maxima-0.7.6/maxima-pkg.el
+  maxima-0.7.6/maxima.el
+Built maxima in 7.558s, finished at Wed May 19 01:34:29 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  408 May 19 01:34 packages-stable/maxima-0.7.6.entry
+192K -rw-r--r-- 1 root root 190K May 19 01:34 packages-stable/maxima-0.7.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/maxima-badge.svg
+4.0K -rw-r--r-- 1 root root  572 May 19 01:34 packages-stable/maxima-readme.txt

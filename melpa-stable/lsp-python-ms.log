@@ -1,0 +1,11 @@
+Package: lsp-python-ms
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-python-ms.git
+
+Updating /mnt/store/melpa/working/lsp-python-ms/
+Built lsp-python-ms in 3.761s, finished at Wed May 19 01:33:12 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  25K May 19 01:33 packages-stable/lsp-python-ms-0.7.2.el
+4.0K -rw-r--r-- 1 root root  390 May 19 01:33 packages-stable/lsp-python-ms-0.7.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-python-ms-badge.svg
+4.0K -rw-r--r-- 1 root root  120 May 19 01:33 packages-stable/lsp-python-ms-readme.txt

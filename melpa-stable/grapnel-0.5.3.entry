@@ -1,2 +1,8 @@
-
-(grapnel . [(0 5 3) nil "HTTP request lib with flexible callback dispatch" single ((:commit . "7387234eb3f0285a490fddb1e06a4bf029719fb7") (:authors ("David Leatherman" . "leathekd@gmail.com")) (:maintainer "David Leatherman" . "leathekd@gmail.com") (:url . "http://www.github.com/leathekd/grapnel"))])
+(grapnel .
+	 [(0 5 3)
+	  nil "HTTP request lib with flexible callback dispatch" single
+	  ((:commit . "7387234eb3f0285a490fddb1e06a4bf029719fb7")
+	   (:authors
+	    ("David Leatherman" . "leathekd@gmail.com"))
+	   (:maintainer "David Leatherman" . "leathekd@gmail.com")
+	   (:url . "http://www.github.com/leathekd/grapnel"))])

@@ -1,0 +1,6 @@
+Package: rtm
+Fetcher: github
+Source:  https://github.com/pmiddend/emacs-rtm.git
+
+Updating /mnt/store/melpa/working/rtm/
+No valid stable versions found for rtm

@@ -1,0 +1,11 @@
+Package: format-table
+Fetcher: github
+Source:  https://github.com/functionreturnfunction/format-table.git
+
+Updating /mnt/store/melpa/working/format-table/
+Built format-table in 2.879s, finished at Wed May 19 04:36:08 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 04:36 packages-stable/format-table-0.0.1.el
+4.0K -rw-r--r-- 1 root root  393 May 19 04:36 packages-stable/format-table-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/format-table-badge.svg
+4.0K -rw-r--r-- 1 root root   33 May 19 04:36 packages-stable/format-table-readme.txt

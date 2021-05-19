@@ -1,3 +1,4 @@
+
 This code is inspired in part by erc-page-me.el and offers
 the same functionality as it, but for rcirc.
 

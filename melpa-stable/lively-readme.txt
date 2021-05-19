@@ -1,3 +1,4 @@
+
 Go to the end of any of the following lines and run `M-x lively'
   Current time:      (current-time-string)
   Last command:      last-command

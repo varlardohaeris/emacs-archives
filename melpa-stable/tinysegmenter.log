@@ -1,0 +1,6 @@
+Package: tinysegmenter
+Fetcher: github
+Source:  https://github.com/myuhe/tinysegmenter.el.git
+
+Updating /mnt/store/melpa/working/tinysegmenter/
+No valid stable versions found for tinysegmenter

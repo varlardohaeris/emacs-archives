@@ -1,0 +1,11 @@
+Package: evil-ex-fasd
+Fetcher: github
+Source:  https://github.com/yqrashawn/evil-ex-fasd.git
+
+Updating /mnt/store/melpa/working/evil-ex-fasd/
+Built evil-ex-fasd in 4.875s, finished at Wed May 19 03:18:10 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.9K May 19 03:18 packages/evil-ex-fasd-20180903.612.el
+4.0K -rw-r--r-- 1 root root  431 May 19 03:18 packages/evil-ex-fasd-20180903.612.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:18 packages/evil-ex-fasd-badge.svg
+4.0K -rw-r--r-- 1 root root   48 May 19 03:18 packages/evil-ex-fasd-readme.txt

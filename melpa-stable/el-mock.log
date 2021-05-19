@@ -1,0 +1,11 @@
+Package: el-mock
+Fetcher: github
+Source:  https://github.com/rejeep/el-mock.el.git
+
+Updating /mnt/store/melpa/working/el-mock/
+Built el-mock in 3.296s, finished at Wed May 19 04:29:47 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  24K May 19 04:29 packages-stable/el-mock-1.25.1.el
+4.0K -rw-r--r-- 1 root root  364 May 19 04:29 packages-stable/el-mock-1.25.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/el-mock-badge.svg
+4.0K -rw-r--r-- 1 root root  198 May 19 04:29 packages-stable/el-mock-readme.txt

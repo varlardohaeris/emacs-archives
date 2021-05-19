@@ -1,0 +1,11 @@
+Package: haxe-mode
+Fetcher: github
+Source:  https://github.com/emacsorphanage/haxe-mode.git
+
+Updating /mnt/store/melpa/working/haxe-mode/
+Built haxe-mode in 3.234s, finished at Wed May 19 04:39:37 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:39 packages-stable/haxe-mode-0.3.3.el
+4.0K -rw-r--r-- 1 root root  321 May 19 04:39 packages-stable/haxe-mode-0.3.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/haxe-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  218 May 19 04:39 packages-stable/haxe-mode-readme.txt

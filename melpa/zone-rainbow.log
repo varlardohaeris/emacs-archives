@@ -1,0 +1,11 @@
+Package: zone-rainbow
+Fetcher: github
+Source:  https://github.com/kawabata/zone-rainbow.git
+
+Updating /mnt/store/melpa/working/zone-rainbow/
+Built zone-rainbow in 4.062s, finished at Wed May 19 04:17:45 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K May 19 04:17 packages/zone-rainbow-20160120.1334.el
+4.0K -rw-r--r-- 1 root root  385 May 19 04:17 packages/zone-rainbow-20160120.1334.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:17 packages/zone-rainbow-badge.svg
+4.0K -rw-r--r-- 1 root root  238 May 19 04:17 packages/zone-rainbow-readme.txt

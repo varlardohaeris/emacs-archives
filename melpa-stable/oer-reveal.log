@@ -1,0 +1,111 @@
+Package: oer-reveal
+Fetcher: gitlab
+Source:  https://gitlab.com/oer/oer-reveal.git
+
+Updating /mnt/store/melpa/working/oer-reveal/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/oer-reveal/
+  to /tmp/oer-revealNGkmhv/oer-reveal-3.20.0
+    oer-reveal-publish.el -> oer-reveal-publish.el
+    oer-reveal.el -> oer-reveal.el
+    ox-oer-reveal.el -> ox-oer-reveal.el
+    README.md -> README.md
+    README.md.license -> README.md.license
+    LICENSE -> LICENSE
+    LICENSES => LICENSES
+    org => org
+    css => css
+    title-slide => title-slide
+    examples => examples
+Created oer-reveal-3.20.0.tar containing:
+  oer-reveal-3.20.0/
+  oer-reveal-3.20.0/LICENSE
+  oer-reveal-3.20.0/LICENSES/
+  oer-reveal-3.20.0/LICENSES/CC-BY-SA-4.0.txt
+  oer-reveal-3.20.0/LICENSES/CC0-1.0.txt
+  oer-reveal-3.20.0/LICENSES/GPL-3.0-or-later.txt
+  oer-reveal-3.20.0/LICENSES/LicenseRef-MIT-HEH-JL.txt
+  oer-reveal-3.20.0/LICENSES/LicenseRef-MIT-JL.txt
+  oer-reveal-3.20.0/README.md
+  oer-reveal-3.20.0/README.md.license
+  oer-reveal-3.20.0/css/
+  oer-reveal-3.20.0/css/dbis-longtitle.css
+  oer-reveal-3.20.0/css/dbis.css
+  oer-reveal-3.20.0/css/ercis-quote.css
+  oer-reveal-3.20.0/css/ercis.css
+  oer-reveal-3.20.0/css/ercis2019.css
+  oer-reveal-3.20.0/css/folder_inbox.png
+  oer-reveal-3.20.0/css/folder_inbox.png.base
+  oer-reveal-3.20.0/css/folder_inbox.png.base.license
+  oer-reveal-3.20.0/css/folder_inbox.png.license
+  oer-reveal-3.20.0/css/hidelinks.js
+  oer-reveal-3.20.0/css/index.css
+  oer-reveal-3.20.0/css/oer-reveal.css
+  oer-reveal-3.20.0/css/outgoing-link.png
+  oer-reveal-3.20.0/css/outgoing-link.png.base
+  oer-reveal-3.20.0/css/outgoing-link.png.base.license
+  oer-reveal-3.20.0/css/outgoing-link.png.license
+  oer-reveal-3.20.0/css/toc-style.css
+  oer-reveal-3.20.0/css/wwu-ercis.css
+  oer-reveal-3.20.0/examples/
+  oer-reveal-3.20.0/examples/publish.el
+  oer-reveal-3.20.0/examples/quizzes/
+  oer-reveal-3.20.0/examples/quizzes/usage-hints.js
+  oer-reveal-3.20.0/examples/test-audio-jump.org
+  oer-reveal-3.20.0/examples/test-default.org
+  oer-reveal-3.20.0/examples/test-license.org
+  oer-reveal-3.20.0/examples/test-local.org
+  oer-reveal-3.20.0/examples/test-plain.org
+  oer-reveal-3.20.0/examples/title-slide.html
+  oer-reveal-3.20.0/oer-reveal-pkg.el
+  oer-reveal-3.20.0/oer-reveal-publish.el
+  oer-reveal-3.20.0/oer-reveal.el
+  oer-reveal-3.20.0/org/
+  oer-reveal-3.20.0/org/backmatter-de.org
+  oer-reveal-3.20.0/org/backmatter-ercis.org
+  oer-reveal-3.20.0/org/backmatter.org
+  oer-reveal-3.20.0/org/bibliography-de.org
+  oer-reveal-3.20.0/org/bibliography.org
+  oer-reveal-3.20.0/org/config-de.org
+  oer-reveal-3.20.0/org/config-ercis2019-de.org
+  oer-reveal-3.20.0/org/config-ercis2019.org
+  oer-reveal-3.20.0/org/config-title-notes.org
+  oer-reveal-3.20.0/org/config-usage-notes-de.org
+  oer-reveal-3.20.0/org/config-usage-notes.org
+  oer-reveal-3.20.0/org/config.org
+  oer-reveal-3.20.0/org/finalslide-ercis.org
+  oer-reveal-3.20.0/org/learning-objectives-notes.org
+  oer-reveal-3.20.0/org/license-disclaimer-cc-by-sa-4.0-de.org
+  oer-reveal-3.20.0/org/license-disclaimer-cc-by-sa-4.0.org
+  oer-reveal-3.20.0/org/license-template-de.org
+  oer-reveal-3.20.0/org/license-template.org
+  oer-reveal-3.20.0/org/reveal.js-hints-de.org
+  oer-reveal-3.20.0/org/reveal.js-hints.org
+  oer-reveal-3.20.0/org/source-code-licenses-de.org
+  oer-reveal-3.20.0/org/source-code-licenses.org
+  oer-reveal-3.20.0/ox-oer-reveal.el
+  oer-reveal-3.20.0/title-slide/
+  oer-reveal-3.20.0/title-slide/course-mlde.html
+  oer-reveal-3.20.0/title-slide/csos.html
+  oer-reveal-3.20.0/title-slide/dbis-course.html
+  oer-reveal-3.20.0/title-slide/dbis-talk-de.html
+  oer-reveal-3.20.0/title-slide/dbis-talk-glr-de.html
+  oer-reveal-3.20.0/title-slide/dbis-talk-pdf.html
+  oer-reveal-3.20.0/title-slide/dbis-talk-qr-de.html
+  oer-reveal-3.20.0/title-slide/dbis-talk-qr.html
+  oer-reveal-3.20.0/title-slide/dbis-talk.html
+  oer-reveal-3.20.0/title-slide/ds.html
+  oer-reveal-3.20.0/title-slide/ercis-talk-online-qr.html
+  oer-reveal-3.20.0/title-slide/ercis-talk-online.html
+  oer-reveal-3.20.0/title-slide/ercis-talk.html
+  oer-reveal-3.20.0/title-slide/ercis-talk2019.html
+  oer-reveal-3.20.0/title-slide/ercis2019-talk-online-qr.html
+  oer-reveal-3.20.0/title-slide/ercis2019-vortrag.html
+  oer-reveal-3.20.0/title-slide/kurs-mlde.html
+  oer-reveal-3.20.0/title-slide/kurs.html
+Built oer-reveal in 4.892s, finished at Wed May 19 01:38:32 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  441 May 19 01:38 packages-stable/oer-reveal-3.20.0.entry
+492K -rw-r--r-- 1 root root 490K May 19 01:38 packages-stable/oer-reveal-3.20.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/oer-reveal-badge.svg
+4.0K -rw-r--r-- 1 root root  698 May 19 01:38 packages-stable/oer-reveal-readme.txt

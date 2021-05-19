@@ -1,0 +1,11 @@
+Package: org-sql
+Fetcher: github
+Source:  https://github.com/ndwarshuis/org-sql.git
+
+Updating /mnt/store/melpa/working/org-sql/
+Built org-sql in 6.624s, finished at Wed May 19 01:40:09 2021
+ ✓ Success:
+168K -rw-r--r-- 1 root root 166K May 19 01:40 packages-stable/org-sql-3.0.2.el
+4.0K -rw-r--r-- 1 root root  456 May 19 01:40 packages-stable/org-sql-3.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-sql-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:40 packages-stable/org-sql-readme.txt

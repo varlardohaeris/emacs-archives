@@ -38,3 +38,4 @@ Insertions are not electric, thus a mnemonic key is recommended:
 (global-set-key [(super ?\")] 'simple-paren-doublequote)
 (global-set-key [(super ?<)] 'simple-paren-lesser-than)
 (global-set-key [(super ?>)] 'simple-paren-greater-than)
+

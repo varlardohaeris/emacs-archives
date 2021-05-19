@@ -1,0 +1,6 @@
+Package: oauth2-request
+Fetcher: github
+Source:  https://github.com/conao3/oauth2-request.el.git
+
+Updating /mnt/store/melpa/working/oauth2-request/
+No valid stable versions found for oauth2-request

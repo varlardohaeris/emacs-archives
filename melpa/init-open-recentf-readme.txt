@@ -1,3 +1,4 @@
+
 Open recentf immediately after Emacs is started.
 Here are some example scenarios for when Emacs is started from the command line:
   - If files are opened (e.g. '$ emacs file1.txt'), nothing out of the ordinary occurs-- the file is opened.

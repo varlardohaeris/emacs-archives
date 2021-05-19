@@ -1,0 +1,32 @@
+Package: elixir-yasnippets
+Fetcher: github
+Source:  https://github.com/hisea/elixir-yasnippets.git
+
+Updating /mnt/store/melpa/working/elixir-yasnippets/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elixir-yasnippets/
+  to /tmp/elixir-yasnippetsz7ctD8/elixir-yasnippets-0.0.1
+    elixir-yasnippets-pkg.el -> elixir-yasnippets-pkg.el
+    elixir-yasnippets.el -> elixir-yasnippets.el
+    snippets => snippets
+Created elixir-yasnippets-0.0.1.tar containing:
+  elixir-yasnippets-0.0.1/
+  elixir-yasnippets-0.0.1/elixir-yasnippets-pkg.el
+  elixir-yasnippets-0.0.1/elixir-yasnippets.el
+  elixir-yasnippets-0.0.1/snippets/
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/case
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/cond
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/def
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/defmacro
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/defmacrop
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/defmodule
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/defp
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/doc
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/mdoc
+  elixir-yasnippets-0.0.1/snippets/elixir-mode/pry
+Built elixir-yasnippets in 3.265s, finished at Wed May 19 04:30:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  325 May 19 04:30 packages-stable/elixir-yasnippets-0.0.1.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:30 packages-stable/elixir-yasnippets-0.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elixir-yasnippets-badge.svg

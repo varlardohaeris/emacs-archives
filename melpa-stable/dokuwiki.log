@@ -1,0 +1,6 @@
+Package: dokuwiki
+Fetcher: github
+Source:  https://github.com/accidentalrebel/emacs-dokuwiki.git
+
+Updating /mnt/store/melpa/working/dokuwiki/
+No valid stable versions found for dokuwiki

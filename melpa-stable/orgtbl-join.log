@@ -1,0 +1,6 @@
+Package: orgtbl-join
+Fetcher: github
+Source:  https://github.com/tbanel/orgtbljoin.git
+
+Updating /mnt/store/melpa/working/orgtbl-join/
+No valid stable versions found for orgtbl-join

@@ -1,0 +1,12 @@
+Package: git-backup
+Fetcher: github
+Source:  https://github.com/antham/git-backup.git
+
+Updating /mnt/store/melpa/working/git-backup/
+Built git-backup in 3.155s, finished at Wed May 19 04:37:09 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 04:37 packages-stable/git-backup-0.0.1.el
+4.0K -rw-r--r-- 1 root root  435 May 19 04:37 packages-stable/git-backup-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-backup-badge.svg
+4.0K -rw-r--r-- 1 root root  195 May 19 04:37 packages-stable/git-backup-ivy.log
+4.0K -rw-r--r-- 1 root root   72 May 19 04:37 packages-stable/git-backup-readme.txt

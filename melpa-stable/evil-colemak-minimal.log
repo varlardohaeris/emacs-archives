@@ -1,0 +1,6 @@
+Package: evil-colemak-minimal
+Fetcher: github
+Source:  https://github.com/bmallred/evil-colemak-minimal.git
+
+Updating /mnt/store/melpa/working/evil-colemak-minimal/
+No valid stable versions found for evil-colemak-minimal

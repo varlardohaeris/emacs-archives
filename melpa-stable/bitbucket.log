@@ -1,0 +1,6 @@
+Package: bitbucket
+Fetcher: github
+Source:  https://github.com/tjaartvdwalt/bitbucket.el.git
+
+Updating /mnt/store/melpa/working/bitbucket/
+No valid stable versions found for bitbucket

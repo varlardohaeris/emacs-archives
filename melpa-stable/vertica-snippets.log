@@ -1,0 +1,6 @@
+Package: vertica-snippets
+Fetcher: github
+Source:  https://github.com/baron42bba/vertica-snippets.git
+
+Updating /mnt/store/melpa/working/vertica-snippets/
+No valid stable versions found for vertica-snippets

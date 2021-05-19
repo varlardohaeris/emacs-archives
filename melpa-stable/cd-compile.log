@@ -1,0 +1,6 @@
+Package: cd-compile
+Fetcher: github
+Source:  https://github.com/jamienicol/emacs-cd-compile.git
+
+Updating /mnt/store/melpa/working/cd-compile/
+No valid stable versions found for cd-compile

@@ -1,3 +1,4 @@
+
 # Description
 
 This package provides a replacement for `comment-dwim' called
@@ -37,6 +38,12 @@ If you only want to comment the selected region (like
 `comment-dwim' does), add this:
 
   (setq cd2/region-command 'cd2/comment-or-uncomment-region)
+
+# Org-mode
+
+For org-mode, consider using `org-comment-dwim-2':
+
+  (define-key org-mode-map (kbd "M-;") 'org-comment-dwim-2)
 
 ## Behavior when command is repeated
 

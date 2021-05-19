@@ -1,0 +1,6 @@
+Package: defproject
+Fetcher: github
+Source:  https://github.com/kotfic/defproject.git
+
+Updating /mnt/store/melpa/working/defproject/
+No valid stable versions found for defproject

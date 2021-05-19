@@ -1,0 +1,11 @@
+Package: phi-search-mc
+Fetcher: github
+Source:  https://github.com/knu/phi-search-mc.el.git
+
+Updating /mnt/store/melpa/working/phi-search-mc/
+Built phi-search-mc in 3.103s, finished at Wed May 19 01:42:44 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K May 19 01:42 packages-stable/phi-search-mc-2.2.1.el
+4.0K -rw-r--r-- 1 root root  410 May 19 01:42 packages-stable/phi-search-mc-2.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phi-search-mc-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 01:42 packages-stable/phi-search-mc-readme.txt

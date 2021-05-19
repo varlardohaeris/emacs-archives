@@ -1,0 +1,11 @@
+Package: highlight-blocks
+Fetcher: github
+Source:  https://github.com/Fanael/highlight-blocks.git
+
+Updating /mnt/store/melpa/working/highlight-blocks/
+Built highlight-blocks in 2.940s, finished at Wed May 19 04:41:39 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:41 packages-stable/highlight-blocks-0.1.17.el
+4.0K -rw-r--r-- 1 root root  360 May 19 04:41 packages-stable/highlight-blocks-0.1.17.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/highlight-blocks-badge.svg
+4.0K -rw-r--r-- 1 root root  244 May 19 04:41 packages-stable/highlight-blocks-readme.txt

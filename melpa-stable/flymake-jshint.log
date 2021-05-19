@@ -1,0 +1,6 @@
+Package: flymake-jshint
+Fetcher: github
+Source:  https://github.com/Wilfred/flymake-jshint.el.git
+
+Updating /mnt/store/melpa/working/flymake-jshint/
+No valid stable versions found for flymake-jshint

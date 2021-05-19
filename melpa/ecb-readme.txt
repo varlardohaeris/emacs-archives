@@ -1,3 +1,4 @@
+
 ECB stands for "Emacs Code Browser".  While Emacs already has good
 *editing* support for many modes, its *browsing* support is somewhat
 lacking. That's where ECB comes in: it displays a number of informational
@@ -49,7 +50,7 @@ Here is an ascii-screenshot of what ECB offers you:
   ------------------------------------------------------------------
 
 
-Installation
+; Installation
 
 To use the Emacs code browser add the ECB files to your load path and add the
 following line to your .emacs file:
@@ -66,7 +67,7 @@ Optional: You can byte-compile ECB with `ecb-byte-compile' after the
           ECB-package is loaded
 
 
-Requirements
+; Requirements
 
 - Semantic, author-version between >= 1.4
   (http://cedet.sourceforge.net/semantic.shtml).
@@ -78,7 +79,7 @@ Requirements
   (http://sunsite.auc.dk/jde) is installed.
 
 
-Activation
+; Activation
 
 ECB is either activated and started by calling
    M-x ecb-activate
@@ -91,11 +92,11 @@ After activating ECB you should call `ecb-show-help' to get a detailed
 description of what ECB offers to you and how to use ECB.
 
 
-Availability
+; Availability
 
 The latest version of the ECB is available at http://ecb.sourceforge.net
 
-History
+; History
 
 For the ChangeLog of this file see the CVS-repository. For a complete
 history of the ECB-package see the file NEWS.

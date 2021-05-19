@@ -1,0 +1,6 @@
+Package: soundcloud
+Fetcher: github
+Source:  https://github.com/thieman/soundcloud.el.git
+
+Updating /mnt/store/melpa/working/soundcloud/
+No valid stable versions found for soundcloud

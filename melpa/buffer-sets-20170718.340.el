@@ -5,6 +5,7 @@
 ;; Author: Samuel W. Flint <swflint@flintfam.org>
 ;; Version: 2.5
 ;; Package-Version: 20170718.340
+;; Package-Commit: bc84c2f79a33609cccf3c996101125859b2e26ab
 ;; Package-Requires: ((cl-lib "0.5"))
 ;; Keywords: buffer-management
 ;; URL: http://github.com/swflint/buffer-sets

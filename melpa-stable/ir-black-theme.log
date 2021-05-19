@@ -1,0 +1,11 @@
+Package: ir-black-theme
+Fetcher: github
+Source:  https://github.com/jmdeldin/ir-black-theme.el.git
+
+Updating /mnt/store/melpa/working/ir-black-theme/
+Built ir-black-theme in 2.817s, finished at Wed May 19 04:43:38 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K May 19 04:43 packages-stable/ir-black-theme-1.0.1.el
+4.0K -rw-r--r-- 1 root root  278 May 19 04:43 packages-stable/ir-black-theme-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ir-black-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  526 May 19 04:43 packages-stable/ir-black-theme-readme.txt

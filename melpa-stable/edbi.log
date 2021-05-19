@@ -1,0 +1,26 @@
+Package: edbi
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-edbi.git
+
+Updating /mnt/store/melpa/working/edbi/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/edbi/
+  to /tmp/edbiSeahob/edbi-0.1.2
+    edbi-demo.el -> edbi-demo.el
+    edbi-pkg.el -> edbi-pkg.el
+    edbi.el -> edbi.el
+    edbi-bridge.pl -> edbi-bridge.pl
+Created edbi-0.1.2.tar containing:
+  edbi-0.1.2/
+  edbi-0.1.2/edbi-bridge.pl
+  edbi-0.1.2/edbi-demo.el
+  edbi-0.1.2/edbi-pkg.el
+  edbi-0.1.2/edbi.el
+Built edbi in 2.766s, finished at Wed May 19 04:29:18 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  400 May 19 04:29 packages-stable/edbi-0.1.2.entry
+100K -rw-r--r-- 1 root root 100K May 19 04:29 packages-stable/edbi-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/edbi-badge.svg
+4.0K -rw-r--r-- 1 root root  963 Feb  2  2020 packages-stable/edbi-minor-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   33 Feb  2  2020 packages-stable/edbi-minor-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 2.0K May 19 04:29 packages-stable/edbi-readme.txt

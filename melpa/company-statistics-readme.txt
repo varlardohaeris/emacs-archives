@@ -1,3 +1,4 @@
+
 Package installed from elpa.gnu.org:
 
   (add-hook 'after-init-hook #'company-statistics-mode)

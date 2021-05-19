@@ -1,0 +1,6 @@
+Package: hnreader
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-hnreader.git
+
+Updating /mnt/store/melpa/working/hnreader/
+No valid stable versions found for hnreader

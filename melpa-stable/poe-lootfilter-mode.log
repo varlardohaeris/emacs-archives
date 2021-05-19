@@ -1,0 +1,11 @@
+Package: poe-lootfilter-mode
+Fetcher: github
+Source:  https://github.com/jdodds/poe-lootfilter-mode.git
+
+Updating /mnt/store/melpa/working/poe-lootfilter-mode/
+Built poe-lootfilter-mode in 2.828s, finished at Wed May 19 01:43:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.5K May 19 01:43 packages-stable/poe-lootfilter-mode-1.0.0.el
+4.0K -rw-r--r-- 1 root root  447 May 19 01:43 packages-stable/poe-lootfilter-mode-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/poe-lootfilter-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  216 May 19 01:43 packages-stable/poe-lootfilter-mode-readme.txt

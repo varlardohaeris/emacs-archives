@@ -11,5 +11,5 @@ Usage:
   For more usage, see Compilation-Mode:
     http://www.gnu.org/software/emacs/manual/html_node/emacs/Compilation-Mode.html
 
-THIS IS BASICALLY ENTIRELY COPIED AND SLIGHTLY MODIFIED FROM THE GOLINT EMACS MODE
-https://github.com/golang/lint/tree/master/misc/emacs
+;; THIS IS BASICALLY ENTIRELY COPIED AND SLIGHTLY MODIFIED FROM THE GOLINT EMACS MODE
+;; https://github.com/golang/lint/tree/master/misc/emacs

@@ -1,0 +1,6 @@
+Package: lolcat
+Fetcher: github
+Source:  https://github.com/xuchunyang/lolcat.el.git
+
+Updating /mnt/store/melpa/working/lolcat/
+No valid stable versions found for lolcat

@@ -1,0 +1,11 @@
+Package: browse-kill-ring
+Fetcher: github
+Source:  https://github.com/browse-kill-ring/browse-kill-ring.git
+
+Updating /mnt/store/melpa/working/browse-kill-ring/
+Built browse-kill-ring in 5.717s, finished at Wed May 19 04:21:53 2021
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  47K May 19 04:21 packages-stable/browse-kill-ring-2.0.0.el
+4.0K -rw-r--r-- 1 root root  396 May 19 04:21 packages-stable/browse-kill-ring-2.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/browse-kill-ring-badge.svg
+4.0K -rw-r--r-- 1 root root  820 May 19 04:21 packages-stable/browse-kill-ring-readme.txt

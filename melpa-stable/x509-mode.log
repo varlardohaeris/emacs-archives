@@ -1,0 +1,6 @@
+Package: x509-mode
+Fetcher: github
+Source:  https://github.com/jobbflykt/x509-mode.git
+
+Updating /mnt/store/melpa/working/x509-mode/
+No valid stable versions found for x509-mode

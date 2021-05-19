@@ -1,0 +1,11 @@
+Package: leaf-keywords
+Fetcher: github
+Source:  https://github.com/conao3/leaf-keywords.el.git
+
+Updating /mnt/store/melpa/working/leaf-keywords/
+Built leaf-keywords in 3.488s, finished at Wed May 19 01:31:55 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K May 19 01:31 packages-stable/leaf-keywords-1.1.0.el
+4.0K -rw-r--r-- 1 root root  366 May 19 01:31 packages-stable/leaf-keywords-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/leaf-keywords-badge.svg
+4.0K -rw-r--r-- 1 root root   16 May 19 01:31 packages-stable/leaf-keywords-readme.txt

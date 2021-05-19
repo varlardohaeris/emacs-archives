@@ -1,0 +1,6 @@
+Package: standoff-mode
+Fetcher: github
+Source:  https://github.com/lueck/standoff-mode.git
+
+Updating /mnt/store/melpa/working/standoff-mode/
+No valid stable versions found for standoff-mode

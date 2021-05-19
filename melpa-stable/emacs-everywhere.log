@@ -1,0 +1,6 @@
+Package: emacs-everywhere
+Fetcher: github
+Source:  https://github.com/tecosaur/emacs-everywhere.git
+
+Updating /mnt/store/melpa/working/emacs-everywhere/
+No valid stable versions found for emacs-everywhere

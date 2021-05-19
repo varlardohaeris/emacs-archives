@@ -1,0 +1,6 @@
+Package: dizzee
+Fetcher: github
+Source:  https://github.com/davidmiller/dizzee.git
+
+Updating /mnt/store/melpa/working/dizzee/
+No valid stable versions found for dizzee

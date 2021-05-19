@@ -1,0 +1,6 @@
+Package: hlint-refactor
+Fetcher: github
+Source:  https://github.com/mpickering/hlint-refactor-mode.git
+
+Updating /mnt/store/melpa/working/hlint-refactor/
+No valid stable versions found for hlint-refactor

@@ -1,11 +1,12 @@
+
 Usage:
   Install via package or copy this file to a location of your load path
   (e.g. ~/.emacs.d) and add the following to your .emacs (or
   .emacs.d/init.el):
 
------------------
-mode Cubicle
------------------
+;-----------------
+; mode Cubicle
+;-----------------
 (setq auto-mode-alist
       (cons '("\\.cub\\'" . cubicle-mode) auto-mode-alist))
 (autoload 'cubicle-mode "cubicle-mode" "Major mode for Cubicle." t)

@@ -1,0 +1,11 @@
+Package: prodigy
+Fetcher: github
+Source:  https://github.com/rejeep/prodigy.el.git
+
+Updating /mnt/store/melpa/working/prodigy/
+Built prodigy in 2.970s, finished at Wed May 19 01:44:07 2021
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  45K May 19 01:44 packages-stable/prodigy-0.7.0.el
+4.0K -rw-r--r-- 1 root root  410 May 19 01:44 packages-stable/prodigy-0.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/prodigy-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 01:44 packages-stable/prodigy-readme.txt

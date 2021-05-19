@@ -1,0 +1,6 @@
+Package: skype
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-skype.git
+
+Updating /mnt/store/melpa/working/skype/
+No valid stable versions found for skype

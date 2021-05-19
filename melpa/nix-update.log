@@ -1,0 +1,11 @@
+Package: nix-update
+Fetcher: github
+Source:  https://github.com/jwiegley/nix-update-el.git
+
+Updating /mnt/store/melpa/working/nix-update/
+Built nix-update in 4.170s, finished at Wed May 19 03:47:08 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.6K May 19 03:47 packages/nix-update-20190124.1935.el
+4.0K -rw-r--r-- 1 root root  405 May 19 03:47 packages/nix-update-20190124.1935.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:47 packages/nix-update-badge.svg
+4.0K -rw-r--r-- 1 root root  123 May 19 03:47 packages/nix-update-readme.txt

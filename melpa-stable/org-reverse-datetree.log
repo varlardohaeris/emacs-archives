@@ -1,0 +1,11 @@
+Package: org-reverse-datetree
+Fetcher: github
+Source:  https://github.com/akirak/org-reverse-datetree.git
+
+Updating /mnt/store/melpa/working/org-reverse-datetree/
+Built org-reverse-datetree in 3.005s, finished at Wed May 19 01:39:56 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  41K May 19 01:39 packages-stable/org-reverse-datetree-0.3.5.el
+4.0K -rw-r--r-- 1 root root  451 May 19 01:39 packages-stable/org-reverse-datetree-0.3.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-reverse-datetree-badge.svg
+4.0K -rw-r--r-- 1 root root  290 May 19 01:39 packages-stable/org-reverse-datetree-readme.txt

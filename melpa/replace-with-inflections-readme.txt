@@ -1,3 +1,4 @@
+
 This package currently provides the following function:
 
 * `query-replace-with-inflections'

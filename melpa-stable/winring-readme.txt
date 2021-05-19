@@ -1,3 +1,4 @@
+
 This package provides lightweight support for circular rings of window
 configurations.  A window configuration is the layout of windows and
 associated buffers within a frame.  There is always at least one

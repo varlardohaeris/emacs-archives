@@ -1,0 +1,6 @@
+Package: sql-sqlline
+Fetcher: gitlab
+Source:  https://gitlab.com/matteoredaelli/sql-sqlline.git
+
+Updating /mnt/store/melpa/working/sql-sqlline/
+No valid stable versions found for sql-sqlline

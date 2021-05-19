@@ -1,0 +1,11 @@
+Package: operate-on-number
+Fetcher: github
+Source:  https://github.com/knu/operate-on-number.el.git
+
+Updating /mnt/store/melpa/working/operate-on-number/
+Built operate-on-number in 3.158s, finished at Wed May 19 01:38:48 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K May 19 01:38 packages-stable/operate-on-number-1.1.0.el
+4.0K -rw-r--r-- 1 root root  386 May 19 01:38 packages-stable/operate-on-number-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/operate-on-number-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K May 19 01:38 packages-stable/operate-on-number-readme.txt

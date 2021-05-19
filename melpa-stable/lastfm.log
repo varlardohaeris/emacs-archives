@@ -1,0 +1,11 @@
+Package: lastfm
+Fetcher: github
+Source:  https://github.com/mihaiolteanu/lastfm.el.git
+
+Updating /mnt/store/melpa/working/lastfm/
+Built lastfm in 3.468s, finished at Wed May 19 01:31:43 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  23K May 19 01:31 packages-stable/lastfm-1.2.el
+4.0K -rw-r--r-- 1 root root  479 May 19 01:31 packages-stable/lastfm-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/lastfm-badge.svg
+4.0K -rw-r--r-- 1 root root  694 May 19 01:31 packages-stable/lastfm-readme.txt

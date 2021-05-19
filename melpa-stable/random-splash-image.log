@@ -1,0 +1,6 @@
+Package: random-splash-image
+Fetcher: github
+Source:  https://github.com/kakakaya/random-splash-image.git
+
+Updating /mnt/store/melpa/working/random-splash-image/
+No valid stable versions found for random-splash-image

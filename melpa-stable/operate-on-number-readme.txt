@@ -1,3 +1,4 @@
+
 Suppose the point is on some number.  If you want to double it,
 invoke `operate-on-number-at-point' followed by some keys: * 2 RET.
 

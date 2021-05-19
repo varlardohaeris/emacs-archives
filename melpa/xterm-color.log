@@ -1,0 +1,11 @@
+Package: xterm-color
+Fetcher: github
+Source:  https://github.com/atomontage/xterm-color.git
+
+Updating /mnt/store/melpa/working/xterm-color/
+Built xterm-color in 4.147s, finished at Wed May 19 04:16:44 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  38K May 19 04:16 packages/xterm-color-20200605.2017.el
+4.0K -rw-r--r-- 1 root root  378 May 19 04:16 packages/xterm-color-20200605.2017.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:16 packages/xterm-color-badge.svg
+4.0K -rw-r--r-- 1 root root  303 May 19 04:16 packages/xterm-color-readme.txt

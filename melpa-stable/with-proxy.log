@@ -1,0 +1,6 @@
+Package: with-proxy
+Fetcher: github
+Source:  https://github.com/twlz0ne/with-proxy.el.git
+
+Updating /mnt/store/melpa/working/with-proxy/
+No valid stable versions found for with-proxy

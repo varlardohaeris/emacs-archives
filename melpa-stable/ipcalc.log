@@ -1,0 +1,6 @@
+Package: ipcalc
+Fetcher: github
+Source:  https://github.com/dotemacs/ipcalc.el.git
+
+Updating /mnt/store/melpa/working/ipcalc/
+No valid stable versions found for ipcalc

@@ -1,0 +1,6 @@
+Package: metrics-tracker
+Fetcher: github
+Source:  https://github.com/ianxm/emacs-tracker.git
+
+Updating /mnt/store/melpa/working/metrics-tracker/
+No valid stable versions found for metrics-tracker

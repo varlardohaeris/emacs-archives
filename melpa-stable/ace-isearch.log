@@ -1,0 +1,11 @@
+Package: ace-isearch
+Fetcher: github
+Source:  https://github.com/tam17aki/ace-isearch.git
+
+Updating /mnt/store/melpa/working/ace-isearch/
+Built ace-isearch in 2.995s, finished at Wed May 19 04:18:38 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K May 19 04:18 packages-stable/ace-isearch-1.0.1.el
+4.0K -rw-r--r-- 1 root root  351 May 19 04:18 packages-stable/ace-isearch-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ace-isearch-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K May 19 04:18 packages-stable/ace-isearch-readme.txt

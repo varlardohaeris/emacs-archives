@@ -1,0 +1,12 @@
+Package: org-recent-headings
+Fetcher: github
+Source:  https://github.com/alphapapa/org-recent-headings.git
+
+Updating /mnt/store/melpa/working/org-recent-headings/
+Note: org-recent-headings :files spec is equivalent to the default.
+Built org-recent-headings in 3.073s, finished at Wed May 19 01:39:53 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  25K May 19 01:39 packages-stable/org-recent-headings-0.1.el
+4.0K -rw-r--r-- 1 root root  508 May 19 01:39 packages-stable/org-recent-headings-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-recent-headings-badge.svg
+4.0K -rw-r--r-- 1 root root  772 May 19 01:39 packages-stable/org-recent-headings-readme.txt

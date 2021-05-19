@@ -1,0 +1,6 @@
+Package: sdcv
+Fetcher: github
+Source:  https://github.com/stardiviner/sdcv.el.git
+
+Updating /mnt/store/melpa/working/sdcv/
+No valid stable versions found for sdcv

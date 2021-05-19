@@ -1,0 +1,11 @@
+Package: nov
+Fetcher: git
+Source:  https://depp.brause.cc/nov.el.git
+
+Updating /mnt/store/melpa/working/nov/
+Built nov in 3.188s, finished at Wed May 19 01:37:41 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  34K May 19 01:37 packages-stable/nov-0.3.4.el
+4.0K -rw-r--r-- 1 root root  431 May 19 01:37 packages-stable/nov-0.3.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nov-badge.svg
+4.0K -rw-r--r-- 1 root root  505 May 19 01:37 packages-stable/nov-readme.txt

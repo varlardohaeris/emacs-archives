@@ -1,0 +1,11 @@
+Package: diredfl
+Fetcher: github
+Source:  https://github.com/purcell/diredfl.git
+
+Updating /mnt/store/melpa/working/diredfl/
+Built diredfl in 3.123s, finished at Wed May 19 04:28:06 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K May 19 04:28 packages-stable/diredfl-0.4.el
+4.0K -rw-r--r-- 1 root root  360 May 19 04:28 packages-stable/diredfl-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/diredfl-badge.svg
+4.0K -rw-r--r-- 1 root root  308 May 19 04:28 packages-stable/diredfl-readme.txt

@@ -1,0 +1,6 @@
+Package: aqi
+Fetcher: github
+Source:  https://github.com/zzkt/aqi.git
+
+Updating /mnt/store/melpa/working/aqi/
+No valid stable versions found for aqi

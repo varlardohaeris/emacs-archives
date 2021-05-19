@@ -1,0 +1,28 @@
+Package: powerline
+Fetcher: github
+Source:  https://github.com/milkypostman/powerline.git
+
+Updating /mnt/store/melpa/working/powerline/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/powerline/
+  to /tmp/powerlinenaIQcg/powerline-20210428.1229
+    powerline-separators.el -> powerline-separators.el
+    powerline-themes.el -> powerline-themes.el
+    powerline.el -> powerline.el
+Created powerline-20210428.1229.tar containing:
+  powerline-20210428.1229/
+  powerline-20210428.1229/powerline-pkg.el
+  powerline-20210428.1229/powerline-separators.el
+  powerline-20210428.1229/powerline-themes.el
+  powerline-20210428.1229/powerline.el
+Built powerline in 4.505s, finished at Wed May 19 03:56:48 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  390 May 19 03:56 packages/powerline-20210428.1229.entry
+ 80K -rw-r--r-- 1 root root  80K May 19 03:56 packages/powerline-20210428.1229.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:56 packages/powerline-badge.svg
+4.0K -rw-r--r-- 1 root root  463 May 19 03:56 packages/powerline-evil-20190603.340.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 03:56 packages/powerline-evil-20190603.340.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:56 packages/powerline-evil-badge.svg
+4.0K -rw-r--r-- 1 root root   73 May 19 03:56 packages/powerline-evil-readme.txt
+4.0K -rw-r--r-- 1 root root 1.1K May 19 03:56 packages/powerline-evil.log
+4.0K -rw-r--r-- 1 root root  148 May 19 03:56 packages/powerline-readme.txt

@@ -1,0 +1,6 @@
+Package: windata
+Fetcher: github
+Source:  https://github.com/emacsorphanage/windata.git
+
+Updating /mnt/store/melpa/working/windata/
+No valid stable versions found for windata

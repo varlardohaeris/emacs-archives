@@ -1,0 +1,6 @@
+Package: flutter
+Fetcher: github
+Source:  https://github.com/amake/flutter.el.git
+
+Updating /mnt/store/melpa/working/flutter/
+No valid stable versions found for flutter

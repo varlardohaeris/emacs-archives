@@ -1,0 +1,11 @@
+Package: evil-colemak-basics
+Fetcher: github
+Source:  https://github.com/wbolster/emacs-evil-colemak-basics.git
+
+Updating /mnt/store/melpa/working/evil-colemak-basics/
+Built evil-colemak-basics in 3.017s, finished at Wed May 19 04:32:07 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K May 19 04:32 packages-stable/evil-colemak-basics-2.1.0.el
+4.0K -rw-r--r-- 1 root root  491 May 19 04:32 packages-stable/evil-colemak-basics-2.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-colemak-basics-badge.svg
+4.0K -rw-r--r-- 1 root root  264 May 19 04:32 packages-stable/evil-colemak-basics-readme.txt

@@ -1,0 +1,32 @@
+Package: avy
+Fetcher: github
+Source:  https://github.com/abo-abo/avy.git
+
+Updating /mnt/store/melpa/working/avy/
+Built avy in 3.526s, finished at Wed May 19 04:20:30 2021
+ ✓ Success:
+ 80K -rw-r--r-- 1 root root  79K May 19 04:20 packages-stable/avy-0.5.0.el
+4.0K -rw-r--r-- 1 root root  422 May 19 04:20 packages-stable/avy-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/avy-badge.svg
+8.0K -rw-r--r-- 1 root root 4.1K May 19 04:20 packages-stable/avy-embark-collect-0.10.el
+4.0K -rw-r--r-- 1 root root  490 May 19 01:05 packages-stable/avy-embark-collect-0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/avy-embark-collect-badge.svg
+4.0K -rw-r--r-- 1 root root  185 May 19 01:05 packages-stable/avy-embark-collect-readme.txt
+4.0K -rw-r--r-- 1 root root  147 May 19 04:20 packages-stable/avy-embark-collect.log
+4.0K -rw-r--r-- 1 root root  191 May 19 04:20 packages-stable/avy-flycheck.log
+8.0K -rw-r--r-- 1 root root 6.4K May 19 04:20 packages-stable/avy-menu-0.1.1.el
+4.0K -rw-r--r-- 1 root root  401 May 19 01:05 packages-stable/avy-menu-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/avy-menu-badge.svg
+4.0K -rw-r--r-- 1 root root  261 May 19 01:05 packages-stable/avy-menu-readme.txt
+4.0K -rw-r--r-- 1 root root  127 May 19 04:20 packages-stable/avy-menu.log
+4.0K -rw-r--r-- 1 root root  379 May 19 01:05 packages-stable/avy-migemo-0.3.2.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 01:05 packages-stable/avy-migemo-0.3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/avy-migemo-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K May 19 01:05 packages-stable/avy-migemo-readme.txt
+4.0K -rw-r--r-- 1 root root  137 May 19 04:20 packages-stable/avy-migemo.log
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/avy-readme.txt
+8.0K -rw-r--r-- 1 root root 6.2K May 19 01:05 packages-stable/avy-zap-0.1.4.el
+4.0K -rw-r--r-- 1 root root  343 May 19 01:05 packages-stable/avy-zap-0.1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:05 packages-stable/avy-zap-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K May 19 01:05 packages-stable/avy-zap-readme.txt
+4.0K -rw-r--r-- 1 root root  129 May 19 04:20 packages-stable/avy-zap.log

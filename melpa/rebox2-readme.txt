@@ -1,8 +1,8 @@
-                     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
                      ;; Hi, I'm a box. My style is 525 ;;
                      ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-Features first:
+; Features first:
 
 ** minor-mode features
 
@@ -20,7 +20,7 @@ Features first:
    - `rebox-allowance'
 
 
-Installation:
+; Installation:
 
 1. Add rebox2.el to a directory in your load-path.
 
@@ -58,12 +58,12 @@ Installation:
            (nconc rebox-style-loop '(46))))
        (add-hook 'c++-mode-hook #'my-c++-setup)
 
-Ideas removed from François Pinard's original version
+; Ideas removed from François Pinard's original version
 
 * Building styles on top of each other.
 
 
-Future improvement ideas:
+; Future improvement ideas:
 
 * remove reliance on dynamic binding using `destructuring-bind' or a hash
 * allow mixed borders "-=-=-=-=-=-"
@@ -71,3 +71,5 @@ Future improvement ideas:
   rebuild boxes all the time.
 * style selection can use some kind of menu completion where all styles are
   presented and the user navigates
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,6 @@
+Package: yasnippet-lean
+Fetcher: github
+Source:  https://github.com/leanprover-community/yasnippet-lean.git
+
+Updating /mnt/store/melpa/working/yasnippet-lean/
+No valid stable versions found for yasnippet-lean

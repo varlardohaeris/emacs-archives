@@ -1,0 +1,21 @@
+Package: helm-perldoc
+Fetcher: github
+Source:  https://github.com/emacsorphanage/helm-perldoc.git
+
+Updating /mnt/store/melpa/working/helm-perldoc/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm-perldoc/
+  to /tmp/helm-perldoc4EjBhc/helm-perldoc-0.7
+    helm-perldoc.el -> helm-perldoc.el
+    helm-perldoc-collect-modules.pl -> helm-perldoc-collect-modules.pl
+Created helm-perldoc-0.7.tar containing:
+  helm-perldoc-0.7/
+  helm-perldoc-0.7/helm-perldoc-collect-modules.pl
+  helm-perldoc-0.7/helm-perldoc-pkg.el
+  helm-perldoc-0.7/helm-perldoc.el
+Built helm-perldoc in 2.956s, finished at Wed May 19 04:40:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  378 May 19 04:40 packages-stable/helm-perldoc-0.7.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:40 packages-stable/helm-perldoc-0.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-perldoc-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:40 packages-stable/helm-perldoc-readme.txt

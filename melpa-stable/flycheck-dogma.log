@@ -1,0 +1,6 @@
+Package: flycheck-dogma
+Fetcher: github
+Source:  https://github.com/aaronjensen/flycheck-dogma.git
+
+Updating /mnt/store/melpa/working/flycheck-dogma/
+No valid stable versions found for flycheck-dogma

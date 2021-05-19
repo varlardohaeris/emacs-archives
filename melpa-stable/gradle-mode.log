@@ -1,0 +1,11 @@
+Package: gradle-mode
+Fetcher: github
+Source:  https://github.com/jacobono/emacs-gradle-mode.git
+
+Updating /mnt/store/melpa/working/gradle-mode/
+Built gradle-mode in 2.782s, finished at Wed May 19 04:38:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K May 19 04:38 packages-stable/gradle-mode-0.5.5.el
+4.0K -rw-r--r-- 1 root root  408 May 19 04:38 packages-stable/gradle-mode-0.5.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/gradle-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  120 May 19 04:38 packages-stable/gradle-mode-readme.txt

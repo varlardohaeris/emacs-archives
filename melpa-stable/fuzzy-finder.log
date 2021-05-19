@@ -1,0 +1,11 @@
+Package: fuzzy-finder
+Fetcher: github
+Source:  https://github.com/10sr/fuzzy-finder-el.git
+
+Updating /mnt/store/melpa/working/fuzzy-finder/
+Built fuzzy-finder in 3.016s, finished at Wed May 19 04:36:32 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K May 19 04:36 packages-stable/fuzzy-finder-0.0.1.el
+4.0K -rw-r--r-- 1 root root  347 May 19 04:36 packages-stable/fuzzy-finder-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fuzzy-finder-badge.svg
+4.0K -rw-r--r-- 1 root root  590 May 19 04:36 packages-stable/fuzzy-finder-readme.txt

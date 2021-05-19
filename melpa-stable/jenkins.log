@@ -1,0 +1,6 @@
+Package: jenkins
+Fetcher: github
+Source:  https://github.com/rmuslimov/jenkins.el.git
+
+Updating /mnt/store/melpa/working/jenkins/
+No valid stable versions found for jenkins

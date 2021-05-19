@@ -1,0 +1,11 @@
+Package: w32-browser
+Fetcher: github
+Source:  https://github.com/emacsorphanage/w32-browser.git
+
+Updating /mnt/store/melpa/working/w32-browser/
+Built w32-browser in 4.748s, finished at Wed May 19 04:13:54 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:13 packages/w32-browser-20170101.1954.el
+4.0K -rw-r--r-- 1 root root  423 May 19 04:13 packages/w32-browser-20170101.1954.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/w32-browser-badge.svg
+4.0K -rw-r--r-- 1 root root  486 May 19 04:13 packages/w32-browser-readme.txt

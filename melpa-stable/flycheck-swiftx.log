@@ -1,0 +1,6 @@
+Package: flycheck-swiftx
+Fetcher: github
+Source:  https://github.com/nhojb/flycheck-swiftx.git
+
+Updating /mnt/store/melpa/working/flycheck-swiftx/
+No valid stable versions found for flycheck-swiftx

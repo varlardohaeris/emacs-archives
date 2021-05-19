@@ -1,0 +1,6 @@
+Package: helm-rubygems-local
+Fetcher: github
+Source:  https://github.com/hadashiA/helm-rubygems-local.git
+
+Updating /mnt/store/melpa/working/helm-rubygems-local/
+No valid stable versions found for helm-rubygems-local

@@ -1,0 +1,11 @@
+Package: ta
+Fetcher: github
+Source:  https://github.com/kuanyui/ta.el.git
+
+Updating /mnt/store/melpa/working/ta/
+Built ta in 3.734s, finished at Wed May 19 01:51:09 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.6K May 19 01:51 packages-stable/ta-1.5.el
+4.0K -rw-r--r-- 1 root root  393 May 19 01:51 packages-stable/ta-1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/ta-badge.svg
+4.0K -rw-r--r-- 1 root root  172 May 19 01:51 packages-stable/ta-readme.txt

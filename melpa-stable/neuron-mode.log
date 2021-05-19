@@ -1,0 +1,6 @@
+Package: neuron-mode
+Fetcher: github
+Source:  https://github.com/felko/neuron-mode.git
+
+Updating /mnt/store/melpa/working/neuron-mode/
+No valid stable versions found for neuron-mode

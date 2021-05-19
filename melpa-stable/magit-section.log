@@ -1,0 +1,11 @@
+Package: magit-section
+Fetcher: github
+Source:  https://github.com/magit/magit.git
+
+Updating /mnt/store/melpa/working/magit-section/
+Built magit-section in 3.222s, finished at Wed May 19 01:33:41 2021
+ ✓ Success:
+ 60K -rw-r--r-- 1 root root  60K May 19 01:33 packages-stable/magit-section-2.90.1.el
+4.0K -rw-r--r-- 1 root root  248 May 19 01:33 packages-stable/magit-section-2.90.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-section-badge.svg
+4.0K -rw-r--r-- 1 root root  189 May 19 01:33 packages-stable/magit-section-readme.txt

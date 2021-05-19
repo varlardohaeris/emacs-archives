@@ -1,0 +1,6 @@
+Package: helm-lines
+Fetcher: github
+Source:  https://github.com/torgeir/helm-lines.el.git
+
+Updating /mnt/store/melpa/working/helm-lines/
+No valid stable versions found for helm-lines

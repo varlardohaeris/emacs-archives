@@ -1,0 +1,6 @@
+Package: hg-histedit
+Fetcher: github
+Source:  https://github.com/jojojames/hg-histedit.git
+
+Updating /mnt/store/melpa/working/hg-histedit/
+No valid stable versions found for hg-histedit

@@ -1,0 +1,6 @@
+Package: lsp-intellij
+Fetcher: github
+Source:  https://github.com/Ruin0x11/lsp-intellij.git
+
+Updating /mnt/store/melpa/working/lsp-intellij/
+No valid stable versions found for lsp-intellij

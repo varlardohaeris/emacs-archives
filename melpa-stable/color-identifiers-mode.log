@@ -1,0 +1,11 @@
+Package: color-identifiers-mode
+Fetcher: github
+Source:  https://github.com/ankurdave/color-identifiers-mode.git
+
+Updating /mnt/store/melpa/working/color-identifiers-mode/
+Built color-identifiers-mode in 2.799s, finished at Wed May 19 04:23:57 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  30K May 19 04:23 packages-stable/color-identifiers-mode-1.0.0.el
+4.0K -rw-r--r-- 1 root root  426 May 19 04:23 packages-stable/color-identifiers-mode-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/color-identifiers-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  329 May 19 04:23 packages-stable/color-identifiers-mode-readme.txt

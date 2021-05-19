@@ -1,0 +1,6 @@
+Package: helm-git
+Fetcher: github
+Source:  https://github.com/maio/helm-git.git
+
+Updating /mnt/store/melpa/working/helm-git/
+No valid stable versions found for helm-git

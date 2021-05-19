@@ -1,0 +1,21 @@
+Package: company-plisp
+Fetcher: gitlab
+Source:  https://gitlab.com/sasanidas/company-plisp.git
+
+Updating /mnt/store/melpa/working/company-plisp/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-plisp/
+  to /tmp/company-plisptd9wfX/company-plisp-0.0.1
+    company-plisp.el -> company-plisp.el
+    company-plisp.l -> company-plisp.l
+Created company-plisp-0.0.1.tar containing:
+  company-plisp-0.0.1/
+  company-plisp-0.0.1/company-plisp-pkg.el
+  company-plisp-0.0.1/company-plisp.el
+  company-plisp-0.0.1/company-plisp.l
+Built company-plisp in 3.074s, finished at Wed May 19 04:24:40 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  480 May 19 04:24 packages-stable/company-plisp-0.0.1.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 04:24 packages-stable/company-plisp-0.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-plisp-badge.svg
+4.0K -rw-r--r-- 1 root root   63 May 19 04:24 packages-stable/company-plisp-readme.txt

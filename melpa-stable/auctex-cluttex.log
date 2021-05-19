@@ -1,0 +1,11 @@
+Package: auctex-cluttex
+Fetcher: github
+Source:  https://github.com/tsuu32/auctex-cluttex.git
+
+Updating /mnt/store/melpa/working/auctex-cluttex/
+Built auctex-cluttex in 3.207s, finished at Wed May 19 04:20:00 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.2K May 19 04:19 packages-stable/auctex-cluttex-0.2.0.el
+4.0K -rw-r--r-- 1 root root  384 May 19 04:20 packages-stable/auctex-cluttex-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/auctex-cluttex-badge.svg
+4.0K -rw-r--r-- 1 root root  247 May 19 04:20 packages-stable/auctex-cluttex-readme.txt

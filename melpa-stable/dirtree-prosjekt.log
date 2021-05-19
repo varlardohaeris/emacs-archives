@@ -1,0 +1,6 @@
+Package: dirtree-prosjekt
+Fetcher: github
+Source:  https://github.com/abingham/prosjekt.git
+
+Updating /mnt/store/melpa/working/dirtree-prosjekt/
+No valid stable versions found for dirtree-prosjekt

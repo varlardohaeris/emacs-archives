@@ -1,0 +1,6 @@
+Package: handle
+Fetcher: github
+Source:  https://github.com/wurosh/handle.git
+
+Updating /mnt/store/melpa/working/handle/
+No valid stable versions found for handle

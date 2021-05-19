@@ -1,0 +1,6 @@
+Package: chronos
+Fetcher: github
+Source:  https://github.com/dxknight/chronos.git
+
+Updating /mnt/store/melpa/working/chronos/
+No valid stable versions found for chronos

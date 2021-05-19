@@ -1,0 +1,6 @@
+Package: kotlin-mode
+Fetcher: github
+Source:  https://github.com/Emacs-Kotlin-Mode-Maintainers/kotlin-mode.git
+
+Updating /mnt/store/melpa/working/kotlin-mode/
+No valid stable versions found for kotlin-mode

@@ -1,0 +1,6 @@
+Package: quick-preview
+Fetcher: github
+Source:  https://github.com/emacsattic/quick-preview.git
+
+Updating /mnt/store/melpa/working/quick-preview/
+No valid stable versions found for quick-preview

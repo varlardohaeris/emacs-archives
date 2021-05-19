@@ -1,0 +1,6 @@
+Package: ox-leanpub
+Fetcher: gitlab
+Source:  https://gitlab.com/zzamboni/ox-leanpub.git
+
+Updating /mnt/store/melpa/working/ox-leanpub/
+No valid stable versions found for ox-leanpub

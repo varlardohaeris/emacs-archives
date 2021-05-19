@@ -9,7 +9,13 @@ The main advantages are:
 
 NOTE:
 1. For MacOS users, posframe needs Emacs version >= 26.0.91
-2. Posframe will be very very slow when emacs is built with --with-x-toolkit=athena.
+2. GNOME users with GTK3 builds need Emacs 27 or later.
+   See variable `posframe-gtk-resize-child-frames'
+   which auto-detects this configuration.
+
+   More details:
+   1. [[https://git.savannah.gnu.org/cgit/emacs.git/commit/?h=emacs-27&id=c49d379f17bcb0ce82604def2eaa04bda00bd5ec][Fix some problems with moving and resizing child frames]]
+   2. [[https://lists.gnu.org/archive/html/emacs-devel/2020-01/msg00343.html][Emacs's set-frame-size can not work well with gnome-shell?]]
 
 [[./snapshots/posframe-1.png]]
 
@@ -106,4 +112,5 @@ border-width to 10 and fallback background color to green.
 3. [[https://github.com/tumashu/pyim][pyim]]
 4. [[https://github.com/tumashu/ivy-posframe][ivy-posframe]]
 5. [[https://github.com/tumashu/company-posframe][company-posframe]]
-6. ...
+6. [[https://github.com/randomwangran/org-marginalia-posframe][org-marginalia-posframe]]
+7. ...

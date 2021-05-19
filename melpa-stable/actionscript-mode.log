@@ -1,0 +1,11 @@
+Package: actionscript-mode
+Fetcher: github
+Source:  https://github.com/austinhaas/actionscript-mode.git
+
+Updating /mnt/store/melpa/working/actionscript-mode/
+Built actionscript-mode in 3.124s, finished at Wed May 19 04:18:45 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  26K May 19 04:18 packages-stable/actionscript-mode-7.2.2.el
+4.0K -rw-r--r-- 1 root root  281 May 19 04:18 packages-stable/actionscript-mode-7.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/actionscript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  403 May 19 04:18 packages-stable/actionscript-mode-readme.txt

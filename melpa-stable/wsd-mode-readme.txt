@@ -1,3 +1,4 @@
+
 This is a major-mode for modelling and editing sequence-diagrams
 using the syntax employed by the online service
 www.websequencediagrams.com.

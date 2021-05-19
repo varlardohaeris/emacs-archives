@@ -1,0 +1,6 @@
+Package: ob-latex-as-png
+Fetcher: github
+Source:  https://github.com/alhassy/ob-latex-as-png.git
+
+Updating /mnt/store/melpa/working/ob-latex-as-png/
+No valid stable versions found for ob-latex-as-png

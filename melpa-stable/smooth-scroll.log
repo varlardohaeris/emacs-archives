@@ -1,0 +1,11 @@
+Package: smooth-scroll
+Fetcher: github
+Source:  https://github.com/k-talo/smooth-scroll.el.git
+
+Updating /mnt/store/melpa/working/smooth-scroll/
+Built smooth-scroll in 3.524s, finished at Wed May 19 01:49:24 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  24K May 19 01:49 packages-stable/smooth-scroll-1.2.el
+4.0K -rw-r--r-- 1 root root  439 May 19 01:49 packages-stable/smooth-scroll-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/smooth-scroll-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 01:49 packages-stable/smooth-scroll-readme.txt

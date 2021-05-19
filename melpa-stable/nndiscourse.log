@@ -1,0 +1,6 @@
+Package: nndiscourse
+Fetcher: github
+Source:  https://github.com/dickmao/nndiscourse.git
+
+Updating /mnt/store/melpa/working/nndiscourse/
+No valid stable versions found for nndiscourse

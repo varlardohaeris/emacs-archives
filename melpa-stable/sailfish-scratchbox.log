@@ -1,0 +1,6 @@
+Package: sailfish-scratchbox
+Fetcher: github
+Source:  https://github.com/vityafx/sailfish-scratchbox.el.git
+
+Updating /mnt/store/melpa/working/sailfish-scratchbox/
+No valid stable versions found for sailfish-scratchbox

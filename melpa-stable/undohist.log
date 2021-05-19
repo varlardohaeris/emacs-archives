@@ -1,0 +1,11 @@
+Package: undohist
+Fetcher: github
+Source:  https://github.com/emacsorphanage/undohist.git
+
+Updating /mnt/store/melpa/working/undohist/
+Built undohist in 2.861s, finished at Wed May 19 01:53:22 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K May 19 01:53 packages-stable/undohist-0.2.1.el
+4.0K -rw-r--r-- 1 root root  327 May 19 01:53 packages-stable/undohist-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/undohist-badge.svg
+4.0K -rw-r--r-- 1 root root  299 May 19 01:53 packages-stable/undohist-readme.txt

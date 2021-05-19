@@ -1,0 +1,29 @@
+Package: beeminder
+Fetcher: github
+Source:  https://github.com/Sodaware/beeminder.el.git
+
+Updating /mnt/store/melpa/working/beeminder/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/beeminder/
+  to /tmp/beeminderIHxdDb/beeminder-1.2.0
+    beeminder-api.el -> beeminder-api.el
+    beeminder-client-faces.el -> beeminder-client-faces.el
+    beeminder-client.el -> beeminder-client.el
+    beeminder-org.el -> beeminder-org.el
+    beeminder-settings.el -> beeminder-settings.el
+    beeminder.el -> beeminder.el
+Created beeminder-1.2.0.tar containing:
+  beeminder-1.2.0/
+  beeminder-1.2.0/beeminder-api.el
+  beeminder-1.2.0/beeminder-client-faces.el
+  beeminder-1.2.0/beeminder-client.el
+  beeminder-1.2.0/beeminder-org.el
+  beeminder-1.2.0/beeminder-pkg.el
+  beeminder-1.2.0/beeminder-settings.el
+  beeminder-1.2.0/beeminder.el
+Built beeminder in 2.833s, finished at Wed May 19 04:20:55 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  427 May 19 04:20 packages-stable/beeminder-1.2.0.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 04:20 packages-stable/beeminder-1.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/beeminder-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K May 19 04:20 packages-stable/beeminder-readme.txt

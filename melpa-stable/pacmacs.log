@@ -1,0 +1,6 @@
+Package: pacmacs
+Fetcher: github
+Source:  https://github.com/codingteam/pacmacs.el.git
+
+Updating /mnt/store/melpa/working/pacmacs/
+No valid stable versions found for pacmacs

@@ -1,0 +1,12 @@
+Package: google-this
+Fetcher: github
+Source:  https://github.com/Malabarba/emacs-google-this.git
+
+Updating /mnt/store/melpa/working/google-this/
+Note: google-this :files spec is equivalent to the default.
+Built google-this in 3.044s, finished at Wed May 19 04:38:17 2021
+ ✓ Success:
+ 20K -rwxr-xr-x 1 root root  19K May 19 04:38 packages-stable/google-this-1.12.el
+4.0K -rw-r--r-- 1 root root  445 May 19 04:38 packages-stable/google-this-1.12.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/google-this-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K May 19 04:38 packages-stable/google-this-readme.txt

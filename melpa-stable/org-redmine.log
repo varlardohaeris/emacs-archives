@@ -1,0 +1,6 @@
+Package: org-redmine
+Fetcher: github
+Source:  https://github.com/gongo/org-redmine.git
+
+Updating /mnt/store/melpa/working/org-redmine/
+No valid stable versions found for org-redmine

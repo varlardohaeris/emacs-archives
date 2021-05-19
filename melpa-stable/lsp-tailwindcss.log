@@ -1,0 +1,6 @@
+Package: lsp-tailwindcss
+Fetcher: github
+Source:  https://github.com/merrickluo/lsp-tailwindcss.git
+
+Updating /mnt/store/melpa/working/lsp-tailwindcss/
+No valid stable versions found for lsp-tailwindcss

@@ -1,0 +1,6 @@
+Package: pomodoro
+Fetcher: github
+Source:  https://github.com/baudtack/pomodoro.el.git
+
+Updating /mnt/store/melpa/working/pomodoro/
+No valid stable versions found for pomodoro

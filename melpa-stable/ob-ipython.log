@@ -1,0 +1,6 @@
+Package: ob-ipython
+Fetcher: github
+Source:  https://github.com/gregsexton/ob-ipython.git
+
+Updating /mnt/store/melpa/working/ob-ipython/
+No valid stable versions found for ob-ipython

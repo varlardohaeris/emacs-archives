@@ -1,7 +1,7 @@
 This package provides a way to automatically trigger recompilation
 when associated source buffer changes.
 
-Installation:
+; Installation:
 
 The easiest and preferred way to install recompile-on-save is to use
 the package available on MELPA.
@@ -14,7 +14,7 @@ Save recompile-on-save.el to a directory on your load-path (e.g.,
  (require 'recompile-on-save)
 
 
-Using recompile-on-save:
+; Using recompile-on-save:
 
 You should have at least one source buffer and one compilation
 buffer. When you run M-x recompile-on-save in the source buffer it

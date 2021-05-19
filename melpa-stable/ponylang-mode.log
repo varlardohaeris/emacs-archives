@@ -1,0 +1,11 @@
+Package: ponylang-mode
+Fetcher: github
+Source:  https://github.com/ponylang/ponylang-mode.git
+
+Updating /mnt/store/melpa/working/ponylang-mode/
+Built ponylang-mode in 3.681s, finished at Wed May 19 01:43:42 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  37K May 19 01:43 packages-stable/ponylang-mode-0.6.0.el
+4.0K -rw-r--r-- 1 root root  505 May 19 01:43 packages-stable/ponylang-mode-0.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/ponylang-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  458 May 19 01:43 packages-stable/ponylang-mode-readme.txt

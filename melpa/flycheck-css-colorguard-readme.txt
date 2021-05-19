@@ -15,7 +15,7 @@ For more information about this Flycheck extension:
 https://github.com/Simplify/flycheck-css-colorguard
 
 
-Setup
+;; Setup
 
 Install CSS Colorguard:
 npm install -g colorguard

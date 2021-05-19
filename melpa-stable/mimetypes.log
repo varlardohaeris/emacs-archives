@@ -1,0 +1,6 @@
+Package: mimetypes
+Fetcher: github
+Source:  https://github.com/cniles/emacs-mimetypes.git
+
+Updating /mnt/store/melpa/working/mimetypes/
+No valid stable versions found for mimetypes

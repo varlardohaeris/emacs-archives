@@ -1,0 +1,6 @@
+Package: gnome-calendar
+Fetcher: github
+Source:  https://github.com/NicolasPetton/gnome-calendar.el.git
+
+Updating /mnt/store/melpa/working/gnome-calendar/
+No valid stable versions found for gnome-calendar

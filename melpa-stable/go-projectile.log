@@ -1,0 +1,6 @@
+Package: go-projectile
+Fetcher: github
+Source:  https://github.com/dougm/go-projectile.git
+
+Updating /mnt/store/melpa/working/go-projectile/
+No valid stable versions found for go-projectile

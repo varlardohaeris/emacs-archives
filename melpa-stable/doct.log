@@ -1,0 +1,6 @@
+Package: doct
+Fetcher: github
+Source:  https://github.com/progfolio/doct.git
+
+Updating /mnt/store/melpa/working/doct/
+No valid stable versions found for doct

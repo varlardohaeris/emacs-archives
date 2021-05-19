@@ -1,0 +1,6 @@
+Package: helm-catkin
+Fetcher: github
+Source:  https://github.com/gollth/helm-catkin.git
+
+Updating /mnt/store/melpa/working/helm-catkin/
+No valid stable versions found for helm-catkin

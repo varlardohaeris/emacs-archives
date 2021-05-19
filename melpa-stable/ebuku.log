@@ -1,0 +1,6 @@
+Package: ebuku
+Fetcher: github
+Source:  https://github.com/flexibeast/ebuku.git
+
+Updating /mnt/store/melpa/working/ebuku/
+No valid stable versions found for ebuku

@@ -1,0 +1,11 @@
+Package: badwolf-theme
+Fetcher: github
+Source:  https://github.com/bkruczyk/badwolf-emacs.git
+
+Updating /mnt/store/melpa/working/badwolf-theme/
+Built badwolf-theme in 3.391s, finished at Wed May 19 04:20:40 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K May 19 04:20 packages-stable/badwolf-theme-1.2.el
+4.0K -rw-r--r-- 1 root root  351 May 19 04:20 packages-stable/badwolf-theme-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/badwolf-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   76 May 19 04:20 packages-stable/badwolf-theme-readme.txt

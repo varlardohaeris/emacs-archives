@@ -1,0 +1,6 @@
+Package: modern-sh
+Fetcher: github
+Source:  https://github.com/damon-kwok/modern-sh.git
+
+Updating /mnt/store/melpa/working/modern-sh/
+No valid stable versions found for modern-sh

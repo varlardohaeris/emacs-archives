@@ -1,0 +1,6 @@
+Package: helm-fuzzy-find
+Fetcher: github
+Source:  https://github.com/xuchunyang/helm-fuzzy-find.git
+
+Updating /mnt/store/melpa/working/helm-fuzzy-find/
+No valid stable versions found for helm-fuzzy-find

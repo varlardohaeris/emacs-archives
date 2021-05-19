@@ -1,0 +1,6 @@
+Package: revert-buffer-all
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-revert-buffer-all.git
+
+Updating /mnt/store/melpa/working/revert-buffer-all/
+No valid stable versions found for revert-buffer-all

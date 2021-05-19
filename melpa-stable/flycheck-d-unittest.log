@@ -1,0 +1,6 @@
+Package: flycheck-d-unittest
+Fetcher: github
+Source:  https://github.com/flycheck/flycheck-d-unittest.git
+
+Updating /mnt/store/melpa/working/flycheck-d-unittest/
+No valid stable versions found for flycheck-d-unittest

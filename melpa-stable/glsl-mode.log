@@ -1,0 +1,6 @@
+Package: glsl-mode
+Fetcher: github
+Source:  https://github.com/jimhourihan/glsl-mode.git
+
+Updating /mnt/store/melpa/working/glsl-mode/
+No valid stable versions found for glsl-mode

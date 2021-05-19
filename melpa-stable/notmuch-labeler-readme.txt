@@ -1,3 +1,4 @@
+
 By default notmuch presents email labels as plain text. This
 package improves notmuch by lettings users choose how to present
 each label (e.g., with a special font, with a picture, ...).

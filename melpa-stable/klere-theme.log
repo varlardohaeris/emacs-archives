@@ -1,0 +1,6 @@
+Package: klere-theme
+Fetcher: git
+Source:  https://codeberg.org/WammKD/emacs-klere-theme.git
+
+Updating /mnt/store/melpa/working/klere-theme/
+No valid stable versions found for klere-theme

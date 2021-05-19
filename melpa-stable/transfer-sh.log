@@ -1,0 +1,6 @@
+Package: transfer-sh
+Fetcher: gitlab
+Source:  https://gitlab.com/tuedachu/transfer-sh.el.git
+
+Updating /mnt/store/melpa/working/transfer-sh/
+No valid stable versions found for transfer-sh

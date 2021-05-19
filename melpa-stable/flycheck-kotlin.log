@@ -1,0 +1,11 @@
+Package: flycheck-kotlin
+Fetcher: github
+Source:  https://github.com/whirm/flycheck-kotlin.git
+
+Updating /mnt/store/melpa/working/flycheck-kotlin/
+Built flycheck-kotlin in 2.875s, finished at Wed May 19 04:34:56 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.9K May 19 04:34 packages-stable/flycheck-kotlin-0.4.el
+4.0K -rw-r--r-- 1 root root  295 May 19 04:34 packages-stable/flycheck-kotlin-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-kotlin-badge.svg
+4.0K -rw-r--r-- 1 root root  154 May 19 04:34 packages-stable/flycheck-kotlin-readme.txt

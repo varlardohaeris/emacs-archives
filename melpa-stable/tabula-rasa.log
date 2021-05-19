@@ -1,0 +1,6 @@
+Package: tabula-rasa
+Fetcher: github
+Source:  https://github.com/IdoMagal/Tabula-Rasa.git
+
+Updating /mnt/store/melpa/working/tabula-rasa/
+No valid stable versions found for tabula-rasa

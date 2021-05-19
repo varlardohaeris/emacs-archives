@@ -1,0 +1,6 @@
+Package: mc-calc
+Fetcher: github
+Source:  https://github.com/hatheroldev/mc-calc.git
+
+Updating /mnt/store/melpa/working/mc-calc/
+No valid stable versions found for mc-calc

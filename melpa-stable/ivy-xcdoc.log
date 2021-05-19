@@ -1,0 +1,6 @@
+Package: ivy-xcdoc
+Fetcher: github
+Source:  https://github.com/hex2010/emacs-ivy-xcdoc.git
+
+Updating /mnt/store/melpa/working/ivy-xcdoc/
+No valid stable versions found for ivy-xcdoc

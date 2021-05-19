@@ -1,0 +1,6 @@
+Package: flycheck-perl6
+Fetcher: github
+Source:  https://github.com/hinrik/flycheck-perl6.git
+
+Updating /mnt/store/melpa/working/flycheck-perl6/
+No valid stable versions found for flycheck-perl6

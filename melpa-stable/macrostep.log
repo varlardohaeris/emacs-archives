@@ -1,0 +1,22 @@
+Package: macrostep
+Fetcher: github
+Source:  https://github.com/joddie/macrostep.git
+
+Updating /mnt/store/melpa/working/macrostep/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/macrostep/
+  to /tmp/macrostepErN8qA/macrostep-0.9
+    macrostep-c.el -> macrostep-c.el
+    macrostep.el -> macrostep.el
+Created macrostep-0.9.tar containing:
+  macrostep-0.9/
+  macrostep-0.9/macrostep-c.el
+  macrostep-0.9/macrostep-pkg.el
+  macrostep-0.9/macrostep.el
+Built macrostep in 3.070s, finished at Wed May 19 01:33:24 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  377 May 19 01:33 packages-stable/macrostep-0.9.entry
+ 60K -rw-r--r-- 1 root root  60K May 19 01:33 packages-stable/macrostep-0.9.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/macrostep-badge.svg
+4.0K -rw-r--r-- 1 root root  205 May 19 01:33 packages-stable/macrostep-geiser.log
+ 12K -rw-r--r-- 1 root root 9.2K May 19 01:33 packages-stable/macrostep-readme.txt

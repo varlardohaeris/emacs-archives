@@ -1,3 +1,4 @@
+
 Quickstart
 
     (require 'unicode-enbox)
@@ -66,7 +67,7 @@ TODO
     Generalize to comment boxes with multi-character drawing
     elements.
 
-License
+; License
 
 Simplified BSD License:
 

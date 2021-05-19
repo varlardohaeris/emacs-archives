@@ -1,0 +1,6 @@
+Package: moonscript
+Fetcher: github
+Source:  https://github.com/k2052/moonscript-mode.git
+
+Updating /mnt/store/melpa/working/moonscript/
+No valid stable versions found for moonscript

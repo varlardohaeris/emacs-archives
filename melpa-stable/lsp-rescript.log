@@ -1,0 +1,6 @@
+Package: lsp-rescript
+Fetcher: github
+Source:  https://github.com/jjlee/lsp-rescript.git
+
+Updating /mnt/store/melpa/working/lsp-rescript/
+No valid stable versions found for lsp-rescript

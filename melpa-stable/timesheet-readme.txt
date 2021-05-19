@@ -10,7 +10,7 @@ This library attempts to conform to packaging conventions:
 https://www.gnu.org/software/emacs/manual/html_node/elisp/Packaging.html
 Bugs, enhancements welcome!
 
-Usage
+; Usage
 
 Ensure TEXINPUTS is set to (in your ~/.bashrc)
 export TEXINPUTS=.:$HOME/.emacs.d/elpa/auctex-11.87.4/latex:

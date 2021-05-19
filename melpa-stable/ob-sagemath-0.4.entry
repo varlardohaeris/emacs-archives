@@ -1,2 +1,15 @@
-
-(ob-sagemath . [(0 4) ((sage-shell-mode (0 0 8)) (s (1 8 0)) (emacs (24))) "org-babel functions for SageMath evaluation" tar ((:commit . "450d510a5eb1fd644d0037e9f02271ca33639fb0") (:keywords "sagemath" "org-babel") (:authors ("Sho Takemori" . "stakemorii@gmail.com")) (:maintainer "Sho Takemori" . "stakemorii@gmail.com") (:url . "https://github.com/stakemori/ob-sagemath"))])
+(ob-sagemath .
+	     [(0 4)
+	      ((sage-shell-mode
+		(0 0 8))
+	       (s
+		(1 8 0))
+	       (emacs
+		(24)))
+	      "org-babel functions for SageMath evaluation" tar
+	      ((:commit . "450d510a5eb1fd644d0037e9f02271ca33639fb0")
+	       (:authors
+		("Sho Takemori" . "stakemorii@gmail.com"))
+	       (:maintainer "Sho Takemori" . "stakemorii@gmail.com")
+	       (:keywords "sagemath" "org-babel")
+	       (:url . "https://github.com/stakemori/ob-sagemath"))])

@@ -4,6 +4,6 @@ This game was inspired by the New York Times puzzle game
 seven letters.  You can use each given letter multiple times.  The
 longer the word you create, the more points you earn.
 
-Installation:
+; Installation:
 
 (require 'maces-game)

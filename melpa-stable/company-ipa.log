@@ -1,0 +1,6 @@
+Package: company-ipa
+Fetcher: gitlab
+Source:  https://gitlab.com/mguzmann89/company-ipa.git
+
+Updating /mnt/store/melpa/working/company-ipa/
+No valid stable versions found for company-ipa

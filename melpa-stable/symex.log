@@ -1,0 +1,61 @@
+Package: symex
+Fetcher: github
+Source:  https://github.com/countvajhula/symex.el.git
+
+Updating /mnt/store/melpa/working/symex/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/symex/
+  to /tmp/symexkRxJfR/symex-1.0
+    symex-computations.el -> symex-computations.el
+    symex-custom.el -> symex-custom.el
+    symex-data.el -> symex-data.el
+    symex-dsl.el -> symex-dsl.el
+    symex-evaluator.el -> symex-evaluator.el
+    symex-evil-support.el -> symex-evil-support.el
+    symex-evil.el -> symex-evil.el
+    symex-hydra.el -> symex-hydra.el
+    symex-interface-arc.el -> symex-interface-arc.el
+    symex-interface-clojure.el -> symex-interface-clojure.el
+    symex-interface-common-lisp.el -> symex-interface-common-lisp.el
+    symex-interface-elisp.el -> symex-interface-elisp.el
+    symex-interface-racket.el -> symex-interface-racket.el
+    symex-interface-scheme.el -> symex-interface-scheme.el
+    symex-interop.el -> symex-interop.el
+    symex-misc.el -> symex-misc.el
+    symex-primitives.el -> symex-primitives.el
+    symex-transformations.el -> symex-transformations.el
+    symex-traversals.el -> symex-traversals.el
+    symex-ui.el -> symex-ui.el
+    symex-utils.el -> symex-utils.el
+    symex.el -> symex.el
+Created symex-1.0.tar containing:
+  symex-1.0/
+  symex-1.0/symex-computations.el
+  symex-1.0/symex-custom.el
+  symex-1.0/symex-data.el
+  symex-1.0/symex-dsl.el
+  symex-1.0/symex-evaluator.el
+  symex-1.0/symex-evil-support.el
+  symex-1.0/symex-evil.el
+  symex-1.0/symex-hydra.el
+  symex-1.0/symex-interface-arc.el
+  symex-1.0/symex-interface-clojure.el
+  symex-1.0/symex-interface-common-lisp.el
+  symex-1.0/symex-interface-elisp.el
+  symex-1.0/symex-interface-racket.el
+  symex-1.0/symex-interface-scheme.el
+  symex-1.0/symex-interop.el
+  symex-1.0/symex-misc.el
+  symex-1.0/symex-pkg.el
+  symex-1.0/symex-primitives.el
+  symex-1.0/symex-transformations.el
+  symex-1.0/symex-traversals.el
+  symex-1.0/symex-ui.el
+  symex-1.0/symex-utils.el
+  symex-1.0/symex.el
+Built symex in 2.986s, finished at Wed May 19 01:50:59 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  607 May 19 01:50 packages-stable/symex-1.0.entry
+172K -rw-r--r-- 1 root root 170K May 19 01:50 packages-stable/symex-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/symex-badge.svg
+4.0K -rw-r--r-- 1 root root  768 May 19 01:50 packages-stable/symex-readme.txt

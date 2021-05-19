@@ -1,0 +1,11 @@
+Package: cpp-auto-include
+Fetcher: github
+Source:  https://github.com/emacsorphanage/cpp-auto-include.git
+
+Updating /mnt/store/melpa/working/cpp-auto-include/
+Built cpp-auto-include in 3.721s, finished at Wed May 19 04:25:40 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K May 19 04:25 packages-stable/cpp-auto-include-0.2.0.el
+4.0K -rw-r--r-- 1 root root  379 May 19 04:25 packages-stable/cpp-auto-include-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/cpp-auto-include-badge.svg
+4.0K -rw-r--r-- 1 root root  155 May 19 04:25 packages-stable/cpp-auto-include-readme.txt

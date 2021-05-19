@@ -1,0 +1,11 @@
+Package: counsel-world-clock
+Fetcher: github
+Source:  https://github.com/kchenphy/counsel-world-clock.git
+
+Updating /mnt/store/melpa/working/counsel-world-clock/
+Built counsel-world-clock in 6.739s, finished at Wed May 19 03:08:37 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K May 19 03:08 packages/counsel-world-clock-20190709.2211.el
+4.0K -rw-r--r-- 1 root root  414 May 19 03:08 packages/counsel-world-clock-20190709.2211.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:08 packages/counsel-world-clock-badge.svg
+4.0K -rw-r--r-- 1 root root   56 May 19 03:08 packages/counsel-world-clock-readme.txt

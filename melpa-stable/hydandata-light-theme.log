@@ -1,0 +1,11 @@
+Package: hydandata-light-theme
+Fetcher: github
+Source:  https://github.com/chkhd/hydandata-light-theme.git
+
+Updating /mnt/store/melpa/working/hydandata-light-theme/
+Built hydandata-light-theme in 2.984s, finished at Wed May 19 04:42:23 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.6K May 19 04:42 packages-stable/hydandata-light-theme-0.9.0.el
+4.0K -rw-r--r-- 1 root root  337 May 19 04:42 packages-stable/hydandata-light-theme-0.9.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hydandata-light-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  152 May 19 04:42 packages-stable/hydandata-light-theme-readme.txt

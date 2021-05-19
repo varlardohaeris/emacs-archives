@@ -1,0 +1,11 @@
+Package: org-edit-latex
+Fetcher: github
+Source:  https://github.com/et2010/org-edit-latex.git
+
+Updating /mnt/store/melpa/working/org-edit-latex/
+Built org-edit-latex in 3.015s, finished at Wed May 19 01:39:14 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K May 19 01:39 packages-stable/org-edit-latex-0.8.3.el
+4.0K -rw-r--r-- 1 root root  412 May 19 01:39 packages-stable/org-edit-latex-0.8.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-edit-latex-badge.svg
+4.0K -rw-r--r-- 1 root root  992 May 19 01:39 packages-stable/org-edit-latex-readme.txt

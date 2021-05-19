@@ -1,0 +1,6 @@
+Package: feebleline
+Fetcher: github
+Source:  https://github.com/tautologyclub/feebleline.git
+
+Updating /mnt/store/melpa/working/feebleline/
+No valid stable versions found for feebleline

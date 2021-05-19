@@ -1,0 +1,6 @@
+Package: yalinum
+Fetcher: github
+Source:  https://github.com/tm8st/emacs-yalinum.git
+
+Updating /mnt/store/melpa/working/yalinum/
+No valid stable versions found for yalinum

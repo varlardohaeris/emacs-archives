@@ -1,0 +1,11 @@
+Package: composer
+Fetcher: github
+Source:  https://github.com/emacs-php/composer.el.git
+
+Updating /mnt/store/melpa/working/composer/
+Built composer in 3.005s, finished at Wed May 19 04:24:58 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K May 19 04:24 packages-stable/composer-0.2.0.el
+4.0K -rw-r--r-- 1 root root  472 May 19 04:24 packages-stable/composer-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/composer-badge.svg
+4.0K -rw-r--r-- 1 root root  662 May 19 04:24 packages-stable/composer-readme.txt

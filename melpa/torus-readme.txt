@@ -19,8 +19,8 @@ Original idea by Stefan Kamphausen, see https://www.skamphausen.de/cgi-bin/ska/m
 
 See https://github.com/chimay/torus/blob/master/README.org for more details
 
-License
-------------------------------
+; License
+; ------------------------------
 
 This file is not part of Emacs.
 

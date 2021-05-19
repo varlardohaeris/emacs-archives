@@ -1,0 +1,6 @@
+Package: coin-ticker
+Fetcher: github
+Source:  https://github.com/eklitzke/coin-ticker-mode.git
+
+Updating /mnt/store/melpa/working/coin-ticker/
+No valid stable versions found for coin-ticker

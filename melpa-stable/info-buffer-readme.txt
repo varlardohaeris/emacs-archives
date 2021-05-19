@@ -1,3 +1,4 @@
+
 Interactive command (`info-buffer') to display each info topic on its
 separate buffer.  With prefix, display an already opened topic on a new
 buffer.

@@ -1,0 +1,23 @@
+Package: cfn-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/worr/cfn-mode.git
+
+Updating /mnt/store/melpa/working/cfn-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cfn-mode/
+  to /tmp/cfn-modefFKDxd/cfn-mode-1.0.2
+  ! cfn-mode/cfn-mode.el -> cfn-mode.el
+  ! cfn-mode/cfn-properties.dat -> cfn-properties.dat
+  ! cfn-mode/cfn-resources.dat -> cfn-resources.dat
+Created cfn-mode-1.0.2.tar containing:
+  cfn-mode-1.0.2/
+  cfn-mode-1.0.2/cfn-mode-pkg.el
+  cfn-mode-1.0.2/cfn-mode.el
+  cfn-mode-1.0.2/cfn-properties.dat
+  cfn-mode-1.0.2/cfn-resources.dat
+Built cfn-mode in 2.798s, finished at Wed May 19 04:22:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  443 May 19 04:22 packages-stable/cfn-mode-1.0.2.entry
+ 40K -rw-r--r-- 1 root root  40K May 19 04:22 packages-stable/cfn-mode-1.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cfn-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   48 May 19 04:22 packages-stable/cfn-mode-readme.txt

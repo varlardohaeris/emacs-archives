@@ -1,0 +1,11 @@
+Package: evil-multiedit
+Fetcher: github
+Source:  https://github.com/hlissner/evil-multiedit.git
+
+Updating /mnt/store/melpa/working/evil-multiedit/
+Built evil-multiedit in 2.948s, finished at Wed May 19 04:32:25 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  28K May 19 04:32 packages-stable/evil-multiedit-1.3.9.el
+4.0K -rw-r--r-- 1 root root  464 May 19 04:32 packages-stable/evil-multiedit-1.3.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-multiedit-badge.svg
+4.0K -rw-r--r-- 1 root root 2.3K May 19 04:32 packages-stable/evil-multiedit-readme.txt

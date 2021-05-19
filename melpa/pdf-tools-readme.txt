@@ -1,3 +1,4 @@
+
 PDF Tools is, among other things, a replacement of DocView for PDF
 files.  The key difference is, that pages are not prerendered by
 e.g. ghostscript and stored in the file-system, but rather created

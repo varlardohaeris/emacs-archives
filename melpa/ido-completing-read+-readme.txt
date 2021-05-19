@@ -30,7 +30,7 @@ sees them. So some functions will not have ido completion even when
 this mode is enabled. Some other functions have ido disabled in
 them because their packages already provide support for ido via
 other means (for example, magit). See `M-x describe-variable
-ido-cr+-function-blacklist' for more information.
+ido-cr+-disable-list' for more information.
 
 ido-completing-read+ version 4.0 is a major update. The formerly
 separate package ido-ubiquitous has been subsumed into
@@ -40,7 +40,7 @@ obsolete. If you have previously customized ido-ubiquitous, be sure
 to check out `M-x customize-group ido-completing-read-plus' after
 updating to 4.0 and make sure the new settings are to your liking.
 
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -54,3 +54,5 @@ General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with GNU Emacs.  If not, see <http://www.gnu.org/licenses/>.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

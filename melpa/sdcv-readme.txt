@@ -1,3 +1,4 @@
+
 Interface for sdcv (StartDict console version).
 
 Translate word by sdcv (console version of Stardict), and display
@@ -20,7 +21,7 @@ If current mark is active, sdcv commands will translate
 region string, otherwise translate word around point.
 
 
-Installation:
+; Installation:
 
 To use this extension, you have to install Stardict and sdcv
 If you use Debian, it's simply, just:

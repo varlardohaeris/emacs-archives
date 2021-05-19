@@ -1,0 +1,6 @@
+Package: one-themes
+Fetcher: github
+Source:  https://github.com/balajisivaraman/emacs-one-themes.git
+
+Updating /mnt/store/melpa/working/one-themes/
+No valid stable versions found for one-themes

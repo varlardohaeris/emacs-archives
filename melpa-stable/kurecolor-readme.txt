@@ -1,3 +1,4 @@
+
 A collection of color tools aimed at those working with (normal 6
 digit) hex color codes, useful for CSS, Emacs themes, etc.
 
@@ -82,6 +83,6 @@ https://gist.github.com/jasonm23/8554119
 The theme is Gruvbox, although you can't see much of it. Anyway,
 it's a great theme, you should go install it now. (from MELPA)
 
-Package-Requires: ((emacs "24.1") (s "1.0"))
+; Package-Requires: ((emacs "24.1") (s "1.0"))
 
-Licence: MIT
+; Licence: MIT

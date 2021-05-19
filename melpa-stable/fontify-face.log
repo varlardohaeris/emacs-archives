@@ -1,0 +1,11 @@
+Package: fontify-face
+Fetcher: github
+Source:  https://github.com/Fuco1/fontify-face.git
+
+Updating /mnt/store/melpa/working/fontify-face/
+Built fontify-face in 4.390s, finished at Wed May 19 04:36:04 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.4K May 19 04:36 packages-stable/fontify-face-1.1.0.el
+4.0K -rw-r--r-- 1 root root  388 May 19 04:36 packages-stable/fontify-face-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fontify-face-badge.svg
+4.0K -rw-r--r-- 1 root root   94 May 19 04:36 packages-stable/fontify-face-readme.txt

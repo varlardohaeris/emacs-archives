@@ -6,7 +6,7 @@ features:
 * Execution of LOLCODE buffers (press C-c C-c).
 * Automatic Flymake integration.
 
-Installation:
+; Installation:
 
 Put this file somewhere in your load-path, and put the following in
 your .emacs:
@@ -18,7 +18,7 @@ preconfigured for lci, which you can get at the following URL:
 
   http://icanhaslolcode.org/
 
-Configuration:
+; Configuration:
 
 This is an example setup which integrates lolcode-mode with
 auto-complete-mode and yasnippet. It also sets default indentation

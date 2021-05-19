@@ -1,0 +1,6 @@
+Package: helm-charinfo
+Fetcher: github
+Source:  https://github.com/mandoku/helm-charinfo.git
+
+Updating /mnt/store/melpa/working/helm-charinfo/
+No valid stable versions found for helm-charinfo

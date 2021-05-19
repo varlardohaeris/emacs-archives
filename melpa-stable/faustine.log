@@ -1,0 +1,11 @@
+Package: faustine
+Fetcher: git
+Source:  https://bitbucket.org/yphil/faustine
+
+Updating /mnt/store/melpa/working/faustine/
+Built faustine in 2.901s, finished at Wed May 19 04:33:42 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  29K May 19 04:33 packages-stable/faustine-0.4.el
+4.0K -rw-r--r-- 1 root root  421 May 19 04:33 packages-stable/faustine-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/faustine-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 04:33 packages-stable/faustine-readme.txt

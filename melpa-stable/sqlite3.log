@@ -1,0 +1,6 @@
+Package: sqlite3
+Fetcher: github
+Source:  https://github.com/pekingduck/emacs-sqlite3-api.git
+
+Updating /mnt/store/melpa/working/sqlite3/
+No valid stable versions found for sqlite3

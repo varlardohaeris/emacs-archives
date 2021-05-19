@@ -1,0 +1,11 @@
+Package: texfrag
+Fetcher: github
+Source:  https://github.com/TobiasZawada/texfrag.git
+
+Updating /mnt/store/melpa/working/texfrag/
+Built texfrag in 7.635s, finished at Wed May 19 01:51:56 2021
+ ✓ Success:
+ 56K -rw-r--r-- 1 root root  55K May 19 01:51 packages-stable/texfrag-1.0.1.el
+4.0K -rw-r--r-- 1 root root  392 May 19 01:51 packages-stable/texfrag-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/texfrag-badge.svg
+8.0K -rw-r--r-- 1 root root 4.4K May 19 01:51 packages-stable/texfrag-readme.txt

@@ -1,0 +1,6 @@
+Package: sudo-ext
+Fetcher: github
+Source:  https://github.com/rubikitch/sudo-ext.git
+
+Updating /mnt/store/melpa/working/sudo-ext/
+No valid stable versions found for sudo-ext

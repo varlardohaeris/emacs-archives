@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC>
+<html lang="en" xml:lang="en">
+    <head>
+        <title>GNU ELPA - setup</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="shortcut icon" type="image/png" href="../favicon.png">
+        <link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
+        <link rel="stylesheet" type="text/css" href="../layout.css">
+        <script src="../javascript/jquery.min.js" type="text/javascript"></script>
+        <script src="../javascript/jquery.filtertable.min.js" type="text/javascript"></script>
+        <script src="../javascript/package-search.js" type="text/javascript"></script>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,width=device-width" />
+    </head>
+    <body>
+
+        <div class="wrapper">
+
+            <div class="header small">
+                <div class="container">
+                    <h1><a href="index.html">GNU ELPA</a> - setup</h1>
+                </div>
+            </div>
+
+            <div class="container">
+<h2 class="package">setup</h2><dl><dt>Description</dt><dd>Helpful Configuration Macro</dd>
+<dt>Latest</dt> <dd><a href="setup-0.2.0.tar">setup-0.2.0.tar</a>, 2021-Apr-19, 60.0&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>Philip K. &lt;philipk@posteo.net></dd>
+<dt>Home page</dt> <dd><a href="https://git.sr.ht/~zge/setup">https://git.sr.ht/~zge/setup</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/setup">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/setup">Gitweb</a></dd>
+</dl><p>To install this package, run in Emacs:</p>
+                       <pre>M-x <span class="kw">package-install</span> RET <span class="kw">setup</span> RET</pre><h2>Full description</h2><pre>
+The `setup' macro simplifies repetitive configuration patterns.
+For example, these macros:
+
+   (setup shell
+     (let ((key (kbd "C-c s")))
+       (:global key shell)
+       (:bind key bury-buffer)))
+
+   (setup dired
+     (:also-load dired-x)
+     (:option (prepend dired-guess-shell-alist-user) '("" "xdg-open")
+              dired-dwim-target t)
+     (:hook auto-revert-mode))
+
+   (setup (:package paredit)
+     (:hide-mode)
+     (:hook-into scheme-mode lisp-mode))
+
+will be replaced with the functional equivalent of
+
+   (global-set-key (kbd "C-c s") #'shell)
+   (with-eval-after-load 'shell
+     (define-key shell-mode-map (kbd "C-c s") #'bury-buffer))
+
+   (with-eval-after-load 'dired
+     (require 'dired-x))
+   (customize-set-variable 'dired-guess-shell-alist-user
+                           (cons '("" "xdg-open")
+                                 dired-guess-shell-alist-user))
+   (customize-set-variable 'dired-dwim-target t)
+   (add-hook 'dired-mode-hook #'auto-revert-mode)
+
+   (unless (package-install-p 'paredit)
+     (package-install 'paredit))
+   (setq minor-mode-alist
+         (delq (assq 'paredit-mode minor-mode-alist)
+               minor-mode-alist))
+   (add-hook 'scheme-mode-hook #'paredit-mode)
+   (add-hook 'lisp-mode-hook #'paredit-mode)
+
+Additional "keywords" can be defined using `setup-define'.  All
+known keywords are documented in the docstring for `setup'.
+</pre>
+<h2>Old versions</h2><table>
+<tr><td><a href="setup-0.1.2.tar.lz">setup-0.1.2.tar.lz</a></td><td>2021-Mar-25</td><td>15.6&nbsp;KiB</td>
+<tr><td><a href="setup-0.1.1.tar.lz">setup-0.1.1.tar.lz</a></td><td>2021-Mar-16</td><td>15.4&nbsp;KiB</td>
+</table>
+</body>

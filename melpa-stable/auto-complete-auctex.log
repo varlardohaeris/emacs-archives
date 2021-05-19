@@ -1,0 +1,6 @@
+Package: auto-complete-auctex
+Fetcher: github
+Source:  https://github.com/monsanto/auto-complete-auctex.git
+
+Updating /mnt/store/melpa/working/auto-complete-auctex/
+No valid stable versions found for auto-complete-auctex

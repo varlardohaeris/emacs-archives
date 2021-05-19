@@ -1,0 +1,11 @@
+Package: global-tags
+Fetcher: git
+Source:  https://git.launchpad.net/global-tags.el
+
+Updating /mnt/store/melpa/working/global-tags/
+Built global-tags in 4.655s, finished at Wed May 19 04:37:41 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  27K May 19 04:37 packages-stable/global-tags-0.7.el
+4.0K -rw-r--r-- 1 root root  499 May 19 04:37 packages-stable/global-tags-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/global-tags-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K May 19 04:37 packages-stable/global-tags-readme.txt

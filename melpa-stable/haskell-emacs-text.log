@@ -1,0 +1,21 @@
+Package: haskell-emacs-text
+Fetcher: github
+Source:  https://github.com/knupfer/haskell-emacs.git
+
+Updating /mnt/store/melpa/working/haskell-emacs-text/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/haskell-emacs-text/
+  to /tmp/haskell-emacs-textXTDLye/haskell-emacs-text-4.0.3
+  ! modules/text/haskell-emacs-text.el -> haskell-emacs-text.el
+  ! modules/text/Text.hs -> Text.hs
+Created haskell-emacs-text-4.0.3.tar containing:
+  haskell-emacs-text-4.0.3/
+  haskell-emacs-text-4.0.3/Text.hs
+  haskell-emacs-text-4.0.3/haskell-emacs-text-pkg.el
+  haskell-emacs-text-4.0.3/haskell-emacs-text.el
+Built haskell-emacs-text in 2.886s, finished at Wed May 19 04:39:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  396 May 19 04:39 packages-stable/haskell-emacs-text-4.0.3.entry
+ 12K -rw-r--r-- 1 root root  10K May 19 04:39 packages-stable/haskell-emacs-text-4.0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/haskell-emacs-text-badge.svg
+4.0K -rw-r--r-- 1 root root  574 May 19 04:39 packages-stable/haskell-emacs-text-readme.txt

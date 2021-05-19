@@ -1,0 +1,11 @@
+Package: ivy-rtags
+Fetcher: github
+Source:  https://github.com/Andersbakken/rtags.git
+
+Updating /mnt/store/melpa/working/ivy-rtags/
+Built ivy-rtags in 4.892s, finished at Wed May 19 04:44:05 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.8K May 19 04:44 packages-stable/ivy-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  405 May 19 04:44 packages-stable/ivy-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/ivy-rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 May 19 04:44 packages-stable/ivy-rtags-readme.txt

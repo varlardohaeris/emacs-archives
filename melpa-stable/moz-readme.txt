@@ -1,3 +1,4 @@
+
 This file implements communication with Firefox via MozRepl
 (http://hyperstruct.net/projects/mozrepl).  It is a slightly
 modified version of the file moz.el that comes with MozLab.  To use

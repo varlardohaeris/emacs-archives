@@ -1,3 +1,4 @@
+
 This package provides functions to search Xcode documents within Emacs,
 Currently support API search only, result topics will show in web browser.
 Other features may be added later.

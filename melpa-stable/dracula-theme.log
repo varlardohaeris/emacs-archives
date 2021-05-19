@@ -1,0 +1,21 @@
+Package: dracula-theme
+Fetcher: github
+Source:  https://github.com/dracula/emacs.git
+
+Updating /mnt/store/melpa/working/dracula-theme/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dracula-theme/
+  to /tmp/dracula-themeNzjXzF/dracula-theme-1.7.0
+    dracula-theme.el -> dracula-theme.el
+    test-profile.el -> test-profile.el
+Created dracula-theme-1.7.0.tar containing:
+  dracula-theme-1.7.0/
+  dracula-theme-1.7.0/dracula-theme-pkg.el
+  dracula-theme-1.7.0/dracula-theme.el
+  dracula-theme-1.7.0/test-profile.el
+Built dracula-theme in 2.722s, finished at Wed May 19 04:28:45 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  242 May 19 04:28 packages-stable/dracula-theme-1.7.0.entry
+ 52K -rw-r--r-- 1 root root  50K May 19 04:28 packages-stable/dracula-theme-1.7.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dracula-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   54 May 19 04:28 packages-stable/dracula-theme-readme.txt

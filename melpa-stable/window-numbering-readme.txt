@@ -1,3 +1,4 @@
+
 Enable window-numbering-mode and use M-1 through M-0 to navigate.
 
 If you want to affect the numbers, use window-numbering-before-hook or
@@ -8,7 +9,7 @@ following to your .emacs:
 (setq window-numbering-assign-func
       (lambda () (when (equal (buffer-name) "*Calculator*") 9)))
 
-Changes Log:
+; Changes Log:
 
 2013-03-23 (1.1.2)
    Fix numbering in terminal mode with menu bar visible.

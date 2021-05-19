@@ -1,0 +1,11 @@
+Package: laas
+Fetcher: github
+Source:  https://github.com/tecosaur/LaTeX-auto-activating-snippets.git
+
+Updating /mnt/store/melpa/working/laas/
+Built laas in 2.829s, finished at Wed May 19 01:31:36 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K May 19 01:31 packages-stable/laas-1.0.el
+4.0K -rw-r--r-- 1 root root  374 May 19 01:31 packages-stable/laas-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/laas-badge.svg
+4.0K -rw-r--r-- 1 root root  190 May 19 01:31 packages-stable/laas-readme.txt

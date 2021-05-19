@@ -1,0 +1,6 @@
+Package: ob-cypher
+Fetcher: github
+Source:  https://github.com/zweifisch/ob-cypher.git
+
+Updating /mnt/store/melpa/working/ob-cypher/
+No valid stable versions found for ob-cypher

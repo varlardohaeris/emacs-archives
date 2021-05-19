@@ -1,0 +1,6 @@
+Package: replace-from-region
+Fetcher: github
+Source:  https://github.com/rubikitch/replace-from-region.git
+
+Updating /mnt/store/melpa/working/replace-from-region/
+No valid stable versions found for replace-from-region

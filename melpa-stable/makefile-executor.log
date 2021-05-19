@@ -1,0 +1,6 @@
+Package: makefile-executor
+Fetcher: github
+Source:  https://github.com/thiderman/makefile-executor.el.git
+
+Updating /mnt/store/melpa/working/makefile-executor/
+No valid stable versions found for makefile-executor

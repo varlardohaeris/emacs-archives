@@ -1,0 +1,6 @@
+Package: flatfluc-theme
+Fetcher: github
+Source:  https://github.com/seblemaguer/flatfluc-theme.git
+
+Updating /mnt/store/melpa/working/flatfluc-theme/
+No valid stable versions found for flatfluc-theme

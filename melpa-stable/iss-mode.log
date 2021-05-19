@@ -1,0 +1,6 @@
+Package: iss-mode
+Fetcher: github
+Source:  https://github.com/rasmus-toftdahl-olesen/iss-mode.git
+
+Updating /mnt/store/melpa/working/iss-mode/
+No valid stable versions found for iss-mode

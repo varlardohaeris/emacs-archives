@@ -1,0 +1,21 @@
+Package: eterm-256color
+Fetcher: github
+Source:  https://github.com/dieggsy/eterm-256color.git
+
+Updating /mnt/store/melpa/working/eterm-256color/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eterm-256color/
+  to /tmp/eterm-256colorQbDzbu/eterm-256color-0.3.13
+    eterm-256color.el -> eterm-256color.el
+    eterm-256color.ti -> eterm-256color.ti
+Created eterm-256color-0.3.13.tar containing:
+  eterm-256color-0.3.13/
+  eterm-256color-0.3.13/eterm-256color-pkg.el
+  eterm-256color-0.3.13/eterm-256color.el
+  eterm-256color-0.3.13/eterm-256color.ti
+Built eterm-256color in 3.140s, finished at Wed May 19 04:31:55 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  417 May 19 04:31 packages-stable/eterm-256color-0.3.13.entry
+ 20K -rw-r--r-- 1 root root  20K May 19 04:31 packages-stable/eterm-256color-0.3.13.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eterm-256color-badge.svg
+4.0K -rw-r--r-- 1 root root  180 May 19 04:31 packages-stable/eterm-256color-readme.txt

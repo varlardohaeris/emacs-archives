@@ -1,0 +1,6 @@
+Package: org-present-remote
+Fetcher: gitlab
+Source:  https://gitlab.com/duncan-bayne/org-present-remote.git
+
+Updating /mnt/store/melpa/working/org-present-remote/
+No valid stable versions found for org-present-remote

@@ -1,0 +1,11 @@
+Package: ox-bb
+Fetcher: github
+Source:  https://github.com/mmitch/ox-bb.git
+
+Updating /mnt/store/melpa/working/ox-bb/
+Built ox-bb in 2.907s, finished at Wed May 19 01:41:20 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K May 19 01:41 packages-stable/ox-bb-0.0.1.el
+4.0K -rw-r--r-- 1 root root  375 May 19 01:41 packages-stable/ox-bb-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-bb-badge.svg
+4.0K -rw-r--r-- 1 root root  554 May 19 01:41 packages-stable/ox-bb-readme.txt

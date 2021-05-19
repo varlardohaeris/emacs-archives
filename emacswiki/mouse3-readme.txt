@@ -5,19 +5,71 @@ It redefines standard command `mouse-save-then-kill' in a trivial
 way to give you custom behavior for a second `mouse-3' click at the
 same spot.
 
-Vanilla Emacs hard-wires the behavior to kill or delete the region
-(depending on the value of `mouse-drag-copy-region').  That action
-can be handy, but it is sometimes inappropriate (e.g., in a
-read-only buffer).  In any case, it is only one possible action;
-there are often other actions on the selected text that you might
-want to take instead.
+Vanilla Emacs hard-wires the `mouse-3' behavior.  For example, if
+you click it twice at the same spot then it kills or deletes the
+region (depending on the value of `mouse-drag-copy-region').
 
-The redefined `mouse-save-then-kill' command in `mouse3.el' just
-uses function `mouse3-second-click-command' to handle a second
-click at the same spot.  That function returns the command that
+The hard-wired action can be handy, but sometimes (e.g., deleting
+in a read-only buffer) it's inappropriate.  In any case, it's only
+one possible action.  There are often other actions that you might
+want to take instead, either regarding text selection or something
+else.
+
+The redefined `mouse-save-then-kill' command in `mouse3.el' uses
+function `mouse3-second-click-command' to handle a `mouse-3' click.
+
+By default, only a second click at the same spot does this.  This
+lets you take advantage of both the usual Emacs `mouse-3' behavior
+of selecting or deleting text, and then, with a second click at the
+same spot, to get another behavior, typically to show a popup menu.
+
+I recommend this default behavior.  But if you customize option
+`mouse3-menu-always-flag' to non-nil then every `mouse-3' click
+gives you only that other behavior (e.g. show a menu).  In this
+case, you can't take advantage of `mouse-3' clicks to select, or
+extend/reduce/delete the selection.  This includes the ability to
+extend/reduce by increments determined by multiple-click selection.
+
+If you're sure that you never want the usual `mouse-3' behavior
+(select, delete, or extend/reduce the region), then an alternative
+way to get the same behavior as setting option
+`mouse3-menu-always-flag' to non-nil is to bind `mouse-3' to
+command `mouse3-action-wo-save-then-kill':
+
+  (global-set-key [mouse-3] 'mouse3-action-wo-save-then-kill).
+
+But the option lets you leave the standard key binding
+(`mouse-save-then-kill') as is.  Then you can easily change the
+behavior by changing the option value.  Again, though, I don't
+recommend such behavior.
+
+If you're not used to the Emacs `mouse-3' behavior of
+extending/reducing/deleting the existing selection, take some time
+to read about it on the `Mouse Commands' page of the Emacs manual:
+`C-h r g Mouse Commands'.  You might be surprised how useful it is.
+In particular:
+
+  If you originally specified the region using a double or triple
+  `mouse-1', so that the region is defined to consist of entire
+  words or lines, then adjusting the region with `mouse-3' also
+  proceeds by entire words or lines.
+
+You can triple-click to select a line, then click `mouse-3' to add
+the `mouse-3'-clicked line and all intervening lines to the
+selection.  Or if you click `mouse-3' within the existing selection
+of lines then the selection loses, instead of gains, lines.
+
+Library `mouse3.el' is specially designed to let you take advantage
+of this feature but _also_ be able to use `mouse-3' to show a
+context menu or perform some other action.  Setting option
+`mouse3-menu-always-flag' to non-nil gives you the alternative
+action (e.g. show a menu), but it removes the Emacs `mouse-3'
+selection features.
+
+Function `mouse3-second-click-command' returns the command that
 `mouse-save-then-kill' invokes: either the command that is the
 value of variable `mouse3-save-then-kill-command' or, if that is
-nil the command that is the value of user option
+nil then the command that is the value of user option
 `mouse3-second-click-default-command'.
 
 Special contexts can bind variable `mouse3-save-then-kill-command'
@@ -229,7 +281,7 @@ the region.
 User options defined here:
 
   `mouse3-dired-function', `mouse3-double-click-command',
-  `mouse3-noregion-popup-entries',
+  `mouse3-menu-always-flag', `mouse3-noregion-popup-entries',
   `mouse3-noregion-popup-x-popup-panes',
   `mouse3-picture-mode-x-popup-panes',
   `mouse3-popup-include-global-menus-flag',
@@ -240,7 +292,8 @@ User options defined here:
 
 Commands defined here:
 
-  `mouse3-dired', `mouse3-dired-flag-region-files-for-deletion',
+  `mouse3-action-wo-save-then-kill', `mouse3-dired',
+  `mouse3-dired-flag-region-files-for-deletion',
   `mouse3-dired-mark-region-files', `mouse3-dired-other-window',
   `mouse3-dired-toggle-marks-in-region',
   `mouse3-dired-toggle-marks-in-region-from-mouse',
@@ -253,8 +306,7 @@ Non-interactive functions defined here:
   `mouse3-dired-add-region-menu',
   `mouse3-dired-set-to-toggle-marks',
   `mouse3-dired-this-file-marked-p',
-  `mouse3-dired-this-file-unmarked-p',
-  `mouse3-dired-toggle-marks-in-region', `mouse3-ffap-guesser',
+  `mouse3-dired-this-file-unmarked-p', `mouse3-ffap-guesser',
   `mouse3-file-or-dir', `mouse3-nonempty-region-p',
   `mouse3-region-popup-choice', `mouse3-region-popup-choice-1',
   `mouse3-region-popup-custom-entries',

@@ -1,0 +1,6 @@
+Package: helm-posframe
+Fetcher: github
+Source:  https://github.com/tumashu/helm-posframe.git
+
+Updating /mnt/store/melpa/working/helm-posframe/
+No valid stable versions found for helm-posframe

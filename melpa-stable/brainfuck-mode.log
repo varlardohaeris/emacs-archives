@@ -1,0 +1,6 @@
+Package: brainfuck-mode
+Fetcher: github
+Source:  https://github.com/tom-tan/brainfuck-mode.git
+
+Updating /mnt/store/melpa/working/brainfuck-mode/
+No valid stable versions found for brainfuck-mode

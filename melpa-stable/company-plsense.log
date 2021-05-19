@@ -1,0 +1,6 @@
+Package: company-plsense
+Fetcher: github
+Source:  https://github.com/CeleritasCelery/company-plsense.git
+
+Updating /mnt/store/melpa/working/company-plsense/
+No valid stable versions found for company-plsense

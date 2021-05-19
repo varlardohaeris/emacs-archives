@@ -1,0 +1,6 @@
+Package: shimbun
+Fetcher: github
+Source:  https://github.com/emacs-w3m/emacs-w3m.git
+
+Updating /mnt/store/melpa/working/shimbun/
+No valid stable versions found for shimbun

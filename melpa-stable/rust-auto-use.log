@@ -1,0 +1,6 @@
+Package: rust-auto-use
+Fetcher: github
+Source:  https://github.com/vmalloc/rust-auto-use.el.git
+
+Updating /mnt/store/melpa/working/rust-auto-use/
+No valid stable versions found for rust-auto-use

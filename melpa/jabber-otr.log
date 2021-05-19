@@ -1,0 +1,21 @@
+Package: jabber-otr
+Fetcher: github
+Source:  https://github.com/legoscia/emacs-jabber-otr.git
+
+Updating /mnt/store/melpa/working/jabber-otr/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/jabber-otr/
+  to /tmp/jabber-otryybj5Q/jabber-otr-20150918.1144
+    jabber-otr.el -> jabber-otr.el
+    emacs-otr.py -> emacs-otr.py
+Created jabber-otr-20150918.1144.tar containing:
+  jabber-otr-20150918.1144/
+  jabber-otr-20150918.1144/emacs-otr.py
+  jabber-otr-20150918.1144/jabber-otr-pkg.el
+  jabber-otr-20150918.1144/jabber-otr.el
+Built jabber-otr in 6.940s, finished at Wed May 19 03:36:35 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  441 May 19 03:36 packages/jabber-otr-20150918.1144.entry
+ 32K -rw-r--r-- 1 root root  30K May 19 03:36 packages/jabber-otr-20150918.1144.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 03:36 packages/jabber-otr-badge.svg
+4.0K -rw-r--r-- 1 root root  529 May 19 03:36 packages/jabber-otr-readme.txt

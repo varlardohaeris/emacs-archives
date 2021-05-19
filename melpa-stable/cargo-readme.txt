@@ -1,3 +1,4 @@
+
 Cargo Minor mode.
 Provides a number of key combinations and functions for managing Cargo.
 Current supported Cargo Key Combinations:
@@ -19,3 +20,4 @@ Current supported Cargo Key Combinations:
  * C-c C-c C-m - cargo-process-fmt
  * C-c C-c C-k - cargo-process-check
  * C-c C-c C-K - cargo-process-clippy
+

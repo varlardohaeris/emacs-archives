@@ -1,0 +1,6 @@
+Package: recentf-remove-sudo-tramp-prefix
+Fetcher: github
+Source:  https://github.com/ncaq/recentf-remove-sudo-tramp-prefix.git
+
+Updating /mnt/store/melpa/working/recentf-remove-sudo-tramp-prefix/
+No valid stable versions found for recentf-remove-sudo-tramp-prefix

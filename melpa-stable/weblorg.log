@@ -1,0 +1,39 @@
+Package: weblorg
+Fetcher: github
+Source:  https://github.com/emacs-love/weblorg.git
+
+Updating /mnt/store/melpa/working/weblorg/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/weblorg/
+  to /tmp/weblorgn5uJej/weblorg-0.1.1
+    weblorg.el -> weblorg.el
+    themes => themes
+Created weblorg-0.1.1.tar containing:
+  weblorg-0.1.1/
+  weblorg-0.1.1/themes/
+  weblorg-0.1.1/themes/autodoc/
+  weblorg-0.1.1/themes/autodoc/static/
+  weblorg-0.1.1/themes/autodoc/static/emacs-bw.svg
+  weblorg-0.1.1/themes/autodoc/static/style.css
+  weblorg-0.1.1/themes/autodoc/templates/
+  weblorg-0.1.1/themes/autodoc/templates/autodoc.html
+  weblorg-0.1.1/themes/autodoc/templates/doc.html
+  weblorg-0.1.1/themes/autodoc/templates/index.html
+  weblorg-0.1.1/themes/autodoc/templates/layout.html
+  weblorg-0.1.1/themes/default/
+  weblorg-0.1.1/themes/default/static/
+  weblorg-0.1.1/themes/default/static/style.css
+  weblorg-0.1.1/themes/default/templates/
+  weblorg-0.1.1/themes/default/templates/base_layout.html
+  weblorg-0.1.1/themes/default/templates/blog.html
+  weblorg-0.1.1/themes/default/templates/index.html
+  weblorg-0.1.1/themes/default/templates/page.html
+  weblorg-0.1.1/themes/default/templates/post.html
+  weblorg-0.1.1/weblorg-pkg.el
+  weblorg-0.1.1/weblorg.el
+Built weblorg in 3.368s, finished at Wed May 19 01:54:50 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  346 May 19 01:54 packages-stable/weblorg-0.1.1.entry
+ 92K -rw-r--r-- 1 root root  90K May 19 01:54 packages-stable/weblorg-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/weblorg-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K May 19 01:54 packages-stable/weblorg-readme.txt

@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC>
-<html>
+<html lang="en" xml:lang="en">
     <head>
         <title>GNU ELPA - csv-mode</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -23,10 +23,10 @@
 
             <div class="container">
 <h2 class="package">csv-mode</h2><dl><dt>Description</dt><dd>Major mode for editing comma/char separated values</dd>
-<dt>Latest</dt> <dd><a href="csv-mode-1.12.tar">csv-mode-1.12.tar</a>, 2020-Feb-16, 90.0&nbsp;KiB</dd>
-<dt>Maintainer</dt> <dd>emacs-devel@gnu.org</dd>
-<dt>Home page</dt> <dd><a href="http://elpa.gnu.org/packages/csv-mode.html">http://elpa.gnu.org/packages/csv-mode.html</a></dd>
-<dt>Browse repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/tree/packages/csv-mode">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=tree;f=packages/csv-mode">Gitweb</a></dd>
+<dt>Latest</dt> <dd><a href="csv-mode-1.15.tar">csv-mode-1.15.tar</a>, 2021-Feb-23, 90.0&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>&lt;emacs-devel@gnu.org></dd>
+<dt>Home page</dt> <dd><a href="https://elpa.gnu.org/packages/csv-mode.html">https://elpa.gnu.org/packages/csv-mode.html</a></dd>
+<dt>Browse repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/csv-mode">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/csv-mode">Gitweb</a></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">csv-mode</span> RET</pre><h2>Full description</h2><pre>
 This package implements CSV mode, a major mode for editing records
@@ -80,29 +80,22 @@ see the major mode documentation below.
 The global minor mode `csv-field-index-mode' provides display of
 the current field index in the mode line, cf. `line-number-mode'
 and `column-number-mode'.  It is on by default.
-
-Installation:
-
-Put this file somewhere that Emacs can find it (i.e. in one of the
-directories in your `load-path' such as `site-lisp'), optionally
-byte-compile it (recommended), and put this in your .emacs file:
-
-(add-to-list 'auto-mode-alist '("\\.[Cc][Ss][Vv]\\'" . csv-mode))
-(autoload 'csv-mode "csv-mode"
-  "Major mode for editing comma-separated value files." t)
 </pre>
 <h2>Old versions</h2><table>
-<tr><td><a href="csv-mode-1.11.tar">csv-mode-1.11.tar</a></td><td>2020-Feb-15</td><td>90.0&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.11.el">csv-mode-1.11.el</a></td><td>2020-Jan-31</td><td>81.0&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.10.el">csv-mode-1.10.el</a></td><td>2019-Oct-22</td><td>80.2&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.9.el">csv-mode-1.9.el</a></td><td>2019-Sep-24</td><td>69.6&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.8.el">csv-mode-1.8.el</a></td><td>2019-Sep-18</td><td>59.1&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.7.el">csv-mode-1.7.el</a></td><td>2017-Dec-05</td><td>58.4&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.6.el">csv-mode-1.6.el</a></td><td>2016-Apr-22</td><td>55.6&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.5.el">csv-mode-1.5.el</a></td><td>2015-Jul-09</td><td>55.0&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.4.el">csv-mode-1.4.el</a></td><td>2015-May-25</td><td>54.9&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.3.el">csv-mode-1.3.el</a></td><td>2015-Apr-16</td><td>54.6&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.2.el">csv-mode-1.2.el</a></td><td>2013-Apr-25</td><td>54.7&nbsp;KiB</td>
-<tr><td><a href="csv-mode-1.1.el">csv-mode-1.1.el</a></td><td>2012-Nov-29</td><td>54.5&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.14.tar.lz">csv-mode-1.14.tar.lz</a></td><td>2020-Dec-09</td><td>20.2&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.13.tar.lz">csv-mode-1.13.tar.lz</a></td><td>2020-Dec-06</td><td>20.2&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.12.tar.lz">csv-mode-1.12.tar.lz</a></td><td>2020-Feb-16</td><td>20.1&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.11.tar.lz">csv-mode-1.11.tar.lz</a></td><td>2020-Feb-15</td><td>20.1&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.11.el.lz">csv-mode-1.11.el.lz</a></td><td>2020-Jan-31</td><td>19.4&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.10.el.lz">csv-mode-1.10.el.lz</a></td><td>2019-Oct-22</td><td>19.3&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.9.el.lz">csv-mode-1.9.el.lz</a></td><td>2019-Sep-24</td><td>17.0&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.8.el.lz">csv-mode-1.8.el.lz</a></td><td>2019-Sep-18</td><td>15.0&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.7.el.lz">csv-mode-1.7.el.lz</a></td><td>2017-Dec-05</td><td>14.8&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.6.el.lz">csv-mode-1.6.el.lz</a></td><td>2016-Apr-22</td><td>14.1&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.5.el.lz">csv-mode-1.5.el.lz</a></td><td>2015-Jul-09</td><td>14.0&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.4.el.lz">csv-mode-1.4.el.lz</a></td><td>2015-May-25</td><td>13.9&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.3.el.lz">csv-mode-1.3.el.lz</a></td><td>2015-Apr-16</td><td>13.9&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.2.el.lz">csv-mode-1.2.el.lz</a></td><td>2013-Apr-25</td><td>13.9&nbsp;KiB</td>
+<tr><td><a href="csv-mode-1.1.el.lz">csv-mode-1.1.el.lz</a></td><td>2012-Nov-29</td><td>13.8&nbsp;KiB</td>
 </table>
 </body>

@@ -1,0 +1,6 @@
+Package: php-eldoc
+Fetcher: github
+Source:  https://github.com/sabof/php-eldoc.git
+
+Updating /mnt/store/melpa/working/php-eldoc/
+No valid stable versions found for php-eldoc

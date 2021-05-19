@@ -1,0 +1,6 @@
+Package: anx-api
+Fetcher: github
+Source:  https://github.com/rmloveland/emacs-appnexus-api.git
+
+Updating /mnt/store/melpa/working/anx-api/
+No valid stable versions found for anx-api

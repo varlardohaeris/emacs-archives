@@ -1,0 +1,10 @@
+Package: labburn-theme
+Fetcher: github
+Source:  https://github.com/ksjogo/labburn-theme.git
+
+Updating /mnt/store/melpa/working/labburn-theme/
+Built labburn-theme in 3.229s, finished at Wed May 19 01:31:37 2021
+ ✓ Success:
+ 60K -rw-r--r-- 1 root root  60K May 19 01:31 packages-stable/labburn-theme-1.0.0.el
+4.0K -rw-r--r-- 1 root root  303 May 19 01:31 packages-stable/labburn-theme-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/labburn-theme-badge.svg

@@ -1,0 +1,6 @@
+Package: foreign-regexp
+Fetcher: github
+Source:  https://github.com/k-talo/foreign-regexp.el.git
+
+Updating /mnt/store/melpa/working/foreign-regexp/
+No valid stable versions found for foreign-regexp

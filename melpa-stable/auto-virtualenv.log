@@ -1,0 +1,6 @@
+Package: auto-virtualenv
+Fetcher: github
+Source:  https://github.com/marcwebbie/auto-virtualenv.git
+
+Updating /mnt/store/melpa/working/auto-virtualenv/
+No valid stable versions found for auto-virtualenv

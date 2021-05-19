@@ -1,0 +1,65 @@
+Package: gitlab
+Fetcher: github
+Source:  https://github.com/nlamirault/emacs-gitlab.git
+
+Updating /mnt/store/melpa/working/gitlab/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gitlab/
+  to /tmp/gitlabLAAIPr/gitlab-0.8.0
+    gitlab-api.el -> gitlab-api.el
+    gitlab-groups.el -> gitlab-groups.el
+    gitlab-http.el -> gitlab-http.el
+    gitlab-issues.el -> gitlab-issues.el
+    gitlab-milestones.el -> gitlab-milestones.el
+    gitlab-mode.el -> gitlab-mode.el
+    gitlab-notes.el -> gitlab-notes.el
+    gitlab-projects.el -> gitlab-projects.el
+    gitlab-session.el -> gitlab-session.el
+    gitlab-ui.el -> gitlab-ui.el
+    gitlab-users.el -> gitlab-users.el
+    gitlab-utils.el -> gitlab-utils.el
+    gitlab-version.el -> gitlab-version.el
+    gitlab.el -> gitlab.el
+Created gitlab-0.8.0.tar containing:
+  gitlab-0.8.0/
+  gitlab-0.8.0/gitlab-api.el
+  gitlab-0.8.0/gitlab-groups.el
+  gitlab-0.8.0/gitlab-http.el
+  gitlab-0.8.0/gitlab-issues.el
+  gitlab-0.8.0/gitlab-milestones.el
+  gitlab-0.8.0/gitlab-mode.el
+  gitlab-0.8.0/gitlab-notes.el
+  gitlab-0.8.0/gitlab-pkg.el
+  gitlab-0.8.0/gitlab-projects.el
+  gitlab-0.8.0/gitlab-session.el
+  gitlab-0.8.0/gitlab-ui.el
+  gitlab-0.8.0/gitlab-users.el
+  gitlab-0.8.0/gitlab-utils.el
+  gitlab-0.8.0/gitlab-version.el
+  gitlab-0.8.0/gitlab.el
+Built gitlab in 2.840s, finished at Wed May 19 04:37:32 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  428 May 19 04:37 packages-stable/gitlab-0.8.0.entry
+ 72K -rw-r--r-- 1 root root  70K May 19 04:37 packages-stable/gitlab-0.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gitlab-badge.svg
+ 16K -rw-r--r-- 1 root root  15K May 19 01:22 packages-stable/gitlab-ci-mode-20190824.12.2.el
+4.0K -rw-r--r-- 1 root root  361 May 19 01:22 packages-stable/gitlab-ci-mode-20190824.12.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:22 packages-stable/gitlab-ci-mode-badge.svg
+8.0K -rw-r--r-- 1 root root 4.9K May 19 01:22 packages-stable/gitlab-ci-mode-flycheck-20180605.1.el
+4.0K -rw-r--r-- 1 root root  452 May 19 01:22 packages-stable/gitlab-ci-mode-flycheck-20180605.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:22 packages-stable/gitlab-ci-mode-flycheck-badge.svg
+4.0K -rw-r--r-- 1 root root  193 May 19 01:22 packages-stable/gitlab-ci-mode-flycheck-readme.txt
+4.0K -rw-r--r-- 1 root root  178 May 19 04:37 packages-stable/gitlab-ci-mode-flycheck.log
+4.0K -rw-r--r-- 1 root root  431 May 19 01:22 packages-stable/gitlab-ci-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  151 May 19 04:37 packages-stable/gitlab-ci-mode.log
+8.0K -rw-r--r-- 1 root root 5.4K May 19 01:22 packages-stable/gitlab-pipeline-1.1.0.el
+4.0K -rw-r--r-- 1 root root  403 May 19 01:22 packages-stable/gitlab-pipeline-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:22 packages-stable/gitlab-pipeline-badge.svg
+4.0K -rw-r--r-- 1 root root  222 May 19 01:22 packages-stable/gitlab-pipeline-readme.txt
+4.0K -rw-r--r-- 1 root root  148 May 19 04:37 packages-stable/gitlab-pipeline.log
+4.0K -rw-r--r-- 1 root root  225 May 19 04:37 packages-stable/gitlab-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K May 19 01:22 packages-stable/gitlab-snip-helm-0.0.2.el
+4.0K -rw-r--r-- 1 root root  447 May 19 01:22 packages-stable/gitlab-snip-helm-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:22 packages-stable/gitlab-snip-helm-badge.svg
+4.0K -rw-r--r-- 1 root root   73 May 19 01:22 packages-stable/gitlab-snip-helm-readme.txt
+4.0K -rw-r--r-- 1 root root  154 May 19 04:37 packages-stable/gitlab-snip-helm.log

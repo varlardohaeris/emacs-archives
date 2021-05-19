@@ -1,0 +1,6 @@
+Package: scrooge
+Fetcher: github
+Source:  https://github.com/cosmicexplorer/emacs-scrooge.git
+
+Updating /mnt/store/melpa/working/scrooge/
+No valid stable versions found for scrooge

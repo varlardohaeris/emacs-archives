@@ -1,0 +1,6 @@
+Package: flycheck-pact
+Fetcher: github
+Source:  https://github.com/kadena-io/flycheck-pact.git
+
+Updating /mnt/store/melpa/working/flycheck-pact/
+No valid stable versions found for flycheck-pact

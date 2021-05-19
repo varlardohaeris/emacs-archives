@@ -1,0 +1,11 @@
+Package: timer-revert
+Fetcher: github
+Source:  https://github.com/yyr/timer-revert.git
+
+Updating /mnt/store/melpa/working/timer-revert/
+Built timer-revert in 2.810s, finished at Wed May 19 01:52:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.1K May 19 01:52 packages-stable/timer-revert-0.1.el
+4.0K -rw-r--r-- 1 root root  370 May 19 01:52 packages-stable/timer-revert-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/timer-revert-badge.svg
+4.0K -rw-r--r-- 1 root root  181 May 19 01:52 packages-stable/timer-revert-readme.txt

@@ -3,7 +3,7 @@ with which you can debug running scripts interactively.  At this
 present time, DBGp protocols are supported in several script
 languages with help of custom extensions.
 
-Usage
+; Usage
 
 1. Insert autoload hooks into your .Emacs file.
    -> (autoload 'geben "geben" "DBGp protocol frontend, a script debugger" t)
@@ -14,7 +14,7 @@ Usage
    file in geben-mode.
 4. Start debugging.  To see geben-mode key bindings, type ?.
 
-Requirements:
+; Requirements:
 
 [Server side]
 - PHP with Xdebug 2.0.3

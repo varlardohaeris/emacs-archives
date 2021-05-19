@@ -1,0 +1,6 @@
+Package: podcaster
+Fetcher: github
+Source:  https://github.com/lujun9972/podcaster.git
+
+Updating /mnt/store/melpa/working/podcaster/
+No valid stable versions found for podcaster

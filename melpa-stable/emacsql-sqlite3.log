@@ -1,0 +1,11 @@
+Package: emacsql-sqlite3
+Fetcher: github
+Source:  https://github.com/cireu/emacsql-sqlite3.git
+
+Updating /mnt/store/melpa/working/emacsql-sqlite3/
+Built emacsql-sqlite3 in 2.724s, finished at Wed May 19 04:30:42 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K May 19 04:30 packages-stable/emacsql-sqlite3-1.0.2.el
+4.0K -rw-r--r-- 1 root root  406 May 19 04:30 packages-stable/emacsql-sqlite3-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emacsql-sqlite3-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K May 19 04:30 packages-stable/emacsql-sqlite3-readme.txt

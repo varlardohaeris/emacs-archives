@@ -1,0 +1,6 @@
+Package: frame-local
+Fetcher: github
+Source:  https://github.com/sebastiencs/frame-local.git
+
+Updating /mnt/store/melpa/working/frame-local/
+No valid stable versions found for frame-local
