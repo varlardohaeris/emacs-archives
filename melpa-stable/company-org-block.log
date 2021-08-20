@@ -1,0 +1,6 @@
+Package: company-org-block
+Fetcher: github
+Source:  https://github.com/xenodium/company-org-block.git
+
+Updating /mnt/store/melpa/working/company-org-block/
+No valid stable versions found for company-org-block

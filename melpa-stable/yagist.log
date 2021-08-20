@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mhayashi1120/yagist.el.git
 
 Updating /mnt/store/melpa/working/yagist/
-Built yagist in 3.540s, finished at Wed May 19 01:56:12 2021
+Checking out 97723a34750ccab5439eb9f6a2f67e4e0e234167
+Built yagist in 3.635s, finished at 2021-08-17T11:42:21+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  26K May 19 01:56 packages-stable/yagist-0.8.12.el
-4.0K -rw-r--r-- 1 root root  308 May 19 01:56 packages-stable/yagist-0.8.12.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yagist-badge.svg
-4.0K -rw-r--r-- 1 root root  203 May 19 01:56 packages-stable/yagist-readme.txt
+ 28K -rw-r--r-- 1 root root  26K Aug 17 11:42 packages-stable/yagist-0.8.12.el
+4.0K -rw-r--r-- 1 root root  308 Aug 17 11:42 packages-stable/yagist-0.8.12.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/yagist-badge.svg
+4.0K -rw-r--r-- 1 root root  203 Aug 17 11:42 packages-stable/yagist-readme.txt

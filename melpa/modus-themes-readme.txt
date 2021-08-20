@@ -1,48 +1,48 @@
 
 The Modus themes conform with the highest standard for color-contrast
 accessibility between background and foreground values (WCAG AAA).
-This file contains all customization options, helper functions,
+This file contains all customization variables, helper functions,
 interactive commands, and face specifications.  Please refer to the
 official Info manual for further documentation (distributed with the
 themes, or available at: <https://protesilaos.com/modus-themes>).
 
-The themes share the following customization options, all of which
-are disabled by default (nil):
+The themes share the following customization variables:
 
-    modus-themes-slanted-constructs             (boolean)
+    modus-themes-inhibit-reload                 (boolean)
+    modus-themes-italic-constructs              (boolean)
     modus-themes-bold-constructs                (boolean)
     modus-themes-variable-pitch-headings        (boolean)
     modus-themes-variable-pitch-ui              (boolean)
+    modus-themes-scale-headings                 (boolean)
+    modus-themes-subtle-line-numbers            (boolean)
+    modus-themes-success-deuteranopia           (boolean)
     modus-themes-no-mixed-fonts                 (boolean)
     modus-themes-headings                       (alist)
-    modus-themes-scale-headings                 (boolean)
     modus-themes-fringes                        (choice)
     modus-themes-lang-checkers                  (choice)
+    modus-themes-org-agenda                     (alist)
     modus-themes-org-blocks                     (choice)
-    modus-themes-org-habit                      (choice)
     modus-themes-prompts                        (choice)
     modus-themes-mode-line                      (choice)
     modus-themes-diffs                          (choice)
     modus-themes-syntax                         (choice)
     modus-themes-hl-line                        (choice)
-    modus-themes-subtle-line-numbers            (boolean)
     modus-themes-paren-match                    (choice)
     modus-themes-region                         (choice)
     modus-themes-links                          (choice)
     modus-themes-completions                    (choice)
     modus-themes-mail-citations                 (choice)
-    modus-themes-success-deuteranopia           (boolean)
 
 The default scale for headings is as follows (it can be customized as
 well---remember, no scaling takes place by default):
 
-    modus-themes-scale-1 1.05
-    modus-themes-scale-2 1.1
-    modus-themes-scale-3 1.15
-    modus-themes-scale-4 1.2
-    modus-themes-scale-5 1.3
+    modus-themes-scale-1                        1.05
+    modus-themes-scale-2                        1.1
+    modus-themes-scale-3                        1.15
+    modus-themes-scale-4                        1.2
+    modus-themes-scale-title                    1.3
 
-There also exist two unique customization options for overriding
+There also exist two unique customization variables for overriding
 color palette values.  The specifics are documented in the manual.
 The symbols are:
 
@@ -95,8 +95,10 @@ missing package or change you would like to see.
     counsel-org-capture-string
     cov
     cperl-mode
+    css-mode
     csv-mode
     ctrlf
+    cursor-flash
     custom (M-x customize)
     dap-mode
     dashboard (emacs-dashboard)
@@ -132,6 +134,7 @@ missing package or change you would like to see.
     eldoc-box
     elfeed
     elfeed-score
+    elpher
     embark
     emms
     enh-ruby-mode (enhanced-ruby-mode)
@@ -176,6 +179,7 @@ missing package or change you would like to see.
     git-timemachine
     git-walktree
     gnus
+    gotest
     golden-ratio-scroll-screen
     helm
     helm-ls-git
@@ -218,6 +222,7 @@ missing package or change you would like to see.
     jupyter
     kaocha-runner
     keycast
+    ledger-mode
     line numbers (`display-line-numbers-mode' and global variant)
     lsp-mode
     lsp-ui

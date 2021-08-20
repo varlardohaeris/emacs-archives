@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/josteink/wsd-mode.git
 
 Updating /mnt/store/melpa/working/wsd-mode/
+Checking out b5e8ea0daeaa52f2ea6349e09902bd3216e96258
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wsd-mode/
-  to /tmp/wsd-modeMkrbfT/wsd-mode-0.5.0
+  to /tmp/wsd-modeMq3wVs/wsd-mode-0.5.0
     company-wsdmode.el -> company-wsdmode.el
     ob-wsdmode.el -> ob-wsdmode.el
     wsd-core.el -> wsd-core.el
@@ -19,9 +20,9 @@ Created wsd-mode-0.5.0.tar containing:
   wsd-mode-0.5.0/wsd-flycheck.el
   wsd-mode-0.5.0/wsd-mode-pkg.el
   wsd-mode-0.5.0/wsd-mode.el
-Built wsd-mode in 3.786s, finished at Wed May 19 01:55:45 2021
+Built wsd-mode in 7.534s, finished at 2021-08-17T11:41:51+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  403 May 19 01:55 packages-stable/wsd-mode-0.5.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:55 packages-stable/wsd-mode-0.5.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/wsd-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/wsd-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  403 Aug 17 11:41 packages-stable/wsd-mode-0.5.0.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:41 packages-stable/wsd-mode-0.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:41 packages-stable/wsd-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:41 packages-stable/wsd-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-jp/helm-orgcard.git
 
 Updating /mnt/store/melpa/working/helm-orgcard/
-Built helm-orgcard in 2.986s, finished at Wed May 19 04:40:53 2021
+Checking out 7464405eec903e24ba25894bd61bca2bb657da23
+Built helm-orgcard in 4.512s, finished at 2021-08-17T11:08:47+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 04:40 packages-stable/helm-orgcard-0.2.el
-4.0K -rw-r--r-- 1 root root  358 May 19 04:40 packages-stable/helm-orgcard-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-orgcard-badge.svg
-4.0K -rw-r--r-- 1 root root  181 May 19 04:40 packages-stable/helm-orgcard-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 11:08 packages-stable/helm-orgcard-0.2.el
+4.0K -rw-r--r-- 1 root root  358 Aug 17 11:08 packages-stable/helm-orgcard-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-orgcard-badge.svg
+4.0K -rw-r--r-- 1 root root  181 Aug 17 11:08 packages-stable/helm-orgcard-readme.txt

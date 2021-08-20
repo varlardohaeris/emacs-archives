@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ahungry/swagger-to-org.git
 
 Updating /mnt/store/melpa/working/swagger-to-org/
-Built swagger-to-org in 3.018s, finished at Wed May 19 01:50:45 2021
+Checking out 181357c71ea24bede263f5706d8781ad65e16877
+Built swagger-to-org in 3.637s, finished at 2021-08-17T11:36:19+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 01:50 packages-stable/swagger-to-org-0.0.2.el
-4.0K -rw-r--r-- 1 root root  468 May 19 01:50 packages-stable/swagger-to-org-0.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/swagger-to-org-badge.svg
-4.0K -rw-r--r-- 1 root root  138 May 19 01:50 packages-stable/swagger-to-org-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 11:36 packages-stable/swagger-to-org-0.0.2.el
+4.0K -rw-r--r-- 1 root root  468 Aug 17 11:36 packages-stable/swagger-to-org-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/swagger-to-org-badge.svg
+4.0K -rw-r--r-- 1 root root  138 Aug 17 11:36 packages-stable/swagger-to-org-readme.txt

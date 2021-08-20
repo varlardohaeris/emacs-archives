@@ -3,19 +3,22 @@ Fetcher: github
 Source:  https://github.com/emacs-csharp/csharp-mode.git
 
 Updating /mnt/store/melpa/working/csharp-mode/
+Checking out 69fe52b5908e1b29b2765d7e01cd6a8f0fc16332
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/csharp-mode/
-  to /tmp/csharp-modekSeNOc/csharp-mode-0.11.0
+  to /tmp/csharp-modeT38t4Z/csharp-mode-0.12.0
+    csharp-compilation.el -> csharp-compilation.el
     csharp-mode.el -> csharp-mode.el
     csharp-tree-sitter.el -> csharp-tree-sitter.el
-Created csharp-mode-0.11.0.tar containing:
-  csharp-mode-0.11.0/
-  csharp-mode-0.11.0/csharp-mode-pkg.el
-  csharp-mode-0.11.0/csharp-mode.el
-  csharp-mode-0.11.0/csharp-tree-sitter.el
-Built csharp-mode in 6.773s, finished at Wed May 19 04:25:58 2021
+Created csharp-mode-0.12.0.tar containing:
+  csharp-mode-0.12.0/
+  csharp-mode-0.12.0/csharp-compilation.el
+  csharp-mode-0.12.0/csharp-mode-pkg.el
+  csharp-mode-0.12.0/csharp-mode.el
+  csharp-mode-0.12.0/csharp-tree-sitter.el
+Built csharp-mode in 4.795s, finished at 2021-08-17T10:51:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  378 May 19 04:25 packages-stable/csharp-mode-0.11.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 04:25 packages-stable/csharp-mode-0.11.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/csharp-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  400 Aug 17 10:51 packages-stable/csharp-mode-0.12.0.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 10:51 packages-stable/csharp-mode-0.12.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/csharp-mode-badge.svg
 4.0K -rw-r--r-- 1 root root 2.4K Sep 30  2020 packages-stable/csharp-mode-readme.txt

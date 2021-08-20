@@ -3,18 +3,19 @@ Fetcher: github
 Source:  https://github.com/ardumont/markdown-toc.git
 
 Updating /mnt/store/melpa/working/markdown-toc/
+Checking out 84177074fab8381d8ea41e6c82cd6b10a58f1e6e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/markdown-toc/
-  to /tmp/markdown-tocS9R468/markdown-toc-0.1.5
+  to /tmp/markdown-tocAXRsqd/markdown-toc-0.1.5
     markdown-toc-pkg.el -> markdown-toc-pkg.el
     markdown-toc.el -> markdown-toc.el
 Created markdown-toc-0.1.5.tar containing:
   markdown-toc-0.1.5/
   markdown-toc-0.1.5/markdown-toc-pkg.el
   markdown-toc-0.1.5/markdown-toc.el
-Built markdown-toc in 3.677s, finished at Wed May 19 01:34:10 2021
+Built markdown-toc in 3.564s, finished at 2021-08-17T11:17:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  429 May 19 01:34 packages-stable/markdown-toc-0.1.5.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:34 packages-stable/markdown-toc-0.1.5.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/markdown-toc-badge.svg
-4.0K -rw-r--r-- 1 root root  904 May 19 01:34 packages-stable/markdown-toc-readme.txt
+4.0K -rw-r--r-- 1 root root  429 Aug 17 11:17 packages-stable/markdown-toc-0.1.5.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:17 packages-stable/markdown-toc-0.1.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/markdown-toc-badge.svg
+4.0K -rw-r--r-- 1 root root  904 Aug 17 11:17 packages-stable/markdown-toc-readme.txt

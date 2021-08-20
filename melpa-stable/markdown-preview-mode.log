@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ancane/markdown-preview-mode.git
 
 Updating /mnt/store/melpa/working/markdown-preview-mode/
+Checking out dde87b96de9e81dd01d174da67ef68687b3a5eb5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/markdown-preview-mode/
-  to /tmp/markdown-preview-modeLdbVGB/markdown-preview-mode-0.9.4
+  to /tmp/markdown-preview-modeOJXYaN/markdown-preview-mode-0.9.4
     markdown-preview-mode.el -> markdown-preview-mode.el
     preview.html -> preview.html
     favicon.ico -> favicon.ico
@@ -15,9 +16,9 @@ Created markdown-preview-mode-0.9.4.tar containing:
   markdown-preview-mode-0.9.4/markdown-preview-mode-pkg.el
   markdown-preview-mode-0.9.4/markdown-preview-mode.el
   markdown-preview-mode-0.9.4/preview.html
-Built markdown-preview-mode in 3.638s, finished at Wed May 19 01:34:09 2021
+Built markdown-preview-mode in 3.748s, finished at 2021-08-17T11:17:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  519 May 19 01:34 packages-stable/markdown-preview-mode-0.9.4.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:34 packages-stable/markdown-preview-mode-0.9.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/markdown-preview-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  129 May 19 01:34 packages-stable/markdown-preview-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  519 Aug 17 11:17 packages-stable/markdown-preview-mode-0.9.4.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:17 packages-stable/markdown-preview-mode-0.9.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/markdown-preview-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  129 Aug 17 11:17 packages-stable/markdown-preview-mode-readme.txt

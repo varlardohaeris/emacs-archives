@@ -1,0 +1,6 @@
+Package: key-leap
+Fetcher: github
+Source:  https://github.com/MartinRykfors/key-leap.git
+
+Updating /mnt/store/melpa/working/key-leap/
+No valid stable versions found for key-leap

@@ -1,0 +1,6 @@
+Package: streamlink
+Fetcher: github
+Source:  https://github.com/benediktbroich/streamlink.git
+
+Updating /mnt/store/melpa/working/streamlink/
+No valid stable versions found for streamlink

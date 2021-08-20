@@ -3,33 +3,35 @@ Fetcher: github
 Source:  https://github.com/dickmao/nnreddit.git
 
 Updating /mnt/store/melpa/working/nnreddit/
+Checking out origin/HEAD
+Checking out 60bf11fdba8ff56b6b4b21f5f0c04953834d8a14
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nnreddit/
-  to /tmp/nnredditDVPJYg/nnreddit-20201130.39
+  to /tmp/nnreddit8vcMQU/nnreddit-20210708.43
   ! lisp/nnreddit-pkg.el -> nnreddit-pkg.el
   ! lisp/nnreddit.el -> nnreddit.el
     setup.py -> setup.py
     requirements.txt -> requirements.txt
     nnreddit => nnreddit
-Created nnreddit-20201130.39.tar containing:
-  nnreddit-20201130.39/
-  nnreddit-20201130.39/nnreddit-pkg.el
-  nnreddit-20201130.39/nnreddit.el
-  nnreddit-20201130.39/nnreddit/
-  nnreddit-20201130.39/nnreddit/VERSION
-  nnreddit-20201130.39/nnreddit/__init__.py
-  nnreddit-20201130.39/nnreddit/__main__.py
-  nnreddit-20201130.39/nnreddit/authenticated_reddit.py
-  nnreddit-20201130.39/nnreddit/pylintrc
-  nnreddit-20201130.39/nnreddit/templates/
-  nnreddit-20201130.39/nnreddit/templates/index.html
-  nnreddit-20201130.39/nnreddit/templates/mailcap
-  nnreddit-20201130.39/nnreddit/templates/rtv.cfg
-  nnreddit-20201130.39/requirements.txt
-  nnreddit-20201130.39/setup.py
-Built nnreddit in 3.794s, finished at Wed May 19 03:47:14 2021
+Created nnreddit-20210708.43.tar containing:
+  nnreddit-20210708.43/
+  nnreddit-20210708.43/nnreddit-pkg.el
+  nnreddit-20210708.43/nnreddit.el
+  nnreddit-20210708.43/nnreddit/
+  nnreddit-20210708.43/nnreddit/VERSION
+  nnreddit-20210708.43/nnreddit/__init__.py
+  nnreddit-20210708.43/nnreddit/__main__.py
+  nnreddit-20210708.43/nnreddit/authenticated_reddit.py
+  nnreddit-20210708.43/nnreddit/pylintrc
+  nnreddit-20210708.43/nnreddit/templates/
+  nnreddit-20210708.43/nnreddit/templates/index.html
+  nnreddit-20210708.43/nnreddit/templates/mailcap
+  nnreddit-20210708.43/nnreddit/templates/rtv.cfg
+  nnreddit-20210708.43/requirements.txt
+  nnreddit-20210708.43/setup.py
+Built nnreddit in 4.252s, finished at 2021-08-17T10:11:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  399 May 19 03:47 packages/nnreddit-20201130.39.entry
-120K -rw-r--r-- 1 root root 120K May 19 03:47 packages/nnreddit-20201130.39.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:47 packages/nnreddit-badge.svg
-4.0K -rw-r--r-- 1 root root   27 May 19 03:47 packages/nnreddit-readme.txt
+4.0K -rw-r--r-- 1 root root  411 Aug 17 10:11 packages/nnreddit-20210708.43.entry
+120K -rw-r--r-- 1 root root 120K Aug 17 10:11 packages/nnreddit-20210708.43.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:11 packages/nnreddit-badge.svg
+4.0K -rw-r--r-- 1 root root   27 Aug 17 10:11 packages/nnreddit-readme.txt

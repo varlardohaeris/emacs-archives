@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alphapapa/burly.el.git
 
 Updating /mnt/store/melpa/working/burly/
+Checking out 432a192f631d4cfd69285b47f57f21f1ee5d4331
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/burly/
-  to /tmp/burlytKQHxv/burly-0.1
+  to /tmp/burlyhGkyHh/burly-0.1
     burly.el -> burly.el
     burly.info -> burly.info
 Created burly-0.1.tar containing:
@@ -14,9 +15,9 @@ Created burly-0.1.tar containing:
   burly-0.1/burly.el
   burly-0.1/burly.info
   burly-0.1/dir
-Built burly in 3.053s, finished at Wed May 19 04:22:20 2021
+Built burly in 3.753s, finished at 2021-08-17T10:47:29+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  373 May 19 04:22 packages-stable/burly-0.1.entry
- 40K -rw-r--r-- 1 root root  40K May 19 04:22 packages-stable/burly-0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/burly-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:22 packages-stable/burly-readme.txt
+4.0K -rw-r--r-- 1 root root  373 Aug 17 10:47 packages-stable/burly-0.1.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 10:47 packages-stable/burly-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/burly-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 10:47 packages-stable/burly-readme.txt

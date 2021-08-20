@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cyrus-and/comb.git
 
 Updating /mnt/store/melpa/working/comb/
+Checking out 8a68d313bf429763eb8aa78ece00230a668f2a1f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/comb/
-  to /tmp/combTjcjCW/comb-0.2.0
+  to /tmp/combHjanbA/comb-0.2.0
     comb-browse.el -> comb-browse.el
     comb-common.el -> comb-common.el
     comb-configure.el -> comb-configure.el
@@ -25,9 +26,9 @@ Created comb-0.2.0.tar containing:
   comb-0.2.0/comb-search.el
   comb-0.2.0/comb-session.el
   comb-0.2.0/comb.el
-Built comb in 3.165s, finished at Wed May 19 04:24:06 2021
+Built comb in 3.451s, finished at 2021-08-17T10:49:35+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  360 May 19 04:24 packages-stable/comb-0.2.0.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:24 packages-stable/comb-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/comb-badge.svg
-4.0K -rw-r--r-- 1 root root  290 May 19 04:24 packages-stable/comb-readme.txt
+4.0K -rw-r--r-- 1 root root  360 Aug 17 10:49 packages-stable/comb-0.2.0.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 10:49 packages-stable/comb-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/comb-badge.svg
+4.0K -rw-r--r-- 1 root root  290 Aug 17 10:49 packages-stable/comb-readme.txt

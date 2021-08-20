@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/lively.git
 
 Updating /mnt/store/melpa/working/lively/
-Built lively in 2.888s, finished at Wed May 19 01:32:38 2021
+Checking out 6ec648fcde85e81393db1ed1364860f960179c92
+Built lively in 3.491s, finished at 2021-08-17T11:15:49+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.3K May 19 01:32 packages-stable/lively-0.2.el
-4.0K -rw-r--r-- 1 root root  122 May 19 01:32 packages-stable/lively-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lively-badge.svg
-4.0K -rw-r--r-- 1 root root  450 May 19 01:32 packages-stable/lively-readme.txt
+4.0K -rw-r--r-- 1 root root 3.3K Aug 17 11:15 packages-stable/lively-0.2.el
+4.0K -rw-r--r-- 1 root root  122 Aug 17 11:15 packages-stable/lively-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/lively-badge.svg
+4.0K -rw-r--r-- 1 root root  450 Aug 17 11:15 packages-stable/lively-readme.txt

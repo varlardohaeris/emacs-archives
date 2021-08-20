@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/function-args.git
 
 Updating /mnt/store/melpa/working/function-args/
+Checking out 0b07db81c0c1fa88d1ec763219ee57640858f79d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/function-args/
-  to /tmp/function-argsmUhGiN/function-args-0.6.0
+  to /tmp/function-args391Vd3/function-args-0.6.0
     function-args.el -> function-args.el
     semantic-directory.el -> semantic-directory.el
 Created function-args-0.6.0.tar containing:
@@ -13,9 +14,9 @@ Created function-args-0.6.0.tar containing:
   function-args-0.6.0/function-args-pkg.el
   function-args-0.6.0/function-args.el
   function-args-0.6.0/semantic-directory.el
-Built function-args in 3.030s, finished at Wed May 19 04:36:29 2021
+Built function-args in 4.089s, finished at 2021-08-17T11:03:39+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  322 May 19 04:36 packages-stable/function-args-0.6.0.entry
- 92K -rw-r--r-- 1 root root  90K May 19 04:36 packages-stable/function-args-0.6.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/function-args-badge.svg
-4.0K -rw-r--r-- 1 root root  569 May 19 04:36 packages-stable/function-args-readme.txt
+4.0K -rw-r--r-- 1 root root  322 Aug 17 11:03 packages-stable/function-args-0.6.0.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 11:03 packages-stable/function-args-0.6.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/function-args-badge.svg
+4.0K -rw-r--r-- 1 root root  569 Aug 17 11:03 packages-stable/function-args-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dominikh/go-mode.el.git
 
 Updating /mnt/store/melpa/working/go-guru/
-Built go-guru in 3.699s, finished at Wed May 19 04:38:00 2021
+Checking out d3d9aa51417fd19a824b31b58080fe3a47af3ce3
+Built go-guru in 4.441s, finished at 2021-08-17T11:05:26+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 04:38 packages-stable/go-guru-1.5.0.el
-4.0K -rw-r--r-- 1 root root  227 May 19 04:38 packages-stable/go-guru-1.5.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/go-guru-badge.svg
-4.0K -rw-r--r-- 1 root root  936 May 19 04:38 packages-stable/go-guru-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 11:05 packages-stable/go-guru-1.5.0.el
+4.0K -rw-r--r-- 1 root root  227 Aug 17 11:05 packages-stable/go-guru-1.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/go-guru-badge.svg
+4.0K -rw-r--r-- 1 root root  936 Aug 17 11:05 packages-stable/go-guru-readme.txt

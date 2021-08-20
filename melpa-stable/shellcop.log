@@ -1,0 +1,12 @@
+Package: shellcop
+Fetcher: github
+Source:  https://github.com/redguardtoo/shellcop.git
+
+Updating /mnt/store/melpa/working/shellcop/
+Checking out 7c025b10173ef380ea539dbbdcd7d60977119e24
+Built shellcop in 3.674s, finished at 2021-08-17T11:33:10+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K Aug 17 11:33 packages-stable/shellcop-0.0.6.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:33 packages-stable/shellcop-0.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shellcop-badge.svg
+4.0K -rw-r--r-- 1 root root  946 Aug 17 11:33 packages-stable/shellcop-readme.txt

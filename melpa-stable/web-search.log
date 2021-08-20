@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/xuchunyang/web-search.el.git
 
 Updating /mnt/store/melpa/working/web-search/
+Checking out a22cbdc663a1895d5a5b69de91e1e3b9eb64b92f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/web-search/
-  to /tmp/web-searchhEaRnk/web-search-0.1.2
+  to /tmp/web-searchc7EZSz/web-search-0.1.2
     web-search.el -> web-search.el
     web-search -> web-search
     web-search-completion.bash -> web-search-completion.bash
@@ -15,9 +16,9 @@ Created web-search-0.1.2.tar containing:
   web-search-0.1.2/web-search-completion.bash
   web-search-0.1.2/web-search-pkg.el
   web-search-0.1.2/web-search.el
-Built web-search in 3.132s, finished at Wed May 19 01:54:45 2021
+Built web-search in 3.835s, finished at 2021-08-17T11:40:31+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  373 May 19 01:54 packages-stable/web-search-0.1.2.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:54 packages-stable/web-search-0.1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/web-search-badge.svg
-4.0K -rw-r--r-- 1 root root  255 May 19 01:54 packages-stable/web-search-readme.txt
+4.0K -rw-r--r-- 1 root root  373 Aug 17 11:40 packages-stable/web-search-0.1.2.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:40 packages-stable/web-search-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/web-search-badge.svg
+4.0K -rw-r--r-- 1 root root  255 Aug 17 11:40 packages-stable/web-search-readme.txt

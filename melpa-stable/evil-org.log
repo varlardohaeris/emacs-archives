@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Somelauw/evil-org-mode.git
 
 Updating /mnt/store/melpa/working/evil-org/
+Checking out 9d4be14118bf27094a30dbff349b815f098aacbf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-org/
-  to /tmp/evil-orglZx8gQ/evil-org-1.0.2
+  to /tmp/evil-orgIJplaa/evil-org-1.0.2
     evil-org-agenda.el -> evil-org-agenda.el
     evil-org.el -> evil-org.el
 Created evil-org-1.0.2.tar containing:
@@ -13,9 +14,9 @@ Created evil-org-1.0.2.tar containing:
   evil-org-1.0.2/evil-org-agenda.el
   evil-org-1.0.2/evil-org-pkg.el
   evil-org-1.0.2/evil-org.el
-Built evil-org in 2.809s, finished at Wed May 19 04:32:27 2021
+Built evil-org in 4.416s, finished at 2021-08-17T10:59:02+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  346 May 19 04:32 packages-stable/evil-org-1.0.2.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:32 packages-stable/evil-org-1.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-org-badge.svg
-4.0K -rw-r--r-- 1 root root   67 May 19 04:32 packages-stable/evil-org-readme.txt
+4.0K -rw-r--r-- 1 root root  346 Aug 17 10:59 packages-stable/evil-org-1.0.2.entry
+ 56K -rw-r--r-- 1 root root  50K Aug 17 10:59 packages-stable/evil-org-1.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-org-badge.svg
+4.0K -rw-r--r-- 1 root root   67 Aug 17 10:59 packages-stable/evil-org-readme.txt

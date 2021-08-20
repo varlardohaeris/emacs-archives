@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/k1LoW/emacs-serverspec.git
 
 Updating /mnt/store/melpa/working/serverspec/
+Checking out b6dfe82af9869438de5e5d860ced196641f372c0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/serverspec/
-  to /tmp/serverspecEi8ENp/serverspec-0.0.7
+  to /tmp/serverspecnOuvSJ/serverspec-0.0.7
     serverspec.el -> serverspec.el
     snippets => snippets
     dict => dict
@@ -62,9 +63,9 @@ Created serverspec-0.0.7.tar containing:
   serverspec-0.0.7/snippets/text-mode/serverspec/ResourceTypes/x509_private_key
   serverspec-0.0.7/snippets/text-mode/serverspec/ResourceTypes/yumrepo
   serverspec-0.0.7/snippets/text-mode/serverspec/ResourceTypes/zfs
-Built serverspec in 4.406s, finished at Wed May 19 01:48:02 2021
+Built serverspec in 4.390s, finished at 2021-08-17T11:32:53+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  515 May 19 01:48 packages-stable/serverspec-0.0.7.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:48 packages-stable/serverspec-0.0.7.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/serverspec-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:48 packages-stable/serverspec-readme.txt
+4.0K -rw-r--r-- 1 root root  515 Aug 17 11:32 packages-stable/serverspec-0.0.7.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 11:32 packages-stable/serverspec-0.0.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:32 packages-stable/serverspec-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:32 packages-stable/serverspec-readme.txt

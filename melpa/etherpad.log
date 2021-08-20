@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/zzkt/ethermacs.git
 
 Updating /mnt/store/melpa/working/etherpad/
+Checking out origin/HEAD
+Checking out fc7de212b34c34d93f5f0f19af846924404e38ae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/etherpad/
-  to /tmp/etherpadvc3CTU/etherpad-20210401.1213
+  to /tmp/etherpad8KtX2q/etherpad-20210401.1213
     etherpad.el -> etherpad.el
     ethersync.el -> ethersync.el
 Created etherpad-20210401.1213.tar containing:
@@ -13,9 +15,9 @@ Created etherpad-20210401.1213.tar containing:
   etherpad-20210401.1213/etherpad-pkg.el
   etherpad-20210401.1213/etherpad.el
   etherpad-20210401.1213/ethersync.el
-Built etherpad in 3.917s, finished at Wed May 19 03:17:45 2021
+Built etherpad in 5.863s, finished at 2021-08-17T09:41:19+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  501 May 19 03:17 packages/etherpad-20210401.1213.entry
- 40K -rw-r--r-- 1 root root  40K May 19 03:17 packages/etherpad-20210401.1213.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:17 packages/etherpad-badge.svg
-4.0K -rw-r--r-- 1 root root  655 May 19 03:17 packages/etherpad-readme.txt
+4.0K -rw-r--r-- 1 root root  501 Aug 17 09:41 packages/etherpad-20210401.1213.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 09:41 packages/etherpad-20210401.1213.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:41 packages/etherpad-badge.svg
+4.0K -rw-r--r-- 1 root root  655 Aug 17 09:41 packages/etherpad-readme.txt

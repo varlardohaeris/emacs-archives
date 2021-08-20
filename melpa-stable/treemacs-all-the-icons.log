@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /mnt/store/melpa/working/treemacs-all-the-icons/
+Checking out 16b0819c6f27f45fe0495a29eeff5f01bd765b04
 No matching file(s) found in /mnt/store/melpa/working/treemacs-all-the-icons/: (src/extra/treemacs-all-the-icons.el)

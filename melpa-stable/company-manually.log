@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/yanghaoxie/company-manually.git
 
 Updating /mnt/store/melpa/working/company-manually/
-Built company-manually in 3.182s, finished at Wed May 19 04:24:33 2021
+Checking out b922318da821fc3cf1d3155f21d543ea8470c881
+Built company-manually in 5.089s, finished at 2021-08-17T10:50:05+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.4K May 19 04:24 packages-stable/company-manually-0.1.0.el
-4.0K -rw-r--r-- 1 root root  492 May 19 04:24 packages-stable/company-manually-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-manually-badge.svg
-4.0K -rw-r--r-- 1 root root   51 May 19 04:24 packages-stable/company-manually-readme.txt
+8.0K -rw-r--r-- 1 root root 7.4K Aug 17 10:50 packages-stable/company-manually-0.1.0.el
+4.0K -rw-r--r-- 1 root root  492 Aug 17 10:50 packages-stable/company-manually-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/company-manually-badge.svg
+4.0K -rw-r--r-- 1 root root   51 Aug 17 10:50 packages-stable/company-manually-readme.txt

@@ -3,7 +3,7 @@
 		    ((evil
 		      (1 14 0)))
 		    "unit test helpers for Evil" single
-		    ((:commit . "f0fdfef7703c814f9bb1bb2858d3cadc79fdcbdd")
+		    ((:commit . "dceb73603d397f7e42a541976d8ec0711248d38c")
 		     (:authors
 		      ("Vegard Øye <vegard_oye at hotmail.com>"))
 		     (:maintainer "Vegard Øye <vegard_oye at hotmail.com>"))])

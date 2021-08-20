@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/benmaughan/spotlight.el.git
 
 Updating /mnt/store/melpa/working/spotlight/
-Built spotlight in 4.130s, finished at Wed May 19 04:06:37 2021
+Checking out origin/HEAD
+Checking out ea71f4fd380c51e50c47bb25855af4f40e4d8da0
+Built spotlight in 4.884s, finished at 2021-08-17T13:57:20+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 04:06 packages/spotlight-20200109.2137.el
-4.0K -rw-r--r-- 1 root root  448 May 19 04:06 packages/spotlight-20200109.2137.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:06 packages/spotlight-badge.svg
-4.0K -rw-r--r-- 1 root root 1.9K May 19 04:06 packages/spotlight-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 13:57 packages/spotlight-20200109.2137.el
+4.0K -rw-r--r-- 1 root root  448 Aug 17 13:57 packages/spotlight-20200109.2137.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 13:57 packages/spotlight-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 13:57 packages/spotlight-readme.txt

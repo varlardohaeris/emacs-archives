@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/RenWenshan/emacs-moz-controller.git
 
 Updating /mnt/store/melpa/working/moz-controller/
-Built moz-controller in 4.524s, finished at Wed May 19 03:45:18 2021
+Checking out origin/HEAD
+Checking out 46f665c03574fa922de767fc29795e0db4a7c5c6
+Built moz-controller in 5.338s, finished at 2021-08-17T10:09:43+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.7K May 19 03:45 packages/moz-controller-20151209.206.el
-4.0K -rw-r--r-- 1 root root  365 May 19 03:45 packages/moz-controller-20151209.206.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:45 packages/moz-controller-badge.svg
-4.0K -rw-r--r-- 1 root root  278 May 19 03:45 packages/moz-controller-readme.txt
+8.0K -rw-r--r-- 1 root root 7.7K Aug 17 10:09 packages/moz-controller-20151209.206.el
+4.0K -rw-r--r-- 1 root root  365 Aug 17 10:09 packages/moz-controller-20151209.206.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:09 packages/moz-controller-badge.svg
+4.0K -rw-r--r-- 1 root root  278 Aug 17 10:09 packages/moz-controller-readme.txt

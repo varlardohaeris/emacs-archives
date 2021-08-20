@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/countvajhula/symex.el.git
 
 Updating /mnt/store/melpa/working/symex/
+Checking out c2d899e3b01f6d6cbf177029e977d852eece991d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/symex/
-  to /tmp/symexkRxJfR/symex-1.0
+  to /tmp/symexl8zTTF/symex-1.0
     symex-computations.el -> symex-computations.el
     symex-custom.el -> symex-custom.el
     symex-data.el -> symex-data.el
@@ -53,9 +54,9 @@ Created symex-1.0.tar containing:
   symex-1.0/symex-ui.el
   symex-1.0/symex-utils.el
   symex-1.0/symex.el
-Built symex in 2.986s, finished at Wed May 19 01:50:59 2021
+Built symex in 4.044s, finished at 2021-08-17T11:36:35+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  607 May 19 01:50 packages-stable/symex-1.0.entry
-172K -rw-r--r-- 1 root root 170K May 19 01:50 packages-stable/symex-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/symex-badge.svg
-4.0K -rw-r--r-- 1 root root  768 May 19 01:50 packages-stable/symex-readme.txt
+4.0K -rw-r--r-- 1 root root  607 Aug 17 11:36 packages-stable/symex-1.0.entry
+172K -rw-r--r-- 1 root root 170K Aug 17 11:36 packages-stable/symex-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/symex-badge.svg
+4.0K -rw-r--r-- 1 root root  768 Aug 17 11:36 packages-stable/symex-readme.txt

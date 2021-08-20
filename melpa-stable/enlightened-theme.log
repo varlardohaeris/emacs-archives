@@ -3,4 +3,4 @@ Fetcher: hg
 Source:  https://hg.sr.ht/~slondr/enlightened
 
 Updating /mnt/store/melpa/working/enlightened-theme/
-hg exited with status 255
+Args out of range: #<buffer *scratch*>, 0, 3

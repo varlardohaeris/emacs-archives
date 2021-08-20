@@ -3,19 +3,21 @@ Fetcher: github
 Source:  https://github.com/federicotdn/verb.git
 
 Updating /mnt/store/melpa/working/verb/
+Checking out origin/HEAD
+Checking out 6f5b454782d5c2ce9d86616c3d015935d3d5dd6b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/verb/
-  to /tmp/verbBr2izy/verb-20210429.2113
+  to /tmp/verboJVaHV/verb-20210809.2140
     ob-verb.el -> ob-verb.el
     verb.el -> verb.el
-Created verb-20210429.2113.tar containing:
-  verb-20210429.2113/
-  verb-20210429.2113/ob-verb.el
-  verb-20210429.2113/verb-pkg.el
-  verb-20210429.2113/verb.el
-Built verb in 4.263s, finished at Wed May 19 04:13:16 2021
+Created verb-20210809.2140.tar containing:
+  verb-20210809.2140/
+  verb-20210809.2140/ob-verb.el
+  verb-20210809.2140/verb-pkg.el
+  verb-20210809.2140/verb.el
+Built verb in 4.872s, finished at 2021-08-17T14:03:46+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  358 May 19 04:13 packages/verb-20210429.2113.entry
-112K -rw-r--r-- 1 root root 110K May 19 04:13 packages/verb-20210429.2113.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/verb-badge.svg
-4.0K -rw-r--r-- 1 root root  133 May 19 04:13 packages/verb-readme.txt
+4.0K -rw-r--r-- 1 root root  358 Aug 17 14:03 packages/verb-20210809.2140.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 14:03 packages/verb-20210809.2140.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:03 packages/verb-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Aug 17 14:03 packages/verb-readme.txt

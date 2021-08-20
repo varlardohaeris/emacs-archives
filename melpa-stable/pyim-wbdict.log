@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tumashu/pyim-wbdict.git
 
 Updating /mnt/store/melpa/working/pyim-wbdict/
+Checking out 114489ed97e825ae11a8d09da6e873820cf23106
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pyim-wbdict/
-  to /tmp/pyim-wbdictHHpCBk/pyim-wbdict-0.1
+  to /tmp/pyim-wbdictkeIGfZ/pyim-wbdict-0.1
     pyim-wbdict.el -> pyim-wbdict.el
     pyim-wbdict-gb2312.pyim -> pyim-wbdict-gb2312.pyim
     pyim-wbdict-gbk.pyim -> pyim-wbdict-gbk.pyim
@@ -15,9 +16,9 @@ Created pyim-wbdict-0.1.tar containing:
   pyim-wbdict-0.1/pyim-wbdict-gbk.pyim
   pyim-wbdict-0.1/pyim-wbdict-pkg.el
   pyim-wbdict-0.1/pyim-wbdict.el
-Built pyim-wbdict in 3.260s, finished at Wed May 19 01:44:52 2021
+Built pyim-wbdict in 3.962s, finished at 2021-08-17T11:29:24+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  400 May 19 01:44 packages-stable/pyim-wbdict-0.1.entry
-1.2M -rw-r--r-- 1 root root 1.2M May 19 01:44 packages-stable/pyim-wbdict-0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pyim-wbdict-badge.svg
-4.0K -rw-r--r-- 1 root root  490 May 19 01:44 packages-stable/pyim-wbdict-readme.txt
+4.0K -rw-r--r-- 1 root root  400 Aug 17 11:29 packages-stable/pyim-wbdict-0.1.entry
+1.2M -rw-r--r-- 1 root root 1.2M Aug 17 11:29 packages-stable/pyim-wbdict-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/pyim-wbdict-badge.svg
+4.0K -rw-r--r-- 1 root root  490 Aug 17 11:29 packages-stable/pyim-wbdict-readme.txt

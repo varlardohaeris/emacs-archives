@@ -3,15 +3,16 @@ Fetcher: github
 Source:  https://github.com/dbrock/bongo.git
 
 Updating /mnt/store/melpa/working/bongo/
+Checking out 9afbf269d33cd3196962423a2c261824611cffe4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bongo/
-  to /tmp/bongoNCks26/bongo-1.1
+  to /tmp/bongoQioYUr/bongo-1.1
     bongo.el -> bongo.el
     lastfm-submit.el -> lastfm-submit.el
     bongo.texi -> bongo.texi
     images => images
     tree-from-tags.rb -> tree-from-tags.rb
-Created /tmp/bongoNCks26/bongo-1.1/bongo.info
+Created /tmp/bongoQioYUr/bongo-1.1/bongo.info
 Created bongo-1.1.tar containing:
   bongo-1.1/
   bongo-1.1/bongo-pkg.el
@@ -31,9 +32,9 @@ Created bongo-1.1.tar containing:
   bongo-1.1/images/uri-track-icon.png
   bongo-1.1/lastfm-submit.el
   bongo-1.1/tree-from-tags.rb
-Built bongo in 18.250s, finished at Wed May 19 04:21:44 2021
+Built bongo in 9.076s, finished at 2021-08-17T10:47:00+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  153 May 19 04:21 packages-stable/bongo-1.1.entry
-540K -rw-r--r-- 1 root root 540K May 19 04:21 packages-stable/bongo-1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bongo-badge.svg
-4.0K -rw-r--r-- 1 root root  151 May 19 04:21 packages-stable/bongo-readme.txt
+4.0K -rw-r--r-- 1 root root  153 Aug 17 10:46 packages-stable/bongo-1.1.entry
+540K -rw-r--r-- 1 root root 540K Aug 17 10:46 packages-stable/bongo-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/bongo-badge.svg
+4.0K -rw-r--r-- 1 root root  151 Aug 17 10:46 packages-stable/bongo-readme.txt

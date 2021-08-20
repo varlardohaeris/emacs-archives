@@ -3,10 +3,11 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-geiser/gauche.git
 
 Updating /mnt/store/melpa/working/geiser-gauche/
+Checking out 362f1d1189c090ece8b94f6a51680f74b1ff40f9
 Note: geiser-gauche :files spec is equivalent to the default.
-Built geiser-gauche in 3.062s, finished at Wed May 19 04:36:47 2021
+Built geiser-gauche in 3.704s, finished at 2021-08-17T11:03:58+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 04:36 packages-stable/geiser-gauche-0.14.el
-4.0K -rw-r--r-- 1 root root  135 May 19 04:36 packages-stable/geiser-gauche-0.14.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-gauche-badge.svg
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:03 packages-stable/geiser-gauche-0.14.el
+4.0K -rw-r--r-- 1 root root  135 Aug 17 11:03 packages-stable/geiser-gauche-0.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-gauche-badge.svg
 4.0K -rw-r--r-- 1 root root   65 Mar 22 00:24 packages-stable/geiser-gauche-readme.txt

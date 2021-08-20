@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lispunion/emacs-lisp-local.git
 
 Updating /mnt/store/melpa/working/lisp-local/
-Built lisp-local in 3.089s, finished at Wed May 19 01:32:27 2021
+Checking out 6bc1f47a835b5e62eb51a4b98a89a70654d4088a
+Built lisp-local in 3.513s, finished at 2021-08-17T11:15:36+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.3K May 19 01:32 packages-stable/lisp-local-0.1.el
-4.0K -rw-r--r-- 1 root root  436 May 19 01:32 packages-stable/lisp-local-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lisp-local-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 01:32 packages-stable/lisp-local-readme.txt
+8.0K -rw-r--r-- 1 root root 6.3K Aug 17 11:15 packages-stable/lisp-local-0.1.el
+4.0K -rw-r--r-- 1 root root  436 Aug 17 11:15 packages-stable/lisp-local-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/lisp-local-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:15 packages-stable/lisp-local-readme.txt

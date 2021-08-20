@@ -1,0 +1,5 @@
+(slurm-mode .
+	    [(20210519 1109)
+	     nil "Interaction with the SLURM job scheduling system" tar
+	     ((:commit . "589826fbb07f625b23c322df1cc16377c4fe6f66")
+	      (:url . "https://github.com/ffevotte/slurm.el"))])

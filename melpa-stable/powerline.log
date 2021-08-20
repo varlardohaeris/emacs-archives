@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/milkypostman/powerline.git
 
 Updating /mnt/store/melpa/working/powerline/
+Checking out d3dcfc57a36111d8e0b037d90c6ffce85ce071b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/powerline/
-  to /tmp/powerlineMmYja7/powerline-2.4
+  to /tmp/powerlineysU4r2/powerline-2.4
     powerline-separators.el -> powerline-separators.el
     powerline-themes.el -> powerline-themes.el
     powerline.el -> powerline.el
@@ -15,10 +16,10 @@ Created powerline-2.4.tar containing:
   powerline-2.4/powerline-separators.el
   powerline-2.4/powerline-themes.el
   powerline-2.4/powerline.el
-Built powerline in 2.960s, finished at Wed May 19 01:43:53 2021
+Built powerline in 3.782s, finished at 2021-08-17T11:28:13+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  380 May 19 01:43 packages-stable/powerline-2.4.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:43 packages-stable/powerline-2.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/powerline-badge.svg
-4.0K -rw-r--r-- 1 root root  208 May 19 01:43 packages-stable/powerline-evil.log
-4.0K -rw-r--r-- 1 root root  148 May 19 01:43 packages-stable/powerline-readme.txt
+4.0K -rw-r--r-- 1 root root  380 Aug 17 11:28 packages-stable/powerline-2.4.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:28 packages-stable/powerline-2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/powerline-badge.svg
+4.0K -rw-r--r-- 1 root root  208 Aug 17 11:28 packages-stable/powerline-evil.log
+4.0K -rw-r--r-- 1 root root  148 Aug 17 11:28 packages-stable/powerline-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mgalgs/diffview-mode.git
 
 Updating /mnt/store/melpa/working/diffview/
-Built diffview in 5.756s, finished at Wed May 19 04:27:19 2021
+Checking out 471dc36af93e68849bf2da0db991e186283b3546
+Built diffview in 4.218s, finished at 2021-08-17T10:53:02+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.5K May 19 04:27 packages-stable/diffview-1.0.el
-4.0K -rw-r--r-- 1 root root  369 May 19 04:27 packages-stable/diffview-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/diffview-badge.svg
-4.0K -rw-r--r-- 1 root root  237 May 19 04:27 packages-stable/diffview-readme.txt
+8.0K -rw-r--r-- 1 root root 6.5K Aug 17 10:53 packages-stable/diffview-1.0.el
+4.0K -rw-r--r-- 1 root root  369 Aug 17 10:53 packages-stable/diffview-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/diffview-badge.svg
+4.0K -rw-r--r-- 1 root root  237 Aug 17 10:53 packages-stable/diffview-readme.txt

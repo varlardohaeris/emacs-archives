@@ -1,0 +1,6 @@
+Package: cargo-mode
+Fetcher: github
+Source:  https://github.com/ayrat555/cargo-mode.git
+
+Updating /mnt/store/melpa/working/cargo-mode/
+No valid stable versions found for cargo-mode

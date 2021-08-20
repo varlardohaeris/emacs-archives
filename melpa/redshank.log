@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsattic/redshank.git
 
 Updating /mnt/store/melpa/working/redshank/
+Checking out origin/HEAD
+Checking out d059c5841044aa163664f8bf87c1d981bf0a04fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/redshank/
-  to /tmp/redshankmYbAXc/redshank-20180730.407
+  to /tmp/redshankt9RD5e/redshank-20180730.407
     redshank-loader.el -> redshank-loader.el
     redshank.el -> redshank.el
 Created redshank-20180730.407.tar containing:
@@ -13,9 +15,9 @@ Created redshank-20180730.407.tar containing:
   redshank-20180730.407/redshank-loader.el
   redshank-20180730.407/redshank-pkg.el
   redshank-20180730.407/redshank.el
-Built redshank in 3.946s, finished at Wed May 19 04:00:20 2021
+Built redshank in 4.469s, finished at 2021-08-17T10:25:24+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  319 May 19 04:00 packages/redshank-20180730.407.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:00 packages/redshank-20180730.407.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/redshank-badge.svg
-4.0K -rw-r--r-- 1 root root  210 May 19 04:00 packages/redshank-readme.txt
+4.0K -rw-r--r-- 1 root root  319 Aug 17 10:25 packages/redshank-20180730.407.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 10:25 packages/redshank-20180730.407.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:25 packages/redshank-badge.svg
+4.0K -rw-r--r-- 1 root root  210 Aug 17 10:25 packages/redshank-readme.txt

@@ -9,10 +9,13 @@ Supported packages:
 - company-mode
 - dashboard
 - deft
+- diff-hl
 - doom-modeline
 - elfeed
 - evil
 - flycheck
+- flyspell-correct
+- git-commit
 - hydra
 - ido-vertical-mode
 - linum-relative
@@ -40,8 +43,10 @@ Supported packages:
 
 Supported defaults:
 - custom (M-x customize)
+- diff-mode
 - dired
 - display-line-numbers-mode
+- flyspell
 - font-lock-mode
 - ido-mode
 - info

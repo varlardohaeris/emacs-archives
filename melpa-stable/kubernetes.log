@@ -1,17 +1,19 @@
 Package: kubernetes
 Fetcher: github
-Source:  https://github.com/chrisbarrett/kubernetes-el.git
+Source:  https://github.com/kubernetes-el/kubernetes-el.git
 
 Updating /mnt/store/melpa/working/kubernetes/
+Checking out ea81874f0490cea310b09c57718aa0e5c83d578b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubernetes/
-  to /tmp/kubernetesfP9MWa/kubernetes-0.13.0
+  to /tmp/kubernetesbj5Qh4/kubernetes-0.15.0
     kubernetes-ast.el -> kubernetes-ast.el
     kubernetes-commands.el -> kubernetes-commands.el
     kubernetes-configmaps.el -> kubernetes-configmaps.el
     kubernetes-contexts.el -> kubernetes-contexts.el
     kubernetes-deployments.el -> kubernetes-deployments.el
     kubernetes-errors.el -> kubernetes-errors.el
+    kubernetes-ingress.el -> kubernetes-ingress.el
     kubernetes-jobs.el -> kubernetes-jobs.el
     kubernetes-kubectl.el -> kubernetes-kubectl.el
     kubernetes-labels.el -> kubernetes-labels.el
@@ -19,6 +21,7 @@ Copying files (->) and directories (=>)
     kubernetes-logs.el -> kubernetes-logs.el
     kubernetes-modes.el -> kubernetes-modes.el
     kubernetes-namespaces.el -> kubernetes-namespaces.el
+    kubernetes-nodes.el -> kubernetes-nodes.el
     kubernetes-overview.el -> kubernetes-overview.el
     kubernetes-pod-line.el -> kubernetes-pod-line.el
     kubernetes-pods.el -> kubernetes-pods.el
@@ -34,47 +37,49 @@ Copying files (->) and directories (=>)
     kubernetes-vars.el -> kubernetes-vars.el
     kubernetes-yaml.el -> kubernetes-yaml.el
     kubernetes.el -> kubernetes.el
-Created kubernetes-0.13.0.tar containing:
-  kubernetes-0.13.0/
-  kubernetes-0.13.0/kubernetes-ast.el
-  kubernetes-0.13.0/kubernetes-commands.el
-  kubernetes-0.13.0/kubernetes-configmaps.el
-  kubernetes-0.13.0/kubernetes-contexts.el
-  kubernetes-0.13.0/kubernetes-deployments.el
-  kubernetes-0.13.0/kubernetes-errors.el
-  kubernetes-0.13.0/kubernetes-jobs.el
-  kubernetes-0.13.0/kubernetes-kubectl.el
-  kubernetes-0.13.0/kubernetes-labels.el
-  kubernetes-0.13.0/kubernetes-loading-container.el
-  kubernetes-0.13.0/kubernetes-logs.el
-  kubernetes-0.13.0/kubernetes-modes.el
-  kubernetes-0.13.0/kubernetes-namespaces.el
-  kubernetes-0.13.0/kubernetes-overview.el
-  kubernetes-0.13.0/kubernetes-pkg.el
-  kubernetes-0.13.0/kubernetes-pod-line.el
-  kubernetes-0.13.0/kubernetes-pods.el
-  kubernetes-0.13.0/kubernetes-popups.el
-  kubernetes-0.13.0/kubernetes-process.el
-  kubernetes-0.13.0/kubernetes-props.el
-  kubernetes-0.13.0/kubernetes-secrets.el
-  kubernetes-0.13.0/kubernetes-services.el
-  kubernetes-0.13.0/kubernetes-state.el
-  kubernetes-0.13.0/kubernetes-statefulsets.el
-  kubernetes-0.13.0/kubernetes-timers.el
-  kubernetes-0.13.0/kubernetes-utils.el
-  kubernetes-0.13.0/kubernetes-vars.el
-  kubernetes-0.13.0/kubernetes-yaml.el
-  kubernetes-0.13.0/kubernetes.el
-Built kubernetes in 3.114s, finished at Wed May 19 01:31:31 2021
+Created kubernetes-0.15.0.tar containing:
+  kubernetes-0.15.0/
+  kubernetes-0.15.0/kubernetes-ast.el
+  kubernetes-0.15.0/kubernetes-commands.el
+  kubernetes-0.15.0/kubernetes-configmaps.el
+  kubernetes-0.15.0/kubernetes-contexts.el
+  kubernetes-0.15.0/kubernetes-deployments.el
+  kubernetes-0.15.0/kubernetes-errors.el
+  kubernetes-0.15.0/kubernetes-ingress.el
+  kubernetes-0.15.0/kubernetes-jobs.el
+  kubernetes-0.15.0/kubernetes-kubectl.el
+  kubernetes-0.15.0/kubernetes-labels.el
+  kubernetes-0.15.0/kubernetes-loading-container.el
+  kubernetes-0.15.0/kubernetes-logs.el
+  kubernetes-0.15.0/kubernetes-modes.el
+  kubernetes-0.15.0/kubernetes-namespaces.el
+  kubernetes-0.15.0/kubernetes-nodes.el
+  kubernetes-0.15.0/kubernetes-overview.el
+  kubernetes-0.15.0/kubernetes-pkg.el
+  kubernetes-0.15.0/kubernetes-pod-line.el
+  kubernetes-0.15.0/kubernetes-pods.el
+  kubernetes-0.15.0/kubernetes-popups.el
+  kubernetes-0.15.0/kubernetes-process.el
+  kubernetes-0.15.0/kubernetes-props.el
+  kubernetes-0.15.0/kubernetes-secrets.el
+  kubernetes-0.15.0/kubernetes-services.el
+  kubernetes-0.15.0/kubernetes-state.el
+  kubernetes-0.15.0/kubernetes-statefulsets.el
+  kubernetes-0.15.0/kubernetes-timers.el
+  kubernetes-0.15.0/kubernetes-utils.el
+  kubernetes-0.15.0/kubernetes-vars.el
+  kubernetes-0.15.0/kubernetes-yaml.el
+  kubernetes-0.15.0/kubernetes.el
+Built kubernetes in 3.836s, finished at 2021-08-17T11:14:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  411 May 19 01:31 packages-stable/kubernetes-0.13.0.entry
-212K -rw-r--r-- 1 root root 210K May 19 01:31 packages-stable/kubernetes-0.13.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/kubernetes-badge.svg
-4.0K -rw-r--r-- 1 root root 3.0K May 18 22:17 packages-stable/kubernetes-evil-0.13.0.el
-4.0K -rw-r--r-- 1 root root  338 May 18 22:17 packages-stable/kubernetes-evil-0.13.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:17 packages-stable/kubernetes-evil-badge.svg
-4.0K -rw-r--r-- 1 root root   60 May 18 22:17 packages-stable/kubernetes-evil-readme.txt
-4.0K -rw-r--r-- 1 root root  152 May 19 01:31 packages-stable/kubernetes-evil.log
-4.0K -rw-r--r-- 1 root root  202 May 19 01:31 packages-stable/kubernetes-helm.log
-   0 -rw-r--r-- 1 root root    0 May 19 01:31 packages-stable/kubernetes-readme.txt
-4.0K -rw-r--r-- 1 root root  206 May 19 01:31 packages-stable/kubernetes-tramp.log
+4.0K -rw-r--r-- 1 root root  411 Aug 17 11:14 packages-stable/kubernetes-0.15.0.entry
+240K -rw-r--r-- 1 root root 240K Aug 17 11:14 packages-stable/kubernetes-0.15.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/kubernetes-badge.svg
+4.0K -rw-r--r-- 1 root root 3.0K Aug 17 11:14 packages-stable/kubernetes-evil-0.15.0.el
+4.0K -rw-r--r-- 1 root root  338 Aug 17 11:14 packages-stable/kubernetes-evil-0.15.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:48 packages-stable/kubernetes-evil-badge.svg
+4.0K -rw-r--r-- 1 root root   60 Aug 17 11:14 packages-stable/kubernetes-evil-readme.txt
+4.0K -rw-r--r-- 1 root root  207 Aug 17 11:14 packages-stable/kubernetes-evil.log
+4.0K -rw-r--r-- 1 root root  202 Aug 17 11:14 packages-stable/kubernetes-helm.log
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:14 packages-stable/kubernetes-readme.txt
+4.0K -rw-r--r-- 1 root root  154 Aug 17 11:14 packages-stable/kubernetes-tramp.log

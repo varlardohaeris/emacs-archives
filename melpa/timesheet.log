@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/tmarble/timesheet.el.git
 
 Updating /mnt/store/melpa/working/timesheet/
+Checking out origin/HEAD
+Checking out 5098dc87d3d4f289b6c1b6532070dacbfe6de9fd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/timesheet/
-  to /tmp/timesheetDOGhIP/timesheet-20191024.151
+  to /tmp/timesheet1t9Nkf/timesheet-20191024.151
     timesheet.el -> timesheet.el
     bin => bin
     share => share
@@ -23,9 +25,9 @@ Created timesheet-20191024.151.tar containing:
   timesheet-20191024.151/share/yoyodyne.org
   timesheet-20191024.151/timesheet-pkg.el
   timesheet-20191024.151/timesheet.el
-Built timesheet in 8.247s, finished at Wed May 19 04:10:16 2021
+Built timesheet in 4.579s, finished at 2021-08-17T14:00:56+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  386 May 19 04:10 packages/timesheet-20191024.151.entry
-140K -rw-r--r-- 1 root root 140K May 19 04:10 packages/timesheet-20191024.151.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:10 packages/timesheet-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:10 packages/timesheet-readme.txt
+4.0K -rw-r--r-- 1 root root  386 Aug 17 14:00 packages/timesheet-20191024.151.entry
+140K -rw-r--r-- 1 root root 140K Aug 17 14:00 packages/timesheet-20191024.151.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:00 packages/timesheet-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 14:00 packages/timesheet-readme.txt

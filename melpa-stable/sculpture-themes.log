@@ -1,0 +1,7 @@
+Package: sculpture-themes
+Fetcher: github
+Source:  https://github.com/t-e-r-m/sculpture-themes.git
+
+Updating /mnt/store/melpa/working/sculpture-themes/
+Checking out d53f5aadcec9b49358640413156b89ac859ebe52
+sculpture-themes[-pkg].el matching package name is missing

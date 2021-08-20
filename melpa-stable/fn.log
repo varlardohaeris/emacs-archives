@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/troyp/fn.el.git
 
 Updating /mnt/store/melpa/working/fn/
-Built fn in 2.923s, finished at Wed May 19 04:35:57 2021
+Checking out b68fbb36a246fc7b1e6bf08f9a1167857bb426e0
+Built fn in 4.280s, finished at 2021-08-17T11:03:02+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.3K May 19 04:35 packages-stable/fn-0.1.2.el
-4.0K -rw-r--r-- 1 root root  366 May 19 04:35 packages-stable/fn-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/fn-badge.svg
-4.0K -rw-r--r-- 1 root root   94 May 19 04:35 packages-stable/fn-readme.txt
+8.0K -rw-r--r-- 1 root root 6.3K Aug 17 11:03 packages-stable/fn-0.1.2.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 11:03 packages-stable/fn-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fn-badge.svg
+4.0K -rw-r--r-- 1 root root   94 Aug 17 11:03 packages-stable/fn-readme.txt

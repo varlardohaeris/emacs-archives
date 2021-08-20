@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/jorgenschaefer/winpoint.git
 
 Updating /mnt/store/melpa/working/winpoint/
-Built winpoint in 4.428s, finished at Wed May 19 04:15:15 2021
+Checking out origin/HEAD
+Checking out e6050093c076308184566fa1d1012423d6934773
+Built winpoint in 10.373s, finished at 2021-08-17T14:06:12+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.7K May 19 04:15 packages/winpoint-20131023.1713.el
-4.0K -rw-r--r-- 1 root root  376 May 19 04:15 packages/winpoint-20131023.1713.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/winpoint-badge.svg
-4.0K -rw-r--r-- 1 root root  347 May 19 04:15 packages/winpoint-readme.txt
+8.0K -rw-r--r-- 1 root root 6.7K Aug 17 14:06 packages/winpoint-20131023.1713.el
+4.0K -rw-r--r-- 1 root root  376 Aug 17 14:06 packages/winpoint-20131023.1713.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:06 packages/winpoint-badge.svg
+4.0K -rw-r--r-- 1 root root  347 Aug 17 14:06 packages/winpoint-readme.txt

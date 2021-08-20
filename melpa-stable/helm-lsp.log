@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/helm-lsp.git
 
 Updating /mnt/store/melpa/working/helm-lsp/
-Built helm-lsp in 3.006s, finished at Wed May 19 04:40:42 2021
+Checking out 5c960e7800dc8f4432f3a1466a637d484b87dc35
+Built helm-lsp in 5.209s, finished at 2021-08-17T11:08:31+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.5K May 19 04:40 packages-stable/helm-lsp-0.2.el
-4.0K -rw-r--r-- 1 root root  437 May 19 04:40 packages-stable/helm-lsp-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-lsp-badge.svg
-4.0K -rw-r--r-- 1 root root   25 May 19 04:40 packages-stable/helm-lsp-readme.txt
+8.0K -rw-r--r-- 1 root root 7.5K Aug 17 11:08 packages-stable/helm-lsp-0.2.el
+4.0K -rw-r--r-- 1 root root  437 Aug 17 11:08 packages-stable/helm-lsp-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-lsp-badge.svg
+4.0K -rw-r--r-- 1 root root   25 Aug 17 11:08 packages-stable/helm-lsp-readme.txt

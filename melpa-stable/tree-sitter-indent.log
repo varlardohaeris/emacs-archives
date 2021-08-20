@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://codeberg.org/FelipeLema/tree-sitter-indent.el.git
 
 Updating /mnt/store/melpa/working/tree-sitter-indent/
-Built tree-sitter-indent in 5.183s, finished at Wed May 19 01:52:48 2021
+Checking out 831a48571ccf14b8a8c607504a6e8e9263ff6dd4
+Built tree-sitter-indent in 5.250s, finished at 2021-08-17T11:38:17+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  21K May 19 01:52 packages-stable/tree-sitter-indent-0.3.el
-4.0K -rw-r--r-- 1 root root  523 May 19 01:52 packages-stable/tree-sitter-indent-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tree-sitter-indent-badge.svg
-4.0K -rw-r--r-- 1 root root  532 May 19 01:52 packages-stable/tree-sitter-indent-readme.txt
+ 24K -rw-r--r-- 1 root root  21K Aug 17 11:38 packages-stable/tree-sitter-indent-0.3.el
+4.0K -rw-r--r-- 1 root root  523 Aug 17 11:38 packages-stable/tree-sitter-indent-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/tree-sitter-indent-badge.svg
+4.0K -rw-r--r-- 1 root root  532 Aug 17 11:38 packages-stable/tree-sitter-indent-readme.txt

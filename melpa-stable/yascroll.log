@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/yascroll.git
 
 Updating /mnt/store/melpa/working/yascroll/
-Built yascroll in 3.653s, finished at Wed May 19 01:56:21 2021
+Checking out cd66d81c5d4ba39da3c385d12d22f7103ecd67c5
+Built yascroll in 4.134s, finished at 2021-08-17T11:42:31+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 01:56 packages-stable/yascroll-0.2.0.el
-4.0K -rw-r--r-- 1 root root  374 May 19 01:56 packages-stable/yascroll-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yascroll-badge.svg
-4.0K -rw-r--r-- 1 root root   72 May 19 01:56 packages-stable/yascroll-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:42 packages-stable/yascroll-0.2.0.el
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:42 packages-stable/yascroll-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/yascroll-badge.svg
+4.0K -rw-r--r-- 1 root root   72 Aug 17 11:42 packages-stable/yascroll-readme.txt

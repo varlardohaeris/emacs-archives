@@ -1,0 +1,44 @@
+Package: pygn-mode
+Fetcher: github
+Source:  https://github.com/dwcoates/pygn-mode.git
+
+Updating /mnt/store/melpa/working/pygn-mode/
+Checking out dd6d677d5bccd6bfa7d8862e757442beeef551e5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pygn-mode/
+  to /tmp/pygn-modekH7Yzv/pygn-mode-0.5.1
+    pygn-mode.el -> pygn-mode.el
+    pygn_server.py -> pygn_server.py
+    lib => lib
+Created pygn-mode-0.5.1.tar containing:
+  pygn-mode-0.5.1/
+  pygn-mode-0.5.1/lib/
+  pygn-mode-0.5.1/lib/python/
+  pygn-mode-0.5.1/lib/python/site-packages/
+  pygn-mode-0.5.1/lib/python/site-packages/chess.egg-info/
+  pygn-mode-0.5.1/lib/python/site-packages/chess.egg-info/LICENSE.txt
+  pygn-mode-0.5.1/lib/python/site-packages/chess.egg-info/PKG-INFO
+  pygn-mode-0.5.1/lib/python/site-packages/chess.egg-info/SOURCES.txt
+  pygn-mode-0.5.1/lib/python/site-packages/chess.egg-info/dependency_links.txt
+  pygn-mode-0.5.1/lib/python/site-packages/chess.egg-info/not-zip-safe
+  pygn-mode-0.5.1/lib/python/site-packages/chess.egg-info/top_level.txt
+  pygn-mode-0.5.1/lib/python/site-packages/chess/
+  pygn-mode-0.5.1/lib/python/site-packages/chess/__init__.py
+  pygn-mode-0.5.1/lib/python/site-packages/chess/_interactive.py
+  pygn-mode-0.5.1/lib/python/site-packages/chess/engine.py
+  pygn-mode-0.5.1/lib/python/site-packages/chess/gaviota.py
+  pygn-mode-0.5.1/lib/python/site-packages/chess/pgn.py
+  pygn-mode-0.5.1/lib/python/site-packages/chess/polyglot.py
+  pygn-mode-0.5.1/lib/python/site-packages/chess/py.typed
+  pygn-mode-0.5.1/lib/python/site-packages/chess/svg.py
+  pygn-mode-0.5.1/lib/python/site-packages/chess/syzygy.py
+  pygn-mode-0.5.1/lib/python/site-packages/chess/variant.py
+  pygn-mode-0.5.1/pygn-mode-pkg.el
+  pygn-mode-0.5.1/pygn-mode.el
+  pygn-mode-0.5.1/pygn_server.py
+Built pygn-mode in 3.830s, finished at 2021-08-17T11:29:21+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  481 Aug 17 11:29 packages-stable/pygn-mode-0.5.1.entry
+692K -rw-r--r-- 1 root root 690K Aug 17 11:29 packages-stable/pygn-mode-0.5.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/pygn-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/pygn-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abstools/abs-mode.git
 
 Updating /mnt/store/melpa/working/abs-mode/
-Built abs-mode in 3.505s, finished at Wed May 19 04:18:15 2021
+Checking out a9a512992f681669dc59fe9ca86f12b9688b5454
+Built abs-mode in 3.946s, finished at 2021-08-17T10:42:57+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  34K May 19 04:18 packages-stable/abs-mode-1.5.el
-4.0K -rw-r--r-- 1 root root  446 May 19 04:18 packages-stable/abs-mode-1.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/abs-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  133 May 19 04:18 packages-stable/abs-mode-readme.txt
+ 36K -rw-r--r-- 1 root root  34K Aug 17 10:42 packages-stable/abs-mode-1.5.el
+4.0K -rw-r--r-- 1 root root  446 Aug 17 10:42 packages-stable/abs-mode-1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:42 packages-stable/abs-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Aug 17 10:42 packages-stable/abs-mode-readme.txt

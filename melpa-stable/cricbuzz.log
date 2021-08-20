@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lepisma/cricbuzz.el.git
 
 Updating /mnt/store/melpa/working/cricbuzz/
-Built cricbuzz in 5.228s, finished at Wed May 19 04:25:49 2021
+Checking out 0b95d45991bbcd2fa58d96ce921f6a57ba42c153
+Built cricbuzz in 4.632s, finished at 2021-08-17T10:51:38+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:25 packages-stable/cricbuzz-0.3.6.el
-4.0K -rw-r--r-- 1 root root  473 May 19 04:25 packages-stable/cricbuzz-0.3.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/cricbuzz-badge.svg
-4.0K -rw-r--r-- 1 root root  267 May 19 04:25 packages-stable/cricbuzz-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 10:51 packages-stable/cricbuzz-0.3.6.el
+4.0K -rw-r--r-- 1 root root  473 Aug 17 10:51 packages-stable/cricbuzz-0.3.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/cricbuzz-badge.svg
+4.0K -rw-r--r-- 1 root root  267 Aug 17 10:51 packages-stable/cricbuzz-readme.txt

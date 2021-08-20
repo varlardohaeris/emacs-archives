@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dracula/emacs.git
 
 Updating /mnt/store/melpa/working/dracula-theme/
+Checking out 256927e58e531574a8e68b2ae72afa0caa6d3a1c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dracula-theme/
-  to /tmp/dracula-themeNzjXzF/dracula-theme-1.7.0
+  to /tmp/dracula-themeul7k4V/dracula-theme-1.7.0
     dracula-theme.el -> dracula-theme.el
     test-profile.el -> test-profile.el
 Created dracula-theme-1.7.0.tar containing:
@@ -13,9 +14,9 @@ Created dracula-theme-1.7.0.tar containing:
   dracula-theme-1.7.0/dracula-theme-pkg.el
   dracula-theme-1.7.0/dracula-theme.el
   dracula-theme-1.7.0/test-profile.el
-Built dracula-theme in 2.722s, finished at Wed May 19 04:28:45 2021
+Built dracula-theme in 3.996s, finished at 2021-08-17T10:54:19+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  242 May 19 04:28 packages-stable/dracula-theme-1.7.0.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:28 packages-stable/dracula-theme-1.7.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dracula-theme-badge.svg
-4.0K -rw-r--r-- 1 root root   54 May 19 04:28 packages-stable/dracula-theme-readme.txt
+4.0K -rw-r--r-- 1 root root  242 Aug 17 10:54 packages-stable/dracula-theme-1.7.0.entry
+ 56K -rw-r--r-- 1 root root  50K Aug 17 10:54 packages-stable/dracula-theme-1.7.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/dracula-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   54 Aug 17 10:54 packages-stable/dracula-theme-readme.txt

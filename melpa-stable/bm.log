@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/joodland/bm.git
 
 Updating /mnt/store/melpa/working/bm/
+Checking out 637dacf4cb9112fdfb949706a704dd53cbe79c7e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bm/
-  to /tmp/bm91UELj/bm-201905
+  to /tmp/bmjxmcbo/bm-201905
     bm-sync.el -> bm-sync.el
     bm.el -> bm.el
 Created bm-201905.tar containing:
@@ -13,9 +14,9 @@ Created bm-201905.tar containing:
   bm-201905/bm-pkg.el
   bm-201905/bm-sync.el
   bm-201905/bm.el
-Built bm in 3.295s, finished at Wed May 19 04:21:27 2021
+Built bm in 4.040s, finished at 2021-08-17T10:46:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  358 May 19 04:21 packages-stable/bm-201905.entry
- 72K -rw-r--r-- 1 root root  70K May 19 04:21 packages-stable/bm-201905.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bm-badge.svg
-8.0K -rw-r--r-- 1 root root 8.0K May 19 04:21 packages-stable/bm-readme.txt
+4.0K -rw-r--r-- 1 root root  358 Aug 17 10:46 packages-stable/bm-201905.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:46 packages-stable/bm-201905.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bm-badge.svg
+8.0K -rw-r--r-- 1 root root 8.0K Aug 17 10:46 packages-stable/bm-readme.txt

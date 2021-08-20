@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/codesuki/add-node-modules-path.git
 
 Updating /mnt/store/melpa/working/add-node-modules-path/
-Built add-node-modules-path in 2.985s, finished at Wed May 19 04:18:49 2021
+Checking out ad09406ddf147ee1cdcc84597abc6b1702109bca
+Built add-node-modules-path in 3.524s, finished at 2021-08-17T10:43:33+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.0K May 19 04:18 packages-stable/add-node-modules-path-1.2.0.el
-4.0K -rw-r--r-- 1 root root  423 May 19 04:18 packages-stable/add-node-modules-path-1.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/add-node-modules-path-badge.svg
-4.0K -rw-r--r-- 1 root root  564 May 19 04:18 packages-stable/add-node-modules-path-readme.txt
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 10:43 packages-stable/add-node-modules-path-1.2.0.el
+4.0K -rw-r--r-- 1 root root  423 Aug 17 10:43 packages-stable/add-node-modules-path-1.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/add-node-modules-path-badge.svg
+4.0K -rw-r--r-- 1 root root  564 Aug 17 10:43 packages-stable/add-node-modules-path-readme.txt

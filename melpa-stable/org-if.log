@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/elzair/org-if.git
 
 Updating /mnt/store/melpa/working/org-if/
+Checking out fab602cc1bbee7a4e99c0083e129219d3f9ed2e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-if/
-  to /tmp/org-if2papEU/org-if-0.2.0
+  to /tmp/org-iftw1Lof/org-if-0.2.0
     ob-org-if.el -> ob-org-if.el
     org-if-active.el -> org-if-active.el
     org-if-interpreter.el -> org-if-interpreter.el
@@ -26,9 +27,9 @@ Created org-if-0.2.0.tar containing:
   org-if-0.2.0/org-if-pkg.el
   org-if-0.2.0/org-if-reader.el
   org-if-0.2.0/org-if.el
-Built org-if in 2.924s, finished at Wed May 19 01:39:23 2021
+Built org-if in 3.939s, finished at 2021-08-17T11:23:12+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  319 May 19 01:39 packages-stable/org-if-0.2.0.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:39 packages-stable/org-if-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-if-badge.svg
-4.0K -rw-r--r-- 1 root root  107 May 19 01:39 packages-stable/org-if-readme.txt
+4.0K -rw-r--r-- 1 root root  319 Aug 17 11:23 packages-stable/org-if-0.2.0.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:23 packages-stable/org-if-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:23 packages-stable/org-if-badge.svg
+4.0K -rw-r--r-- 1 root root  107 Aug 17 11:23 packages-stable/org-if-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/parseclj.git
 
 Updating /mnt/store/melpa/working/parseclj/
+Checking out 1bb3800f8f2417b0b881f57448ccb4acd1fe5b8d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parseclj/
-  to /tmp/parsecljtXjCEm/parseclj-0.2.0
+  to /tmp/parsecljfvr5fQ/parseclj-0.2.0
     parseclj-ast.el -> parseclj-ast.el
     parseclj-lex.el -> parseclj-lex.el
     parseclj-parser.el -> parseclj-parser.el
@@ -17,9 +18,9 @@ Created parseclj-0.2.0.tar containing:
   parseclj-0.2.0/parseclj-parser.el
   parseclj-0.2.0/parseclj-pkg.el
   parseclj-0.2.0/parseclj.el
-Built parseclj in 3.174s, finished at Wed May 19 01:42:05 2021
+Built parseclj in 3.716s, finished at 2021-08-17T11:26:14+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  345 May 19 01:42 packages-stable/parseclj-0.2.0.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:42 packages-stable/parseclj-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/parseclj-badge.svg
-4.0K -rw-r--r-- 1 root root   38 May 19 01:42 packages-stable/parseclj-readme.txt
+4.0K -rw-r--r-- 1 root root  345 Aug 17 11:26 packages-stable/parseclj-0.2.0.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:26 packages-stable/parseclj-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/parseclj-badge.svg
+4.0K -rw-r--r-- 1 root root   38 Aug 17 11:26 packages-stable/parseclj-readme.txt

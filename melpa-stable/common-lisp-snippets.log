@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mrkkrp/common-lisp-snippets.git
 
 Updating /mnt/store/melpa/working/common-lisp-snippets/
+Checking out fc5c2683952328927a6d1c1f2694b85ddf7e9053
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/common-lisp-snippets/
-  to /tmp/common-lisp-snippetsiVphlp/common-lisp-snippets-0.1.2
+  to /tmp/common-lisp-snippetsNkZGda/common-lisp-snippets-0.1.2
     common-lisp-snippets.el -> common-lisp-snippets.el
     snippets => snippets
 Created common-lisp-snippets-0.1.2.tar containing:
@@ -48,9 +49,9 @@ Created common-lisp-snippets-0.1.2.tar containing:
   common-lisp-snippets-0.1.2/snippets/lisp-mode/mapcar
   common-lisp-snippets-0.1.2/snippets/lisp-mode/mitlic
   common-lisp-snippets-0.1.2/snippets/lisp-mode/typecase
-Built common-lisp-snippets in 3.362s, finished at Wed May 19 04:24:13 2021
+Built common-lisp-snippets in 3.697s, finished at 2021-08-17T10:49:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  392 May 19 04:24 packages-stable/common-lisp-snippets-0.1.2.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:24 packages-stable/common-lisp-snippets-0.1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/common-lisp-snippets-badge.svg
-4.0K -rw-r--r-- 1 root root  180 May 19 04:24 packages-stable/common-lisp-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root  392 Aug 17 10:49 packages-stable/common-lisp-snippets-0.1.2.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 10:49 packages-stable/common-lisp-snippets-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/common-lisp-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root  180 Aug 17 10:49 packages-stable/common-lisp-snippets-readme.txt

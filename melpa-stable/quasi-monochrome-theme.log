@@ -3,18 +3,19 @@ Fetcher: github
 Source:  https://github.com/lbolla/emacs-quasi-monochrome.git
 
 Updating /mnt/store/melpa/working/quasi-monochrome-theme/
+Checking out 68060dbbc0bbfe4924387392874186c5a29bb434
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/quasi-monochrome-theme/
-  to /tmp/quasi-monochrome-themee8ioOc/quasi-monochrome-theme-1.2
+  to /tmp/quasi-monochrome-themepPPTs1/quasi-monochrome-theme-1.2
     quasi-monochrome-theme-pkg.el -> quasi-monochrome-theme-pkg.el
     quasi-monochrome-theme.el -> quasi-monochrome-theme.el
 Created quasi-monochrome-theme-1.2.tar containing:
   quasi-monochrome-theme-1.2/
   quasi-monochrome-theme-1.2/quasi-monochrome-theme-pkg.el
   quasi-monochrome-theme-1.2/quasi-monochrome-theme.el
-Built quasi-monochrome-theme in 2.839s, finished at Wed May 19 01:45:10 2021
+Built quasi-monochrome-theme in 3.484s, finished at 2021-08-17T11:29:41+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  378 May 19 01:45 packages-stable/quasi-monochrome-theme-1.2.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:45 packages-stable/quasi-monochrome-theme-1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/quasi-monochrome-theme-badge.svg
-4.0K -rw-r--r-- 1 root root   46 May 19 01:45 packages-stable/quasi-monochrome-theme-readme.txt
+4.0K -rw-r--r-- 1 root root  378 Aug 17 11:29 packages-stable/quasi-monochrome-theme-1.2.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:29 packages-stable/quasi-monochrome-theme-1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/quasi-monochrome-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   46 Aug 17 11:29 packages-stable/quasi-monochrome-theme-readme.txt

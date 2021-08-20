@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jhradilek/emacs-mallard-mode.git
 
 Updating /mnt/store/melpa/working/mallard-mode/
+Checking out dc5e1a57efb613988fae80e621e949a3f5fa50ad
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mallard-mode/
-  to /tmp/mallard-modeDVnNlg/mallard-mode-0.3.0
+  to /tmp/mallard-moden5CJ6v/mallard-mode-0.3.0
     mallard-mode.el -> mallard-mode.el
     schema => schema
 Created mallard-mode-0.3.0.tar containing:
@@ -15,9 +16,9 @@ Created mallard-mode-0.3.0.tar containing:
   mallard-mode-0.3.0/schema/
   mallard-mode-0.3.0/schema/mallard-1.0.rnc
   mallard-mode-0.3.0/schema/schemas.xml
-Built mallard-mode in 2.820s, finished at Wed May 19 01:33:55 2021
+Built mallard-mode in 3.734s, finished at 2021-08-17T11:17:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  365 May 19 01:33 packages-stable/mallard-mode-0.3.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:33 packages-stable/mallard-mode-0.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/mallard-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   40 May 19 01:33 packages-stable/mallard-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  365 Aug 17 11:17 packages-stable/mallard-mode-0.3.0.entry
+ 44K -rw-r--r-- 1 root root  40K Aug 17 11:17 packages-stable/mallard-mode-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/mallard-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   40 Aug 17 11:17 packages-stable/mallard-mode-readme.txt

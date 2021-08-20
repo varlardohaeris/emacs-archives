@@ -1,0 +1,6 @@
+Package: hotfuzz
+Fetcher: github
+Source:  https://github.com/axelf4/hotfuzz.git
+
+Updating /mnt/store/melpa/working/hotfuzz/
+No valid stable versions found for hotfuzz

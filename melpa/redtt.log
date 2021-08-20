@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/RedPRL/redtt.git
 
 Updating /mnt/store/melpa/working/redtt/
-Built redtt in 4.328s, finished at Wed May 19 04:00:21 2021
+Checking out origin/HEAD
+Checking out 50689559ff970e33013b8cf8a3bbc8be18ec4e09
+Built redtt in 4.881s, finished at 2021-08-17T10:25:26+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.2K May 19 04:00 packages/redtt-20181121.21.el
-4.0K -rw-r--r-- 1 root root  352 May 19 04:00 packages/redtt-20181121.21.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/redtt-badge.svg
-4.0K -rw-r--r-- 1 root root  261 May 19 04:00 packages/redtt-readme.txt
+8.0K -rw-r--r-- 1 root root 6.2K Aug 17 10:25 packages/redtt-20181121.21.el
+4.0K -rw-r--r-- 1 root root  352 Aug 17 10:25 packages/redtt-20181121.21.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:25 packages/redtt-badge.svg
+4.0K -rw-r--r-- 1 root root  261 Aug 17 10:25 packages/redtt-readme.txt

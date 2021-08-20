@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/arnested/emacs-git-attr.git
 
 Updating /mnt/store/melpa/working/git-attr/
+Checking out 0b2b6e765f31d3323e1cfa2e3c1cc49b8b08bfe5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-attr/
-  to /tmp/git-attrJGeKxH/git-attr-1.0.0
+  to /tmp/git-attrl17giL/git-attr-1.0.0
     git-attr-linguist.el -> git-attr-linguist.el
     git-attr.el -> git-attr.el
 Created git-attr-1.0.0.tar containing:
@@ -13,9 +14,9 @@ Created git-attr-1.0.0.tar containing:
   git-attr-1.0.0/git-attr-linguist.el
   git-attr-1.0.0/git-attr-pkg.el
   git-attr-1.0.0/git-attr.el
-Built git-attr in 3.587s, finished at Wed May 19 04:37:08 2021
+Built git-attr in 4.364s, finished at 2021-08-17T11:04:22+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  356 May 19 04:37 packages-stable/git-attr-1.0.0.entry
- 12K -rw-r--r-- 1 root root  10K May 19 04:37 packages-stable/git-attr-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-attr-badge.svg
-4.0K -rw-r--r-- 1 root root  496 May 19 04:37 packages-stable/git-attr-readme.txt
+4.0K -rw-r--r-- 1 root root  356 Aug 17 11:04 packages-stable/git-attr-1.0.0.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 11:04 packages-stable/git-attr-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/git-attr-badge.svg
+4.0K -rw-r--r-- 1 root root  496 Aug 17 11:04 packages-stable/git-attr-readme.txt

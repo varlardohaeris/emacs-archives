@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/knu/minibuffer-cua.el.git
 
 Updating /mnt/store/melpa/working/minibuffer-cua/
-Built minibuffer-cua in 3.240s, finished at Wed May 19 01:35:22 2021
+Checking out e8dcddc24d4f2e8d7987336fb58259e3cc78bbcb
+Built minibuffer-cua in 3.637s, finished at 2021-08-17T11:18:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.9K May 19 01:35 packages-stable/minibuffer-cua-1.0.0.el
-4.0K -rw-r--r-- 1 root root  363 May 19 01:35 packages-stable/minibuffer-cua-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/minibuffer-cua-badge.svg
-4.0K -rw-r--r-- 1 root root   84 May 19 01:35 packages-stable/minibuffer-cua-readme.txt
+4.0K -rw-r--r-- 1 root root 2.9K Aug 17 11:18 packages-stable/minibuffer-cua-1.0.0.el
+4.0K -rw-r--r-- 1 root root  363 Aug 17 11:18 packages-stable/minibuffer-cua-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/minibuffer-cua-badge.svg
+4.0K -rw-r--r-- 1 root root   84 Aug 17 11:18 packages-stable/minibuffer-cua-readme.txt

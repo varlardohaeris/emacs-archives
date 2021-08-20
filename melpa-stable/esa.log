@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nabinno/esa.el.git
 
 Updating /mnt/store/melpa/working/esa/
-Built esa in 3.722s, finished at Wed May 19 04:31:34 2021
+Checking out 0f69f9f45ac15018c48853509ac38e68286f9c0e
+Built esa in 5.132s, finished at 2021-08-17T10:58:01+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  22K May 19 04:31 packages-stable/esa-0.8.13.el
-4.0K -rw-r--r-- 1 root root  342 May 19 04:31 packages-stable/esa-0.8.13.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/esa-badge.svg
-4.0K -rw-r--r-- 1 root root   72 May 19 04:31 packages-stable/esa-readme.txt
+ 24K -rw-r--r-- 1 root root  22K Aug 17 10:58 packages-stable/esa-0.8.13.el
+4.0K -rw-r--r-- 1 root root  342 Aug 17 10:58 packages-stable/esa-0.8.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/esa-badge.svg
+4.0K -rw-r--r-- 1 root root   72 Aug 17 10:58 packages-stable/esa-readme.txt

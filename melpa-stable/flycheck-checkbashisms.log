@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cuonglm/flycheck-checkbashisms.git
 
 Updating /mnt/store/melpa/working/flycheck-checkbashisms/
-Built flycheck-checkbashisms in 2.938s, finished at Wed May 19 04:34:29 2021
+Checking out 39362240b8e38e6ddc1da2e2c2229e3fecdf6057
+Built flycheck-checkbashisms in 3.972s, finished at 2021-08-17T11:00:57+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.2K May 19 04:34 packages-stable/flycheck-checkbashisms-1.5.el
-4.0K -rw-r--r-- 1 root root  441 May 19 04:34 packages-stable/flycheck-checkbashisms-1.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-checkbashisms-badge.svg
-4.0K -rw-r--r-- 1 root root   52 May 19 04:34 packages-stable/flycheck-checkbashisms-readme.txt
+8.0K -rw-r--r-- 1 root root 4.2K Aug 17 11:00 packages-stable/flycheck-checkbashisms-1.5.el
+4.0K -rw-r--r-- 1 root root  441 Aug 17 11:00 packages-stable/flycheck-checkbashisms-1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/flycheck-checkbashisms-badge.svg
+4.0K -rw-r--r-- 1 root root   52 Aug 17 11:00 packages-stable/flycheck-checkbashisms-readme.txt

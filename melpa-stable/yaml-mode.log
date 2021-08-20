@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/yoshiki/yaml-mode.git
 
 Updating /mnt/store/melpa/working/yaml-mode/
-Built yaml-mode in 4.085s, finished at Wed May 19 01:56:16 2021
+Checking out fc5e1c58f94472944c4aa838f00f6adcac6fa992
+Built yaml-mode in 3.905s, finished at 2021-08-17T11:42:25+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 01:56 packages-stable/yaml-mode-0.0.15.el
-4.0K -rw-r--r-- 1 root root  387 May 19 01:56 packages-stable/yaml-mode-0.0.15.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yaml-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  942 May 19 01:56 packages-stable/yaml-mode-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 11:42 packages-stable/yaml-mode-0.0.15.el
+4.0K -rw-r--r-- 1 root root  387 Aug 17 11:42 packages-stable/yaml-mode-0.0.15.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/yaml-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  942 Aug 17 11:42 packages-stable/yaml-mode-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/atheriel/evil-ledger.git
 
 Updating /mnt/store/melpa/working/evil-ledger/
-Built evil-ledger in 4.086s, finished at Wed May 19 03:18:19 2021
+Checking out origin/HEAD
+Checking out 7a9f9f5d39c42fffdba8004f8982642351f2b233
+Built evil-ledger in 8.627s, finished at 2021-08-17T09:41:57+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.9K May 19 03:18 packages/evil-ledger-20180802.1612.el
-4.0K -rw-r--r-- 1 root root  490 May 19 03:18 packages/evil-ledger-20180802.1612.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:18 packages/evil-ledger-badge.svg
-4.0K -rw-r--r-- 1 root root   95 May 19 03:18 packages/evil-ledger-readme.txt
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 09:41 packages/evil-ledger-20180802.1612.el
+4.0K -rw-r--r-- 1 root root  490 Aug 17 09:41 packages/evil-ledger-20180802.1612.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:41 packages/evil-ledger-badge.svg
+4.0K -rw-r--r-- 1 root root   95 Aug 17 09:41 packages/evil-ledger-readme.txt

@@ -1,0 +1,6 @@
+Package: lf
+Fetcher: github
+Source:  https://github.com/alhassy/lf.git
+
+Updating /mnt/store/melpa/working/lf/
+No valid stable versions found for lf

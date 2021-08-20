@@ -3,9 +3,21 @@ Fetcher: github
 Source:  https://github.com/tumashu/posframe.git
 
 Updating /mnt/store/melpa/working/posframe/
-Built posframe in 4.525s, finished at Wed May 19 03:56:44 2021
+Checking out origin/HEAD
+Checking out f97c4aff2c2c376ca62276d5597aa108546633a9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/posframe/
+  to /tmp/posframeXOVIs1/posframe-20210617.42
+    posframe-benchmark.el -> posframe-benchmark.el
+    posframe.el -> posframe.el
+Created posframe-20210617.42.tar containing:
+  posframe-20210617.42/
+  posframe-20210617.42/posframe-benchmark.el
+  posframe-20210617.42/posframe-pkg.el
+  posframe-20210617.42/posframe.el
+Built posframe in 9.259s, finished at 2021-08-17T10:22:06+0000
  ✓ Success:
- 60K -rw-r--r-- 1 root root  58K May 19 03:56 packages/posframe-20210423.220.el
-4.0K -rw-r--r-- 1 root root  369 May 19 03:56 packages/posframe-20210423.220.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:56 packages/posframe-badge.svg
-4.0K -rw-r--r-- 1 root root 2.9K May 19 03:56 packages/posframe-readme.txt
+4.0K -rw-r--r-- 1 root root  365 Aug 17 10:22 packages/posframe-20210617.42.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:22 packages/posframe-20210617.42.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:22 packages/posframe-badge.svg
+4.0K -rw-r--r-- 1 root root  307 Aug 17 10:22 packages/posframe-readme.txt

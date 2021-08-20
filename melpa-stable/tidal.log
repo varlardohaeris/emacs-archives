@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tidalcycles/Tidal.git
 
 Updating /mnt/store/melpa/working/tidal/
-Built tidal in 3.979s, finished at Wed May 19 01:52:14 2021
+Checking out 95c065a410c20cbeefeaabc3084b2b09d09564c2
+Built tidal in 3.964s, finished at 2021-08-17T11:37:36+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 01:52 packages-stable/tidal-1.7.4.el
-4.0K -rw-r--r-- 1 root root  340 May 19 01:52 packages-stable/tidal-1.7.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tidal-badge.svg
-4.0K -rw-r--r-- 1 root root  301 May 19 01:52 packages-stable/tidal-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:37 packages-stable/tidal-1.7.8.el
+4.0K -rw-r--r-- 1 root root  340 Aug 17 11:37 packages-stable/tidal-1.7.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/tidal-badge.svg
+4.0K -rw-r--r-- 1 root root  301 Aug 17 11:37 packages-stable/tidal-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nlamirault/phpunit.el.git
 
 Updating /mnt/store/melpa/working/phpunit/
+Checking out 4212307bbcfd8accd2abfa7e4ab55a6751a0b11b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phpunit/
-  to /tmp/phpunitNBfAFd/phpunit-0.17.1
+  to /tmp/phpunitVK0RfX/phpunit-0.17.1
     phpunit-mode.el -> phpunit-mode.el
     phpunit.el -> phpunit.el
 Created phpunit-0.17.1.tar containing:
@@ -13,9 +14,9 @@ Created phpunit-0.17.1.tar containing:
   phpunit-0.17.1/phpunit-mode.el
   phpunit-0.17.1/phpunit-pkg.el
   phpunit-0.17.1/phpunit.el
-Built phpunit in 4.179s, finished at Wed May 19 01:42:56 2021
+Built phpunit in 3.826s, finished at 2021-08-17T11:27:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  546 May 19 01:42 packages-stable/phpunit-0.17.1.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:42 packages-stable/phpunit-0.17.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phpunit-badge.svg
-4.0K -rw-r--r-- 1 root root  424 May 19 01:42 packages-stable/phpunit-readme.txt
+4.0K -rw-r--r-- 1 root root  546 Aug 17 11:27 packages-stable/phpunit-0.17.1.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:27 packages-stable/phpunit-0.17.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/phpunit-badge.svg
+4.0K -rw-r--r-- 1 root root  424 Aug 17 11:27 packages-stable/phpunit-readme.txt

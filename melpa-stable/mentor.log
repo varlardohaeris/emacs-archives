@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/skangas/mentor.git
 
 Updating /mnt/store/melpa/working/mentor/
+Checking out 6dbe3b3746a4c7be8fd1f09cb219a4f1b25ee2d7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mentor/
-  to /tmp/mentorRvIqsx/mentor-0.3.4
+  to /tmp/mentorKTW3oh/mentor-0.3.4
     mentor-data.el -> mentor-data.el
     mentor-files.el -> mentor-files.el
     mentor-rpc.el -> mentor-rpc.el
@@ -19,9 +20,9 @@ Created mentor-0.3.4.tar containing:
   mentor-0.3.4/mentor-rpc.el
   mentor-0.3.4/mentor.el
   mentor-0.3.4/url-scgi.el
-Built mentor in 6.166s, finished at Wed May 19 01:34:50 2021
+Built mentor in 3.765s, finished at 2021-08-17T11:17:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  394 May 19 01:34 packages-stable/mentor-0.3.4.entry
-100K -rw-r--r-- 1 root root 100K May 19 01:34 packages-stable/mentor-0.3.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/mentor-badge.svg
-4.0K -rw-r--r-- 1 root root  658 May 19 01:34 packages-stable/mentor-readme.txt
+4.0K -rw-r--r-- 1 root root  394 Aug 17 11:17 packages-stable/mentor-0.3.4.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:17 packages-stable/mentor-0.3.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/mentor-badge.svg
+4.0K -rw-r--r-- 1 root root  658 Aug 17 11:17 packages-stable/mentor-readme.txt

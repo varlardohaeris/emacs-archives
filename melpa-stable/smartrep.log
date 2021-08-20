@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/myuhe/smartrep.el.git
 
 Updating /mnt/store/melpa/working/smartrep/
-Built smartrep in 3.812s, finished at Wed May 19 01:49:16 2021
+Checking out 0b73bf3d1a3c795671bfee0a36cecfaa54729446
+Built smartrep in 3.529s, finished at 2021-08-17T11:34:12+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.5K May 19 01:49 packages-stable/smartrep-1.0.0.el
-4.0K -rw-r--r-- 1 root root  330 May 19 01:49 packages-stable/smartrep-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/smartrep-badge.svg
-4.0K -rw-r--r-- 1 root root   96 May 19 01:49 packages-stable/smartrep-readme.txt
+8.0K -rw-r--r-- 1 root root 6.5K Aug 17 11:34 packages-stable/smartrep-1.0.0.el
+4.0K -rw-r--r-- 1 root root  330 Aug 17 11:34 packages-stable/smartrep-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/smartrep-badge.svg
+4.0K -rw-r--r-- 1 root root   96 Aug 17 11:34 packages-stable/smartrep-readme.txt

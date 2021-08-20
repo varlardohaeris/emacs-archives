@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/WillForan/zim-wiki-mode.git
 
 Updating /mnt/store/melpa/working/zim-wiki-mode/
-Built zim-wiki-mode in 4.776s, finished at Wed May 19 04:17:39 2021
+Checking out origin/HEAD
+Checking out f65a2da6ea762532355fc726319ba3e3dd217ec2
+Built zim-wiki-mode in 5.193s, finished at 2021-08-17T14:08:21+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:17 packages/zim-wiki-mode-20200908.218.el
-4.0K -rw-r--r-- 1 root root  529 May 19 04:17 packages/zim-wiki-mode-20200908.218.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:17 packages/zim-wiki-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  152 May 19 04:17 packages/zim-wiki-mode-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 14:08 packages/zim-wiki-mode-20200908.218.el
+4.0K -rw-r--r-- 1 root root  529 Aug 17 14:08 packages/zim-wiki-mode-20200908.218.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:08 packages/zim-wiki-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  152 Aug 17 14:08 packages/zim-wiki-mode-readme.txt

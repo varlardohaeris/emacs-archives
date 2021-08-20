@@ -3,4 +3,24 @@ Fetcher: github
 Source:  https://github.com/dylan-lang/dylan-emacs-support.git
 
 Updating /mnt/store/melpa/working/dime/
-No valid stable versions found for dime
+Checking out d85409dc3cba57a390ca85da95822f8078ecbfa2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dime/
+  to /tmp/dimeTg0Xzu/dime-0.1.0
+    dime-browse.el -> dime-browse.el
+    dime-note-tree.el -> dime-note-tree.el
+    dime-repl.el -> dime-repl.el
+    dime.el -> dime.el
+Created dime-0.1.0.tar containing:
+  dime-0.1.0/
+  dime-0.1.0/dime-browse.el
+  dime-0.1.0/dime-note-tree.el
+  dime-0.1.0/dime-pkg.el
+  dime-0.1.0/dime-repl.el
+  dime-0.1.0/dime.el
+Built dime in 4.074s, finished at 2021-08-17T10:53:06+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  203 Aug 17 10:53 packages-stable/dime-0.1.0.entry
+352K -rw-r--r-- 1 root root 350K Aug 17 10:53 packages-stable/dime-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dime-badge.svg
+4.0K -rw-r--r-- 1 root root  711 Aug 17 10:53 packages-stable/dime-readme.txt

@@ -1,7 +1,7 @@
 (scad-mode .
 	   [(20200830 301)
 	    nil "A major mode for editing OpenSCAD code" single
-	    ((:commit . "874d68d7a451727fd7bf536552381e83423070fb")
+	    ((:commit . "ac5fb18258d27a85b913638842da17b108f5d114")
 	     (:authors
 	      ("Len Trigg, Łukasz Stelmach"))
 	     (:maintainer "Len Trigg" . "lenbok@gmail.com")

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/lucaswerkmeister/ceylon-mode.git
 
 Updating /mnt/store/melpa/working/ceylon-mode/
-Built ceylon-mode in 4.364s, finished at Wed May 19 03:04:20 2021
+Checking out origin/HEAD
+Checking out 948515672bc596dc118e8e3ede3ede5ec6a3c95a
+Built ceylon-mode in 5.152s, finished at 2021-08-17T09:26:54+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 03:04 packages/ceylon-mode-20180606.1324.el
-4.0K -rw-r--r-- 1 root root  437 May 19 03:04 packages/ceylon-mode-20180606.1324.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:04 packages/ceylon-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   90 May 19 03:04 packages/ceylon-mode-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 09:26 packages/ceylon-mode-20180606.1324.el
+4.0K -rw-r--r-- 1 root root  437 Aug 17 09:26 packages/ceylon-mode-20180606.1324.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:26 packages/ceylon-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   90 Aug 17 09:26 packages/ceylon-mode-readme.txt

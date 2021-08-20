@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/yuutayamada/flycheck-tip.git
 
 Updating /mnt/store/melpa/working/flycheck-tip/
+Checking out 0bfddf52ae4ec48d970324f8336a5d62986bbc9e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-tip/
-  to /tmp/flycheck-tip8RCYwd/flycheck-tip-0.5.0
+  to /tmp/flycheck-tiplxMFur/flycheck-tip-0.5.0
     eclim-tip.el -> eclim-tip.el
     error-tip.el -> error-tip.el
     flycheck-tip.el -> flycheck-tip.el
@@ -17,9 +18,9 @@ Created flycheck-tip-0.5.0.tar containing:
   flycheck-tip-0.5.0/flycheck-tip-pkg.el
   flycheck-tip-0.5.0/flycheck-tip.el
   flycheck-tip-0.5.0/flymake-tip.el
-Built flycheck-tip in 2.792s, finished at Wed May 19 04:35:20 2021
+Built flycheck-tip in 3.463s, finished at 2021-08-17T11:02:20+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  421 May 19 04:35 packages-stable/flycheck-tip-0.5.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:35 packages-stable/flycheck-tip-0.5.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-tip-badge.svg
-4.0K -rw-r--r-- 1 root root  612 May 19 04:35 packages-stable/flycheck-tip-readme.txt
+4.0K -rw-r--r-- 1 root root  421 Aug 17 11:02 packages-stable/flycheck-tip-0.5.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:02 packages-stable/flycheck-tip-0.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-tip-badge.svg
+4.0K -rw-r--r-- 1 root root  612 Aug 17 11:02 packages-stable/flycheck-tip-readme.txt

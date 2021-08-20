@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/vietor/aproject.git
 
 Updating /mnt/store/melpa/working/aproject/
+Checking out 702caf5392288dfd821b1e744fef0bb4fd9f9281
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aproject/
-  to /tmp/aprojectsFqfxa/aproject-0.4
+  to /tmp/aprojecte9b7JX/aproject-0.4
     aproject-bookmark.el -> aproject-bookmark.el
     aproject-desktop.el -> aproject-desktop.el
     aproject-environ.el -> aproject-environ.el
@@ -21,9 +22,9 @@ Created aproject-0.4.tar containing:
   aproject-0.4/aproject-pkg.el
   aproject-0.4/aproject-recentf.el
   aproject-0.4/aproject.el
-Built aproject in 2.894s, finished at Wed May 19 04:19:42 2021
+Built aproject in 6.616s, finished at 2021-08-17T10:44:40+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  344 May 19 04:19 packages-stable/aproject-0.4.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:19 packages-stable/aproject-0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/aproject-badge.svg
-4.0K -rw-r--r-- 1 root root  161 May 19 04:19 packages-stable/aproject-readme.txt
+4.0K -rw-r--r-- 1 root root  344 Aug 17 10:44 packages-stable/aproject-0.4.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:44 packages-stable/aproject-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/aproject-badge.svg
+4.0K -rw-r--r-- 1 root root  161 Aug 17 10:44 packages-stable/aproject-readme.txt

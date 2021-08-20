@@ -3,23 +3,7 @@ Fetcher: gitlab
 Source:  https://gitlab.com/edvorg/req-package.git
 
 Updating /mnt/store/melpa/working/req-package/
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/req-package/
-  to /tmp/req-packageV7vgZp/req-package-1.2
-    req-package-args.el -> req-package-args.el
-    req-package-cycles.el -> req-package-cycles.el
-    req-package-hooks.el -> req-package-hooks.el
-    req-package.el -> req-package.el
-Created req-package-1.2.tar containing:
-  req-package-1.2/
-  req-package-1.2/req-package-args.el
-  req-package-1.2/req-package-cycles.el
-  req-package-1.2/req-package-hooks.el
-  req-package-1.2/req-package-pkg.el
-  req-package-1.2/req-package.el
-Built req-package in 2.986s, finished at Wed May 19 01:46:32 2021
- ✓ Success:
-4.0K -rw-r--r-- 1 root root  520 May 19 01:46 packages-stable/req-package-1.2.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:46 packages-stable/req-package-1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/req-package-badge.svg
-8.0K -rw-r--r-- 1 root root 7.1K May 19 01:46 packages-stable/req-package-readme.txt
+Command '(env LC_ALL=C git fetch -f --all --tags)' exited with non-zero status 1: Fetching origin
+fatal: could not read Username for 'https://gitlab.com': No such device or address
+error: Could not fetch origin
+

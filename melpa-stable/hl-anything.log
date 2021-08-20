@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hl-anything/hl-anything-emacs.git
 
 Updating /mnt/store/melpa/working/hl-anything/
+Checking out de631c87d3a6602cdbf84c1623558334fda354fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hl-anything/
-  to /tmp/hl-anything7BgkC0/hl-anything-0.0.9
+  to /tmp/hl-anythingjGYRka/hl-anything-0.0.9
     hl-anything.el -> hl-anything.el
     images/killall-highlights.xpm -> images/killall-highlights.xpm
     images/off.xpm -> images/off.xpm
@@ -28,9 +29,9 @@ Created hl-anything-0.0.9.tar containing:
   hl-anything-0.0.9/images/on.xpm
   hl-anything-0.0.9/images/toggle-global-highlight.png
   hl-anything-0.0.9/images/toggle-global-highlight.xpm
-Built hl-anything in 3.151s, finished at Wed May 19 04:41:55 2021
+Built hl-anything in 3.739s, finished at 2021-08-17T11:09:56+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  258 May 19 04:41 packages-stable/hl-anything-0.0.9.entry
- 80K -rw-r--r-- 1 root root  80K May 19 04:41 packages-stable/hl-anything-0.0.9.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/hl-anything-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/hl-anything-readme.txt
+4.0K -rw-r--r-- 1 root root  258 Aug 17 11:09 packages-stable/hl-anything-0.0.9.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 11:09 packages-stable/hl-anything-0.0.9.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/hl-anything-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/hl-anything-readme.txt

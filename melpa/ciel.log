@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/takumatt/ciel.el.git
 
 Updating /mnt/store/melpa/working/ciel/
-Built ciel in 5.389s, finished at Wed May 19 03:04:54 2021
+Checking out origin/HEAD
+Checking out 429773a3c551691a463ecfddd634b8bae2f48503
+Built ciel in 4.767s, finished at 2021-08-17T09:27:29+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 03:04 packages/ciel-20180914.815.el
-4.0K -rw-r--r-- 1 root root  367 May 19 03:04 packages/ciel-20180914.815.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:04 packages/ciel-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 03:04 packages/ciel-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 09:27 packages/ciel-20180914.815.el
+4.0K -rw-r--r-- 1 root root  367 Aug 17 09:27 packages/ciel-20180914.815.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:27 packages/ciel-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 09:27 packages/ciel-readme.txt

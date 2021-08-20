@@ -3,11 +3,12 @@ Fetcher: github
 Source:  https://github.com/zk-phi/symon.git
 
 Updating /mnt/store/melpa/working/symon/
+Checking out 7beeedd70dc37f5904c781fb697c8df056196ee9
 Note: symon :files spec is equivalent to the default.
-Built symon in 3.016s, finished at Wed May 19 01:50:59 2021
+Built symon in 3.890s, finished at 2021-08-17T11:36:36+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  29K May 19 01:50 packages-stable/symon-20160630.el
-4.0K -rw-r--r-- 1 root root  224 May 19 01:50 packages-stable/symon-20160630.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/symon-badge.svg
-4.0K -rw-r--r-- 1 root root  183 May 19 01:50 packages-stable/symon-lingr.log
-4.0K -rw-r--r-- 1 root root  149 May 19 01:50 packages-stable/symon-readme.txt
+ 32K -rw-r--r-- 1 root root  29K Aug 17 11:36 packages-stable/symon-20160630.el
+4.0K -rw-r--r-- 1 root root  224 Aug 17 11:36 packages-stable/symon-20160630.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/symon-badge.svg
+4.0K -rw-r--r-- 1 root root  183 Aug 17 11:36 packages-stable/symon-lingr.log
+4.0K -rw-r--r-- 1 root root  149 Aug 17 11:36 packages-stable/symon-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/orzechowskid/flymake-eslint.git
 
 Updating /mnt/store/melpa/working/flymake-eslint/
-Built flymake-eslint in 2.923s, finished at Wed May 19 04:35:28 2021
+Checking out 6e2d376f84ddf9af593072954c97e9c82ab85331
+Built flymake-eslint in 3.751s, finished at 2021-08-17T11:02:30+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.7K May 19 04:35 packages-stable/flymake-eslint-1.5.0.el
-4.0K -rw-r--r-- 1 root root  312 May 19 04:35 packages-stable/flymake-eslint-1.5.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-eslint-badge.svg
-4.0K -rw-r--r-- 1 root root  440 May 19 04:35 packages-stable/flymake-eslint-readme.txt
+8.0K -rw-r--r-- 1 root root 7.7K Aug 17 11:02 packages-stable/flymake-eslint-1.5.0.el
+4.0K -rw-r--r-- 1 root root  312 Aug 17 11:02 packages-stable/flymake-eslint-1.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flymake-eslint-badge.svg
+4.0K -rw-r--r-- 1 root root  440 Aug 17 11:02 packages-stable/flymake-eslint-readme.txt

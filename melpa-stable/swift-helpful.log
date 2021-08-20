@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/danielmartin/swift-helpful.git
 
 Updating /mnt/store/melpa/working/swift-helpful/
+Checking out ed36ea3d8cd80159f7f90b144c4503411b74ae3e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/swift-helpful/
-  to /tmp/swift-helpful6CFyVf/swift-helpful-0.3
+  to /tmp/swift-helpful7ZQtFu/swift-helpful-0.3
     swift-helpful-regex.el -> swift-helpful-regex.el
     swift-helpful.el -> swift-helpful.el
   ! swift-info/swift-reference.info -> swift-reference.info
@@ -141,9 +142,9 @@ Created swift-helpful-0.3.tar containing:
   swift-helpful-0.3/swift-helpful.el
   swift-helpful-0.3/swift-reference.info
   swift-helpful-0.3/swift.info
-Built swift-helpful in 3.818s, finished at Wed May 19 01:50:49 2021
+Built swift-helpful in 5.081s, finished at 2021-08-17T11:36:23+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  445 May 19 01:50 packages-stable/swift-helpful-0.3.entry
-3.3M -rw-r--r-- 1 root root 3.3M May 19 01:50 packages-stable/swift-helpful-0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/swift-helpful-badge.svg
-4.0K -rw-r--r-- 1 root root  434 May 19 01:50 packages-stable/swift-helpful-readme.txt
+4.0K -rw-r--r-- 1 root root  445 Aug 17 11:36 packages-stable/swift-helpful-0.3.entry
+3.3M -rw-r--r-- 1 root root 3.3M Aug 17 11:36 packages-stable/swift-helpful-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/swift-helpful-badge.svg
+4.0K -rw-r--r-- 1 root root  434 Aug 17 11:36 packages-stable/swift-helpful-readme.txt

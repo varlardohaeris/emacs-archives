@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/yjwen/org-reveal.git
 
 Updating /mnt/store/melpa/working/ox-reveal/
-Built ox-reveal in 7.411s, finished at Wed May 19 03:53:19 2021
+Checking out origin/HEAD
+Checking out 8eae719acc18592a916715e74984e9222bb6d5fa
+Built ox-reveal in 4.833s, finished at 2021-08-17T10:18:12+0000
  ✓ Success:
- 68K -rw-r--r-- 1 root root  67K May 19 03:53 packages/ox-reveal-20210515.1007.el
-4.0K -rw-r--r-- 1 root root  387 May 19 03:53 packages/ox-reveal-20210515.1007.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:53 packages/ox-reveal-badge.svg
+ 68K -rw-r--r-- 1 root root  67K Aug 17 10:18 packages/ox-reveal-20210815.907.el
+4.0K -rw-r--r-- 1 root root  386 Aug 17 10:18 packages/ox-reveal-20210815.907.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:18 packages/ox-reveal-badge.svg

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/minad/goggles.git
 
 Updating /mnt/store/melpa/working/goggles/
-Built goggles in 4.136s, finished at Wed May 19 03:27:11 2021
+Checking out origin/HEAD
+Checking out b014b2414fad8bb3a9a7b6a7e765822887c28fe8
+Built goggles in 4.929s, finished at 2021-08-17T09:50:56+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.0K May 19 03:27 packages/goggles-20210208.124.el
-4.0K -rw-r--r-- 1 root root  271 May 19 03:27 packages/goggles-20210208.124.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:27 packages/goggles-badge.svg
-4.0K -rw-r--r-- 1 root root   23 May 19 03:27 packages/goggles-readme.txt
+8.0K -rw-r--r-- 1 root root 6.0K Aug 17 09:50 packages/goggles-20210208.124.el
+4.0K -rw-r--r-- 1 root root  271 Aug 17 09:50 packages/goggles-20210208.124.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:50 packages/goggles-badge.svg
+4.0K -rw-r--r-- 1 root root   23 Aug 17 09:50 packages/goggles-readme.txt

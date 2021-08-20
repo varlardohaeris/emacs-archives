@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/sjbach/lusty-emacs.git
 
 Updating /mnt/store/melpa/working/lusty-explorer/
+Checking out 8ece9b1379a73e7dc0b6e682dd5a573f88a5cb32
 Note: lusty-explorer :files spec is equivalent to the default.
-Built lusty-explorer in 3.814s, finished at Wed May 19 01:33:18 2021
+Built lusty-explorer in 4.654s, finished at 2021-08-17T11:16:35+0000
  ✓ Success:
- 44K -rw-r--r-- 1 root root  41K May 19 01:33 packages-stable/lusty-explorer-3.0.1.el
-4.0K -rw-r--r-- 1 root root  204 May 19 01:33 packages-stable/lusty-explorer-3.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lusty-explorer-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 01:33 packages-stable/lusty-explorer-readme.txt
+ 48K -rw-r--r-- 1 root root  41K Aug 17 11:16 packages-stable/lusty-explorer-3.0.1.el
+4.0K -rw-r--r-- 1 root root  204 Aug 17 11:16 packages-stable/lusty-explorer-3.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lusty-explorer-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 11:16 packages-stable/lusty-explorer-readme.txt

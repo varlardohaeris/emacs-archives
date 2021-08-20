@@ -3,21 +3,22 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/evil-nerd-commenter.git
 
 Updating /mnt/store/melpa/working/evil-nerd-commenter/
+Checking out 8b0d9654ecf8f3f1d88db6be8238aaf76afa8a94
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-nerd-commenter/
-  to /tmp/evil-nerd-commenterRXpb8c/evil-nerd-commenter-3.5.4
+  to /tmp/evil-nerd-commenterK9jO93/evil-nerd-commenter-3.5.5
     evil-nerd-commenter-operator.el -> evil-nerd-commenter-operator.el
     evil-nerd-commenter-sdk.el -> evil-nerd-commenter-sdk.el
     evil-nerd-commenter.el -> evil-nerd-commenter.el
-Created evil-nerd-commenter-3.5.4.tar containing:
-  evil-nerd-commenter-3.5.4/
-  evil-nerd-commenter-3.5.4/evil-nerd-commenter-operator.el
-  evil-nerd-commenter-3.5.4/evil-nerd-commenter-pkg.el
-  evil-nerd-commenter-3.5.4/evil-nerd-commenter-sdk.el
-  evil-nerd-commenter-3.5.4/evil-nerd-commenter.el
-Built evil-nerd-commenter in 3.202s, finished at Wed May 19 04:32:25 2021
+Created evil-nerd-commenter-3.5.5.tar containing:
+  evil-nerd-commenter-3.5.5/
+  evil-nerd-commenter-3.5.5/evil-nerd-commenter-operator.el
+  evil-nerd-commenter-3.5.5/evil-nerd-commenter-pkg.el
+  evil-nerd-commenter-3.5.5/evil-nerd-commenter-sdk.el
+  evil-nerd-commenter-3.5.5/evil-nerd-commenter.el
+Built evil-nerd-commenter in 3.920s, finished at 2021-08-17T10:58:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  454 May 19 04:32 packages-stable/evil-nerd-commenter-3.5.4.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:32 packages-stable/evil-nerd-commenter-3.5.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-nerd-commenter-badge.svg
-4.0K -rw-r--r-- 1 root root 3.6K May 19 04:32 packages-stable/evil-nerd-commenter-readme.txt
+4.0K -rw-r--r-- 1 root root  454 Aug 17 10:58 packages-stable/evil-nerd-commenter-3.5.5.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 10:58 packages-stable/evil-nerd-commenter-3.5.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/evil-nerd-commenter-badge.svg
+4.0K -rw-r--r-- 1 root root 3.9K Aug 17 10:58 packages-stable/evil-nerd-commenter-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/michaelklishin/cucumber.el.git
 
 Updating /mnt/store/melpa/working/feature-mode/
+Checking out 4bd8f19da816115094beb4b0e085822eb298ac37
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/feature-mode/
-  to /tmp/feature-modekvRPJj/feature-mode-0.4
+  to /tmp/feature-modef88NTa/feature-mode-0.4
     feature-mode-pkg.el -> feature-mode-pkg.el
     feature-mode.el -> feature-mode.el
     i18n.yml -> i18n.yml
@@ -27,8 +28,8 @@ Created feature-mode-0.4.tar containing:
   feature-mode-0.4/snippets/feature-mode/whe
   feature-mode-0.4/support/
   feature-mode-0.4/support/find_step.rb
-Built feature-mode in 2.840s, finished at Wed May 19 04:33:45 2021
+Built feature-mode in 4.346s, finished at 2021-08-17T11:00:07+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  304 May 19 04:33 packages-stable/feature-mode-0.4.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:33 packages-stable/feature-mode-0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/feature-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  304 Aug 17 11:00 packages-stable/feature-mode-0.4.entry
+ 56K -rw-r--r-- 1 root root  50K Aug 17 11:00 packages-stable/feature-mode-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/feature-mode-badge.svg

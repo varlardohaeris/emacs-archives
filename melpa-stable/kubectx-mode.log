@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/terjesannum/emacs-kubectx-mode.git
 
 Updating /mnt/store/melpa/working/kubectx-mode/
-Built kubectx-mode in 2.982s, finished at Wed May 19 01:31:30 2021
+Checking out f08687ae5403eb18bbeffc6dafdfde469bdb9a36
+Built kubectx-mode in 3.714s, finished at 2021-08-17T11:14:28+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.4K May 19 01:31 packages-stable/kubectx-mode-1.2.0.el
-4.0K -rw-r--r-- 1 root root  405 May 19 01:31 packages-stable/kubectx-mode-1.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/kubectx-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   76 May 19 01:31 packages-stable/kubectx-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.4K Aug 17 11:14 packages-stable/kubectx-mode-1.2.0.el
+4.0K -rw-r--r-- 1 root root  405 Aug 17 11:14 packages-stable/kubectx-mode-1.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/kubectx-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   76 Aug 17 11:14 packages-stable/kubectx-mode-readme.txt

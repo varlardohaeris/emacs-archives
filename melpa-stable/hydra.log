@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/hydra.git
 
 Updating /mnt/store/melpa/working/hydra/
+Checking out f27fce1b2f0a9162e159557bdeb2c0c94defb4d2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hydra/
-  to /tmp/hydraH37dbW/hydra-0.15.0
+  to /tmp/hydraSl3jC8/hydra-0.15.0
     hydra-examples.el -> hydra-examples.el
     hydra-ox.el -> hydra-ox.el
     hydra.el -> hydra.el
@@ -15,9 +16,9 @@ Created hydra-0.15.0.tar containing:
   hydra-0.15.0/hydra-ox.el
   hydra-0.15.0/hydra-pkg.el
   hydra-0.15.0/hydra.el
-Built hydra in 2.828s, finished at Wed May 19 04:42:24 2021
+Built hydra in 3.836s, finished at 2021-08-17T11:10:29+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  342 May 19 04:42 packages-stable/hydra-0.15.0.entry
- 92K -rw-r--r-- 1 root root  90K May 19 04:42 packages-stable/hydra-0.15.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hydra-badge.svg
-4.0K -rw-r--r-- 1 root root 1.9K May 19 04:42 packages-stable/hydra-readme.txt
+4.0K -rw-r--r-- 1 root root  342 Aug 17 11:10 packages-stable/hydra-0.15.0.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 11:10 packages-stable/hydra-0.15.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/hydra-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 11:10 packages-stable/hydra-readme.txt

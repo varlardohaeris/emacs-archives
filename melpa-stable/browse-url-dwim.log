@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rolandwalker/browse-url-dwim.git
 
 Updating /mnt/store/melpa/working/browse-url-dwim/
-Built browse-url-dwim in 6.194s, finished at Wed May 19 04:21:56 2021
+Checking out 32a5816eadf37f0ea07d05d32501602b0aa4b603
+Built browse-url-dwim in 3.873s, finished at 2021-08-17T10:47:10+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  26K May 19 04:21 packages-stable/browse-url-dwim-0.6.8.el
-4.0K -rw-r--r-- 1 root root  409 May 19 04:21 packages-stable/browse-url-dwim-0.6.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/browse-url-dwim-badge.svg
-8.0K -rw-r--r-- 1 root root 4.5K May 19 04:21 packages-stable/browse-url-dwim-readme.txt
+ 28K -rw-r--r-- 1 root root  26K Aug 17 10:47 packages-stable/browse-url-dwim-0.6.8.el
+4.0K -rw-r--r-- 1 root root  409 Aug 17 10:47 packages-stable/browse-url-dwim-0.6.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/browse-url-dwim-badge.svg
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 10:47 packages-stable/browse-url-dwim-readme.txt

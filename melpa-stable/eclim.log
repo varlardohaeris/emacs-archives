@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-eclim/emacs-eclim.git
 
 Updating /mnt/store/melpa/working/eclim/
+Checking out 8203fbf8544e65324a948a67718f7a16ba2d52e6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eclim/
-  to /tmp/eclimXYQiNA/eclim-0.4
+  to /tmp/eclimTYPoSI/eclim-0.4
     eclim-ant.el -> eclim-ant.el
     eclim-common.el -> eclim-common.el
     eclim-completion.el -> eclim-completion.el
@@ -36,9 +37,9 @@ Created eclim-0.4.tar containing:
   eclim-0.4/eclim-scala.el
   eclim-0.4/eclim.el
   eclim-0.4/eclimd.el
-Built eclim in 3.039s, finished at Wed May 19 04:29:17 2021
+Built eclim in 4.033s, finished at 2021-08-17T10:54:55+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  247 May 19 04:29 packages-stable/eclim-0.4.entry
-172K -rw-r--r-- 1 root root 170K May 19 04:29 packages-stable/eclim-0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eclim-badge.svg
-4.0K -rw-r--r-- 1 root root  232 May 19 04:29 packages-stable/eclim-readme.txt
+4.0K -rw-r--r-- 1 root root  247 Aug 17 10:54 packages-stable/eclim-0.4.entry
+172K -rw-r--r-- 1 root root 170K Aug 17 10:54 packages-stable/eclim-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/eclim-badge.svg
+4.0K -rw-r--r-- 1 root root  232 Aug 17 10:54 packages-stable/eclim-readme.txt

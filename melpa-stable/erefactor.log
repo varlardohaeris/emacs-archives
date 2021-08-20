@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/mhayashi1120/Emacs-erefactor.git
 
 Updating /mnt/store/melpa/working/erefactor/
+Checking out fde3fd42c815c76e8015f69518a92f6bfcfde990
 Note: erefactor :files spec is equivalent to the default.
-Built erefactor in 2.790s, finished at Wed May 19 04:31:24 2021
+Built erefactor in 3.729s, finished at 2021-08-17T10:57:49+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  45K May 19 04:31 packages-stable/erefactor-0.7.0.el
-4.0K -rw-r--r-- 1 root root  416 May 19 04:31 packages-stable/erefactor-0.7.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/erefactor-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 04:31 packages-stable/erefactor-readme.txt
+ 48K -rw-r--r-- 1 root root  45K Aug 17 10:57 packages-stable/erefactor-0.7.0.el
+4.0K -rw-r--r-- 1 root root  416 Aug 17 10:57 packages-stable/erefactor-0.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/erefactor-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 10:57 packages-stable/erefactor-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-typescript/typescript.el.git
 
 Updating /mnt/store/melpa/working/typescript-mode/
-Built typescript-mode in 3.126s, finished at Wed May 19 01:53:10 2021
+Checking out 7a5c74d88e3c5513cc4431a837003736f905a75e
+Built typescript-mode in 3.776s, finished at 2021-08-17T11:38:42+0000
  ✓ Success:
-104K -rw-r--r-- 1 root root 102K May 19 01:53 packages-stable/typescript-mode-0.3.el
-4.0K -rw-r--r-- 1 root root  248 May 19 01:53 packages-stable/typescript-mode-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/typescript-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  616 May 19 01:53 packages-stable/typescript-mode-readme.txt
+104K -rw-r--r-- 1 root root 102K Aug 17 11:38 packages-stable/typescript-mode-0.3.el
+4.0K -rw-r--r-- 1 root root  248 Aug 17 11:38 packages-stable/typescript-mode-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/typescript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  616 Aug 17 11:38 packages-stable/typescript-mode-readme.txt

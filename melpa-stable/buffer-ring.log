@@ -1,0 +1,12 @@
+Package: buffer-ring
+Fetcher: github
+Source:  https://github.com/countvajhula/buffer-ring.git
+
+Updating /mnt/store/melpa/working/buffer-ring/
+Checking out d3aeab4a9acc0a8f75baa6fa876aee61ae9746d6
+Built buffer-ring in 3.509s, finished at 2021-08-17T10:47:19+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K Aug 17 10:47 packages-stable/buffer-ring-0.2.el
+4.0K -rw-r--r-- 1 root root  484 Aug 17 10:47 packages-stable/buffer-ring-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/buffer-ring-badge.svg
+4.0K -rw-r--r-- 1 root root   43 Aug 17 10:47 packages-stable/buffer-ring-readme.txt

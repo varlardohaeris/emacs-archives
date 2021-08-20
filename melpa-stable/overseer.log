@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tonini/overseer.el.git
 
 Updating /mnt/store/melpa/working/overseer/
-Built overseer in 3.490s, finished at Wed May 19 01:41:17 2021
+Checking out cf532a4e373e3da2077ccbaa48d4bfacd14661ba
+Built overseer in 4.560s, finished at 2021-08-17T11:25:16+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 8.0K May 19 01:41 packages-stable/overseer-0.3.0.el
-4.0K -rw-r--r-- 1 root root  402 May 19 01:41 packages-stable/overseer-0.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/overseer-badge.svg
-4.0K -rw-r--r-- 1 root root   35 May 19 01:41 packages-stable/overseer-readme.txt
+8.0K -rw-r--r-- 1 root root 8.0K Aug 17 11:25 packages-stable/overseer-0.3.0.el
+4.0K -rw-r--r-- 1 root root  402 Aug 17 11:25 packages-stable/overseer-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/overseer-badge.svg
+4.0K -rw-r--r-- 1 root root   35 Aug 17 11:25 packages-stable/overseer-readme.txt

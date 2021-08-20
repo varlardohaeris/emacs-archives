@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/danielma/magit-org-todos.el.git
 
 Updating /mnt/store/melpa/working/magit-org-todos/
-Built magit-org-todos in 2.945s, finished at Wed May 19 01:33:37 2021
+Checking out 0bfa36bbc50e62de0a3406031cb93e2f57dcdc55
+Built magit-org-todos in 3.946s, finished at 2021-08-17T11:16:56+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:33 packages-stable/magit-org-todos-0.1.2.el
-4.0K -rw-r--r-- 1 root root  377 May 19 01:33 packages-stable/magit-org-todos-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-org-todos-badge.svg
-4.0K -rw-r--r-- 1 root root   97 May 19 01:33 packages-stable/magit-org-todos-readme.txt
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:16 packages-stable/magit-org-todos-0.1.2.el
+4.0K -rw-r--r-- 1 root root  377 Aug 17 11:16 packages-stable/magit-org-todos-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/magit-org-todos-badge.svg
+4.0K -rw-r--r-- 1 root root   97 Aug 17 11:16 packages-stable/magit-org-todos-readme.txt

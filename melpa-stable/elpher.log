@@ -3,21 +3,23 @@ Fetcher: git
 Source:  https://thelambdalab.xyz/git/elpher.git
 
 Updating /mnt/store/melpa/working/elpher/
+Checking out 7b52709ddf798fe53db3855eef52ca8862e7700d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elpher/
-  to /tmp/elpheru1TY4W/elpher-2.10.2
+  to /tmp/elpherV9eAMO/elpher-3.2.2
+    elpher-pkg.el -> elpher-pkg.el
     elpher.el -> elpher.el
     elpher.texi -> elpher.texi
-Created /tmp/elpheru1TY4W/elpher-2.10.2/elpher.info
-Created elpher-2.10.2.tar containing:
-  elpher-2.10.2/
-  elpher-2.10.2/dir
-  elpher-2.10.2/elpher-pkg.el
-  elpher-2.10.2/elpher.el
-  elpher-2.10.2/elpher.info
-Built elpher in 7.395s, finished at Wed May 19 04:30:33 2021
+Created /tmp/elpherV9eAMO/elpher-3.2.2/elpher.info
+Created elpher-3.2.2.tar containing:
+  elpher-3.2.2/
+  elpher-3.2.2/dir
+  elpher-3.2.2/elpher-pkg.el
+  elpher-3.2.2/elpher.el
+  elpher-3.2.2/elpher.info
+Built elpher in 8.047s, finished at 2021-08-17T10:56:43+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  344 May 19 04:30 packages-stable/elpher-2.10.2.entry
-120K -rw-r--r-- 1 root root 120K May 19 04:30 packages-stable/elpher-2.10.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elpher-badge.svg
-4.0K -rw-r--r-- 1 root root  930 May 19 04:30 packages-stable/elpher-readme.txt
+4.0K -rw-r--r-- 1 root root  344 Aug 17 10:56 packages-stable/elpher-3.2.2.entry
+152K -rw-r--r-- 1 root root 150K Aug 17 10:56 packages-stable/elpher-3.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elpher-badge.svg
+4.0K -rw-r--r-- 1 root root  965 Aug 17 10:56 packages-stable/elpher-readme.txt

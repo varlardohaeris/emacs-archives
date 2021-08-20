@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rsdn/nemerle.git
 
 Updating /mnt/store/melpa/working/nemerle/
-Built nemerle in 6.664s, finished at Wed May 19 01:37:13 2021
+Checking out 556270ce8b97668a65e9ec20a05f78c3dffeac60
+Built nemerle in 7.333s, finished at 2021-08-17T11:20:35+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  30K May 19 01:37 packages-stable/nemerle-1.2.el
-4.0K -rw-r--r-- 1 root root  313 May 19 01:37 packages-stable/nemerle-1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nemerle-badge.svg
-4.0K -rw-r--r-- 1 root root 1018 May 19 01:37 packages-stable/nemerle-readme.txt
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:20 packages-stable/nemerle-1.2.el
+4.0K -rw-r--r-- 1 root root  313 Aug 17 11:20 packages-stable/nemerle-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/nemerle-badge.svg
+4.0K -rw-r--r-- 1 root root 1018 Aug 17 11:20 packages-stable/nemerle-readme.txt

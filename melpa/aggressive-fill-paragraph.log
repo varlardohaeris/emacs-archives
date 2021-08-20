@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/davidshepherd7/aggressive-fill-paragraph-mode.git
 
 Updating /mnt/store/melpa/working/aggressive-fill-paragraph/
-Built aggressive-fill-paragraph in 4.439s, finished at Wed May 19 02:58:25 2021
+Checking out origin/HEAD
+Checking out 4a620e62b5e645a48b0a818bf4eb19daea4977df
+Built aggressive-fill-paragraph in 5.078s, finished at 2021-08-17T09:20:47+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.0K May 19 02:58 packages/aggressive-fill-paragraph-20180910.816.el
-4.0K -rw-r--r-- 1 root root  502 May 19 02:58 packages/aggressive-fill-paragraph-20180910.816.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 02:58 packages/aggressive-fill-paragraph-badge.svg
-4.0K -rw-r--r-- 1 root root   78 May 19 02:58 packages/aggressive-fill-paragraph-readme.txt
+8.0K -rw-r--r-- 1 root root 6.0K Aug 17 09:20 packages/aggressive-fill-paragraph-20180910.816.el
+4.0K -rw-r--r-- 1 root root  502 Aug 17 09:20 packages/aggressive-fill-paragraph-20180910.816.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:20 packages/aggressive-fill-paragraph-badge.svg
+4.0K -rw-r--r-- 1 root root   78 Aug 17 09:20 packages/aggressive-fill-paragraph-readme.txt

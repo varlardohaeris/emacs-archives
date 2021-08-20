@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/hippie-expand-slime.git
 
 Updating /mnt/store/melpa/working/hippie-expand-slime/
-Built hippie-expand-slime in 2.947s, finished at Wed May 19 04:41:49 2021
+Checking out de31fbc9f9d55891a006463bcee7670b47084015
+Built hippie-expand-slime in 4.122s, finished at 2021-08-17T11:09:51+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 04:41 packages-stable/hippie-expand-slime-0.1.el
-4.0K -rw-r--r-- 1 root root  363 May 19 04:41 packages-stable/hippie-expand-slime-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/hippie-expand-slime-badge.svg
-4.0K -rw-r--r-- 1 root root  157 May 19 04:41 packages-stable/hippie-expand-slime-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 11:09 packages-stable/hippie-expand-slime-0.1.el
+4.0K -rw-r--r-- 1 root root  363 Aug 17 11:09 packages-stable/hippie-expand-slime-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/hippie-expand-slime-badge.svg
+4.0K -rw-r--r-- 1 root root  157 Aug 17 11:09 packages-stable/hippie-expand-slime-readme.txt

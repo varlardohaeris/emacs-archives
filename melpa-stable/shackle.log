@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://depp.brause.cc/shackle.git
 
 Updating /mnt/store/melpa/working/shackle/
-Built shackle in 3.378s, finished at Wed May 19 01:48:08 2021
+Checking out 171c3f437d853f34782b201d86ef765665b755e2
+Built shackle in 4.573s, finished at 2021-08-17T11:33:00+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  22K May 19 01:48 packages-stable/shackle-1.0.4.el
-4.0K -rw-r--r-- 1 root root  350 May 19 01:48 packages-stable/shackle-1.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shackle-badge.svg
-4.0K -rw-r--r-- 1 root root  140 May 19 01:48 packages-stable/shackle-readme.txt
+ 24K -rw-r--r-- 1 root root  22K Aug 17 11:32 packages-stable/shackle-1.0.4.el
+4.0K -rw-r--r-- 1 root root  350 Aug 17 11:32 packages-stable/shackle-1.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shackle-badge.svg
+4.0K -rw-r--r-- 1 root root  140 Aug 17 11:32 packages-stable/shackle-readme.txt

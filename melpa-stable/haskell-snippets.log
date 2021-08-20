@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/haskell/haskell-snippets.git
 
 Updating /mnt/store/melpa/working/haskell-snippets/
+Checking out bcf12cf33a67ddc2f023a55072859e637fe4fa25
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/haskell-snippets/
-  to /tmp/haskell-snippets7Pkpoe/haskell-snippets-0.1.0
+  to /tmp/haskell-snippetsR7tuIw/haskell-snippets-0.1.0
     haskell-snippets.el -> haskell-snippets.el
     snippets => snippets
 Created haskell-snippets-0.1.0.tar containing:
@@ -38,9 +39,9 @@ Created haskell-snippets-0.1.0.tar containing:
   haskell-snippets-0.1.0/snippets/haskell-mode/module.exports
   haskell-snippets-0.1.0/snippets/haskell-mode/newtype
   haskell-snippets-0.1.0/snippets/haskell-mode/opt-pragma
-Built haskell-snippets in 3.100s, finished at Wed May 19 04:39:31 2021
+Built haskell-snippets in 3.769s, finished at 2021-08-17T11:06:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  387 May 19 04:39 packages-stable/haskell-snippets-0.1.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 04:39 packages-stable/haskell-snippets-0.1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/haskell-snippets-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 04:39 packages-stable/haskell-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root  387 Aug 17 11:06 packages-stable/haskell-snippets-0.1.0.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:06 packages-stable/haskell-snippets-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/haskell-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 11:06 packages-stable/haskell-snippets-readme.txt

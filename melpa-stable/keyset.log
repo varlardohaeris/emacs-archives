@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/HKey/keyset.git
 
 Updating /mnt/store/melpa/working/keyset/
-Built keyset in 2.928s, finished at Wed May 19 01:31:15 2021
+Checking out 25658ef79d26971ce41d9df207dff58d38daa091
+Built keyset in 3.715s, finished at 2021-08-17T11:14:12+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.1K May 19 01:31 packages-stable/keyset-0.1.2.el
-4.0K -rw-r--r-- 1 root root  298 May 19 01:31 packages-stable/keyset-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/keyset-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:31 packages-stable/keyset-readme.txt
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 11:14 packages-stable/keyset-0.1.2.el
+4.0K -rw-r--r-- 1 root root  298 Aug 17 11:14 packages-stable/keyset-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/keyset-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:14 packages-stable/keyset-readme.txt

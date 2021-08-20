@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/martintrojer/jvm-mode.el.git
 
 Updating /mnt/store/melpa/working/jvm-mode/
-Built jvm-mode in 3.602s, finished at Wed May 19 04:45:22 2021
+Checking out 16d84c8c80bb214367bae6ed30b08756521c27d6
+Built jvm-mode in 3.960s, finished at 2021-08-17T11:13:45+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.1K May 19 04:45 packages-stable/jvm-mode-0.2.0.el
-4.0K -rw-r--r-- 1 root root  402 May 19 04:45 packages-stable/jvm-mode-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/jvm-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  293 May 19 04:45 packages-stable/jvm-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.1K Aug 17 11:13 packages-stable/jvm-mode-0.2.0.el
+4.0K -rw-r--r-- 1 root root  402 Aug 17 11:13 packages-stable/jvm-mode-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/jvm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  293 Aug 17 11:13 packages-stable/jvm-mode-readme.txt

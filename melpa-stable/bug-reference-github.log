@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/arnested/bug-reference-github.git
 
 Updating /mnt/store/melpa/working/bug-reference-github/
+Checking out 08434ad95d143df501a08e4f0014762d3b528e03
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bug-reference-github/
-  to /tmp/bug-reference-githubE1zXDi/bug-reference-github-1.0.0
+  to /tmp/bug-reference-githubA8d2kF/bug-reference-github-1.0.0
     bug-reference-github.el -> bug-reference-github.el
     dir -> dir
     bug-reference-github.info -> bug-reference-github.info
@@ -15,9 +16,9 @@ Created bug-reference-github-1.0.0.tar containing:
   bug-reference-github-1.0.0/bug-reference-github.el
   bug-reference-github-1.0.0/bug-reference-github.info
   bug-reference-github-1.0.0/dir
-Built bug-reference-github in 3.773s, finished at Wed May 19 04:22:17 2021
+Built bug-reference-github in 4.168s, finished at 2021-08-17T10:47:24+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  390 May 19 04:22 packages-stable/bug-reference-github-1.0.0.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:22 packages-stable/bug-reference-github-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/bug-reference-github-badge.svg
-4.0K -rw-r--r-- 1 root root  764 May 19 04:22 packages-stable/bug-reference-github-readme.txt
+4.0K -rw-r--r-- 1 root root  390 Aug 17 10:47 packages-stable/bug-reference-github-1.0.0.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:47 packages-stable/bug-reference-github-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/bug-reference-github-badge.svg
+4.0K -rw-r--r-- 1 root root  764 Aug 17 10:47 packages-stable/bug-reference-github-readme.txt

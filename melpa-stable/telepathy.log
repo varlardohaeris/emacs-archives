@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/telepathy.el.git
 
 Updating /mnt/store/melpa/working/telepathy/
-Built telepathy in 2.867s, finished at Wed May 19 01:51:23 2021
+Checking out 211d785b02a29ddc254422fdcc3db45262582f8c
+Built telepathy in 4.514s, finished at 2021-08-17T11:37:03+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.7K May 19 01:51 packages-stable/telepathy-1.0.el
-4.0K -rw-r--r-- 1 root root  310 May 19 01:51 packages-stable/telepathy-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/telepathy-badge.svg
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 11:37 packages-stable/telepathy-1.0.el
+4.0K -rw-r--r-- 1 root root  310 Aug 17 11:37 packages-stable/telepathy-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/telepathy-badge.svg

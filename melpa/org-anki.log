@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/eyeinsky/org-anki.git
 
 Updating /mnt/store/melpa/working/org-anki/
-Built org-anki in 4.864s, finished at Wed May 19 03:49:45 2021
+Checking out origin/HEAD
+Checking out 4e70c6869181f020c6989f91f5e916e085ba73df
+Built org-anki in 5.347s, finished at 2021-08-17T10:14:18+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.8K May 19 03:49 packages/org-anki-20201220.2144.el
-4.0K -rw-r--r-- 1 root root  462 May 19 03:49 packages/org-anki-20201220.2144.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:49 packages/org-anki-badge.svg
-4.0K -rw-r--r-- 1 root root  120 May 19 03:49 packages/org-anki-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 10:14 packages/org-anki-20210816.2047.el
+4.0K -rw-r--r-- 1 root root  429 Aug 17 10:14 packages/org-anki-20210816.2047.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:14 packages/org-anki-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Aug 17 10:14 packages/org-anki-readme.txt

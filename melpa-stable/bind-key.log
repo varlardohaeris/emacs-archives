@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jwiegley/use-package.git
 
 Updating /mnt/store/melpa/working/bind-key/
-Built bind-key in 3.148s, finished at Wed May 19 04:21:15 2021
+Checking out 0eccc701e7183837ed8d37174428106f3e6c03de
+Built bind-key in 3.739s, finished at 2021-08-17T10:46:36+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 04:21 packages-stable/bind-key-2.4.1.el
-4.0K -rw-r--r-- 1 root root  386 May 19 04:21 packages-stable/bind-key-2.4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bind-key-badge.svg
-4.0K -rw-r--r-- 1 root root 2.4K May 19 04:21 packages-stable/bind-key-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 10:46 packages-stable/bind-key-2.4.1.el
+4.0K -rw-r--r-- 1 root root  386 Aug 17 10:46 packages-stable/bind-key-2.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bind-key-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 10:46 packages-stable/bind-key-readme.txt

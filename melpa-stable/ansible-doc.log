@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/ansible-doc.git
 
 Updating /mnt/store/melpa/working/ansible-doc/
-Built ansible-doc in 3.088s, finished at Wed May 19 04:19:30 2021
+Checking out 551b6d3338f428cbc5a76ab9f182d73330c84e62
+Built ansible-doc in 3.765s, finished at 2021-08-17T10:44:19+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:19 packages-stable/ansible-doc-0.4.el
-4.0K -rw-r--r-- 1 root root  398 May 19 04:19 packages-stable/ansible-doc-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/ansible-doc-badge.svg
-4.0K -rw-r--r-- 1 root root  272 May 19 04:19 packages-stable/ansible-doc-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 10:44 packages-stable/ansible-doc-0.4.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 10:44 packages-stable/ansible-doc-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/ansible-doc-badge.svg
+4.0K -rw-r--r-- 1 root root  272 Aug 17 10:44 packages-stable/ansible-doc-readme.txt

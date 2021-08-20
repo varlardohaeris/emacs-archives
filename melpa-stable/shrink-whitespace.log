@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/jcpetkovich/shrink-whitespace.el.git
 
 Updating /mnt/store/melpa/working/shrink-whitespace/
-Built shrink-whitespace in 3.165s, finished at Wed May 19 01:48:27 2021
+Checking out 0407b89c142bd17e65edb666f35e2c6755bd0867
+Built shrink-whitespace in 3.255s, finished at 2021-08-17T11:33:22+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.4K May 19 01:48 packages-stable/shrink-whitespace-0.0.4.el
-4.0K -rw-r--r-- 1 root root  407 May 19 01:48 packages-stable/shrink-whitespace-0.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shrink-whitespace-badge.svg
-4.0K -rw-r--r-- 1 root root  300 May 19 01:48 packages-stable/shrink-whitespace-readme.txt
+8.0K -rw-r--r-- 1 root root 5.4K Aug 17 11:33 packages-stable/shrink-whitespace-0.0.4.el
+4.0K -rw-r--r-- 1 root root  407 Aug 17 11:33 packages-stable/shrink-whitespace-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shrink-whitespace-badge.svg
+4.0K -rw-r--r-- 1 root root  300 Aug 17 11:33 packages-stable/shrink-whitespace-readme.txt

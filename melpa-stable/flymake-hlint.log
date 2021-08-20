@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/flymake-hlint.git
 
 Updating /mnt/store/melpa/working/flymake-hlint/
-Built flymake-hlint in 2.874s, finished at Wed May 19 04:35:34 2021
+Checking out d540e250a80a09da3036c16bf86f9deb6d738c9c
+Built flymake-hlint in 3.715s, finished at 2021-08-17T11:02:37+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:35 packages-stable/flymake-hlint-0.2.el
-4.0K -rw-r--r-- 1 root root  358 May 19 04:35 packages-stable/flymake-hlint-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-hlint-badge.svg
-4.0K -rw-r--r-- 1 root root  151 May 19 04:35 packages-stable/flymake-hlint-readme.txt
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:02 packages-stable/flymake-hlint-0.2.el
+4.0K -rw-r--r-- 1 root root  358 Aug 17 11:02 packages-stable/flymake-hlint-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flymake-hlint-badge.svg
+4.0K -rw-r--r-- 1 root root  151 Aug 17 11:02 packages-stable/flymake-hlint-readme.txt

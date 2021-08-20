@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/gizmomogwai/org-kanban.git
 
 Updating /mnt/store/melpa/working/org-kanban/
+Checking out origin/HEAD
+Checking out 198ffa2066aadcdd9530dcc9b82cb5626c49e257
 Note: org-kanban :files spec is equivalent to the default.
-Built org-kanban in 4.787s, finished at Wed May 19 03:50:34 2021
+Built org-kanban in 5.019s, finished at 2021-08-17T10:15:15+0000
  ✓ Success:
- 44K -rw-r--r-- 1 root root  43K May 19 03:50 packages/org-kanban-20210315.28.el
-4.0K -rw-r--r-- 1 root root  530 May 19 03:50 packages/org-kanban-20210315.28.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:50 packages/org-kanban-badge.svg
-4.0K -rw-r--r-- 1 root root  193 May 19 03:50 packages/org-kanban-readme.txt
+ 44K -rw-r--r-- 1 root root  43K Aug 17 10:15 packages/org-kanban-20210315.28.el
+4.0K -rw-r--r-- 1 root root  530 Aug 17 10:15 packages/org-kanban-20210315.28.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:15 packages/org-kanban-badge.svg
+4.0K -rw-r--r-- 1 root root  193 Aug 17 10:15 packages/org-kanban-readme.txt

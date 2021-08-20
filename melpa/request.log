@@ -3,14 +3,16 @@ Fetcher: github
 Source:  https://github.com/tkf/emacs-request.git
 
 Updating /mnt/store/melpa/working/request/
-Built request in 4.486s, finished at Wed May 19 04:00:44 2021
+Checking out origin/HEAD
+Checking out 2b68b3ca543f1dfbebb43a44f20601c3947bd729
+Built request in 5.501s, finished at 2021-08-17T10:25:52+0000
  ✓ Success:
- 52K -rw-r--r-- 1 root root  52K May 19 04:00 packages/request-20210410.2218.el
-4.0K -rw-r--r-- 1 root root  338 May 19 04:00 packages/request-20210410.2218.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/request-badge.svg
-4.0K -rw-r--r-- 1 root root 2.5K May 19 04:00 packages/request-deferred-20210214.37.el
-4.0K -rw-r--r-- 1 root root  420 May 19 04:00 packages/request-deferred-20210214.37.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 00:46 packages/request-deferred-badge.svg
-4.0K -rw-r--r-- 1 root root   70 May 19 04:00 packages/request-deferred-readme.txt
-4.0K -rw-r--r-- 1 root root  145 May 19 04:00 packages/request-deferred.log
-4.0K -rw-r--r-- 1 root root  207 May 19 04:00 packages/request-readme.txt
+ 56K -rw-r--r-- 1 root root  53K Aug 17 10:25 packages/request-20210816.200.el
+4.0K -rw-r--r-- 1 root root  337 Aug 17 10:25 packages/request-20210816.200.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:25 packages/request-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 10:25 packages/request-deferred-20210214.37.el
+4.0K -rw-r--r-- 1 root root  420 Aug 17 06:55 packages/request-deferred-20210214.37.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 06:55 packages/request-deferred-badge.svg
+4.0K -rw-r--r-- 1 root root   70 Aug 17 06:55 packages/request-deferred-readme.txt
+4.0K -rw-r--r-- 1 root root  224 Aug 17 10:25 packages/request-deferred.log
+4.0K -rw-r--r-- 1 root root  207 Aug 17 10:25 packages/request-readme.txt

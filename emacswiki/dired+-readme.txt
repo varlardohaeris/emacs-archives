@@ -558,6 +558,7 @@
    `diredp-relsymlink-this-file',
    `diredp-remove-all-tags-this-file',
    `diredp-remove-file-from-recentf',
+   `diredp-remove-inserted-subdirs',
    `diredp-remove-this-from-recentf', `diredp-rename-this-file',
    `diredp-send-bug-report',
    `diredp-set-bookmark-file-bookmark-for-marked',
@@ -633,7 +634,8 @@
    `diredp-file-for-compilation-hit-at-point' (Emacs 24+),
    `diredp-files-within', `diredp-files-within-1',
    `diredp-fit-frame-unless-buffer-narrowed' (Emacs 24.4+),
-   `diredp-full-file-name-less-p', `diredp-full-file-name-more-p',
+   `diredp-fit-one-window-frame', `diredp-full-file-name-less-p',
+   `diredp-full-file-name-more-p',
    `diredp-get-confirmation-recursive', `diredp-get-files',
    `diredp-get-files-for-dir', `diredp-get-image-filename',
    `diredp-get-subdirs', `diredp-hide-details-if-dired' (Emacs

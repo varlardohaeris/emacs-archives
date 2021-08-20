@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/thblt/eziam-theme-emacs.git
 
 Updating /mnt/store/melpa/working/eziam-theme/
+Checking out origin/HEAD
+Checking out d7e517f8e626035df3b63ec6fc07b85d48a996c5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eziam-theme/
-  to /tmp/eziam-themeX2Ohig/eziam-theme-20200327.1810
+  to /tmp/eziam-theme5YE0uS/eziam-theme-20200327.1810
     eziam-common.el -> eziam-common.el
     eziam-dark-theme.el -> eziam-dark-theme.el
     eziam-dusk-theme.el -> eziam-dusk-theme.el
@@ -18,8 +20,8 @@ Created eziam-theme-20200327.1810.tar containing:
   eziam-theme-20200327.1810/eziam-dusk-theme.el
   eziam-theme-20200327.1810/eziam-light-theme.el
   eziam-theme-20200327.1810/eziam-theme-pkg.el
-Built eziam-theme in 3.990s, finished at Wed May 19 03:19:51 2021
+Built eziam-theme in 4.312s, finished at 2021-08-17T09:43:23+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  206 May 19 03:19 packages/eziam-theme-20200327.1810.entry
-112K -rw-r--r-- 1 root root 110K May 19 03:19 packages/eziam-theme-20200327.1810.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:19 packages/eziam-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  206 Aug 17 09:43 packages/eziam-theme-20200327.1810.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 09:43 packages/eziam-theme-20200327.1810.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/eziam-theme-badge.svg

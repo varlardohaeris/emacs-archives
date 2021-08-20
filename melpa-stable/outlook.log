@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/asavonic/outlook.el.git
 
 Updating /mnt/store/melpa/working/outlook/
+Checking out 5847c6f13b106cb54529080e9050be5b8b5be867
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/outlook/
-  to /tmp/outlookVz9FPh/outlook-0.1
+  to /tmp/outlookkIWXlx/outlook-0.1
     outlook-mu4e.el -> outlook-mu4e.el
     outlook.el -> outlook.el
 Created outlook-0.1.tar containing:
@@ -13,9 +14,9 @@ Created outlook-0.1.tar containing:
   outlook-0.1/outlook-mu4e.el
   outlook-0.1/outlook-pkg.el
   outlook-0.1/outlook.el
-Built outlook in 2.992s, finished at Wed May 19 01:41:13 2021
+Built outlook in 3.671s, finished at 2021-08-17T11:25:11+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  305 May 19 01:41 packages-stable/outlook-0.1.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:41 packages-stable/outlook-0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/outlook-badge.svg
-4.0K -rw-r--r-- 1 root root  218 May 19 01:41 packages-stable/outlook-readme.txt
+4.0K -rw-r--r-- 1 root root  305 Aug 17 11:25 packages-stable/outlook-0.1.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:25 packages-stable/outlook-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/outlook-badge.svg
+4.0K -rw-r--r-- 1 root root  218 Aug 17 11:25 packages-stable/outlook-readme.txt

@@ -1,0 +1,12 @@
+(lexic .
+       [(20210729 1808)
+	((emacs
+	  (26 3)))
+	"A major mode to find out more about words" single
+	((:commit . "25c8d839cf78332c15b5762024ccb5f7c90b7a11")
+	 (:authors
+	  ("pluskid" . "pluskid@gmail.com")
+	  ("gucong" . "gucong43216@gmail.com")
+	  ("TEC" . "tec@tecosaur.com"))
+	 (:maintainer "TEC" . "tec@tecosaur.com")
+	 (:url . "https://github.com/tecosaur/lexic"))])

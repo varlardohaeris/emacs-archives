@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rubocop/rubocop-emacs.git
 
 Updating /mnt/store/melpa/working/rubocop/
-Built rubocop in 4.378s, finished at Wed May 19 01:47:05 2021
+Checking out 608a3c1dccab9a3af467ce75d94dedfbfd37b21d
+Built rubocop in 4.580s, finished at 2021-08-17T11:31:48+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.9K May 19 01:47 packages-stable/rubocop-0.6.0.el
-4.0K -rw-r--r-- 1 root root  322 May 19 01:47 packages-stable/rubocop-0.6.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/rubocop-badge.svg
-4.0K -rw-r--r-- 1 root root  172 May 19 01:47 packages-stable/rubocop-readme.txt
+ 12K -rw-r--r-- 1 root root 8.9K Aug 17 11:31 packages-stable/rubocop-0.6.0.el
+4.0K -rw-r--r-- 1 root root  322 Aug 17 11:31 packages-stable/rubocop-0.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/rubocop-badge.svg
+4.0K -rw-r--r-- 1 root root  172 Aug 17 11:31 packages-stable/rubocop-readme.txt

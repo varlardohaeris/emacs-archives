@@ -1,0 +1,6 @@
+Package: key-quiz
+Fetcher: github
+Source:  https://github.com/federicotdn/key-quiz.git
+
+Updating /mnt/store/melpa/working/key-quiz/
+No valid stable versions found for key-quiz

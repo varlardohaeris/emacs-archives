@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/scottaj/mocha.el.git
 
 Updating /mnt/store/melpa/working/mocha/
-Built mocha in 3.420s, finished at Wed May 19 01:35:36 2021
+Checking out a5320eaeccd6328917a3578e9a8f36e382cbc27d
+Built mocha in 7.157s, finished at 2021-08-17T11:18:46+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.6K May 19 01:35 packages-stable/mocha-1.1.el
-4.0K -rw-r--r-- 1 root root  297 May 19 01:35 packages-stable/mocha-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mocha-badge.svg
-4.0K -rw-r--r-- 1 root root   80 May 19 01:35 packages-stable/mocha-readme.txt
-4.0K -rw-r--r-- 1 root root  336 May 18 22:21 packages-stable/mocha-snippets-2.0.0.entry
- 40K -rw-r--r-- 1 root root  40K May 18 22:21 packages-stable/mocha-snippets-2.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:21 packages-stable/mocha-snippets-badge.svg
-4.0K -rw-r--r-- 1 root root  464 May 18 22:21 packages-stable/mocha-snippets-readme.txt
-4.0K -rw-r--r-- 1 root root  149 May 19 01:35 packages-stable/mocha-snippets.log
+8.0K -rw-r--r-- 1 root root 7.6K Aug 17 11:18 packages-stable/mocha-1.1.el
+4.0K -rw-r--r-- 1 root root  297 Aug 17 11:18 packages-stable/mocha-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/mocha-badge.svg
+4.0K -rw-r--r-- 1 root root   80 Aug 17 11:18 packages-stable/mocha-readme.txt
+4.0K -rw-r--r-- 1 root root  336 Aug 17 11:18 packages-stable/mocha-snippets-2.0.0.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:18 packages-stable/mocha-snippets-2.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/mocha-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root  464 Aug 17 11:18 packages-stable/mocha-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root 2.9K Aug 17 11:18 packages-stable/mocha-snippets.log

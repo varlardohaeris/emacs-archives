@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/vermiculus/apiwrap.el.git
 
 Updating /mnt/store/melpa/working/apiwrap/
-Built apiwrap in 2.732s, finished at Wed May 19 04:19:39 2021
+Checking out 7af332e33d8eb666ab2081ef88fd00aa1f7ce43c
+Built apiwrap in 7.438s, finished at 2021-08-17T10:44:35+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 04:19 packages-stable/apiwrap-0.5.el
-4.0K -rw-r--r-- 1 root root  355 May 19 04:19 packages-stable/apiwrap-0.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/apiwrap-badge.svg
-4.0K -rw-r--r-- 1 root root  222 May 19 04:19 packages-stable/apiwrap-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 10:44 packages-stable/apiwrap-0.5.el
+4.0K -rw-r--r-- 1 root root  355 Aug 17 10:44 packages-stable/apiwrap-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/apiwrap-badge.svg
+4.0K -rw-r--r-- 1 root root  222 Aug 17 10:44 packages-stable/apiwrap-readme.txt

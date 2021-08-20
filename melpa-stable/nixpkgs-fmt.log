@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/emacs-nixpkgs-fmt.git
 
 Updating /mnt/store/melpa/working/nixpkgs-fmt/
-Built nixpkgs-fmt in 2.893s, finished at Wed May 19 01:37:27 2021
+Checking out 83e03d6f20bdf79c1c448c15734367b1a7cc6b02
+Built nixpkgs-fmt in 3.963s, finished at 2021-08-17T11:20:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.3K May 19 01:37 packages-stable/nixpkgs-fmt-0.1.el
-4.0K -rw-r--r-- 1 root root  416 May 19 01:37 packages-stable/nixpkgs-fmt-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nixpkgs-fmt-badge.svg
-4.0K -rw-r--r-- 1 root root  572 May 19 01:37 packages-stable/nixpkgs-fmt-readme.txt
+4.0K -rw-r--r-- 1 root root 2.3K Aug 17 11:20 packages-stable/nixpkgs-fmt-0.1.el
+4.0K -rw-r--r-- 1 root root  416 Aug 17 11:20 packages-stable/nixpkgs-fmt-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/nixpkgs-fmt-badge.svg
+4.0K -rw-r--r-- 1 root root  572 Aug 17 11:20 packages-stable/nixpkgs-fmt-readme.txt

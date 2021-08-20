@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Andersbakken/rtags.git
 
 Updating /mnt/store/melpa/working/ac-rtags/
-Built ac-rtags in 4.846s, finished at Wed May 19 04:18:34 2021
+Checking out 083bd75cb851567a1e18f237736fe2d02716b6c4
+Built ac-rtags in 4.768s, finished at 2021-08-17T10:43:17+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 04:18 packages-stable/ac-rtags-3.23.el
-4.0K -rw-r--r-- 1 root root  401 May 19 04:18 packages-stable/ac-rtags-3.23.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ac-rtags-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 04:18 packages-stable/ac-rtags-readme.txt
+8.0K -rw-r--r-- 1 root root 5.5K Aug 17 10:43 packages-stable/ac-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  401 Aug 17 10:43 packages-stable/ac-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/ac-rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:43 packages-stable/ac-rtags-readme.txt

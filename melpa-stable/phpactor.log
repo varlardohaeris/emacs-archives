@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-php/phpactor.el.git
 
 Updating /mnt/store/melpa/working/phpactor/
+Checking out 61e4eab638168b7034eef0f11e35a89223fa7687
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phpactor/
-  to /tmp/phpactorWnK7rX/phpactor-0.1.0
+  to /tmp/phpactorScruLj/phpactor-0.1.0
     phpactor.el -> phpactor.el
     composer.json -> composer.json
     composer.lock -> composer.lock
@@ -15,9 +16,9 @@ Created phpactor-0.1.0.tar containing:
   phpactor-0.1.0/composer.lock
   phpactor-0.1.0/phpactor-pkg.el
   phpactor-0.1.0/phpactor.el
-Built phpactor in 4.132s, finished at Wed May 19 01:42:52 2021
+Built phpactor in 3.820s, finished at 2021-08-17T11:27:07+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  391 May 19 01:42 packages-stable/phpactor-0.1.0.entry
-100K -rw-r--r-- 1 root root 100K May 19 01:42 packages-stable/phpactor-0.1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phpactor-badge.svg
-4.0K -rw-r--r-- 1 root root  543 May 19 01:42 packages-stable/phpactor-readme.txt
+4.0K -rw-r--r-- 1 root root  391 Aug 17 11:27 packages-stable/phpactor-0.1.0.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:27 packages-stable/phpactor-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/phpactor-badge.svg
+4.0K -rw-r--r-- 1 root root  543 Aug 17 11:27 packages-stable/phpactor-readme.txt

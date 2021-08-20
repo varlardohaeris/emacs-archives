@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/perweij/org-linkotron.git
 
 Updating /mnt/store/melpa/working/org-linkotron/
+Checking out 08625266b936d4a081a9294129bee47687c2f4f7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-linkotron/
-  to /tmp/org-linkotronUzgSJS/org-linkotron-0.9.3
+  to /tmp/org-linkotronzN2Blr/org-linkotron-0.9.3
     org-linkotron.el -> org-linkotron.el
     org-linkotron.info -> org-linkotron.info
 Created org-linkotron-0.9.3.tar containing:
@@ -14,9 +15,9 @@ Created org-linkotron-0.9.3.tar containing:
   org-linkotron-0.9.3/org-linkotron-pkg.el
   org-linkotron-0.9.3/org-linkotron.el
   org-linkotron-0.9.3/org-linkotron.info
-Built org-linkotron in 3.082s, finished at Wed May 19 01:39:31 2021
+Built org-linkotron in 3.884s, finished at 2021-08-17T11:23:22+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  378 May 19 01:39 packages-stable/org-linkotron-0.9.3.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:39 packages-stable/org-linkotron-0.9.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-linkotron-badge.svg
-4.0K -rw-r--r-- 1 root root  707 May 19 01:39 packages-stable/org-linkotron-readme.txt
+4.0K -rw-r--r-- 1 root root  378 Aug 17 11:23 packages-stable/org-linkotron-0.9.3.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:23 packages-stable/org-linkotron-0.9.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:23 packages-stable/org-linkotron-badge.svg
+4.0K -rw-r--r-- 1 root root  707 Aug 17 11:23 packages-stable/org-linkotron-readme.txt

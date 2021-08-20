@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/titaniumbones/ox-slack.git
 
 Updating /mnt/store/melpa/working/ox-slack/
-Built ox-slack in 7.936s, finished at Wed May 19 03:53:26 2021
+Checking out origin/HEAD
+Checking out 89cedb9da6ea08b78bc1fe77d6a39aa078172c1e
+Built ox-slack in 5.242s, finished at 2021-08-17T10:18:17+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 03:53 packages/ox-slack-20200108.1546.el
-4.0K -rw-r--r-- 1 root root  381 May 19 03:53 packages/ox-slack-20200108.1546.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:53 packages/ox-slack-badge.svg
-4.0K -rw-r--r-- 1 root root  101 May 19 03:53 packages/ox-slack-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 10:18 packages/ox-slack-20200108.1546.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 10:18 packages/ox-slack-20200108.1546.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:18 packages/ox-slack-badge.svg
+4.0K -rw-r--r-- 1 root root  101 Aug 17 10:18 packages/ox-slack-readme.txt

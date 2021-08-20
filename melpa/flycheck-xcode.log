@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/jojojames/flycheck-xcode.git
 
 Updating /mnt/store/melpa/working/flycheck-xcode/
-Built flycheck-xcode in 4.477s, finished at Wed May 19 03:22:46 2021
+Checking out origin/HEAD
+Checking out b76f872c8985801951a095b8b3c1572b94189f9e
+Built flycheck-xcode in 4.719s, finished at 2021-08-17T09:46:15+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.1K May 19 03:22 packages/flycheck-xcode-20180122.651.el
-4.0K -rw-r--r-- 1 root root  352 May 19 03:22 packages/flycheck-xcode-20180122.651.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:22 packages/flycheck-xcode-badge.svg
-4.0K -rw-r--r-- 1 root root   97 May 19 03:22 packages/flycheck-xcode-readme.txt
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 09:46 packages/flycheck-xcode-20180122.651.el
+4.0K -rw-r--r-- 1 root root  352 Aug 17 09:46 packages/flycheck-xcode-20180122.651.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:46 packages/flycheck-xcode-badge.svg
+4.0K -rw-r--r-- 1 root root   97 Aug 17 09:46 packages/flycheck-xcode-readme.txt

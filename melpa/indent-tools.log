@@ -3,19 +3,21 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-stuff/indent-tools.git
 
 Updating /mnt/store/melpa/working/indent-tools/
+Checking out origin/HEAD
+Checking out c731f05fa3950e2e8580ec61b88abbc705639830
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/indent-tools/
-  to /tmp/indent-toolsHchl6n/indent-tools-20190606.1642
+  to /tmp/indent-toolsbTtBSL/indent-tools-20210622.1207
     indent-tools-indentation-of.el -> indent-tools-indentation-of.el
     indent-tools.el -> indent-tools.el
-Created indent-tools-20190606.1642.tar containing:
-  indent-tools-20190606.1642/
-  indent-tools-20190606.1642/indent-tools-indentation-of.el
-  indent-tools-20190606.1642/indent-tools-pkg.el
-  indent-tools-20190606.1642/indent-tools.el
-Built indent-tools in 4.239s, finished at Wed May 19 03:34:41 2021
+Created indent-tools-20210622.1207.tar containing:
+  indent-tools-20210622.1207/
+  indent-tools-20210622.1207/indent-tools-indentation-of.el
+  indent-tools-20210622.1207/indent-tools-pkg.el
+  indent-tools-20210622.1207/indent-tools.el
+Built indent-tools in 4.607s, finished at 2021-08-17T09:58:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  495 May 19 03:34 packages/indent-tools-20190606.1642.entry
- 32K -rw-r--r-- 1 root root  30K May 19 03:34 packages/indent-tools-20190606.1642.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:34 packages/indent-tools-badge.svg
-4.0K -rw-r--r-- 1 root root  138 May 19 03:34 packages/indent-tools-readme.txt
+4.0K -rw-r--r-- 1 root root  495 Aug 17 09:58 packages/indent-tools-20210622.1207.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 09:58 packages/indent-tools-20210622.1207.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:58 packages/indent-tools-badge.svg
+4.0K -rw-r--r-- 1 root root  138 Aug 17 09:58 packages/indent-tools-readme.txt

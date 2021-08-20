@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-mode.git
 
 Updating /mnt/store/melpa/working/lsp-mode/
+Checking out 4db1151dbf1fe84769433d841e90803448b0b354
 Note: lsp-mode :files spec is equivalent to the default.
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-mode/
-  to /tmp/lsp-modezQWUbF/lsp-mode-7.0.1
+  to /tmp/lsp-modeFlwGEO/lsp-mode-7.0.1
     lsp-clients.el -> lsp-clients.el
     lsp-clojure.el -> lsp-clojure.el
     lsp-completion.el -> lsp-completion.el
@@ -82,9 +83,9 @@ Created lsp-mode-7.0.1.tar containing:
   lsp-mode-7.0.1/lsp-xml.el
   lsp-mode-7.0.1/lsp-yaml.el
   lsp-mode-7.0.1/lsp.el
-Built lsp-mode in 3.886s, finished at Wed May 19 01:33:07 2021
+Built lsp-mode in 4.767s, finished at 2021-08-17T11:16:23+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  542 May 19 01:33 packages-stable/lsp-mode-7.0.1.entry
-740K -rw-r--r-- 1 root root 740K May 19 01:33 packages-stable/lsp-mode-7.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   54 May 19 01:33 packages-stable/lsp-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  542 Aug 17 11:16 packages-stable/lsp-mode-7.0.1.entry
+740K -rw-r--r-- 1 root root 740K Aug 17 11:16 packages-stable/lsp-mode-7.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   54 Aug 17 11:16 packages-stable/lsp-mode-readme.txt

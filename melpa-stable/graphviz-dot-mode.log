@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ppareit/graphviz-dot-mode.git
 
 Updating /mnt/store/melpa/working/graphviz-dot-mode/
+Checking out 76ab84e7793307393a35d42fda4067e3037f704a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/graphviz-dot-mode/
-  to /tmp/graphviz-dot-modevxJIrc/graphviz-dot-mode-0.4.2
+  to /tmp/graphviz-dot-modey5g2Ak/graphviz-dot-mode-0.4.2
     company-graphviz-dot.el -> company-graphviz-dot.el
     graphviz-dot-mode.el -> graphviz-dot-mode.el
 Created graphviz-dot-mode-0.4.2.tar containing:
@@ -13,9 +14,9 @@ Created graphviz-dot-mode-0.4.2.tar containing:
   graphviz-dot-mode-0.4.2/company-graphviz-dot.el
   graphviz-dot-mode-0.4.2/graphviz-dot-mode-pkg.el
   graphviz-dot-mode-0.4.2/graphviz-dot-mode.el
-Built graphviz-dot-mode in 2.672s, finished at Wed May 19 04:38:33 2021
+Built graphviz-dot-mode in 3.860s, finished at 2021-08-17T11:06:05+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  408 May 19 04:38 packages-stable/graphviz-dot-mode-0.4.2.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:38 packages-stable/graphviz-dot-mode-0.4.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/graphviz-dot-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  620 May 19 04:38 packages-stable/graphviz-dot-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  408 Aug 17 11:06 packages-stable/graphviz-dot-mode-0.4.2.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:06 packages-stable/graphviz-dot-mode-0.4.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/graphviz-dot-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  620 Aug 17 11:06 packages-stable/graphviz-dot-mode-readme.txt

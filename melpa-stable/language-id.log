@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lassik/emacs-language-id.git
 
 Updating /mnt/store/melpa/working/language-id/
-Built language-id in 3.131s, finished at Wed May 19 01:31:42 2021
+Checking out f6c15479fb1c6314fbc971029bb595239638f32a
+Built language-id in 3.305s, finished at 2021-08-17T11:14:42+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.9K May 19 01:31 packages-stable/language-id-0.12.el
-4.0K -rw-r--r-- 1 root root  431 May 19 01:31 packages-stable/language-id-0.12.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/language-id-badge.svg
-4.0K -rw-r--r-- 1 root root  604 May 19 01:31 packages-stable/language-id-readme.txt
+8.0K -rw-r--r-- 1 root root 7.2K Aug 17 11:14 packages-stable/language-id-0.15.1.el
+4.0K -rw-r--r-- 1 root root  433 Aug 17 11:14 packages-stable/language-id-0.15.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/language-id-badge.svg
+4.0K -rw-r--r-- 1 root root  603 Aug 17 11:14 packages-stable/language-id-readme.txt

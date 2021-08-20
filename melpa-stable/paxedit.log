@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/promethial/paxedit.git
 
 Updating /mnt/store/melpa/working/paxedit/
+Checking out 644eb7036a475fbcba4de5d46d6940b1e8ef33cd
 Note: paxedit :files spec is equivalent to the default.
-Built paxedit in 6.381s, finished at Wed May 19 01:42:20 2021
+Built paxedit in 5.047s, finished at 2021-08-17T11:26:27+0000
  ✓ Success:
- 80K -rw-r--r-- 1 root root  78K May 19 01:42 packages-stable/paxedit-1.1.8.el
-4.0K -rw-r--r-- 1 root root  377 May 19 01:42 packages-stable/paxedit-1.1.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/paxedit-badge.svg
-4.0K -rw-r--r-- 1 root root  127 May 19 01:42 packages-stable/paxedit-readme.txt
+ 80K -rw-r--r-- 1 root root  78K Aug 17 11:26 packages-stable/paxedit-1.1.8.el
+4.0K -rw-r--r-- 1 root root  377 Aug 17 11:26 packages-stable/paxedit-1.1.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/paxedit-badge.svg
+4.0K -rw-r--r-- 1 root root  127 Aug 17 11:26 packages-stable/paxedit-readme.txt

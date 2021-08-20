@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/paredit-everywhere.git
 
 Updating /mnt/store/melpa/working/paredit-everywhere/
-Built paredit-everywhere in 2.949s, finished at Wed May 19 01:41:58 2021
+Checking out 72b7cd5dcdc02233a32e9f1a6c2d21dc30532170
+Built paredit-everywhere in 3.637s, finished at 2021-08-17T11:26:07+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:41 packages-stable/paredit-everywhere-0.4.el
-4.0K -rw-r--r-- 1 root root  377 May 19 01:41 packages-stable/paredit-everywhere-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/paredit-everywhere-badge.svg
-4.0K -rw-r--r-- 1 root root  350 May 19 01:41 packages-stable/paredit-everywhere-readme.txt
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:26 packages-stable/paredit-everywhere-0.4.el
+4.0K -rw-r--r-- 1 root root  377 Aug 17 11:26 packages-stable/paredit-everywhere-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/paredit-everywhere-badge.svg
+4.0K -rw-r--r-- 1 root root  350 Aug 17 11:26 packages-stable/paredit-everywhere-readme.txt

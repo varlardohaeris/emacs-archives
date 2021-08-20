@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/ottbot/vagrant.el.git
 
 Updating /mnt/store/melpa/working/vagrant/
-Built vagrant in 3.013s, finished at Wed May 19 01:53:46 2021
+Checking out d29036f91e1b5be01bbda38b04e1f5c27482b405
+Built vagrant in 3.884s, finished at 2021-08-17T11:39:26+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.5K May 19 01:53 packages-stable/vagrant-0.6.1.el
-4.0K -rw-r--r-- 1 root root  331 May 19 01:53 packages-stable/vagrant-0.6.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/vagrant-badge.svg
-4.0K -rw-r--r-- 1 root root  537 May 19 01:53 packages-stable/vagrant-readme.txt
-4.0K -rw-r--r-- 1 root root  190 May 19 01:53 packages-stable/vagrant-tramp.log
+4.0K -rw-r--r-- 1 root root 3.5K Aug 17 11:39 packages-stable/vagrant-0.6.1.el
+4.0K -rw-r--r-- 1 root root  331 Aug 17 11:39 packages-stable/vagrant-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/vagrant-badge.svg
+4.0K -rw-r--r-- 1 root root  537 Aug 17 11:39 packages-stable/vagrant-readme.txt
+4.0K -rw-r--r-- 1 root root  190 Aug 17 11:39 packages-stable/vagrant-tramp.log

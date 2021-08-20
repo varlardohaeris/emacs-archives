@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/theasp/flatui-dark-theme.git
 
 Updating /mnt/store/melpa/working/flatui-dark-theme/
-Built flatui-dark-theme in 3.304s, finished at Wed May 19 04:34:14 2021
+Checking out af5c84e2a2810748cc71a68ec7ba333097cc1f63
+Built flatui-dark-theme in 3.945s, finished at 2021-08-17T11:00:39+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  35K May 19 04:34 packages-stable/flatui-dark-theme-0.3.0.el
-4.0K -rw-r--r-- 1 root root  452 May 19 04:34 packages-stable/flatui-dark-theme-0.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flatui-dark-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  381 May 19 04:34 packages-stable/flatui-dark-theme-readme.txt
+ 36K -rw-r--r-- 1 root root  35K Aug 17 11:00 packages-stable/flatui-dark-theme-0.3.0.el
+4.0K -rw-r--r-- 1 root root  452 Aug 17 11:00 packages-stable/flatui-dark-theme-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/flatui-dark-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:00 packages-stable/flatui-dark-theme-readme.txt

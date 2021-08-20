@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/opam.git
 
 Updating /mnt/store/melpa/working/opam/
-Built opam in 3.105s, finished at Wed May 19 01:38:43 2021
+Checking out d5f15b7aa977cec9c6c51c31fe1395ab2b7d5cf4
+Built opam in 3.729s, finished at 2021-08-17T11:22:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.5K May 19 01:38 packages-stable/opam-0.1.el
-4.0K -rw-r--r-- 1 root root  341 May 19 01:38 packages-stable/opam-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/opam-badge.svg
-4.0K -rw-r--r-- 1 root root   60 May 19 01:38 packages-stable/opam-readme.txt
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 11:22 packages-stable/opam-0.1.el
+4.0K -rw-r--r-- 1 root root  341 Aug 17 11:22 packages-stable/opam-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/opam-badge.svg
+4.0K -rw-r--r-- 1 root root   60 Aug 17 11:22 packages-stable/opam-readme.txt

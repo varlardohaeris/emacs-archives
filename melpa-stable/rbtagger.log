@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/thiagoa/rbtagger.git
 
 Updating /mnt/store/melpa/working/rbtagger/
+Checking out 32d1df138a9b70530ec7a71dc85aa6e133a6cd95
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rbtagger/
-  to /tmp/rbtaggervQd1Nb/rbtagger-0.3.4
+  to /tmp/rbtaggerVJUI2m/rbtagger-0.3.4
     rbtagger.el -> rbtagger.el
     bin => bin
 Created rbtagger-0.3.4.tar containing:
@@ -14,9 +15,9 @@ Created rbtagger-0.3.4.tar containing:
   rbtagger-0.3.4/bin/ruby_index_tags
   rbtagger-0.3.4/rbtagger-pkg.el
   rbtagger-0.3.4/rbtagger.el
-Built rbtagger in 3.390s, finished at Wed May 19 01:45:31 2021
+Built rbtagger in 9.368s, finished at 2021-08-17T11:30:25+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  369 May 19 01:45 packages-stable/rbtagger-0.3.4.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:45 packages-stable/rbtagger-0.3.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rbtagger-badge.svg
-4.0K -rw-r--r-- 1 root root  170 May 19 01:45 packages-stable/rbtagger-readme.txt
+4.0K -rw-r--r-- 1 root root  369 Aug 17 11:30 packages-stable/rbtagger-0.3.4.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:30 packages-stable/rbtagger-0.3.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/rbtagger-badge.svg
+4.0K -rw-r--r-- 1 root root  170 Aug 17 11:30 packages-stable/rbtagger-readme.txt

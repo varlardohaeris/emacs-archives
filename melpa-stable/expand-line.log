@@ -1,6 +1,6 @@
 Package: expand-line
 Fetcher: github
-Source:  https://github.com/zhangkaiyulw/expand-line.git
+Source:  https://github.com/victorteokw/expand-line.git
 
 Updating /mnt/store/melpa/working/expand-line/
 No valid stable versions found for expand-line

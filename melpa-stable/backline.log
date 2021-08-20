@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tarsius/backline.git
 
 Updating /mnt/store/melpa/working/backline/
-Built backline in 2.741s, finished at Wed May 19 04:20:37 2021
+Checking out f06d68c780c11fafc766ef4748622163783a0d17
+Built backline in 3.576s, finished at 2021-08-17T10:45:55+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 4.0K May 19 04:20 packages-stable/backline-0.1.5.el
-4.0K -rw-r--r-- 1 root root  409 May 19 04:20 packages-stable/backline-0.1.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/backline-badge.svg
-4.0K -rw-r--r-- 1 root root  606 May 19 04:20 packages-stable/backline-readme.txt
+4.0K -rw-r--r-- 1 root root 4.0K Aug 17 10:45 packages-stable/backline-0.1.5.el
+4.0K -rw-r--r-- 1 root root  409 Aug 17 10:45 packages-stable/backline-0.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/backline-badge.svg
+4.0K -rw-r--r-- 1 root root  606 Aug 17 10:45 packages-stable/backline-readme.txt

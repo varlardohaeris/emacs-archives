@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ShuguangSun/diffpdf.el.git
 
 Updating /mnt/store/melpa/working/diffpdf/
-Built diffpdf in 5.908s, finished at Wed May 19 04:27:18 2021
+Checking out fdb37bb696aaec6cb2bcece3760866760e68edc4
+Built diffpdf in 3.693s, finished at 2021-08-17T10:52:59+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 04:27 packages-stable/diffpdf-1.0.el
-4.0K -rw-r--r-- 1 root root  361 May 19 04:27 packages-stable/diffpdf-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/diffpdf-badge.svg
-4.0K -rw-r--r-- 1 root root  100 May 19 04:27 packages-stable/diffpdf-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 10:52 packages-stable/diffpdf-1.0.el
+4.0K -rw-r--r-- 1 root root  361 Aug 17 10:52 packages-stable/diffpdf-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/diffpdf-badge.svg
+4.0K -rw-r--r-- 1 root root  100 Aug 17 10:52 packages-stable/diffpdf-readme.txt

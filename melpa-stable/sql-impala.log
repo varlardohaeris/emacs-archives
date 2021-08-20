@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jterk/sql-impala.git
 
 Updating /mnt/store/melpa/working/sql-impala/
-Built sql-impala in 3.239s, finished at Wed May 19 01:50:06 2021
+Checking out 466e7c0c789ec3e5e8a276c8f6754f91bb584c3e
+Built sql-impala in 3.470s, finished at 2021-08-17T11:35:13+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:50 packages-stable/sql-impala-1.1.el
-4.0K -rw-r--r-- 1 root root  366 May 19 01:50 packages-stable/sql-impala-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sql-impala-badge.svg
-4.0K -rw-r--r-- 1 root root  207 May 19 01:50 packages-stable/sql-impala-readme.txt
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:35 packages-stable/sql-impala-1.1.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 11:35 packages-stable/sql-impala-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/sql-impala-badge.svg
+4.0K -rw-r--r-- 1 root root  207 Aug 17 11:35 packages-stable/sql-impala-readme.txt

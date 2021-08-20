@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/js-emacs/xref-js2.git
 
 Updating /mnt/store/melpa/working/xref-js2/
-Built xref-js2 in 4.032s, finished at Wed May 19 01:56:04 2021
+Checking out d48253bf1999815329a294d09f0b1b744a6272ae
+Built xref-js2 in 3.486s, finished at 2021-08-17T11:42:14+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 01:56 packages-stable/xref-js2-1.6.el
-4.0K -rw-r--r-- 1 root root  444 May 19 01:56 packages-stable/xref-js2-1.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/xref-js2-badge.svg
-4.0K -rw-r--r-- 1 root root  568 May 19 01:56 packages-stable/xref-js2-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:42 packages-stable/xref-js2-1.6.el
+4.0K -rw-r--r-- 1 root root  444 Aug 17 11:42 packages-stable/xref-js2-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/xref-js2-badge.svg
+4.0K -rw-r--r-- 1 root root  568 Aug 17 11:42 packages-stable/xref-js2-readme.txt

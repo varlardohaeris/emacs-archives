@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/atykhonov/google-translate.git
 
 Updating /mnt/store/melpa/working/google-translate/
+Checking out ba027ff85352b989abac29b0efba1811b870ebec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/google-translate/
-  to /tmp/google-translateHHWUBb/google-translate-0.12.0
+  to /tmp/google-translatecsO4TG/google-translate-0.12.0
     .bump-version.el -> .bump-version.el
     google-translate-backend.el -> google-translate-backend.el
     google-translate-core-ui.el -> google-translate-core-ui.el
@@ -26,9 +27,9 @@ Created google-translate-0.12.0.tar containing:
   google-translate-0.12.0/google-translate-smooth-ui.el
   google-translate-0.12.0/google-translate-tk.el
   google-translate-0.12.0/google-translate.el
-Built google-translate in 3.329s, finished at Wed May 19 04:38:18 2021
+Built google-translate in 3.574s, finished at 2021-08-17T11:05:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  375 May 19 04:38 packages-stable/google-translate-0.12.0.entry
-100K -rw-r--r-- 1 root root 100K May 19 04:38 packages-stable/google-translate-0.12.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/google-translate-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:38 packages-stable/google-translate-readme.txt
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:05 packages-stable/google-translate-0.12.0.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:05 packages-stable/google-translate-0.12.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/google-translate-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:05 packages-stable/google-translate-readme.txt

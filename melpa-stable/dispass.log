@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ryuslash/dispass.el.git
 
 Updating /mnt/store/melpa/working/dispass/
-Built dispass in 2.981s, finished at Wed May 19 04:28:15 2021
+Checking out 8a9fcaaec14ef80683982e07f8c959030100b9c4
+Built dispass in 3.694s, finished at 2021-08-17T10:53:43+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 04:28 packages-stable/dispass-1.1.2.el
-4.0K -rw-r--r-- 1 root root  324 May 19 04:28 packages-stable/dispass-1.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dispass-badge.svg
-4.0K -rw-r--r-- 1 root root  184 May 19 04:28 packages-stable/dispass-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 10:53 packages-stable/dispass-1.1.2.el
+4.0K -rw-r--r-- 1 root root  324 Aug 17 10:53 packages-stable/dispass-1.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dispass-badge.svg
+4.0K -rw-r--r-- 1 root root  184 Aug 17 10:53 packages-stable/dispass-readme.txt

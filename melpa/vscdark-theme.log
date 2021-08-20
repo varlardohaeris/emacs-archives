@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/abelikoff/vscdark-theme.git
 
 Updating /mnt/store/melpa/working/vscdark-theme/
-Built vscdark-theme in 4.587s, finished at Wed May 19 04:13:44 2021
+Checking out origin/HEAD
+Checking out 8eba74059e8a9db974e4056ee024e52fe54da485
+Built vscdark-theme in 5.423s, finished at 2021-08-17T14:04:20+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:13 packages/vscdark-theme-20191212.107.el
-4.0K -rw-r--r-- 1 root root  303 May 19 04:13 packages/vscdark-theme-20191212.107.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/vscdark-theme-badge.svg
-4.0K -rw-r--r-- 1 root root   50 May 19 04:13 packages/vscdark-theme-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 14:04 packages/vscdark-theme-20191212.107.el
+4.0K -rw-r--r-- 1 root root  303 Aug 17 14:04 packages/vscdark-theme-20191212.107.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:04 packages/vscdark-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   50 Aug 17 14:04 packages/vscdark-theme-readme.txt

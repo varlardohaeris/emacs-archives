@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacscollective/elx.git
 
 Updating /mnt/store/melpa/working/elx/
-Built elx in 3.333s, finished at Wed May 19 04:30:39 2021
+Checking out 401268022ed18aee7a4ebc7fe0afe253cad8d298
+Built elx in 4.645s, finished at 2021-08-17T10:56:51+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  34K May 19 04:30 packages-stable/elx-1.3.2.el
-4.0K -rw-r--r-- 1 root root  397 May 19 04:30 packages-stable/elx-1.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elx-badge.svg
-4.0K -rw-r--r-- 1 root root  397 May 19 04:30 packages-stable/elx-readme.txt
+ 36K -rw-r--r-- 1 root root  34K Aug 17 10:56 packages-stable/elx-1.4.0.el
+4.0K -rw-r--r-- 1 root root  397 Aug 17 10:56 packages-stable/elx-1.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elx-badge.svg
+4.0K -rw-r--r-- 1 root root  397 Aug 17 10:56 packages-stable/elx-readme.txt

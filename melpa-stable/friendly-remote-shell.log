@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/p3r7/friendly-shell.git
 
 Updating /mnt/store/melpa/working/friendly-remote-shell/
-Built friendly-remote-shell in 3.317s, finished at Wed May 19 04:36:19 2021
+Checking out 1b1ba2033e59e5968380640280bd853701fbbb21
+Built friendly-remote-shell in 3.235s, finished at 2021-08-17T11:03:28+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.1K May 19 04:36 packages-stable/friendly-remote-shell-0.2.4.el
-4.0K -rw-r--r-- 1 root root  418 May 19 04:36 packages-stable/friendly-remote-shell-0.2.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/friendly-remote-shell-badge.svg
-4.0K -rw-r--r-- 1 root root  453 May 19 04:36 packages-stable/friendly-remote-shell-readme.txt
+8.0K -rw-r--r-- 1 root root 4.1K Aug 17 11:03 packages-stable/friendly-remote-shell-0.2.4.el
+4.0K -rw-r--r-- 1 root root  418 Aug 17 11:03 packages-stable/friendly-remote-shell-0.2.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/friendly-remote-shell-badge.svg
+4.0K -rw-r--r-- 1 root root  453 Aug 17 11:03 packages-stable/friendly-remote-shell-readme.txt

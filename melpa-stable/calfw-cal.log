@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kiwanami/emacs-calfw.git
 
 Updating /mnt/store/melpa/working/calfw-cal/
-Built calfw-cal in 2.930s, finished at Wed May 19 04:22:34 2021
+Checking out c538d3746449b4f0e16b16aad3073d4f7379d805
+Built calfw-cal in 3.826s, finished at 2021-08-17T10:47:45+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.1K May 19 04:22 packages-stable/calfw-cal-1.6.el
-4.0K -rw-r--r-- 1 root root  303 May 19 04:22 packages-stable/calfw-cal-1.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/calfw-cal-badge.svg
-4.0K -rw-r--r-- 1 root root  223 May 19 04:22 packages-stable/calfw-cal-readme.txt
+8.0K -rw-r--r-- 1 root root 7.1K Aug 17 10:47 packages-stable/calfw-cal-1.6.el
+4.0K -rw-r--r-- 1 root root  303 Aug 17 10:47 packages-stable/calfw-cal-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/calfw-cal-badge.svg
+4.0K -rw-r--r-- 1 root root  223 Aug 17 10:47 packages-stable/calfw-cal-readme.txt

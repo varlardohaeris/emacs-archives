@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/aaron-em/niceify-info.el.git
 
 Updating /mnt/store/melpa/working/niceify-info/
-Built niceify-info in 2.900s, finished at Wed May 19 01:37:18 2021
+Checking out 66b45916f1994e16ee023d29fa7cf8fec48078f1
+Built niceify-info in 3.883s, finished at 2021-08-17T11:20:42+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 01:37 packages-stable/niceify-info-1.0.1.el
-4.0K -rw-r--r-- 1 root root  152 May 19 01:37 packages-stable/niceify-info-1.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/niceify-info-badge.svg
-4.0K -rw-r--r-- 1 root root 2.2K May 19 01:37 packages-stable/niceify-info-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:20 packages-stable/niceify-info-1.0.1.el
+4.0K -rw-r--r-- 1 root root  152 Aug 17 11:20 packages-stable/niceify-info-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/niceify-info-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 11:20 packages-stable/niceify-info-readme.txt

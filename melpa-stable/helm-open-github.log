@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/helm-open-github.git
 
 Updating /mnt/store/melpa/working/helm-open-github/
-Built helm-open-github in 3.060s, finished at Wed May 19 04:40:48 2021
+Checking out 553f3ab0fe0a028015e9b6cb7c35fb139ec222fc
+Built helm-open-github in 4.825s, finished at 2021-08-17T11:08:40+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 04:40 packages-stable/helm-open-github-0.15.el
-4.0K -rw-r--r-- 1 root root  419 May 19 04:40 packages-stable/helm-open-github-0.15.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-open-github-badge.svg
-4.0K -rw-r--r-- 1 root root  126 May 19 04:40 packages-stable/helm-open-github-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 11:08 packages-stable/helm-open-github-0.15.el
+4.0K -rw-r--r-- 1 root root  419 Aug 17 11:08 packages-stable/helm-open-github-0.15.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-open-github-badge.svg
+4.0K -rw-r--r-- 1 root root  126 Aug 17 11:08 packages-stable/helm-open-github-readme.txt

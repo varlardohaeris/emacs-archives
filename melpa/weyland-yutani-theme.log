@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/jstaursky/weyland-yutani-theme.git
 
 Updating /mnt/store/melpa/working/weyland-yutani-theme/
-Built weyland-yutani-theme in 5.479s, finished at Wed May 19 04:14:37 2021
+Checking out origin/HEAD
+Checking out e89a63a62e071180c9cdd9067679fadc3f7bf796
+Built weyland-yutani-theme in 5.585s, finished at 2021-08-17T14:05:17+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  35K May 19 04:14 packages/weyland-yutani-theme-20210518.1738.el
-4.0K -rw-r--r-- 1 root root  340 May 19 04:14 packages/weyland-yutani-theme-20210518.1738.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:14 packages/weyland-yutani-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  139 May 19 04:14 packages/weyland-yutani-theme-readme.txt
+ 36K -rw-r--r-- 1 root root  35K Aug 17 14:05 packages/weyland-yutani-theme-20210802.2251.el
+4.0K -rw-r--r-- 1 root root  340 Aug 17 14:05 packages/weyland-yutani-theme-20210802.2251.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:05 packages/weyland-yutani-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  139 Aug 17 14:05 packages/weyland-yutani-theme-readme.txt

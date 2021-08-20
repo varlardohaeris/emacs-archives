@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/msherry/fxrd-mode.git
 
 Updating /mnt/store/melpa/working/fxrd-mode/
+Checking out 14eb2f0449598618b11d5ce144f76a24b7631685
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fxrd-mode/
-  to /tmp/fxrd-modeu6s6Hn/fxrd-mode-1.0
+  to /tmp/fxrd-modeZpwI2G/fxrd-mode-1.0
     fxrd-mode.el -> fxrd-mode.el
     fxrd-validators.el -> fxrd-validators.el
   ! fxrd-modes/cbnot-mode.el -> cbnot-mode.el
@@ -23,9 +24,9 @@ Created fxrd-mode-1.0.tar containing:
   fxrd-mode-1.0/rm37-mode.el
   fxrd-mode-1.0/sample-mode.el
   fxrd-mode-1.0/tso6-mode.el
-Built fxrd-mode in 3.332s, finished at Wed May 19 04:36:35 2021
+Built fxrd-mode in 3.738s, finished at 2021-08-17T11:03:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  374 May 19 04:36 packages-stable/fxrd-mode-1.0.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:36 packages-stable/fxrd-mode-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fxrd-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:36 packages-stable/fxrd-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:03 packages-stable/fxrd-mode-1.0.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:03 packages-stable/fxrd-mode-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fxrd-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:03 packages-stable/fxrd-mode-readme.txt

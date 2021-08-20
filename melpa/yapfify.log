@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/JorisE/yapfify.git
 
 Updating /mnt/store/melpa/working/yapfify/
-Built yapfify in 4.870s, finished at Wed May 19 04:17:01 2021
+Checking out origin/HEAD
+Checking out 3df4e8ce65f55fd69479b3417525ce83a2b00b45
+Built yapfify in 4.392s, finished at 2021-08-17T14:07:42+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.4K May 19 04:17 packages/yapfify-20200406.830.el
-4.0K -rw-r--r-- 1 root root  328 May 19 04:17 packages/yapfify-20200406.830.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:17 packages/yapfify-badge.svg
-4.0K -rw-r--r-- 1 root root  421 May 19 04:17 packages/yapfify-readme.txt
+8.0K -rw-r--r-- 1 root root 4.4K Aug 17 14:07 packages/yapfify-20200406.830.el
+4.0K -rw-r--r-- 1 root root  328 Aug 17 14:07 packages/yapfify-20200406.830.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:07 packages/yapfify-badge.svg
+4.0K -rw-r--r-- 1 root root  421 Aug 17 14:07 packages/yapfify-readme.txt

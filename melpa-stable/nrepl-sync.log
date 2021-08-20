@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/phillord/lein-sync.git
 
 Updating /mnt/store/melpa/working/nrepl-sync/
-Built nrepl-sync in 2.834s, finished at Wed May 19 01:37:46 2021
+Checking out 92eaa934b3d53dd94ad5b6928479d017ea26f345
+Built nrepl-sync in 3.467s, finished at 2021-08-17T11:21:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.6K May 19 01:37 packages-stable/nrepl-sync-0.3.1.el
-4.0K -rw-r--r-- 1 root root  381 May 19 01:37 packages-stable/nrepl-sync-0.3.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nrepl-sync-badge.svg
+4.0K -rw-r--r-- 1 root root 3.6K Aug 17 11:21 packages-stable/nrepl-sync-0.3.1.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:21 packages-stable/nrepl-sync-0.3.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/nrepl-sync-badge.svg

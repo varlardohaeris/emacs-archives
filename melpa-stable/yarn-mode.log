@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/anachronic/yarn-mode.git
 
 Updating /mnt/store/melpa/working/yarn-mode/
-Built yarn-mode in 3.629s, finished at Wed May 19 01:56:20 2021
+Checking out 51089b4acaf3811100a315f22cb86fce38fec06f
+Built yarn-mode in 4.291s, finished at 2021-08-17T11:42:31+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.4K May 19 01:56 packages-stable/yarn-mode-1.0.el
-4.0K -rw-r--r-- 1 root root  386 May 19 01:56 packages-stable/yarn-mode-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yarn-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  315 May 19 01:56 packages-stable/yarn-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 3.4K Aug 17 11:42 packages-stable/yarn-mode-1.0.el
+4.0K -rw-r--r-- 1 root root  386 Aug 17 11:42 packages-stable/yarn-mode-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/yarn-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  315 Aug 17 11:42 packages-stable/yarn-mode-readme.txt

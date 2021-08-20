@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kyleam/snakemake-mode.git
 
 Updating /mnt/store/melpa/working/snakemake-mode/
+Checking out 51f44db0ca432e15bdbf834815b7a0652ff2ac0e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/snakemake-mode/
-  to /tmp/snakemake-modeoPEbTm/snakemake-mode-1.8.0
+  to /tmp/snakemake-mode9N7CNM/snakemake-mode-1.8.0
     snakemake-mode.el -> snakemake-mode.el
     snakemake.el -> snakemake.el
 Created snakemake-mode-1.8.0.tar containing:
@@ -13,9 +14,9 @@ Created snakemake-mode-1.8.0.tar containing:
   snakemake-mode-1.8.0/snakemake-mode-pkg.el
   snakemake-mode-1.8.0/snakemake-mode.el
   snakemake-mode-1.8.0/snakemake.el
-Built snakemake-mode in 2.726s, finished at Wed May 19 01:49:28 2021
+Built snakemake-mode in 3.952s, finished at 2021-08-17T11:34:24+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  408 May 19 01:49 packages-stable/snakemake-mode-1.8.0.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:49 packages-stable/snakemake-mode-1.8.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/snakemake-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  746 May 19 01:49 packages-stable/snakemake-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  408 Aug 17 11:34 packages-stable/snakemake-mode-1.8.0.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 11:34 packages-stable/snakemake-mode-1.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/snakemake-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  746 Aug 17 11:34 packages-stable/snakemake-mode-readme.txt

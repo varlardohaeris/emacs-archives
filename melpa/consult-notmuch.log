@@ -3,11 +3,11 @@ Fetcher: git
 Source:  https://codeberg.org/jao/consult-notmuch.git
 
 Updating /mnt/store/melpa/working/consult-notmuch/
-Built consult-notmuch in 10.886s, finished at Wed May 19 03:07:56 2021
+Checking out origin/HEAD
+Checking out 5e5f42faaae3e0d372f103b9de276d1f7f1c18e0
+Built consult-notmuch in 8.363s, finished at 2021-08-17T09:30:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.3K May 18 23:53 packages/consult-notmuch-20210515.238.el
-4.0K -rw-r--r-- 1 root root  407 May 18 23:53 packages/consult-notmuch-20210515.238.entry
-8.0K -rw-r--r-- 1 root root 7.3K May 19 03:07 packages/consult-notmuch-20210519.57.el
-4.0K -rw-r--r-- 1 root root  406 May 19 03:07 packages/consult-notmuch-20210519.57.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:07 packages/consult-notmuch-badge.svg
-4.0K -rw-r--r-- 1 root root  489 May 19 03:07 packages/consult-notmuch-readme.txt
+8.0K -rw-r--r-- 1 root root 7.6K Aug 17 09:30 packages/consult-notmuch-20210815.1919.el
+4.0K -rw-r--r-- 1 root root  408 Aug 17 09:30 packages/consult-notmuch-20210815.1919.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:30 packages/consult-notmuch-badge.svg
+4.0K -rw-r--r-- 1 root root  489 Aug 17 09:30 packages/consult-notmuch-readme.txt

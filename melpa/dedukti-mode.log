@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/rafoo/dedukti-mode.git
 
 Updating /mnt/store/melpa/working/dedukti-mode/
-Built dedukti-mode in 4.861s, finished at Wed May 19 03:10:17 2021
+Checking out origin/HEAD
+Checking out d7c3505a1046187de3c3aeb144455078d514594e
+Built dedukti-mode in 6.276s, finished at 2021-08-17T09:33:06+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  21K May 19 03:10 packages/dedukti-mode-20171103.1212.el
-4.0K -rw-r--r-- 1 root root  322 May 19 03:10 packages/dedukti-mode-20171103.1212.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:10 packages/dedukti-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  327 May 19 03:10 packages/dedukti-mode-readme.txt
+ 24K -rw-r--r-- 1 root root  21K Aug 17 09:33 packages/dedukti-mode-20171103.1212.el
+4.0K -rw-r--r-- 1 root root  322 Aug 17 09:33 packages/dedukti-mode-20171103.1212.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:33 packages/dedukti-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  327 Aug 17 09:33 packages/dedukti-mode-readme.txt

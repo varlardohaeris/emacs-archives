@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/countvajhula/dynaring.git
 
 Updating /mnt/store/melpa/working/dynaring/
-Single file dynamic-ring.el does not match package name dynaring
+Checking out 831d2254356ee8cd7296034151e5aac99a7fbf0e
+Built dynaring in 3.733s, finished at 2021-08-17T10:54:38+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K Aug 17 10:54 packages-stable/dynaring-0.2.0.el
+4.0K -rw-r--r-- 1 root root  396 Aug 17 10:54 packages-stable/dynaring-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/dynaring-badge.svg
+4.0K -rw-r--r-- 1 root root   36 Aug 17 10:54 packages-stable/dynaring-readme.txt

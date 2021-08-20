@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/shell-history.git
 
 Updating /mnt/store/melpa/working/shell-history/
-Built shell-history in 4.686s, finished at Wed May 19 04:03:34 2021
+Checking out origin/HEAD
+Checking out ee371a81f2d2bf5a308344078329ca1e9b5ed38c
+Built shell-history in 4.535s, finished at 2021-08-17T10:28:55+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.7K May 19 04:03 packages/shell-history-20100505.839.el
-4.0K -rw-r--r-- 1 root root  384 May 19 04:03 packages/shell-history-20100505.839.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:03 packages/shell-history-badge.svg
-4.0K -rw-r--r-- 1 root root  138 May 19 04:03 packages/shell-history-readme.txt
+8.0K -rw-r--r-- 1 root root 6.7K Aug 17 10:28 packages/shell-history-20100505.839.el
+4.0K -rw-r--r-- 1 root root  384 Aug 17 10:28 packages/shell-history-20100505.839.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:28 packages/shell-history-badge.svg
+4.0K -rw-r--r-- 1 root root  138 Aug 17 10:28 packages/shell-history-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/hierarchy.git
 
 Updating /mnt/store/melpa/working/hierarchy/
-Built hierarchy in 4.823s, finished at Wed May 19 03:32:19 2021
+Checking out origin/HEAD
+Checking out fed505b8e71bf51772887c8a94bb57f5b8838b63
+Built hierarchy in 5.831s, finished at 2021-08-17T09:56:05+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  23K May 19 03:32 packages/hierarchy-20190425.842.el
-4.0K -rw-r--r-- 1 root root  370 May 19 03:32 packages/hierarchy-20190425.842.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:32 packages/hierarchy-badge.svg
-4.0K -rw-r--r-- 1 root root  891 May 19 03:32 packages/hierarchy-readme.txt
+ 24K -rw-r--r-- 1 root root  23K Aug 17 09:56 packages/hierarchy-20190425.842.el
+4.0K -rw-r--r-- 1 root root  370 Aug 17 09:56 packages/hierarchy-20190425.842.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:56 packages/hierarchy-badge.svg
+4.0K -rw-r--r-- 1 root root  891 Aug 17 09:56 packages/hierarchy-readme.txt

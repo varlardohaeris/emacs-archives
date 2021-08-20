@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/nicferrier/emacs-world-time-mode.git
 
 Updating /mnt/store/melpa/working/world-time-mode/
-Built world-time-mode in 4.201s, finished at Wed May 19 04:15:42 2021
+Checking out origin/HEAD
+Checking out ce7a3b45c87eb24cfe61eee453175d64f741d7cc
+Built world-time-mode in 5.329s, finished at 2021-08-17T14:06:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.1K May 19 04:15 packages/world-time-mode-20140627.807.el
-4.0K -rw-r--r-- 1 root root  315 May 19 04:15 packages/world-time-mode-20140627.807.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/world-time-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   67 May 19 04:15 packages/world-time-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 3.1K Aug 17 14:06 packages/world-time-mode-20140627.807.el
+4.0K -rw-r--r-- 1 root root  315 Aug 17 14:06 packages/world-time-mode-20140627.807.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:06 packages/world-time-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   67 Aug 17 14:06 packages/world-time-mode-readme.txt

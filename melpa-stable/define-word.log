@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/define-word.git
 
 Updating /mnt/store/melpa/working/define-word/
-Built define-word in 2.963s, finished at Wed May 19 04:26:57 2021
+Checking out 38e2f94779652fc6280a51b68dc910431513a8e1
+Built define-word in 3.710s, finished at 2021-08-17T10:52:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.8K May 19 04:26 packages-stable/define-word-0.1.0.el
-4.0K -rw-r--r-- 1 root root  379 May 19 04:26 packages-stable/define-word-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/define-word-badge.svg
-4.0K -rw-r--r-- 1 root root  246 May 19 04:26 packages-stable/define-word-readme.txt
+4.0K -rw-r--r-- 1 root root 3.8K Aug 17 10:52 packages-stable/define-word-0.1.0.el
+4.0K -rw-r--r-- 1 root root  379 Aug 17 10:52 packages-stable/define-word-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/define-word-badge.svg
+4.0K -rw-r--r-- 1 root root  246 Aug 17 10:52 packages-stable/define-word-readme.txt

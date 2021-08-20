@@ -1,0 +1,6 @@
+Package: consult-dir
+Fetcher: github
+Source:  https://github.com/karthink/consult-dir.git
+
+Updating /mnt/store/melpa/working/consult-dir/
+No valid stable versions found for consult-dir

@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/rejeep/commander.el.git
 
 Updating /mnt/store/melpa/working/commander/
-Built commander in 3.102s, finished at Wed May 19 04:24:09 2021
+Checking out 2c8a57b9c619e29ccbe2d5a85921b9c689e95bf9
+Built commander in 3.472s, finished at 2021-08-17T10:49:38+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 04:24 packages-stable/commander-0.7.0.el
-4.0K -rw-r--r-- 1 root root  459 May 19 04:24 packages-stable/commander-0.7.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/commander-badge.svg
+ 20K -rw-r--r-- 1 root root  18K Aug 17 10:49 packages-stable/commander-0.7.0.el
+4.0K -rw-r--r-- 1 root root  459 Aug 17 10:49 packages-stable/commander-0.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/commander-badge.svg

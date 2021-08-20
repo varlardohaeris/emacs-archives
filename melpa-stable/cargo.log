@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kwrooijen/cargo.el.git
 
 Updating /mnt/store/melpa/working/cargo/
+Checking out b0487f95a7de7a1d6f03cdd05220f633977d65a2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cargo/
-  to /tmp/cargoixnzUe/cargo-0.4.1
+  to /tmp/cargovBYrtz/cargo-0.4.1
     cargo-process.el -> cargo-process.el
     cargo.el -> cargo.el
 Created cargo-0.4.1.tar containing:
@@ -13,9 +14,10 @@ Created cargo-0.4.1.tar containing:
   cargo-0.4.1/cargo-pkg.el
   cargo-0.4.1/cargo-process.el
   cargo-0.4.1/cargo.el
-Built cargo in 2.793s, finished at Wed May 19 04:22:41 2021
+Built cargo in 4.025s, finished at 2021-08-17T10:47:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  368 May 19 04:22 packages-stable/cargo-0.4.1.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:22 packages-stable/cargo-0.4.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cargo-badge.svg
-4.0K -rw-r--r-- 1 root root  823 May 19 04:22 packages-stable/cargo-readme.txt
+4.0K -rw-r--r-- 1 root root  368 Aug 17 10:47 packages-stable/cargo-0.4.1.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:47 packages-stable/cargo-0.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/cargo-badge.svg
+4.0K -rw-r--r-- 1 root root  181 Aug 17 10:47 packages-stable/cargo-mode.log
+4.0K -rw-r--r-- 1 root root  823 Aug 17 10:47 packages-stable/cargo-readme.txt

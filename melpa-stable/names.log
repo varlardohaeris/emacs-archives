@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Malabarba/names.git
 
 Updating /mnt/store/melpa/working/names/
+Checking out 00862c57ae6363ba86d1e5ce138929a1b6d5c7e6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/names/
-  to /tmp/namesKqlTnl/names-20151201.0
+  to /tmp/namesifOtUu/names-20151201.0
     names-dev.el -> names-dev.el
     names.el -> names.el
 Created names-20151201.0.tar containing:
@@ -13,9 +14,9 @@ Created names-20151201.0.tar containing:
   names-20151201.0/names-dev.el
   names-20151201.0/names-pkg.el
   names-20151201.0/names.el
-Built names in 2.956s, finished at Wed May 19 01:36:57 2021
+Built names in 4.045s, finished at 2021-08-17T11:20:19+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  429 May 19 01:36 packages-stable/names-20151201.0.entry
- 72K -rw-r--r-- 1 root root  70K May 19 01:36 packages-stable/names-20151201.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/names-badge.svg
-4.0K -rw-r--r-- 1 root root  265 May 19 01:36 packages-stable/names-readme.txt
+4.0K -rw-r--r-- 1 root root  429 Aug 17 11:20 packages-stable/names-20151201.0.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 11:20 packages-stable/names-20151201.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/names-badge.svg
+4.0K -rw-r--r-- 1 root root  265 Aug 17 11:20 packages-stable/names-readme.txt

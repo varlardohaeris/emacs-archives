@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/goto-char-preview.git
 
 Updating /mnt/store/melpa/working/goto-char-preview/
-Built goto-char-preview in 2.995s, finished at Wed May 19 04:38:22 2021
+Checking out 6209973933bec4081145dbcb8e3e442cb29a8c52
+Built goto-char-preview in 3.820s, finished at 2021-08-17T11:05:50+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.3K May 19 04:38 packages-stable/goto-char-preview-0.1.0.el
-4.0K -rw-r--r-- 1 root root  396 May 19 04:38 packages-stable/goto-char-preview-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/goto-char-preview-badge.svg
-4.0K -rw-r--r-- 1 root root   55 May 19 04:38 packages-stable/goto-char-preview-readme.txt
+8.0K -rw-r--r-- 1 root root 4.3K Aug 17 11:05 packages-stable/goto-char-preview-0.1.0.el
+4.0K -rw-r--r-- 1 root root  396 Aug 17 11:05 packages-stable/goto-char-preview-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/goto-char-preview-badge.svg
+4.0K -rw-r--r-- 1 root root   55 Aug 17 11:05 packages-stable/goto-char-preview-readme.txt

@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/ShuguangSun/dired-view-data.git
 
 Updating /mnt/store/melpa/working/dired-view-data/
-No valid stable versions found for dired-view-data
+Checking out c865c34536d9c3140ce647f03c8b7498b46e935c
+Built dired-view-data in 3.273s, finished at 2021-08-17T10:53:31+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.1K Aug 17 10:53 packages-stable/dired-view-data-1.0.el
+4.0K -rw-r--r-- 1 root root  432 Aug 17 10:53 packages-stable/dired-view-data-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dired-view-data-badge.svg
+4.0K -rw-r--r-- 1 root root  523 Aug 17 10:53 packages-stable/dired-view-data-readme.txt

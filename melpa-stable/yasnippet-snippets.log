@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/AndreaCrotti/yasnippet-snippets.git
 
 Updating /mnt/store/melpa/working/yasnippet-snippets/
+Checking out be823d7e1a1a46454d60a9f3dabb16b68b5dd853
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yasnippet-snippets/
-  to /tmp/yasnippet-snippetsxWpSrT/yasnippet-snippets-0.24
+  to /tmp/yasnippet-snippetsgklixf/yasnippet-snippets-0.24
     yasnippet-snippets.el -> yasnippet-snippets.el
     snippets => snippets
 Created yasnippet-snippets-0.24.tar containing:
@@ -2173,9 +2174,9 @@ Created yasnippet-snippets-0.24.tar containing:
   yasnippet-snippets-0.24/snippets/yaml-mode/section
   yasnippet-snippets-0.24/yasnippet-snippets-pkg.el
   yasnippet-snippets-0.24/yasnippet-snippets.el
-Built yasnippet-snippets in 14.590s, finished at Wed May 19 01:56:34 2021
+Built yasnippet-snippets in 12.982s, finished at 2021-08-17T11:42:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  431 May 19 01:56 packages-stable/yasnippet-snippets-0.24.entry
-2.2M -rw-r--r-- 1 root root 2.2M May 19 01:56 packages-stable/yasnippet-snippets-0.24.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yasnippet-snippets-badge.svg
-4.0K -rw-r--r-- 1 root root   55 May 19 01:56 packages-stable/yasnippet-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:42 packages-stable/yasnippet-snippets-0.24.entry
+2.2M -rw-r--r-- 1 root root 2.2M Aug 17 11:42 packages-stable/yasnippet-snippets-0.24.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/yasnippet-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root   55 Aug 17 11:42 packages-stable/yasnippet-snippets-readme.txt

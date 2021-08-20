@@ -1,0 +1,12 @@
+Package: ox-yaow
+Fetcher: github
+Source:  https://github.com/LaurenceWarne/ox-yaow.el.git
+
+Updating /mnt/store/melpa/working/ox-yaow/
+Checking out 83f9e903f2853e9dc6367fa0a49015428d061dea
+Built ox-yaow in 3.773s, finished at 2021-08-17T11:25:43+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K Aug 17 11:25 packages-stable/ox-yaow-1.0.el
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:25 packages-stable/ox-yaow-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/ox-yaow-badge.svg
+4.0K -rw-r--r-- 1 root root   92 Aug 17 11:25 packages-stable/ox-yaow-readme.txt

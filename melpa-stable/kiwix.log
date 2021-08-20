@@ -3,9 +3,20 @@ Fetcher: github
 Source:  https://github.com/stardiviner/kiwix.el.git
 
 Updating /mnt/store/melpa/working/kiwix/
-Built kiwix in 3.660s, finished at Wed May 19 01:31:24 2021
+Checking out 7d6039fa5d5d7561f42c4c2a93c698468ed34e70
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kiwix/
+  to /tmp/kiwix8Vc24J/kiwix-1.1.3
+    kiwix.el -> kiwix.el
+    org-kiwix.el -> org-kiwix.el
+Created kiwix-1.1.3.tar containing:
+  kiwix-1.1.3/
+  kiwix-1.1.3/kiwix-pkg.el
+  kiwix-1.1.3/kiwix.el
+  kiwix-1.1.3/org-kiwix.el
+Built kiwix in 3.756s, finished at 2021-08-17T11:14:20+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 01:31 packages-stable/kiwix-1.0.0.el
-4.0K -rw-r--r-- 1 root root  376 May 19 01:31 packages-stable/kiwix-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/kiwix-badge.svg
-4.0K -rw-r--r-- 1 root root  120 May 19 01:31 packages-stable/kiwix-readme.txt
+4.0K -rw-r--r-- 1 root root  376 Aug 17 11:14 packages-stable/kiwix-1.1.3.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:14 packages-stable/kiwix-1.1.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/kiwix-badge.svg
+4.0K -rw-r--r-- 1 root root  151 Aug 17 11:14 packages-stable/kiwix-readme.txt

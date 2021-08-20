@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/vspinu/sesman.git
 
 Updating /mnt/store/melpa/working/sesman/
+Checking out 3df33018f1c42f09db21cebe39a25b389fe35f02
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sesman/
-  to /tmp/sesmanMZ5JvH/sesman-0.3.4
+  to /tmp/sesmaneaIADx/sesman-0.3.4
     sesman-browser.el -> sesman-browser.el
     sesman.el -> sesman.el
 Created sesman-0.3.4.tar containing:
@@ -13,9 +14,9 @@ Created sesman-0.3.4.tar containing:
   sesman-0.3.4/sesman-browser.el
   sesman-0.3.4/sesman-pkg.el
   sesman-0.3.4/sesman.el
-Built sesman in 3.676s, finished at Wed May 19 01:48:03 2021
+Built sesman in 3.600s, finished at 2021-08-17T11:32:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  275 May 19 01:48 packages-stable/sesman-0.3.4.entry
- 72K -rw-r--r-- 1 root root  70K May 19 01:48 packages-stable/sesman-0.3.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/sesman-badge.svg
-4.0K -rw-r--r-- 1 root root  258 May 19 01:48 packages-stable/sesman-readme.txt
+4.0K -rw-r--r-- 1 root root  275 Aug 17 11:32 packages-stable/sesman-0.3.4.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 11:32 packages-stable/sesman-0.3.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:32 packages-stable/sesman-badge.svg
+4.0K -rw-r--r-- 1 root root  258 Aug 17 11:32 packages-stable/sesman-readme.txt

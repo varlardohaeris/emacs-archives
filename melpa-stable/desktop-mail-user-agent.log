@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lassik/emacs-desktop-mail-user-agent.git
 
 Updating /mnt/store/melpa/working/desktop-mail-user-agent/
-Built desktop-mail-user-agent in 3.208s, finished at Wed May 19 04:27:05 2021
+Checking out b70c7cd0358df80cf84a2977c229bb2042acb5a6
+Built desktop-mail-user-agent in 3.721s, finished at 2021-08-17T10:52:49+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.8K May 19 04:27 packages-stable/desktop-mail-user-agent-0.1.el
-4.0K -rw-r--r-- 1 root root  404 May 19 04:27 packages-stable/desktop-mail-user-agent-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/desktop-mail-user-agent-badge.svg
-4.0K -rw-r--r-- 1 root root  600 May 19 04:27 packages-stable/desktop-mail-user-agent-readme.txt
+8.0K -rw-r--r-- 1 root root 7.8K Aug 17 10:52 packages-stable/desktop-mail-user-agent-0.1.el
+4.0K -rw-r--r-- 1 root root  404 Aug 17 10:52 packages-stable/desktop-mail-user-agent-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/desktop-mail-user-agent-badge.svg
+4.0K -rw-r--r-- 1 root root  600 Aug 17 10:52 packages-stable/desktop-mail-user-agent-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/leoliu/ggtags.git
 
 Updating /mnt/store/melpa/working/ggtags/
-Built ggtags in 3.947s, finished at Wed May 19 03:25:28 2021
+Checking out origin/HEAD
+Checking out 1c43705753e639b34b58c9bf961a80b6610a7109
+Built ggtags in 5.634s, finished at 2021-08-17T09:49:04+0000
  ✓ Success:
-108K -rw-r--r-- 1 root root 105K May 19 03:25 packages/ggtags-20190320.2208.el
-4.0K -rw-r--r-- 1 root root  362 May 19 03:25 packages/ggtags-20190320.2208.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:25 packages/ggtags-badge.svg
-4.0K -rw-r--r-- 1 root root  653 May 19 03:25 packages/ggtags-readme.txt
+108K -rw-r--r-- 1 root root 105K Aug 17 09:49 packages/ggtags-20190320.2208.el
+4.0K -rw-r--r-- 1 root root  362 Aug 17 09:49 packages/ggtags-20190320.2208.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:49 packages/ggtags-badge.svg
+4.0K -rw-r--r-- 1 root root  653 Aug 17 09:49 packages/ggtags-readme.txt

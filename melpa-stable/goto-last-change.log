@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/camdez/goto-last-change.el.git
 
 Updating /mnt/store/melpa/working/goto-last-change/
-Built goto-last-change in 3.652s, finished at Wed May 19 04:38:23 2021
+Checking out a257837bc189e66d3fced4a33e999d99883fdcf3
+Built goto-last-change in 4.481s, finished at 2021-08-17T11:05:52+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.9K May 19 04:38 packages-stable/goto-last-change-1.2.1.el
-4.0K -rw-r--r-- 1 root root  380 May 19 04:38 packages-stable/goto-last-change-1.2.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/goto-last-change-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:38 packages-stable/goto-last-change-readme.txt
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 11:05 packages-stable/goto-last-change-1.2.1.el
+4.0K -rw-r--r-- 1 root root  380 Aug 17 11:05 packages-stable/goto-last-change-1.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/goto-last-change-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:05 packages-stable/goto-last-change-readme.txt

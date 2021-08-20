@@ -1,0 +1,12 @@
+Package: flymake-languagetool
+Fetcher: github
+Source:  https://github.com/emacs-languagetool/flymake-languagetool.git
+
+Updating /mnt/store/melpa/working/flymake-languagetool/
+Checking out f0f105ab11fd1de1379baef91fcd46e6c2464dca
+Built flymake-languagetool in 3.811s, finished at 2021-08-17T11:02:41+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K Aug 17 11:02 packages-stable/flymake-languagetool-0.2.0.el
+4.0K -rw-r--r-- 1 root root  403 Aug 17 11:02 packages-stable/flymake-languagetool-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flymake-languagetool-badge.svg
+4.0K -rw-r--r-- 1 root root   35 Aug 17 11:02 packages-stable/flymake-languagetool-readme.txt

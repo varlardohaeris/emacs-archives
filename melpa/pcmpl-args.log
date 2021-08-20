@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/JonWaltman/pcmpl-args.el.git
 
 Updating /mnt/store/melpa/working/pcmpl-args/
-Built pcmpl-args in 4.466s, finished at Wed May 19 03:54:39 2021
+Checking out origin/HEAD
+Checking out 5f2943fd70d94065496c52d21f05eb89028637cc
+Built pcmpl-args in 5.298s, finished at 2021-08-17T10:19:29+0000
  ✓ Success:
-160K -rw-r--r-- 1 root root 158K May 19 03:54 packages/pcmpl-args-20190223.1613.el
-4.0K -rw-r--r-- 1 root root  451 May 19 03:54 packages/pcmpl-args-20190223.1613.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:54 packages/pcmpl-args-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 03:54 packages/pcmpl-args-readme.txt
+176K -rw-r--r-- 1 root root 173K Aug 17 10:19 packages/pcmpl-args-20210805.1537.el
+4.0K -rw-r--r-- 1 root root  478 Aug 17 10:19 packages/pcmpl-args-20210805.1537.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:19 packages/pcmpl-args-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 10:19 packages/pcmpl-args-readme.txt

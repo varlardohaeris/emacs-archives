@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/grugrut/helm-books.git
 
 Updating /mnt/store/melpa/working/helm-books/
-Built helm-books in 2.929s, finished at Wed May 19 04:39:52 2021
+Checking out b4c57d2aed596faad41a753dccbcd0a31a717b76
+Built helm-books in 7.493s, finished at 2021-08-17T11:07:14+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.3K May 19 04:39 packages-stable/helm-books-1.0.1.el
-4.0K -rw-r--r-- 1 root root  363 May 19 04:39 packages-stable/helm-books-1.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-books-badge.svg
-4.0K -rw-r--r-- 1 root root   35 May 19 04:39 packages-stable/helm-books-readme.txt
+8.0K -rw-r--r-- 1 root root 4.3K Aug 17 11:07 packages-stable/helm-books-1.0.1.el
+4.0K -rw-r--r-- 1 root root  363 Aug 17 11:07 packages-stable/helm-books-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:07 packages-stable/helm-books-badge.svg
+4.0K -rw-r--r-- 1 root root   35 Aug 17 11:07 packages-stable/helm-books-readme.txt

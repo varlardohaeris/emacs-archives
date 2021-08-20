@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/tjaartvdwalt/bitbucket.el.git
 
 Updating /mnt/store/melpa/working/bitbucket/
+Checking out origin/HEAD
+Checking out 5e663da1bd38a14c1ecf4d66a79d4321ac833bcf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bitbucket/
-  to /tmp/bitbucketKmwQqh/bitbucket-20170405.446
+  to /tmp/bitbucketrqvbPk/bitbucket-20170405.446
     bitbucket-api.el -> bitbucket-api.el
     bitbucket-http.el -> bitbucket-http.el
     bitbucket-issues.el -> bitbucket-issues.el
@@ -17,9 +19,9 @@ Created bitbucket-20170405.446.tar containing:
   bitbucket-20170405.446/bitbucket-issues.el
   bitbucket-20170405.446/bitbucket-pkg.el
   bitbucket-20170405.446/bitbucket.el
-Built bitbucket in 4.780s, finished at Wed May 19 03:02:21 2021
+Built bitbucket in 4.544s, finished at 2021-08-17T09:24:31+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  453 May 19 03:02 packages/bitbucket-20170405.446.entry
- 20K -rw-r--r-- 1 root root  20K May 19 03:02 packages/bitbucket-20170405.446.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:02 packages/bitbucket-badge.svg
-4.0K -rw-r--r-- 1 root root  116 May 19 03:02 packages/bitbucket-readme.txt
+4.0K -rw-r--r-- 1 root root  453 Aug 17 09:24 packages/bitbucket-20170405.446.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 09:24 packages/bitbucket-20170405.446.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:24 packages/bitbucket-badge.svg
+4.0K -rw-r--r-- 1 root root  116 Aug 17 09:24 packages/bitbucket-readme.txt

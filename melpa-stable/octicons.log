@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/octicons.git
 
 Updating /mnt/store/melpa/working/octicons/
+Checking out 77bb1a49045f89b3eaf9bcffeefbb9e1abaee556
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/octicons/
-  to /tmp/octiconsrXsvUe/octicons-0.1
+  to /tmp/octiconsgAGFm5/octicons-0.1
     octicons-data.el -> octicons-data.el
     octicons.el -> octicons.el
 Created octicons-0.1.tar containing:
@@ -13,9 +14,9 @@ Created octicons-0.1.tar containing:
   octicons-0.1/octicons-data.el
   octicons-0.1/octicons-pkg.el
   octicons-0.1/octicons.el
-Built octicons in 2.913s, finished at Wed May 19 01:38:29 2021
+Built octicons in 3.415s, finished at 2021-08-17T11:22:12+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  315 May 19 01:38 packages-stable/octicons-0.1.entry
- 12K -rw-r--r-- 1 root root  10K May 19 01:38 packages-stable/octicons-0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/octicons-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:38 packages-stable/octicons-readme.txt
+4.0K -rw-r--r-- 1 root root  315 Aug 17 11:22 packages-stable/octicons-0.1.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 11:22 packages-stable/octicons-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/octicons-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:22 packages-stable/octicons-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/flymake-less.git
 
 Updating /mnt/store/melpa/working/flymake-less/
-Built flymake-less in 2.876s, finished at Wed May 19 04:35:37 2021
+Checking out 8cbb5e41c8f4b988cee3ef4449cfa9aea3540893
+Built flymake-less in 3.649s, finished at 2021-08-17T11:02:41+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.4K May 19 04:35 packages-stable/flymake-less-0.3.el
-4.0K -rw-r--r-- 1 root root  341 May 19 04:35 packages-stable/flymake-less-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-less-badge.svg
-4.0K -rw-r--r-- 1 root root  589 May 19 04:35 packages-stable/flymake-less-readme.txt
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 11:02 packages-stable/flymake-less-0.3.el
+4.0K -rw-r--r-- 1 root root  341 Aug 17 11:02 packages-stable/flymake-less-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flymake-less-badge.svg
+4.0K -rw-r--r-- 1 root root  589 Aug 17 11:02 packages-stable/flymake-less-readme.txt

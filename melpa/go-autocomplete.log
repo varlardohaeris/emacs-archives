@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/mdempsky/gocode.git
 
 Updating /mnt/store/melpa/working/go-autocomplete/
-Built go-autocomplete in 4.697s, finished at Wed May 19 03:26:44 2021
+Checking out origin/HEAD
+Checking out 4acdcbdea79de6b3dee1c637eca5cbea0fdbe37c
+Built go-autocomplete in 6.135s, finished at 2021-08-17T09:50:31+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.0K May 19 03:26 packages/go-autocomplete-20150904.240.el
-4.0K -rw-r--r-- 1 root root  321 May 19 03:26 packages/go-autocomplete-20150904.240.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:26 packages/go-autocomplete-badge.svg
-4.0K -rw-r--r-- 1 root root  288 May 19 03:26 packages/go-autocomplete-readme.txt
+8.0K -rw-r--r-- 1 root root 7.0K Aug 17 09:50 packages/go-autocomplete-20150904.240.el
+4.0K -rw-r--r-- 1 root root  321 Aug 17 09:50 packages/go-autocomplete-20150904.240.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:50 packages/go-autocomplete-badge.svg
+4.0K -rw-r--r-- 1 root root  288 Aug 17 09:50 packages/go-autocomplete-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rejeep/ert-runner.el.git
 
 Updating /mnt/store/melpa/working/ert-runner/
+Checking out 1829f05c46b0baaae160d900f89c8881f4fcdbcc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ert-runner/
-  to /tmp/ert-runnerSjU1SI/ert-runner-0.8.0
+  to /tmp/ert-runnertIxEAr/ert-runner-0.8.0
     ert-compat.el -> ert-compat.el
     ert-runner.el -> ert-runner.el
     bin => bin
@@ -22,9 +23,9 @@ Created ert-runner-0.8.0.tar containing:
   ert-runner-0.8.0/reporters/ert-runner-reporter-dot.el
   ert-runner-0.8.0/reporters/ert-runner-reporter-ert+duration.el
   ert-runner-0.8.0/reporters/ert-runner-reporter-ert.el
-Built ert-runner in 2.672s, finished at Wed May 19 04:31:31 2021
+Built ert-runner in 4.024s, finished at 2021-08-17T10:57:57+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  544 May 19 04:31 packages-stable/ert-runner-0.8.0.entry
-140K -rw-r--r-- 1 root root 140K May 19 04:31 packages-stable/ert-runner-0.8.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/ert-runner-badge.svg
-4.0K -rw-r--r-- 1 root root   34 May 19 04:31 packages-stable/ert-runner-readme.txt
+4.0K -rw-r--r-- 1 root root  544 Aug 17 10:57 packages-stable/ert-runner-0.8.0.entry
+140K -rw-r--r-- 1 root root 140K Aug 17 10:57 packages-stable/ert-runner-0.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/ert-runner-badge.svg
+4.0K -rw-r--r-- 1 root root   34 Aug 17 10:57 packages-stable/ert-runner-readme.txt

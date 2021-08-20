@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jojojames/dired-sidebar.git
 
 Updating /mnt/store/melpa/working/dired-sidebar/
-Built dired-sidebar in 4.704s, finished at Wed May 19 04:28:02 2021
+Checking out cfc70763131ae668ff7b4884651f894fd102ffb6
+Built dired-sidebar in 4.197s, finished at 2021-08-17T10:53:31+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  45K May 19 04:28 packages-stable/dired-sidebar-0.2.0.el
-4.0K -rw-r--r-- 1 root root  401 May 19 04:28 packages-stable/dired-sidebar-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dired-sidebar-badge.svg
-4.0K -rw-r--r-- 1 root root  259 May 19 04:28 packages-stable/dired-sidebar-readme.txt
+ 48K -rw-r--r-- 1 root root  45K Aug 17 10:53 packages-stable/dired-sidebar-0.2.0.el
+4.0K -rw-r--r-- 1 root root  401 Aug 17 10:53 packages-stable/dired-sidebar-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dired-sidebar-badge.svg
+4.0K -rw-r--r-- 1 root root  259 Aug 17 10:53 packages-stable/dired-sidebar-readme.txt

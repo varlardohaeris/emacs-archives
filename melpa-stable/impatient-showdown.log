@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/impatient-showdown.git
 
 Updating /mnt/store/melpa/working/impatient-showdown/
+Checking out b0c2da8e5936809f534c055beb6540b4f8721ed4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/impatient-showdown/
-  to /tmp/impatient-showdowncHOFrS/impatient-showdown-0.1.2
+  to /tmp/impatient-showdownytdXEG/impatient-showdown-0.1.2
     impatient-showdown.el -> impatient-showdown.el
     preview.html -> preview.html
 Created impatient-showdown-0.1.2.tar containing:
@@ -13,9 +14,9 @@ Created impatient-showdown-0.1.2.tar containing:
   impatient-showdown-0.1.2/impatient-showdown-pkg.el
   impatient-showdown-0.1.2/impatient-showdown.el
   impatient-showdown-0.1.2/preview.html
-Built impatient-showdown in 3.346s, finished at Wed May 19 04:43:04 2021
+Built impatient-showdown in 3.791s, finished at 2021-08-17T11:11:15+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  445 May 19 04:43 packages-stable/impatient-showdown-0.1.2.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:43 packages-stable/impatient-showdown-0.1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/impatient-showdown-badge.svg
-4.0K -rw-r--r-- 1 root root   56 May 19 04:43 packages-stable/impatient-showdown-readme.txt
+4.0K -rw-r--r-- 1 root root  445 Aug 17 11:11 packages-stable/impatient-showdown-0.1.2.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:11 packages-stable/impatient-showdown-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/impatient-showdown-badge.svg
+4.0K -rw-r--r-- 1 root root   56 Aug 17 11:11 packages-stable/impatient-showdown-readme.txt

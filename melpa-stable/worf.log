@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/worf.git
 
 Updating /mnt/store/melpa/working/worf/
-Built worf in 4.916s, finished at Wed May 19 01:55:38 2021
+Checking out f36755447b588b739b2bf6ab0fb5eb5f4d8db3df
+Built worf in 9.180s, finished at 2021-08-17T11:41:40+0000
  ✓ Success:
- 44K -rw-r--r-- 1 root root  41K May 19 01:55 packages-stable/worf-0.1.0.el
-4.0K -rw-r--r-- 1 root root  399 May 19 01:55 packages-stable/worf-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/worf-badge.svg
-4.0K -rw-r--r-- 1 root root 3.9K May 19 01:55 packages-stable/worf-readme.txt
+ 44K -rw-r--r-- 1 root root  41K Aug 17 11:41 packages-stable/worf-0.1.0.el
+4.0K -rw-r--r-- 1 root root  399 Aug 17 11:41 packages-stable/worf-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:41 packages-stable/worf-badge.svg
+4.0K -rw-r--r-- 1 root root 3.9K Aug 17 11:41 packages-stable/worf-readme.txt

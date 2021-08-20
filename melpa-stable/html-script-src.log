@@ -3,7 +3,9 @@ Fetcher: github
 Source:  https://github.com/rejeep/html-script-src.el.git
 
 Updating /mnt/store/melpa/working/html-script-src/
+Checking out 52da4421ec4a0603d5cf9e2278e36a614f871dd2
 Command '(env LC_ALL=C git submodule update --init --recursive)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
 HEAD is now at 52da442 Bump version to 0.0.2.
 Synchronizing submodule url for 'util/ecukes'
 Synchronizing submodule url for 'util/ecukes/test/el-mock'

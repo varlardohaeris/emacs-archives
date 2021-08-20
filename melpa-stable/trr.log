@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kawabata/emacs-trr.git
 
 Updating /mnt/store/melpa/working/trr/
+Checking out 6d1eb97a9d51c8cd45d9510432da96a11099ac02
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/trr/
-  to /tmp/trr2iymxf/trr-2.0.0
+  to /tmp/trrm9XUkb/trr-2.0.0
     trr-files.el -> trr-files.el
     trr-graphs.el -> trr-graphs.el
     trr-menus.el -> trr-menus.el
@@ -55,9 +56,9 @@ Created trr-2.0.0.tar containing:
   trr-2.0.0/trr-sess.el
   trr-2.0.0/trr.el
   trr-2.0.0/trr.info
-Built trr in 2.804s, finished at Wed May 19 01:52:57 2021
+Built trr in 3.735s, finished at 2021-08-17T11:38:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  443 May 19 01:52 packages-stable/trr-2.0.0.entry
-460K -rw-r--r-- 1 root root 460K May 19 01:52 packages-stable/trr-2.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/trr-badge.svg
-4.0K -rw-r--r-- 1 root root  772 May 19 01:52 packages-stable/trr-readme.txt
+4.0K -rw-r--r-- 1 root root  443 Aug 17 11:38 packages-stable/trr-2.0.0.entry
+460K -rw-r--r-- 1 root root 460K Aug 17 11:38 packages-stable/trr-2.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/trr-badge.svg
+4.0K -rw-r--r-- 1 root root  772 Aug 17 11:38 packages-stable/trr-readme.txt

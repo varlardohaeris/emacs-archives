@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/brannala/sequed.git
 
 Updating /mnt/store/melpa/working/sequed/
-Built sequed in 4.550s, finished at Wed May 19 04:03:13 2021
+Checking out origin/HEAD
+Checking out b28e20bf3e0ec7c56c705632e38ab842083d9c49
+Built sequed in 4.888s, finished at 2021-08-17T10:28:31+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 04:03 packages/sequed-20210417.28.el
-4.0K -rw-r--r-- 1 root root  338 May 19 04:03 packages/sequed-20210417.28.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:03 packages/sequed-badge.svg
-4.0K -rw-r--r-- 1 root root  873 May 19 04:03 packages/sequed-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 10:28 packages/sequed-20210417.28.el
+4.0K -rw-r--r-- 1 root root  338 Aug 17 10:28 packages/sequed-20210417.28.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:28 packages/sequed-badge.svg
+4.0K -rw-r--r-- 1 root root  873 Aug 17 10:28 packages/sequed-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tumashu/posframe.git
 
 Updating /mnt/store/melpa/working/posframe/
-Built posframe in 3.628s, finished at Wed May 19 01:43:50 2021
+Checking out 3454a4cb9d218c38f9c5b88798dfb2f7f85ad936
+Built posframe in 4.844s, finished at 2021-08-17T11:28:09+0000
  ✓ Success:
- 56K -rw-r--r-- 1 root root  53K May 19 01:43 packages-stable/posframe-0.8.5.el
-4.0K -rw-r--r-- 1 root root  362 May 19 01:43 packages-stable/posframe-0.8.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/posframe-badge.svg
-4.0K -rw-r--r-- 1 root root 3.4K May 19 01:43 packages-stable/posframe-readme.txt
+ 56K -rw-r--r-- 1 root root  53K Aug 17 11:28 packages-stable/posframe-0.8.5.el
+4.0K -rw-r--r-- 1 root root  362 Aug 17 11:28 packages-stable/posframe-0.8.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/posframe-badge.svg
+4.0K -rw-r--r-- 1 root root 3.4K Aug 17 11:28 packages-stable/posframe-readme.txt

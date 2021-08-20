@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/raxod502/prescient.el.git
 
 Updating /mnt/store/melpa/working/company-prescient/
-Built company-prescient in 3.076s, finished at Wed May 19 04:24:42 2021
+Checking out 2c0e9fc061ab723ec532428f312974ca7d8def12
+Built company-prescient in 5.274s, finished at 2021-08-17T10:50:22+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 04:24 packages-stable/company-prescient-5.1.el
-4.0K -rw-r--r-- 1 root root  461 May 19 04:24 packages-stable/company-prescient-5.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-prescient-badge.svg
-4.0K -rw-r--r-- 1 root root  432 May 19 04:24 packages-stable/company-prescient-readme.txt
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 10:50 packages-stable/company-prescient-5.1.el
+4.0K -rw-r--r-- 1 root root  461 Aug 17 10:50 packages-stable/company-prescient-5.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/company-prescient-badge.svg
+4.0K -rw-r--r-- 1 root root  432 Aug 17 10:50 packages-stable/company-prescient-readme.txt

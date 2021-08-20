@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacs-w3m/emacs-w3m.git
 
 Updating /mnt/store/melpa/working/w3m/
+Checking out origin/HEAD
+Checking out 179adee10bc835ecc6fa245d20dc5ec577104ef3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/w3m/
-  to /tmp/w3mLNHohI/w3m-20210507.231
+  to /tmp/w3miufq4k/w3m-20210817.327
     bookmark-w3m.el -> bookmark-w3m.el
     mime-w3m.el -> mime-w3m.el
     w3m-antenna.el -> w3m-antenna.el
@@ -38,8 +40,10 @@ Copying files (->) and directories (=>)
   ! doc/emacs-w3m-ja.texi -> emacs-w3m-ja.texi
   ! doc/emacs-w3m.texi -> emacs-w3m.texi
     icons => icons
-Error: (error "Command '(env LC_ALL=C makeinfo /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi -o /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m-ja.info)' exited with non-zero status 1: Fetching origin
-HEAD is now at 2f95627b Declare w3m-queries-log-file in w3m-util.el
+Error: (error "Command '(env LC_ALL=C makeinfo /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi -o /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m-ja.info)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
+HEAD is now at 179adee1 Add timeout to w3m-download
+HEAD is now at 179adee1 Add timeout to w3m-download
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:8: @include: could not find version.texi
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:57: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:59: warning: undefined flag: VERSION
@@ -48,9 +52,11 @@ HEAD is now at 2f95627b Declare w3m-queries-log-file in w3m-util.el
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:317: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:318: warning: undefined flag: VERSION
 ")
-Created /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m-ja.info
-Error: (error "Command '(env LC_ALL=C install-info --dir=dir /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m-ja.info)' exited with non-zero status 1: Fetching origin
-HEAD is now at 2f95627b Declare w3m-queries-log-file in w3m-util.el
+Created /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m-ja.info
+Error: (error "Command '(env LC_ALL=C install-info --dir=dir /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m-ja.info)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
+HEAD is now at 179adee1 Add timeout to w3m-download
+HEAD is now at 179adee1 Add timeout to w3m-download
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:8: @include: could not find version.texi
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:57: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:59: warning: undefined flag: VERSION
@@ -58,10 +64,12 @@ HEAD is now at 2f95627b Declare w3m-queries-log-file in w3m-util.el
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:82: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:317: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:318: warning: undefined flag: VERSION
-install-info: No such file or directory for /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m-ja.info
+install-info: No such file or directory for /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m-ja.info
 ")
-Error: (error "Command '(env LC_ALL=C makeinfo /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi -o /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m.info)' exited with non-zero status 1: Fetching origin
-HEAD is now at 2f95627b Declare w3m-queries-log-file in w3m-util.el
+Error: (error "Command '(env LC_ALL=C makeinfo /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi -o /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m.info)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
+HEAD is now at 179adee1 Add timeout to w3m-download
+HEAD is now at 179adee1 Add timeout to w3m-download
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:8: @include: could not find version.texi
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:57: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:59: warning: undefined flag: VERSION
@@ -69,7 +77,7 @@ HEAD is now at 2f95627b Declare w3m-queries-log-file in w3m-util.el
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:82: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:317: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:318: warning: undefined flag: VERSION
-install-info: No such file or directory for /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m-ja.info
+install-info: No such file or directory for /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m-ja.info
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:7: @include: could not find version.texi
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:37: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:43: warning: undefined flag: VERSION
@@ -77,9 +85,11 @@ install-info: No such file or directory for /tmp/w3mLNHohI/w3m-20210507.231/emac
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:294: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:295: warning: undefined flag: VERSION
 ")
-Created /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m.info
-Error: (error "Command '(env LC_ALL=C install-info --dir=dir /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m.info)' exited with non-zero status 1: Fetching origin
-HEAD is now at 2f95627b Declare w3m-queries-log-file in w3m-util.el
+Created /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m.info
+Error: (error "Command '(env LC_ALL=C install-info --dir=dir /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m.info)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
+HEAD is now at 179adee1 Add timeout to w3m-download
+HEAD is now at 179adee1 Add timeout to w3m-download
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:8: @include: could not find version.texi
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:57: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:59: warning: undefined flag: VERSION
@@ -87,95 +97,95 @@ HEAD is now at 2f95627b Declare w3m-queries-log-file in w3m-util.el
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:82: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:317: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m-ja.texi:318: warning: undefined flag: VERSION
-install-info: No such file or directory for /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m-ja.info
+install-info: No such file or directory for /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m-ja.info
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:7: @include: could not find version.texi
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:37: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:43: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:60: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:294: warning: undefined flag: VERSION
 /mnt/store/melpa/working/w3m/doc/emacs-w3m.texi:295: warning: undefined flag: VERSION
-install-info: No such file or directory for /tmp/w3mLNHohI/w3m-20210507.231/emacs-w3m.info
+install-info: No such file or directory for /tmp/w3miufq4k/w3m-20210817.327/emacs-w3m.info
 ")
-Created w3m-20210507.231.tar containing:
-  w3m-20210507.231/
-  w3m-20210507.231/bookmark-w3m.el
-  w3m-20210507.231/dir
-  w3m-20210507.231/icons/
-  w3m-20210507.231/icons/antenna-up.png
-  w3m-20210507.231/icons/antenna-up.xpm
-  w3m-20210507.231/icons/back-disabled.png
-  w3m-20210507.231/icons/back-disabled.xpm
-  w3m-20210507.231/icons/back-up.png
-  w3m-20210507.231/icons/back-up.xpm
-  w3m-20210507.231/icons/copy-up.png
-  w3m-20210507.231/icons/copy-up.xpm
-  w3m-20210507.231/icons/db-history-up.png
-  w3m-20210507.231/icons/db-history-up.xpm
-  w3m-20210507.231/icons/forward-disabled.png
-  w3m-20210507.231/icons/forward-disabled.xpm
-  w3m-20210507.231/icons/forward-up.png
-  w3m-20210507.231/icons/forward-up.xpm
-  w3m-20210507.231/icons/history-up.png
-  w3m-20210507.231/icons/history-up.xpm
-  w3m-20210507.231/icons/home-up.png
-  w3m-20210507.231/icons/home-up.xpm
-  w3m-20210507.231/icons/image-up.png
-  w3m-20210507.231/icons/image-up.xpm
-  w3m-20210507.231/icons/open-up.png
-  w3m-20210507.231/icons/open-up.xpm
-  w3m-20210507.231/icons/parent-disabled.png
-  w3m-20210507.231/icons/parent-disabled.xpm
-  w3m-20210507.231/icons/parent-up.png
-  w3m-20210507.231/icons/parent-up.xpm
-  w3m-20210507.231/icons/reload-up.png
-  w3m-20210507.231/icons/reload-up.xpm
-  w3m-20210507.231/icons/save-up.png
-  w3m-20210507.231/icons/save-up.xpm
-  w3m-20210507.231/icons/search-up.png
-  w3m-20210507.231/icons/search-up.xpm
-  w3m-20210507.231/icons/spinner.gif
-  w3m-20210507.231/icons/state-00.png
-  w3m-20210507.231/icons/state-00.xpm
-  w3m-20210507.231/icons/state-01.png
-  w3m-20210507.231/icons/state-01.xpm
-  w3m-20210507.231/icons/state-10.png
-  w3m-20210507.231/icons/state-10.xpm
-  w3m-20210507.231/icons/state-11.png
-  w3m-20210507.231/icons/state-11.xpm
-  w3m-20210507.231/icons/weather-up.png
-  w3m-20210507.231/icons/weather-up.xpm
-  w3m-20210507.231/mime-w3m.el
-  w3m-20210507.231/w3m-antenna.el
-  w3m-20210507.231/w3m-bookmark.el
-  w3m-20210507.231/w3m-bug.el
-  w3m-20210507.231/w3m-cookie.el
-  w3m-20210507.231/w3m-dtree.el
-  w3m-20210507.231/w3m-ems.el
-  w3m-20210507.231/w3m-favicon.el
-  w3m-20210507.231/w3m-fb.el
-  w3m-20210507.231/w3m-filter.el
-  w3m-20210507.231/w3m-form.el
-  w3m-20210507.231/w3m-hist.el
-  w3m-20210507.231/w3m-image.el
-  w3m-20210507.231/w3m-lnum.el
-  w3m-20210507.231/w3m-mail.el
-  w3m-20210507.231/w3m-namazu.el
-  w3m-20210507.231/w3m-perldoc.el
-  w3m-20210507.231/w3m-pkg.el
-  w3m-20210507.231/w3m-proc.el
-  w3m-20210507.231/w3m-rss.el
-  w3m-20210507.231/w3m-save.el
-  w3m-20210507.231/w3m-search.el
-  w3m-20210507.231/w3m-session.el
-  w3m-20210507.231/w3m-symbol.el
-  w3m-20210507.231/w3m-tabmenu.el
-  w3m-20210507.231/w3m-util.el
-  w3m-20210507.231/w3m-weather.el
-  w3m-20210507.231/w3m.el
-  w3m-20210507.231/w3mhack.el
-Built w3m in 34.152s, finished at Wed May 19 04:14:26 2021
+Created w3m-20210817.327.tar containing:
+  w3m-20210817.327/
+  w3m-20210817.327/bookmark-w3m.el
+  w3m-20210817.327/dir
+  w3m-20210817.327/icons/
+  w3m-20210817.327/icons/antenna-up.png
+  w3m-20210817.327/icons/antenna-up.xpm
+  w3m-20210817.327/icons/back-disabled.png
+  w3m-20210817.327/icons/back-disabled.xpm
+  w3m-20210817.327/icons/back-up.png
+  w3m-20210817.327/icons/back-up.xpm
+  w3m-20210817.327/icons/copy-up.png
+  w3m-20210817.327/icons/copy-up.xpm
+  w3m-20210817.327/icons/db-history-up.png
+  w3m-20210817.327/icons/db-history-up.xpm
+  w3m-20210817.327/icons/forward-disabled.png
+  w3m-20210817.327/icons/forward-disabled.xpm
+  w3m-20210817.327/icons/forward-up.png
+  w3m-20210817.327/icons/forward-up.xpm
+  w3m-20210817.327/icons/history-up.png
+  w3m-20210817.327/icons/history-up.xpm
+  w3m-20210817.327/icons/home-up.png
+  w3m-20210817.327/icons/home-up.xpm
+  w3m-20210817.327/icons/image-up.png
+  w3m-20210817.327/icons/image-up.xpm
+  w3m-20210817.327/icons/open-up.png
+  w3m-20210817.327/icons/open-up.xpm
+  w3m-20210817.327/icons/parent-disabled.png
+  w3m-20210817.327/icons/parent-disabled.xpm
+  w3m-20210817.327/icons/parent-up.png
+  w3m-20210817.327/icons/parent-up.xpm
+  w3m-20210817.327/icons/reload-up.png
+  w3m-20210817.327/icons/reload-up.xpm
+  w3m-20210817.327/icons/save-up.png
+  w3m-20210817.327/icons/save-up.xpm
+  w3m-20210817.327/icons/search-up.png
+  w3m-20210817.327/icons/search-up.xpm
+  w3m-20210817.327/icons/spinner.gif
+  w3m-20210817.327/icons/state-00.png
+  w3m-20210817.327/icons/state-00.xpm
+  w3m-20210817.327/icons/state-01.png
+  w3m-20210817.327/icons/state-01.xpm
+  w3m-20210817.327/icons/state-10.png
+  w3m-20210817.327/icons/state-10.xpm
+  w3m-20210817.327/icons/state-11.png
+  w3m-20210817.327/icons/state-11.xpm
+  w3m-20210817.327/icons/weather-up.png
+  w3m-20210817.327/icons/weather-up.xpm
+  w3m-20210817.327/mime-w3m.el
+  w3m-20210817.327/w3m-antenna.el
+  w3m-20210817.327/w3m-bookmark.el
+  w3m-20210817.327/w3m-bug.el
+  w3m-20210817.327/w3m-cookie.el
+  w3m-20210817.327/w3m-dtree.el
+  w3m-20210817.327/w3m-ems.el
+  w3m-20210817.327/w3m-favicon.el
+  w3m-20210817.327/w3m-fb.el
+  w3m-20210817.327/w3m-filter.el
+  w3m-20210817.327/w3m-form.el
+  w3m-20210817.327/w3m-hist.el
+  w3m-20210817.327/w3m-image.el
+  w3m-20210817.327/w3m-lnum.el
+  w3m-20210817.327/w3m-mail.el
+  w3m-20210817.327/w3m-namazu.el
+  w3m-20210817.327/w3m-perldoc.el
+  w3m-20210817.327/w3m-pkg.el
+  w3m-20210817.327/w3m-proc.el
+  w3m-20210817.327/w3m-rss.el
+  w3m-20210817.327/w3m-save.el
+  w3m-20210817.327/w3m-search.el
+  w3m-20210817.327/w3m-session.el
+  w3m-20210817.327/w3m-symbol.el
+  w3m-20210817.327/w3m-tabmenu.el
+  w3m-20210817.327/w3m-util.el
+  w3m-20210817.327/w3m-weather.el
+  w3m-20210817.327/w3m.el
+  w3m-20210817.327/w3mhack.el
+Built w3m in 27.893s, finished at 2021-08-17T14:04:55+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  179 May 19 04:14 packages/w3m-20210507.231.entry
-1.1M -rw-r--r-- 1 root root 1.1M May 19 04:14 packages/w3m-20210507.231.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:14 packages/w3m-badge.svg
-4.0K -rw-r--r-- 1 root root  380 May 19 04:14 packages/w3m-readme.txt
+4.0K -rw-r--r-- 1 root root  179 Aug 17 14:04 packages/w3m-20210817.327.entry
+1.1M -rw-r--r-- 1 root root 1.1M Aug 17 14:04 packages/w3m-20210817.327.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:04 packages/w3m-badge.svg
+4.0K -rw-r--r-- 1 root root  380 Aug 17 14:04 packages/w3m-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/pezra/rspec-mode.git
 
 Updating /mnt/store/melpa/working/rspec-mode/
+Checking out e289e52ec4b3aa1caf35957d721e5568eca2a3bb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rspec-mode/
-  to /tmp/rspec-mode9fR3kK/rspec-mode-1.11
+  to /tmp/rspec-modeEYibK9/rspec-mode-1.11
     rspec-mode.el -> rspec-mode.el
     snippets => snippets
 Created rspec-mode-1.11.tar containing:
@@ -27,9 +28,9 @@ Created rspec-mode-1.11.tar containing:
   rspec-mode-1.11/snippets/rspec-mode/it
   rspec-mode-1.11/snippets/rspec-mode/let
   rspec-mode-1.11/snippets/rspec-mode/scn
-Built rspec-mode in 3.796s, finished at Wed May 19 01:47:02 2021
+Built rspec-mode in 3.774s, finished at 2021-08-17T11:31:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  382 May 19 01:47 packages-stable/rspec-mode-1.11.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:47 packages-stable/rspec-mode-1.11.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/rspec-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 01:47 packages-stable/rspec-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  382 Aug 17 11:31 packages-stable/rspec-mode-1.11.entry
+ 56K -rw-r--r-- 1 root root  50K Aug 17 11:31 packages-stable/rspec-mode-1.11.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/rspec-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 11:31 packages-stable/rspec-mode-readme.txt

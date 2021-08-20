@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/flymake-coffee.git
 
 Updating /mnt/store/melpa/working/flymake-coffee/
-Built flymake-coffee in 2.676s, finished at Wed May 19 04:35:25 2021
+Checking out d4ef325255ea36d1dd622f29284fe72c3fc9abc0
+Built flymake-coffee in 3.902s, finished at 2021-08-17T11:02:26+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 04:35 packages-stable/flymake-coffee-0.12.el
-4.0K -rw-r--r-- 1 root root  346 May 19 04:35 packages-stable/flymake-coffee-0.12.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-coffee-badge.svg
-4.0K -rw-r--r-- 1 root root  278 May 19 04:35 packages-stable/flymake-coffee-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 11:02 packages-stable/flymake-coffee-0.12.el
+4.0K -rw-r--r-- 1 root root  346 Aug 17 11:02 packages-stable/flymake-coffee-0.12.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flymake-coffee-badge.svg
+4.0K -rw-r--r-- 1 root root  278 Aug 17 11:02 packages-stable/flymake-coffee-readme.txt

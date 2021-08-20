@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alpha22jp/simplenote2.el.git
 
 Updating /mnt/store/melpa/working/simplenote2/
+Checking out 070aa311b0a08b530394c53d0c52c6438efbc20c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/simplenote2/
-  to /tmp/simplenote2Yts2vO/simplenote2-3.0.0
+  to /tmp/simplenote2MnesOc/simplenote2-3.0.0
     simplenote2-list.el -> simplenote2-list.el
     simplenote2.el -> simplenote2.el
 Created simplenote2-3.0.0.tar containing:
@@ -13,9 +14,9 @@ Created simplenote2-3.0.0.tar containing:
   simplenote2-3.0.0/simplenote2-list.el
   simplenote2-3.0.0/simplenote2-pkg.el
   simplenote2-3.0.0/simplenote2.el
-Built simplenote2 in 3.000s, finished at Wed May 19 01:48:41 2021
+Built simplenote2 in 3.564s, finished at 2021-08-17T11:33:37+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  335 May 19 01:48 packages-stable/simplenote2-3.0.0.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:48 packages-stable/simplenote2-3.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/simplenote2-badge.svg
-4.0K -rw-r--r-- 1 root root  426 May 19 01:48 packages-stable/simplenote2-readme.txt
+4.0K -rw-r--r-- 1 root root  335 Aug 17 11:33 packages-stable/simplenote2-3.0.0.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:33 packages-stable/simplenote2-3.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/simplenote2-badge.svg
+4.0K -rw-r--r-- 1 root root  426 Aug 17 11:33 packages-stable/simplenote2-readme.txt

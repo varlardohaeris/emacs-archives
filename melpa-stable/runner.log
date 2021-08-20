@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/thamer/runner.git
 
 Updating /mnt/store/melpa/working/runner/
-Built runner in 3.220s, finished at Wed May 19 01:47:15 2021
+Checking out a211d57ddc600410d07a8b534920ba905b093d87
+Built runner in 3.736s, finished at 2021-08-17T11:31:59+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  22K May 19 01:47 packages-stable/runner-1.8.el
-4.0K -rw-r--r-- 1 root root  383 May 19 01:47 packages-stable/runner-1.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/runner-badge.svg
-4.0K -rw-r--r-- 1 root root  360 May 19 01:47 packages-stable/runner-readme.txt
+ 24K -rw-r--r-- 1 root root  22K Aug 17 11:31 packages-stable/runner-1.8.el
+4.0K -rw-r--r-- 1 root root  383 Aug 17 11:31 packages-stable/runner-1.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/runner-badge.svg
+4.0K -rw-r--r-- 1 root root  360 Aug 17 11:31 packages-stable/runner-readme.txt

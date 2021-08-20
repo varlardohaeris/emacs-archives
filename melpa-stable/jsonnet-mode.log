@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tminor/jsonnet-mode.git
 
 Updating /mnt/store/melpa/working/jsonnet-mode/
-Built jsonnet-mode in 3.864s, finished at Wed May 19 04:45:12 2021
+Checking out 54a89b0aaba7a68782008c5e1ab00d5ec757316a
+Built jsonnet-mode in 4.121s, finished at 2021-08-17T11:13:35+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  33K May 19 04:45 packages-stable/jsonnet-mode-0.1.2.el
-4.0K -rw-r--r-- 1 root root  341 May 19 04:45 packages-stable/jsonnet-mode-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/jsonnet-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  500 May 19 04:45 packages-stable/jsonnet-mode-readme.txt
+ 36K -rw-r--r-- 1 root root  33K Aug 17 11:13 packages-stable/jsonnet-mode-0.1.3.el
+4.0K -rw-r--r-- 1 root root  341 Aug 17 11:13 packages-stable/jsonnet-mode-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/jsonnet-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  500 Aug 17 11:13 packages-stable/jsonnet-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/worr/cfn-mode.git
 
 Updating /mnt/store/melpa/working/cfn-mode/
+Checking out 28662b785a68ddbd5c26bd494e90b3fea74b603a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cfn-mode/
-  to /tmp/cfn-modefFKDxd/cfn-mode-1.0.2
+  to /tmp/cfn-mode82ABrm/cfn-mode-1.0.2
   ! cfn-mode/cfn-mode.el -> cfn-mode.el
   ! cfn-mode/cfn-properties.dat -> cfn-properties.dat
   ! cfn-mode/cfn-resources.dat -> cfn-resources.dat
@@ -15,9 +16,9 @@ Created cfn-mode-1.0.2.tar containing:
   cfn-mode-1.0.2/cfn-mode.el
   cfn-mode-1.0.2/cfn-properties.dat
   cfn-mode-1.0.2/cfn-resources.dat
-Built cfn-mode in 2.798s, finished at Wed May 19 04:22:57 2021
+Built cfn-mode in 5.214s, finished at 2021-08-17T10:48:20+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  443 May 19 04:22 packages-stable/cfn-mode-1.0.2.entry
- 40K -rw-r--r-- 1 root root  40K May 19 04:22 packages-stable/cfn-mode-1.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cfn-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   48 May 19 04:22 packages-stable/cfn-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  443 Aug 17 10:48 packages-stable/cfn-mode-1.0.2.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 10:48 packages-stable/cfn-mode-1.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/cfn-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   48 Aug 17 10:48 packages-stable/cfn-mode-readme.txt

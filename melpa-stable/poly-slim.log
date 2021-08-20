@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/polymode/poly-slim.git
 
 Updating /mnt/store/melpa/working/poly-slim/
-Built poly-slim in 2.915s, finished at Wed May 19 01:43:38 2021
+Checking out 9e9b5164c68955974fd5f5d220aec5af9b5ba3ae
+Built poly-slim in 3.874s, finished at 2021-08-17T11:27:55+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:43 packages-stable/poly-slim-0.2.2.el
-4.0K -rw-r--r-- 1 root root  392 May 19 01:43 packages-stable/poly-slim-0.2.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/poly-slim-badge.svg
-4.0K -rw-r--r-- 1 root root   70 May 19 01:43 packages-stable/poly-slim-readme.txt
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:27 packages-stable/poly-slim-0.2.2.el
+4.0K -rw-r--r-- 1 root root  392 Aug 17 11:27 packages-stable/poly-slim-0.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/poly-slim-badge.svg
+4.0K -rw-r--r-- 1 root root   70 Aug 17 11:27 packages-stable/poly-slim-readme.txt

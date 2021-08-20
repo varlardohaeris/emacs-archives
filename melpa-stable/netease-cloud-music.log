@@ -1,0 +1,24 @@
+Package: netease-cloud-music
+Fetcher: github
+Source:  https://github.com/SpringHan/netease-cloud-music.el.git
+
+Updating /mnt/store/melpa/working/netease-cloud-music/
+Checking out 7cfa76d79b8432b0edb4c188c7a9b6634b78fe53
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/netease-cloud-music/
+  to /tmp/netease-cloud-musiceH25OR/netease-cloud-music-2.0
+    netease-cloud-music-functions.el -> netease-cloud-music-functions.el
+    netease-cloud-music-ui.el -> netease-cloud-music-ui.el
+    netease-cloud-music.el -> netease-cloud-music.el
+Created netease-cloud-music-2.0.tar containing:
+  netease-cloud-music-2.0/
+  netease-cloud-music-2.0/netease-cloud-music-functions.el
+  netease-cloud-music-2.0/netease-cloud-music-pkg.el
+  netease-cloud-music-2.0/netease-cloud-music-ui.el
+  netease-cloud-music-2.0/netease-cloud-music.el
+Built netease-cloud-music in 3.884s, finished at 2021-08-17T11:20:35+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  382 Aug 17 11:20 packages-stable/netease-cloud-music-2.0.entry
+152K -rw-r--r-- 1 root root 150K Aug 17 11:20 packages-stable/netease-cloud-music-2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/netease-cloud-music-badge.svg
+4.0K -rw-r--r-- 1 root root  286 Aug 17 11:20 packages-stable/netease-cloud-music-readme.txt

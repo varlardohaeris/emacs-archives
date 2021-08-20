@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/python-mode-devs/python-mode.git
 
 Updating /mnt/store/melpa/working/python-mode/
+Checking out 906b0a107f7bcfe6e32bcfedb977e6f0f99fda59
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-mode/
-  to /tmp/python-modeppC9IW/python-mode-6.3.0
+  to /tmp/python-mode66IZsj/python-mode-6.3.0
     python-mode.el -> python-mode.el
     completion/pycomplete.el -> completion/pycomplete.el
     completion/pycomplete.py -> completion/pycomplete.py
@@ -16,9 +17,9 @@ Created python-mode-6.3.0.tar containing:
   python-mode-6.3.0/completion/pycomplete.py
   python-mode-6.3.0/python-mode-pkg.el
   python-mode-6.3.0/python-mode.el
-Built python-mode in 4.751s, finished at Wed May 19 01:45:03 2021
+Built python-mode in 4.286s, finished at 2021-08-17T11:29:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  492 May 19 01:45 packages-stable/python-mode-6.3.0.entry
-1.1M -rw-r--r-- 1 root root 1.1M May 19 01:45 packages-stable/python-mode-6.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/python-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  941 May 19 01:45 packages-stable/python-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  492 Aug 17 11:29 packages-stable/python-mode-6.3.0.entry
+1.1M -rw-r--r-- 1 root root 1.1M Aug 17 11:29 packages-stable/python-mode-6.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/python-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  941 Aug 17 11:29 packages-stable/python-mode-readme.txt

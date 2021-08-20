@@ -1,0 +1,11 @@
+(huecycle .
+	  [(20210706 205)
+	   ((emacs
+	     (27 1)))
+	   "Idle color animation" single
+	   ((:commit . "c343b2085dea11b820d4da6c6183e1102ec08698")
+	    (:authors
+	     ("Phillip O'Reggio <https://github.com/pnor>"))
+	    (:maintainer "Phillip O'Reggio")
+	    (:keywords "faces")
+	    (:url . "https://github.com/pnor/huecycle"))])

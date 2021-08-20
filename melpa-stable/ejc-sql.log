@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kostafey/ejc-sql.git
 
 Updating /mnt/store/melpa/working/ejc-sql/
+Checking out 35f627fc9009a95d73e009e0545ca30feb64e1fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ejc-sql/
-  to /tmp/ejc-sqlw3juDj/ejc-sql-0.4.1
+  to /tmp/ejc-sqlQHuMKu/ejc-sql-0.4.1
     ejc-autocomplete.el -> ejc-autocomplete.el
     ejc-company.el -> ejc-company.el
     ejc-completion-common.el -> ejc-completion-common.el
@@ -63,9 +64,9 @@ Created ejc-sql-0.4.1.tar containing:
   ejc-sql-0.4.1/src/ejc_sql/lib.clj
   ejc-sql-0.4.1/src/ejc_sql/output.clj
   ejc-sql-0.4.1/src/ejc_sql/structure.clj
-Built ejc-sql in 3.235s, finished at Wed May 19 04:29:42 2021
+Built ejc-sql in 3.873s, finished at 2021-08-17T10:55:31+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  446 May 19 04:29 packages-stable/ejc-sql-0.4.1.entry
-220K -rw-r--r-- 1 root root 220K May 19 04:29 packages-stable/ejc-sql-0.4.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/ejc-sql-badge.svg
-4.0K -rw-r--r-- 1 root root  149 May 19 04:29 packages-stable/ejc-sql-readme.txt
+4.0K -rw-r--r-- 1 root root  446 Aug 17 10:55 packages-stable/ejc-sql-0.4.1.entry
+220K -rw-r--r-- 1 root root 220K Aug 17 10:55 packages-stable/ejc-sql-0.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:55 packages-stable/ejc-sql-badge.svg
+4.0K -rw-r--r-- 1 root root  149 Aug 17 10:55 packages-stable/ejc-sql-readme.txt

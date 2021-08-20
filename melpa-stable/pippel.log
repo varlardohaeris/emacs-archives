@@ -1,6 +1,6 @@
 Package: pippel
 Fetcher: github
-Source:  https://github.com/brotzeit/pippel.git
+Source:  https://github.com/arifer612/pippel.git
 
 Updating /mnt/store/melpa/working/pippel/
 No valid stable versions found for pippel

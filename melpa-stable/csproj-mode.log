@@ -3,4 +3,39 @@ Fetcher: github
 Source:  https://github.com/omajid/csproj-mode.git
 
 Updating /mnt/store/melpa/working/csproj-mode/
-No valid stable versions found for csproj-mode
+Checking out 269d6da8a709e88013f04a58656e986c86f891b0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/csproj-mode/
+  to /tmp/csproj-mode7dKOje/csproj-mode-0.1
+    csproj-mode.el -> csproj-mode.el
+    snippets => snippets
+Created csproj-mode-0.1.tar containing:
+  csproj-mode-0.1/
+  csproj-mode-0.1/csproj-mode-pkg.el
+  csproj-mode-0.1/csproj-mode.el
+  csproj-mode-0.1/snippets/
+  csproj-mode-0.1/snippets/csproj-mode/
+  csproj-mode-0.1/snippets/csproj-mode/Compile
+  csproj-mode-0.1/snippets/csproj-mode/Content
+  csproj-mode-0.1/snippets/csproj-mode/DefineConstants
+  csproj-mode-0.1/snippets/csproj-mode/DotNetCliToolReference
+  csproj-mode-0.1/snippets/csproj-mode/Import
+  csproj-mode-0.1/snippets/csproj-mode/IsPackable
+  csproj-mode-0.1/snippets/csproj-mode/ItemGroup
+  csproj-mode-0.1/snippets/csproj-mode/Message
+  csproj-mode-0.1/snippets/csproj-mode/None
+  csproj-mode-0.1/snippets/csproj-mode/OutputType
+  csproj-mode-0.1/snippets/csproj-mode/PackageLicenseExpression
+  csproj-mode-0.1/snippets/csproj-mode/PackageReference
+  csproj-mode-0.1/snippets/csproj-mode/Project
+  csproj-mode-0.1/snippets/csproj-mode/ProjectReference
+  csproj-mode-0.1/snippets/csproj-mode/PropertyGroup
+  csproj-mode-0.1/snippets/csproj-mode/RuntimeIdentifiers
+  csproj-mode-0.1/snippets/csproj-mode/Target
+  csproj-mode-0.1/snippets/csproj-mode/TargetFramework
+Built csproj-mode in 3.869s, finished at 2021-08-17T10:51:46+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  399 Aug 17 10:51 packages-stable/csproj-mode-0.1.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:51 packages-stable/csproj-mode-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/csproj-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   99 Aug 17 10:51 packages-stable/csproj-mode-readme.txt

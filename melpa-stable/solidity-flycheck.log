@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ethereum/emacs-solidity.git
 
 Updating /mnt/store/melpa/working/solidity-flycheck/
-Built solidity-flycheck in 3.086s, finished at Wed May 19 01:49:36 2021
+Checking out 93412f211fad7dfc3b02aa226856fc52b6a15c22
+Built solidity-flycheck in 4.034s, finished at 2021-08-17T11:34:33+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.3K May 19 01:49 packages-stable/solidity-flycheck-0.1.10.el
-4.0K -rw-r--r-- 1 root root  425 May 19 01:49 packages-stable/solidity-flycheck-0.1.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/solidity-flycheck-badge.svg
-4.0K -rw-r--r-- 1 root root  121 May 19 01:49 packages-stable/solidity-flycheck-readme.txt
+ 12K -rw-r--r-- 1 root root 8.3K Aug 17 11:34 packages-stable/solidity-flycheck-0.1.10.el
+4.0K -rw-r--r-- 1 root root  425 Aug 17 11:34 packages-stable/solidity-flycheck-0.1.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/solidity-flycheck-badge.svg
+4.0K -rw-r--r-- 1 root root  121 Aug 17 11:34 packages-stable/solidity-flycheck-readme.txt

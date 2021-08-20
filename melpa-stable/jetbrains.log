@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/emacs-php/jetbrains.el.git
 
 Updating /mnt/store/melpa/working/jetbrains/
-Built jetbrains in 6.325s, finished at Wed May 19 04:44:38 2021
+Checking out 38e136079f3f2ddbe0e8b7dec01cf6b515e897d8
+Built jetbrains in 4.441s, finished at 2021-08-17T11:12:48+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.7K May 19 04:44 packages-stable/jetbrains-0.0.2.el
-4.0K -rw-r--r-- 1 root root  409 May 19 04:44 packages-stable/jetbrains-0.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/jetbrains-badge.svg
- 32K -rw-r--r-- 1 root root  31K May 19 04:44 packages-stable/jetbrains-darcula-theme-1.0.0.el
-4.0K -rw-r--r-- 1 root root  332 May 19 04:44 packages-stable/jetbrains-darcula-theme-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:30 packages-stable/jetbrains-darcula-theme-badge.svg
-4.0K -rw-r--r-- 1 root root   65 May 19 04:44 packages-stable/jetbrains-darcula-theme-readme.txt
-4.0K -rw-r--r-- 1 root root  184 May 19 04:44 packages-stable/jetbrains-darcula-theme.log
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:44 packages-stable/jetbrains-readme.txt
+8.0K -rw-r--r-- 1 root root 5.7K Aug 17 11:12 packages-stable/jetbrains-0.0.2.el
+4.0K -rw-r--r-- 1 root root  409 Aug 17 11:12 packages-stable/jetbrains-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/jetbrains-badge.svg
+ 32K -rw-r--r-- 1 root root  31K Aug 17 11:12 packages-stable/jetbrains-darcula-theme-1.0.0.el
+4.0K -rw-r--r-- 1 root root  332 Aug 17 11:12 packages-stable/jetbrains-darcula-theme-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/jetbrains-darcula-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   65 Aug 17 11:12 packages-stable/jetbrains-darcula-theme-readme.txt
+4.0K -rw-r--r-- 1 root root  712 Aug 17 11:12 packages-stable/jetbrains-darcula-theme.log
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:12 packages-stable/jetbrains-readme.txt

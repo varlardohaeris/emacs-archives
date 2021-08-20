@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/skeeto/emacsql.git
 
 Updating /mnt/store/melpa/working/emacsql-psql/
+Checking out bcd75ba221db9e50eb0eaa7a24aa9c6a43115bcd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsql-psql/
-  to /tmp/emacsql-psqlPcJ8WK/emacsql-psql-3.0.0
+  to /tmp/emacsql-psqloYUBGa/emacsql-psql-3.0.0
     emacsql-psql.el -> emacsql-psql.el
     emacsql-pg.el -> emacsql-pg.el
 Created emacsql-psql-3.0.0.tar containing:
@@ -13,9 +14,9 @@ Created emacsql-psql-3.0.0.tar containing:
   emacsql-psql-3.0.0/emacsql-pg.el
   emacsql-psql-3.0.0/emacsql-psql-pkg.el
   emacsql-psql-3.0.0/emacsql-psql.el
-Built emacsql-psql in 2.566s, finished at Wed May 19 04:30:41 2021
+Built emacsql-psql in 4.074s, finished at 2021-08-17T10:56:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  386 May 19 04:30 packages-stable/emacsql-psql-3.0.0.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:30 packages-stable/emacsql-psql-3.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emacsql-psql-badge.svg
-4.0K -rw-r--r-- 1 root root  189 May 19 04:30 packages-stable/emacsql-psql-readme.txt
+4.0K -rw-r--r-- 1 root root  386 Aug 17 10:56 packages-stable/emacsql-psql-3.0.0.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:56 packages-stable/emacsql-psql-3.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/emacsql-psql-badge.svg
+4.0K -rw-r--r-- 1 root root  189 Aug 17 10:56 packages-stable/emacsql-psql-readme.txt

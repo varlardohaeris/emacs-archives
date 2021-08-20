@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/doublep/extmap.git
 
 Updating /mnt/store/melpa/working/extmap/
-Built extmap in 6.015s, finished at Wed May 19 04:33:09 2021
+Checking out 341e3e16e217da5a006c0859cb3a59cbc40cfb84
+Built extmap in 3.762s, finished at 2021-08-17T10:59:41+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 04:33 packages-stable/extmap-1.1.1.el
-4.0K -rw-r--r-- 1 root root  353 May 19 04:33 packages-stable/extmap-1.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/extmap-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/extmap-readme.txt
+ 28K -rw-r--r-- 1 root root  27K Aug 17 10:59 packages-stable/extmap-1.1.1.el
+4.0K -rw-r--r-- 1 root root  353 Aug 17 10:59 packages-stable/extmap-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/extmap-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/extmap-readme.txt

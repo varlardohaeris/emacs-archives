@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/ptrv/processing2-emacs.git
 
 Updating /mnt/store/melpa/working/processing-snippets/
+Checking out 228bc56369675787d60f637223b50ce3a1afebbd
 Single file snippets does not match package name processing-snippets

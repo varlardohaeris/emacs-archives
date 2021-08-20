@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/eschulte/rinari.git
 
 Updating /mnt/store/melpa/working/rinari/
-Built rinari in 3.990s, finished at Wed May 19 01:46:51 2021
+Checking out e2ed2fa55ac3435a86b1cf6a4f2d29aebc309135
+Built rinari in 4.446s, finished at 2021-08-17T11:31:33+0000
  ✓ Success:
- 44K -rw-r--r-- 1 root root  43K May 19 01:46 packages-stable/rinari-2.11.el
-4.0K -rw-r--r-- 1 root root  430 May 19 01:46 packages-stable/rinari-2.11.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/rinari-badge.svg
-4.0K -rw-r--r-- 1 root root  879 May 19 01:46 packages-stable/rinari-readme.txt
+ 44K -rw-r--r-- 1 root root  43K Aug 17 11:31 packages-stable/rinari-2.11.el
+4.0K -rw-r--r-- 1 root root  430 Aug 17 11:31 packages-stable/rinari-2.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/rinari-badge.svg
+4.0K -rw-r--r-- 1 root root  879 Aug 17 11:31 packages-stable/rinari-readme.txt

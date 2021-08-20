@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/squiter/ivy-youtube.git
 
 Updating /mnt/store/melpa/working/ivy-youtube/
-Built ivy-youtube in 3.014s, finished at Wed May 19 04:44:09 2021
+Checking out 23e1089d4c4fc32db20df14ba10078aabf117e87
+Built ivy-youtube in 3.791s, finished at 2021-08-17T11:12:28+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.5K May 19 04:44 packages-stable/ivy-youtube-0.3.2.el
-4.0K -rw-r--r-- 1 root root  434 May 19 04:44 packages-stable/ivy-youtube-0.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/ivy-youtube-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:44 packages-stable/ivy-youtube-readme.txt
+8.0K -rw-r--r-- 1 root root 6.5K Aug 17 11:12 packages-stable/ivy-youtube-0.3.2.el
+4.0K -rw-r--r-- 1 root root  434 Aug 17 11:12 packages-stable/ivy-youtube-0.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/ivy-youtube-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:12 packages-stable/ivy-youtube-readme.txt

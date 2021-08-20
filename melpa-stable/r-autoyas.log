@@ -3,21 +3,22 @@ Fetcher: github
 Source:  https://github.com/mattfidler/r-autoyas.el.git
 
 Updating /mnt/store/melpa/working/r-autoyas/
+Checking out e02c6fabf394ba13e0ba4766f73f4384bed2693b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/r-autoyas/
-  to /tmp/r-autoyase0Oz7C/r-autoyas-0.28
+  to /tmp/r-autoyasB5axwI/r-autoyas-0.28
     r-autoyas.el -> r-autoyas.el
     r-autoyas.texi -> r-autoyas.texi
-Created /tmp/r-autoyase0Oz7C/r-autoyas-0.28/r-autoyas.info
+Created /tmp/r-autoyasB5axwI/r-autoyas-0.28/r-autoyas.info
 Created r-autoyas-0.28.tar containing:
   r-autoyas-0.28/
   r-autoyas-0.28/dir
   r-autoyas-0.28/r-autoyas-pkg.el
   r-autoyas-0.28/r-autoyas.el
   r-autoyas-0.28/r-autoyas.info
-Built r-autoyas in 6.905s, finished at Wed May 19 01:45:22 2021
+Built r-autoyas in 13.146s, finished at 2021-08-17T11:29:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  368 May 19 01:45 packages-stable/r-autoyas-0.28.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:45 packages-stable/r-autoyas-0.28.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/r-autoyas-badge.svg
-4.0K -rw-r--r-- 1 root root   71 May 19 01:45 packages-stable/r-autoyas-readme.txt
+4.0K -rw-r--r-- 1 root root  368 Aug 17 11:29 packages-stable/r-autoyas-0.28.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:29 packages-stable/r-autoyas-0.28.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/r-autoyas-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Aug 17 11:29 packages-stable/r-autoyas-readme.txt

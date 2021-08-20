@@ -1,0 +1,12 @@
+Package: company-emojify
+Fetcher: github
+Source:  https://github.com/jcs-elpa/company-emojify.git
+
+Updating /mnt/store/melpa/working/company-emojify/
+Checking out 015dc2cee7c9713794efd44d398a12eb62a94185
+Built company-emojify in 3.756s, finished at 2021-08-17T10:49:54+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K Aug 17 10:49 packages-stable/company-emojify-0.1.0.el
+4.0K -rw-r--r-- 1 root root  432 Aug 17 10:49 packages-stable/company-emojify-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-emojify-badge.svg
+4.0K -rw-r--r-- 1 root root   32 Aug 17 10:49 packages-stable/company-emojify-readme.txt

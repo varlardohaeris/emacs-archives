@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/eacl.git
 
 Updating /mnt/store/melpa/working/eacl/
-Built eacl in 9.692s, finished at Wed May 19 03:13:09 2021
+Checking out origin/HEAD
+Checking out e7e4be6d2590a9e433817f6ce7420d44f0095235
+Built eacl in 5.671s, finished at 2021-08-17T09:36:11+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 03:13 packages/eacl-20201112.820.el
-4.0K -rw-r--r-- 1 root root  393 May 19 03:13 packages/eacl-20201112.820.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:13 packages/eacl-badge.svg
-4.0K -rw-r--r-- 1 root root 2.1K May 19 03:13 packages/eacl-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 09:36 packages/eacl-20210801.843.el
+4.0K -rw-r--r-- 1 root root  393 Aug 17 09:36 packages/eacl-20210801.843.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:36 packages/eacl-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 09:36 packages/eacl-readme.txt

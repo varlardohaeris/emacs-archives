@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/git-gutter-fringe.git
 
 Updating /mnt/store/melpa/working/git-gutter-fringe/
-Built git-gutter-fringe in 4.271s, finished at Wed May 19 03:25:52 2021
+Checking out origin/HEAD
+Checking out 4f19866494fa1debfa319382913e39a153431634
+Built git-gutter-fringe in 4.701s, finished at 2021-08-17T09:49:31+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.7K May 19 03:25 packages/git-gutter-fringe-20200323.2249.el
-4.0K -rw-r--r-- 1 root root  493 May 19 03:25 packages/git-gutter-fringe-20200323.2249.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:25 packages/git-gutter-fringe-badge.svg
-4.0K -rw-r--r-- 1 root root  333 May 19 03:25 packages/git-gutter-fringe-readme.txt
+8.0K -rw-r--r-- 1 root root 5.7K Aug 17 09:49 packages/git-gutter-fringe-20200323.2249.el
+4.0K -rw-r--r-- 1 root root  493 Aug 17 09:49 packages/git-gutter-fringe-20200323.2249.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:49 packages/git-gutter-fringe-badge.svg
+4.0K -rw-r--r-- 1 root root  333 Aug 17 09:49 packages/git-gutter-fringe-readme.txt

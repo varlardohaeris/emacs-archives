@@ -1,0 +1,16 @@
+(helm-bibtex .
+	     [(20210725 1510)
+	      ((bibtex-completion
+		(1 0 0))
+	       (helm
+		(1 5 5))
+	       (cl-lib
+		(0 5))
+	       (emacs
+		(24 1)))
+	      "A bibliography manager based on Helm" single
+	      ((:commit . "12079bb09f203dda5cc2dd003bd60a6ad490f762")
+	       (:authors
+		("Titus von der Malsburg" . "malsburg@posteo.de"))
+	       (:maintainer "Titus von der Malsburg" . "malsburg@posteo.de")
+	       (:url . "https://github.com/tmalsburg/helm-bibtex"))])

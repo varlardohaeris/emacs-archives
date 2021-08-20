@@ -12,25 +12,26 @@ which are many thousands of characters long, and most programming modes
 simply aren't optimised (remotely) for this scenario, so performance can
 suffer significantly.
 
-When such files are detected, the command `so-long' is automatically called,
-overriding certain minor modes and variables with performance implications
-(all configurable), in order to enhance performance in the buffer.
+When so-long detects such a file, it calls the command `so-long', which
+overrides certain minor modes and variables (you can configure the details)
+to improve performance in the buffer.
 
 The default action enables the major mode `so-long-mode' in place of the mode
 that Emacs selected.  This ensures that the original major mode cannot affect
 performance further, as well as making the so-long activity more obvious to
 the user.  These kinds of minified files are typically not intended to be
 edited, so not providing the usual editing mode in such cases will rarely be
-an issue.  However, you can reinstate the original state of the buffer by
-calling `so-long-revert' (the key binding of which is advertised when the major
-mode change occurs).  If you prefer that the major mode not be changed, you
-can customize the `so-long-minor-mode' action.
+an issue; however you can restore the buffer to its original state by calling
+`so-long-revert' (the key binding of which is advertised when the major mode
+change occurs).  If you prefer that the major mode not be changed in the
+first place, there is a `so-long-minor-mode' action available, which you can
+select by customizing the `so-long-action' user option.
 
 The user options `so-long-action' and `so-long-action-alist' determine what
-actions `so-long' and `so-long-revert' will take.  This allows you to configure
-alternative actions (including custom actions).  As well as
-the major and minor mode actions provided by this library, `longlines-mode'
-is also supported by default as an alternative action.
+`so-long' and `so-long-revert' will do, enabling you to configure alternative
+actions (including custom actions).  As well as the major and minor mode
+actions provided by this library, `longlines-mode' is also supported by
+default as an alternative action.
 
 Note that while the measures taken can improve performance dramatically when
 dealing with such files, this library does not have any effect on the
@@ -98,9 +99,9 @@ If the behaviour ever triggers when you did not want it to, you can use the
 Use M-x customize-group RET so-long RET
 (or M-x so-long-customize RET)
 
-The user options `so-long-target-modes', `so-long-threshold', and
-`so-long-max-lines' determine whether action will be taken automatically when
-visiting a file, and `so-long-action' determines what will be done.
+The user options `so-long-target-modes' and `so-long-threshold' determine
+whether action will be taken automatically when visiting a file, and
+`so-long-action' determines what will be done.
 
 * Actions and menus
 -------------------
@@ -123,7 +124,7 @@ a separate mode line construct when some other major mode is active.
 * Files with a file-local 'mode'
 --------------------------------
 A file-local major mode is likely to be safe even if long lines are detected
-(as the author of the file would otherwise be unlikely to have set that mode),
+(the author of the file would otherwise be unlikely to have set that mode),
 and so these files are treated as special cases.  When a file-local 'mode' is
 present, the function defined by the `so-long-file-local-mode-function' user
 option is called.  The default value will cause the `so-long-minor-mode'
@@ -183,6 +184,24 @@ the buffer-local value for each variable in the list is set to the associated
 value in the alist.  Use this to enforce values which will improve
 performance or otherwise avoid undesirable behaviours.  If `so-long-revert'
 is called, then the original values are restored.
+
+* Retaining minor modes and settings when switching to `so-long-mode'
+---------------------------------------------------------------------
+A consequence of switching to a new major mode is that many buffer-local
+minor modes and variables from the original major mode will be disabled.
+For performance purposes this is a desirable trait of `so-long-mode', but
+specified modes and variables can also be preserved across the major mode
+transition by customizing the `so-long-mode-preserved-minor-modes' and
+`so-long-mode-preserved-variables' user options.
+
+When `so-long-mode' is called, the states of any modes and variables
+configured by these options are remembered in the original major mode, and
+reinstated after switching to `so-long-mode'.  Likewise, if `so-long-revert'
+is used to switch back to the original major mode, these modes and variables
+are again set to the same states.
+
+The default values for these options ensure that if `view-mode' was active
+in the original mode, then it will also be active in `so-long-mode'.
 
 * Hooks
 -------
@@ -258,8 +277,9 @@ original major mode, and therefore major mode hooks can be used to control
 the criteria for calling `so-long' in any given mode (plus its derivatives)
 by setting buffer-local values for the variables in question.  This includes
 `so-long-predicate' itself, as well as any variables used by the predicate
-when determining the result.  By default this means `so-long-max-lines',
-`so-long-skip-leading-comments', and `so-long-threshold'.  E.g.:
+when determining the result.  By default this means `so-long-threshold' and
+possibly also `so-long-max-lines' and `so-long-skip-leading-comments' (these
+latter two are not used by default starting from Emacs 28.1).  E.g.:
 
   (add-hook 'js-mode-hook 'my-js-mode-hook)
 
@@ -361,6 +381,14 @@ versions of Emacs, and can be set to `so-long-mode' if desired.
 
 * Change Log:
 
+1.1.1 - Identical to 1.1, but fixing an incorrect GNU ELPA release.
+1.1   - Utilise `buffer-line-statistics' in Emacs 28+, with the new
+        `so-long-predicate' function `so-long-statistics-excessive-p'.
+      - Increase `so-long-threshold' from 250 to 10,000.
+      - Increase `so-long-max-lines' from 5 to 500.
+      - Include `fundamental-mode' in `so-long-target-modes'.
+      - New user option `so-long-mode-preserved-minor-modes'.
+      - New user option `so-long-mode-preserved-variables'.
 1.0   - Included in Emacs 27.1, and in GNU ELPA for prior versions of Emacs.
       - New global mode `global-so-long-mode' to enable/disable the library.
       - New user option `so-long-action'.

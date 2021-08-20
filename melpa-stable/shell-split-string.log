@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/10sr/shell-split-string-el.git
 
 Updating /mnt/store/melpa/working/shell-split-string/
-Built shell-split-string in 2.994s, finished at Wed May 19 01:48:16 2021
+Checking out 6d01c9249853fe1f8fd925ee80f97232d4e3e5eb
+Built shell-split-string in 3.752s, finished at 2021-08-17T11:33:09+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.0K May 19 01:48 packages-stable/shell-split-string-0.1.el
-4.0K -rw-r--r-- 1 root root  419 May 19 01:48 packages-stable/shell-split-string-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shell-split-string-badge.svg
-4.0K -rw-r--r-- 1 root root  394 May 19 01:48 packages-stable/shell-split-string-readme.txt
+8.0K -rw-r--r-- 1 root root 6.0K Aug 17 11:33 packages-stable/shell-split-string-0.1.el
+4.0K -rw-r--r-- 1 root root  419 Aug 17 11:33 packages-stable/shell-split-string-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shell-split-string-badge.svg
+4.0K -rw-r--r-- 1 root root  394 Aug 17 11:33 packages-stable/shell-split-string-readme.txt

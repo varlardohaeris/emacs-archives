@@ -55,6 +55,14 @@
    `Info-toggle-fontify-emphasis',
    `Info-toggle-fontify-glossary-words',
    `Info-toggle-fontify-isolated-quote',
+   `Info-toggle-fontify-local-angle-bracketed',
+   `Info-toggle-fontify-local-angle-bracketed-same-line',
+   `Info-toggle-fontify-local-custom-delimited',
+   `Info-toggle-fontify-local-emphasis',
+   `Info-toggle-fontify-local-isolated-backquote',
+   `Info-toggle-fontify-local-isolated-quote',
+   `Info-toggle-fontify-local-quotation',
+   `Info-toggle-fontify-local-quotation-same-line',
    `Info-toggle-fontify-reference-items',
    `Info-toggle-fontify-visited-nodes',
    `Info-toggle-node-access-invokes-bookmark' (Emacs 24.4+),
@@ -77,8 +85,8 @@
 
  Options (user variables) defined here:
 
-   `Info-bookmarked-node-xref-faces' (Emacs 24.2+),
-   `Info-bookmark-use-only-node-not-file-flag',
+   `Info-apropos-manuals', `Info-bookmarked-node-xref-faces' (Emacs
+   24.2+), `Info-bookmark-use-only-node-not-file-flag',
    `Info-breadcrumbs-in-header-flag', `info-buffer-name-function',
    `Info-display-node-header-fn', `Info-emphasis-regexp',
    `Info-fit-frame-flag', `Info-fontify-angle-bracketed-flag',
@@ -99,27 +107,28 @@
 
  Non-interactive functions defined here:
 
-   `Info--member-string-nocase', `Info--pop-to-buffer-same-window',
-   `info--user-search-failed', `Info-bookmark-for-node',
-   `Info-bookmark-name-at-point', `Info-bookmark-named-at-point',
-   `Info-bookmark-name-for-node',
+   `Info--manuals', `Info--member-string-nocase',
+   `Info--pop-to-buffer-same-window', `info--user-search-failed',
+   `Info-bookmark-for-node', `Info-bookmark-name-at-point',
+   `Info-bookmark-named-at-point', `Info-bookmark-name-for-node',
    `info-buffer-name-function-default',
    `Info-case-insensitive-string=',
    `Info-case-insensitive-string-hash', `info-custom-delim-1',
    `info-custom-delim-2', `Info-display-node-default-header',
    `info-fallback-manual-for-glossary',
    `Info-fontify-custom-delimited', `Info-fontify-glossary-words',
-   `Info-fontify-indented-text', `Info-fontify-quotations',
-   `Info-fontify-reference-items',
+   `Info-fontify-indented-text', `info-fontifying-regexp',
+   `Info-fontify-quotations', `Info-fontify-reference-items',
    `Info-get-glossary-hash-table-create',
    `Info-goto-glossary-definition', `Info-no-glossary-manuals',
    `Info-insert-breadcrumbs-in-mode-line', `Info-isearch-search-p',
+   `Info-manual-string', `Info-manual-symbol',
    `Info-node-name-at-point', `Info-read-bookmarked-node-name',
    `Info-remap-default-face-to-variable-pitch',
    `Info-restore-history-list' (Emacs 24.4+),
    `Info-save-history-list' (Emacs 24.4+), `Info-search-beg',
    `Info-search-end', `Info-toc-outline-find-node',
-   `Info-toc-outline-refontify-links'.
+   `Info-toc-outline-refontify-links', `Info-toggle-fontify-local'.
 
  Internal variables defined here:
 
@@ -129,8 +138,9 @@
    `info-good-fixed-pitch-font-families',
    `info-isolated-backquote-regexp', `info-isolated-quote-regexp',
    `Info-link-faces', `Info-merged-map', `Info-mode-syntax-table',
-   `info-quotation-regexp', `info-quotation-same-line-regexp',
-   `info-quoted+<>-regexp', `info-quoted+<>-same-line-regexp',
+   `info-nomatch', `info-quotation-regexp',
+   `info-quotation-same-line-regexp', `info-quoted+<>-regexp',
+   `info-quoted+<>-same-line-regexp',
    `info-remap-default-face-cookie', `Info-toc-outline-map'.
 
 
@@ -354,7 +364,7 @@
    - Text between two delimiters that you specify, if the car of
      option `Info-fontify-custom-delimited' is non-nil.
 
-   - Any extra highglighting you want in a node, as defined by the
+   - Any extra highlighting you want in a node, as defined by the
      value of variable `Info-fontify-extra-function'.
 
    - Be aware that any such highlighting is not 100% foolproof.
@@ -367,6 +377,45 @@
      or an `Info-toggle-fontify-*' command.  For example, command
      `Info-toggle-fontify-emphasis' toggles option
      `Info-fontify-emphasis-flag'.
+
+   - You can define specific highlighting for individual manuals.
+     To do this, you `put' the regexp you want for a given regexp
+     variable on the manual symbol.  For example, if MY-REGEXP is a
+     regexp string then this defines the regexp to use for a
+     quotation as being MY-REGEXP, but only for the Elisp manual:
+
+       (put 'elisp 'info-quotation-regexp MY-REGEXP)
+
+     Then you can toggle that highlighting separately, using
+     command `Info-toggle-fontify-local-quotation'.  There's such a
+     command for each regexp variable.  When you toggle a
+     particular kind of manual-local highlighting OFF in the
+     current manual, the global highlighting of that kind takes
+     over there.
+
+     Instead of explicitly setting the variable value for a manual
+     using `put', you can just use the local toggle command (such
+     as `Info-toggle-fontify-local-quotation') with a prefix arg.
+     That prompts you for the regexp to use locally, for the
+     current manual.
+
+     You can also use such local highlighting to just turn OFF the
+     global highlighting for a given regexp variable.  To do that,
+     use a prefix arg with the toggle command, and when prompted
+     for the regexp, type `$-'.  That's a regexp that cannot match
+     anything.  When using Lisp, use the value of constant
+     `info-nomatch' - that prevents even trying to match. For
+     example:
+
+       (put 'some-manual 'info-isolated-quote-regexp info-nomatch)
+
+     This is already done by default for the isolated-quote regexp
+     variables, for several manuals that don't involve (much) Elisp
+     code with such chars: `ada', `bovine', `calc', `emacs-gnutls',
+     `epa', `eshell', `eww', `info', `nxml', `pcl-cvs', `smtpmail',
+     `srecode', `todo-mode', `wisent'.  The manuals you have may
+     well be different from those Emacs provides by default, and
+     you might want to add or remove such highlighting.
 
  * Optionally showing breadcrumbs in the mode line or the header
    line, or both. See where you are in the Info hierarchy, and

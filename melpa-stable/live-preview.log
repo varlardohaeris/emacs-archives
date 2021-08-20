@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lassik/emacs-live-preview.git
 
 Updating /mnt/store/melpa/working/live-preview/
-Built live-preview in 3.020s, finished at Wed May 19 01:32:37 2021
+Checking out ed18b0c7bbd10bf89e8054ff6655f0270447ddd9
+Built live-preview in 3.489s, finished at 2021-08-17T11:15:47+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.3K May 19 01:32 packages-stable/live-preview-0.1.2.el
-4.0K -rw-r--r-- 1 root root  387 May 19 01:32 packages-stable/live-preview-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/live-preview-badge.svg
-4.0K -rw-r--r-- 1 root root  698 May 19 01:32 packages-stable/live-preview-readme.txt
+ 12K -rw-r--r-- 1 root root 8.3K Aug 17 11:15 packages-stable/live-preview-0.1.2.el
+4.0K -rw-r--r-- 1 root root  387 Aug 17 11:15 packages-stable/live-preview-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/live-preview-badge.svg
+4.0K -rw-r--r-- 1 root root  698 Aug 17 11:15 packages-stable/live-preview-readme.txt

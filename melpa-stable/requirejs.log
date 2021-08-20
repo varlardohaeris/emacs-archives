@@ -3,11 +3,12 @@ Fetcher: github
 Source:  https://github.com/joeheyming/requirejs-emacs.git
 
 Updating /mnt/store/melpa/working/requirejs/
+Checking out 7d73453653b6b97cca59fcde8d529b5a228fbc01
 Note: requirejs :files spec is equivalent to the default.
-Built requirejs in 3.001s, finished at Wed May 19 01:46:33 2021
+Built requirejs in 3.772s, finished at 2021-08-17T11:31:14+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  22K May 19 01:46 packages-stable/requirejs-1.1.el
-4.0K -rw-r--r-- 1 root root  498 May 19 01:46 packages-stable/requirejs-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/requirejs-badge.svg
-4.0K -rw-r--r-- 1 root root  197 May 19 01:46 packages-stable/requirejs-mode.log
-4.0K -rw-r--r-- 1 root root  941 May 19 01:46 packages-stable/requirejs-readme.txt
+ 24K -rw-r--r-- 1 root root  22K Aug 17 11:31 packages-stable/requirejs-1.1.el
+4.0K -rw-r--r-- 1 root root  498 Aug 17 11:31 packages-stable/requirejs-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/requirejs-badge.svg
+4.0K -rw-r--r-- 1 root root  197 Aug 17 11:31 packages-stable/requirejs-mode.log
+4.0K -rw-r--r-- 1 root root  941 Aug 17 11:31 packages-stable/requirejs-readme.txt

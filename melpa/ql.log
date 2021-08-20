@@ -3,9 +3,7 @@ Fetcher: github
 Source:  https://github.com/ieure/ql-el.git
 
 Updating /mnt/store/melpa/working/ql/
-Built ql in 4.277s, finished at Wed May 19 03:58:36 2021
- ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 03:58 packages/ql-20180418.2020.el
-4.0K -rw-r--r-- 1 root root  344 May 19 03:58 packages/ql-20180418.2020.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:58 packages/ql-badge.svg
-4.0K -rw-r--r-- 1 root root   24 May 19 03:58 packages/ql-readme.txt
+Command '(env LC_ALL=C git fetch -f --all --tags)' exited with non-zero status 1: Fetching origin
+fatal: could not read Username for 'https://github.com': No such device or address
+error: Could not fetch origin
+

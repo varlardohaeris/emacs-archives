@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/stan-dev/stan-mode.git
 
 Updating /mnt/store/melpa/working/stan-snippets/
+Checking out 2dd330604563d143031fc8ffd516266217aa1f9b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/stan-snippets/
-  to /tmp/stan-snippetsXmPHW4/stan-snippets-10.2.0
+  to /tmp/stan-snippetsufK2wm/stan-snippets-10.2.0
   ! stan-snippets/stan-snippets.el -> stan-snippets.el
   ! stan-snippets/snippets/stan-mode/.yas-make-groups -> snippets/stan-mode/.yas-make-groups
   ! stan-snippets/snippets/stan-mode/.yas-parents -> snippets/stan-mode/.yas-parents
@@ -562,9 +563,9 @@ Created stan-snippets-10.2.0.tar containing:
   stan-snippets-10.2.0/snippets/stan-mode/while.yasnippet
   stan-snippets-10.2.0/stan-snippets-pkg.el
   stan-snippets-10.2.0/stan-snippets.el
-Built stan-snippets in 6.150s, finished at Wed May 19 01:50:21 2021
+Built stan-snippets in 7.273s, finished at 2021-08-17T11:35:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  508 May 19 01:50 packages-stable/stan-snippets-10.2.0.entry
-532K -rw-r--r-- 1 root root 530K May 19 01:50 packages-stable/stan-snippets-10.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/stan-snippets-badge.svg
-4.0K -rw-r--r-- 1 root root  133 May 19 01:50 packages-stable/stan-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root  508 Aug 17 11:35 packages-stable/stan-snippets-10.2.0.entry
+532K -rw-r--r-- 1 root root 530K Aug 17 11:35 packages-stable/stan-snippets-10.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/stan-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Aug 17 11:35 packages-stable/stan-snippets-readme.txt

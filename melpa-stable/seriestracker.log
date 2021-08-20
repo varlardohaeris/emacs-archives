@@ -1,0 +1,7 @@
+Package: seriestracker
+Fetcher: github
+Source:  https://github.com/MaximeWack/seriestracker.git
+
+Updating /mnt/store/melpa/working/seriestracker/
+Checking out 2a9203bac6f29315de865aa20dae7c492a37cd94
+Wrong type argument: package-desc, nil

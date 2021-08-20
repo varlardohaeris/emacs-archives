@@ -3,25 +3,28 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/cliphist.git
 
 Updating /mnt/store/melpa/working/cliphist/
+Checking out a794c95e2f70a9b042af7bd07e2483fde75f2a2e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cliphist/
-  to /tmp/cliphistPvYhhl/cliphist-0.5.7
+  to /tmp/cliphistNPQY0B/cliphist-0.6.2
     cliphist-clipit.el -> cliphist-clipit.el
     cliphist-flycut.el -> cliphist-flycut.el
     cliphist-greenclip.el -> cliphist-greenclip.el
     cliphist-parcellite.el -> cliphist-parcellite.el
+    cliphist-sdk.el -> cliphist-sdk.el
     cliphist.el -> cliphist.el
-Created cliphist-0.5.7.tar containing:
-  cliphist-0.5.7/
-  cliphist-0.5.7/cliphist-clipit.el
-  cliphist-0.5.7/cliphist-flycut.el
-  cliphist-0.5.7/cliphist-greenclip.el
-  cliphist-0.5.7/cliphist-parcellite.el
-  cliphist-0.5.7/cliphist-pkg.el
-  cliphist-0.5.7/cliphist.el
-Built cliphist in 3.230s, finished at Wed May 19 04:23:31 2021
+Created cliphist-0.6.2.tar containing:
+  cliphist-0.6.2/
+  cliphist-0.6.2/cliphist-clipit.el
+  cliphist-0.6.2/cliphist-flycut.el
+  cliphist-0.6.2/cliphist-greenclip.el
+  cliphist-0.6.2/cliphist-parcellite.el
+  cliphist-0.6.2/cliphist-pkg.el
+  cliphist-0.6.2/cliphist-sdk.el
+  cliphist-0.6.2/cliphist.el
+Built cliphist in 3.486s, finished at 2021-08-17T10:48:56+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  437 May 19 04:23 packages-stable/cliphist-0.5.7.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:23 packages-stable/cliphist-0.5.7.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cliphist-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cliphist-readme.txt
+4.0K -rw-r--r-- 1 root root  391 Aug 17 10:48 packages-stable/cliphist-0.6.2.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:48 packages-stable/cliphist-0.6.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/cliphist-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 10:48 packages-stable/cliphist-readme.txt

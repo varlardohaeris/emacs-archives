@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/elbank.git
 
 Updating /mnt/store/melpa/working/elbank/
+Checking out fee129acc4351a779efb4fd8cdc9c050f865929f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elbank/
-  to /tmp/elbankLSG3yF/elbank-1.2
+  to /tmp/elbankxn9WKx/elbank-1.2
     elbank-boobank.el -> elbank-boobank.el
     elbank-budget.el -> elbank-budget.el
     elbank-common.el -> elbank-common.el
@@ -27,9 +28,9 @@ Created elbank-1.2.tar containing:
   elbank-1.2/elbank-report.el
   elbank-1.2/elbank-transaction.el
   elbank-1.2/elbank.el
-Built elbank in 2.843s, finished at Wed May 19 04:29:53 2021
+Built elbank in 3.495s, finished at 2021-08-17T10:55:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  326 May 19 04:29 packages-stable/elbank-1.2.entry
- 80K -rw-r--r-- 1 root root  80K May 19 04:29 packages-stable/elbank-1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/elbank-badge.svg
-4.0K -rw-r--r-- 1 root root  407 May 19 04:29 packages-stable/elbank-readme.txt
+4.0K -rw-r--r-- 1 root root  326 Aug 17 10:55 packages-stable/elbank-1.2.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 10:55 packages-stable/elbank-1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:55 packages-stable/elbank-badge.svg
+4.0K -rw-r--r-- 1 root root  407 Aug 17 10:55 packages-stable/elbank-readme.txt

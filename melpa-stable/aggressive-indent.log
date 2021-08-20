@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Malabarba/aggressive-indent-mode.git
 
 Updating /mnt/store/melpa/working/aggressive-indent/
-Built aggressive-indent in 3.301s, finished at Wed May 19 04:18:55 2021
+Checking out cb416faf61c46977c06cf9d99525b04dc109a33c
+Built aggressive-indent in 3.881s, finished at 2021-08-17T10:43:40+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  20K May 19 04:18 packages-stable/aggressive-indent-1.9.0.el
-4.0K -rw-r--r-- 1 root root  506 May 19 04:18 packages-stable/aggressive-indent-1.9.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/aggressive-indent-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 04:18 packages-stable/aggressive-indent-readme.txt
+ 24K -rw-r--r-- 1 root root  23K Aug 17 10:43 packages-stable/aggressive-indent-1.10.0.el
+4.0K -rw-r--r-- 1 root root  477 Aug 17 10:43 packages-stable/aggressive-indent-1.10.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/aggressive-indent-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 10:43 packages-stable/aggressive-indent-readme.txt

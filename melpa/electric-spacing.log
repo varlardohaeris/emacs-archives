@@ -3,29 +3,33 @@ Fetcher: github
 Source:  https://github.com/xwl/electric-spacing.git
 
 Updating /mnt/store/melpa/working/electric-spacing/
+Checking out origin/HEAD
+Checking out 1be87078a689d967cb2d6654659fb49427926d62
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/electric-spacing/
-  to /tmp/electric-spacingLmitVR/electric-spacing-20210430.1714
+  to /tmp/electric-spacingGXeO1f/electric-spacing-20210625.1722
     electric-spacing-cc-mode.el -> electric-spacing-cc-mode.el
     electric-spacing-emacs-lisp-mode.el -> electric-spacing-emacs-lisp-mode.el
     electric-spacing-init.el -> electric-spacing-init.el
+    electric-spacing-org-mode.el -> electric-spacing-org-mode.el
     electric-spacing-python-mode.el -> electric-spacing-python-mode.el
     electric-spacing-rust-mode.el -> electric-spacing-rust-mode.el
     electric-spacing-text-mode.el -> electric-spacing-text-mode.el
     electric-spacing.el -> electric-spacing.el
-Created electric-spacing-20210430.1714.tar containing:
-  electric-spacing-20210430.1714/
-  electric-spacing-20210430.1714/electric-spacing-cc-mode.el
-  electric-spacing-20210430.1714/electric-spacing-emacs-lisp-mode.el
-  electric-spacing-20210430.1714/electric-spacing-init.el
-  electric-spacing-20210430.1714/electric-spacing-pkg.el
-  electric-spacing-20210430.1714/electric-spacing-python-mode.el
-  electric-spacing-20210430.1714/electric-spacing-rust-mode.el
-  electric-spacing-20210430.1714/electric-spacing-text-mode.el
-  electric-spacing-20210430.1714/electric-spacing.el
-Built electric-spacing in 5.299s, finished at Wed May 19 03:14:51 2021
+Created electric-spacing-20210625.1722.tar containing:
+  electric-spacing-20210625.1722/
+  electric-spacing-20210625.1722/electric-spacing-cc-mode.el
+  electric-spacing-20210625.1722/electric-spacing-emacs-lisp-mode.el
+  electric-spacing-20210625.1722/electric-spacing-init.el
+  electric-spacing-20210625.1722/electric-spacing-org-mode.el
+  electric-spacing-20210625.1722/electric-spacing-pkg.el
+  electric-spacing-20210625.1722/electric-spacing-python-mode.el
+  electric-spacing-20210625.1722/electric-spacing-rust-mode.el
+  electric-spacing-20210625.1722/electric-spacing-text-mode.el
+  electric-spacing-20210625.1722/electric-spacing.el
+Built electric-spacing in 4.348s, finished at 2021-08-17T09:37:51+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  293 May 19 03:14 packages/electric-spacing-20210430.1714.entry
- 40K -rw-r--r-- 1 root root  40K May 19 03:14 packages/electric-spacing-20210430.1714.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:14 packages/electric-spacing-badge.svg
-4.0K -rw-r--r-- 1 root root  428 May 19 03:14 packages/electric-spacing-readme.txt
+4.0K -rw-r--r-- 1 root root  293 Aug 17 09:37 packages/electric-spacing-20210625.1722.entry
+ 44K -rw-r--r-- 1 root root  40K Aug 17 09:37 packages/electric-spacing-20210625.1722.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:37 packages/electric-spacing-badge.svg
+4.0K -rw-r--r-- 1 root root  428 Aug 17 09:37 packages/electric-spacing-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/plandes/choice-program.git
 
 Updating /mnt/store/melpa/working/choice-program/
+Checking out 8a7c81102cb30e9ce6d432a08d87cccaee07407f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/choice-program/
-  to /tmp/choice-programE4uKR2/choice-program-0.13
+  to /tmp/choice-programIzYQuk/choice-program-0.13
     choice-program-complete.el -> choice-program-complete.el
     choice-program.el -> choice-program.el
 Created choice-program-0.13.tar containing:
@@ -13,9 +14,9 @@ Created choice-program-0.13.tar containing:
   choice-program-0.13/choice-program-complete.el
   choice-program-0.13/choice-program-pkg.el
   choice-program-0.13/choice-program.el
-Built choice-program in 3.418s, finished at Wed May 19 04:23:13 2021
+Built choice-program in 5.536s, finished at 2021-08-17T10:48:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  350 May 19 04:23 packages-stable/choice-program-0.13.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:23 packages-stable/choice-program-0.13.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/choice-program-badge.svg
-4.0K -rw-r--r-- 1 root root   90 May 19 04:23 packages-stable/choice-program-readme.txt
+4.0K -rw-r--r-- 1 root root  350 Aug 17 10:48 packages-stable/choice-program-0.13.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:48 packages-stable/choice-program-0.13.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/choice-program-badge.svg
+4.0K -rw-r--r-- 1 root root   90 Aug 17 10:48 packages-stable/choice-program-readme.txt

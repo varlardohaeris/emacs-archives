@@ -1,20 +1,22 @@
 Package: pippel
 Fetcher: github
-Source:  https://github.com/brotzeit/pippel.git
+Source:  https://github.com/arifer612/pippel.git
 
 Updating /mnt/store/melpa/working/pippel/
+Checking out origin/HEAD
+Checking out 2480fd376b8f69691b45b0141fca0d900a5ac64a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pippel/
-  to /tmp/pippel07ZJRS/pippel-20180710.856
+  to /tmp/pippelzTEUsD/pippel-20210614.1655
     pippel.el -> pippel.el
     pippel.py -> pippel.py
-Created pippel-20180710.856.tar containing:
-  pippel-20180710.856/
-  pippel-20180710.856/pippel-pkg.el
-  pippel-20180710.856/pippel.el
-  pippel-20180710.856/pippel.py
-Built pippel in 3.796s, finished at Wed May 19 03:55:44 2021
+Created pippel-20210614.1655.tar containing:
+  pippel-20210614.1655/
+  pippel-20210614.1655/pippel-pkg.el
+  pippel-20210614.1655/pippel.el
+  pippel-20210614.1655/pippel.py
+Built pippel in 4.239s, finished at 2021-08-17T10:20:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  383 May 19 03:55 packages/pippel-20180710.856.entry
- 20K -rw-r--r-- 1 root root  20K May 19 03:55 packages/pippel-20180710.856.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:55 packages/pippel-badge.svg
+4.0K -rw-r--r-- 1 root root  372 Aug 17 10:20 packages/pippel-20210614.1655.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:20 packages/pippel-20210614.1655.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:20 packages/pippel-badge.svg

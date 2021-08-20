@@ -3,24 +3,26 @@ Fetcher: github
 Source:  https://github.com/alphapapa/org-ql.git
 
 Updating /mnt/store/melpa/working/org-ql/
+Checking out origin/HEAD
+Checking out 94f9e6f3031b32cf5e2149beca7074807235dcb0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-ql/
-  to /tmp/org-qlr1BQOF/org-ql-20201213.1358
+  to /tmp/org-qlcnEZqm/org-ql-20210713.233
     org-ql-search.el -> org-ql-search.el
     org-ql-view.el -> org-ql-view.el
     org-ql.el -> org-ql.el
     org-ql.info -> org-ql.info
-Created org-ql-20201213.1358.tar containing:
-  org-ql-20201213.1358/
-  org-ql-20201213.1358/dir
-  org-ql-20201213.1358/org-ql-pkg.el
-  org-ql-20201213.1358/org-ql-search.el
-  org-ql-20201213.1358/org-ql-view.el
-  org-ql-20201213.1358/org-ql.el
-  org-ql-20201213.1358/org-ql.info
-Built org-ql in 4.646s, finished at Wed May 19 03:51:07 2021
+Created org-ql-20210713.233.tar containing:
+  org-ql-20210713.233/
+  org-ql-20210713.233/dir
+  org-ql-20210713.233/org-ql-pkg.el
+  org-ql-20210713.233/org-ql-search.el
+  org-ql-20210713.233/org-ql-view.el
+  org-ql-20210713.233/org-ql.el
+  org-ql-20210713.233/org-ql.info
+Built org-ql in 5.037s, finished at 2021-08-17T10:15:47+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  641 May 19 03:51 packages/org-ql-20201213.1358.entry
-240K -rw-r--r-- 1 root root 240K May 19 03:51 packages/org-ql-20201213.1358.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:51 packages/org-ql-badge.svg
-4.0K -rw-r--r-- 1 root root  272 May 19 03:51 packages/org-ql-readme.txt
+4.0K -rw-r--r-- 1 root root  609 Aug 17 10:15 packages/org-ql-20210713.233.entry
+260K -rw-r--r-- 1 root root 260K Aug 17 10:15 packages/org-ql-20210713.233.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:15 packages/org-ql-badge.svg
+4.0K -rw-r--r-- 1 root root  272 Aug 17 10:15 packages/org-ql-readme.txt

@@ -3,9 +3,22 @@ Fetcher: github
 Source:  https://github.com/magit/magit.git
 
 Updating /mnt/store/melpa/working/magit-section/
-Built magit-section in 3.222s, finished at Wed May 19 01:33:41 2021
+Checking out 38ac3fe82352dd6007c5103897abd2ef456b7158
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/magit-section/
+  to /tmp/magit-sectionAPxjxb/magit-section-3.2.1
+  ! lisp/magit-section.el -> magit-section.el
+  ! Documentation/magit-section.texi -> magit-section.texi
+Created /tmp/magit-sectionAPxjxb/magit-section-3.2.1/magit-section.info
+Created magit-section-3.2.1.tar containing:
+  magit-section-3.2.1/
+  magit-section-3.2.1/dir
+  magit-section-3.2.1/magit-section-pkg.el
+  magit-section-3.2.1/magit-section.el
+  magit-section-3.2.1/magit-section.info
+Built magit-section in 8.313s, finished at 2021-08-17T11:17:06+0000
  ✓ Success:
- 60K -rw-r--r-- 1 root root  60K May 19 01:33 packages-stable/magit-section-2.90.1.el
-4.0K -rw-r--r-- 1 root root  248 May 19 01:33 packages-stable/magit-section-2.90.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-section-badge.svg
-4.0K -rw-r--r-- 1 root root  189 May 19 01:33 packages-stable/magit-section-readme.txt
+4.0K -rw-r--r-- 1 root root  363 Aug 17 11:17 packages-stable/magit-section-3.2.1.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:17 packages-stable/magit-section-3.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/magit-section-badge.svg
+4.0K -rw-r--r-- 1 root root  255 Aug 17 11:17 packages-stable/magit-section-readme.txt

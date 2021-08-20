@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/shpec/shpec-mode.git
 
 Updating /mnt/store/melpa/working/shpec-mode/
-Built shpec-mode in 3.375s, finished at Wed May 19 01:48:25 2021
+Checking out 76bccd63e3b70233a6c9ca0798dd03550952cc76
+Built shpec-mode in 4.074s, finished at 2021-08-17T11:33:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.1K May 19 01:48 packages-stable/shpec-mode-0.1.0.el
-4.0K -rw-r--r-- 1 root root  374 May 19 01:48 packages-stable/shpec-mode-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shpec-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  154 May 19 01:48 packages-stable/shpec-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 11:33 packages-stable/shpec-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:33 packages-stable/shpec-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shpec-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  154 Aug 17 11:33 packages-stable/shpec-mode-readme.txt

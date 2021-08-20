@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hisea/elixir-yasnippets.git
 
 Updating /mnt/store/melpa/working/elixir-yasnippets/
+Checking out 6b55c88ce483932f226b6bca0212b589d1d393ea
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elixir-yasnippets/
-  to /tmp/elixir-yasnippetsz7ctD8/elixir-yasnippets-0.0.1
+  to /tmp/elixir-yasnippetsP4Eesd/elixir-yasnippets-0.0.1
     elixir-yasnippets-pkg.el -> elixir-yasnippets-pkg.el
     elixir-yasnippets.el -> elixir-yasnippets.el
     snippets => snippets
@@ -25,8 +26,8 @@ Created elixir-yasnippets-0.0.1.tar containing:
   elixir-yasnippets-0.0.1/snippets/elixir-mode/doc
   elixir-yasnippets-0.0.1/snippets/elixir-mode/mdoc
   elixir-yasnippets-0.0.1/snippets/elixir-mode/pry
-Built elixir-yasnippets in 3.265s, finished at Wed May 19 04:30:17 2021
+Built elixir-yasnippets in 3.578s, finished at 2021-08-17T10:56:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  325 May 19 04:30 packages-stable/elixir-yasnippets-0.0.1.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:30 packages-stable/elixir-yasnippets-0.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elixir-yasnippets-badge.svg
+4.0K -rw-r--r-- 1 root root  325 Aug 17 10:56 packages-stable/elixir-yasnippets-0.0.1.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:56 packages-stable/elixir-yasnippets-0.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elixir-yasnippets-badge.svg

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/philjackson/xmlgen.git
 
 Updating /mnt/store/melpa/working/xmlgen/
-Built xmlgen in 2.902s, finished at Wed May 19 01:56:00 2021
+Checking out dba66681f0c5e621a9e70e8afb34903c9ffe93c4
+Built xmlgen in 3.460s, finished at 2021-08-17T11:42:10+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.2K May 19 01:56 packages-stable/xmlgen-0.5.el
-4.0K -rw-r--r-- 1 root root  247 May 19 01:56 packages-stable/xmlgen-0.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/xmlgen-badge.svg
-4.0K -rw-r--r-- 1 root root  562 May 19 01:56 packages-stable/xmlgen-readme.txt
+8.0K -rw-r--r-- 1 root root 5.2K Aug 17 11:42 packages-stable/xmlgen-0.5.el
+4.0K -rw-r--r-- 1 root root  247 Aug 17 11:42 packages-stable/xmlgen-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/xmlgen-badge.svg
+4.0K -rw-r--r-- 1 root root  562 Aug 17 11:42 packages-stable/xmlgen-readme.txt

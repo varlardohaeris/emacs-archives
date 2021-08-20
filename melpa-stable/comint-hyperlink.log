@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/matthewbauer/comint-hyperlink.git
 
 Updating /mnt/store/melpa/working/comint-hyperlink/
-Built comint-hyperlink in 3.527s, finished at Wed May 19 04:24:08 2021
+Checking out a7878825788ff6b9d6b8a5adf0214a028bad895e
+Built comint-hyperlink in 4.183s, finished at 2021-08-17T10:49:37+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.0K May 19 04:24 packages-stable/comint-hyperlink-0.1.6.el
-4.0K -rw-r--r-- 1 root root  462 May 19 04:24 packages-stable/comint-hyperlink-0.1.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/comint-hyperlink-badge.svg
-4.0K -rw-r--r-- 1 root root  223 May 19 04:24 packages-stable/comint-hyperlink-readme.txt
+8.0K -rw-r--r-- 1 root root 6.0K Aug 17 10:49 packages-stable/comint-hyperlink-0.1.6.el
+4.0K -rw-r--r-- 1 root root  462 Aug 17 10:49 packages-stable/comint-hyperlink-0.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/comint-hyperlink-badge.svg
+4.0K -rw-r--r-- 1 root root  223 Aug 17 10:49 packages-stable/comint-hyperlink-readme.txt

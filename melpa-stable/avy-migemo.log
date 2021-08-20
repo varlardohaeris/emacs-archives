@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/momomo5717/avy-migemo.git
 
 Updating /mnt/store/melpa/working/avy-migemo/
+Checking out 7452d1ef8c18f6e2bbe8c5de3490e22a41eef3bc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/avy-migemo/
-  to /tmp/avy-migemoC8n1oa/avy-migemo-0.3.2
+  to /tmp/avy-migemoVnT8Hg/avy-migemo-0.3.2
     avy-migemo-e.g.counsel.el -> avy-migemo-e.g.counsel.el
     avy-migemo-e.g.swiper.el -> avy-migemo-e.g.swiper.el
     avy-migemo-e.g.zzz-to-char.el -> avy-migemo-e.g.zzz-to-char.el
@@ -17,9 +18,9 @@ Created avy-migemo-0.3.2.tar containing:
   avy-migemo-0.3.2/avy-migemo-e.g.zzz-to-char.el
   avy-migemo-0.3.2/avy-migemo-pkg.el
   avy-migemo-0.3.2/avy-migemo.el
-Built avy-migemo in 2.704s, finished at Wed May 19 04:20:31 2021
+Built avy-migemo in 3.702s, finished at 2021-08-17T10:45:48+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  379 May 19 04:20 packages-stable/avy-migemo-0.3.2.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:20 packages-stable/avy-migemo-0.3.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/avy-migemo-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 04:20 packages-stable/avy-migemo-readme.txt
+4.0K -rw-r--r-- 1 root root  379 Aug 17 10:45 packages-stable/avy-migemo-0.3.2.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 10:45 packages-stable/avy-migemo-0.3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/avy-migemo-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 10:45 packages-stable/avy-migemo-readme.txt

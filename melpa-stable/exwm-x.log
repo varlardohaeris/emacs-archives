@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tumashu/exwm-x.git
 
 Updating /mnt/store/melpa/working/exwm-x/
+Checking out 8fd00a0ca586e1c80d08209919f1414b448bc228
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/exwm-x/
-  to /tmp/exwm-xo2nkAG/exwm-x-2.0.2
+  to /tmp/exwm-xtjEBhh/exwm-x-2.0.2
     exwm-x.el -> exwm-x.el
     exwmx-appconfig.el -> exwmx-appconfig.el
     exwmx-appmenu.el -> exwmx-appmenu.el
@@ -35,9 +36,9 @@ Created exwm-x-2.0.2.tar containing:
   exwm-x-2.0.2/exwmx-quickrun.el
   exwm-x-2.0.2/exwmx-sendstring.el
   exwm-x-2.0.2/exwmx-xfce.el
-Built exwm-x in 6.253s, finished at Wed May 19 04:33:20 2021
+Built exwm-x in 3.410s, finished at 2021-08-17T10:59:46+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  395 May 19 04:33 packages-stable/exwm-x-2.0.2.entry
-100K -rw-r--r-- 1 root root 100K May 19 04:33 packages-stable/exwm-x-2.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/exwm-x-badge.svg
- 12K -rw-r--r-- 1 root root 9.9K May 19 04:33 packages-stable/exwm-x-readme.txt
+4.0K -rw-r--r-- 1 root root  395 Aug 17 10:59 packages-stable/exwm-x-2.0.2.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 10:59 packages-stable/exwm-x-2.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/exwm-x-badge.svg
+ 12K -rw-r--r-- 1 root root 9.9K Aug 17 10:59 packages-stable/exwm-x-readme.txt

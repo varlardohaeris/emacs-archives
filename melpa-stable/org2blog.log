@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/org2blog/org2blog.git
 
 Updating /mnt/store/melpa/working/org2blog/
+Checking out 3a39561b13bea5dd7b6bd4bd1a530d452774497e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org2blog/
-  to /tmp/org2blogjJoy3o/org2blog-1.1.11
+  to /tmp/org2blog2CEAub/org2blog-1.1.11
     org2blog-autoloads.el -> org2blog-autoloads.el
     org2blog-pkg.el -> org2blog-pkg.el
     org2blog-test-system.el -> org2blog-test-system.el
@@ -20,9 +21,9 @@ Created org2blog-1.1.11.tar containing:
   org2blog-1.1.11/org2blog-test-system.el
   org2blog-1.1.11/org2blog.el
   org2blog-1.1.11/ox-wp.el
-Built org2blog in 2.957s, finished at Wed May 19 01:40:49 2021
+Built org2blog in 7.408s, finished at 2021-08-17T11:24:40+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  496 May 19 01:40 packages-stable/org2blog-1.1.11.entry
-220K -rw-r--r-- 1 root root 220K May 19 01:40 packages-stable/org2blog-1.1.11.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org2blog-badge.svg
-4.0K -rw-r--r-- 1 root root  163 May 19 01:40 packages-stable/org2blog-readme.txt
+4.0K -rw-r--r-- 1 root root  496 Aug 17 11:24 packages-stable/org2blog-1.1.11.entry
+220K -rw-r--r-- 1 root root 220K Aug 17 11:24 packages-stable/org2blog-1.1.11.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/org2blog-badge.svg
+4.0K -rw-r--r-- 1 root root  163 Aug 17 11:24 packages-stable/org2blog-readme.txt

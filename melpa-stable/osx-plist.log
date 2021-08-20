@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/gonewest818/osx-plist.git
 
 Updating /mnt/store/melpa/working/osx-plist/
-Built osx-plist in 3.084s, finished at Wed May 19 01:41:08 2021
+Checking out bbed74d334e8a4141c8f6ed07c8e42ee7979c35c
+Built osx-plist in 3.692s, finished at 2021-08-17T11:25:06+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 01:41 packages-stable/osx-plist-2.0.0.el
-4.0K -rw-r--r-- 1 root root  383 May 19 01:41 packages-stable/osx-plist-2.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/osx-plist-badge.svg
-4.0K -rw-r--r-- 1 root root  120 May 19 01:41 packages-stable/osx-plist-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 11:25 packages-stable/osx-plist-2.0.0.el
+4.0K -rw-r--r-- 1 root root  383 Aug 17 11:25 packages-stable/osx-plist-2.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/osx-plist-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Aug 17 11:25 packages-stable/osx-plist-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/david-christiansen/zombie-trellys-mode.git
 
 Updating /mnt/store/melpa/working/zombie-trellys-mode/
-Built zombie-trellys-mode in 3.113s, finished at Wed May 19 01:56:49 2021
+Checking out 9e99d444a387dd1634cab62ef802683f5bf5d907
+Built zombie-trellys-mode in 3.546s, finished at 2021-08-17T11:43:01+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 01:56 packages-stable/zombie-trellys-mode-0.2.1.el
-4.0K -rw-r--r-- 1 root root  459 May 19 01:56 packages-stable/zombie-trellys-mode-0.2.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zombie-trellys-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  432 May 19 01:56 packages-stable/zombie-trellys-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 11:43 packages-stable/zombie-trellys-mode-0.2.1.el
+4.0K -rw-r--r-- 1 root root  459 Aug 17 11:43 packages-stable/zombie-trellys-mode-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:43 packages-stable/zombie-trellys-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  432 Aug 17 11:43 packages-stable/zombie-trellys-mode-readme.txt

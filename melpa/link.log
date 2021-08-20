@@ -3,14 +3,16 @@ Fetcher: github
 Source:  https://github.com/myrkr/dictionary-el.git
 
 Updating /mnt/store/melpa/working/link/
-Built link in 4.988s, finished at Wed May 19 03:40:11 2021
+Checking out origin/HEAD
+Checking out bdf0aa7761d1c1a3bc0652b2fdc4a54b3acdb06a
+Built link in 4.686s, finished at 2021-08-17T10:04:08+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.6K May 19 03:40 packages/link-20191111.446.el
-4.0K -rw-r--r-- 1 root root  313 May 19 03:40 packages/link-20191111.446.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:40 packages/link-badge.svg
- 48K -rw-r--r-- 1 root root  48K May 19 00:25 packages/link-hint-20210410.1506.el
-4.0K -rw-r--r-- 1 root root  452 May 19 00:25 packages/link-hint-20210410.1506.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 00:25 packages/link-hint-badge.svg
-4.0K -rw-r--r-- 1 root root  741 May 19 00:25 packages/link-hint-readme.txt
-4.0K -rw-r--r-- 1 root root  134 May 19 03:40 packages/link-hint.log
-4.0K -rw-r--r-- 1 root root  567 May 19 03:40 packages/link-readme.txt
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 10:04 packages/link-20191111.446.el
+4.0K -rw-r--r-- 1 root root  313 Aug 17 10:04 packages/link-20191111.446.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:04 packages/link-badge.svg
+ 56K -rw-r--r-- 1 root root  54K Aug 17 06:33 packages/link-hint-20210727.1302.el
+4.0K -rw-r--r-- 1 root root  452 Aug 17 06:33 packages/link-hint-20210727.1302.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 06:33 packages/link-hint-badge.svg
+4.0K -rw-r--r-- 1 root root  741 Aug 17 06:33 packages/link-hint-readme.txt
+4.0K -rw-r--r-- 1 root root  134 Aug 17 10:04 packages/link-hint.log
+4.0K -rw-r--r-- 1 root root  567 Aug 17 10:04 packages/link-readme.txt

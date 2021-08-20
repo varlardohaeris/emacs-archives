@@ -1,0 +1,12 @@
+Package: mlscroll
+Fetcher: github
+Source:  https://github.com/jdtsmith/mlscroll.git
+
+Updating /mnt/store/melpa/working/mlscroll/
+Checking out 5811cb564727f74eb0c8b8b075e6dc982e6ac5f6
+Built mlscroll in 7.280s, finished at 2021-08-17T11:18:35+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:18 packages-stable/mlscroll-0.1.1.el
+4.0K -rw-r--r-- 1 root root  310 Aug 17 11:18 packages-stable/mlscroll-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/mlscroll-badge.svg
+4.0K -rw-r--r-- 1 root root  220 Aug 17 11:18 packages-stable/mlscroll-readme.txt

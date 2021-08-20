@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/yoshinari-nomura/otama.git
 
 Updating /mnt/store/melpa/working/otama/
-Built otama in 5.109s, finished at Wed May 19 03:52:33 2021
+Checking out origin/HEAD
+Checking out c114fd8006762f891bc120a7c0ea213872e7ab31
+Built otama in 5.158s, finished at 2021-08-17T10:17:37+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 03:52 packages/otama-20160404.1032.el
-4.0K -rw-r--r-- 1 root root  281 May 19 03:52 packages/otama-20160404.1032.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:52 packages/otama-badge.svg
-4.0K -rw-r--r-- 1 root root  108 May 19 03:52 packages/otama-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 10:17 packages/otama-20160404.1032.el
+4.0K -rw-r--r-- 1 root root  281 Aug 17 10:17 packages/otama-20160404.1032.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:17 packages/otama-badge.svg
+4.0K -rw-r--r-- 1 root root  108 Aug 17 10:17 packages/otama-readme.txt

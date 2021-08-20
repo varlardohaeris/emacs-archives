@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rdallasgray/graphene.git
 
 Updating /mnt/store/melpa/working/graphene/
+Checking out 95fee3855e5c5667cbc7648db5250e0e5428e246
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/graphene/
-  to /tmp/graphene8Tmk8F/graphene-1.0.0
+  to /tmp/graphenes8wbxl/graphene-1.0.0
   ! lib/graphene-editing.el -> graphene-editing.el
   ! lib/graphene-env.el -> graphene-env.el
   ! lib/graphene-helper-functions.el -> graphene-helper-functions.el
@@ -32,14 +33,14 @@ Created graphene-1.0.0.tar containing:
   graphene-1.0.0/graphene-smartparens-config.el
   graphene-1.0.0/graphene-windows-defaults.el
   graphene-1.0.0/graphene.el
-Built graphene in 3.055s, finished at Wed May 19 04:38:32 2021
+Built graphene in 4.623s, finished at 2021-08-17T11:06:03+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  717 May 19 04:38 packages-stable/graphene-1.0.0.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:38 packages-stable/graphene-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/graphene-badge.svg
- 16K -rw-r--r-- 1 root root  15K May 19 04:38 packages-stable/graphene-meta-theme-0.0.6.el
-4.0K -rw-r--r-- 1 root root  408 May 19 01:24 packages-stable/graphene-meta-theme-0.0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:24 packages-stable/graphene-meta-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  342 May 19 01:24 packages-stable/graphene-meta-theme-readme.txt
-4.0K -rw-r--r-- 1 root root  165 May 19 04:38 packages-stable/graphene-meta-theme.log
-8.0K -rw-r--r-- 1 root root 6.6K May 19 04:38 packages-stable/graphene-readme.txt
+4.0K -rw-r--r-- 1 root root  717 Aug 17 11:06 packages-stable/graphene-1.0.0.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:06 packages-stable/graphene-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/graphene-badge.svg
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:06 packages-stable/graphene-meta-theme-0.0.6.el
+4.0K -rw-r--r-- 1 root root  408 Aug 17 11:06 packages-stable/graphene-meta-theme-0.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:38 packages-stable/graphene-meta-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  342 Aug 17 11:06 packages-stable/graphene-meta-theme-readme.txt
+4.0K -rw-r--r-- 1 root root  219 Aug 17 11:06 packages-stable/graphene-meta-theme.log
+8.0K -rw-r--r-- 1 root root 6.6K Aug 17 11:06 packages-stable/graphene-readme.txt

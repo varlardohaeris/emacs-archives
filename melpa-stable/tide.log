@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ananthakumaran/tide.git
 
 Updating /mnt/store/melpa/working/tide/
+Checking out 2a3ac4f38472d66e2d8a6bbe5dadb52bc008acbd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tide/
-  to /tmp/tidenSuxXr/tide-4.2.3
+  to /tmp/tidelK4m3O/tide-4.2.3
     tide-lv.el -> tide-lv.el
     tide.el -> tide.el
     tsserver => tsserver
@@ -80,9 +81,9 @@ Created tide-4.2.3.tar containing:
   tide-4.2.3/tsserver/tsconfig.json
   tide-4.2.3/tsserver/tsserver.js
   tide-4.2.3/tsserver/typingsInstaller.js
-Built tide in 3.951s, finished at Wed May 19 01:52:14 2021
+Built tide in 4.510s, finished at 2021-08-17T11:37:37+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  475 May 19 01:52 packages-stable/tide-4.2.3.entry
- 19M -rw-r--r-- 1 root root  19M May 19 01:52 packages-stable/tide-4.2.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tide-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:52 packages-stable/tide-readme.txt
+4.0K -rw-r--r-- 1 root root  475 Aug 17 11:37 packages-stable/tide-4.2.3.entry
+ 19M -rw-r--r-- 1 root root  19M Aug 17 11:37 packages-stable/tide-4.2.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/tide-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:37 packages-stable/tide-readme.txt

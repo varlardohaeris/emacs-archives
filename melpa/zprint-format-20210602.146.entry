@@ -1,0 +1,13 @@
+(zprint-format .
+	       [(20210602 146)
+		((emacs
+		  (24))
+		 (reformatter
+		  (0 3)))
+		"Reformat Clojure code using zprint" single
+		((:commit . "6051a5709ea6182974d7239f26e04c9731e04447")
+		 (:authors
+		  ("Derek Passen" . "dpassen1@gmail.com"))
+		 (:maintainer "Derek Passen" . "dpassen1@gmail.com")
+		 (:keywords "clojure" "zprint" "tools" "languages")
+		 (:url . "http://www.github.com/dpassen/zprint-format"))])

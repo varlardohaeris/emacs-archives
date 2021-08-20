@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Silex/hookify.git
 
 Updating /mnt/store/melpa/working/hookify/
-Built hookify in 3.131s, finished at Wed May 19 04:42:06 2021
+Checking out 00c290e1b8bf64e58164d0848389bb1d5321ecaa
+Built hookify in 3.747s, finished at 2021-08-17T11:10:08+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 04:42 packages-stable/hookify-0.2.1.el
-4.0K -rw-r--r-- 1 root root  414 May 19 04:42 packages-stable/hookify-0.2.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hookify-badge.svg
-4.0K -rw-r--r-- 1 root root   70 May 19 04:42 packages-stable/hookify-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 11:10 packages-stable/hookify-0.2.1.el
+4.0K -rw-r--r-- 1 root root  414 Aug 17 11:10 packages-stable/hookify-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/hookify-badge.svg
+4.0K -rw-r--r-- 1 root root   70 Aug 17 11:10 packages-stable/hookify-readme.txt

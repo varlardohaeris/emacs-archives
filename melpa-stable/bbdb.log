@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://git.savannah.nongnu.org/git/bbdb.git
 
 Updating /mnt/store/melpa/working/bbdb/
+Checking out 7490fe6c51e7e8c6bad5622d2b46461214bccb94
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bbdb/
-  to /tmp/bbdbneKoxp/bbdb-3.2
+  to /tmp/bbdbIHTKrM/bbdb-3.2
   ! lisp/bbdb-anniv.el -> bbdb-anniv.el
   ! lisp/bbdb-com.el -> bbdb-com.el
   ! lisp/bbdb-gnus-aux.el -> bbdb-gnus-aux.el
@@ -30,9 +31,9 @@ Copying files (->) and directories (=>)
   ! doc/bbdb.texi -> bbdb.texi
   ! doc/doclicense.texi -> doclicense.texi
   ! doc/gpl.texi -> gpl.texi
-Created /tmp/bbdbneKoxp/bbdb-3.2/bbdb.info
-Created /tmp/bbdbneKoxp/bbdb-3.2/doclicense.info
-Created /tmp/bbdbneKoxp/bbdb-3.2/gpl.info
+Created /tmp/bbdbIHTKrM/bbdb-3.2/bbdb.info
+Created /tmp/bbdbIHTKrM/bbdb-3.2/doclicense.info
+Created /tmp/bbdbIHTKrM/bbdb-3.2/gpl.info
 Created bbdb-3.2.tar containing:
   bbdb-3.2/
   bbdb-3.2/bbdb-anniv.el
@@ -60,21 +61,21 @@ Created bbdb-3.2.tar containing:
   bbdb-3.2/dir
   bbdb-3.2/doclicense.info
   bbdb-3.2/gpl.info
-Built bbdb in 16.549s, finished at Wed May 19 04:21:04 2021
+Built bbdb in 14.942s, finished at 2021-08-17T10:46:22+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  39K May 19 04:20 packages-stable/bbdb--0.0.2.el
-4.0K -rw-r--r-- 1 root root  425 May 19 04:20 packages-stable/bbdb--0.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/bbdb--badge.svg
-4.0K -rw-r--r-- 1 root root  189 May 19 04:20 packages-stable/bbdb--readme.txt
-4.0K -rw-r--r-- 1 root root  505 May 19 04:20 packages-stable/bbdb-.log
-4.0K -rw-r--r-- 1 root root  153 May 19 04:21 packages-stable/bbdb-3.2.entry
-672K -rw-r--r-- 1 root root 670K May 19 04:21 packages-stable/bbdb-3.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bbdb-badge.svg
-4.0K -rw-r--r-- 1 root root  190 May 19 04:20 packages-stable/bbdb-csv-import.log
-4.0K -rw-r--r-- 1 root root  172 May 19 04:20 packages-stable/bbdb-ext.log
-4.0K -rw-r--r-- 1 root root  707 May 19 04:21 packages-stable/bbdb-readme.txt
-4.0K -rw-r--r-- 1 root root  381 May 19 04:20 packages-stable/bbdb-vcard-0.3.entry
-132K -rw-r--r-- 1 root root 130K May 19 04:20 packages-stable/bbdb-vcard-0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/bbdb-vcard-badge.svg
- 12K -rw-r--r-- 1 root root 9.1K May 19 04:20 packages-stable/bbdb-vcard-readme.txt
-4.0K -rw-r--r-- 1 root root  959 May 19 04:20 packages-stable/bbdb-vcard.log
+ 40K -rw-r--r-- 1 root root  39K Aug 17 10:46 packages-stable/bbdb--0.0.2.el
+4.0K -rw-r--r-- 1 root root  425 Aug 17 10:46 packages-stable/bbdb--0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bbdb--badge.svg
+4.0K -rw-r--r-- 1 root root  189 Aug 17 10:46 packages-stable/bbdb--readme.txt
+4.0K -rw-r--r-- 1 root root  559 Aug 17 10:46 packages-stable/bbdb-.log
+4.0K -rw-r--r-- 1 root root  153 Aug 17 10:46 packages-stable/bbdb-3.2.entry
+672K -rw-r--r-- 1 root root 670K Aug 17 10:46 packages-stable/bbdb-3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bbdb-badge.svg
+4.0K -rw-r--r-- 1 root root  190 Aug 17 10:46 packages-stable/bbdb-csv-import.log
+4.0K -rw-r--r-- 1 root root  172 Aug 17 10:46 packages-stable/bbdb-ext.log
+4.0K -rw-r--r-- 1 root root  707 Aug 17 10:46 packages-stable/bbdb-readme.txt
+4.0K -rw-r--r-- 1 root root  381 Aug 17 10:46 packages-stable/bbdb-vcard-0.3.entry
+132K -rw-r--r-- 1 root root 130K Aug 17 10:46 packages-stable/bbdb-vcard-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bbdb-vcard-badge.svg
+ 12K -rw-r--r-- 1 root root 9.1K Aug 17 10:46 packages-stable/bbdb-vcard-readme.txt
+4.0K -rw-r--r-- 1 root root 1013 Aug 17 10:46 packages-stable/bbdb-vcard.log

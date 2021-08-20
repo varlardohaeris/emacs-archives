@@ -244,10 +244,11 @@
    `isearchp-nomodify-action-hook' (Emacs 22+),
    `isearchp-noprompt-action-function',
    `isearchp-orig-ring-bell-fn', `isearchp-pref-arg',
-   `isearchp-reg-beg', `isearchp-reg-end',
-   `isearchp-regexp-level-overlays' (Emacs 24.4+),
-   `isearchp-replace-literally' (Emacs 22+), `isearchp-replacement'
-   (Emacs 22+), `isearchp--replacing-on-demand' (Emacs 22+),
+   `isearchp-reached-limit-p', `isearchp-reg-beg',
+   `isearchp-reg-end', `isearchp-regexp-level-overlays' (Emacs
+   24.4+), `isearchp-replace-literally' (Emacs 22+),
+   `isearchp-replacement' (Emacs 22+),
+   `isearchp--replacing-on-demand' (Emacs 22+),
    `isearch-update-post-hook' (Emacs 20-21),
    `isearchp-user-entered-new-filter-p' (Emacs 24.4+),
    `isearchp-win-pt-line'.

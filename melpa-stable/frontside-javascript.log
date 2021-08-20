@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/thefrontside/frontmacs.git
 
 Updating /mnt/store/melpa/working/frontside-javascript/
+Checking out 120adff0dd9b6d1be63d9b2f6ffc6b1b229ed8ef
 No matching file(s) found in /mnt/store/melpa/working/frontside-javascript/: (packages/javascript/*.el (:exclude packages/javascript/*-test.el))

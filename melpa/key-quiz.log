@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/federicotdn/key-quiz.git
 
 Updating /mnt/store/melpa/working/key-quiz/
-Built key-quiz in 4.654s, finished at Wed May 19 03:38:24 2021
+Checking out origin/HEAD
+Checking out 1ee67f3f8977d95785e021f7896685de1979137e
+Built key-quiz in 6.335s, finished at 2021-08-17T10:02:22+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 03:38 packages/key-quiz-20200226.2129.el
-4.0K -rw-r--r-- 1 root root  363 May 19 03:38 packages/key-quiz-20200226.2129.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:38 packages/key-quiz-badge.svg
-4.0K -rw-r--r-- 1 root root  271 May 19 03:38 packages/key-quiz-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 10:02 packages/key-quiz-20200226.2129.el
+4.0K -rw-r--r-- 1 root root  363 Aug 17 10:02 packages/key-quiz-20200226.2129.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:02 packages/key-quiz-badge.svg
+4.0K -rw-r--r-- 1 root root  271 Aug 17 10:02 packages/key-quiz-readme.txt

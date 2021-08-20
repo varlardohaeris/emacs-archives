@@ -3,4 +3,4 @@ Fetcher: hg
 Source:  https://hg.osdn.net/view/lognav-mode/lognav-mode
 
 Updating /mnt/store/melpa/working/lognav-mode/
-hg exited with status 255
+Args out of range: #<buffer *scratch*>, 0, 3

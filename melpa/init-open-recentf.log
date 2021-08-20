@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/zonuexe/init-open-recentf.el.git
 
 Updating /mnt/store/melpa/working/init-open-recentf/
-Built init-open-recentf in 5.219s, finished at Wed May 19 03:35:03 2021
+Checking out origin/HEAD
+Checking out c019ea85a9c589815b0af60153858d09bcef130e
+Built init-open-recentf in 4.575s, finished at 2021-08-17T09:58:48+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 03:35 packages/init-open-recentf-20200321.737.el
-4.0K -rw-r--r-- 1 root root  432 May 19 03:35 packages/init-open-recentf-20200321.737.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:35 packages/init-open-recentf-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:35 packages/init-open-recentf-readme.txt
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 09:58 packages/init-open-recentf-20210528.1902.el
+4.0K -rw-r--r-- 1 root root  433 Aug 17 09:58 packages/init-open-recentf-20210528.1902.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:58 packages/init-open-recentf-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:58 packages/init-open-recentf-readme.txt

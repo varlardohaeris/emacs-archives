@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/antham/anyins.git
 
 Updating /mnt/store/melpa/working/anyins/
-Built anyins in 3.059s, finished at Wed May 19 04:19:35 2021
+Checking out 1ff4673ca197c9bf64c65f718573bf7d478fc562
+Built anyins in 5.000s, finished at 2021-08-17T10:44:26+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.6K May 19 04:19 packages-stable/anyins-0.1.1.el
-4.0K -rw-r--r-- 1 root root  365 May 19 04:19 packages-stable/anyins-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/anyins-badge.svg
-4.0K -rw-r--r-- 1 root root  202 May 19 04:19 packages-stable/anyins-readme.txt
+8.0K -rw-r--r-- 1 root root 7.6K Aug 17 10:44 packages-stable/anyins-0.1.1.el
+4.0K -rw-r--r-- 1 root root  365 Aug 17 10:44 packages-stable/anyins-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/anyins-badge.svg
+4.0K -rw-r--r-- 1 root root  202 Aug 17 10:44 packages-stable/anyins-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/pass.git
 
 Updating /mnt/store/melpa/working/pass/
-Built pass in 3.753s, finished at Wed May 19 01:42:08 2021
+Checking out 35e3f86e96878520e690513cdbc1b2753b173e72
+Built pass in 4.101s, finished at 2021-08-17T11:26:16+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  24K May 19 01:42 packages-stable/pass-2.0.el
-4.0K -rw-r--r-- 1 root root  450 May 19 01:42 packages-stable/pass-2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/pass-badge.svg
-4.0K -rw-r--r-- 1 root root   33 May 19 01:42 packages-stable/pass-readme.txt
+ 24K -rw-r--r-- 1 root root  24K Aug 17 11:26 packages-stable/pass-2.0.el
+4.0K -rw-r--r-- 1 root root  450 Aug 17 11:26 packages-stable/pass-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/pass-badge.svg
+4.0K -rw-r--r-- 1 root root   33 Aug 17 11:26 packages-stable/pass-readme.txt

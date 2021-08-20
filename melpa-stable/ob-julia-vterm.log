@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/shg/ob-julia-vterm.el.git
 
 Updating /mnt/store/melpa/working/ob-julia-vterm/
-Built ob-julia-vterm in 3.039s, finished at Wed May 19 01:38:10 2021
+Checking out 5893d75cdb9e687b98b99b3675165f4edf0083a6
+Built ob-julia-vterm in 4.674s, finished at 2021-08-17T11:21:47+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.6K May 19 01:38 packages-stable/ob-julia-vterm-0.2.el
-4.0K -rw-r--r-- 1 root root  413 May 19 01:38 packages-stable/ob-julia-vterm-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-julia-vterm-badge.svg
-4.0K -rw-r--r-- 1 root root  398 May 19 01:38 packages-stable/ob-julia-vterm-readme.txt
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 11:21 packages-stable/ob-julia-vterm-0.2.el
+4.0K -rw-r--r-- 1 root root  413 Aug 17 11:21 packages-stable/ob-julia-vterm-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/ob-julia-vterm-badge.svg
+4.0K -rw-r--r-- 1 root root  398 Aug 17 11:21 packages-stable/ob-julia-vterm-readme.txt

@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://bitbucket.org/MikeWoolley/brf-mode
 
 Updating /mnt/store/melpa/working/brf/
+Checking out ab22d4441e6798addacffd1166aa8cff61cf8f5b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/brf/
-  to /tmp/brfeWUKIe/brf-1.20
+  to /tmp/brfMhD7yC/brf-1.20
     brf-bookmark.el -> brf-bookmark.el
     brf-compat.el -> brf-compat.el
     brf-editing.el -> brf-editing.el
@@ -30,9 +31,9 @@ Created brf-1.20.tar containing:
   brf-1.20/brf-window.el
   brf-1.20/brf.el
   brf-1.20/dir
-Built brf in 6.339s, finished at Wed May 19 04:21:51 2021
+Built brf in 5.260s, finished at 2021-08-17T10:47:08+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  416 May 19 04:21 packages-stable/brf-1.20.entry
-100K -rw-r--r-- 1 root root 100K May 19 04:21 packages-stable/brf-1.20.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/brf-badge.svg
-4.0K -rw-r--r-- 1 root root  505 May 19 04:21 packages-stable/brf-readme.txt
+4.0K -rw-r--r-- 1 root root  416 Aug 17 10:47 packages-stable/brf-1.20.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 10:47 packages-stable/brf-1.20.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/brf-badge.svg
+4.0K -rw-r--r-- 1 root root  505 Aug 17 10:47 packages-stable/brf-readme.txt

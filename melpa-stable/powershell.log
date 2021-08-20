@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/jschaf/powershell.el.git
 
 Updating /mnt/store/melpa/working/powershell/
+Checking out 7316f44d0b528552f5a0692f778e5f0efd964299
 End of file during parsing

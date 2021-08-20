@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/tumashu/cnfonts.git
 
 Updating /mnt/store/melpa/working/cnfonts/
+Checking out cbe1ddd49e33b790a568c55351146aa5b909f173
 Note: cnfonts :files spec is equivalent to the default.
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cnfonts/
-  to /tmp/cnfontsTrT2zK/cnfonts-0.9.1
+  to /tmp/cnfontsj7AjY1/cnfonts-0.9.1
     cnfonts-ui.el -> cnfonts-ui.el
     cnfonts.el -> cnfonts.el
 Created cnfonts-0.9.1.tar containing:
@@ -14,9 +15,9 @@ Created cnfonts-0.9.1.tar containing:
   cnfonts-0.9.1/cnfonts-pkg.el
   cnfonts-0.9.1/cnfonts-ui.el
   cnfonts-0.9.1/cnfonts.el
-Built cnfonts in 3.082s, finished at Wed May 19 04:23:49 2021
+Built cnfonts in 3.495s, finished at 2021-08-17T10:49:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  350 May 19 04:23 packages-stable/cnfonts-0.9.1.entry
- 92K -rw-r--r-- 1 root root  90K May 19 04:23 packages-stable/cnfonts-0.9.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cnfonts-badge.svg
- 16K -rw-r--r-- 1 root root  13K May 19 04:23 packages-stable/cnfonts-readme.txt
+4.0K -rw-r--r-- 1 root root  350 Aug 17 10:49 packages-stable/cnfonts-0.9.1.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 10:49 packages-stable/cnfonts-0.9.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/cnfonts-badge.svg
+ 16K -rw-r--r-- 1 root root  13K Aug 17 10:49 packages-stable/cnfonts-readme.txt

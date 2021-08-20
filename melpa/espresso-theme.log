@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/dgutov/espresso-theme.git
 
 Updating /mnt/store/melpa/working/espresso-theme/
-Built espresso-theme in 4.859s, finished at Wed May 19 03:17:28 2021
+Checking out origin/HEAD
+Checking out 580f673729f02aa07070c5300bedf24733d56e74
+Built espresso-theme in 5.825s, finished at 2021-08-17T09:40:54+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 03:17 packages/espresso-theme-20210505.1957.el
-4.0K -rw-r--r-- 1 root root  318 May 19 03:17 packages/espresso-theme-20210505.1957.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:17 packages/espresso-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  155 May 19 03:17 packages/espresso-theme-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 09:40 packages/espresso-theme-20210505.1957.el
+4.0K -rw-r--r-- 1 root root  318 Aug 17 09:40 packages/espresso-theme-20210505.1957.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:40 packages/espresso-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  155 Aug 17 09:40 packages/espresso-theme-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/swiper.git
 
 Updating /mnt/store/melpa/working/ivy-hydra/
-Built ivy-hydra in 3.107s, finished at Wed May 19 04:43:58 2021
+Checking out 0d497f71c676c02867261f7db5b8f82fa8008533
+Built ivy-hydra in 4.123s, finished at 2021-08-17T11:12:14+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.8K May 19 04:43 packages-stable/ivy-hydra-0.13.4.el
-4.0K -rw-r--r-- 1 root root  429 May 19 04:43 packages-stable/ivy-hydra-0.13.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-hydra-badge.svg
-4.0K -rw-r--r-- 1 root root  178 May 19 04:43 packages-stable/ivy-hydra-readme.txt
+8.0K -rw-r--r-- 1 root root 5.8K Aug 17 11:12 packages-stable/ivy-hydra-0.13.4.el
+4.0K -rw-r--r-- 1 root root  429 Aug 17 11:12 packages-stable/ivy-hydra-0.13.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/ivy-hydra-badge.svg
+4.0K -rw-r--r-- 1 root root  178 Aug 17 11:12 packages-stable/ivy-hydra-readme.txt

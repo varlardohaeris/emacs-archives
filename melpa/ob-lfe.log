@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/zweifisch/ob-lfe.git
 
 Updating /mnt/store/melpa/working/ob-lfe/
-Built ob-lfe in 4.355s, finished at Wed May 19 03:48:43 2021
+Checking out origin/HEAD
+Checking out f7780f58e650b4d29dfd834c662b1d354b620a8e
+Built ob-lfe in 4.681s, finished at 2021-08-17T10:13:09+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.7K May 19 03:48 packages/ob-lfe-20170725.1420.el
-4.0K -rw-r--r-- 1 root root  366 May 19 03:48 packages/ob-lfe-20170725.1420.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:48 packages/ob-lfe-badge.svg
-4.0K -rw-r--r-- 1 root root   40 May 19 03:48 packages/ob-lfe-readme.txt
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 10:13 packages/ob-lfe-20170725.1420.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 10:13 packages/ob-lfe-20170725.1420.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:13 packages/ob-lfe-badge.svg
+4.0K -rw-r--r-- 1 root root   40 Aug 17 10:13 packages/ob-lfe-readme.txt

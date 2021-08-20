@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/holomorph/systemd-mode.git
 
 Updating /mnt/store/melpa/working/systemd/
+Checking out a89894acf9caf79a5ff5fb4b789690362a8db636
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/systemd/
-  to /tmp/systemdjboXYY/systemd-1.6
+  to /tmp/systemdy5Zna4/systemd-1.6
     systemd.el -> systemd.el
     network-directives.txt -> network-directives.txt
     nspawn-directives.txt -> nspawn-directives.txt
@@ -17,9 +18,9 @@ Created systemd-1.6.tar containing:
   systemd-1.6/systemd-pkg.el
   systemd-1.6/systemd.el
   systemd-1.6/unit-directives.txt
-Built systemd in 2.746s, finished at Wed May 19 01:51:07 2021
+Built systemd in 3.801s, finished at 2021-08-17T11:36:44+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  296 May 19 01:51 packages-stable/systemd-1.6.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:51 packages-stable/systemd-1.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/systemd-badge.svg
-4.0K -rw-r--r-- 1 root root  544 May 19 01:51 packages-stable/systemd-readme.txt
+4.0K -rw-r--r-- 1 root root  296 Aug 17 11:36 packages-stable/systemd-1.6.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:36 packages-stable/systemd-1.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/systemd-badge.svg
+4.0K -rw-r--r-- 1 root root  544 Aug 17 11:36 packages-stable/systemd-readme.txt

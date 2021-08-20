@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/magnars/angular-snippets.el.git
 
 Updating /mnt/store/melpa/working/angular-snippets/
+Checking out 8533ae3231b7938cf12da271489685857dcb8ce0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/angular-snippets/
-  to /tmp/angular-snippetsshTOlk/angular-snippets-0.2.3
+  to /tmp/angular-snippetso3H5kN/angular-snippets-0.2.3
     angular-snippets-pkg.el -> angular-snippets-pkg.el
     angular-snippets.el -> angular-snippets.el
     snippets => snippets
@@ -59,9 +60,9 @@ Created angular-snippets-0.2.3.tar containing:
   angular-snippets-0.2.3/snippets/html-mode/ng-view.yasnippet
   angular-snippets-0.2.3/snippets/web-mode/
   angular-snippets-0.2.3/snippets/web-mode/.yas-parents
-Built angular-snippets in 3.154s, finished at Wed May 19 04:19:23 2021
+Built angular-snippets in 3.627s, finished at 2021-08-17T10:44:13+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  336 May 19 04:19 packages-stable/angular-snippets-0.2.3.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:19 packages-stable/angular-snippets-0.2.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/angular-snippets-badge.svg
-4.0K -rw-r--r-- 1 root root   51 May 19 04:19 packages-stable/angular-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root  336 Aug 17 10:44 packages-stable/angular-snippets-0.2.3.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 10:44 packages-stable/angular-snippets-0.2.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/angular-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root   51 Aug 17 10:44 packages-stable/angular-snippets-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Sarcasm/flycheck-irony.git
 
 Updating /mnt/store/melpa/working/flycheck-irony/
-Built flycheck-irony in 3.083s, finished at Wed May 19 04:34:53 2021
+Checking out 34940ae5ab8f4c721d9c1118ebfc3496d7e67a84
+Built flycheck-irony in 5.932s, finished at 2021-08-17T11:01:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.3K May 19 04:34 packages-stable/flycheck-irony-0.1.0.el
-4.0K -rw-r--r-- 1 root root  452 May 19 04:34 packages-stable/flycheck-irony-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-irony-badge.svg
-4.0K -rw-r--r-- 1 root root  165 May 19 04:34 packages-stable/flycheck-irony-readme.txt
+8.0K -rw-r--r-- 1 root root 4.3K Aug 17 11:01 packages-stable/flycheck-irony-0.1.0.el
+4.0K -rw-r--r-- 1 root root  452 Aug 17 11:01 packages-stable/flycheck-irony-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-irony-badge.svg
+4.0K -rw-r--r-- 1 root root  165 Aug 17 11:01 packages-stable/flycheck-irony-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/aaronjensen/contextual-menubar.git
 
 Updating /mnt/store/melpa/working/contextual-menubar/
-Built contextual-menubar in 3.893s, finished at Wed May 19 04:25:11 2021
+Checking out 6bb7056322d1757ce69904143ac2c0c697443a64
+Built contextual-menubar in 4.404s, finished at 2021-08-17T10:51:03+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.0K May 19 04:25 packages-stable/contextual-menubar-1.0.0.el
-4.0K -rw-r--r-- 1 root root  374 May 19 04:25 packages-stable/contextual-menubar-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/contextual-menubar-badge.svg
-4.0K -rw-r--r-- 1 root root  211 May 19 04:25 packages-stable/contextual-menubar-readme.txt
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 10:51 packages-stable/contextual-menubar-1.0.0.el
+4.0K -rw-r--r-- 1 root root  374 Aug 17 10:51 packages-stable/contextual-menubar-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/contextual-menubar-badge.svg
+4.0K -rw-r--r-- 1 root root  211 Aug 17 10:51 packages-stable/contextual-menubar-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jwiegley/use-package.git
 
 Updating /mnt/store/melpa/working/use-package-ensure-system-package/
-Built use-package-ensure-system-package in 2.892s, finished at Wed May 19 01:53:39 2021
+Checking out 0eccc701e7183837ed8d37174428106f3e6c03de
+Built use-package-ensure-system-package in 3.933s, finished at 2021-08-17T11:39:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:53 packages-stable/use-package-ensure-system-package-2.4.1.el
-4.0K -rw-r--r-- 1 root root  526 May 19 01:53 packages-stable/use-package-ensure-system-package-2.4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/use-package-ensure-system-package-badge.svg
-4.0K -rw-r--r-- 1 root root  124 May 19 01:53 packages-stable/use-package-ensure-system-package-readme.txt
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:39 packages-stable/use-package-ensure-system-package-2.4.1.el
+4.0K -rw-r--r-- 1 root root  526 Aug 17 11:39 packages-stable/use-package-ensure-system-package-2.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/use-package-ensure-system-package-badge.svg
+4.0K -rw-r--r-- 1 root root  124 Aug 17 11:39 packages-stable/use-package-ensure-system-package-readme.txt

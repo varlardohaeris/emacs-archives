@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ecukes/espuds.git
 
 Updating /mnt/store/melpa/working/espuds/
-Built espuds in 2.771s, finished at Wed May 19 04:31:45 2021
+Checking out 1405972873339e056517217136de4ad3202d744a
+Built espuds in 3.487s, finished at 2021-08-17T10:58:16+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:31 packages-stable/espuds-0.3.3.el
-4.0K -rw-r--r-- 1 root root  373 May 19 04:31 packages-stable/espuds-0.3.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/espuds-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 04:31 packages-stable/espuds-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 10:58 packages-stable/espuds-0.3.3.el
+4.0K -rw-r--r-- 1 root root  373 Aug 17 10:58 packages-stable/espuds-0.3.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/espuds-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:58 packages-stable/espuds-readme.txt

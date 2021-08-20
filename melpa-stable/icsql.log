@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/plandes/icsql.git
 
 Updating /mnt/store/melpa/working/icsql/
-Built icsql in 3.937s, finished at Wed May 19 04:42:35 2021
+Checking out 75b8d9ee6f751ffba8f292e7f30f5730084f215d
+Built icsql in 3.958s, finished at 2021-08-17T11:10:42+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:42 packages-stable/icsql-0.6.el
-4.0K -rw-r--r-- 1 root root  355 May 19 04:42 packages-stable/icsql-0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/icsql-badge.svg
-4.0K -rw-r--r-- 1 root root   89 May 19 04:42 packages-stable/icsql-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:10 packages-stable/icsql-0.8.el
+4.0K -rw-r--r-- 1 root root  355 Aug 17 11:10 packages-stable/icsql-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/icsql-badge.svg
+4.0K -rw-r--r-- 1 root root   89 Aug 17 11:10 packages-stable/icsql-readme.txt

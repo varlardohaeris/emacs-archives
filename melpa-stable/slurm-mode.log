@@ -1,0 +1,6 @@
+Package: slurm-mode
+Fetcher: github
+Source:  https://github.com/ffevotte/slurm.el.git
+
+Updating /mnt/store/melpa/working/slurm-mode/
+No valid stable versions found for slurm-mode

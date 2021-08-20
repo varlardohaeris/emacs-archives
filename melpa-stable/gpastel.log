@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/gpastel.git
 
 Updating /mnt/store/melpa/working/gpastel/
-Built gpastel in 3.330s, finished at Wed May 19 04:38:26 2021
+Checking out 8a5522b274f79d55d7c9a0b2aaf062526f9253c7
+Built gpastel in 4.732s, finished at 2021-08-17T11:05:56+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.3K May 19 04:38 packages-stable/gpastel-0.5.0.el
-4.0K -rw-r--r-- 1 root root  369 May 19 04:38 packages-stable/gpastel-0.5.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/gpastel-badge.svg
-4.0K -rw-r--r-- 1 root root  945 May 19 04:38 packages-stable/gpastel-readme.txt
+8.0K -rw-r--r-- 1 root root 7.3K Aug 17 11:05 packages-stable/gpastel-0.5.0.el
+4.0K -rw-r--r-- 1 root root  369 Aug 17 11:05 packages-stable/gpastel-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/gpastel-badge.svg
+4.0K -rw-r--r-- 1 root root  945 Aug 17 11:05 packages-stable/gpastel-readme.txt

@@ -3,21 +3,22 @@ Fetcher: github
 Source:  https://github.com/oantolin/orderless.git
 
 Updating /mnt/store/melpa/working/orderless/
+Checking out d13f47df7327aa3d91434ec160567658ec5f81c2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orderless/
-  to /tmp/orderlessVhtUxz/orderless-0.6
+  to /tmp/orderlessguNbtX/orderless-0.6
     orderless.el -> orderless.el
     orderless.texi -> orderless.texi
-Created /tmp/orderlessVhtUxz/orderless-0.6/orderless.info
+Created /tmp/orderlessguNbtX/orderless-0.6/orderless.info
 Created orderless-0.6.tar containing:
   orderless-0.6/
   orderless-0.6/dir
   orderless-0.6/orderless-pkg.el
   orderless-0.6/orderless.el
   orderless-0.6/orderless.info
-Built orderless in 7.753s, finished at Wed May 19 01:38:55 2021
+Built orderless in 7.651s, finished at 2021-08-17T11:22:40+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  407 May 19 01:38 packages-stable/orderless-0.6.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:38 packages-stable/orderless-0.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/orderless-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/orderless-readme.txt
+4.0K -rw-r--r-- 1 root root  407 Aug 17 11:22 packages-stable/orderless-0.6.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:22 packages-stable/orderless-0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/orderless-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/orderless-readme.txt

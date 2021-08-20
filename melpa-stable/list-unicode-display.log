@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/list-unicode-display.git
 
 Updating /mnt/store/melpa/working/list-unicode-display/
-Built list-unicode-display in 2.947s, finished at Wed May 19 01:32:30 2021
+Checking out 59770cf3572bd36c3e9ba044846dc420c0dca09b
+Built list-unicode-display in 3.479s, finished at 2021-08-17T11:15:40+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.1K May 19 01:32 packages-stable/list-unicode-display-0.1.el
-4.0K -rw-r--r-- 1 root root  348 May 19 01:32 packages-stable/list-unicode-display-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/list-unicode-display-badge.svg
-4.0K -rw-r--r-- 1 root root  103 May 19 01:32 packages-stable/list-unicode-display-readme.txt
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 11:15 packages-stable/list-unicode-display-0.1.el
+4.0K -rw-r--r-- 1 root root  348 Aug 17 11:15 packages-stable/list-unicode-display-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/list-unicode-display-badge.svg
+4.0K -rw-r--r-- 1 root root  103 Aug 17 11:15 packages-stable/list-unicode-display-readme.txt

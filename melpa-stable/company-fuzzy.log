@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/company-fuzzy.git
 
 Updating /mnt/store/melpa/working/company-fuzzy/
-Built company-fuzzy in 3.686s, finished at Wed May 19 04:24:27 2021
+Checking out 4d6d56a8b92af72aa3b1e0af1a7e7add965bf468
+Built company-fuzzy in 3.719s, finished at 2021-08-17T10:49:56+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  22K May 19 04:24 packages-stable/company-fuzzy-1.2.1.el
-4.0K -rw-r--r-- 1 root root  404 May 19 04:24 packages-stable/company-fuzzy-1.2.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-fuzzy-badge.svg
-4.0K -rw-r--r-- 1 root root   36 May 19 04:24 packages-stable/company-fuzzy-readme.txt
+ 24K -rw-r--r-- 1 root root  22K Aug 17 10:49 packages-stable/company-fuzzy-1.2.1.el
+4.0K -rw-r--r-- 1 root root  404 Aug 17 10:49 packages-stable/company-fuzzy-1.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-fuzzy-badge.svg
+4.0K -rw-r--r-- 1 root root   36 Aug 17 10:49 packages-stable/company-fuzzy-readme.txt

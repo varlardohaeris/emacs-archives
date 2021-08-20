@@ -3,15 +3,16 @@ Fetcher: github
 Source:  https://github.com/tkf/emacs-jedi.git
 
 Updating /mnt/store/melpa/working/jedi/
-Built jedi in 7.020s, finished at Wed May 19 04:44:26 2021
+Checking out 3ab2f5c7571d10512ccbeb649caa0169c02311b9
+Built jedi in 4.351s, finished at 2021-08-17T11:12:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.7K May 19 04:44 packages-stable/jedi-0.2.8.el
-4.0K -rw-r--r-- 1 root root  327 May 19 04:44 packages-stable/jedi-0.2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/jedi-badge.svg
-4.0K -rw-r--r-- 1 root root  398 May 19 04:44 packages-stable/jedi-core-0.2.8.entry
- 80K -rw-r--r-- 1 root root  80K May 19 04:44 packages-stable/jedi-core-0.2.8.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:30 packages-stable/jedi-core-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 04:44 packages-stable/jedi-core-readme.txt
-4.0K -rw-r--r-- 1 root root  591 May 19 04:44 packages-stable/jedi-core.log
-4.0K -rw-r--r-- 1 root root  182 May 19 04:44 packages-stable/jedi-direx.log
-   0 -rw-r--r-- 1 root root    0 May 19 04:44 packages-stable/jedi-readme.txt
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 11:12 packages-stable/jedi-0.2.8.el
+4.0K -rw-r--r-- 1 root root  327 Aug 17 11:12 packages-stable/jedi-0.2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/jedi-badge.svg
+4.0K -rw-r--r-- 1 root root  398 Aug 17 11:12 packages-stable/jedi-core-0.2.8.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 11:12 packages-stable/jedi-core-0.2.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/jedi-core-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:12 packages-stable/jedi-core-readme.txt
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:12 packages-stable/jedi-core.log
+4.0K -rw-r--r-- 1 root root  182 Aug 17 11:12 packages-stable/jedi-direx.log
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:12 packages-stable/jedi-readme.txt

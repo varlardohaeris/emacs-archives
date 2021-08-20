@@ -1,0 +1,12 @@
+Package: keytar
+Fetcher: github
+Source:  https://github.com/emacs-grammarly/keytar.git
+
+Updating /mnt/store/melpa/working/keytar/
+Checking out 17972320ef140bd56e551842d89f5d8c2d979f83
+Built keytar in 3.677s, finished at 2021-08-17T11:14:14+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.1K Aug 17 11:14 packages-stable/keytar-0.1.2.el
+4.0K -rw-r--r-- 1 root root  329 Aug 17 11:14 packages-stable/keytar-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/keytar-badge.svg
+4.0K -rw-r--r-- 1 root root  135 Aug 17 11:14 packages-stable/keytar-readme.txt

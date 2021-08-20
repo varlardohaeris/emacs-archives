@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mooz/js2-mode.git
 
 Updating /mnt/store/melpa/working/js2-mode/
+Checking out f9564769e81c612b43f99802d6a2c5e6b1f8fca4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/js2-mode/
-  to /tmp/js2-modeRL1sZO/js2-mode-20201220
+  to /tmp/js2-modeTSOncc/js2-mode-20201220
     js2-imenu-extras.el -> js2-imenu-extras.el
     js2-mode.el -> js2-mode.el
     js2-old-indent.el -> js2-old-indent.el
@@ -15,9 +16,9 @@ Created js2-mode-20201220.tar containing:
   js2-mode-20201220/js2-mode-pkg.el
   js2-mode-20201220/js2-mode.el
   js2-mode-20201220/js2-old-indent.el
-Built js2-mode in 3.266s, finished at Wed May 19 04:45:01 2021
+Built js2-mode in 7.953s, finished at 2021-08-17T11:13:20+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  486 May 19 04:45 packages-stable/js2-mode-20201220.entry
-552K -rw-r--r-- 1 root root 550K May 19 04:45 packages-stable/js2-mode-20201220.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/js2-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 2.6K May 19 04:45 packages-stable/js2-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  486 Aug 17 11:13 packages-stable/js2-mode-20201220.entry
+552K -rw-r--r-- 1 root root 550K Aug 17 11:13 packages-stable/js2-mode-20201220.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/js2-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.6K Aug 17 11:13 packages-stable/js2-mode-readme.txt

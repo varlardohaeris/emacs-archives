@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/racer-rust/emacs-racer.git
 
 Updating /mnt/store/melpa/working/racer/
-Built racer in 10.706s, finished at Wed May 19 03:59:11 2021
+Checking out origin/HEAD
+Checking out 1e63e98626737ea9b662d4a9b1ffd6842b1c648c
+Built racer in 4.704s, finished at 2021-08-17T10:24:28+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  35K May 19 03:59 packages/racer-20210307.243.el
-4.0K -rw-r--r-- 1 root root  476 May 19 03:59 packages/racer-20210307.243.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:59 packages/racer-badge.svg
-4.0K -rw-r--r-- 1 root root   88 May 19 03:59 packages/racer-readme.txt
+ 36K -rw-r--r-- 1 root root  35K Aug 17 10:24 packages/racer-20210307.243.el
+4.0K -rw-r--r-- 1 root root  476 Aug 17 10:24 packages/racer-20210307.243.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:24 packages/racer-badge.svg
+4.0K -rw-r--r-- 1 root root   88 Aug 17 10:24 packages/racer-readme.txt

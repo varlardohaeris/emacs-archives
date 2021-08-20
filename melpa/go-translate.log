@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/lorniu/go-translate.git
 
 Updating /mnt/store/melpa/working/go-translate/
-Built go-translate in 4.708s, finished at Wed May 19 03:27:08 2021
+Checking out origin/HEAD
+Checking out 7a9b7978057bf747ed06fa6c9d2f30047714aa05
+Built go-translate in 5.369s, finished at 2021-08-17T09:50:52+0000
  ✓ Success:
- 52K -rw-r--r-- 1 root root  50K May 19 03:27 packages/go-translate-20201203.203.el
-4.0K -rw-r--r-- 1 root root  342 May 19 03:27 packages/go-translate-20201203.203.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:27 packages/go-translate-badge.svg
-4.0K -rw-r--r-- 1 root root  884 May 19 03:27 packages/go-translate-readme.txt
+ 52K -rw-r--r-- 1 root root  50K Aug 17 09:50 packages/go-translate-20210527.1257.el
+4.0K -rw-r--r-- 1 root root  343 Aug 17 09:50 packages/go-translate-20210527.1257.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:50 packages/go-translate-badge.svg
+4.0K -rw-r--r-- 1 root root  884 Aug 17 09:50 packages/go-translate-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tumashu/el2org.git
 
 Updating /mnt/store/melpa/working/el2org/
-Built el2org in 2.953s, finished at Wed May 19 04:29:53 2021
+Checking out 4a33469cd305e581603d7ef63bc2a1f2156f2e2e
+Built el2org in 3.585s, finished at 2021-08-17T10:55:43+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.4K May 19 04:29 packages-stable/el2org-0.6.0.el
-4.0K -rw-r--r-- 1 root root  326 May 19 04:29 packages-stable/el2org-0.6.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/el2org-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/el2org-readme.txt
+ 12K -rw-r--r-- 1 root root 8.4K Aug 17 10:55 packages-stable/el2org-0.6.0.el
+4.0K -rw-r--r-- 1 root root  326 Aug 17 10:55 packages-stable/el2org-0.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:55 packages-stable/el2org-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:55 packages-stable/el2org-readme.txt

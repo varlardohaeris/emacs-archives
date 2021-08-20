@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-selector.git
 
 Updating /mnt/store/melpa/working/helm-selector/
+Checking out 4da4711c4cfd14527abe20d66787beeb49171b26
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-selector/
-  to /tmp/helm-selector2KIzzd/helm-selector-0.6.1
+  to /tmp/helm-selectorBTbedk/helm-selector-0.6.1
     helm-selector-cider.el -> helm-selector-cider.el
     helm-selector-elfeed.el -> helm-selector-elfeed.el
     helm-selector-eww.el -> helm-selector-eww.el
@@ -35,9 +36,9 @@ Created helm-selector-0.6.1.tar containing:
   helm-selector-0.6.1/helm-selector-slime.el
   helm-selector-0.6.1/helm-selector-sly.el
   helm-selector-0.6.1/helm-selector.el
-Built helm-selector in 2.976s, finished at Wed May 19 04:41:11 2021
+Built helm-selector in 3.824s, finished at 2021-08-17T11:09:07+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  342 May 19 04:41 packages-stable/helm-selector-0.6.1.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:41 packages-stable/helm-selector-0.6.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-selector-badge.svg
-4.0K -rw-r--r-- 1 root root 1019 May 19 04:41 packages-stable/helm-selector-readme.txt
+4.0K -rw-r--r-- 1 root root  342 Aug 17 11:09 packages-stable/helm-selector-0.6.1.entry
+ 56K -rw-r--r-- 1 root root  50K Aug 17 11:09 packages-stable/helm-selector-0.6.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/helm-selector-badge.svg
+4.0K -rw-r--r-- 1 root root 1019 Aug 17 11:09 packages-stable/helm-selector-readme.txt

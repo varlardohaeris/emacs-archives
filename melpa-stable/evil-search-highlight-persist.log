@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/naclander/evil-search-highlight-persist.git
 
 Updating /mnt/store/melpa/working/evil-search-highlight-persist/
-Built evil-search-highlight-persist in 2.906s, finished at Wed May 19 04:32:33 2021
+Checking out 0e2b3d4e3dec5f38ae95f62519eb2736f73c0b85
+Built evil-search-highlight-persist in 3.965s, finished at 2021-08-17T10:59:11+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.1K May 19 04:32 packages-stable/evil-search-highlight-persist-1.8.el
-4.0K -rw-r--r-- 1 root root  324 May 19 04:32 packages-stable/evil-search-highlight-persist-1.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-search-highlight-persist-badge.svg
-4.0K -rw-r--r-- 1 root root  565 May 19 04:32 packages-stable/evil-search-highlight-persist-readme.txt
+ 12K -rw-r--r-- 1 root root 9.1K Aug 17 10:59 packages-stable/evil-search-highlight-persist-1.8.el
+4.0K -rw-r--r-- 1 root root  324 Aug 17 10:59 packages-stable/evil-search-highlight-persist-1.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-search-highlight-persist-badge.svg
+4.0K -rw-r--r-- 1 root root  565 Aug 17 10:59 packages-stable/evil-search-highlight-persist-readme.txt

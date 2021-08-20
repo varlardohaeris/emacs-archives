@@ -3,9 +3,11 @@ Fetcher: git
 Source:  https://framagit.org/steckerhalter/emacs-fasd.git
 
 Updating /mnt/store/melpa/working/fasd/
-Built fasd in 5.587s, finished at Wed May 19 03:20:08 2021
+Checking out origin/HEAD
+Checking out c1d92553f33ebb018135c698db1a6d7f86731a26
+Built fasd in 5.667s, finished at 2021-08-17T09:43:37+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.9K May 19 03:20 packages/fasd-20210104.738.el
-4.0K -rw-r--r-- 1 root root  347 May 19 03:20 packages/fasd-20210104.738.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:20 packages/fasd-badge.svg
-4.0K -rw-r--r-- 1 root root  276 May 19 03:20 packages/fasd-readme.txt
+8.0K -rw-r--r-- 1 root root 4.9K Aug 17 09:43 packages/fasd-20210104.738.el
+4.0K -rw-r--r-- 1 root root  347 Aug 17 09:43 packages/fasd-20210104.738.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/fasd-badge.svg
+4.0K -rw-r--r-- 1 root root  276 Aug 17 09:43 packages/fasd-readme.txt

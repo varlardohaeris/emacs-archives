@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-evil/evil-surround.git
 
 Updating /mnt/store/melpa/working/evil-surround/
-Built evil-surround in 3.679s, finished at Wed May 19 04:32:38 2021
+Checking out 346d4d85fcf1f9517e9c4991c1efe68b4130f93a
+Built evil-surround in 4.588s, finished at 2021-08-17T10:59:16+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 04:32 packages-stable/evil-surround-1.1.1.el
-4.0K -rw-r--r-- 1 root root  374 May 19 04:32 packages-stable/evil-surround-1.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-surround-badge.svg
-4.0K -rw-r--r-- 1 root root  449 May 19 04:32 packages-stable/evil-surround-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 10:59 packages-stable/evil-surround-1.1.1.el
+4.0K -rw-r--r-- 1 root root  374 Aug 17 10:59 packages-stable/evil-surround-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-surround-badge.svg
+4.0K -rw-r--r-- 1 root root  449 Aug 17 10:59 packages-stable/evil-surround-readme.txt

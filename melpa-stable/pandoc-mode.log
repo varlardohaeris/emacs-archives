@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/joostkremers/pandoc-mode.git
 
 Updating /mnt/store/melpa/working/pandoc-mode/
+Checking out 500e80666fb779457be8771c5613c177187ba0cc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pandoc-mode/
-  to /tmp/pandoc-modeVcQ1dX/pandoc-mode-2.31
+  to /tmp/pandoc-modeseHwWT/pandoc-mode-2.31
     pandoc-mode-utils.el -> pandoc-mode-utils.el
     pandoc-mode.el -> pandoc-mode.el
     pandoc-mode.info -> pandoc-mode.info
@@ -16,9 +17,9 @@ Created pandoc-mode-2.31.tar containing:
   pandoc-mode-2.31/pandoc-mode-utils.el
   pandoc-mode-2.31/pandoc-mode.el
   pandoc-mode-2.31/pandoc-mode.info
-Built pandoc-mode in 2.829s, finished at Wed May 19 01:41:54 2021
+Built pandoc-mode in 4.140s, finished at 2021-08-17T11:26:01+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  434 May 19 01:41 packages-stable/pandoc-mode-2.31.entry
-192K -rw-r--r-- 1 root root 190K May 19 01:41 packages-stable/pandoc-mode-2.31.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/pandoc-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  197 May 19 01:41 packages-stable/pandoc-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  434 Aug 17 11:26 packages-stable/pandoc-mode-2.31.entry
+192K -rw-r--r-- 1 root root 190K Aug 17 11:26 packages-stable/pandoc-mode-2.31.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/pandoc-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  197 Aug 17 11:26 packages-stable/pandoc-mode-readme.txt

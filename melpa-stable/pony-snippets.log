@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ponylang/pony-snippets.git
 
 Updating /mnt/store/melpa/working/pony-snippets/
+Checking out 56018b23a11563c6766ed706024b22aa5a4556b4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pony-snippets/
-  to /tmp/pony-snippetsEONLEr/pony-snippets-0.0.1
+  to /tmp/pony-snippetszjUOWy/pony-snippets-0.0.1
     pony-snippets.el -> pony-snippets.el
     snippets => snippets
 Created pony-snippets-0.0.1.tar containing:
@@ -44,9 +45,9 @@ Created pony-snippets-0.0.1.tar containing:
   pony-snippets-0.0.1/snippets/ponylang-mode/while-else.block
   pony-snippets-0.0.1/snippets/ponylang-mode/while.block
   pony-snippets-0.0.1/snippets/ponylang-mode/with.block
-Built pony-snippets in 3.032s, finished at Wed May 19 01:43:42 2021
+Built pony-snippets in 3.801s, finished at 2021-08-17T11:27:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  242 May 19 01:43 packages-stable/pony-snippets-0.0.1.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:43 packages-stable/pony-snippets-0.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/pony-snippets-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:43 packages-stable/pony-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root  242 Aug 17 11:27 packages-stable/pony-snippets-0.0.1.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:27 packages-stable/pony-snippets-0.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/pony-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:27 packages-stable/pony-snippets-readme.txt

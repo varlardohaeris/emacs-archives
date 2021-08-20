@@ -3,19 +3,20 @@ Fetcher: github
 Source:  https://github.com/PillFall/Emacs-LanguageTool.el.git
 
 Updating /mnt/store/melpa/working/languagetool/
+Checking out 026ed7377a0aed148fbe278e5d032d29c2cea1c6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/languagetool/
-  to /tmp/languagetool9LH2PU/languagetool-0.3.0
+  to /tmp/languagetoolyRIAsw/languagetool-0.4.3
     languagetool-issue-faces.el -> languagetool-issue-faces.el
     languagetool.el -> languagetool.el
-Created languagetool-0.3.0.tar containing:
-  languagetool-0.3.0/
-  languagetool-0.3.0/languagetool-issue-faces.el
-  languagetool-0.3.0/languagetool-pkg.el
-  languagetool-0.3.0/languagetool.el
-Built languagetool in 3.294s, finished at Wed May 19 01:31:43 2021
+Created languagetool-0.4.3.tar containing:
+  languagetool-0.4.3/
+  languagetool-0.4.3/languagetool-issue-faces.el
+  languagetool-0.4.3/languagetool-pkg.el
+  languagetool-0.4.3/languagetool.el
+Built languagetool in 3.285s, finished at 2021-08-17T11:14:43+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  438 May 19 01:31 packages-stable/languagetool-0.3.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:31 packages-stable/languagetool-0.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/languagetool-badge.svg
-4.0K -rw-r--r-- 1 root root   87 May 19 01:31 packages-stable/languagetool-readme.txt
+4.0K -rw-r--r-- 1 root root  472 Aug 17 11:14 packages-stable/languagetool-0.4.3.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:14 packages-stable/languagetool-0.4.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/languagetool-badge.svg
+4.0K -rw-r--r-- 1 root root  340 Aug 17 11:14 packages-stable/languagetool-readme.txt

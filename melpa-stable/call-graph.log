@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/beacoder/call-graph.git
 
 Updating /mnt/store/melpa/working/call-graph/
-Built call-graph in 3.438s, finished at Wed May 19 04:22:38 2021
+Checking out 0bbe292b1b9c7ba1d8a65ed5e475f6a53f5f9f27
+Built call-graph in 4.373s, finished at 2021-08-17T10:47:50+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  21K May 19 04:22 packages-stable/call-graph-0.1.0.el
-4.0K -rw-r--r-- 1 root root  551 May 19 04:22 packages-stable/call-graph-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/call-graph-badge.svg
-4.0K -rw-r--r-- 1 root root   50 May 19 04:22 packages-stable/call-graph-readme.txt
+ 24K -rw-r--r-- 1 root root  21K Aug 17 10:47 packages-stable/call-graph-0.1.0.el
+4.0K -rw-r--r-- 1 root root  551 Aug 17 10:47 packages-stable/call-graph-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/call-graph-badge.svg
+4.0K -rw-r--r-- 1 root root   50 Aug 17 10:47 packages-stable/call-graph-readme.txt

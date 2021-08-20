@@ -3,9 +3,11 @@ Fetcher: git
 Source:  https://git.spwhitton.name/haskell-tab-indent
 
 Updating /mnt/store/melpa/working/haskell-tab-indent/
-Built haskell-tab-indent in 4.524s, finished at Wed May 19 03:28:39 2021
+Checking out origin/HEAD
+Checking out 3239e814d6999f31ad845cc58df53395ad299059
+Built haskell-tab-indent in 4.796s, finished at 2021-08-17T09:52:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.7K May 19 03:28 packages/haskell-tab-indent-20200513.1950.el
-4.0K -rw-r--r-- 1 root root  426 May 19 03:28 packages/haskell-tab-indent-20200513.1950.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:28 packages/haskell-tab-indent-badge.svg
-4.0K -rw-r--r-- 1 root root  827 May 19 03:28 packages/haskell-tab-indent-readme.txt
+8.0K -rw-r--r-- 1 root root 6.7K Aug 17 09:52 packages/haskell-tab-indent-20200513.1950.el
+4.0K -rw-r--r-- 1 root root  426 Aug 17 09:52 packages/haskell-tab-indent-20200513.1950.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:52 packages/haskell-tab-indent-badge.svg
+4.0K -rw-r--r-- 1 root root  827 Aug 17 09:52 packages/haskell-tab-indent-readme.txt

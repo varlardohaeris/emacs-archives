@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/myuhe/calfw-gcal.el.git
 
 Updating /mnt/store/melpa/working/calfw-gcal/
+Checking out origin/HEAD
+Checking out 14aab20687d6cc9e6c5ddb9e11984c4e14c3d870
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/calfw-gcal/
-  to /tmp/calfw-gcalvNHQ5O/calfw-gcal-20120111.1000
+  to /tmp/calfw-gcalofBQgx/calfw-gcal-20120111.1000
     calfw-gcal.el -> calfw-gcal.el
     insertEvent.py -> insertEvent.py
 Created calfw-gcal-20120111.1000.tar containing:
@@ -13,9 +15,9 @@ Created calfw-gcal-20120111.1000.tar containing:
   calfw-gcal-20120111.1000/calfw-gcal-pkg.el
   calfw-gcal-20120111.1000/calfw-gcal.el
   calfw-gcal-20120111.1000/insertEvent.py
-Built calfw-gcal in 4.327s, finished at Wed May 19 03:03:48 2021
+Built calfw-gcal in 4.446s, finished at 2021-08-17T09:26:19+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  356 May 19 03:03 packages/calfw-gcal-20120111.1000.entry
- 20K -rw-r--r-- 1 root root  20K May 19 03:03 packages/calfw-gcal-20120111.1000.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:03 packages/calfw-gcal-badge.svg
-4.0K -rw-r--r-- 1 root root  186 May 19 03:03 packages/calfw-gcal-readme.txt
+4.0K -rw-r--r-- 1 root root  356 Aug 17 09:26 packages/calfw-gcal-20120111.1000.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 09:26 packages/calfw-gcal-20120111.1000.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:26 packages/calfw-gcal-badge.svg
+4.0K -rw-r--r-- 1 root root  186 Aug 17 09:26 packages/calfw-gcal-readme.txt

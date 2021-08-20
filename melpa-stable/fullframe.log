@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://git.sr.ht/~tomterl/fullframe
 
 Updating /mnt/store/melpa/working/fullframe/
-Built fullframe in 3.054s, finished at Wed May 19 04:36:26 2021
+Checking out db94cfb305b3d022e915198ba113e3ed62e2e4f7
+Built fullframe in 3.095s, finished at 2021-08-17T11:03:35+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.7K May 19 04:36 packages-stable/fullframe-0.5.1.el
-4.0K -rw-r--r-- 1 root root  326 May 19 04:36 packages-stable/fullframe-0.5.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fullframe-badge.svg
-4.0K -rw-r--r-- 1 root root  560 May 19 04:36 packages-stable/fullframe-readme.txt
+ 12K -rw-r--r-- 1 root root 8.7K Aug 17 11:03 packages-stable/fullframe-0.5.1.el
+4.0K -rw-r--r-- 1 root root  326 Aug 17 11:03 packages-stable/fullframe-0.5.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fullframe-badge.svg
+4.0K -rw-r--r-- 1 root root  560 Aug 17 11:03 packages-stable/fullframe-readme.txt

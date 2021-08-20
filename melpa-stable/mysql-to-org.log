@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mallt/mysql-to-org-mode.git
 
 Updating /mnt/store/melpa/working/mysql-to-org/
-Built mysql-to-org in 4.900s, finished at Wed May 19 01:36:51 2021
+Checking out 0f51b174a0ee6c9820baf9d79783923b270f3ffc
+Built mysql-to-org in 4.207s, finished at 2021-08-17T11:20:13+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.9K May 19 01:36 packages-stable/mysql-to-org-1.0.0.el
-4.0K -rw-r--r-- 1 root root  352 May 19 01:36 packages-stable/mysql-to-org-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mysql-to-org-badge.svg
-4.0K -rw-r--r-- 1 root root  286 May 19 01:36 packages-stable/mysql-to-org-readme.txt
+ 12K -rw-r--r-- 1 root root 8.9K Aug 17 11:20 packages-stable/mysql-to-org-1.0.0.el
+4.0K -rw-r--r-- 1 root root  352 Aug 17 11:20 packages-stable/mysql-to-org-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/mysql-to-org-badge.svg
+4.0K -rw-r--r-- 1 root root  286 Aug 17 11:20 packages-stable/mysql-to-org-readme.txt

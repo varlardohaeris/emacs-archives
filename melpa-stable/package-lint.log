@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/package-lint.git
 
 Updating /mnt/store/melpa/working/package-lint/
+Checking out cfe5aa2c8eeb2f6df38cf97a2315ac8f8ae41696
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package-lint/
-  to /tmp/package-lintLJnBoY/package-lint-0.15
+  to /tmp/package-lintL85XI5/package-lint-0.15
     package-lint.el -> package-lint.el
     data => data
 Created package-lint-0.15.tar containing:
@@ -14,14 +15,14 @@ Created package-lint-0.15.tar containing:
   package-lint-0.15/data/stdlib-changes
   package-lint-0.15/package-lint-pkg.el
   package-lint-0.15/package-lint.el
-Built package-lint in 2.833s, finished at Wed May 19 01:41:44 2021
+Built package-lint in 3.795s, finished at 2021-08-17T11:25:49+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  466 May 19 01:41 packages-stable/package-lint-0.15.entry
-760K -rw-r--r-- 1 root root 760K May 19 01:41 packages-stable/package-lint-0.15.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/package-lint-badge.svg
-4.0K -rw-r--r-- 1 root root 2.7K May 19 01:41 packages-stable/package-lint-flymake-0.15.el
-4.0K -rw-r--r-- 1 root root  269 May 18 22:27 packages-stable/package-lint-flymake-0.15.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:27 packages-stable/package-lint-flymake-badge.svg
-4.0K -rw-r--r-- 1 root root  345 May 18 22:27 packages-stable/package-lint-flymake-readme.txt
-4.0K -rw-r--r-- 1 root root  156 May 19 01:41 packages-stable/package-lint-flymake.log
-4.0K -rw-r--r-- 1 root root  260 May 19 01:41 packages-stable/package-lint-readme.txt
+4.0K -rw-r--r-- 1 root root  466 Aug 17 11:25 packages-stable/package-lint-0.15.entry
+760K -rw-r--r-- 1 root root 760K Aug 17 11:25 packages-stable/package-lint-0.15.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/package-lint-badge.svg
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:25 packages-stable/package-lint-flymake-0.15.el
+4.0K -rw-r--r-- 1 root root  269 Aug 17 11:25 packages-stable/package-lint-flymake-0.15.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/package-lint-flymake-badge.svg
+4.0K -rw-r--r-- 1 root root  345 Aug 17 11:25 packages-stable/package-lint-flymake-readme.txt
+4.0K -rw-r--r-- 1 root root  285 Aug 17 11:25 packages-stable/package-lint-flymake.log
+4.0K -rw-r--r-- 1 root root  260 Aug 17 11:25 packages-stable/package-lint-readme.txt

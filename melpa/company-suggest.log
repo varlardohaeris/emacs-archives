@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/juergenhoetzel/company-suggest.git
 
 Updating /mnt/store/melpa/working/company-suggest/
-Built company-suggest in 5.247s, finished at Wed May 19 03:07:13 2021
+Checking out origin/HEAD
+Checking out 1c89c9de3852f07ce28b0bedf1fbf56fe6eedcdc
+Built company-suggest in 5.281s, finished at 2021-08-17T09:29:59+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.6K May 19 03:07 packages/company-suggest-20200911.1845.el
-4.0K -rw-r--r-- 1 root root  461 May 19 03:07 packages/company-suggest-20200911.1845.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:07 packages/company-suggest-badge.svg
-4.0K -rw-r--r-- 1 root root   99 May 19 03:07 packages/company-suggest-readme.txt
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 09:29 packages/company-suggest-20200911.1845.el
+4.0K -rw-r--r-- 1 root root  461 Aug 17 09:29 packages/company-suggest-20200911.1845.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:29 packages/company-suggest-badge.svg
+4.0K -rw-r--r-- 1 root root   99 Aug 17 09:29 packages/company-suggest-readme.txt

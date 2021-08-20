@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://git.savannah.gnu.org/git/emms.git
 
 Updating /mnt/store/melpa/working/emms/
+Checking out c38dc67e2f09844c0b668d86ba46b63e6aa6e114
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emms/
-  to /tmp/emmsnzWvvG/emms-7.2
+  to /tmp/emmsyXU3Vn/emms-7.6
     emms-bookmarks.el -> emms-bookmarks.el
     emms-browser.el -> emms-browser.el
     emms-cache.el -> emms-cache.el
@@ -52,6 +53,7 @@ Copying files (->) and directories (=>)
     emms-stream-info.el -> emms-stream-info.el
     emms-streams.el -> emms-streams.el
     emms-tag-editor.el -> emms-tag-editor.el
+    emms-tag-tracktag.el -> emms-tag-tracktag.el
     emms-url.el -> emms-url.el
     emms-volume-amixer.el -> emms-volume-amixer.el
     emms-volume-mixerctl.el -> emms-volume-mixerctl.el
@@ -59,87 +61,88 @@ Copying files (->) and directories (=>)
     emms-volume.el -> emms-volume.el
     emms.el -> emms.el
   ! doc/emms.texinfo -> emms.texinfo
-Created /tmp/emmsnzWvvG/emms-7.2/emms.info
-Created emms-7.2.tar containing:
-  emms-7.2/
-  emms-7.2/dir
-  emms-7.2/emms-bookmarks.el
-  emms-7.2/emms-browser.el
-  emms-7.2/emms-cache.el
-  emms-7.2/emms-compat.el
-  emms-7.2/emms-cue.el
-  emms-7.2/emms-history.el
-  emms-7.2/emms-i18n.el
-  emms-7.2/emms-info-exiftool.el
-  emms-7.2/emms-info-libtag.el
-  emms-7.2/emms-info-metaflac.el
-  emms-7.2/emms-info-mp3info.el
-  emms-7.2/emms-info-native.el
-  emms-7.2/emms-info-ogginfo.el
-  emms-7.2/emms-info-opusinfo.el
-  emms-7.2/emms-info-tinytag.el
-  emms-7.2/emms-info.el
-  emms-7.2/emms-jack.el
-  emms-7.2/emms-last-played.el
-  emms-7.2/emms-later-do.el
-  emms-7.2/emms-librefm-scrobbler.el
-  emms-7.2/emms-librefm-stream.el
-  emms-7.2/emms-lyrics.el
-  emms-7.2/emms-maint.el
-  emms-7.2/emms-mark.el
-  emms-7.2/emms-metaplaylist-mode.el
-  emms-7.2/emms-mode-line-icon.el
-  emms-7.2/emms-mode-line.el
-  emms-7.2/emms-pkg.el
-  emms-7.2/emms-player-mpd.el
-  emms-7.2/emms-player-mpg321-remote.el
-  emms-7.2/emms-player-mplayer.el
-  emms-7.2/emms-player-mpv.el
-  emms-7.2/emms-player-simple.el
-  emms-7.2/emms-player-vlc.el
-  emms-7.2/emms-player-xine.el
-  emms-7.2/emms-playing-time.el
-  emms-7.2/emms-playlist-limit.el
-  emms-7.2/emms-playlist-mode.el
-  emms-7.2/emms-playlist-sort.el
-  emms-7.2/emms-score.el
-  emms-7.2/emms-setup.el
-  emms-7.2/emms-show-all.el
-  emms-7.2/emms-source-file.el
-  emms-7.2/emms-source-playlist.el
-  emms-7.2/emms-stream-info.el
-  emms-7.2/emms-streams.el
-  emms-7.2/emms-tag-editor.el
-  emms-7.2/emms-url.el
-  emms-7.2/emms-volume-amixer.el
-  emms-7.2/emms-volume-mixerctl.el
-  emms-7.2/emms-volume-pulse.el
-  emms-7.2/emms-volume.el
-  emms-7.2/emms.el
-  emms-7.2/emms.info
-Built emms in 16.038s, finished at Wed May 19 04:31:03 2021
+Created /tmp/emmsyXU3Vn/emms-7.6/emms.info
+Created emms-7.6.tar containing:
+  emms-7.6/
+  emms-7.6/dir
+  emms-7.6/emms-bookmarks.el
+  emms-7.6/emms-browser.el
+  emms-7.6/emms-cache.el
+  emms-7.6/emms-compat.el
+  emms-7.6/emms-cue.el
+  emms-7.6/emms-history.el
+  emms-7.6/emms-i18n.el
+  emms-7.6/emms-info-exiftool.el
+  emms-7.6/emms-info-libtag.el
+  emms-7.6/emms-info-metaflac.el
+  emms-7.6/emms-info-mp3info.el
+  emms-7.6/emms-info-native.el
+  emms-7.6/emms-info-ogginfo.el
+  emms-7.6/emms-info-opusinfo.el
+  emms-7.6/emms-info-tinytag.el
+  emms-7.6/emms-info.el
+  emms-7.6/emms-jack.el
+  emms-7.6/emms-last-played.el
+  emms-7.6/emms-later-do.el
+  emms-7.6/emms-librefm-scrobbler.el
+  emms-7.6/emms-librefm-stream.el
+  emms-7.6/emms-lyrics.el
+  emms-7.6/emms-maint.el
+  emms-7.6/emms-mark.el
+  emms-7.6/emms-metaplaylist-mode.el
+  emms-7.6/emms-mode-line-icon.el
+  emms-7.6/emms-mode-line.el
+  emms-7.6/emms-pkg.el
+  emms-7.6/emms-player-mpd.el
+  emms-7.6/emms-player-mpg321-remote.el
+  emms-7.6/emms-player-mplayer.el
+  emms-7.6/emms-player-mpv.el
+  emms-7.6/emms-player-simple.el
+  emms-7.6/emms-player-vlc.el
+  emms-7.6/emms-player-xine.el
+  emms-7.6/emms-playing-time.el
+  emms-7.6/emms-playlist-limit.el
+  emms-7.6/emms-playlist-mode.el
+  emms-7.6/emms-playlist-sort.el
+  emms-7.6/emms-score.el
+  emms-7.6/emms-setup.el
+  emms-7.6/emms-show-all.el
+  emms-7.6/emms-source-file.el
+  emms-7.6/emms-source-playlist.el
+  emms-7.6/emms-stream-info.el
+  emms-7.6/emms-streams.el
+  emms-7.6/emms-tag-editor.el
+  emms-7.6/emms-tag-tracktag.el
+  emms-7.6/emms-url.el
+  emms-7.6/emms-volume-amixer.el
+  emms-7.6/emms-volume-mixerctl.el
+  emms-7.6/emms-volume-pulse.el
+  emms-7.6/emms-volume.el
+  emms-7.6/emms.el
+  emms-7.6/emms.info
+Built emms in 16.165s, finished at 2021-08-17T10:57:19+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  408 May 19 04:31 packages-stable/emms-7.2.entry
-812K -rw-r--r-- 1 root root 810K May 19 04:31 packages-stable/emms-7.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/emms-badge.svg
-4.0K -rw-r--r-- 1 root root  195 May 19 04:30 packages-stable/emms-bilibili.log
-4.0K -rw-r--r-- 1 root root  217 May 19 04:30 packages-stable/emms-info-mediainfo.log
-4.0K -rw-r--r-- 1 root root  192 May 19 04:30 packages-stable/emms-mark-ext.log
- 12K -rw-r--r-- 1 root root  10K May 19 04:30 packages-stable/emms-mode-line-cycle-0.2.5.el
-4.0K -rw-r--r-- 1 root root  376 May 19 04:30 packages-stable/emms-mode-line-cycle-0.2.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emms-mode-line-cycle-badge.svg
-4.0K -rw-r--r-- 1 root root  851 May 19 04:30 packages-stable/emms-mode-line-cycle-readme.txt
-4.0K -rw-r--r-- 1 root root  630 May 19 04:30 packages-stable/emms-mode-line-cycle.log
-4.0K -rw-r--r-- 1 root root  243 May 19 04:30 packages-stable/emms-player-mpv-jp-radios.log
-4.0K -rw-r--r-- 1 root root  409 May 19 04:30 packages-stable/emms-player-simple-mpv-0.4.0.entry
- 72K -rw-r--r-- 1 root root  70K May 19 04:30 packages-stable/emms-player-simple-mpv-0.4.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emms-player-simple-mpv-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 04:30 packages-stable/emms-player-simple-mpv-readme.txt
-4.0K -rw-r--r-- 1 root root 1.7K May 19 04:30 packages-stable/emms-player-simple-mpv.log
-4.0K -rw-r--r-- 1 root root  619 May 19 04:31 packages-stable/emms-readme.txt
-4.0K -rw-r--r-- 1 root root  199 May 19 04:30 packages-stable/emms-soundcloud.log
- 12K -rw-r--r-- 1 root root 9.3K May 19 04:30 packages-stable/emms-state-0.2.el
-4.0K -rw-r--r-- 1 root root  395 May 19 04:30 packages-stable/emms-state-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emms-state-badge.svg
-4.0K -rw-r--r-- 1 root root  796 May 19 04:30 packages-stable/emms-state-readme.txt
-4.0K -rw-r--r-- 1 root root  546 May 19 04:30 packages-stable/emms-state.log
+4.0K -rw-r--r-- 1 root root  408 Aug 17 10:57 packages-stable/emms-7.6.entry
+812K -rw-r--r-- 1 root root 810K Aug 17 10:57 packages-stable/emms-7.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/emms-badge.svg
+4.0K -rw-r--r-- 1 root root  195 Aug 17 10:57 packages-stable/emms-bilibili.log
+4.0K -rw-r--r-- 1 root root  217 Aug 17 10:57 packages-stable/emms-info-mediainfo.log
+4.0K -rw-r--r-- 1 root root  192 Aug 17 10:57 packages-stable/emms-mark-ext.log
+ 12K -rw-r--r-- 1 root root  10K Aug 17 10:57 packages-stable/emms-mode-line-cycle-0.2.5.el
+4.0K -rw-r--r-- 1 root root  376 Aug 17 10:57 packages-stable/emms-mode-line-cycle-0.2.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/emms-mode-line-cycle-badge.svg
+4.0K -rw-r--r-- 1 root root  851 Aug 17 10:57 packages-stable/emms-mode-line-cycle-readme.txt
+4.0K -rw-r--r-- 1 root root  684 Aug 17 10:57 packages-stable/emms-mode-line-cycle.log
+4.0K -rw-r--r-- 1 root root  243 Aug 17 10:57 packages-stable/emms-player-mpv-jp-radios.log
+4.0K -rw-r--r-- 1 root root  409 Aug 17 10:57 packages-stable/emms-player-simple-mpv-0.4.0.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:57 packages-stable/emms-player-simple-mpv-0.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/emms-player-simple-mpv-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 10:57 packages-stable/emms-player-simple-mpv-readme.txt
+4.0K -rw-r--r-- 1 root root 1.8K Aug 17 10:57 packages-stable/emms-player-simple-mpv.log
+4.0K -rw-r--r-- 1 root root  619 Aug 17 10:57 packages-stable/emms-readme.txt
+4.0K -rw-r--r-- 1 root root  199 Aug 17 10:57 packages-stable/emms-soundcloud.log
+ 12K -rw-r--r-- 1 root root 9.3K Aug 17 10:57 packages-stable/emms-state-0.2.el
+4.0K -rw-r--r-- 1 root root  395 Aug 17 10:57 packages-stable/emms-state-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/emms-state-badge.svg
+4.0K -rw-r--r-- 1 root root  796 Aug 17 10:57 packages-stable/emms-state-readme.txt
+4.0K -rw-r--r-- 1 root root  600 Aug 17 10:57 packages-stable/emms-state.log

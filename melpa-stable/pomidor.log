@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/TatriX/pomidor.git
 
 Updating /mnt/store/melpa/working/pomidor/
+Checking out 03f14e696999c4ddbee05bf9bd95db6e4c5ace19
 Wrong type argument: listp, "2.17.0"

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/gexplorer/simple-modeline.git
 
 Updating /mnt/store/melpa/working/simple-modeline/
+Checking out 119d8224a8ae0ee17b09ac1fed6cdb9cb1d048fd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/simple-modeline/
-  to /tmp/simple-modelinenZwwXb/simple-modeline-1.4
+  to /tmp/simple-modelineW9D4Ow/simple-modeline-1.4
     simple-modeline-core.el -> simple-modeline-core.el
     simple-modeline-segments.el -> simple-modeline-segments.el
     simple-modeline.el -> simple-modeline.el
@@ -15,9 +16,9 @@ Created simple-modeline-1.4.tar containing:
   simple-modeline-1.4/simple-modeline-pkg.el
   simple-modeline-1.4/simple-modeline-segments.el
   simple-modeline-1.4/simple-modeline.el
-Built simple-modeline in 3.242s, finished at Wed May 19 01:48:37 2021
+Built simple-modeline in 3.420s, finished at 2021-08-17T11:33:32+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  397 May 19 01:48 packages-stable/simple-modeline-1.4.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:48 packages-stable/simple-modeline-1.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/simple-modeline-badge.svg
-4.0K -rw-r--r-- 1 root root  229 May 19 01:48 packages-stable/simple-modeline-readme.txt
+4.0K -rw-r--r-- 1 root root  397 Aug 17 11:33 packages-stable/simple-modeline-1.4.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:33 packages-stable/simple-modeline-1.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/simple-modeline-badge.svg
+4.0K -rw-r--r-- 1 root root  229 Aug 17 11:33 packages-stable/simple-modeline-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/idris-hackers/idris-mode.git
 
 Updating /mnt/store/melpa/working/idris-mode/
+Checking out b77eadd8ac2048d5c882b4464bd9673e45dd6a59
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/idris-mode/
-  to /tmp/idris-moderMa4MA/idris-mode-1.0
+  to /tmp/idris-modeiv2fNr/idris-mode-1.0
     idris-commands.el -> idris-commands.el
     idris-common-utils.el -> idris-common-utils.el
     idris-compat.el -> idris-compat.el
@@ -53,9 +54,9 @@ Created idris-mode-1.0.tar containing:
   idris-mode-1.0/idris-warnings.el
   idris-mode-1.0/inferior-idris.el
   idris-mode-1.0/logo-small.png
-Built idris-mode in 2.834s, finished at Wed May 19 04:42:49 2021
+Built idris-mode in 4.046s, finished at 2021-08-17T11:10:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  322 May 19 04:42 packages-stable/idris-mode-1.0.entry
-260K -rw-r--r-- 1 root root 260K May 19 04:42 packages-stable/idris-mode-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/idris-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  150 May 19 04:42 packages-stable/idris-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  322 Aug 17 11:10 packages-stable/idris-mode-1.0.entry
+260K -rw-r--r-- 1 root root 260K Aug 17 11:10 packages-stable/idris-mode-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/idris-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  150 Aug 17 11:10 packages-stable/idris-mode-readme.txt

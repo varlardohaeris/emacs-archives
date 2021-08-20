@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/jcinnamond/seeing-is-believing.git
 
 Updating /mnt/store/melpa/working/seeing-is-believing/
-Built seeing-is-believing in 4.321s, finished at Wed May 19 04:02:55 2021
+Checking out origin/HEAD
+Checking out fbbe246c0fda87bb26227bb826eebadb418a220f
+Built seeing-is-believing in 4.819s, finished at 2021-08-17T10:28:16+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.7K May 19 04:02 packages/seeing-is-believing-20170214.1320.el
-4.0K -rw-r--r-- 1 root root  273 May 19 04:02 packages/seeing-is-believing-20170214.1320.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:02 packages/seeing-is-believing-badge.svg
-4.0K -rw-r--r-- 1 root root  539 May 19 04:02 packages/seeing-is-believing-readme.txt
+8.0K -rw-r--r-- 1 root root 5.7K Aug 17 10:28 packages/seeing-is-believing-20170214.1320.el
+4.0K -rw-r--r-- 1 root root  273 Aug 17 10:28 packages/seeing-is-believing-20170214.1320.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:28 packages/seeing-is-believing-badge.svg
+4.0K -rw-r--r-- 1 root root  539 Aug 17 10:28 packages/seeing-is-believing-readme.txt

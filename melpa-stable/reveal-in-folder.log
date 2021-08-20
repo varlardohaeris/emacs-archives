@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/reveal-in-folder.git
 
 Updating /mnt/store/melpa/working/reveal-in-folder/
-Built reveal-in-folder in 2.972s, finished at Wed May 19 01:46:39 2021
+Checking out f62be2d11c8a9182cf84f0efe7ed054cc304262d
+Built reveal-in-folder in 3.903s, finished at 2021-08-17T11:31:20+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.1K May 19 01:46 packages-stable/reveal-in-folder-0.1.2.el
-4.0K -rw-r--r-- 1 root root  414 May 19 01:46 packages-stable/reveal-in-folder-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/reveal-in-folder-badge.svg
-4.0K -rw-r--r-- 1 root root   32 May 19 01:46 packages-stable/reveal-in-folder-readme.txt
+8.0K -rw-r--r-- 1 root root 4.1K Aug 17 11:31 packages-stable/reveal-in-folder-0.1.2.el
+4.0K -rw-r--r-- 1 root root  414 Aug 17 11:31 packages-stable/reveal-in-folder-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/reveal-in-folder-badge.svg
+4.0K -rw-r--r-- 1 root root   32 Aug 17 11:31 packages-stable/reveal-in-folder-readme.txt

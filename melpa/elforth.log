@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/lassik/elforth.git
 
 Updating /mnt/store/melpa/working/elforth/
-Built elforth in 6.848s, finished at Wed May 19 03:15:05 2021
+Checking out origin/HEAD
+Checking out 2d8540434a28e7edaa04a992c3c362832b2fd61e
+Built elforth in 4.632s, finished at 2021-08-17T09:38:00+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 03:15 packages/elforth-20210506.454.el
-4.0K -rw-r--r-- 1 root root  366 May 19 03:15 packages/elforth-20210506.454.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:15 packages/elforth-badge.svg
-4.0K -rw-r--r-- 1 root root  553 May 19 03:15 packages/elforth-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 09:38 packages/elforth-20210522.928.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 09:38 packages/elforth-20210522.928.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:38 packages/elforth-badge.svg
+4.0K -rw-r--r-- 1 root root  553 Aug 17 09:38 packages/elforth-readme.txt

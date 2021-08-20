@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ryuslash/mode-icons.git
 
 Updating /mnt/store/melpa/working/mode-icons/
+Checking out 24074b43b2d23d79b2ccf7338cf5c288dd1a1dc0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mode-icons/
-  to /tmp/mode-iconsR65ove/mode-icons-0.4.0
+  to /tmp/mode-icons3NQSAD/mode-icons-0.4.0
     mode-icons.el -> mode-icons.el
     icons => icons
 Created mode-icons-0.4.0.tar containing:
@@ -98,9 +99,9 @@ Created mode-icons-0.4.0.tar containing:
   mode-icons-0.4.0/icons/yas.xpm
   mode-icons-0.4.0/mode-icons-pkg.el
   mode-icons-0.4.0/mode-icons.el
-Built mode-icons in 3.577s, finished at Wed May 19 01:35:40 2021
+Built mode-icons in 7.893s, finished at 2021-08-17T11:18:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  401 May 19 01:35 packages-stable/mode-icons-0.4.0.entry
-312K -rw-r--r-- 1 root root 310K May 19 01:35 packages-stable/mode-icons-0.4.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mode-icons-badge.svg
-4.0K -rw-r--r-- 1 root root  818 May 19 01:35 packages-stable/mode-icons-readme.txt
+4.0K -rw-r--r-- 1 root root  401 Aug 17 11:18 packages-stable/mode-icons-0.4.0.entry
+312K -rw-r--r-- 1 root root 310K Aug 17 11:18 packages-stable/mode-icons-0.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/mode-icons-badge.svg
+4.0K -rw-r--r-- 1 root root  818 Aug 17 11:18 packages-stable/mode-icons-readme.txt

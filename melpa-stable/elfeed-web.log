@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/skeeto/elfeed.git
 
 Updating /mnt/store/melpa/working/elfeed-web/
+Checking out a8ae79f5826ac74df692e9aa6f6b098f967a3525
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elfeed-web/
-  to /tmp/elfeed-webdjfYrS/elfeed-web-3.4.1
+  to /tmp/elfeed-web7fFaTm/elfeed-web-3.4.1
   ! web/elfeed-web-pkg.el -> elfeed-web-pkg.el
   ! web/elfeed-web.el -> elfeed-web.el
   ! web/elfeed.css -> elfeed.css
@@ -18,9 +19,9 @@ Created elfeed-web-3.4.1.tar containing:
   elfeed-web-3.4.1/elfeed.css
   elfeed-web-3.4.1/elfeed.js
   elfeed-web-3.4.1/index.html
-Built elfeed-web in 3.537s, finished at Wed May 19 04:30:09 2021
+Built elfeed-web in 6.999s, finished at 2021-08-17T10:56:14+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  430 May 19 04:30 packages-stable/elfeed-web-3.4.1.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:30 packages-stable/elfeed-web-3.4.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elfeed-web-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elfeed-web-readme.txt
+4.0K -rw-r--r-- 1 root root  430 Aug 17 10:56 packages-stable/elfeed-web-3.4.1.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:56 packages-stable/elfeed-web-3.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elfeed-web-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elfeed-web-readme.txt

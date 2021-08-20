@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/parse-it.git
 
 Updating /mnt/store/melpa/working/parse-it/
+Checking out f910af3b1d98b88a0f41794bbe7fd57411e9b909
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parse-it/
-  to /tmp/parse-itLZv4ag/parse-it-0.2.1
+  to /tmp/parse-itVgBqsJ/parse-it-0.2.1
     parse-it-ast.el -> parse-it-ast.el
     parse-it-lex.el -> parse-it-lex.el
     parse-it-util.el -> parse-it-util.el
@@ -65,9 +66,9 @@ Created parse-it-0.2.1.tar containing:
   parse-it-0.2.1/parse-it-util.el
   parse-it-0.2.1/parse-it-xml.el
   parse-it-0.2.1/parse-it.el
-Built parse-it in 3.803s, finished at Wed May 19 01:42:03 2021
+Built parse-it in 3.642s, finished at 2021-08-17T11:26:12+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  355 May 19 01:42 packages-stable/parse-it-0.2.1.entry
-132K -rw-r--r-- 1 root root 130K May 19 01:42 packages-stable/parse-it-0.2.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/parse-it-badge.svg
-4.0K -rw-r--r-- 1 root root   29 May 19 01:42 packages-stable/parse-it-readme.txt
+4.0K -rw-r--r-- 1 root root  355 Aug 17 11:26 packages-stable/parse-it-0.2.1.entry
+132K -rw-r--r-- 1 root root 130K Aug 17 11:26 packages-stable/parse-it-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/parse-it-badge.svg
+4.0K -rw-r--r-- 1 root root   29 Aug 17 11:26 packages-stable/parse-it-readme.txt

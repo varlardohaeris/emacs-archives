@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/nickav/naysayer-theme.el.git
 
 Updating /mnt/store/melpa/working/naysayer-theme/
-Built naysayer-theme in 5.609s, finished at Wed May 19 03:46:35 2021
+Checking out origin/HEAD
+Checking out 9d0bef898f31368cd30e063d53d443dee29683b0
+Built naysayer-theme in 4.964s, finished at 2021-08-17T10:11:23+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.4K May 19 03:46 packages/naysayer-theme-20200405.123.el
-4.0K -rw-r--r-- 1 root root  361 May 19 03:46 packages/naysayer-theme-20200405.123.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:46 packages/naysayer-theme-badge.svg
-4.0K -rw-r--r-- 1 root root   96 May 19 03:46 packages/naysayer-theme-readme.txt
+8.0K -rw-r--r-- 1 root root 7.4K Aug 17 10:11 packages/naysayer-theme-20200405.123.el
+4.0K -rw-r--r-- 1 root root  361 Aug 17 10:11 packages/naysayer-theme-20200405.123.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:11 packages/naysayer-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   96 Aug 17 10:11 packages/naysayer-theme-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/plandes/bshell.git
 
 Updating /mnt/store/melpa/working/bshell/
-Built bshell in 7.532s, finished at Wed May 19 04:22:03 2021
+Checking out 80c3099b18fad11967a542598faac59e57aa1dd3
+Built bshell in 3.997s, finished at 2021-08-17T10:47:13+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.3K May 19 04:22 packages-stable/bshell-0.10.el
-4.0K -rw-r--r-- 1 root root  354 May 19 04:22 packages-stable/bshell-0.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/bshell-badge.svg
-4.0K -rw-r--r-- 1 root root  600 May 19 04:22 packages-stable/bshell-readme.txt
+8.0K -rw-r--r-- 1 root root 6.3K Aug 17 10:47 packages-stable/bshell-0.10.el
+4.0K -rw-r--r-- 1 root root  354 Aug 17 10:47 packages-stable/bshell-0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/bshell-badge.svg
+4.0K -rw-r--r-- 1 root root  600 Aug 17 10:47 packages-stable/bshell-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/200ok-ch/counsel-jq.git
 
 Updating /mnt/store/melpa/working/counsel-jq/
-Built counsel-jq in 5.960s, finished at Wed May 19 03:08:20 2021
+Checking out origin/HEAD
+Checking out 8cadd2e96470402ede4881b4e955872976443689
+Built counsel-jq in 10.228s, finished at 2021-08-17T09:31:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.4K May 19 03:08 packages/counsel-jq-20210329.749.el
-4.0K -rw-r--r-- 1 root root  483 May 19 03:08 packages/counsel-jq-20210329.749.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:08 packages/counsel-jq-badge.svg
-4.0K -rw-r--r-- 1 root root   37 May 19 03:08 packages/counsel-jq-readme.txt
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 09:31 packages/counsel-jq-20210329.749.el
+4.0K -rw-r--r-- 1 root root  483 Aug 17 09:31 packages/counsel-jq-20210329.749.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:31 packages/counsel-jq-badge.svg
+4.0K -rw-r--r-- 1 root root   37 Aug 17 09:31 packages/counsel-jq-readme.txt

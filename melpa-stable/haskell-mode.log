@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/haskell/haskell-mode.git
 
 Updating /mnt/store/melpa/working/haskell-mode/
+Checking out e72677668f5fc7cc148008e885a0f256e245dd43
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/haskell-mode/
-  to /tmp/haskell-modeB1yTOa/haskell-mode-17.2
+  to /tmp/haskell-modewV8uHx/haskell-mode-17.2
     ghc-core.el -> ghc-core.el
     ghci-script-mode.el -> ghci-script-mode.el
     haskell-align-imports.el -> haskell-align-imports.el
@@ -51,7 +52,7 @@ Copying files (->) and directories (=>)
   ! doc/haskell-mode.texi -> haskell-mode.texi
     NEWS -> NEWS
     logo.svg -> logo.svg
-Created /tmp/haskell-modeB1yTOa/haskell-mode-17.2/haskell-mode.info
+Created /tmp/haskell-modewV8uHx/haskell-mode-17.2/haskell-mode.info
 Created haskell-mode-17.2.tar containing:
   haskell-mode-17.2/
   haskell-mode-17.2/NEWS
@@ -100,9 +101,9 @@ Created haskell-mode-17.2.tar containing:
   haskell-mode-17.2/inf-haskell.el
   haskell-mode-17.2/logo.svg
   haskell-mode-17.2/w3m-haddock.el
-Built haskell-mode in 13.227s, finished at Wed May 19 04:39:41 2021
+Built haskell-mode in 13.081s, finished at 2021-08-17T11:06:53+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  551 May 19 04:39 packages-stable/haskell-mode-17.2.entry
-900K -rw-r--r-- 1 root root 900K May 19 04:39 packages-stable/haskell-mode-17.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/haskell-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  588 May 19 04:39 packages-stable/haskell-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  551 Aug 17 11:06 packages-stable/haskell-mode-17.2.entry
+900K -rw-r--r-- 1 root root 900K Aug 17 11:06 packages-stable/haskell-mode-17.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/haskell-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  588 Aug 17 11:06 packages-stable/haskell-mode-readme.txt

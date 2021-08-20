@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kyleam/bog.git
 
 Updating /mnt/store/melpa/working/bog/
-Built bog in 2.974s, finished at Wed May 19 04:21:28 2021
+Checking out 0277c77a34c912e66213aab574652ba324715980
+Built bog in 4.200s, finished at 2021-08-17T10:46:55+0000
  ✓ Success:
- 56K -rw-r--r-- 1 root root  55K May 19 04:21 packages-stable/bog-1.3.2.el
-4.0K -rw-r--r-- 1 root root  359 May 19 04:21 packages-stable/bog-1.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bog-badge.svg
-4.0K -rw-r--r-- 1 root root  235 May 19 04:21 packages-stable/bog-readme.txt
+ 56K -rw-r--r-- 1 root root  55K Aug 17 10:46 packages-stable/bog-1.3.2.el
+4.0K -rw-r--r-- 1 root root  359 Aug 17 10:46 packages-stable/bog-1.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bog-badge.svg
+4.0K -rw-r--r-- 1 root root  235 Aug 17 10:46 packages-stable/bog-readme.txt

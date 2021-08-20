@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rolandwalker/unicode-progress-reporter.git
 
 Updating /mnt/store/melpa/working/unicode-progress-reporter/
-Built unicode-progress-reporter in 2.962s, finished at Wed May 19 01:53:27 2021
+Checking out 42988d5a3c809d8147bca0b23107fbe23727661c
+Built unicode-progress-reporter in 4.902s, finished at 2021-08-17T11:39:03+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.9K May 19 01:53 packages-stable/unicode-progress-reporter-0.5.4.el
-4.0K -rw-r--r-- 1 root root  549 May 19 01:53 packages-stable/unicode-progress-reporter-0.5.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/unicode-progress-reporter-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 01:53 packages-stable/unicode-progress-reporter-readme.txt
+ 12K -rw-r--r-- 1 root root 9.9K Aug 17 11:39 packages-stable/unicode-progress-reporter-0.5.4.el
+4.0K -rw-r--r-- 1 root root  549 Aug 17 11:39 packages-stable/unicode-progress-reporter-0.5.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/unicode-progress-reporter-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 11:39 packages-stable/unicode-progress-reporter-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/poppyschmo/pytest-pdb-break.git
 
 Updating /mnt/store/melpa/working/pytest-pdb-break/
+Checking out 17d64968595272e34605c2dea730294401c86a99
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pytest-pdb-break/
-  to /tmp/pytest-pdb-breakWcujTC/pytest-pdb-break-0.0.10
+  to /tmp/pytest-pdb-breakhnn0wG/pytest-pdb-break-0.0.10
   ! emacs/pytest-pdb-break-extra.el -> pytest-pdb-break-extra.el
   ! emacs/pytest-pdb-break.el -> pytest-pdb-break.el
   ! pytest_pdb_break.py -> lib/pytest_pdb_break.py
@@ -29,9 +30,9 @@ Created pytest-pdb-break-0.0.10.tar containing:
   pytest-pdb-break-0.0.10/pytest-pdb-break-extra.el
   pytest-pdb-break-0.0.10/pytest-pdb-break-pkg.el
   pytest-pdb-break-0.0.10/pytest-pdb-break.el
-Built pytest-pdb-break in 3.518s, finished at Wed May 19 01:44:57 2021
+Built pytest-pdb-break in 3.548s, finished at 2021-08-17T11:29:29+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  390 May 19 01:44 packages-stable/pytest-pdb-break-0.0.10.entry
-100K -rw-r--r-- 1 root root 100K May 19 01:44 packages-stable/pytest-pdb-break-0.0.10.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pytest-pdb-break-badge.svg
-4.0K -rw-r--r-- 1 root root  650 May 19 01:44 packages-stable/pytest-pdb-break-readme.txt
+4.0K -rw-r--r-- 1 root root  390 Aug 17 11:29 packages-stable/pytest-pdb-break-0.0.10.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:29 packages-stable/pytest-pdb-break-0.0.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/pytest-pdb-break-badge.svg
+4.0K -rw-r--r-- 1 root root  650 Aug 17 11:29 packages-stable/pytest-pdb-break-readme.txt

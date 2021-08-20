@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/alphapapa/org-recent-headings.git
 
 Updating /mnt/store/melpa/working/helm-org-recent-headings/
+Checking out 5ad90c1c5779ae85c52e2eefcd3111b2b5c880c2
 No matching file(s) found in /mnt/store/melpa/working/helm-org-recent-headings/: (helm-org-recent-headings.el)

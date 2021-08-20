@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/vmware/govmomi.git
 
 Updating /mnt/store/melpa/working/govc/
-Built govc in 4.224s, finished at Wed May 19 04:38:26 2021
+Checking out f14a3c557159dc2bd9f49ee09ee20323c475096f
+Built govc in 4.769s, finished at 2021-08-17T11:05:55+0000
  ✓ Success:
- 64K -rw-r--r-- 1 root root  61K May 19 04:38 packages-stable/govc-0.25.0.el
-4.0K -rw-r--r-- 1 root root  440 May 19 04:38 packages-stable/govc-0.25.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/govc-badge.svg
-4.0K -rw-r--r-- 1 root root  595 May 19 04:38 packages-stable/govc-readme.txt
+ 68K -rw-r--r-- 1 root root  61K Aug 17 11:05 packages-stable/govc-0.26.1.el
+4.0K -rw-r--r-- 1 root root  440 Aug 17 11:05 packages-stable/govc-0.26.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/govc-badge.svg
+4.0K -rw-r--r-- 1 root root  595 Aug 17 11:05 packages-stable/govc-readme.txt

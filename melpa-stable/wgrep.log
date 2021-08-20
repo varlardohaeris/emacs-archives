@@ -3,29 +3,30 @@ Fetcher: github
 Source:  https://github.com/mhayashi1120/Emacs-wgrep.git
 
 Updating /mnt/store/melpa/working/wgrep/
-Built wgrep in 3.201s, finished at Wed May 19 01:54:54 2021
+Checking out fcd8c22748024342af15d54f3e7ab5596cf5c4bd
+Built wgrep in 3.961s, finished at 2021-08-17T11:40:42+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  40K May 19 01:54 packages-stable/wgrep-2.3.2.el
-4.0K -rw-r--r-- 1 root root  394 May 19 01:54 packages-stable/wgrep-2.3.2.entry
-4.0K -rw-r--r-- 1 root root 3.5K May 18 22:40 packages-stable/wgrep-ack-2.3.2.el
-4.0K -rw-r--r-- 1 root root  463 May 18 22:40 packages-stable/wgrep-ack-2.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:40 packages-stable/wgrep-ack-badge.svg
-4.0K -rw-r--r-- 1 root root   97 May 18 22:40 packages-stable/wgrep-ack-readme.txt
-4.0K -rw-r--r-- 1 root root  138 May 19 01:54 packages-stable/wgrep-ack.log
-8.0K -rw-r--r-- 1 root root 7.9K May 18 22:40 packages-stable/wgrep-ag-2.3.2.el
-4.0K -rw-r--r-- 1 root root  439 May 18 22:40 packages-stable/wgrep-ag-2.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:40 packages-stable/wgrep-ag-badge.svg
-4.0K -rw-r--r-- 1 root root   84 May 18 22:40 packages-stable/wgrep-ag-readme.txt
-4.0K -rw-r--r-- 1 root root  136 May 19 01:54 packages-stable/wgrep-ag.log
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/wgrep-badge.svg
-4.0K -rw-r--r-- 1 root root 3.7K May 18 22:40 packages-stable/wgrep-helm-2.3.2.el
-4.0K -rw-r--r-- 1 root root  475 May 18 22:40 packages-stable/wgrep-helm-2.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:40 packages-stable/wgrep-helm-badge.svg
-4.0K -rw-r--r-- 1 root root   98 May 18 22:40 packages-stable/wgrep-helm-readme.txt
-4.0K -rw-r--r-- 1 root root  140 May 19 01:54 packages-stable/wgrep-helm.log
-4.0K -rw-r--r-- 1 root root 2.0K May 18 22:40 packages-stable/wgrep-pt-2.3.2.el
-4.0K -rw-r--r-- 1 root root  497 May 18 22:40 packages-stable/wgrep-pt-2.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:40 packages-stable/wgrep-pt-badge.svg
-4.0K -rw-r--r-- 1 root root   84 May 18 22:40 packages-stable/wgrep-pt-readme.txt
-4.0K -rw-r--r-- 1 root root  136 May 19 01:54 packages-stable/wgrep-pt.log
-4.0K -rw-r--r-- 1 root root 2.5K May 19 01:54 packages-stable/wgrep-readme.txt
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:40 packages-stable/wgrep-2.3.2.el
+4.0K -rw-r--r-- 1 root root  394 Aug 17 11:40 packages-stable/wgrep-2.3.2.entry
+4.0K -rw-r--r-- 1 root root 3.4K Aug 17 11:40 packages-stable/wgrep-ack-2.3.2.el
+4.0K -rw-r--r-- 1 root root  463 Aug 17 08:16 packages-stable/wgrep-ack-2.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:16 packages-stable/wgrep-ack-badge.svg
+4.0K -rw-r--r-- 1 root root   97 Aug 17 08:16 packages-stable/wgrep-ack-readme.txt
+4.0K -rw-r--r-- 1 root root  192 Aug 17 11:40 packages-stable/wgrep-ack.log
+8.0K -rw-r--r-- 1 root root 7.8K Aug 17 11:40 packages-stable/wgrep-ag-2.3.2.el
+4.0K -rw-r--r-- 1 root root  439 Aug 17 08:16 packages-stable/wgrep-ag-2.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:16 packages-stable/wgrep-ag-badge.svg
+4.0K -rw-r--r-- 1 root root   84 Aug 17 08:16 packages-stable/wgrep-ag-readme.txt
+4.0K -rw-r--r-- 1 root root  190 Aug 17 11:40 packages-stable/wgrep-ag.log
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/wgrep-badge.svg
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 08:16 packages-stable/wgrep-helm-2.3.2.el
+4.0K -rw-r--r-- 1 root root  475 Aug 17 08:16 packages-stable/wgrep-helm-2.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:16 packages-stable/wgrep-helm-badge.svg
+4.0K -rw-r--r-- 1 root root   98 Aug 17 08:16 packages-stable/wgrep-helm-readme.txt
+4.0K -rw-r--r-- 1 root root  194 Aug 17 11:40 packages-stable/wgrep-helm.log
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 08:16 packages-stable/wgrep-pt-2.3.2.el
+4.0K -rw-r--r-- 1 root root  497 Aug 17 08:16 packages-stable/wgrep-pt-2.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:16 packages-stable/wgrep-pt-badge.svg
+4.0K -rw-r--r-- 1 root root   84 Aug 17 08:16 packages-stable/wgrep-pt-readme.txt
+4.0K -rw-r--r-- 1 root root  136 Aug 17 11:40 packages-stable/wgrep-pt.log
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 11:40 packages-stable/wgrep-readme.txt

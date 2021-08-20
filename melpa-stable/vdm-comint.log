@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/peterwvj/vdm-mode.git
 
 Updating /mnt/store/melpa/working/vdm-comint/
-Built vdm-comint in 3.730s, finished at Wed May 19 01:53:58 2021
+Checking out e131edb0d35de28bd47d6128dd70d9a6fc46e0fa
+Built vdm-comint in 4.847s, finished at 2021-08-17T11:39:40+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.9K May 19 01:53 packages-stable/vdm-comint-0.0.4.el
-4.0K -rw-r--r-- 1 root root  460 May 19 01:53 packages-stable/vdm-comint-0.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/vdm-comint-badge.svg
-4.0K -rw-r--r-- 1 root root  119 May 19 01:53 packages-stable/vdm-comint-readme.txt
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 11:39 packages-stable/vdm-comint-0.0.4.el
+4.0K -rw-r--r-- 1 root root  460 Aug 17 11:39 packages-stable/vdm-comint-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/vdm-comint-badge.svg
+4.0K -rw-r--r-- 1 root root  119 Aug 17 11:39 packages-stable/vdm-comint-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/seagle0128/all-the-icons-ivy-rich.git
 
 Updating /mnt/store/melpa/working/all-the-icons-ivy-rich/
-Built all-the-icons-ivy-rich in 4.697s, finished at Wed May 19 02:58:47 2021
+Checking out origin/HEAD
+Checking out 9aaa6de8396753c1f13b9a8122daca9814905671
+Built all-the-icons-ivy-rich in 4.751s, finished at 2021-08-17T09:21:13+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 02:58 packages/all-the-icons-ivy-rich-20210505.840.el
-4.0K -rw-r--r-- 1 root root  489 May 19 02:58 packages/all-the-icons-ivy-rich-20210505.840.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 02:58 packages/all-the-icons-ivy-rich-badge.svg
-4.0K -rw-r--r-- 1 root root  243 May 19 02:58 packages/all-the-icons-ivy-rich-readme.txt
+ 44K -rw-r--r-- 1 root root  43K Aug 17 09:21 packages/all-the-icons-ivy-rich-20210804.904.el
+4.0K -rw-r--r-- 1 root root  489 Aug 17 09:21 packages/all-the-icons-ivy-rich-20210804.904.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:21 packages/all-the-icons-ivy-rich-badge.svg
+4.0K -rw-r--r-- 1 root root  243 Aug 17 09:21 packages/all-the-icons-ivy-rich-readme.txt

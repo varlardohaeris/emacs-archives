@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/leoliu/easy-kill.git
 
 Updating /mnt/store/melpa/working/easy-kill/
-Built easy-kill in 3.169s, finished at Wed May 19 04:29:12 2021
+Checking out e3b2442e2096cefff94ea8656e49af07fee58f47
+Built easy-kill in 3.863s, finished at 2021-08-17T10:54:49+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  32K May 19 04:29 packages-stable/easy-kill-0.9.3.el
-4.0K -rw-r--r-- 1 root root  390 May 19 04:29 packages-stable/easy-kill-0.9.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/easy-kill-badge.svg
-4.0K -rw-r--r-- 1 root root  395 May 19 04:29 packages-stable/easy-kill-extras-0.9.6.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:29 packages-stable/easy-kill-extras-0.9.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:14 packages-stable/easy-kill-extras-badge.svg
-4.0K -rw-r--r-- 1 root root 2.5K May 19 04:29 packages-stable/easy-kill-extras-readme.txt
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:29 packages-stable/easy-kill-extras.log
-4.0K -rw-r--r-- 1 root root  452 May 19 04:29 packages-stable/easy-kill-readme.txt
+ 32K -rw-r--r-- 1 root root  32K Aug 17 10:54 packages-stable/easy-kill-0.9.3.el
+4.0K -rw-r--r-- 1 root root  390 Aug 17 10:54 packages-stable/easy-kill-0.9.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/easy-kill-badge.svg
+4.0K -rw-r--r-- 1 root root  396 Aug 17 07:25 packages-stable/easy-kill-extras-0.9.10.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 07:25 packages-stable/easy-kill-extras-0.9.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:25 packages-stable/easy-kill-extras-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 07:25 packages-stable/easy-kill-extras-readme.txt
+4.0K -rw-r--r-- 1 root root  205 Aug 17 10:54 packages-stable/easy-kill-extras.log
+4.0K -rw-r--r-- 1 root root  452 Aug 17 10:54 packages-stable/easy-kill-readme.txt

@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/bastibe/annotate.el.git
 
 Updating /mnt/store/melpa/working/annotate/
-Built annotate in 3.392s, finished at Wed May 19 04:19:26 2021
+Checking out 4cc32fc2fb403dd0c501ffe7c23ba13fd23fd6ec
+Built annotate in 3.929s, finished at 2021-08-17T10:44:15+0000
  ✓ Success:
-120K -rw-r--r-- 1 root root 120K May 19 04:19 packages-stable/annotate-0.8.3.el
-4.0K -rw-r--r-- 1 root root  277 May 19 04:19 packages-stable/annotate-0.8.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/annotate-badge.svg
-4.0K -rw-r--r-- 1 root root  197 May 19 04:19 packages-stable/annotate-depth.log
-4.0K -rw-r--r-- 1 root root  674 May 19 04:19 packages-stable/annotate-readme.txt
+120K -rw-r--r-- 1 root root 120K Aug 17 10:44 packages-stable/annotate-0.8.3.el
+4.0K -rw-r--r-- 1 root root  277 Aug 17 10:44 packages-stable/annotate-0.8.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/annotate-badge.svg
+4.0K -rw-r--r-- 1 root root  197 Aug 17 10:44 packages-stable/annotate-depth.log
+4.0K -rw-r--r-- 1 root root  674 Aug 17 10:44 packages-stable/annotate-readme.txt

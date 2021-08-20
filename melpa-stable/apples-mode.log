@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tequilasunset/apples-mode.git
 
 Updating /mnt/store/melpa/working/apples-mode/
+Checking out fac47b6255e79a373c5d5e1abe66ea5d74588e9f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/apples-mode/
-  to /tmp/apples-modelQDsHb/apples-mode-0.0.2
+  to /tmp/apples-modefMgFYE/apples-mode-0.0.2
     apples-mode.el -> apples-mode.el
     apples-mode => apples-mode
 Created apples-mode-0.0.2.tar containing:
@@ -31,9 +32,9 @@ Created apples-mode-0.0.2.tar containing:
   apples-mode-0.0.2/apples-mode/using-terms-from-application
   apples-mode-0.0.2/apples-mode/with-timeout-of-seconds
   apples-mode-0.0.2/apples-mode/with-transaction
-Built apples-mode in 2.749s, finished at Wed May 19 04:19:40 2021
+Built apples-mode in 7.044s, finished at 2021-08-17T10:44:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  354 May 19 04:19 packages-stable/apples-mode-0.0.2.entry
- 80K -rw-r--r-- 1 root root  80K May 19 04:19 packages-stable/apples-mode-0.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/apples-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 04:19 packages-stable/apples-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  354 Aug 17 10:44 packages-stable/apples-mode-0.0.2.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 10:44 packages-stable/apples-mode-0.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/apples-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 10:44 packages-stable/apples-mode-readme.txt

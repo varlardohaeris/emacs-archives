@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ljos/sparql-mode.git
 
 Updating /mnt/store/melpa/working/sparql-mode/
+Checking out 2837b97244111515c61fb3823c1479bc126a458b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sparql-mode/
-  to /tmp/sparql-modeDTYAhI/sparql-mode-4.0.2
+  to /tmp/sparql-modenoxAlg/sparql-mode-4.0.2
     company-sparql.el -> company-sparql.el
     ob-sparql.el -> ob-sparql.el
     sparql-mode.el -> sparql-mode.el
@@ -15,9 +16,9 @@ Created sparql-mode-4.0.2.tar containing:
   sparql-mode-4.0.2/ob-sparql.el
   sparql-mode-4.0.2/sparql-mode-pkg.el
   sparql-mode-4.0.2/sparql-mode.el
-Built sparql-mode in 2.766s, finished at Wed May 19 01:49:51 2021
+Built sparql-mode in 4.918s, finished at 2021-08-17T11:34:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  410 May 19 01:49 packages-stable/sparql-mode-4.0.2.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:49 packages-stable/sparql-mode-4.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/sparql-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   62 May 19 01:49 packages-stable/sparql-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  410 Aug 17 11:34 packages-stable/sparql-mode-4.0.2.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:34 packages-stable/sparql-mode-4.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/sparql-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   62 Aug 17 11:34 packages-stable/sparql-mode-readme.txt

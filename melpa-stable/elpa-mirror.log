@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/elpa-mirror.git
 
 Updating /mnt/store/melpa/working/elpa-mirror/
+Checking out abc8d7b7de12e4eb06efa2dbb1cc77a714f14479
 Note: elpa-mirror :files spec is equivalent to the default.
-Built elpa-mirror in 3.261s, finished at Wed May 19 04:30:29 2021
+Built elpa-mirror in 3.767s, finished at 2021-08-17T10:56:39+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:30 packages-stable/elpa-mirror-2.1.6.el
-4.0K -rw-r--r-- 1 root root  400 May 19 04:30 packages-stable/elpa-mirror-2.1.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elpa-mirror-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:30 packages-stable/elpa-mirror-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 10:56 packages-stable/elpa-mirror-2.1.6.el
+4.0K -rw-r--r-- 1 root root  400 Aug 17 10:56 packages-stable/elpa-mirror-2.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elpa-mirror-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:56 packages-stable/elpa-mirror-readme.txt

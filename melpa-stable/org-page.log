@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/org-page.git
 
 Updating /mnt/store/melpa/working/org-page/
+Checking out 09febf89d8dcb226aeedf8164169b31937b64439
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-page/
-  to /tmp/org-pageFSuNV1/org-page-0.41
+  to /tmp/org-pagexrAY0B/org-page-0.41
     op-enhance.el -> op-enhance.el
     op-export.el -> op-export.el
     op-git.el -> op-git.el
@@ -64,9 +65,9 @@ Created org-page-0.41.tar containing:
   org-page-0.41/themes/mdo/templates/tag-index.mustache
   org-page-0.41/themes/mdo/templates/tag.mustache
   org-page-0.41/themes/mdo/templates/template.html
-Built org-page in 3.363s, finished at Wed May 19 01:39:42 2021
+Built org-page in 4.394s, finished at 2021-08-17T11:23:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  479 May 19 01:39 packages-stable/org-page-0.41.entry
-420K -rw-r--r-- 1 root root 420K May 19 01:39 packages-stable/org-page-0.41.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-page-badge.svg
-4.0K -rw-r--r-- 1 root root  569 May 19 01:39 packages-stable/org-page-readme.txt
+4.0K -rw-r--r-- 1 root root  479 Aug 17 11:23 packages-stable/org-page-0.41.entry
+420K -rw-r--r-- 1 root root 420K Aug 17 11:23 packages-stable/org-page-0.41.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:23 packages-stable/org-page-badge.svg
+4.0K -rw-r--r-- 1 root root  569 Aug 17 11:23 packages-stable/org-page-readme.txt

@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/chrisbarrett/skeletor.el.git
 
 Updating /mnt/store/melpa/working/skeletor/
+Checking out d986806559628623b591542143707de8d76347d0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/skeletor/
-  to /tmp/skeletoro9G2f9/skeletor-1.6.1
+  to /tmp/skeletorCkVlUg/skeletor-1.6.1
     skeletor.el -> skeletor.el
   ! doc/fdl-1.3.texi -> fdl-1.3.texi
     licenses => licenses
     project-skeletons => project-skeletons
-Created /tmp/skeletoro9G2f9/skeletor-1.6.1/fdl-1.3.info
+Created /tmp/skeletorCkVlUg/skeletor-1.6.1/fdl-1.3.info
 Created skeletor-1.6.1.tar containing:
   skeletor-1.6.1/
   skeletor-1.6.1/dir
@@ -70,9 +71,9 @@ Created skeletor-1.6.1.tar containing:
   skeletor-1.6.1/project-skeletons/scala-project/build.sbt
   skeletor-1.6.1/skeletor-pkg.el
   skeletor-1.6.1/skeletor.el
-Built skeletor in 7.131s, finished at Wed May 19 01:48:46 2021
+Built skeletor in 5.802s, finished at 2021-08-17T11:33:40+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  416 May 19 01:48 packages-stable/skeletor-1.6.1.entry
-212K -rw-r--r-- 1 root root 210K May 19 01:48 packages-stable/skeletor-1.6.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/skeletor-badge.svg
-4.0K -rw-r--r-- 1 root root  525 May 19 01:48 packages-stable/skeletor-readme.txt
+4.0K -rw-r--r-- 1 root root  416 Aug 17 11:33 packages-stable/skeletor-1.6.1.entry
+212K -rw-r--r-- 1 root root 210K Aug 17 11:33 packages-stable/skeletor-1.6.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/skeletor-badge.svg
+4.0K -rw-r--r-- 1 root root  525 Aug 17 11:33 packages-stable/skeletor-readme.txt

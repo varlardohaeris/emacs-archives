@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/ralph-schleicher/emacs-openfoam.git
 
 Updating /mnt/store/melpa/working/openfoam/
-Built openfoam in 6.529s, finished at Wed May 19 03:49:36 2021
+Checking out origin/HEAD
+Checking out 1623aa8d9f72128cc007f84b108d2f6c6205c330
+Built openfoam in 6.681s, finished at 2021-08-17T10:14:06+0000
  ✓ Success:
- 56K -rw-r--r-- 1 root root  54K May 19 03:49 packages/openfoam-20210508.1903.el
-4.0K -rw-r--r-- 1 root root  397 May 19 03:49 packages/openfoam-20210508.1903.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:49 packages/openfoam-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 03:49 packages/openfoam-readme.txt
+ 56K -rw-r--r-- 1 root root  54K Aug 17 10:14 packages/openfoam-20210508.1903.el
+4.0K -rw-r--r-- 1 root root  397 Aug 17 10:14 packages/openfoam-20210508.1903.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:14 packages/openfoam-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:14 packages/openfoam-readme.txt

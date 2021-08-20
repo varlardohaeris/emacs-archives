@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ongaeshi/jump-to-line.git
 
 Updating /mnt/store/melpa/working/jump-to-line/
-Built jump-to-line in 3.276s, finished at Wed May 19 04:45:18 2021
+Checking out 01ef8c3529d85e6c59cc20840acbc4a8e8325bc8
+Built jump-to-line in 4.001s, finished at 2021-08-17T11:13:42+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.7K May 19 04:45 packages-stable/jump-to-line-0.2.0.el
-4.0K -rw-r--r-- 1 root root  280 May 19 04:45 packages-stable/jump-to-line-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/jump-to-line-badge.svg
-4.0K -rw-r--r-- 1 root root   30 May 19 04:45 packages-stable/jump-to-line-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K Aug 17 11:13 packages-stable/jump-to-line-0.2.0.el
+4.0K -rw-r--r-- 1 root root  280 Aug 17 11:13 packages-stable/jump-to-line-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/jump-to-line-badge.svg
+4.0K -rw-r--r-- 1 root root   30 Aug 17 11:13 packages-stable/jump-to-line-readme.txt

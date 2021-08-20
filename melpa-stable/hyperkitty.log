@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/maxking/hyperkitty.el.git
 
 Updating /mnt/store/melpa/working/hyperkitty/
-Built hyperkitty in 2.900s, finished at Wed May 19 04:42:25 2021
+Checking out 311d0adf3af3894d198eff965af3a181eda82bd1
+Built hyperkitty in 3.927s, finished at 2021-08-17T11:10:29+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:42 packages-stable/hyperkitty-0.0.2.el
-4.0K -rw-r--r-- 1 root root  455 May 19 04:42 packages-stable/hyperkitty-0.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hyperkitty-badge.svg
-4.0K -rw-r--r-- 1 root root  422 May 19 04:42 packages-stable/hyperkitty-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:10 packages-stable/hyperkitty-0.0.2.el
+4.0K -rw-r--r-- 1 root root  455 Aug 17 11:10 packages-stable/hyperkitty-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/hyperkitty-badge.svg
+4.0K -rw-r--r-- 1 root root  422 Aug 17 11:10 packages-stable/hyperkitty-readme.txt

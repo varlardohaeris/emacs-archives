@@ -3,15 +3,16 @@ Fetcher: github
 Source:  https://github.com/skeeto/elisp-json-rpc.git
 
 Updating /mnt/store/melpa/working/json-rpc/
+Checking out b59633a654ad52aac40488849a7594723187e43e
 Note: json-rpc :files spec is equivalent to the default.
-Built json-rpc in 2.939s, finished at Wed May 19 04:45:08 2021
+Built json-rpc in 3.387s, finished at 2021-08-17T11:13:31+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.3K May 19 04:45 packages-stable/json-rpc-0.0.1.el
-4.0K -rw-r--r-- 1 root root  370 May 19 04:45 packages-stable/json-rpc-0.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/json-rpc-badge.svg
-4.0K -rw-r--r-- 1 root root  498 May 19 04:45 packages-stable/json-rpc-readme.txt
- 28K -rw-r--r-- 1 root root  27K May 19 04:45 packages-stable/json-rpc-server-0.2.0.el
-4.0K -rw-r--r-- 1 root root  355 May 19 01:30 packages-stable/json-rpc-server-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:30 packages-stable/json-rpc-server-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 01:30 packages-stable/json-rpc-server-readme.txt
-4.0K -rw-r--r-- 1 root root  149 May 19 04:45 packages-stable/json-rpc-server.log
+8.0K -rw-r--r-- 1 root root 7.3K Aug 17 11:13 packages-stable/json-rpc-0.0.1.el
+4.0K -rw-r--r-- 1 root root  370 Aug 17 11:13 packages-stable/json-rpc-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/json-rpc-badge.svg
+4.0K -rw-r--r-- 1 root root  498 Aug 17 11:13 packages-stable/json-rpc-readme.txt
+ 28K -rw-r--r-- 1 root root  27K Aug 17 11:13 packages-stable/json-rpc-server-0.2.0.el
+4.0K -rw-r--r-- 1 root root  355 Aug 17 07:47 packages-stable/json-rpc-server-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:47 packages-stable/json-rpc-server-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 07:47 packages-stable/json-rpc-server-readme.txt
+4.0K -rw-r--r-- 1 root root  203 Aug 17 11:13 packages-stable/json-rpc-server.log

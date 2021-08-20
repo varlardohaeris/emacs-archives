@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mattfidler/fold-dwim-org.git
 
 Updating /mnt/store/melpa/working/fold-dwim-org/
-Built fold-dwim-org in 2.804s, finished at Wed May 19 04:35:58 2021
+Checking out f260553d8fb283d05b4f21b1cd5fa960d3492172
+Built fold-dwim-org in 4.242s, finished at 2021-08-17T11:03:04+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 04:35 packages-stable/fold-dwim-org-0.6.el
-4.0K -rw-r--r-- 1 root root  357 May 19 04:35 packages-stable/fold-dwim-org-0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/fold-dwim-org-badge.svg
-4.0K -rw-r--r-- 1 root root   71 May 19 04:35 packages-stable/fold-dwim-org-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 11:03 packages-stable/fold-dwim-org-0.6.el
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:03 packages-stable/fold-dwim-org-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fold-dwim-org-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Aug 17 11:03 packages-stable/fold-dwim-org-readme.txt

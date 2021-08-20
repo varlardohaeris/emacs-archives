@@ -1,0 +1,12 @@
+Package: vline
+Fetcher: github
+Source:  https://github.com/buzztaiki/vline.git
+
+Updating /mnt/store/melpa/working/vline/
+Checking out bc29e08c8e04845fb0e09155fe8f5212862f0a92
+Built vline in 4.351s, finished at 2021-08-17T11:40:01+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:40 packages-stable/vline-1.11.el
+4.0K -rw-r--r-- 1 root root  367 Aug 17 11:40 packages-stable/vline-1.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/vline-badge.svg
+4.0K -rw-r--r-- 1 root root  651 Aug 17 11:40 packages-stable/vline-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rolandwalker/anaphora.git
 
 Updating /mnt/store/melpa/working/anaphora/
-Built anaphora in 3.002s, finished at Wed May 19 04:19:20 2021
+Checking out 862a17f1c50ce3f8d055002b914001813968a5b0
+Built anaphora in 3.665s, finished at 2021-08-17T10:44:08+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:19 packages-stable/anaphora-1.0.4.el
-4.0K -rw-r--r-- 1 root root  358 May 19 04:19 packages-stable/anaphora-1.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/anaphora-badge.svg
-4.0K -rw-r--r-- 1 root root 2.0K May 19 04:19 packages-stable/anaphora-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 10:44 packages-stable/anaphora-1.0.4.el
+4.0K -rw-r--r-- 1 root root  358 Aug 17 10:44 packages-stable/anaphora-1.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/anaphora-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 10:44 packages-stable/anaphora-readme.txt

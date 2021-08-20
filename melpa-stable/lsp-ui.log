@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-ui.git
 
 Updating /mnt/store/melpa/working/lsp-ui/
+Checking out 449f3a6b80a60d88c4ed300e69d64eb8e875f1c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-ui/
-  to /tmp/lsp-uiiJphwR/lsp-ui-7.0.1
+  to /tmp/lsp-uiep3yik/lsp-ui-7.0.1
     lsp-ui-doc.el -> lsp-ui-doc.el
     lsp-ui-flycheck.el -> lsp-ui-flycheck.el
     lsp-ui-imenu.el -> lsp-ui-imenu.el
@@ -23,9 +24,9 @@ Created lsp-ui-7.0.1.tar containing:
   lsp-ui-7.0.1/lsp-ui-pkg.el
   lsp-ui-7.0.1/lsp-ui-sideline.el
   lsp-ui-7.0.1/lsp-ui.el
-Built lsp-ui in 3.148s, finished at Wed May 19 01:33:15 2021
+Built lsp-ui in 3.956s, finished at 2021-08-17T11:16:31+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  509 May 19 01:33 packages-stable/lsp-ui-7.0.1.entry
-132K -rw-r--r-- 1 root root 130K May 19 01:33 packages-stable/lsp-ui-7.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-ui-badge.svg
-4.0K -rw-r--r-- 1 root root  104 May 19 01:33 packages-stable/lsp-ui-readme.txt
+4.0K -rw-r--r-- 1 root root  509 Aug 17 11:16 packages-stable/lsp-ui-7.0.1.entry
+132K -rw-r--r-- 1 root root 130K Aug 17 11:16 packages-stable/lsp-ui-7.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-ui-badge.svg
+4.0K -rw-r--r-- 1 root root  104 Aug 17 11:16 packages-stable/lsp-ui-readme.txt

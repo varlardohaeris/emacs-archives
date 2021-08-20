@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/roman/navorski.el.git
 
 Updating /mnt/store/melpa/working/navorski/
-Built navorski in 3.044s, finished at Wed May 19 01:37:06 2021
+Checking out 4546d4e4dfbec20ee8c423c045408a3388a9eab9
+Built navorski in 3.838s, finished at 2021-08-17T11:20:29+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  26K May 19 01:37 packages-stable/navorski-0.2.7.el
-4.0K -rw-r--r-- 1 root root  427 May 19 01:37 packages-stable/navorski-0.2.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/navorski-badge.svg
+ 28K -rw-r--r-- 1 root root  26K Aug 17 11:20 packages-stable/navorski-0.2.7.el
+4.0K -rw-r--r-- 1 root root  427 Aug 17 11:20 packages-stable/navorski-0.2.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/navorski-badge.svg

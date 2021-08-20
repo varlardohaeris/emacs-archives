@@ -1,0 +1,12 @@
+Package: lsp-ltex
+Fetcher: github
+Source:  https://github.com/emacs-languagetool/lsp-ltex.git
+
+Updating /mnt/store/melpa/working/lsp-ltex/
+Checking out 5546970c7949d498947e4b6a281707feb2aee928
+Built lsp-ltex in 3.674s, finished at 2021-08-17T11:16:20+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:16 packages-stable/lsp-ltex-0.1.0.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 11:16 packages-stable/lsp-ltex-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-ltex-badge.svg
+4.0K -rw-r--r-- 1 root root   36 Aug 17 11:16 packages-stable/lsp-ltex-readme.txt

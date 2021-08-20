@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/magit/ghub.git
 
 Updating /mnt/store/melpa/working/ghub/
+Checking out origin/HEAD
+Checking out 00a77b79c28e22db1b151c3f7857073ccbeff726
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub/
-  to /tmp/ghubETC8c0/ghub-20210427.1239
+  to /tmp/ghubk3naN5/ghub-20210727.1414
     buck.el -> buck.el
     ghub-graphql.el -> ghub-graphql.el
     ghub-pkg.el -> ghub-pkg.el
@@ -15,22 +17,22 @@ Copying files (->) and directories (=>)
     gsexp.el -> gsexp.el
     gtea.el -> gtea.el
     ghub.texi -> ghub.texi
-Created /tmp/ghubETC8c0/ghub-20210427.1239/ghub.info
-Created ghub-20210427.1239.tar containing:
-  ghub-20210427.1239/
-  ghub-20210427.1239/buck.el
-  ghub-20210427.1239/dir
-  ghub-20210427.1239/ghub-graphql.el
-  ghub-20210427.1239/ghub-pkg.el
-  ghub-20210427.1239/ghub.el
-  ghub-20210427.1239/ghub.info
-  ghub-20210427.1239/glab.el
-  ghub-20210427.1239/gogs.el
-  ghub-20210427.1239/gsexp.el
-  ghub-20210427.1239/gtea.el
-Built ghub in 9.494s, finished at Wed May 19 03:25:39 2021
+Created /tmp/ghubk3naN5/ghub-20210727.1414/ghub.info
+Created ghub-20210727.1414.tar containing:
+  ghub-20210727.1414/
+  ghub-20210727.1414/buck.el
+  ghub-20210727.1414/dir
+  ghub-20210727.1414/ghub-graphql.el
+  ghub-20210727.1414/ghub-pkg.el
+  ghub-20210727.1414/ghub.el
+  ghub-20210727.1414/ghub.info
+  ghub-20210727.1414/glab.el
+  ghub-20210727.1414/gogs.el
+  ghub-20210727.1414/gsexp.el
+  ghub-20210727.1414/gtea.el
+Built ghub in 10.126s, finished at 2021-08-17T09:49:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  401 May 19 03:25 packages/ghub-20210427.1239.entry
-152K -rw-r--r-- 1 root root 150K May 19 03:25 packages/ghub-20210427.1239.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:25 packages/ghub-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 03:25 packages/ghub-readme.txt
+4.0K -rw-r--r-- 1 root root  401 Aug 17 09:49 packages/ghub-20210727.1414.entry
+152K -rw-r--r-- 1 root root 150K Aug 17 09:49 packages/ghub-20210727.1414.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:49 packages/ghub-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 09:49 packages/ghub-readme.txt

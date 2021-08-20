@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ffevotte/desktop-plus.git
 
 Updating /mnt/store/melpa/working/desktop+/
-Built desktop+ in 4.620s, finished at Wed May 19 04:27:04 2021
+Checking out a9cb8dd0af5071d9f148211b408c54306239381c
+Built desktop+ in 4.164s, finished at 2021-08-17T10:52:48+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 04:27 packages-stable/desktop+-0.2.el
-4.0K -rw-r--r-- 1 root root  418 May 19 04:27 packages-stable/desktop+-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/desktop+-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:27 packages-stable/desktop+-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 10:52 packages-stable/desktop+-0.2.el
+4.0K -rw-r--r-- 1 root root  418 Aug 17 10:52 packages-stable/desktop+-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/desktop+-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:52 packages-stable/desktop+-readme.txt

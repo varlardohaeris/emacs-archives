@@ -1,0 +1,12 @@
+Package: elfeed-autotag
+Fetcher: github
+Source:  https://github.com/paulelms/elfeed-autotag.git
+
+Updating /mnt/store/melpa/working/elfeed-autotag/
+Checking out bc62c37fb79b720ff8b6d67f04f2268841306dcd
+Built elfeed-autotag in 7.878s, finished at 2021-08-17T10:56:05+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Aug 17 10:56 packages-stable/elfeed-autotag-0.1.2.el
+4.0K -rw-r--r-- 1 root root  474 Aug 17 10:56 packages-stable/elfeed-autotag-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elfeed-autotag-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Aug 17 10:56 packages-stable/elfeed-autotag-readme.txt

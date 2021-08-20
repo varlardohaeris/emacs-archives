@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/dired-imenu.git
 
 Updating /mnt/store/melpa/working/dired-imenu/
+Checking out 610e21fe0988c85931d34894d3eee2442c79ab0a
 Note: dired-imenu :files spec is equivalent to the default.
-Built dired-imenu in 5.495s, finished at Wed May 19 04:27:53 2021
+Built dired-imenu in 3.703s, finished at 2021-08-17T10:53:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 04:27 packages-stable/dired-imenu-0.5.0.el
-4.0K -rw-r--r-- 1 root root  377 May 19 04:27 packages-stable/dired-imenu-0.5.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-imenu-badge.svg
-4.0K -rw-r--r-- 1 root root  256 May 19 04:27 packages-stable/dired-imenu-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 10:53 packages-stable/dired-imenu-0.5.0.el
+4.0K -rw-r--r-- 1 root root  377 Aug 17 10:53 packages-stable/dired-imenu-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dired-imenu-badge.svg
+4.0K -rw-r--r-- 1 root root  256 Aug 17 10:53 packages-stable/dired-imenu-readme.txt

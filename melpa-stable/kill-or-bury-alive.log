@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mrkkrp/kill-or-bury-alive.git
 
 Updating /mnt/store/melpa/working/kill-or-bury-alive/
-Built kill-or-bury-alive in 3.555s, finished at Wed May 19 01:31:20 2021
+Checking out 51daf55565034b8cb6aa3ca2aa0a827e31751041
+Built kill-or-bury-alive in 4.903s, finished at 2021-08-17T11:14:18+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  10K May 19 01:31 packages-stable/kill-or-bury-alive-0.1.3.el
-4.0K -rw-r--r-- 1 root root  480 May 19 01:31 packages-stable/kill-or-bury-alive-0.1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/kill-or-bury-alive-badge.svg
-4.0K -rw-r--r-- 1 root root  822 May 19 01:31 packages-stable/kill-or-bury-alive-readme.txt
+ 12K -rw-r--r-- 1 root root  10K Aug 17 11:14 packages-stable/kill-or-bury-alive-0.1.3.el
+4.0K -rw-r--r-- 1 root root  480 Aug 17 11:14 packages-stable/kill-or-bury-alive-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/kill-or-bury-alive-badge.svg
+4.0K -rw-r--r-- 1 root root  822 Aug 17 11:14 packages-stable/kill-or-bury-alive-readme.txt

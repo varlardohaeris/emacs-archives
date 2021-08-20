@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mpdel/mpdel.git
 
 Updating /mnt/store/melpa/working/mpdel/
+Checking out 9370631540b74fd75d024e3bfacb962a09498063
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mpdel/
-  to /tmp/mpdelaQaYUA/mpdel-1.0.0
+  to /tmp/mpdeljnM5bY/mpdel-1.0.0
     mpdel-core.el -> mpdel-core.el
     mpdel-nav.el -> mpdel-nav.el
     mpdel-playlist.el -> mpdel-playlist.el
@@ -19,9 +20,9 @@ Created mpdel-1.0.0.tar containing:
   mpdel-1.0.0/mpdel-playlist.el
   mpdel-1.0.0/mpdel-song.el
   mpdel-1.0.0/mpdel.el
-Built mpdel in 3.454s, finished at Wed May 19 01:36:13 2021
+Built mpdel in 3.668s, finished at 2021-08-17T11:19:35+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  354 May 19 01:36 packages-stable/mpdel-1.0.0.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:36 packages-stable/mpdel-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mpdel-badge.svg
-4.0K -rw-r--r-- 1 root root  286 May 19 01:36 packages-stable/mpdel-readme.txt
+4.0K -rw-r--r-- 1 root root  354 Aug 17 11:19 packages-stable/mpdel-1.0.0.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:19 packages-stable/mpdel-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/mpdel-badge.svg
+4.0K -rw-r--r-- 1 root root  286 Aug 17 11:19 packages-stable/mpdel-readme.txt

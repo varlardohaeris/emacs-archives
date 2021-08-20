@@ -3,7 +3,7 @@
 	   ((emacs
 	     (24 4)))
 	   "Weather forecasts" single
-	   ((:commit . "7bb01664b45fc08b7d013c91073cf3ce0d313984")
+	   ((:commit . "8a3b529d5ece261a8847298ea03ed35615cc9bfa")
 	    (:authors
 	     ("Göktuğ Kayaalp" . "self@gkayaalp.com"))
 	    (:maintainer "Göktuğ Kayaalp" . "self@gkayaalp.com")

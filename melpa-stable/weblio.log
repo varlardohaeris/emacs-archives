@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/pzel/weblio.git
 
 Updating /mnt/store/melpa/working/weblio/
-Built weblio in 3.179s, finished at Wed May 19 01:54:47 2021
+Checking out 2b4b0c206440b5c63960214feacfceb0c26231c7
+Built weblio in 4.247s, finished at 2021-08-17T11:40:33+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.3K May 19 01:54 packages-stable/weblio-0.3.3.el
-4.0K -rw-r--r-- 1 root root  324 May 19 01:54 packages-stable/weblio-0.3.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/weblio-badge.svg
-4.0K -rw-r--r-- 1 root root  244 May 19 01:54 packages-stable/weblio-readme.txt
+4.0K -rw-r--r-- 1 root root 3.3K Aug 17 11:40 packages-stable/weblio-0.3.4.el
+4.0K -rw-r--r-- 1 root root  324 Aug 17 11:40 packages-stable/weblio-0.3.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/weblio-badge.svg
+4.0K -rw-r--r-- 1 root root  244 Aug 17 11:40 packages-stable/weblio-readme.txt

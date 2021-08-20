@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-sly.git
 
 Updating /mnt/store/melpa/working/helm-sly/
-Built helm-sly in 2.927s, finished at Wed May 19 04:41:15 2021
+Checking out 3691626c80620e992a338c3222283d9149f1ecb5
+Built helm-sly in 3.584s, finished at 2021-08-17T11:09:11+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  28K May 19 04:41 packages-stable/helm-sly-0.7.2.el
-4.0K -rw-r--r-- 1 root root  472 May 19 04:41 packages-stable/helm-sly-0.7.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-sly-badge.svg
-4.0K -rw-r--r-- 1 root root  941 May 19 04:41 packages-stable/helm-sly-readme.txt
+ 28K -rw-r--r-- 1 root root  28K Aug 17 11:09 packages-stable/helm-sly-0.7.2.el
+4.0K -rw-r--r-- 1 root root  472 Aug 17 11:09 packages-stable/helm-sly-0.7.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/helm-sly-badge.svg
+4.0K -rw-r--r-- 1 root root  941 Aug 17 11:09 packages-stable/helm-sly-readme.txt

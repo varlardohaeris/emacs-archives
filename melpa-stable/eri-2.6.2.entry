@@ -1,0 +1,5 @@
+(eri .
+     [(2 6 2)
+      nil "Enhanced relative indentation (eri)" single
+      ((:commit . "246a229faea2ef2fa53caf491ff8a2d72dd7510c")
+       (:url . "https://github.com/agda/agda"))])

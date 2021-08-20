@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/emacscollective/packed.git
 
 Updating /mnt/store/melpa/working/packed/
+Checking out origin/HEAD
+Checking out ed63b4803899c3719aeeba461e249c473e5b26f0
 Note: packed :files spec is equivalent to the default.
-Built packed in 4.980s, finished at Wed May 19 03:53:54 2021
+Built packed in 4.951s, finished at 2021-08-17T10:18:39+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  21K May 19 03:53 packages/packed-20210503.2046.el
-4.0K -rw-r--r-- 1 root root  414 May 19 03:53 packages/packed-20210503.2046.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:53 packages/packed-badge.svg
-4.0K -rw-r--r-- 1 root root  548 May 19 03:53 packages/packed-readme.txt
+ 24K -rw-r--r-- 1 root root  21K Aug 17 10:18 packages/packed-20210503.2046.el
+4.0K -rw-r--r-- 1 root root  414 Aug 17 10:18 packages/packed-20210503.2046.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:18 packages/packed-badge.svg
+4.0K -rw-r--r-- 1 root root  548 Aug 17 10:18 packages/packed-readme.txt

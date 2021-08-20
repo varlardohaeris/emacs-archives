@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/ProofGeneral/PG.git
 
 Updating /mnt/store/melpa/working/proof-general/
+Checking out a10155a4f36007c4c3746fb9bef77b9bcb74ae5e
 proof-general[-pkg].el matching package name is missing

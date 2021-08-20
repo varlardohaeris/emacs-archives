@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/syl20bnr/evil-escape.git
 
 Updating /mnt/store/melpa/working/evil-escape/
-Built evil-escape in 3.005s, finished at Wed May 19 04:32:13 2021
+Checking out b4d44fc5015341e484495fc86b73d09b2ac062ec
+Built evil-escape in 4.345s, finished at 2021-08-17T10:58:45+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 04:32 packages-stable/evil-escape-3.14.el
-4.0K -rw-r--r-- 1 root root  486 May 19 04:32 packages-stable/evil-escape-3.14.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-escape-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 04:32 packages-stable/evil-escape-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 10:58 packages-stable/evil-escape-3.14.el
+4.0K -rw-r--r-- 1 root root  486 Aug 17 10:58 packages-stable/evil-escape-3.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/evil-escape-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 10:58 packages-stable/evil-escape-readme.txt

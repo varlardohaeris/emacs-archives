@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/osv/company-web.git
 
 Updating /mnt/store/melpa/working/company-web/
+Checking out f0cc9187c9c34f72ad71f5649a69c74f996bae9a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-web/
-  to /tmp/company-webomJxHg/company-web-2.1
+  to /tmp/company-websvQatU/company-web-2.1
     company-web-html.el -> company-web-html.el
     company-web-jade.el -> company-web-jade.el
     company-web-slim.el -> company-web-slim.el
@@ -17,9 +18,9 @@ Created company-web-2.1.tar containing:
   company-web-2.1/company-web-pkg.el
   company-web-2.1/company-web-slim.el
   company-web-2.1/company-web.el
-Built company-web in 2.675s, finished at Wed May 19 04:24:52 2021
+Built company-web in 5.807s, finished at 2021-08-17T10:50:46+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  532 May 19 04:24 packages-stable/company-web-2.1.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:24 packages-stable/company-web-2.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-web-badge.svg
-4.0K -rw-r--r-- 1 root root  904 May 19 04:24 packages-stable/company-web-readme.txt
+4.0K -rw-r--r-- 1 root root  532 Aug 17 10:50 packages-stable/company-web-2.1.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 10:50 packages-stable/company-web-2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/company-web-badge.svg
+4.0K -rw-r--r-- 1 root root  904 Aug 17 10:50 packages-stable/company-web-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/davep/uptimes.el.git
 
 Updating /mnt/store/melpa/working/uptimes/
-Built uptimes in 4.521s, finished at Wed May 19 04:12:39 2021
+Checking out origin/HEAD
+Checking out 29ae6585eeed5a00719b2e52f5ae1082087c1778
+Built uptimes in 4.983s, finished at 2021-08-17T14:03:07+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.7K May 19 04:12 packages/uptimes-20191121.1030.el
-4.0K -rw-r--r-- 1 root root  390 May 19 04:12 packages/uptimes-20191121.1030.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:12 packages/uptimes-badge.svg
-4.0K -rw-r--r-- 1 root root  287 May 19 04:12 packages/uptimes-readme.txt
+ 12K -rw-r--r-- 1 root root 9.7K Aug 17 14:03 packages/uptimes-20191121.1030.el
+4.0K -rw-r--r-- 1 root root  390 Aug 17 14:03 packages/uptimes-20191121.1030.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:03 packages/uptimes-badge.svg
+4.0K -rw-r--r-- 1 root root  287 Aug 17 14:03 packages/uptimes-readme.txt

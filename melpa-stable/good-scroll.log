@@ -3,21 +3,22 @@ Fetcher: github
 Source:  https://github.com/io12/good-scroll.el.git
 
 Updating /mnt/store/melpa/working/good-scroll/
+Checking out 8530d6697b1534de0146275c80faccae35fa36fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/good-scroll/
-  to /tmp/good-scrollnA8MSe/good-scroll-0.4.0
+  to /tmp/good-scrollEtoK5S/good-scroll-2.0.1
     good-scroll-bezier.el -> good-scroll-bezier.el
     good-scroll-linear.el -> good-scroll-linear.el
     good-scroll.el -> good-scroll.el
-Created good-scroll-0.4.0.tar containing:
-  good-scroll-0.4.0/
-  good-scroll-0.4.0/good-scroll-bezier.el
-  good-scroll-0.4.0/good-scroll-linear.el
-  good-scroll-0.4.0/good-scroll-pkg.el
-  good-scroll-0.4.0/good-scroll.el
-Built good-scroll in 3.037s, finished at Wed May 19 04:38:15 2021
+Created good-scroll-2.0.1.tar containing:
+  good-scroll-2.0.1/
+  good-scroll-2.0.1/good-scroll-bezier.el
+  good-scroll-2.0.1/good-scroll-linear.el
+  good-scroll-2.0.1/good-scroll-pkg.el
+  good-scroll-2.0.1/good-scroll.el
+Built good-scroll in 3.606s, finished at 2021-08-17T11:05:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  346 May 19 04:38 packages-stable/good-scroll-0.4.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:38 packages-stable/good-scroll-0.4.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/good-scroll-badge.svg
-4.0K -rw-r--r-- 1 root root  131 May 19 04:38 packages-stable/good-scroll-readme.txt
+4.0K -rw-r--r-- 1 root root  346 Aug 17 11:05 packages-stable/good-scroll-2.0.1.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:05 packages-stable/good-scroll-2.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/good-scroll-badge.svg
+4.0K -rw-r--r-- 1 root root  131 Aug 17 11:05 packages-stable/good-scroll-readme.txt

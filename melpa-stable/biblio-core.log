@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cpitclaudel/biblio.el.git
 
 Updating /mnt/store/melpa/working/biblio-core/
-Built biblio-core in 3.790s, finished at Wed May 19 04:21:09 2021
+Checking out d10ea0dc67ec3ea1cba20692bde0ce5132610056
+Built biblio-core in 4.503s, finished at 2021-08-17T10:46:29+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  33K May 19 04:21 packages-stable/biblio-core-0.2.el
-4.0K -rw-r--r-- 1 root root  555 May 19 04:21 packages-stable/biblio-core-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/biblio-core-badge.svg
-4.0K -rw-r--r-- 1 root root  254 May 19 04:21 packages-stable/biblio-core-readme.txt
+ 36K -rw-r--r-- 1 root root  33K Aug 17 10:46 packages-stable/biblio-core-0.2.el
+4.0K -rw-r--r-- 1 root root  555 Aug 17 10:46 packages-stable/biblio-core-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/biblio-core-badge.svg
+4.0K -rw-r--r-- 1 root root  254 Aug 17 10:46 packages-stable/biblio-core-readme.txt

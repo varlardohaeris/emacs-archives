@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/chenyanming/shrface.git
 
 Updating /mnt/store/melpa/working/shrface/
-Built shrface in 3.525s, finished at Wed May 19 01:48:26 2021
+Checking out 3dc6b980a4235b084abeae500a377e60026c28ef
+Built shrface in 4.316s, finished at 2021-08-17T11:33:21+0000
  ✓ Success:
- 60K -rw-r--r-- 1 root root  60K May 19 01:48 packages-stable/shrface-2.6.3.el
-4.0K -rw-r--r-- 1 root root  389 May 19 01:48 packages-stable/shrface-2.6.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shrface-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shrface-readme.txt
+ 64K -rw-r--r-- 1 root root  60K Aug 17 11:33 packages-stable/shrface-2.6.3.el
+4.0K -rw-r--r-- 1 root root  389 Aug 17 11:33 packages-stable/shrface-2.6.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shrface-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shrface-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/wyuenho/move-dup.git
 
 Updating /mnt/store/melpa/working/move-dup/
-Built move-dup in 3.875s, finished at Wed May 19 01:36:05 2021
+Checking out bf2e578b89d7e7bf0b5500d9afcf49ac6ec2dcd1
+Built move-dup in 4.392s, finished at 2021-08-17T11:19:26+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.5K May 19 01:36 packages-stable/move-dup-2.0.0.el
-4.0K -rw-r--r-- 1 root root  409 May 19 01:36 packages-stable/move-dup-2.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/move-dup-badge.svg
-4.0K -rw-r--r-- 1 root root  971 May 19 01:36 packages-stable/move-dup-readme.txt
+ 12K -rw-r--r-- 1 root root 9.5K Aug 17 11:19 packages-stable/move-dup-2.0.0.el
+4.0K -rw-r--r-- 1 root root  409 Aug 17 11:19 packages-stable/move-dup-2.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/move-dup-badge.svg
+4.0K -rw-r--r-- 1 root root  971 Aug 17 11:19 packages-stable/move-dup-readme.txt

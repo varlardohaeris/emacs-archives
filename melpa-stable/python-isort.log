@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/wyuenho/emacs-python-isort.git
 
 Updating /mnt/store/melpa/working/python-isort/
-Built python-isort in 4.183s, finished at Wed May 19 01:45:02 2021
+Checking out 4ba3dd75e7dd9f953d8b7c0b9c4c6d1b1c263047
+Built python-isort in 3.493s, finished at 2021-08-17T11:29:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.0K May 19 01:45 packages-stable/python-isort-1.0.0.el
-4.0K -rw-r--r-- 1 root root  411 May 19 01:45 packages-stable/python-isort-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/python-isort-badge.svg
-4.0K -rw-r--r-- 1 root root   90 May 19 01:45 packages-stable/python-isort-readme.txt
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 11:29 packages-stable/python-isort-1.0.0.el
+4.0K -rw-r--r-- 1 root root  411 Aug 17 11:29 packages-stable/python-isort-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/python-isort-badge.svg
+4.0K -rw-r--r-- 1 root root   90 Aug 17 11:29 packages-stable/python-isort-readme.txt

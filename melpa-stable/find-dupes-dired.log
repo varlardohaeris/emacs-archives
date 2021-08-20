@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ShuguangSun/find-dupes-dired.git
 
 Updating /mnt/store/melpa/working/find-dupes-dired/
-Built find-dupes-dired in 3.035s, finished at Wed May 19 04:33:55 2021
+Checking out f39e2afbc33e02a6bf62116f6ce71b8368068698
+Built find-dupes-dired in 4.262s, finished at 2021-08-17T11:00:18+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 04:33 packages-stable/find-dupes-dired-1.0.el
-4.0K -rw-r--r-- 1 root root  380 May 19 04:33 packages-stable/find-dupes-dired-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/find-dupes-dired-badge.svg
-4.0K -rw-r--r-- 1 root root  353 May 19 04:33 packages-stable/find-dupes-dired-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 11:00 packages-stable/find-dupes-dired-1.0.el
+4.0K -rw-r--r-- 1 root root  380 Aug 17 11:00 packages-stable/find-dupes-dired-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/find-dupes-dired-badge.svg
+4.0K -rw-r--r-- 1 root root  353 Aug 17 11:00 packages-stable/find-dupes-dired-readme.txt

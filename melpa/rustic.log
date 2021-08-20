@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/brotzeit/rustic.git
 
 Updating /mnt/store/melpa/working/rustic/
+Checking out origin/HEAD
+Checking out 1941f52d34e7e4752e1e465e5636b21ef7ad42b9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rustic/
-  to /tmp/rusticzZen99/rustic-20210502.1646
+  to /tmp/rusticaZYZKe/rustic-20210805.1755
     rustic-babel.el -> rustic-babel.el
     rustic-cargo.el -> rustic-cargo.el
     rustic-compile.el -> rustic-compile.el
@@ -19,25 +21,25 @@ Copying files (->) and directories (=>)
     rustic-rustfix.el -> rustic-rustfix.el
     rustic-rustfmt.el -> rustic-rustfmt.el
     rustic.el -> rustic.el
-Created rustic-20210502.1646.tar containing:
-  rustic-20210502.1646/
-  rustic-20210502.1646/rustic-babel.el
-  rustic-20210502.1646/rustic-cargo.el
-  rustic-20210502.1646/rustic-compile.el
-  rustic-20210502.1646/rustic-doc.el
-  rustic-20210502.1646/rustic-flycheck.el
-  rustic-20210502.1646/rustic-interaction.el
-  rustic-20210502.1646/rustic-lsp.el
-  rustic-20210502.1646/rustic-pkg.el
-  rustic-20210502.1646/rustic-playpen.el
-  rustic-20210502.1646/rustic-popup.el
-  rustic-20210502.1646/rustic-racer.el
-  rustic-20210502.1646/rustic-rustfix.el
-  rustic-20210502.1646/rustic-rustfmt.el
-  rustic-20210502.1646/rustic.el
-Built rustic in 4.662s, finished at Wed May 19 04:02:07 2021
+Created rustic-20210805.1755.tar containing:
+  rustic-20210805.1755/
+  rustic-20210805.1755/rustic-babel.el
+  rustic-20210805.1755/rustic-cargo.el
+  rustic-20210805.1755/rustic-compile.el
+  rustic-20210805.1755/rustic-doc.el
+  rustic-20210805.1755/rustic-flycheck.el
+  rustic-20210805.1755/rustic-interaction.el
+  rustic-20210805.1755/rustic-lsp.el
+  rustic-20210805.1755/rustic-pkg.el
+  rustic-20210805.1755/rustic-playpen.el
+  rustic-20210805.1755/rustic-popup.el
+  rustic-20210805.1755/rustic-racer.el
+  rustic-20210805.1755/rustic-rustfix.el
+  rustic-20210805.1755/rustic-rustfmt.el
+  rustic-20210805.1755/rustic.el
+Built rustic in 4.421s, finished at 2021-08-17T10:26:58+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  451 May 19 04:02 packages/rustic-20210502.1646.entry
-200K -rw-r--r-- 1 root root 200K May 19 04:02 packages/rustic-20210502.1646.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:02 packages/rustic-badge.svg
-4.0K -rw-r--r-- 1 root root  410 May 19 04:02 packages/rustic-readme.txt
+4.0K -rw-r--r-- 1 root root  451 Aug 17 10:26 packages/rustic-20210805.1755.entry
+212K -rw-r--r-- 1 root root 210K Aug 17 10:26 packages/rustic-20210805.1755.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:26 packages/rustic-badge.svg
+4.0K -rw-r--r-- 1 root root  410 Aug 17 10:26 packages/rustic-readme.txt

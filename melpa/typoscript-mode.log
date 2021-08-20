@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/ksjogo/typoscript-mode.git
 
 Updating /mnt/store/melpa/working/typoscript-mode/
-Built typoscript-mode in 4.094s, finished at Wed May 19 04:11:58 2021
+Checking out origin/HEAD
+Checking out 44e7567e921573c4f33c537b827f71fb1f565c32
+Built typoscript-mode in 5.589s, finished at 2021-08-17T14:02:29+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 04:11 packages/typoscript-mode-20170126.912.el
-4.0K -rw-r--r-- 1 root root  371 May 19 04:11 packages/typoscript-mode-20170126.912.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:11 packages/typoscript-mode-badge.svg
+ 16K -rw-r--r-- 1 root root  15K Aug 17 14:02 packages/typoscript-mode-20170126.912.el
+4.0K -rw-r--r-- 1 root root  371 Aug 17 14:02 packages/typoscript-mode-20170126.912.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:02 packages/typoscript-mode-badge.svg

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/TeMPOraL/nyan-mode.git
 
 Updating /mnt/store/melpa/working/nyan-mode/
+Checking out 71e9f914ef732363c497e1ecb4dac052cf24938a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nyan-mode/
-  to /tmp/nyan-modeAk5qJf/nyan-mode-1.1.3
+  to /tmp/nyan-mode0GujIl/nyan-mode-1.1.3
     nyan-mode.el -> nyan-mode.el
     img => img
     mus => mus
@@ -25,9 +26,9 @@ Created nyan-mode-1.1.3.tar containing:
   nyan-mode-1.1.3/mus/nyanlooped.mp3
   nyan-mode-1.1.3/nyan-mode-pkg.el
   nyan-mode-1.1.3/nyan-mode.el
-Built nyan-mode in 2.996s, finished at Wed May 19 01:37:53 2021
+Built nyan-mode in 3.504s, finished at 2021-08-17T11:21:27+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  464 May 19 01:37 packages-stable/nyan-mode-1.1.3.entry
-480K -rw-r--r-- 1 root root 480K May 19 01:37 packages-stable/nyan-mode-1.1.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nyan-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  536 May 19 01:37 packages-stable/nyan-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  464 Aug 17 11:21 packages-stable/nyan-mode-1.1.3.entry
+480K -rw-r--r-- 1 root root 480K Aug 17 11:21 packages-stable/nyan-mode-1.1.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/nyan-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  536 Aug 17 11:21 packages-stable/nyan-mode-readme.txt

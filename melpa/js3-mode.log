@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/tamzinblake/js3-mode.git
 
 Updating /mnt/store/melpa/working/js3-mode/
+Checking out origin/HEAD
+Checking out 229aeb374f1b1f3ee5c59b8ba3eebb6385c232cb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/js3-mode/
-  to /tmp/js3-modeqkDpw3/js3-mode-20160515.1550
+  to /tmp/js3-modeg4mkn6/js3-mode-20160515.1550
     js3-mode.el -> js3-mode.el
     js3.el -> js3.el
 Created js3-mode-20160515.1550.tar containing:
@@ -13,9 +15,9 @@ Created js3-mode-20160515.1550.tar containing:
   js3-mode-20160515.1550/js3-mode-pkg.el
   js3-mode-20160515.1550/js3-mode.el
   js3-mode-20160515.1550/js3.el
-Built js3-mode in 4.061s, finished at Wed May 19 03:37:30 2021
+Built js3-mode in 5.634s, finished at 2021-08-17T10:01:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  312 May 19 03:37 packages/js3-mode-20160515.1550.entry
-872K -rw-r--r-- 1 root root 870K May 19 03:37 packages/js3-mode-20160515.1550.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:37 packages/js3-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 2.1K May 19 03:37 packages/js3-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  312 Aug 17 10:01 packages/js3-mode-20160515.1550.entry
+872K -rw-r--r-- 1 root root 870K Aug 17 10:01 packages/js3-mode-20160515.1550.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:01 packages/js3-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 10:01 packages/js3-mode-readme.txt

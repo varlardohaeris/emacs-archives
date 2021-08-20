@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-bbdb.git
 
 Updating /mnt/store/melpa/working/helm-bbdb/
-Built helm-bbdb in 3.051s, finished at Wed May 19 04:39:48 2021
+Checking out dc873e2223ec287de2b9800d4902390b38c87f34
+Built helm-bbdb in 4.813s, finished at 2021-08-17T11:07:05+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 04:39 packages-stable/helm-bbdb-1.1.el
-4.0K -rw-r--r-- 1 root root  238 May 19 04:39 packages-stable/helm-bbdb-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-bbdb-badge.svg
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:07 packages-stable/helm-bbdb-1.1.el
+4.0K -rw-r--r-- 1 root root  238 Aug 17 11:07 packages-stable/helm-bbdb-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:07 packages-stable/helm-bbdb-badge.svg

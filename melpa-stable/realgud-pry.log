@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/realgud/realgud-pry.git
 
 Updating /mnt/store/melpa/working/realgud-pry/
+Checking out 500bef62369ef1ad876afd99db383c23196e1355
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/realgud-pry/
-  to /tmp/realgud-pryuk8SNS/realgud-pry-1.0.0
+  to /tmp/realgud-prycBPo1V/realgud-pry-1.0.0
     realgud-pry.el -> realgud-pry.el
     pry/core.el -> pry/core.el
     pry/init.el -> pry/init.el
@@ -20,9 +21,9 @@ Created realgud-pry-1.0.0.tar containing:
   realgud-pry-1.0.0/pry/track-mode.el
   realgud-pry-1.0.0/realgud-pry-pkg.el
   realgud-pry-1.0.0/realgud-pry.el
-Built realgud-pry in 2.891s, finished at Wed May 19 01:45:43 2021
+Built realgud-pry in 3.523s, finished at 2021-08-17T11:30:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  397 May 19 01:45 packages-stable/realgud-pry-1.0.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:45 packages-stable/realgud-pry-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/realgud-pry-badge.svg
-4.0K -rw-r--r-- 1 root root   42 May 19 01:45 packages-stable/realgud-pry-readme.txt
+4.0K -rw-r--r-- 1 root root  397 Aug 17 11:30 packages-stable/realgud-pry-1.0.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:30 packages-stable/realgud-pry-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/realgud-pry-badge.svg
+4.0K -rw-r--r-- 1 root root   42 Aug 17 11:30 packages-stable/realgud-pry-readme.txt

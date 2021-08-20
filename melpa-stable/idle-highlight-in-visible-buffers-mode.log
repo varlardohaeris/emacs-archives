@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ignacy/idle-highlight-in-visible-buffers-mode.git
 
 Updating /mnt/store/melpa/working/idle-highlight-in-visible-buffers-mode/
-Built idle-highlight-in-visible-buffers-mode in 3.436s, finished at Wed May 19 04:42:38 2021
+Checking out 8d8de309d5bd4b035c01bf7f0cfc6e079c79d898
+Built idle-highlight-in-visible-buffers-mode in 3.832s, finished at 2021-08-17T11:10:44+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.3K May 19 04:42 packages-stable/idle-highlight-in-visible-buffers-mode-0.2.0.el
-4.0K -rw-r--r-- 1 root root  365 May 19 04:42 packages-stable/idle-highlight-in-visible-buffers-mode-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/idle-highlight-in-visible-buffers-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   62 May 19 04:42 packages-stable/idle-highlight-in-visible-buffers-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.3K Aug 17 11:10 packages-stable/idle-highlight-in-visible-buffers-mode-0.2.0.el
+4.0K -rw-r--r-- 1 root root  365 Aug 17 11:10 packages-stable/idle-highlight-in-visible-buffers-mode-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/idle-highlight-in-visible-buffers-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   62 Aug 17 11:10 packages-stable/idle-highlight-in-visible-buffers-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/bmag/emacs-purpose.git
 
 Updating /mnt/store/melpa/working/window-purpose/
+Checking out bb462f12f836414425edac32ebd069b4fd5b98d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/window-purpose/
-  to /tmp/window-purpose9ernaC/window-purpose-1.8
+  to /tmp/window-purposetRf1wQ/window-purpose-1.8.1
     window-purpose-configuration.el -> window-purpose-configuration.el
     window-purpose-core.el -> window-purpose-core.el
     window-purpose-fixes.el -> window-purpose-fixes.el
@@ -16,24 +17,24 @@ Copying files (->) and directories (=>)
     window-purpose-x.el -> window-purpose-x.el
     window-purpose.el -> window-purpose.el
     layouts => layouts
-Created window-purpose-1.8.tar containing:
-  window-purpose-1.8/
-  window-purpose-1.8/layouts/
-  window-purpose-1.8/layouts/edit-terminal-general.window-layout
-  window-purpose-1.8/layouts/edit-terminal.window-layout
-  window-purpose-1.8/window-purpose-configuration.el
-  window-purpose-1.8/window-purpose-core.el
-  window-purpose-1.8/window-purpose-fixes.el
-  window-purpose-1.8/window-purpose-layout.el
-  window-purpose-1.8/window-purpose-pkg.el
-  window-purpose-1.8/window-purpose-prefix-overload.el
-  window-purpose-1.8/window-purpose-switch.el
-  window-purpose-1.8/window-purpose-utils.el
-  window-purpose-1.8/window-purpose-x.el
-  window-purpose-1.8/window-purpose.el
-Built window-purpose in 3.746s, finished at Wed May 19 01:55:14 2021
+Created window-purpose-1.8.1.tar containing:
+  window-purpose-1.8.1/
+  window-purpose-1.8.1/layouts/
+  window-purpose-1.8.1/layouts/edit-terminal-general.window-layout
+  window-purpose-1.8.1/layouts/edit-terminal.window-layout
+  window-purpose-1.8.1/window-purpose-configuration.el
+  window-purpose-1.8.1/window-purpose-core.el
+  window-purpose-1.8.1/window-purpose-fixes.el
+  window-purpose-1.8.1/window-purpose-layout.el
+  window-purpose-1.8.1/window-purpose-pkg.el
+  window-purpose-1.8.1/window-purpose-prefix-overload.el
+  window-purpose-1.8.1/window-purpose-switch.el
+  window-purpose-1.8.1/window-purpose-utils.el
+  window-purpose-1.8.1/window-purpose-x.el
+  window-purpose-1.8.1/window-purpose.el
+Built window-purpose in 4.677s, finished at 2021-08-17T11:41:02+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  367 May 19 01:55 packages-stable/window-purpose-1.8.entry
-200K -rw-r--r-- 1 root root 200K May 19 01:55 packages-stable/window-purpose-1.8.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/window-purpose-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 01:55 packages-stable/window-purpose-readme.txt
+4.0K -rw-r--r-- 1 root root  369 Aug 17 11:41 packages-stable/window-purpose-1.8.1.entry
+200K -rw-r--r-- 1 root root 200K Aug 17 11:41 packages-stable/window-purpose-1.8.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:41 packages-stable/window-purpose-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 11:41 packages-stable/window-purpose-readme.txt

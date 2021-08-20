@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/plandes/buffer-manage.git
 
 Updating /mnt/store/melpa/working/buffer-manage/
+Checking out 8874520ed62a553d8dd0e6c3f790f8ccd95bf53b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/buffer-manage/
-  to /tmp/buffer-manageJzvkn2/buffer-manage-0.12
+  to /tmp/buffer-manageUPr0lS/buffer-manage-0.12
     buffer-manage.el -> buffer-manage.el
     config-manage-base.el -> config-manage-base.el
     config-manage-declare.el -> config-manage-declare.el
@@ -21,9 +22,9 @@ Created buffer-manage-0.12.tar containing:
   buffer-manage-0.12/config-manage-mode.el
   buffer-manage-0.12/config-manage-prop.el
   buffer-manage-0.12/config-manage.el
-Built buffer-manage in 6.435s, finished at Wed May 19 04:22:11 2021
+Built buffer-manage in 3.790s, finished at 2021-08-17T10:47:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  348 May 19 04:22 packages-stable/buffer-manage-0.12.entry
-112K -rw-r--r-- 1 root root 110K May 19 04:22 packages-stable/buffer-manage-0.12.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/buffer-manage-badge.svg
-4.0K -rw-r--r-- 1 root root  701 May 19 04:22 packages-stable/buffer-manage-readme.txt
+4.0K -rw-r--r-- 1 root root  348 Aug 17 10:47 packages-stable/buffer-manage-0.12.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 10:47 packages-stable/buffer-manage-0.12.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/buffer-manage-badge.svg
+4.0K -rw-r--r-- 1 root root  701 Aug 17 10:47 packages-stable/buffer-manage-readme.txt

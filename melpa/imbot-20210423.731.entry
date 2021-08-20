@@ -3,6 +3,6 @@
 	((emacs
 	  (25 1)))
 	"Automatic system input method switcher" tar
-	((:commit . "01bf1e1101ac9cd34bfda7016ce0f82f97a3de35")
+	((:commit . "a90183954522876ebbf1ce96d88b80e6a31b9d34")
 	 (:keywords "convenience")
 	 (:url . "https://github.com/QiangF/imbot"))])

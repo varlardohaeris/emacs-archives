@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/thierryvolpiatto/rectangle-utils.git
 
 Updating /mnt/store/melpa/working/rectangle-utils/
-Built rectangle-utils in 3.921s, finished at Wed May 19 01:45:54 2021
+Checking out 65a84a54bc69e4edfafb1b6a402180968c8faca6
+Built rectangle-utils in 3.626s, finished at 2021-08-17T11:30:50+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 01:45 packages-stable/rectangle-utils-1.1.el
-4.0K -rw-r--r-- 1 root root  404 May 19 01:45 packages-stable/rectangle-utils-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rectangle-utils-badge.svg
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:30 packages-stable/rectangle-utils-1.1.el
+4.0K -rw-r--r-- 1 root root  404 Aug 17 11:30 packages-stable/rectangle-utils-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/rectangle-utils-badge.svg

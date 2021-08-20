@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-php/robots-txt-mode.git
 
 Updating /mnt/store/melpa/working/robots-txt-mode/
-Built robots-txt-mode in 2.911s, finished at Wed May 19 01:46:56 2021
+Checking out 8bf67285a25a6756607354d184e36583f2847e7d
+Built robots-txt-mode in 3.590s, finished at 2021-08-17T11:31:39+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.7K May 19 01:46 packages-stable/robots-txt-mode-0.0.9.el
-4.0K -rw-r--r-- 1 root root  357 May 19 01:46 packages-stable/robots-txt-mode-0.0.9.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/robots-txt-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   47 May 19 01:46 packages-stable/robots-txt-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 11:31 packages-stable/robots-txt-mode-0.0.9.el
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:31 packages-stable/robots-txt-mode-0.0.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/robots-txt-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   47 Aug 17 11:31 packages-stable/robots-txt-mode-readme.txt

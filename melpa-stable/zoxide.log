@@ -1,0 +1,12 @@
+Package: zoxide
+Fetcher: gitlab
+Source:  https://gitlab.com/Vonfry/zoxide.el.git
+
+Updating /mnt/store/melpa/working/zoxide/
+Checking out f68d7cf9c8c813bdc1ec75f880e0dd1b64112f7c
+Built zoxide in 3.611s, finished at 2021-08-17T11:43:07+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.3K Aug 17 11:43 packages-stable/zoxide-1.0.0.el
+4.0K -rw-r--r-- 1 root root  332 Aug 17 11:43 packages-stable/zoxide-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:43 packages-stable/zoxide-badge.svg
+4.0K -rw-r--r-- 1 root root  111 Aug 17 11:43 packages-stable/zoxide-readme.txt

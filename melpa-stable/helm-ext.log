@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cute-jumper/helm-ext.git
 
 Updating /mnt/store/melpa/working/helm-ext/
+Checking out c8ac56918b200239b3f73a4e6a031deecc2c5646
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-ext/
-  to /tmp/helm-extoCs5dN/helm-ext-0.1.2
+  to /tmp/helm-ext4qlyyu/helm-ext-0.1.2
     helm-ext-ff.el -> helm-ext-ff.el
     helm-ext-minibuffer.el -> helm-ext-minibuffer.el
     helm-ext.el -> helm-ext.el
@@ -15,9 +16,9 @@ Created helm-ext-0.1.2.tar containing:
   helm-ext-0.1.2/helm-ext-minibuffer.el
   helm-ext-0.1.2/helm-ext-pkg.el
   helm-ext-0.1.2/helm-ext.el
-Built helm-ext in 3.119s, finished at Wed May 19 04:40:14 2021
+Built helm-ext in 3.681s, finished at 2021-08-17T11:07:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  324 May 19 04:40 packages-stable/helm-ext-0.1.2.entry
- 40K -rw-r--r-- 1 root root  40K May 19 04:40 packages-stable/helm-ext-0.1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-ext-badge.svg
-4.0K -rw-r--r-- 1 root root 3.9K May 19 04:40 packages-stable/helm-ext-readme.txt
+4.0K -rw-r--r-- 1 root root  324 Aug 17 11:07 packages-stable/helm-ext-0.1.2.entry
+ 44K -rw-r--r-- 1 root root  40K Aug 17 11:07 packages-stable/helm-ext-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:07 packages-stable/helm-ext-badge.svg
+4.0K -rw-r--r-- 1 root root 3.9K Aug 17 11:07 packages-stable/helm-ext-readme.txt

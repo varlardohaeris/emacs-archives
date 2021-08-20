@@ -1,0 +1,6 @@
+Package: key-intercept
+Fetcher: github
+Source:  https://github.com/tarao/key-intercept-el.git
+
+Updating /mnt/store/melpa/working/key-intercept/
+No valid stable versions found for key-intercept

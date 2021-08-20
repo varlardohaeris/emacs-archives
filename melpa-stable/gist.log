@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/defunkt/gist.el.git
 
 Updating /mnt/store/melpa/working/gist/
-Built gist in 3.689s, finished at Wed May 19 04:37:05 2021
+Checking out a03f142455e8b39f77fbd57ee1c1e44478c1f9e2
+Built gist in 4.376s, finished at 2021-08-17T11:04:18+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  29K May 19 04:37 packages-stable/gist-1.4.0.el
-4.0K -rw-r--r-- 1 root root  369 May 19 04:37 packages-stable/gist-1.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gist-badge.svg
-4.0K -rw-r--r-- 1 root root   64 May 19 04:37 packages-stable/gist-readme.txt
+ 32K -rw-r--r-- 1 root root  29K Aug 17 11:04 packages-stable/gist-1.4.0.el
+4.0K -rw-r--r-- 1 root root  369 Aug 17 11:04 packages-stable/gist-1.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/gist-badge.svg
+4.0K -rw-r--r-- 1 root root   64 Aug 17 11:04 packages-stable/gist-readme.txt

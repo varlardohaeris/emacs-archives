@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jkitchin/org-ref.git
 
 Updating /mnt/store/melpa/working/org-ref/
+Checking out db6c52f41faba686a378a8c57356a563f5cef496
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-ref/
-  to /tmp/org-refyEh3sp/org-ref-1.1.1
+  to /tmp/org-reft47Vri/org-ref-1.1.1
     doi-utils.el -> doi-utils.el
     nist-webbook.el -> nist-webbook.el
     org-ref-arxiv.el -> org-ref-arxiv.el
@@ -77,9 +78,9 @@ Created org-ref-1.1.1.tar containing:
   org-ref-1.1.1/org-ref.el
   org-ref-1.1.1/org-ref.org
   org-ref-1.1.1/x2bib.el
-Built org-ref in 3.117s, finished at Wed May 19 01:39:55 2021
+Built org-ref in 4.183s, finished at 2021-08-17T11:23:48+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  627 May 19 01:39 packages-stable/org-ref-1.1.1.entry
-640K -rw-r--r-- 1 root root 640K May 19 01:39 packages-stable/org-ref-1.1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-ref-badge.svg
-4.0K -rw-r--r-- 1 root root  281 May 19 01:39 packages-stable/org-ref-readme.txt
+4.0K -rw-r--r-- 1 root root  627 Aug 17 11:23 packages-stable/org-ref-1.1.1.entry
+640K -rw-r--r-- 1 root root 640K Aug 17 11:23 packages-stable/org-ref-1.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:23 packages-stable/org-ref-badge.svg
+4.0K -rw-r--r-- 1 root root  281 Aug 17 11:23 packages-stable/org-ref-readme.txt

@@ -1,0 +1,26 @@
+Package: affe
+Fetcher: github
+Source:  https://github.com/minad/affe.git
+
+Updating /mnt/store/melpa/working/affe/
+Checking out be08c4ec49681474cbebaf0957568f27e42c4b3c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/affe/
+  to /tmp/affeXHX0kD/affe-0.2
+    affe-backend.el -> affe-backend.el
+    affe.el -> affe.el
+    affe.texi -> affe.texi
+Created /tmp/affeXHX0kD/affe-0.2/affe.info
+Created affe-0.2.tar containing:
+  affe-0.2/
+  affe-0.2/affe-backend.el
+  affe-0.2/affe-pkg.el
+  affe-0.2/affe.el
+  affe-0.2/affe.info
+  affe-0.2/dir
+Built affe in 6.706s, finished at 2021-08-17T10:43:38+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  289 Aug 17 10:43 packages-stable/affe-0.2.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:43 packages-stable/affe-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/affe-badge.svg
+4.0K -rw-r--r-- 1 root root   36 Aug 17 10:43 packages-stable/affe-readme.txt

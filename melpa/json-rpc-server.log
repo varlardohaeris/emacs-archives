@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/jcaw/json-rpc-server.el.git
 
 Updating /mnt/store/melpa/working/json-rpc-server/
-Built json-rpc-server in 4.329s, finished at Wed May 19 03:37:36 2021
+Checking out origin/HEAD
+Checking out 2f41d292b87916f6989e7ff5dc94da18ae6a9e4e
+Built json-rpc-server in 5.153s, finished at 2021-08-17T10:01:35+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 03:37 packages/json-rpc-server-20190714.1521.el
-4.0K -rw-r--r-- 1 root root  363 May 19 03:37 packages/json-rpc-server-20190714.1521.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:37 packages/json-rpc-server-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 03:37 packages/json-rpc-server-readme.txt
+ 28K -rw-r--r-- 1 root root  27K Aug 17 10:01 packages/json-rpc-server-20190714.1521.el
+4.0K -rw-r--r-- 1 root root  363 Aug 17 10:01 packages/json-rpc-server-20190714.1521.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:01 packages/json-rpc-server-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 10:01 packages/json-rpc-server-readme.txt

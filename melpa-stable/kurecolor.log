@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsfodder/kurecolor.git
 
 Updating /mnt/store/melpa/working/kurecolor/
-Built kurecolor in 9.314s, finished at Wed May 19 01:31:41 2021
+Checking out a27153f6a01f38226920772dc4917b73166da5e6
+Built kurecolor in 4.490s, finished at 2021-08-17T11:14:34+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 01:31 packages-stable/kurecolor-1.2.6.el
-4.0K -rw-r--r-- 1 root root  312 May 19 01:31 packages-stable/kurecolor-1.2.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/kurecolor-badge.svg
-4.0K -rw-r--r-- 1 root root 3.2K May 19 01:31 packages-stable/kurecolor-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 11:14 packages-stable/kurecolor-1.2.6.el
+4.0K -rw-r--r-- 1 root root  312 Aug 17 11:14 packages-stable/kurecolor-1.2.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/kurecolor-badge.svg
+4.0K -rw-r--r-- 1 root root 3.2K Aug 17 11:14 packages-stable/kurecolor-readme.txt

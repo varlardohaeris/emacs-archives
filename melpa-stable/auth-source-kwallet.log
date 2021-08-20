@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/vaartis/auth-source-kwallet.git
 
 Updating /mnt/store/melpa/working/auth-source-kwallet/
-No valid stable versions found for auth-source-kwallet
+Checking out 1309cfcd00264a2bb8e0d1b435d4d03e3e02f314
+Built auth-source-kwallet in 3.409s, finished at 2021-08-17T10:45:17+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.1K Aug 17 10:45 packages-stable/auth-source-kwallet-0.0.1.el
+4.0K -rw-r--r-- 1 root root  390 Aug 17 10:45 packages-stable/auth-source-kwallet-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/auth-source-kwallet-badge.svg
+4.0K -rw-r--r-- 1 root root  101 Aug 17 10:45 packages-stable/auth-source-kwallet-readme.txt

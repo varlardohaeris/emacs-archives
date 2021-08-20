@@ -1,0 +1,10 @@
+(mu4e-column-faces .
+		   [(1 0)
+		    ((emacs
+		      (25 3)))
+		    "Faces for individual mu4e columns" single
+		    ((:commit . "2f903099073a863fb9b827d3d10c439237925548")
+		     (:authors
+		      ("Alexander Miller" . "alexanderm@web.de"))
+		     (:maintainer "Alexander Miller" . "alexanderm@web.de")
+		     (:url . "https://github.com/Alexander-Miller/mu4e-column-faces"))])

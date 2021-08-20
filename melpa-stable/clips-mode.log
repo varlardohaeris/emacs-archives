@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/clips-mode/clips-mode.git
 
 Updating /mnt/store/melpa/working/clips-mode/
+Checking out f204ba84987bda21f22ceb3beb6d4b8543aa2ecd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clips-mode/
-  to /tmp/clips-modeoXE220/clips-mode-0.7
+  to /tmp/clips-modeQUiyN9/clips-mode-0.7
     clips-mode-pkg.el -> clips-mode-pkg.el
     clips-mode.el -> clips-mode.el
     inf-clips.el -> inf-clips.el
@@ -14,9 +15,9 @@ Created clips-mode-0.7.tar containing:
   clips-mode-0.7/clips-mode-pkg.el
   clips-mode-0.7/clips-mode.el
   clips-mode-0.7/inf-clips.el
-Built clips-mode in 2.731s, finished at Wed May 19 04:23:32 2021
+Built clips-mode in 3.963s, finished at 2021-08-17T10:48:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  409 May 19 04:23 packages-stable/clips-mode-0.7.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:23 packages-stable/clips-mode-0.7.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clips-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  804 May 19 04:23 packages-stable/clips-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  409 Aug 17 10:48 packages-stable/clips-mode-0.7.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:48 packages-stable/clips-mode-0.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/clips-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  804 Aug 17 10:48 packages-stable/clips-mode-readme.txt

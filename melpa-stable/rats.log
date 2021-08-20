@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ane/rats.el.git
 
 Updating /mnt/store/melpa/working/rats/
+Checking out bcbca44e4278de9371dd1eed131fee9ca1270625
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rats/
-  to /tmp/ratsSGMlrb/rats-0.2.0
+  to /tmp/ratsooRkmO/rats-0.2.0
     rats.el -> rats.el
     squeak.el -> squeak.el
 Created rats-0.2.0.tar containing:
@@ -13,9 +14,9 @@ Created rats-0.2.0.tar containing:
   rats-0.2.0/rats-pkg.el
   rats-0.2.0/rats.el
   rats-0.2.0/squeak.el
-Built rats in 2.756s, finished at Wed May 19 01:45:27 2021
+Built rats in 7.472s, finished at 2021-08-17T11:30:15+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  318 May 19 01:45 packages-stable/rats-0.2.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:45 packages-stable/rats-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rats-badge.svg
-4.0K -rw-r--r-- 1 root root  113 May 19 01:45 packages-stable/rats-readme.txt
+4.0K -rw-r--r-- 1 root root  318 Aug 17 11:30 packages-stable/rats-0.2.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:30 packages-stable/rats-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/rats-badge.svg
+4.0K -rw-r--r-- 1 root root  113 Aug 17 11:30 packages-stable/rats-readme.txt

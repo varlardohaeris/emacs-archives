@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/xuchunyang/gitter.el.git
 
 Updating /mnt/store/melpa/working/gitter/
-Built gitter in 3.510s, finished at Wed May 19 04:37:38 2021
+Checking out bd2ba457109dd5d3e4b419e3ef5cbd3b5c9498d6
+Built gitter in 4.482s, finished at 2021-08-17T11:05:02+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  21K May 19 04:37 packages-stable/gitter-1.el
-4.0K -rw-r--r-- 1 root root  390 May 19 04:37 packages-stable/gitter-1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/gitter-badge.svg
-4.0K -rw-r--r-- 1 root root 3.5K May 19 04:37 packages-stable/gitter-readme.txt
+ 24K -rw-r--r-- 1 root root  21K Aug 17 11:05 packages-stable/gitter-1.el
+4.0K -rw-r--r-- 1 root root  390 Aug 17 11:05 packages-stable/gitter-1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/gitter-badge.svg
+4.0K -rw-r--r-- 1 root root 3.5K Aug 17 11:05 packages-stable/gitter-readme.txt

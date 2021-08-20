@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rafalcieslak/emacs-company-terraform.git
 
 Updating /mnt/store/melpa/working/company-terraform/
+Checking out 2d11a21fee2f298e48968e479ddcaeda4d736e12
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-terraform/
-  to /tmp/company-terraform3QhaHW/company-terraform-1.3
+  to /tmp/company-terraformgc45MU/company-terraform-1.3
     company-terraform-data.el -> company-terraform-data.el
     company-terraform.el -> company-terraform.el
 Created company-terraform-1.3.tar containing:
@@ -13,9 +14,9 @@ Created company-terraform-1.3.tar containing:
   company-terraform-1.3/company-terraform-data.el
   company-terraform-1.3/company-terraform-pkg.el
   company-terraform-1.3/company-terraform.el
-Built company-terraform in 3.417s, finished at Wed May 19 04:24:52 2021
+Built company-terraform in 6.457s, finished at 2021-08-17T10:50:46+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  528 May 19 04:24 packages-stable/company-terraform-1.3.entry
-2.0M -rw-r--r-- 1 root root 2.0M May 19 04:24 packages-stable/company-terraform-1.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-terraform-badge.svg
-4.0K -rw-r--r-- 1 root root  295 May 19 04:24 packages-stable/company-terraform-readme.txt
+4.0K -rw-r--r-- 1 root root  528 Aug 17 10:50 packages-stable/company-terraform-1.3.entry
+2.0M -rw-r--r-- 1 root root 2.0M Aug 17 10:50 packages-stable/company-terraform-1.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/company-terraform-badge.svg
+4.0K -rw-r--r-- 1 root root  295 Aug 17 10:50 packages-stable/company-terraform-readme.txt

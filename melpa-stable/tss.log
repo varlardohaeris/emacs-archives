@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/aki2o/emacs-tss.git
 
 Updating /mnt/store/melpa/working/tss/
+Checking out 1f302deea3d74462c71a9c62031f48b753e8915f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tss/
-  to /tmp/tssEBpxyS/tss-0.6.0
+  to /tmp/tssBU5O69/tss-0.6.0
     tss.el -> tss.el
     typescript.el -> typescript.el
 Created tss-0.6.0.tar containing:
@@ -13,9 +14,9 @@ Created tss-0.6.0.tar containing:
   tss-0.6.0/tss-pkg.el
   tss-0.6.0/tss.el
   tss-0.6.0/typescript.el
-Built tss in 3.870s, finished at Wed May 19 01:53:03 2021
+Built tss in 3.669s, finished at 2021-08-17T11:38:33+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  506 May 19 01:53 packages-stable/tss-0.6.0.entry
-180K -rw-r--r-- 1 root root 180K May 19 01:53 packages-stable/tss-0.6.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/tss-badge.svg
-4.0K -rw-r--r-- 1 root root  277 May 19 01:53 packages-stable/tss-readme.txt
+4.0K -rw-r--r-- 1 root root  506 Aug 17 11:38 packages-stable/tss-0.6.0.entry
+180K -rw-r--r-- 1 root root 180K Aug 17 11:38 packages-stable/tss-0.6.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/tss-badge.svg
+4.0K -rw-r--r-- 1 root root  277 Aug 17 11:38 packages-stable/tss-readme.txt

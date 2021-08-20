@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/piranha/project-root.git
 
 Updating /mnt/store/melpa/working/project-root/
-Built project-root in 3.181s, finished at Wed May 19 01:44:12 2021
+Checking out fc1d024a497755c1abfa3eaffde1b18bd3c54865
+Built project-root in 3.601s, finished at 2021-08-17T11:28:40+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  20K May 19 01:44 packages-stable/project-root-0.7.el
-4.0K -rw-r--r-- 1 root root  296 May 19 01:44 packages-stable/project-root-0.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/project-root-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 01:44 packages-stable/project-root-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:28 packages-stable/project-root-0.7.el
+4.0K -rw-r--r-- 1 root root  296 Aug 17 11:28 packages-stable/project-root-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/project-root-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 11:28 packages-stable/project-root-readme.txt

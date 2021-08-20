@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/cider-decompile.git
 
 Updating /mnt/store/melpa/working/cider-decompile/
-Built cider-decompile in 5.691s, finished at Wed May 19 03:04:52 2021
+Checking out origin/HEAD
+Checking out 5d87035f3c3c14025e8f01c0c53d0ce2c8f56651
+Built cider-decompile in 5.319s, finished at 2021-08-17T09:27:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.1K May 19 03:04 packages/cider-decompile-20151122.537.el
-4.0K -rw-r--r-- 1 root root  398 May 19 03:04 packages/cider-decompile-20151122.537.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:04 packages/cider-decompile-badge.svg
-4.0K -rw-r--r-- 1 root root  350 May 19 03:04 packages/cider-decompile-readme.txt
+4.0K -rw-r--r-- 1 root root 3.1K Aug 17 09:27 packages/cider-decompile-20151122.537.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 09:27 packages/cider-decompile-20151122.537.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:27 packages/cider-decompile-badge.svg
+4.0K -rw-r--r-- 1 root root  350 Aug 17 09:27 packages/cider-decompile-readme.txt

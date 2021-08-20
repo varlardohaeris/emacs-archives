@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/ajgrf/edwina.git
 
 Updating /mnt/store/melpa/working/edwina/
+Checking out origin/HEAD
+Checking out c5368716a504c93407fd8cb4ef925a8d8eb62698
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/edwina/
-  to /tmp/edwinam7ulG8/edwina-20200113.1714
+  to /tmp/edwinah3lyDE/edwina-20200113.1714
     edwin.el -> edwin.el
     edwina.el -> edwina.el
 Created edwina-20200113.1714.tar containing:
@@ -13,9 +15,9 @@ Created edwina-20200113.1714.tar containing:
   edwina-20200113.1714/edwin.el
   edwina-20200113.1714/edwina-pkg.el
   edwina-20200113.1714/edwina.el
-Built edwina in 4.941s, finished at Wed May 19 03:14:03 2021
+Built edwina in 4.545s, finished at 2021-08-17T09:37:08+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  315 May 19 03:14 packages/edwina-20200113.1714.entry
- 20K -rw-r--r-- 1 root root  20K May 19 03:14 packages/edwina-20200113.1714.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:14 packages/edwina-badge.svg
-4.0K -rw-r--r-- 1 root root  162 May 19 03:14 packages/edwina-readme.txt
+4.0K -rw-r--r-- 1 root root  315 Aug 17 09:37 packages/edwina-20200113.1714.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 09:37 packages/edwina-20200113.1714.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:37 packages/edwina-badge.svg
+4.0K -rw-r--r-- 1 root root  162 Aug 17 09:37 packages/edwina-readme.txt

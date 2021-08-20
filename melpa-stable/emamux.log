@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/emamux.git
 
 Updating /mnt/store/melpa/working/emamux/
-Built emamux in 2.992s, finished at Wed May 19 04:30:44 2021
+Checking out 573dd1cf18584a1fd240efb16c7726b6fd790b73
+Built emamux in 4.025s, finished at 2021-08-17T10:56:57+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  21K May 19 04:30 packages-stable/emamux-0.14.el
-4.0K -rw-r--r-- 1 root root  299 May 19 04:30 packages-stable/emamux-0.14.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emamux-badge.svg
-4.0K -rw-r--r-- 1 root root  254 May 19 04:30 packages-stable/emamux-readme.txt
-4.0K -rw-r--r-- 1 root root  211 May 19 04:30 packages-stable/emamux-ruby-test.log
+ 24K -rw-r--r-- 1 root root  21K Aug 17 10:56 packages-stable/emamux-0.14.el
+4.0K -rw-r--r-- 1 root root  299 Aug 17 10:56 packages-stable/emamux-0.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/emamux-badge.svg
+4.0K -rw-r--r-- 1 root root  254 Aug 17 10:56 packages-stable/emamux-readme.txt
+4.0K -rw-r--r-- 1 root root  211 Aug 17 10:56 packages-stable/emamux-ruby-test.log

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/sourcemap.git
 
 Updating /mnt/store/melpa/working/sourcemap/
-Built sourcemap in 2.909s, finished at Wed May 19 01:49:45 2021
+Checking out 64c89d296186f48d9135fb8aad501de19f64bceb
+Built sourcemap in 3.988s, finished at 2021-08-17T11:34:44+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 01:49 packages-stable/sourcemap-0.3.el
-4.0K -rw-r--r-- 1 root root  329 May 19 01:49 packages-stable/sourcemap-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/sourcemap-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:49 packages-stable/sourcemap-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:34 packages-stable/sourcemap-0.3.el
+4.0K -rw-r--r-- 1 root root  329 Aug 17 11:34 packages-stable/sourcemap-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/sourcemap-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:34 packages-stable/sourcemap-readme.txt

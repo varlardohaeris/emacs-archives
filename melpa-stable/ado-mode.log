@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/louabill/ado-mode.git
 
 Updating /mnt/store/melpa/working/ado-mode/
+Checking out 6d2510372fe025b16f5f4b6ab864ce7da9b7ec19
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ado-mode/
-  to /tmp/ado-mode3soUwq/ado-mode-16.1.4
+  to /tmp/ado-modejBDJ8X/ado-mode-16.1.4
   ! lisp/ado-clip.el -> ado-clip.el
   ! lisp/ado-cons.el -> ado-cons.el
   ! lisp/ado-cus.el -> ado-cus.el
@@ -50,9 +51,9 @@ Created ado-mode-16.1.4.tar containing:
   ado-mode-16.1.4/templates/sparse.blp
   ado-mode-16.1.4/templates/testado.blp
   ado-mode-16.1.4/templates/toc.blp
-Built ado-mode in 3.412s, finished at Wed May 19 04:18:51 2021
+Built ado-mode in 3.868s, finished at 2021-08-17T10:43:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  422 May 19 04:18 packages-stable/ado-mode-16.1.4.entry
-1.3M -rw-r--r-- 1 root root 1.3M May 19 04:18 packages-stable/ado-mode-16.1.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ado-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  179 May 19 04:18 packages-stable/ado-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  422 Aug 17 10:43 packages-stable/ado-mode-16.1.4.entry
+1.3M -rw-r--r-- 1 root root 1.3M Aug 17 10:43 packages-stable/ado-mode-16.1.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/ado-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  179 Aug 17 10:43 packages-stable/ado-mode-readme.txt

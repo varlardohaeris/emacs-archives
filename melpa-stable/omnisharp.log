@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/OmniSharp/omnisharp-emacs.git
 
 Updating /mnt/store/melpa/working/omnisharp/
+Checking out 588b8482685adedbc56933cb13c58d9cc6a82456
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/omnisharp/
-  to /tmp/omnisharphdzO5G/omnisharp-4.2
+  to /tmp/omnisharpKB00Sb/omnisharp-4.2
     omnisharp-auto-complete-actions.el -> omnisharp-auto-complete-actions.el
     omnisharp-current-symbol-actions.el -> omnisharp-current-symbol-actions.el
     omnisharp-format-actions.el -> omnisharp-format-actions.el
@@ -35,9 +36,9 @@ Created omnisharp-4.2.tar containing:
   omnisharp-4.2/omnisharp-solution-actions.el
   omnisharp-4.2/omnisharp-utils.el
   omnisharp-4.2/omnisharp.el
-Built omnisharp in 3.340s, finished at Wed May 19 01:38:40 2021
+Built omnisharp in 3.939s, finished at 2021-08-17T11:22:24+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  681 May 19 01:38 packages-stable/omnisharp-4.2.entry
-152K -rw-r--r-- 1 root root 150K May 19 01:38 packages-stable/omnisharp-4.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/omnisharp-badge.svg
-4.0K -rw-r--r-- 1 root root  278 May 19 01:38 packages-stable/omnisharp-readme.txt
+4.0K -rw-r--r-- 1 root root  681 Aug 17 11:22 packages-stable/omnisharp-4.2.entry
+152K -rw-r--r-- 1 root root 150K Aug 17 11:22 packages-stable/omnisharp-4.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/omnisharp-badge.svg
+4.0K -rw-r--r-- 1 root root  278 Aug 17 11:22 packages-stable/omnisharp-readme.txt

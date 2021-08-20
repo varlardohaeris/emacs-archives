@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tarsius/frameshot.git
 
 Updating /mnt/store/melpa/working/frameshot/
-Built frameshot in 2.897s, finished at Wed May 19 04:36:15 2021
+Checking out 8ee97e2f033c684dd75375e727ad0625569a5795
+Built frameshot in 3.744s, finished at 2021-08-17T11:03:23+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.5K May 19 04:36 packages-stable/frameshot-0.2.4.el
-4.0K -rw-r--r-- 1 root root  339 May 19 04:36 packages-stable/frameshot-0.2.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/frameshot-badge.svg
-4.0K -rw-r--r-- 1 root root  344 May 19 04:36 packages-stable/frameshot-readme.txt
+8.0K -rw-r--r-- 1 root root 7.5K Aug 17 11:03 packages-stable/frameshot-0.2.4.el
+4.0K -rw-r--r-- 1 root root  339 Aug 17 11:03 packages-stable/frameshot-0.2.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/frameshot-badge.svg
+4.0K -rw-r--r-- 1 root root  344 Aug 17 11:03 packages-stable/frameshot-readme.txt

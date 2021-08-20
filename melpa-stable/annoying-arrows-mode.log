@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/magnars/annoying-arrows-mode.el.git
 
 Updating /mnt/store/melpa/working/annoying-arrows-mode/
-Built annoying-arrows-mode in 3.059s, finished at Wed May 19 04:19:28 2021
+Checking out e92e1a671967a8835297acc2e2bac4b3cd3df560
+Built annoying-arrows-mode in 3.722s, finished at 2021-08-17T10:44:17+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.2K May 19 04:19 packages-stable/annoying-arrows-mode-0.1.0.el
-4.0K -rw-r--r-- 1 root root  281 May 19 04:19 packages-stable/annoying-arrows-mode-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/annoying-arrows-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  189 May 19 04:19 packages-stable/annoying-arrows-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.2K Aug 17 10:44 packages-stable/annoying-arrows-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  281 Aug 17 10:44 packages-stable/annoying-arrows-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/annoying-arrows-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  189 Aug 17 10:44 packages-stable/annoying-arrows-mode-readme.txt

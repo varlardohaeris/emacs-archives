@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/s-kostyaev/company-erlang.git
 
 Updating /mnt/store/melpa/working/company-erlang/
-Built company-erlang in 3.228s, finished at Wed May 19 04:24:25 2021
+Checking out bc0524a16f17b66c7397690e4ca0e004f09ea6c5
+Built company-erlang in 3.705s, finished at 2021-08-17T10:49:54+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.3K May 19 04:24 packages-stable/company-erlang-0.1.1.el
-4.0K -rw-r--r-- 1 root root  371 May 19 04:24 packages-stable/company-erlang-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-erlang-badge.svg
-4.0K -rw-r--r-- 1 root root  828 May 19 04:24 packages-stable/company-erlang-readme.txt
+8.0K -rw-r--r-- 1 root root 7.3K Aug 17 10:49 packages-stable/company-erlang-0.1.1.el
+4.0K -rw-r--r-- 1 root root  371 Aug 17 10:49 packages-stable/company-erlang-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-erlang-badge.svg
+4.0K -rw-r--r-- 1 root root  828 Aug 17 10:49 packages-stable/company-erlang-readme.txt

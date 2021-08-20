@@ -8,30 +8,30 @@ Features
 
  - Set a desired text body width to automatically resize window margins
    to keep the text comfortably in the middle of the window.
- - Text body width can be the number of characters (an integer) or a
-   fraction of the window width (a float between 0.0 and 1.0).
+ - Text body width can be the number of characters (an integer), a fraction of
+   the window width (a float between 0.0 and 1.0), or nil which uses the value
+   of fill-column +2.
  - Interactively change body width with:
    olivetti-shrink C-c { { { ...
    olivetti-expand C-c } } } ...
-   olivetti-set-width C-c \
+   olivetti-set-width C-c |
  - If olivetti-body-width is an integer, the text body width will
    scale with use of text-scale-mode, whereas if a fraction (float) then
    the text body width will remain at that fraction.
+ - Change the way the text body margins look with option olivetti-style: use
+   margins, fringes, or both for a fancy "page" look.
+ - Customize olivetti-fringe face to affect only Olivetti buffers.
  - Optionally remember the state of visual-line-mode on entry and
    recall its state on exit.
 
 Olivetti keeps everything it does buffer-local, so you can write prose
-in one buffer and code in another, side-by-side in the same frame. For
-those looking for a hardcore distraction-free writing mode with a much
-larger scope, I recommend writeroom-mode:
-<https://github.com/joostkremers/writeroom-mode>.
+in one buffer and code in another, side-by-side in the same frame.
 
 
 Requirements
 ------------
 
  - Emacs 24.4
- - seq 2.20 (part of Emacs 25 and later)
 
 
 Installation
@@ -86,6 +86,13 @@ Variable:
     M-x add-file-local-variable RET olivetti-body-width RET 66 RET
 
 See (info "(emacs) File Variables")
+
+
+Alternatives
+------------
+
+For those looking for a hardcore distraction-free writing mode with a much
+larger scope, I recommend [Writeroom Mode](https://github.com/joostkremers/writeroom-mode).
 
 
 [1]: https://stable.melpa.org/#/olivetti

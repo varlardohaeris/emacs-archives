@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rexim/gruber-darker-theme.git
 
 Updating /mnt/store/melpa/working/gruber-darker-theme/
-Built gruber-darker-theme in 6.112s, finished at Wed May 19 04:38:50 2021
+Checking out 0c08d77e615aceb9e6e1ca66b1fbde275200cfe4
+Built gruber-darker-theme in 4.570s, finished at 2021-08-17T11:06:16+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:38 packages-stable/gruber-darker-theme-0.6.el
-4.0K -rw-r--r-- 1 root root  357 May 19 04:38 packages-stable/gruber-darker-theme-0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/gruber-darker-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  190 May 19 04:38 packages-stable/gruber-darker-theme-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:06 packages-stable/gruber-darker-theme-0.6.el
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:06 packages-stable/gruber-darker-theme-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/gruber-darker-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  190 Aug 17 11:06 packages-stable/gruber-darker-theme-readme.txt

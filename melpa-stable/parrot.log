@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dp12/parrot.git
 
 Updating /mnt/store/melpa/working/parrot/
+Checking out 13757524f1c708b866f4aaab5a9fb3599a1c4f56
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parrot/
-  to /tmp/parrotps9X9a/parrot-1.1.1
+  to /tmp/parrotD5pHsu/parrot-1.1.1
     parrot-rotate.el -> parrot-rotate.el
     parrot.el -> parrot.el
     img => img
@@ -113,9 +114,9 @@ Created parrot-1.1.1.tar containing:
   parrot-1.1.1/parrot-pkg.el
   parrot-1.1.1/parrot-rotate.el
   parrot-1.1.1/parrot.el
-Built parrot in 4.006s, finished at Wed May 19 01:42:03 2021
+Built parrot in 3.962s, finished at 2021-08-17T11:26:12+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  396 May 19 01:42 packages-stable/parrot-1.1.1.entry
-492K -rw-r--r-- 1 root root 490K May 19 01:42 packages-stable/parrot-1.1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/parrot-badge.svg
-4.0K -rw-r--r-- 1 root root  610 May 19 01:42 packages-stable/parrot-readme.txt
+4.0K -rw-r--r-- 1 root root  396 Aug 17 11:26 packages-stable/parrot-1.1.1.entry
+492K -rw-r--r-- 1 root root 490K Aug 17 11:26 packages-stable/parrot-1.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/parrot-badge.svg
+4.0K -rw-r--r-- 1 root root  610 Aug 17 11:26 packages-stable/parrot-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-popup-tip.git
 
 Updating /mnt/store/melpa/working/flycheck-popup-tip/
-Built flycheck-popup-tip in 3.451s, finished at Wed May 19 04:35:08 2021
+Checking out 47a3902d35c5b07cfc17fd6f95909a2870ea9107
+Built flycheck-popup-tip in 9.385s, finished at 2021-08-17T11:02:05+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.1K May 19 04:35 packages-stable/flycheck-popup-tip-0.12.2.el
-4.0K -rw-r--r-- 1 root root  522 May 19 04:35 packages-stable/flycheck-popup-tip-0.12.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-popup-tip-badge.svg
-4.0K -rw-r--r-- 1 root root  432 May 19 04:35 packages-stable/flycheck-popup-tip-readme.txt
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 11:02 packages-stable/flycheck-popup-tip-0.12.2.el
+4.0K -rw-r--r-- 1 root root  522 Aug 17 11:02 packages-stable/flycheck-popup-tip-0.12.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-popup-tip-badge.svg
+4.0K -rw-r--r-- 1 root root  432 Aug 17 11:02 packages-stable/flycheck-popup-tip-readme.txt

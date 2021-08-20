@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/benma/go-dlv.el.git
 
 Updating /mnt/store/melpa/working/go-dlv/
-Built go-dlv in 2.815s, finished at Wed May 19 04:37:55 2021
+Checking out 9254bcebfbbc6caf623ded82576e5d14e1fd6d29
+Built go-dlv in 3.775s, finished at 2021-08-17T11:05:20+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.1K May 19 04:37 packages-stable/go-dlv-0.4.0.el
-4.0K -rw-r--r-- 1 root root  403 May 19 04:37 packages-stable/go-dlv-0.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/go-dlv-badge.svg
+ 12K -rw-r--r-- 1 root root 8.1K Aug 17 11:05 packages-stable/go-dlv-0.4.0.el
+4.0K -rw-r--r-- 1 root root  403 Aug 17 11:05 packages-stable/go-dlv-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/go-dlv-badge.svg

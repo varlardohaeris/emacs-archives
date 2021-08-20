@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/zwild/eshell-prompt-extras.git
 
 Updating /mnt/store/melpa/working/eshell-prompt-extras/
-Built eshell-prompt-extras in 3.077s, finished at Wed May 19 04:31:41 2021
+Checking out 356a540f9365b2f37f8a8cfb9c0e0e1994d12f4a
+Built eshell-prompt-extras in 4.195s, finished at 2021-08-17T10:58:09+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  23K May 19 04:31 packages-stable/eshell-prompt-extras-1.0.el
-4.0K -rw-r--r-- 1 root root  403 May 19 04:31 packages-stable/eshell-prompt-extras-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eshell-prompt-extras-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 04:31 packages-stable/eshell-prompt-extras-readme.txt
+ 24K -rw-r--r-- 1 root root  23K Aug 17 10:58 packages-stable/eshell-prompt-extras-1.0.el
+4.0K -rw-r--r-- 1 root root  403 Aug 17 10:58 packages-stable/eshell-prompt-extras-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/eshell-prompt-extras-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 10:58 packages-stable/eshell-prompt-extras-readme.txt

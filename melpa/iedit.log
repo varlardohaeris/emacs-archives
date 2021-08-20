@@ -3,21 +3,23 @@ Fetcher: github
 Source:  https://github.com/victorhge/iedit.git
 
 Updating /mnt/store/melpa/working/iedit/
+Checking out origin/HEAD
+Checking out 2f504c966e7f640dcd6ecbf40a6a1a05ea286de0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/iedit/
-  to /tmp/ieditJQIqaf/iedit-20210402.854
+  to /tmp/ieditfcaTgE/iedit-20210812.735
     iedit-lib.el -> iedit-lib.el
     iedit-rect.el -> iedit-rect.el
     iedit.el -> iedit.el
-Created iedit-20210402.854.tar containing:
-  iedit-20210402.854/
-  iedit-20210402.854/iedit-lib.el
-  iedit-20210402.854/iedit-pkg.el
-  iedit-20210402.854/iedit-rect.el
-  iedit-20210402.854/iedit.el
-Built iedit in 3.702s, finished at Wed May 19 03:34:16 2021
+Created iedit-20210812.735.tar containing:
+  iedit-20210812.735/
+  iedit-20210812.735/iedit-lib.el
+  iedit-20210812.735/iedit-pkg.el
+  iedit-20210812.735/iedit-rect.el
+  iedit-20210812.735/iedit.el
+Built iedit in 5.201s, finished at 2021-08-17T09:58:03+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  378 May 19 03:34 packages/iedit-20210402.854.entry
-100K -rw-r--r-- 1 root root 100K May 19 03:34 packages/iedit-20210402.854.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:34 packages/iedit-badge.svg
-4.0K -rw-r--r-- 1 root root 2.8K May 19 03:34 packages/iedit-readme.txt
+4.0K -rw-r--r-- 1 root root  378 Aug 17 09:58 packages/iedit-20210812.735.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 09:58 packages/iedit-20210812.735.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:58 packages/iedit-badge.svg
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 09:58 packages/iedit-readme.txt

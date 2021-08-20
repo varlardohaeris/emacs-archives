@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/nroam.git
 
 Updating /mnt/store/melpa/working/nroam/
+Checking out c150603a25445d65b7b08d658793a6019fd763ea
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nroam/
-  to /tmp/nroampCqqW8/nroam-0.9.0
+  to /tmp/nroamhYdWbg/nroam-0.9.0
     nroam-backlinks.el -> nroam-backlinks.el
     nroam-unlinked.el -> nroam-unlinked.el
     nroam-utils.el -> nroam-utils.el
@@ -17,9 +18,9 @@ Created nroam-0.9.0.tar containing:
   nroam-0.9.0/nroam-unlinked.el
   nroam-0.9.0/nroam-utils.el
   nroam-0.9.0/nroam.el
-Built nroam in 2.685s, finished at Wed May 19 01:37:46 2021
+Built nroam in 4.265s, finished at 2021-08-17T11:21:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  383 May 19 01:37 packages-stable/nroam-0.9.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:37 packages-stable/nroam-0.9.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nroam-badge.svg
-4.0K -rw-r--r-- 1 root root  283 May 19 01:37 packages-stable/nroam-readme.txt
+4.0K -rw-r--r-- 1 root root  383 Aug 17 11:21 packages-stable/nroam-0.9.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:21 packages-stable/nroam-0.9.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/nroam-badge.svg
+4.0K -rw-r--r-- 1 root root  283 Aug 17 11:21 packages-stable/nroam-readme.txt

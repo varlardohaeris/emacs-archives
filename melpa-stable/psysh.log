@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-php/psysh.el.git
 
 Updating /mnt/store/melpa/working/psysh/
-Built psysh in 3.791s, finished at Wed May 19 01:44:30 2021
+Checking out 4709a57cdcf7103c4a606be89849ea3ead2d38a5
+Built psysh in 4.131s, finished at 2021-08-17T11:29:00+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 01:44 packages-stable/psysh-0.0.5.el
-4.0K -rw-r--r-- 1 root root  366 May 19 01:44 packages-stable/psysh-0.0.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/psysh-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:44 packages-stable/psysh-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:29 packages-stable/psysh-0.0.5.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 11:29 packages-stable/psysh-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/psysh-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:29 packages-stable/psysh-readme.txt

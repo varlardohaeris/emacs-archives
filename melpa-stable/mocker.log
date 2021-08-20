@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/sigma/mocker.el.git
 
 Updating /mnt/store/melpa/working/mocker/
+Checking out 5d739d5170ff42e841cd2755b68151918052da2b
 Note: mocker :files spec is equivalent to the default.
-Built mocker in 3.224s, finished at Wed May 19 01:35:38 2021
+Built mocker in 6.922s, finished at 2021-08-17T11:18:46+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 01:35 packages-stable/mocker-0.5.0.el
-4.0K -rw-r--r-- 1 root root  296 May 19 01:35 packages-stable/mocker-0.5.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mocker-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:35 packages-stable/mocker-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:18 packages-stable/mocker-0.5.0.el
+4.0K -rw-r--r-- 1 root root  296 Aug 17 11:18 packages-stable/mocker-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/mocker-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:18 packages-stable/mocker-readme.txt

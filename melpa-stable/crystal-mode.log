@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/crystal-lang-tools/emacs-crystal-mode.git
 
 Updating /mnt/store/melpa/working/crystal-mode/
-Built crystal-mode in 4.909s, finished at Wed May 19 04:25:54 2021
+Checking out 0fe6815201bebe4c5ff6857bd541d95b05132b10
+Built crystal-mode in 4.278s, finished at 2021-08-17T10:51:41+0000
  ✓ Success:
-104K -rw-r--r-- 1 root root 102K May 19 04:25 packages-stable/crystal-mode-0.1.0.el
-4.0K -rw-r--r-- 1 root root  287 May 19 04:25 packages-stable/crystal-mode-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/crystal-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  445 May 19 04:25 packages-stable/crystal-mode-readme.txt
+104K -rw-r--r-- 1 root root 102K Aug 17 10:51 packages-stable/crystal-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  287 Aug 17 10:51 packages-stable/crystal-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/crystal-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  445 Aug 17 10:51 packages-stable/crystal-mode-readme.txt

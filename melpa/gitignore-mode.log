@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/magit/git-modes.git
 
 Updating /mnt/store/melpa/working/gitignore-mode/
-Built gitignore-mode in 4.175s, finished at Wed May 19 03:26:15 2021
+Checking out origin/HEAD
+Checking out 433e1c57a63c88855fc41a942e29d7bc8c9c16c7
+Built gitignore-mode in 5.230s, finished at 2021-08-17T09:49:55+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.3K May 19 03:26 packages/gitignore-mode-20210426.2132.el
-4.0K -rw-r--r-- 1 root root  369 May 19 03:26 packages/gitignore-mode-20210426.2132.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:26 packages/gitignore-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   43 May 19 03:26 packages/gitignore-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 09:49 packages/gitignore-mode-20210528.1856.el
+4.0K -rw-r--r-- 1 root root  390 Aug 17 09:49 packages/gitignore-mode-20210528.1856.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:49 packages/gitignore-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   43 Aug 17 09:49 packages/gitignore-mode-readme.txt

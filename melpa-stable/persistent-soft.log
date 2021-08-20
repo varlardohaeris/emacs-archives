@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rolandwalker/persistent-soft.git
 
 Updating /mnt/store/melpa/working/persistent-soft/
-Built persistent-soft in 3.456s, finished at Wed May 19 01:42:32 2021
+Checking out cd1d3ea03df817a1b8d66ba7c523b5980ac74e63
+Built persistent-soft in 4.322s, finished at 2021-08-17T11:26:44+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 01:42 packages-stable/persistent-soft-0.8.10.el
-4.0K -rw-r--r-- 1 root root  431 May 19 01:42 packages-stable/persistent-soft-0.8.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/persistent-soft-badge.svg
-4.0K -rw-r--r-- 1 root root 3.6K May 19 01:42 packages-stable/persistent-soft-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:26 packages-stable/persistent-soft-0.8.10.el
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:26 packages-stable/persistent-soft-0.8.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/persistent-soft-badge.svg
+4.0K -rw-r--r-- 1 root root 3.6K Aug 17 11:26 packages-stable/persistent-soft-readme.txt

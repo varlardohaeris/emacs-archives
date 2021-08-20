@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-jp/init-loader.git
 
 Updating /mnt/store/melpa/working/init-loader/
-Built init-loader in 3.087s, finished at Wed May 19 04:43:22 2021
+Checking out 128ee76adbf431f0b8c30a3a29cb20c9c5100cde
+Built init-loader in 4.001s, finished at 2021-08-17T11:11:36+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 04:43 packages-stable/init-loader-0.2.el
-4.0K -rw-r--r-- 1 root root  322 May 19 04:43 packages-stable/init-loader-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/init-loader-badge.svg
-4.0K -rw-r--r-- 1 root root 2.4K May 19 04:43 packages-stable/init-loader-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:11 packages-stable/init-loader-0.2.el
+4.0K -rw-r--r-- 1 root root  322 Aug 17 11:11 packages-stable/init-loader-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/init-loader-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 11:11 packages-stable/init-loader-readme.txt

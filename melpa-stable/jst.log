@@ -1,6 +1,6 @@
 Package: jst
 Fetcher: github
-Source:  https://github.com/zhangkaiyulw/jst-mode.git
+Source:  https://github.com/victorteokw/jst-mode.git
 
 Updating /mnt/store/melpa/working/jst/
 No valid stable versions found for jst

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/leotaku/flycheck-aspell.git
 
 Updating /mnt/store/melpa/working/flycheck-aspell/
-Built flycheck-aspell in 4.329s, finished at Wed May 19 03:21:23 2021
+Checking out origin/HEAD
+Checking out 3abe1a6184fefea3e427141131fba40afae3d356
+Built flycheck-aspell in 4.988s, finished at 2021-08-17T09:44:46+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 03:21 packages/flycheck-aspell-20210411.2342.el
-4.0K -rw-r--r-- 1 root root  421 May 19 03:21 packages/flycheck-aspell-20210411.2342.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:21 packages/flycheck-aspell-badge.svg
-4.0K -rw-r--r-- 1 root root  182 May 19 03:21 packages/flycheck-aspell-readme.txt
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 09:44 packages/flycheck-aspell-20210618.920.el
+4.0K -rw-r--r-- 1 root root  420 Aug 17 09:44 packages/flycheck-aspell-20210618.920.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:44 packages/flycheck-aspell-badge.svg
+4.0K -rw-r--r-- 1 root root  182 Aug 17 09:44 packages/flycheck-aspell-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ocaml/merlin.git
 
 Updating /mnt/store/melpa/working/merlin-iedit/
-Built merlin-iedit in 9.466s, finished at Wed May 19 01:35:01 2021
+Checking out 55caee534acf364b093653a6108521d57d56af1c
+Built merlin-iedit in 4.909s, finished at 2021-08-17T11:18:00+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.6K May 19 01:35 packages-stable/merlin-iedit-4.2snapshot412.el
-4.0K -rw-r--r-- 1 root root  520 May 19 01:35 packages-stable/merlin-iedit-4.2snapshot412.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/merlin-iedit-badge.svg
-4.0K -rw-r--r-- 1 root root  141 May 19 01:35 packages-stable/merlin-iedit-readme.txt
+4.0K -rw-r--r-- 1 root root 2.6K Aug 17 11:17 packages-stable/merlin-iedit-4.3.1snapshot412.el
+4.0K -rw-r--r-- 1 root root  522 Aug 17 11:17 packages-stable/merlin-iedit-4.3.1snapshot412.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/merlin-iedit-badge.svg
+4.0K -rw-r--r-- 1 root root  141 Aug 17 11:17 packages-stable/merlin-iedit-readme.txt

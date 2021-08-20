@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/dakra/pyramid.el.git
 
 Updating /mnt/store/melpa/working/pyramid/
+Checking out origin/HEAD
+Checking out 66f54f4a9cc9fa81edf768ab433d5b3c5517363c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pyramid/
-  to /tmp/pyramid0szEZP/pyramid-20210427.1032
+  to /tmp/pyramidlEOw6c/pyramid-20210427.1032
     pyramid.el -> pyramid.el
     snippets => snippets
 Created pyramid-20210427.1032.tar containing:
@@ -19,9 +21,9 @@ Created pyramid-20210427.1032.tar containing:
   pyramid-20210427.1032/snippets/python-mode/view
   pyramid-20210427.1032/snippets/web-mode/
   pyramid-20210427.1032/snippets/web-mode/route_url
-Built pyramid in 3.861s, finished at Wed May 19 03:58:22 2021
+Built pyramid in 4.464s, finished at 2021-08-17T10:23:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  464 May 19 03:58 packages/pyramid-20210427.1032.entry
- 40K -rw-r--r-- 1 root root  40K May 19 03:58 packages/pyramid-20210427.1032.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:58 packages/pyramid-badge.svg
-4.0K -rw-r--r-- 1 root root  359 May 19 03:58 packages/pyramid-readme.txt
+4.0K -rw-r--r-- 1 root root  464 Aug 17 10:23 packages/pyramid-20210427.1032.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 10:23 packages/pyramid-20210427.1032.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:23 packages/pyramid-badge.svg
+4.0K -rw-r--r-- 1 root root  359 Aug 17 10:23 packages/pyramid-readme.txt

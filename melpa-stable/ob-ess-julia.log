@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/frederic-santos/ob-ess-julia.git
 
 Updating /mnt/store/melpa/working/ob-ess-julia/
+Checking out 647f262c9bef97ebefcab27e6e49f009427ca3fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-ess-julia/
-  to /tmp/ob-ess-juliaHQSuFg/ob-ess-julia-1.0.3
+  to /tmp/ob-ess-juliai78cdT/ob-ess-julia-1.0.3
     ob-ess-julia.el -> ob-ess-julia.el
     ob-ess-julia-startup.jl -> ob-ess-julia-startup.jl
 Created ob-ess-julia-1.0.3.tar containing:
@@ -13,9 +14,9 @@ Created ob-ess-julia-1.0.3.tar containing:
   ob-ess-julia-1.0.3/ob-ess-julia-pkg.el
   ob-ess-julia-1.0.3/ob-ess-julia-startup.jl
   ob-ess-julia-1.0.3/ob-ess-julia.el
-Built ob-ess-julia in 3.303s, finished at Wed May 19 01:38:07 2021
+Built ob-ess-julia in 4.731s, finished at 2021-08-17T11:21:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  370 May 19 01:38 packages-stable/ob-ess-julia-1.0.3.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:38 packages-stable/ob-ess-julia-1.0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-ess-julia-badge.svg
-4.0K -rw-r--r-- 1 root root   76 May 19 01:38 packages-stable/ob-ess-julia-readme.txt
+4.0K -rw-r--r-- 1 root root  370 Aug 17 11:21 packages-stable/ob-ess-julia-1.0.3.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:21 packages-stable/ob-ess-julia-1.0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/ob-ess-julia-badge.svg
+4.0K -rw-r--r-- 1 root root   76 Aug 17 11:21 packages-stable/ob-ess-julia-readme.txt

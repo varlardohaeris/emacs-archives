@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/project-abbrev.git
 
 Updating /mnt/store/melpa/working/project-abbrev/
-Built project-abbrev in 4.418s, finished at Wed May 19 03:57:14 2021
+Checking out origin/HEAD
+Checking out e8c22beb14aff6d5661337feb6cebd7af3a3d454
+Built project-abbrev in 4.882s, finished at 2021-08-17T10:22:42+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.7K May 19 03:57 packages/project-abbrev-20200724.901.el
-4.0K -rw-r--r-- 1 root root  365 May 19 03:57 packages/project-abbrev-20200724.901.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:57 packages/project-abbrev-badge.svg
-4.0K -rw-r--r-- 1 root root   50 May 19 03:57 packages/project-abbrev-readme.txt
+8.0K -rw-r--r-- 1 root root 4.8K Aug 17 10:22 packages/project-abbrev-20210715.1213.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 10:22 packages/project-abbrev-20210715.1213.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:22 packages/project-abbrev-badge.svg
+4.0K -rw-r--r-- 1 root root   50 Aug 17 10:22 packages/project-abbrev-readme.txt

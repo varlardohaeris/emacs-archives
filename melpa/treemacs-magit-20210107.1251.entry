@@ -9,7 +9,7 @@
 		  (magit
 		   (2 90 0)))
 		 "Magit integration for treemacs" single
-		 ((:commit . "1a396fb66470736f3f76ae9342b20357426e371f")
+		 ((:commit . "d9fc2995577b71d213f0201a66c8e2d90e7cd0ff")
 		  (:authors
 		   ("Alexander Miller" . "alexanderm@web.de"))
 		  (:maintainer "Alexander Miller" . "alexanderm@web.de")

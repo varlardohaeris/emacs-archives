@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ninrod/evil-replace-with-char.git
 
 Updating /mnt/store/melpa/working/evil-replace-with-char/
-Built evil-replace-with-char in 2.959s, finished at Wed May 19 04:32:32 2021
+Checking out dddbbafdd620cc48dd0a257baf4010e1b415ebe8
+Built evil-replace-with-char in 4.287s, finished at 2021-08-17T10:59:09+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.1K May 19 04:32 packages-stable/evil-replace-with-char-1.0.0.el
-4.0K -rw-r--r-- 1 root root  401 May 19 04:32 packages-stable/evil-replace-with-char-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-replace-with-char-badge.svg
-4.0K -rw-r--r-- 1 root root  285 May 19 04:32 packages-stable/evil-replace-with-char-readme.txt
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 10:59 packages-stable/evil-replace-with-char-1.0.0.el
+4.0K -rw-r--r-- 1 root root  401 Aug 17 10:59 packages-stable/evil-replace-with-char-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-replace-with-char-badge.svg
+4.0K -rw-r--r-- 1 root root  285 Aug 17 10:59 packages-stable/evil-replace-with-char-readme.txt

@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/wyuenho/all-the-icons-dired.git
 
 Updating /mnt/store/melpa/working/all-the-icons-dired/
-No valid stable versions found for all-the-icons-dired
+Checking out a758766878b6e8b9eaaf41d68599a2df99e37f48
+Built all-the-icons-dired in 3.739s, finished at 2021-08-17T10:43:56+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K Aug 17 10:43 packages-stable/all-the-icons-dired-2.0.el
+4.0K -rw-r--r-- 1 root root  437 Aug 17 10:43 packages-stable/all-the-icons-dired-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/all-the-icons-dired-badge.svg
+4.0K -rw-r--r-- 1 root root  290 Aug 17 10:43 packages-stable/all-the-icons-dired-readme.txt

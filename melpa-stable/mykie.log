@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/yuutayamada/mykie-el.git
 
 Updating /mnt/store/melpa/working/mykie/
+Checking out ab8f7549f9018c26278d101af1b90997c9e5e0b3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mykie/
-  to /tmp/mykiec8aJUf/mykie-0.3.1
+  to /tmp/mykieD0whqe/mykie-0.3.1
   ! lisp/helm-mykie-keywords.el -> helm-mykie-keywords.el
   ! lisp/mykie.el -> mykie.el
 Created mykie-0.3.1.tar containing:
@@ -13,9 +14,9 @@ Created mykie-0.3.1.tar containing:
   mykie-0.3.1/helm-mykie-keywords.el
   mykie-0.3.1/mykie-pkg.el
   mykie-0.3.1/mykie.el
-Built mykie in 3.676s, finished at Wed May 19 01:36:47 2021
+Built mykie in 3.485s, finished at 2021-08-17T11:20:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  410 May 19 01:36 packages-stable/mykie-0.3.1.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:36 packages-stable/mykie-0.3.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mykie-badge.svg
-4.0K -rw-r--r-- 1 root root  799 May 19 01:36 packages-stable/mykie-readme.txt
+4.0K -rw-r--r-- 1 root root  410 Aug 17 11:20 packages-stable/mykie-0.3.1.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:20 packages-stable/mykie-0.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/mykie-badge.svg
+4.0K -rw-r--r-- 1 root root  799 Aug 17 11:20 packages-stable/mykie-readme.txt

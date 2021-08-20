@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/deb0ch/emacs-winum.git
 
 Updating /mnt/store/melpa/working/winum/
-Built winum in 4.886s, finished at Wed May 19 01:55:22 2021
+Checking out efcb14fd306afbc738666e6b2e5a8a1bb5904392
+Built winum in 6.864s, finished at 2021-08-17T11:41:11+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  24K May 19 01:55 packages-stable/winum-2.1.0.el
-4.0K -rw-r--r-- 1 root root  437 May 19 01:55 packages-stable/winum-2.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/winum-badge.svg
-4.0K -rw-r--r-- 1 root root  446 May 19 01:55 packages-stable/winum-readme.txt
+ 24K -rw-r--r-- 1 root root  24K Aug 17 11:41 packages-stable/winum-2.1.0.el
+4.0K -rw-r--r-- 1 root root  437 Aug 17 11:41 packages-stable/winum-2.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:41 packages-stable/winum-badge.svg
+4.0K -rw-r--r-- 1 root root  446 Aug 17 11:41 packages-stable/winum-readme.txt

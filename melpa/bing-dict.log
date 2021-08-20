@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/cute-jumper/bing-dict.el.git
 
 Updating /mnt/store/melpa/working/bing-dict/
+Checking out origin/HEAD
+Checking out 1d581aaa9622b34f8fb83af5579fa252aa24cfef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bing-dict/
-  to /tmp/bing-dictgZwUEs/bing-dict-20200216.110
+  to /tmp/bing-dictQLA0kR/bing-dict-20200216.110
     bing-dict-cache.el -> bing-dict-cache.el
     bing-dict.el -> bing-dict.el
 Created bing-dict-20200216.110.tar containing:
@@ -13,9 +15,9 @@ Created bing-dict-20200216.110.tar containing:
   bing-dict-20200216.110/bing-dict-cache.el
   bing-dict-20200216.110/bing-dict-pkg.el
   bing-dict-20200216.110/bing-dict.el
-Built bing-dict in 4.029s, finished at Wed May 19 03:02:19 2021
+Built bing-dict in 4.513s, finished at 2021-08-17T09:24:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  371 May 19 03:02 packages/bing-dict-20200216.110.entry
- 32K -rw-r--r-- 1 root root  30K May 19 03:02 packages/bing-dict-20200216.110.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:02 packages/bing-dict-badge.svg
-8.0K -rw-r--r-- 1 root root 4.6K May 19 03:02 packages/bing-dict-readme.txt
+4.0K -rw-r--r-- 1 root root  371 Aug 17 09:24 packages/bing-dict-20200216.110.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 09:24 packages/bing-dict-20200216.110.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:24 packages/bing-dict-badge.svg
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 09:24 packages/bing-dict-readme.txt

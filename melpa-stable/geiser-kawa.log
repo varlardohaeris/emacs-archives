@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-geiser/kawa.git
 
 Updating /mnt/store/melpa/working/geiser-kawa/
+Checking out f76b53dbc1465dbd799e29bdcd2be34cc1603f50
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser-kawa/
-  to /tmp/geiser-kawagkYLpc/geiser-kawa-0.14
+  to /tmp/geiser-kawaI1ohPq/geiser-kawa-0.14
   ! elisp/geiser-kawa-arglist.el -> geiser-kawa-arglist.el
   ! elisp/geiser-kawa-deps.el -> geiser-kawa-deps.el
   ! elisp/geiser-kawa-devutil-complete.el -> geiser-kawa-devutil-complete.el
@@ -60,9 +61,9 @@ Created geiser-kawa-0.14.tar containing:
   geiser-kawa-0.14/src/test/java/kawageiser/
   geiser-kawa-0.14/src/test/java/kawageiser/GeiserAutodocTest.java
   geiser-kawa-0.14/src/test/java/kawageiser/GeiserTest.java
-Built geiser-kawa in 3.024s, finished at Wed May 19 04:36:47 2021
+Built geiser-kawa in 3.866s, finished at 2021-08-17T11:03:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  452 May 19 04:36 packages-stable/geiser-kawa-0.14.entry
-140K -rw-r--r-- 1 root root 140K May 19 04:36 packages-stable/geiser-kawa-0.14.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-kawa-badge.svg
-4.0K -rw-r--r-- 1 root root   87 May 19 04:36 packages-stable/geiser-kawa-readme.txt
+4.0K -rw-r--r-- 1 root root  452 Aug 17 11:03 packages-stable/geiser-kawa-0.14.entry
+140K -rw-r--r-- 1 root root 140K Aug 17 11:03 packages-stable/geiser-kawa-0.14.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-kawa-badge.svg
+4.0K -rw-r--r-- 1 root root   87 Aug 17 11:03 packages-stable/geiser-kawa-readme.txt

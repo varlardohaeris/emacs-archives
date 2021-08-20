@@ -3,24 +3,25 @@ Fetcher: github
 Source:  https://github.com/alphapapa/org-ql.git
 
 Updating /mnt/store/melpa/working/org-ql/
+Checking out 1227e8259bd196c0db37ca70acccd725f33ee68f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-ql/
-  to /tmp/org-qlvYrEMo/org-ql-0.5
+  to /tmp/org-qlH4yN4g/org-ql-0.5.2
     org-ql-search.el -> org-ql-search.el
     org-ql-view.el -> org-ql-view.el
     org-ql.el -> org-ql.el
     org-ql.info -> org-ql.info
-Created org-ql-0.5.tar containing:
-  org-ql-0.5/
-  org-ql-0.5/dir
-  org-ql-0.5/org-ql-pkg.el
-  org-ql-0.5/org-ql-search.el
-  org-ql-0.5/org-ql-view.el
-  org-ql-0.5/org-ql.el
-  org-ql-0.5/org-ql.info
-Built org-ql in 3.125s, finished at Wed May 19 01:39:49 2021
+Created org-ql-0.5.2.tar containing:
+  org-ql-0.5.2/
+  org-ql-0.5.2/dir
+  org-ql-0.5.2/org-ql-pkg.el
+  org-ql-0.5.2/org-ql-search.el
+  org-ql-0.5.2/org-ql-view.el
+  org-ql-0.5.2/org-ql.el
+  org-ql-0.5.2/org-ql.info
+Built org-ql in 4.200s, finished at 2021-08-17T11:23:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  631 May 19 01:39 packages-stable/org-ql-0.5.entry
-232K -rw-r--r-- 1 root root 230K May 19 01:39 packages-stable/org-ql-0.5.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-ql-badge.svg
-4.0K -rw-r--r-- 1 root root  272 May 19 01:39 packages-stable/org-ql-readme.txt
+4.0K -rw-r--r-- 1 root root  633 Aug 17 11:23 packages-stable/org-ql-0.5.2.entry
+232K -rw-r--r-- 1 root root 230K Aug 17 11:23 packages-stable/org-ql-0.5.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:23 packages-stable/org-ql-badge.svg
+4.0K -rw-r--r-- 1 root root  272 Aug 17 11:23 packages-stable/org-ql-readme.txt

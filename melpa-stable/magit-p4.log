@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/magit-p4.git
 
 Updating /mnt/store/melpa/working/magit-p4/
+Checking out c57e4a50362fe949c47abe6b69900922d9ad4fca
 End of file during parsing

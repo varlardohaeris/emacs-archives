@@ -3,7 +3,9 @@ Fetcher: github
 Source:  https://github.com/RedPRL/sml-redprl.git
 
 Updating /mnt/store/melpa/working/redprl/
+Checking out d06d39486348a74981b2c4c4c2ed3af95b01d5ca
 Command '(env LC_ALL=C git submodule update --init --recursive)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
 warning: unable to rmdir 'lib/sml-final-pretty-printer': Directory not empty
 HEAD is now at d06d394 Fix/issue 182 (#183)
 Synchronizing submodule url for 'lib/cmlib'

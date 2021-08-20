@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nlamirault/dionysos.git
 
 Updating /mnt/store/melpa/working/dionysos/
+Checking out 98bc789d20e41020d6e62d63d3c78f8032fa4bf2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dionysos/
-  to /tmp/dionysosfSXsGS/dionysos-0.6.0
+  to /tmp/dionysosHrJfYX/dionysos-0.6.0
     dionysos-backend-mpd.el -> dionysos-backend-mpd.el
     dionysos-backend-mplayer.el -> dionysos-backend-mplayer.el
     dionysos-backend-vlc.el -> dionysos-backend-vlc.el
@@ -39,9 +40,9 @@ Created dionysos-0.6.0.tar containing:
   dionysos-0.6.0/dionysos-version.el
   dionysos-0.6.0/dionysos-volume.el
   dionysos-0.6.0/dionysos.el
-Built dionysos in 6.056s, finished at Wed May 19 04:27:31 2021
+Built dionysos in 3.951s, finished at 2021-08-17T10:53:09+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  522 May 19 04:27 packages-stable/dionysos-0.6.0.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:27 packages-stable/dionysos-0.6.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dionysos-badge.svg
-4.0K -rw-r--r-- 1 root root  318 May 19 04:27 packages-stable/dionysos-readme.txt
+4.0K -rw-r--r-- 1 root root  522 Aug 17 10:53 packages-stable/dionysos-0.6.0.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 10:53 packages-stable/dionysos-0.6.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dionysos-badge.svg
+4.0K -rw-r--r-- 1 root root  318 Aug 17 10:53 packages-stable/dionysos-readme.txt

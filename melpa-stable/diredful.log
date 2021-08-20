@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/thamer/diredful.git
 
 Updating /mnt/store/melpa/working/diredful/
-Built diredful in 3.099s, finished at Wed May 19 04:28:06 2021
+Checking out b17b3087e0084a5571a9ac4d47ccfc36d96b109e
+Built diredful in 3.131s, finished at 2021-08-17T10:53:34+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 04:28 packages-stable/diredful-1.10.el
-4.0K -rw-r--r-- 1 root root  381 May 19 04:28 packages-stable/diredful-1.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/diredful-badge.svg
-4.0K -rw-r--r-- 1 root root  186 May 19 04:28 packages-stable/diredful-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 10:53 packages-stable/diredful-1.10.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 10:53 packages-stable/diredful-1.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/diredful-badge.svg
+4.0K -rw-r--r-- 1 root root  186 Aug 17 10:53 packages-stable/diredful-readme.txt

@@ -2,6 +2,11 @@
 #+TITLE: PYIM 是一个 Emacs 中文输入法，支持全拼，双拼，五笔，仓颉 和 Rime 等
 #+AUTHOR: Feng Shu
 
+#+html: <a href="https://github.com/tumashu/pyim/actions/workflows/test.yml"><img alt="Github Action" src="https://github.com/tumashu/pyim/actions/workflows/test.yml/badge.svg"/></a>
+#+html: <a href="http://elpa.gnu.org/packages/pyim.html"><img alt="GNU ELPA" src="https://elpa.gnu.org/packages/pyim.svg"/></a>
+#+html: <a href="http://elpa.gnu.org/devel/pyim.html"><img alt="GNU-devel ELPA" src="https://elpa.gnu.org/devel/pyim.svg"/></a>
+#+html: <a href="https://melpa.org/#/pyim"><img alt="MELPA" src="https://melpa.org/packages/pyim-badge.svg"/></a>
+
 * Changlog
 
 ** <2021-04-28 Wed> 五笔输入法和仓颉输入法的不兼容更新
@@ -94,9 +99,9 @@ pyim 的目标是： *尽最大的努力成为一个好用的 Emacs 中文输入
 (define-key minibuffer-local-map (kbd "C-<return>") 'pyim-cregexp-convert-at-point)
 
 ;; 我使用全拼
-(setq pyim-default-scheme 'quanpin)
-;; (setq pyim-default-scheme 'wubi)
-;; (setq pyim-default-scheme 'cangjie)
+(pyim-default-scheme 'quanpin)
+;; (pyim-default-scheme 'wubi)
+;; (pyim-default-scheme 'cangjie)
 
 ;; pyim 探针设置
 ;; 设置 pyim 探针设置，这是 pyim 高级功能设置，可以实现 *无痛* 中英文切换 :-)
@@ -165,7 +170,7 @@ pyim 当前的默认的拼音词库是 pyim-basedict, 这个词库的词条量8�
 pyim 支持双拼输入模式，用户可以通过变量 `pyim-default-scheme' 来设定：
 
 #+begin_example
-(setq pyim-default-scheme 'pyim-shuangpin)
+(pyim-default-scheme 'pyim-shuangpin)
 #+end_example
 
 注意：
@@ -256,6 +261,44 @@ pyim 的选词框默认使用 *双行显示* 的样式，在一些特殊的情�
    词条添加到个人词库。
 5. `pyim-delete-word' 从个人词库中删除当前高亮选择的词条。
 
+** pyim 输入状态指示器
+pyim 输入状态指示器可以帮助用户快速了解当前 pyim 是处于英文输入状态还是中文输入
+状态，因为 pyim probe 探针功能可以让中英文输入状态动态切换，所以快速了解当前中英
+文输入状态有时候显得很重要。
+
+pyim 当前内置三种指示器实现方式：
+1. 改变光标颜色： pyim-indicator-with-cursor-color, 用户可以使用变量
+   pyim-indicator-cursor-color 来配置两种输入状态对应的光标颜色。
+2. 使用 modeline 显示状态字符串：pyim-indicator-with-mode-line, 用户可以使用变量
+   pyim-indicator-modeline-string 来配置两种状态对应的显示字符串。
+3. 使用 posframe 来显示一个带颜色小点：pyim-indicator-with-posframe
+
+设置默认启用的指示器有两个，用户可以使用下面的变量调整：
+#+begin_example
+(setq pyim-indicator-list (list #'pyim-indicator-with-cursor-color #'pyim-indicator-with-modeline))
+#+end_example
+
+注意事项：
+1. 用户切换 emacs 主题之后，最好重启 pyim 一下。
+2. pyim-indicator-with-cursor-color 这个 indicator 很容易和其它设置 cursor 颜色
+   的包冲突，因为都调用 set-cursor-color，遇到这种情况后，用户需要自己解决冲突，
+   pyim-indicator 提供了一个简单的机制：
+   #+begin_example
+   (setq pyim-indicator-list (list #'my-pyim-indicator-with-cursor-color #'pyim-indicator-with-modeline))
+
+   (defun my-pyim-indicator-with-cursor-color (input-method chinese-input-p)
+     (if (not (equal input-method "pyim"))
+         (progn
+           ;; 用户在这里定义 pyim 未激活时的光标颜色设置语句
+           (set-cursor-color "red"))
+       (if chinese-input-p
+           (progn
+             ;; 用户在这里定义 pyim 输入中文时的光标颜色设置语句
+             (set-cursor-color "green"))
+         ;; 用户在这里定义 pyim 输入英文时的光标颜色设置语句
+         (set-cursor-color "blue"))))
+   #+end_example
+
 ** pyim 高级功能
 1. 根据环境自动切换到英文输入模式，使用 pyim-english-input-switch-functions 配置。
 2. 根据环境自动切换到半角标点输入模式，使用 pyim-punctuation-half-width-functions 配置。
@@ -309,6 +352,7 @@ pyim 的选词框默认使用 *双行显示* 的样式，在一些特殊的情�
 
 注：上述函数列表中，任意一个函数的返回值为 t 时，pyim 切换到半角标点输入模式。
 
+
 * 开发
 请参考 [[file:Development.org][Development.org]] 文档
 * 捐赠
@@ -320,6 +364,10 @@ pyim 的选词框默认使用 *双行显示* 的样式，在一些特殊的情�
    [[file:snapshots/QR-code-for-author.jpg]]
 
 * Tips
+
+** 如何快速切换 scheme
+
+可以试试 pyim-default-scheme 命令。
 
 ** 关闭输入联想词功能 (默认开启)
 

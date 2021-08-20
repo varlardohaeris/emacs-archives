@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/tumashu/helm-posframe.git
 
 Updating /mnt/store/melpa/working/helm-posframe/
-Built helm-posframe in 4.437s, finished at Wed May 19 03:31:13 2021
+Checking out origin/HEAD
+Checking out 2412e5b3c584c7683982a7e9cfa10a67427f2567
+Built helm-posframe in 5.244s, finished at 2021-08-17T09:55:02+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.1K May 19 03:31 packages/helm-posframe-20210412.1147.el
-4.0K -rw-r--r-- 1 root root  408 May 19 03:31 packages/helm-posframe-20210412.1147.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:31 packages/helm-posframe-badge.svg
-4.0K -rw-r--r-- 1 root root  776 May 19 03:31 packages/helm-posframe-readme.txt
+8.0K -rw-r--r-- 1 root root 6.1K Aug 17 09:55 packages/helm-posframe-20210412.1147.el
+4.0K -rw-r--r-- 1 root root  408 Aug 17 09:55 packages/helm-posframe-20210412.1147.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:55 packages/helm-posframe-badge.svg
+4.0K -rw-r--r-- 1 root root  776 Aug 17 09:55 packages/helm-posframe-readme.txt

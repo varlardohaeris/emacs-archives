@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/ledger-import.git
 
 Updating /mnt/store/melpa/working/ledger-import/
-Built ledger-import in 3.349s, finished at Wed May 19 01:31:59 2021
+Checking out 53388677c4c61db4717d6b86d081b64812d41796
+Built ledger-import in 3.944s, finished at 2021-08-17T11:14:59+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 01:31 packages-stable/ledger-import-1.1.0.el
-4.0K -rw-r--r-- 1 root root  373 May 19 01:31 packages-stable/ledger-import-1.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/ledger-import-badge.svg
-4.0K -rw-r--r-- 1 root root 2.0K May 19 01:31 packages-stable/ledger-import-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:14 packages-stable/ledger-import-1.1.0.el
+4.0K -rw-r--r-- 1 root root  373 Aug 17 11:14 packages-stable/ledger-import-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/ledger-import-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 11:14 packages-stable/ledger-import-readme.txt

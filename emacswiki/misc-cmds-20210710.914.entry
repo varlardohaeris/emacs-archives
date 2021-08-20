@@ -1,0 +1,2 @@
+
+(misc-cmds . [(20210710 914) nil "Miscellaneous commands (interactive functions)." single ((:commit . "56e4b3200806399b7018bd640faef283bf668570") (:keywords "internal" "unix" "extensions" "maint" "local") (:authors ("Drew Adams")) (:maintainer nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") (:url . "https://www.emacswiki.org/emacs/download/misc-cmds.el"))])

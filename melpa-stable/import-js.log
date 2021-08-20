@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Galooshi/emacs-import-js.git
 
 Updating /mnt/store/melpa/working/import-js/
-Built import-js in 3.162s, finished at Wed May 19 04:43:05 2021
+Checking out 0a1032894445062b87dbe4e2c8cdba35ac25c250
+Built import-js in 3.731s, finished at 2021-08-17T11:11:16+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.2K May 19 04:43 packages-stable/import-js-2.0.0.el
-4.0K -rw-r--r-- 1 root root  406 May 19 04:43 packages-stable/import-js-2.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/import-js-badge.svg
-4.0K -rw-r--r-- 1 root root  188 May 19 04:43 packages-stable/import-js-readme.txt
+8.0K -rw-r--r-- 1 root root 6.2K Aug 17 11:11 packages-stable/import-js-2.0.0.el
+4.0K -rw-r--r-- 1 root root  406 Aug 17 11:11 packages-stable/import-js-2.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/import-js-badge.svg
+4.0K -rw-r--r-- 1 root root  188 Aug 17 11:11 packages-stable/import-js-readme.txt

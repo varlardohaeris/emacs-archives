@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/elisp-slime-nav.git
 
 Updating /mnt/store/melpa/working/elisp-slime-nav/
-Built elisp-slime-nav in 3.488s, finished at Wed May 19 04:30:17 2021
+Checking out 9ab52362600af9f97f1590f05a295538025170b3
+Built elisp-slime-nav in 4.403s, finished at 2021-08-17T10:56:26+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.0K May 19 04:30 packages-stable/elisp-slime-nav-0.10.el
-4.0K -rw-r--r-- 1 root root  465 May 19 04:30 packages-stable/elisp-slime-nav-0.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elisp-slime-nav-badge.svg
-4.0K -rw-r--r-- 1 root root  678 May 19 04:30 packages-stable/elisp-slime-nav-readme.txt
+8.0K -rw-r--r-- 1 root root 5.0K Aug 17 10:56 packages-stable/elisp-slime-nav-0.10.el
+4.0K -rw-r--r-- 1 root root  465 Aug 17 10:56 packages-stable/elisp-slime-nav-0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elisp-slime-nav-badge.svg
+4.0K -rw-r--r-- 1 root root  678 Aug 17 10:56 packages-stable/elisp-slime-nav-readme.txt

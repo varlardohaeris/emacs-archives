@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /mnt/store/melpa/working/treemacs-evil/
-Built treemacs-evil in 3.168s, finished at Wed May 19 01:52:48 2021
+Checking out 16b0819c6f27f45fe0495a29eeff5f01bd765b04
+Built treemacs-evil in 4.183s, finished at 2021-08-17T11:38:18+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.7K May 19 01:52 packages-stable/treemacs-evil-2.8.el
-4.0K -rw-r--r-- 1 root root  385 May 19 01:52 packages-stable/treemacs-evil-2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/treemacs-evil-badge.svg
-4.0K -rw-r--r-- 1 root root   27 May 19 01:52 packages-stable/treemacs-evil-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K Aug 17 11:38 packages-stable/treemacs-evil-2.8.el
+4.0K -rw-r--r-- 1 root root  385 Aug 17 11:38 packages-stable/treemacs-evil-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/treemacs-evil-badge.svg
+4.0K -rw-r--r-- 1 root root   27 Aug 17 11:38 packages-stable/treemacs-evil-readme.txt

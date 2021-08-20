@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/m2q1n9/sproto-mode.git
 
 Updating /mnt/store/melpa/working/sproto-mode/
-Built sproto-mode in 4.377s, finished at Wed May 19 04:06:42 2021
+Checking out origin/HEAD
+Checking out 0583a88273204dccd884b7edaa3590cefd31e7f7
+Built sproto-mode in 5.351s, finished at 2021-08-17T13:57:24+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  897 May 19 04:06 packages/sproto-mode-20151115.1805.el
-4.0K -rw-r--r-- 1 root root  247 May 19 04:06 packages/sproto-mode-20151115.1805.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:06 packages/sproto-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  201 May 19 04:06 packages/sproto-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  897 Aug 17 13:57 packages/sproto-mode-20151115.1805.el
+4.0K -rw-r--r-- 1 root root  247 Aug 17 13:57 packages/sproto-mode-20151115.1805.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 13:57 packages/sproto-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  201 Aug 17 13:57 packages/sproto-mode-readme.txt

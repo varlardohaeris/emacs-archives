@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/paddymcall/noXML-fold.git
 
 Updating /mnt/store/melpa/working/noxml-fold/
-Built noxml-fold in 10.188s, finished at Wed May 19 03:47:55 2021
+Checking out origin/HEAD
+Checking out 46c7f6a008672213238a9f8d7a416ce80916aa62
+Built noxml-fold in 5.405s, finished at 2021-08-17T10:12:25+0000
  ✓ Success:
- 52K -rw-r--r-- 1 root root  51K May 19 03:47 packages/noxml-fold-20170823.1357.el
-4.0K -rw-r--r-- 1 root root  365 May 19 03:47 packages/noxml-fold-20170823.1357.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:47 packages/noxml-fold-badge.svg
-4.0K -rw-r--r-- 1 root root  420 May 19 03:47 packages/noxml-fold-readme.txt
+ 52K -rw-r--r-- 1 root root  51K Aug 17 10:12 packages/noxml-fold-20170823.1357.el
+4.0K -rw-r--r-- 1 root root  365 Aug 17 10:12 packages/noxml-fold-20170823.1357.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:12 packages/noxml-fold-badge.svg
+4.0K -rw-r--r-- 1 root root  420 Aug 17 10:12 packages/noxml-fold-readme.txt

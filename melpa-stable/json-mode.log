@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/joshwnj/json-mode.git
 
 Updating /mnt/store/melpa/working/json-mode/
-Built json-mode in 2.934s, finished at Wed May 19 04:45:06 2021
+Checking out 9ba01b868a6b138feeff82b9eb0abd331d29325f
+Built json-mode in 5.984s, finished at 2021-08-17T11:13:29+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.7K May 19 04:45 packages-stable/json-mode-1.7.0.el
-4.0K -rw-r--r-- 1 root root  345 May 19 04:45 packages-stable/json-mode-1.7.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/json-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   49 May 19 04:45 packages-stable/json-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 11:13 packages-stable/json-mode-1.7.0.el
+4.0K -rw-r--r-- 1 root root  345 Aug 17 11:13 packages-stable/json-mode-1.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/json-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   49 Aug 17 11:13 packages-stable/json-mode-readme.txt

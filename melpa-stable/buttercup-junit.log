@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://bitbucket.org/olanilsson/buttercup-junit
 
 Updating /mnt/store/melpa/working/buttercup-junit/
-Built buttercup-junit in 2.829s, finished at Wed May 19 04:22:25 2021
+Checking out e4b206fa83e2a80a538ffc8f846f51eab1129af8
+Built buttercup-junit in 3.476s, finished at 2021-08-17T10:47:34+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:22 packages-stable/buttercup-junit-1.1.1.el
-4.0K -rw-r--r-- 1 root root  442 May 19 04:22 packages-stable/buttercup-junit-1.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/buttercup-junit-badge.svg
-4.0K -rw-r--r-- 1 root root  905 May 19 04:22 packages-stable/buttercup-junit-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 10:47 packages-stable/buttercup-junit-1.1.1.el
+4.0K -rw-r--r-- 1 root root  442 Aug 17 10:47 packages-stable/buttercup-junit-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/buttercup-junit-badge.svg
+4.0K -rw-r--r-- 1 root root  905 Aug 17 10:47 packages-stable/buttercup-junit-readme.txt

@@ -1,0 +1,12 @@
+Package: huecycle
+Fetcher: github
+Source:  https://github.com/pnor/huecycle.git
+
+Updating /mnt/store/melpa/working/huecycle/
+Checking out c343b2085dea11b820d4da6c6183e1102ec08698
+Built huecycle in 3.770s, finished at 2021-08-17T11:10:23+0000
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  31K Aug 17 11:10 packages-stable/huecycle-1.0.0.el
+4.0K -rw-r--r-- 1 root root  329 Aug 17 11:10 packages-stable/huecycle-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/huecycle-badge.svg
+4.0K -rw-r--r-- 1 root root  222 Aug 17 11:10 packages-stable/huecycle-readme.txt

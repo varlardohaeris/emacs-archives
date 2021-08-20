@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ethereum/emacs-solidity.git
 
 Updating /mnt/store/melpa/working/solidity-mode/
+Checking out 93412f211fad7dfc3b02aa226856fc52b6a15c22
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/solidity-mode/
-  to /tmp/solidity-mode1shoZf/solidity-mode-0.1.10
+  to /tmp/solidity-modeJn8k8j/solidity-mode-0.1.10
     solidity-common.el -> solidity-common.el
     solidity-mode.el -> solidity-mode.el
 Created solidity-mode-0.1.10.tar containing:
@@ -13,9 +14,9 @@ Created solidity-mode-0.1.10.tar containing:
   solidity-mode-0.1.10/solidity-common.el
   solidity-mode-0.1.10/solidity-mode-pkg.el
   solidity-mode-0.1.10/solidity-mode.el
-Built solidity-mode in 2.916s, finished at Wed May 19 01:49:37 2021
+Built solidity-mode in 3.783s, finished at 2021-08-17T11:34:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  315 May 19 01:49 packages-stable/solidity-mode-0.1.10.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:49 packages-stable/solidity-mode-0.1.10.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/solidity-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  215 May 19 01:49 packages-stable/solidity-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  315 Aug 17 11:34 packages-stable/solidity-mode-0.1.10.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:34 packages-stable/solidity-mode-0.1.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/solidity-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  215 Aug 17 11:34 packages-stable/solidity-mode-readme.txt

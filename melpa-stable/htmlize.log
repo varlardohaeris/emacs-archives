@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hniksic/emacs-htmlize.git
 
 Updating /mnt/store/melpa/working/htmlize/
-Built htmlize in 3.288s, finished at Wed May 19 04:42:14 2021
+Checking out 9d2df9f6e455730584d80866ee769dd2a3ca940e
+Built htmlize in 3.775s, finished at 2021-08-17T11:10:17+0000
  ✓ Success:
- 76K -rw-r--r-- 1 root root  75K May 19 04:42 packages-stable/htmlize-1.55.el
-4.0K -rw-r--r-- 1 root root  302 May 19 04:42 packages-stable/htmlize-1.55.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/htmlize-badge.svg
-4.0K -rw-r--r-- 1 root root 2.7K May 19 04:42 packages-stable/htmlize-readme.txt
+ 76K -rw-r--r-- 1 root root  75K Aug 17 11:10 packages-stable/htmlize-1.55.el
+4.0K -rw-r--r-- 1 root root  302 Aug 17 11:10 packages-stable/htmlize-1.55.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/htmlize-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 11:10 packages-stable/htmlize-readme.txt

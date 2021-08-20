@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/c301/gtm-emacs-plugin.git
 
 Updating /mnt/store/melpa/working/git-time-metric/
+Checking out 73bdc19f7496b781f3602c7955ba36f572a8e112
 Single file gtm-emacs-plugin.el does not match package name git-time-metric

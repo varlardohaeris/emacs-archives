@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/docstr.git
 
 Updating /mnt/store/melpa/working/docstr/
+Checking out 63b0460a4785b4b4aee5cc072b52fb2d3a7eef6e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/docstr/
-  to /tmp/docstrszbDn4/docstr-5.7.0
+  to /tmp/docstrt9HaDB/docstr-5.7.0
     docstr-faces.el -> docstr-faces.el
     docstr-key.el -> docstr-key.el
     docstr-util.el -> docstr-util.el
@@ -53,9 +54,9 @@ Created docstr-5.7.0.tar containing:
   docstr-5.7.0/docstr-util.el
   docstr-5.7.0/docstr-writers.el
   docstr-5.7.0/docstr.el
-Built docstr in 3.441s, finished at Wed May 19 04:28:32 2021
+Built docstr in 5.217s, finished at 2021-08-17T10:54:05+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  330 May 19 04:28 packages-stable/docstr-5.7.0.entry
-112K -rw-r--r-- 1 root root 110K May 19 04:28 packages-stable/docstr-5.7.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/docstr-badge.svg
-4.0K -rw-r--r-- 1 root root   82 May 19 04:28 packages-stable/docstr-readme.txt
+4.0K -rw-r--r-- 1 root root  330 Aug 17 10:54 packages-stable/docstr-5.7.0.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 10:54 packages-stable/docstr-5.7.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/docstr-badge.svg
+4.0K -rw-r--r-- 1 root root   82 Aug 17 10:54 packages-stable/docstr-readme.txt

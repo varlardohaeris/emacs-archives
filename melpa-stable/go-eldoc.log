@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/go-eldoc.git
 
 Updating /mnt/store/melpa/working/go-eldoc/
-Built go-eldoc in 3.313s, finished at Wed May 19 04:37:55 2021
+Checking out f1ad302ec4073354801e613293be2f55ba770618
+Built go-eldoc in 3.908s, finished at 2021-08-17T11:05:22+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:37 packages-stable/go-eldoc-0.30.el
-4.0K -rw-r--r-- 1 root root  349 May 19 04:37 packages-stable/go-eldoc-0.30.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/go-eldoc-badge.svg
-4.0K -rw-r--r-- 1 root root  280 May 19 04:37 packages-stable/go-eldoc-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:05 packages-stable/go-eldoc-0.30.el
+4.0K -rw-r--r-- 1 root root  349 Aug 17 11:05 packages-stable/go-eldoc-0.30.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/go-eldoc-badge.svg
+4.0K -rw-r--r-- 1 root root  280 Aug 17 11:05 packages-stable/go-eldoc-readme.txt

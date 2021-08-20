@@ -1,0 +1,15 @@
+(loopy-dash .
+	    [(20210810 307)
+	     ((emacs
+	       (25 1))
+	      (loopy
+	       (0 7 2))
+	      (dash
+	       (2)))
+	     "Dash destructuring for `loopy'" single
+	     ((:commit . "ff5a884ed94f750d2f40e79e4777c3420883fdbe")
+	      (:authors
+	       ("Earl Hyatt"))
+	      (:maintainer "Earl Hyatt")
+	      (:keywords "extensions")
+	      (:url . "https://github.com/okamsn/loopy"))])

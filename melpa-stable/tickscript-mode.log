@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/msherry/tickscript-mode.git
 
 Updating /mnt/store/melpa/working/tickscript-mode/
-Built tickscript-mode in 3.653s, finished at Wed May 19 01:52:13 2021
+Checking out 01b3dab0297700f214b55cefeed2d932f6cd9844
+Built tickscript-mode in 4.806s, finished at 2021-08-17T11:37:36+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  34K May 19 01:52 packages-stable/tickscript-mode-0.4.1.el
-4.0K -rw-r--r-- 1 root root  371 May 19 01:52 packages-stable/tickscript-mode-0.4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tickscript-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 01:52 packages-stable/tickscript-mode-readme.txt
+ 36K -rw-r--r-- 1 root root  34K Aug 17 11:37 packages-stable/tickscript-mode-0.4.1.el
+4.0K -rw-r--r-- 1 root root  371 Aug 17 11:37 packages-stable/tickscript-mode-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/tickscript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 11:37 packages-stable/tickscript-mode-readme.txt

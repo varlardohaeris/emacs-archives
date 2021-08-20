@@ -3,4 +3,23 @@ Fetcher: github
 Source:  https://github.com/dylan-lang/dylan-emacs-support.git
 
 Updating /mnt/store/melpa/working/dylan/
-No valid stable versions found for dylan
+Checking out d85409dc3cba57a390ca85da95822f8078ecbfa2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dylan/
+  to /tmp/dylanOjzwDV/dylan-0.1.0
+    dylan-lid.el -> dylan-lid.el
+    dylan-opt.el -> dylan-opt.el
+    dylan.el -> dylan.el
+Created dylan-0.1.0.tar containing:
+  dylan-0.1.0/
+  dylan-0.1.0/dylan-lid.el
+  dylan-0.1.0/dylan-opt.el
+  dylan-0.1.0/dylan-pkg.el
+  dylan-0.1.0/dylan.el
+Built dylan in 5.038s, finished at 2021-08-17T10:54:37+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  169 Aug 17 10:54 packages-stable/dylan-0.1.0.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 10:54 packages-stable/dylan-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/dylan-badge.svg
+4.0K -rw-r--r-- 1 root root  192 Mar 19 20:02 packages-stable/dylan-mode.log
+4.0K -rw-r--r-- 1 root root  246 Aug 17 10:54 packages-stable/dylan-readme.txt

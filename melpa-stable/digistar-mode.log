@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/retroj/digistar-mode.git
 
 Updating /mnt/store/melpa/working/digistar-mode/
-Built digistar-mode in 6.200s, finished at Wed May 19 04:27:21 2021
+Checking out e12b128023b7696a23545f812877e8c6531d261c
+Built digistar-mode in 4.419s, finished at 2021-08-17T10:53:02+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 04:27 packages-stable/digistar-mode-0.9.2.el
-4.0K -rw-r--r-- 1 root root  280 May 19 04:27 packages-stable/digistar-mode-0.9.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/digistar-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  355 May 19 04:27 packages-stable/digistar-mode-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 10:53 packages-stable/digistar-mode-0.9.2.el
+4.0K -rw-r--r-- 1 root root  280 Aug 17 10:53 packages-stable/digistar-mode-0.9.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/digistar-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  355 Aug 17 10:53 packages-stable/digistar-mode-readme.txt

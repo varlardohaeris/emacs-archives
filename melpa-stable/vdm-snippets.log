@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/peterwvj/vdm-mode.git
 
 Updating /mnt/store/melpa/working/vdm-snippets/
+Checking out e131edb0d35de28bd47d6128dd70d9a6fc46e0fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vdm-snippets/
-  to /tmp/vdm-snippetsUICIhS/vdm-snippets-0.0.4
+  to /tmp/vdm-snippetsmp2XF0/vdm-snippets-0.0.4
     vdm-snippets.el -> vdm-snippets.el
     snippets => snippets
 Created vdm-snippets-0.0.4.tar containing:
@@ -50,9 +51,9 @@ Created vdm-snippets-0.0.4.tar containing:
   vdm-snippets-0.0.4/snippets/vdm-mode/values
   vdm-snippets-0.0.4/vdm-snippets-pkg.el
   vdm-snippets-0.0.4/vdm-snippets.el
-Built vdm-snippets in 4.314s, finished at Wed May 19 01:54:01 2021
+Built vdm-snippets in 4.743s, finished at 2021-08-17T11:39:43+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  427 May 19 01:54 packages-stable/vdm-snippets-0.0.4.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:54 packages-stable/vdm-snippets-0.0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/vdm-snippets-badge.svg
-4.0K -rw-r--r-- 1 root root   38 May 19 01:54 packages-stable/vdm-snippets-readme.txt
+4.0K -rw-r--r-- 1 root root  427 Aug 17 11:39 packages-stable/vdm-snippets-0.0.4.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:39 packages-stable/vdm-snippets-0.0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/vdm-snippets-badge.svg
+4.0K -rw-r--r-- 1 root root   38 Aug 17 11:39 packages-stable/vdm-snippets-readme.txt

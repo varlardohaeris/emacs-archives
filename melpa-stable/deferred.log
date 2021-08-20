@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kiwanami/emacs-deferred.git
 
 Updating /mnt/store/melpa/working/deferred/
-Built deferred in 2.986s, finished at Wed May 19 04:26:55 2021
+Checking out d012a1ab50edcc2c44e3e49006f054dbff47cb6c
+Built deferred in 3.606s, finished at 2021-08-17T10:52:39+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  35K May 19 04:26 packages-stable/deferred-0.5.1.el
-4.0K -rw-r--r-- 1 root root  392 May 19 04:26 packages-stable/deferred-0.5.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/deferred-badge.svg
-4.0K -rw-r--r-- 1 root root  428 May 19 04:26 packages-stable/deferred-readme.txt
+ 36K -rw-r--r-- 1 root root  35K Aug 17 10:52 packages-stable/deferred-0.5.1.el
+4.0K -rw-r--r-- 1 root root  392 Aug 17 10:52 packages-stable/deferred-0.5.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/deferred-badge.svg
+4.0K -rw-r--r-- 1 root root  428 Aug 17 10:52 packages-stable/deferred-readme.txt

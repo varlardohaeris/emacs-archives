@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/aki2o/emacs-ctxmenu.git
 
 Updating /mnt/store/melpa/working/ctxmenu/
+Checking out 5c2376859562b98c07c985d2b483658e4c0e888e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ctxmenu/
-  to /tmp/ctxmenuUPVtKb/ctxmenu-0.3.0
+  to /tmp/ctxmenuwYAL3n/ctxmenu-0.3.0
     ctxmenu-config.el -> ctxmenu-config.el
     ctxmenu.el -> ctxmenu.el
 Created ctxmenu-0.3.0.tar containing:
@@ -13,9 +14,9 @@ Created ctxmenu-0.3.0.tar containing:
   ctxmenu-0.3.0/ctxmenu-config.el
   ctxmenu-0.3.0/ctxmenu-pkg.el
   ctxmenu-0.3.0/ctxmenu.el
-Built ctxmenu in 3.210s, finished at Wed May 19 04:26:11 2021
+Built ctxmenu in 3.183s, finished at 2021-08-17T10:51:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  422 May 19 04:26 packages-stable/ctxmenu-0.3.0.entry
- 72K -rw-r--r-- 1 root root  70K May 19 04:26 packages-stable/ctxmenu-0.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/ctxmenu-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 04:26 packages-stable/ctxmenu-readme.txt
+4.0K -rw-r--r-- 1 root root  422 Aug 17 10:51 packages-stable/ctxmenu-0.3.0.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:51 packages-stable/ctxmenu-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/ctxmenu-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 10:51 packages-stable/ctxmenu-readme.txt

@@ -1,0 +1,11 @@
+(merlin .
+	[(4 3 1 -4 412)
+	 ((emacs
+	   (25 1)))
+	 "Mode for Merlin, an assistant for OCaml" tar
+	 ((:commit . "ba8ec63cf40b8999238c4639d111ca3bdb1e34cf")
+	  (:authors
+	   ("Frédéric Bour <frederic.bour(_)lakaban.net>"))
+	  (:maintainer "Frédéric Bour <frederic.bour(_)lakaban.net>")
+	  (:keywords "ocaml" "languages")
+	  (:url . "https://github.com/ocaml/merlin"))])

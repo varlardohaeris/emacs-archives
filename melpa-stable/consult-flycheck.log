@@ -1,11 +1,13 @@
 Package: consult-flycheck
 Fetcher: github
-Source:  https://github.com/minad/consult.git
+Source:  https://github.com/minad/consult-flycheck.git
 
 Updating /mnt/store/melpa/working/consult-flycheck/
-Built consult-flycheck in 3.639s, finished at Wed May 19 04:25:06 2021
+Checking out 92b259e6a8ebe6439f67d3d7ffa44b7e64b76478
+Note: consult-flycheck :files spec is equivalent to the default.
+Built consult-flycheck in 3.333s, finished at 2021-08-17T10:50:58+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.6K May 19 04:25 packages-stable/consult-flycheck-0.7.el
-4.0K -rw-r--r-- 1 root root  418 May 19 04:25 packages-stable/consult-flycheck-0.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/consult-flycheck-badge.svg
-4.0K -rw-r--r-- 1 root root  135 May 19 04:25 packages-stable/consult-flycheck-readme.txt
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 10:50 packages-stable/consult-flycheck-0.8.el
+4.0K -rw-r--r-- 1 root root  418 Aug 17 10:50 packages-stable/consult-flycheck-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/consult-flycheck-badge.svg
+4.0K -rw-r--r-- 1 root root  135 Aug 17 10:50 packages-stable/consult-flycheck-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/wbolster/emacs-xml-format.git
 
 Updating /mnt/store/melpa/working/xml-format/
-Built xml-format in 2.523s, finished at Wed May 19 01:55:57 2021
+Checking out 0ab00c2fd653ae04d6c2370696562b6f901d9a00
+Built xml-format in 3.719s, finished at 2021-08-17T11:42:08+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.3K May 19 01:55 packages-stable/xml-format-1.0.0.el
-4.0K -rw-r--r-- 1 root root  431 May 19 01:55 packages-stable/xml-format-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/xml-format-badge.svg
-4.0K -rw-r--r-- 1 root root   35 May 19 01:55 packages-stable/xml-format-readme.txt
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:42 packages-stable/xml-format-1.0.0.el
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:42 packages-stable/xml-format-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/xml-format-badge.svg
+4.0K -rw-r--r-- 1 root root   35 Aug 17 11:42 packages-stable/xml-format-readme.txt

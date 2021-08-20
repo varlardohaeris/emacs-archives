@@ -3,9 +3,12 @@ Fetcher: github
 Source:  https://github.com/yuutayamada/contrast-color-el.git
 
 Updating /mnt/store/melpa/working/contrast-color/
-Built contrast-color in 5.481s, finished at Wed May 19 03:08:03 2021
+Checking out origin/HEAD
+Checking out c5fb77a211ebbef3185ada37bea7420534c33f94
+Failed to fetch badge
+Built contrast-color in 4.703s, finished at 2021-08-17T09:30:28+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 03:08 packages/contrast-color-20160903.1807.el
-4.0K -rw-r--r-- 1 root root  411 May 19 03:08 packages/contrast-color-20160903.1807.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:08 packages/contrast-color-badge.svg
-4.0K -rw-r--r-- 1 root root  577 May 19 03:08 packages/contrast-color-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 09:30 packages/contrast-color-20160903.1807.el
+4.0K -rw-r--r-- 1 root root  411 Aug 17 09:30 packages/contrast-color-20160903.1807.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 05:59 packages/contrast-color-badge.svg
+4.0K -rw-r--r-- 1 root root  577 Aug 17 09:30 packages/contrast-color-readme.txt

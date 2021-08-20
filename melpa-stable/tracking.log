@@ -1,11 +1,12 @@
 Package: tracking
 Fetcher: github
-Source:  https://github.com/jorgenschaefer/circe.git
+Source:  https://github.com/emacs-circe/circe.git
 
 Updating /mnt/store/melpa/working/tracking/
+Checking out 6ccd4b494cbae9d28091217654f052eaea321007
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tracking/
-  to /tmp/trackingLuLyzz/tracking-2.11
+  to /tmp/trackinguqNMQI/tracking-2.11
     tracking.el -> tracking.el
     shorten.el -> shorten.el
 Created tracking-2.11.tar containing:
@@ -13,9 +14,9 @@ Created tracking-2.11.tar containing:
   tracking-2.11/shorten.el
   tracking-2.11/tracking-pkg.el
   tracking-2.11/tracking.el
-Built tracking in 3.037s, finished at Wed May 19 01:52:36 2021
+Built tracking in 4.215s, finished at 2021-08-17T11:38:02+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  320 May 19 01:52 packages-stable/tracking-2.11.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:52 packages-stable/tracking-2.11.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tracking-badge.svg
-4.0K -rw-r--r-- 1 root root  357 May 19 01:52 packages-stable/tracking-readme.txt
+4.0K -rw-r--r-- 1 root root  320 Aug 17 11:38 packages-stable/tracking-2.11.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:38 packages-stable/tracking-2.11.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/tracking-badge.svg
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:38 packages-stable/tracking-readme.txt

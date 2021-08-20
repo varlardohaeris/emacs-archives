@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/HKey/dired-atool.git
 
 Updating /mnt/store/melpa/working/dired-atool/
-Built dired-atool in 6.178s, finished at Wed May 19 04:27:38 2021
+Checking out c01e0a79c952a29db17c262c9ce8a90632b04b3a
+Built dired-atool in 3.913s, finished at 2021-08-17T10:53:13+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 8.0K May 19 04:27 packages-stable/dired-atool-1.2.0.el
-4.0K -rw-r--r-- 1 root root  381 May 19 04:27 packages-stable/dired-atool-1.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-atool-badge.svg
-4.0K -rw-r--r-- 1 root root  156 May 19 04:27 packages-stable/dired-atool-readme.txt
+ 12K -rw-r--r-- 1 root root 9.4K Aug 17 10:53 packages-stable/dired-atool-1.3.0.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 10:53 packages-stable/dired-atool-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dired-atool-badge.svg
+4.0K -rw-r--r-- 1 root root  156 Aug 17 10:53 packages-stable/dired-atool-readme.txt

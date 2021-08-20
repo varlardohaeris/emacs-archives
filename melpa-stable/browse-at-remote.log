@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rmuslimov/browse-at-remote.git
 
 Updating /mnt/store/melpa/working/browse-at-remote/
-Built browse-at-remote in 7.462s, finished at Wed May 19 04:21:55 2021
+Checking out 04d28b470ddecf63f8632d1a1ab893b7aeefe017
+Built browse-at-remote in 4.494s, finished at 2021-08-17T10:47:10+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  20K May 19 04:21 packages-stable/browse-at-remote-0.14.0.el
-4.0K -rw-r--r-- 1 root root  493 May 19 04:21 packages-stable/browse-at-remote-0.14.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/browse-at-remote-badge.svg
-4.0K -rw-r--r-- 1 root root  174 May 19 04:21 packages-stable/browse-at-remote-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:47 packages-stable/browse-at-remote-0.14.0.el
+4.0K -rw-r--r-- 1 root root  493 Aug 17 10:47 packages-stable/browse-at-remote-0.14.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/browse-at-remote-badge.svg
+4.0K -rw-r--r-- 1 root root  174 Aug 17 10:47 packages-stable/browse-at-remote-readme.txt

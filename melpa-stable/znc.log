@@ -3,4 +3,9 @@ Fetcher: github
 Source:  https://github.com/sshirokov/ZNC.el.git
 
 Updating /mnt/store/melpa/working/znc/
-No valid stable versions found for znc
+Checking out 2605f78e37a8a759067dc14fa25a82824ba1bacc
+Built znc in 3.544s, finished at 2021-08-17T11:42:59+0000
+ ✓ Success:
+ 12K -rwxr-xr-x 1 root root 9.2K Aug 17 11:42 packages-stable/znc-0.4.el
+4.0K -rw-r--r-- 1 root root  269 Aug 17 11:42 packages-stable/znc-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/znc-badge.svg

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cdominik/cdlatex.git
 
 Updating /mnt/store/melpa/working/cdlatex/
-Built cdlatex in 3.034s, finished at Wed May 19 04:22:50 2021
+Checking out b7183c2200392b6d85fca69390f4a65fac7a7b19
+Built cdlatex in 5.304s, finished at 2021-08-17T10:48:08+0000
  ✓ Success:
- 76K -rw-r--r-- 1 root root  75K May 19 04:22 packages-stable/cdlatex-4.7.el
-4.0K -rw-r--r-- 1 root root  307 May 19 04:22 packages-stable/cdlatex-4.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cdlatex-badge.svg
- 16K -rw-r--r-- 1 root root  13K May 19 04:22 packages-stable/cdlatex-readme.txt
+ 76K -rw-r--r-- 1 root root  75K Aug 17 10:48 packages-stable/cdlatex-4.7.el
+4.0K -rw-r--r-- 1 root root  307 Aug 17 10:48 packages-stable/cdlatex-4.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/cdlatex-badge.svg
+ 16K -rw-r--r-- 1 root root  13K Aug 17 10:48 packages-stable/cdlatex-readme.txt

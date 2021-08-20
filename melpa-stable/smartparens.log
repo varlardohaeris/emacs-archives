@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Fuco1/smartparens.git
 
 Updating /mnt/store/melpa/working/smartparens/
+Checking out 4873352b5d0a1c5142658122de1b6950b8fe7e4d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smartparens/
-  to /tmp/smartparensmda9Ub/smartparens-1.11.0
+  to /tmp/smartparensQGGb2w/smartparens-1.11.0
     smartparens-clojure.el -> smartparens-clojure.el
     smartparens-config.el -> smartparens-config.el
     smartparens-elixir.el -> smartparens-elixir.el
@@ -48,9 +49,9 @@ Created smartparens-1.11.0.tar containing:
   smartparens-1.11.0/smartparens-scala.el
   smartparens-1.11.0/smartparens-text.el
   smartparens-1.11.0/smartparens.el
-Built smartparens in 4.521s, finished at Wed May 19 01:49:16 2021
+Built smartparens in 4.066s, finished at 2021-08-17T11:34:12+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  483 May 19 01:49 packages-stable/smartparens-1.11.0.entry
-472K -rw-r--r-- 1 root root 470K May 19 01:49 packages-stable/smartparens-1.11.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/smartparens-badge.svg
-4.0K -rw-r--r-- 1 root root  836 May 19 01:49 packages-stable/smartparens-readme.txt
+4.0K -rw-r--r-- 1 root root  483 Aug 17 11:34 packages-stable/smartparens-1.11.0.entry
+472K -rw-r--r-- 1 root root 470K Aug 17 11:34 packages-stable/smartparens-1.11.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/smartparens-badge.svg
+4.0K -rw-r--r-- 1 root root  836 Aug 17 11:34 packages-stable/smartparens-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/peterwvj/bibclean-format.git
 
 Updating /mnt/store/melpa/working/bibclean-format/
-Built bibclean-format in 3.697s, finished at Wed May 19 04:21:06 2021
+Checking out b4003950a925d1c659bc359ab5e88e4441775d77
+Built bibclean-format in 4.574s, finished at 2021-08-17T10:46:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 04:21 packages-stable/bibclean-format-0.0.2.el
-4.0K -rw-r--r-- 1 root root  467 May 19 04:21 packages-stable/bibclean-format-0.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/bibclean-format-badge.svg
-4.0K -rw-r--r-- 1 root root  108 May 19 04:21 packages-stable/bibclean-format-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 10:46 packages-stable/bibclean-format-0.0.2.el
+4.0K -rw-r--r-- 1 root root  467 Aug 17 10:46 packages-stable/bibclean-format-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bibclean-format-badge.svg
+4.0K -rw-r--r-- 1 root root  108 Aug 17 10:46 packages-stable/bibclean-format-readme.txt

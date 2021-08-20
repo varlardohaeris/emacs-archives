@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Andersbakken/rtags.git
 
 Updating /mnt/store/melpa/working/flycheck-rtags/
-Built flycheck-rtags in 4.029s, finished at Wed May 19 04:35:15 2021
+Checking out 083bd75cb851567a1e18f237736fe2d02716b6c4
+Built flycheck-rtags in 4.843s, finished at 2021-08-17T11:02:14+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.8K May 19 04:35 packages-stable/flycheck-rtags-3.23.el
-4.0K -rw-r--r-- 1 root root  394 May 19 04:35 packages-stable/flycheck-rtags-3.23.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-rtags-badge.svg
-4.0K -rw-r--r-- 1 root root  683 May 19 04:35 packages-stable/flycheck-rtags-readme.txt
+8.0K -rw-r--r-- 1 root root 4.8K Aug 17 11:02 packages-stable/flycheck-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  394 Aug 17 11:02 packages-stable/flycheck-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-rtags-badge.svg
+4.0K -rw-r--r-- 1 root root  683 Aug 17 11:02 packages-stable/flycheck-rtags-readme.txt

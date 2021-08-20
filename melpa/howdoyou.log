@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/thanhvg/emacs-howdoyou.git
 
 Updating /mnt/store/melpa/working/howdoyou/
-Built howdoyou in 3.683s, finished at Wed May 19 03:33:06 2021
+Checking out origin/master
+Checking out 4f3d70009c1368174355ca7a5eb1259f18ec5f34
+Built howdoyou in 4.677s, finished at 2021-08-17T09:56:54+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 03:33 packages/howdoyou-20210217.1723.el
-4.0K -rw-r--r-- 1 root root  428 May 19 03:33 packages/howdoyou-20210217.1723.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:33 packages/howdoyou-badge.svg
-4.0K -rw-r--r-- 1 root root 1.8K May 19 03:33 packages/howdoyou-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 09:56 packages/howdoyou-20210816.507.el
+4.0K -rw-r--r-- 1 root root  427 Aug 17 09:56 packages/howdoyou-20210816.507.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:56 packages/howdoyou-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 09:56 packages/howdoyou-readme.txt

@@ -1,0 +1,9 @@
+(standoff-mode .
+	       [(20210810 1814)
+		nil "Create stand-off markup, also called external markup." tar
+		((:commit . "c78a04c5cf00320c0e1e6646295e20425537bf9e")
+		 (:authors
+		  ("Christian Lück" . "christian.lueck@ruhr-uni-bochum.de"))
+		 (:maintainer "Christian Lück" . "christian.lueck@ruhr-uni-bochum.de")
+		 (:keywords "text" "annotations" "ner" "humanities")
+		 (:url . "https://github.com/lueck/standoff-mode"))])

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mgxm/ob-svgbob.git
 
 Updating /mnt/store/melpa/working/ob-svgbob/
-Built ob-svgbob in 2.863s, finished at Wed May 19 01:38:19 2021
+Checking out 9eb9f68049ae2b2a502e9f5593a2312c184b987e
+Built ob-svgbob in 4.783s, finished at 2021-08-17T11:22:00+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 01:38 packages-stable/ob-svgbob-0.0.1.el
-4.0K -rw-r--r-- 1 root root  345 May 19 01:38 packages-stable/ob-svgbob-0.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-svgbob-badge.svg
-4.0K -rw-r--r-- 1 root root  120 May 19 01:38 packages-stable/ob-svgbob-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 11:21 packages-stable/ob-svgbob-0.0.1.el
+4.0K -rw-r--r-- 1 root root  345 Aug 17 11:21 packages-stable/ob-svgbob-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/ob-svgbob-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Aug 17 11:21 packages-stable/ob-svgbob-readme.txt

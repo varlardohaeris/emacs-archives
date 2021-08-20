@@ -1,11 +1,13 @@
 Package: eradio
 Fetcher: github
-Source:  https://github.com/fossegrim/eradio.git
+Source:  https://github.com/olavfosse/eradio.git
 
 Updating /mnt/store/melpa/working/eradio/
-Built eradio in 4.195s, finished at Wed May 19 03:16:38 2021
+Checking out origin/HEAD
+Checking out 47769986c79def84307921f0277e9bb2714756c2
+Built eradio in 5.598s, finished at 2021-08-17T09:40:03+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.0K May 19 03:16 packages/eradio-20210327.1000.el
-4.0K -rw-r--r-- 1 root root  311 May 19 03:16 packages/eradio-20210327.1000.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:16 packages/eradio-badge.svg
-4.0K -rw-r--r-- 1 root root   31 May 19 03:16 packages/eradio-readme.txt
+4.0K -rw-r--r-- 1 root root 3.0K Aug 17 09:40 packages/eradio-20210327.1000.el
+4.0K -rw-r--r-- 1 root root  311 Aug 17 09:40 packages/eradio-20210327.1000.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:40 packages/eradio-badge.svg
+4.0K -rw-r--r-- 1 root root   31 Aug 17 09:40 packages/eradio-readme.txt

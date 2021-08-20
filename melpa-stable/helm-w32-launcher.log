@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Fanael/helm-w32-launcher.git
 
 Updating /mnt/store/melpa/working/helm-w32-launcher/
+Checking out 01aa370a32900e7521330fba495474f2aa435e19
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-w32-launcher/
-  to /tmp/helm-w32-launcherWns2Vs/helm-w32-launcher-0.1.6
+  to /tmp/helm-w32-launcher9WRGe0/helm-w32-launcher-0.1.6
     helm-w32-launcher.el -> helm-w32-launcher.el
     helper-src => helper-src
     license.txt -> license.txt
@@ -21,9 +22,9 @@ Created helm-w32-launcher-0.1.6.tar containing:
   helm-w32-launcher-0.1.6/helper-src/ProcessStarter.cs
   helm-w32-launcher-0.1.6/helper-src/Program.cs
   helm-w32-launcher-0.1.6/license.txt
-Built helm-w32-launcher in 2.704s, finished at Wed May 19 04:41:23 2021
+Built helm-w32-launcher in 3.425s, finished at 2021-08-17T11:09:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  431 May 19 04:41 packages-stable/helm-w32-launcher-0.1.6.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:41 packages-stable/helm-w32-launcher-0.1.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-w32-launcher-badge.svg
-4.0K -rw-r--r-- 1 root root  335 May 19 04:41 packages-stable/helm-w32-launcher-readme.txt
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:09 packages-stable/helm-w32-launcher-0.1.6.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:09 packages-stable/helm-w32-launcher-0.1.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/helm-w32-launcher-badge.svg
+4.0K -rw-r--r-- 1 root root  335 Aug 17 11:09 packages-stable/helm-w32-launcher-readme.txt

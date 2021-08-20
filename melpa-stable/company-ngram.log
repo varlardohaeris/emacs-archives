@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kshramt/company-ngram.git
 
 Updating /mnt/store/melpa/working/company-ngram/
+Checking out d15182df3eac72b29772802759b77c9eafef5066
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-ngram/
-  to /tmp/company-ngramHwUlX0/company-ngram-0.8.0
+  to /tmp/company-ngramZR4RtC/company-ngram-0.8.0
     company-ngram.el -> company-ngram.el
     ngram.py -> ngram.py
 Created company-ngram-0.8.0.tar containing:
@@ -13,9 +14,9 @@ Created company-ngram-0.8.0.tar containing:
   company-ngram-0.8.0/company-ngram-pkg.el
   company-ngram-0.8.0/company-ngram.el
   company-ngram-0.8.0/ngram.py
-Built company-ngram in 3.103s, finished at Wed May 19 04:24:37 2021
+Built company-ngram in 6.070s, finished at 2021-08-17T10:50:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  287 May 19 04:24 packages-stable/company-ngram-0.8.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:24 packages-stable/company-ngram-0.8.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-ngram-badge.svg
-4.0K -rw-r--r-- 1 root root  628 May 19 04:24 packages-stable/company-ngram-readme.txt
+4.0K -rw-r--r-- 1 root root  287 Aug 17 10:50 packages-stable/company-ngram-0.8.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:50 packages-stable/company-ngram-0.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/company-ngram-badge.svg
+4.0K -rw-r--r-- 1 root root  628 Aug 17 10:50 packages-stable/company-ngram-readme.txt

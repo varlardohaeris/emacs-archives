@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/plandes/markdown-changelog.git
 
 Updating /mnt/store/melpa/working/markdown-changelog/
-Built markdown-changelog in 3.957s, finished at Wed May 19 01:34:08 2021
+Checking out 20adc0a471429f5b5d5bfed8eb95428cd34480ea
+Built markdown-changelog in 3.882s, finished at 2021-08-17T11:17:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.6K May 19 01:34 packages-stable/markdown-changelog-0.0.2.el
-4.0K -rw-r--r-- 1 root root  406 May 19 01:34 packages-stable/markdown-changelog-0.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/markdown-changelog-badge.svg
-4.0K -rw-r--r-- 1 root root  370 May 19 01:34 packages-stable/markdown-changelog-readme.txt
+8.0K -rw-r--r-- 1 root root 6.6K Aug 17 11:17 packages-stable/markdown-changelog-0.0.2.el
+4.0K -rw-r--r-- 1 root root  406 Aug 17 11:17 packages-stable/markdown-changelog-0.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/markdown-changelog-badge.svg
+4.0K -rw-r--r-- 1 root root  370 Aug 17 11:17 packages-stable/markdown-changelog-readme.txt

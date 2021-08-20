@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lukhas/buffer-move.git
 
 Updating /mnt/store/melpa/working/buffer-move/
-Built buffer-move in 5.986s, finished at Wed May 19 04:22:12 2021
+Checking out 9bf3ff940011c7af3fdd172fa3ea2511c7a8a190
+Built buffer-move in 3.862s, finished at 2021-08-17T10:47:19+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.3K May 19 04:22 packages-stable/buffer-move-0.6.2.el
-4.0K -rw-r--r-- 1 root root  215 May 19 04:22 packages-stable/buffer-move-0.6.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/buffer-move-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 04:22 packages-stable/buffer-move-readme.txt
+8.0K -rw-r--r-- 1 root root 5.3K Aug 17 10:47 packages-stable/buffer-move-0.6.2.el
+4.0K -rw-r--r-- 1 root root  215 Aug 17 10:47 packages-stable/buffer-move-0.6.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/buffer-move-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 10:47 packages-stable/buffer-move-readme.txt

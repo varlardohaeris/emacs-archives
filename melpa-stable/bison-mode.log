@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/Wilfred/bison-mode.git
 
 Updating /mnt/store/melpa/working/bison-mode/
-No valid stable versions found for bison-mode
+Checking out 1193903e36adf6770b673c3936ac0fbdac609b95
+Built bison-mode in 3.714s, finished at 2021-08-17T10:46:41+0000
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  31K Aug 17 10:46 packages-stable/bison-mode-0.3.el
+4.0K -rw-r--r-- 1 root root  343 Aug 17 10:46 packages-stable/bison-mode-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bison-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 10:46 packages-stable/bison-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/muffinmad/emacs-vc-hgcmd.git
 
 Updating /mnt/store/melpa/working/vc-hgcmd/
-Built vc-hgcmd in 3.159s, finished at Wed May 19 01:53:53 2021
+Checking out 12e102f8359095953e06ed17c7223cd6638e5cea
+Built vc-hgcmd in 3.779s, finished at 2021-08-17T11:39:32+0000
  ✓ Success:
- 68K -rw-r--r-- 1 root root  65K May 19 01:53 packages-stable/vc-hgcmd-1.13.el
-4.0K -rw-r--r-- 1 root root  392 May 19 01:53 packages-stable/vc-hgcmd-1.13.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/vc-hgcmd-badge.svg
-8.0K -rw-r--r-- 1 root root 6.8K May 19 01:53 packages-stable/vc-hgcmd-readme.txt
+ 68K -rw-r--r-- 1 root root  65K Aug 17 11:39 packages-stable/vc-hgcmd-1.14.el
+4.0K -rw-r--r-- 1 root root  392 Aug 17 11:39 packages-stable/vc-hgcmd-1.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/vc-hgcmd-badge.svg
+8.0K -rw-r--r-- 1 root root 6.8K Aug 17 11:39 packages-stable/vc-hgcmd-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/license-templates.git
 
 Updating /mnt/store/melpa/working/license-templates/
-Built license-templates in 3.111s, finished at Wed May 19 01:32:17 2021
+Checking out ef80eff8b7be117f9c48bdc6d9a62e56b0a93554
+Built license-templates in 4.558s, finished at 2021-08-17T11:15:24+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 01:32 packages-stable/license-templates-0.1.3.el
-4.0K -rw-r--r-- 1 root root  408 May 19 01:32 packages-stable/license-templates-0.1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/license-templates-badge.svg
-4.0K -rw-r--r-- 1 root root   34 May 19 01:32 packages-stable/license-templates-readme.txt
+8.0K -rw-r--r-- 1 root root 5.5K Aug 17 11:15 packages-stable/license-templates-0.1.3.el
+4.0K -rw-r--r-- 1 root root  408 Aug 17 11:15 packages-stable/license-templates-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/license-templates-badge.svg
+4.0K -rw-r--r-- 1 root root   34 Aug 17 11:15 packages-stable/license-templates-readme.txt

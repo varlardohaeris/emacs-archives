@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Fanael/asilea.git
 
 Updating /mnt/store/melpa/working/asilea/
-Built asilea in 3.027s, finished at Wed May 19 04:19:51 2021
+Checking out 2aab1cc63b64ef08d12e84fd7ba5c94065f6039f
+Built asilea in 7.942s, finished at 2021-08-17T10:45:01+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:19 packages-stable/asilea-0.2.1.el
-4.0K -rw-r--r-- 1 root root  354 May 19 04:19 packages-stable/asilea-0.2.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/asilea-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:19 packages-stable/asilea-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 10:45 packages-stable/asilea-0.2.1.el
+4.0K -rw-r--r-- 1 root root  354 Aug 17 10:45 packages-stable/asilea-0.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/asilea-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:45 packages-stable/asilea-readme.txt

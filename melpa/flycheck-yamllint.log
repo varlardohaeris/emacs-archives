@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/krzysztof-magosa/flycheck-yamllint.git
 
 Updating /mnt/store/melpa/working/flycheck-yamllint/
-Built flycheck-yamllint in 4.461s, finished at Wed May 19 03:22:47 2021
+Checking out origin/HEAD
+Checking out 1e9fe3b2d3e42d551b94473816a8eeee637b446c
+Built flycheck-yamllint in 4.469s, finished at 2021-08-17T09:46:15+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.3K May 19 03:22 packages/flycheck-yamllint-20170325.1735.el
-4.0K -rw-r--r-- 1 root root  449 May 19 03:22 packages/flycheck-yamllint-20170325.1735.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:22 packages/flycheck-yamllint-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 03:22 packages/flycheck-yamllint-readme.txt
+4.0K -rw-r--r-- 1 root root 2.3K Aug 17 09:46 packages/flycheck-yamllint-20170325.1735.el
+4.0K -rw-r--r-- 1 root root  449 Aug 17 09:46 packages/flycheck-yamllint-20170325.1735.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:46 packages/flycheck-yamllint-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 09:46 packages/flycheck-yamllint-readme.txt

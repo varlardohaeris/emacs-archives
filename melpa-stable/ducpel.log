@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alezost/ducpel.git
 
 Updating /mnt/store/melpa/working/ducpel/
+Checking out ece785baaa102bd2e9d54257af3a92bacc5757bc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ducpel/
-  to /tmp/ducpelPSX7Hm/ducpel-0.1
+  to /tmp/ducpelawURtJ/ducpel-0.1
     ducpel-glyphs.el -> ducpel-glyphs.el
     ducpel.el -> ducpel.el
     levels => levels
@@ -21,9 +22,9 @@ Created ducpel-0.1.tar containing:
   ducpel-0.1/levels/0004
   ducpel-0.1/levels/0005
   ducpel-0.1/levels/0006
-Built ducpel in 2.933s, finished at Wed May 19 04:28:53 2021
+Built ducpel in 3.647s, finished at 2021-08-17T10:54:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  319 May 19 04:28 packages-stable/ducpel-0.1.entry
-112K -rw-r--r-- 1 root root 110K May 19 04:28 packages-stable/ducpel-0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/ducpel-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:28 packages-stable/ducpel-readme.txt
+4.0K -rw-r--r-- 1 root root  319 Aug 17 10:54 packages-stable/ducpel-0.1.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 10:54 packages-stable/ducpel-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/ducpel-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:54 packages-stable/ducpel-readme.txt

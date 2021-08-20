@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dgutov/robe.git
 
 Updating /mnt/store/melpa/working/robe/
+Checking out 082da38797d247f9c64568ad712a345e041d5c84
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/robe/
-  to /tmp/robeZZ2jXO/robe-0.8.3
+  to /tmp/robepGFMb3/robe-0.8.3
     ac-robe.el -> ac-robe.el
     company-robe.el -> company-robe.el
     robe.el -> robe.el
@@ -30,9 +31,9 @@ Created robe-0.8.3.tar containing:
   robe-0.8.3/lib/robe/visor.rb
   robe-0.8.3/robe-pkg.el
   robe-0.8.3/robe.el
-Built robe in 2.996s, finished at Wed May 19 01:46:55 2021
+Built robe in 3.840s, finished at 2021-08-17T11:31:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  358 May 19 01:46 packages-stable/robe-0.8.3.entry
- 80K -rw-r--r-- 1 root root  80K May 19 01:46 packages-stable/robe-0.8.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/robe-badge.svg
-4.0K -rw-r--r-- 1 root root  434 May 19 01:46 packages-stable/robe-readme.txt
+4.0K -rw-r--r-- 1 root root  358 Aug 17 11:31 packages-stable/robe-0.8.3.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 11:31 packages-stable/robe-0.8.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/robe-badge.svg
+4.0K -rw-r--r-- 1 root root  434 Aug 17 11:31 packages-stable/robe-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/sqlformat.git
 
 Updating /mnt/store/melpa/working/sqlformat/
-Built sqlformat in 2.892s, finished at Wed May 19 01:50:07 2021
+Checking out 0cdb882874ba0853f4f831a07a85b511258472b2
+Built sqlformat in 3.637s, finished at 2021-08-17T11:35:15+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.2K May 19 01:50 packages-stable/sqlformat-0.2.el
-4.0K -rw-r--r-- 1 root root  418 May 19 01:50 packages-stable/sqlformat-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sqlformat-badge.svg
-4.0K -rw-r--r-- 1 root root  980 May 19 01:50 packages-stable/sqlformat-readme.txt
+8.0K -rw-r--r-- 1 root root 4.2K Aug 17 11:35 packages-stable/sqlformat-0.2.el
+4.0K -rw-r--r-- 1 root root  418 Aug 17 11:35 packages-stable/sqlformat-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/sqlformat-badge.svg
+4.0K -rw-r--r-- 1 root root  980 Aug 17 11:35 packages-stable/sqlformat-readme.txt

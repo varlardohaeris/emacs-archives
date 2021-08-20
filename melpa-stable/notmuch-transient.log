@@ -1,0 +1,12 @@
+Package: notmuch-transient
+Fetcher: git
+Source:  https://git.sr.ht/~tarsius/notmuch-transient
+
+Updating /mnt/store/melpa/working/notmuch-transient/
+Checking out 5436465c1d148214a0c4570b52bfad3f4641feb2
+Built notmuch-transient in 3.331s, finished at 2021-08-17T11:21:11+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:21 packages-stable/notmuch-transient-0.1.0.el
+4.0K -rw-r--r-- 1 root root  428 Aug 17 11:21 packages-stable/notmuch-transient-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/notmuch-transient-badge.svg
+4.0K -rw-r--r-- 1 root root  189 Aug 17 11:21 packages-stable/notmuch-transient-readme.txt

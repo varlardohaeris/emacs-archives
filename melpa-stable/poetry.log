@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/galaunay/poetry.el.git
 
 Updating /mnt/store/melpa/working/poetry/
-Built poetry in 3.134s, finished at Wed May 19 01:43:30 2021
+Checking out 6fb34742a66421c6104e02d65e8d391fc4494ab5
+Built poetry in 3.976s, finished at 2021-08-17T11:27:46+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 01:43 packages-stable/poetry-0.1.0.el
-4.0K -rw-r--r-- 1 root root  392 May 19 01:43 packages-stable/poetry-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/poetry-badge.svg
-4.0K -rw-r--r-- 1 root root  137 May 19 01:43 packages-stable/poetry-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:27 packages-stable/poetry-0.1.0.el
+4.0K -rw-r--r-- 1 root root  392 Aug 17 11:27 packages-stable/poetry-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/poetry-badge.svg
+4.0K -rw-r--r-- 1 root root  137 Aug 17 11:27 packages-stable/poetry-readme.txt

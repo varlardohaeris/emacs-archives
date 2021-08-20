@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/spotify/dockerfile-mode.git
 
 Updating /mnt/store/melpa/working/dockerfile-mode/
-Built dockerfile-mode in 2.879s, finished at Wed May 19 04:28:31 2021
+Checking out ed1d04c89cd8b53963f2dcae7cb3a46967e0abbf
+Built dockerfile-mode in 4.496s, finished at 2021-08-17T10:54:03+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.5K May 19 04:28 packages-stable/dockerfile-mode-1.4.el
-4.0K -rw-r--r-- 1 root root  233 May 19 04:28 packages-stable/dockerfile-mode-1.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dockerfile-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  159 May 19 04:28 packages-stable/dockerfile-mode-readme.txt
+ 12K -rw-r--r-- 1 root root 9.5K Aug 17 10:54 packages-stable/dockerfile-mode-1.4.el
+4.0K -rw-r--r-- 1 root root  233 Aug 17 10:54 packages-stable/dockerfile-mode-1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/dockerfile-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  159 Aug 17 10:54 packages-stable/dockerfile-mode-readme.txt

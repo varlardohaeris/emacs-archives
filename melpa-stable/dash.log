@@ -3,30 +3,31 @@ Fetcher: github
 Source:  https://github.com/magnars/dash.el.git
 
 Updating /mnt/store/melpa/working/dash/
+Checking out 0aa4cfc763bca2e8235f868f5bb1613de724d71d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dash/
-  to /tmp/dashq6yOeZ/dash-2.18.1
+  to /tmp/dashZNfoQV/dash-2.19.0
     dash.el -> dash.el
     dash.texi -> dash.texi
-Created /tmp/dashq6yOeZ/dash-2.18.1/dash.info
-Created dash-2.18.1.tar containing:
-  dash-2.18.1/
-  dash-2.18.1/dash-pkg.el
-  dash-2.18.1/dash.el
-  dash-2.18.1/dash.info
-  dash-2.18.1/dir
-Built dash in 20.340s, finished at Wed May 19 04:26:53 2021
+Created /tmp/dashZNfoQV/dash-2.19.0/dash.info
+Created dash-2.19.0.tar containing:
+  dash-2.19.0/
+  dash-2.19.0/dash-pkg.el
+  dash-2.19.0/dash.el
+  dash-2.19.0/dash.info
+  dash-2.19.0/dir
+Built dash in 15.734s, finished at 2021-08-17T10:52:32+0000
  ✓ Success:
 104K -rw-r--r-- 1 root root 101K Dec  8  2019 packages-stable/dash-2.16.0.el
-4.0K -rw-r--r-- 1 root root  344 May 19 04:26 packages-stable/dash-2.18.1.entry
-312K -rw-r--r-- 1 root root 310K May 19 04:26 packages-stable/dash-2.18.1.tar
-4.0K -rw-r--r-- 1 root root  190 May 19 04:26 packages-stable/dash-alfred.log
-4.0K -rw-r--r-- 1 root root  192 May 19 04:26 packages-stable/dash-at-point.log
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/dash-badge.svg
-4.0K -rw-r--r-- 1 root root  181 May 19 04:26 packages-stable/dash-docs.log
-4.0K -rw-r--r-- 1 root root 2.1K May 19 04:26 packages-stable/dash-functional-2.18.1.el
-4.0K -rw-r--r-- 1 root root  444 May 19 04:26 packages-stable/dash-functional-2.18.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/dash-functional-badge.svg
-4.0K -rw-r--r-- 1 root root  614 May 19 04:26 packages-stable/dash-functional-readme.txt
-4.0K -rw-r--r-- 1 root root  581 May 19 04:26 packages-stable/dash-functional.log
-4.0K -rw-r--r-- 1 root root   96 May 19 04:26 packages-stable/dash-readme.txt
+4.0K -rw-r--r-- 1 root root  344 Aug 17 10:52 packages-stable/dash-2.19.0.entry
+320K -rw-r--r-- 1 root root 320K Aug 17 10:52 packages-stable/dash-2.19.0.tar
+4.0K -rw-r--r-- 1 root root  190 Aug 17 10:52 packages-stable/dash-alfred.log
+4.0K -rw-r--r-- 1 root root  192 Aug 17 10:52 packages-stable/dash-at-point.log
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/dash-badge.svg
+4.0K -rw-r--r-- 1 root root  181 Aug 17 10:52 packages-stable/dash-docs.log
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 10:52 packages-stable/dash-functional-2.19.0.el
+4.0K -rw-r--r-- 1 root root  444 Aug 17 10:52 packages-stable/dash-functional-2.19.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/dash-functional-badge.svg
+4.0K -rw-r--r-- 1 root root  614 Aug 17 10:52 packages-stable/dash-functional-readme.txt
+4.0K -rw-r--r-- 1 root root  635 Aug 17 10:52 packages-stable/dash-functional.log
+4.0K -rw-r--r-- 1 root root   96 Aug 17 10:52 packages-stable/dash-readme.txt

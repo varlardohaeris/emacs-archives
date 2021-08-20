@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsattic/inlineR.git
 
 Updating /mnt/store/melpa/working/inlineR/
-Built inlineR in 4.909s, finished at Wed May 19 03:35:08 2021
+Checking out origin/HEAD
+Checking out bf6450a3540aa3538546d312324c41befd0a4e54
+Built inlineR in 5.068s, finished at 2021-08-17T09:58:54+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.7K May 19 03:35 packages/inlineR-20191017.1920.el
-4.0K -rw-r--r-- 1 root root  337 May 19 03:35 packages/inlineR-20191017.1920.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:35 packages/inlineR-badge.svg
-4.0K -rw-r--r-- 1 root root  266 May 19 03:35 packages/inlineR-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K Aug 17 09:58 packages/inlineR-20191017.1920.el
+4.0K -rw-r--r-- 1 root root  337 Aug 17 09:58 packages/inlineR-20191017.1920.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:58 packages/inlineR-badge.svg
+4.0K -rw-r--r-- 1 root root  266 Aug 17 09:58 packages/inlineR-readme.txt

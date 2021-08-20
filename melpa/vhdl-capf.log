@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/sh-ow/vhdl-capf.git
 
 Updating /mnt/store/melpa/working/vhdl-capf/
-Built vhdl-capf in 4.258s, finished at Wed May 19 04:13:22 2021
+Checking out origin/HEAD
+Checking out 290abe217050f33532bc9ccb04f894123402f414
+Built vhdl-capf in 4.625s, finished at 2021-08-17T14:03:53+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.2K May 19 04:13 packages/vhdl-capf-20160221.1734.el
-4.0K -rw-r--r-- 1 root root  415 May 19 04:13 packages/vhdl-capf-20160221.1734.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/vhdl-capf-badge.svg
-4.0K -rw-r--r-- 1 root root  117 May 19 04:13 packages/vhdl-capf-readme.txt
+8.0K -rw-r--r-- 1 root root 6.2K Aug 17 14:03 packages/vhdl-capf-20160221.1734.el
+4.0K -rw-r--r-- 1 root root  415 Aug 17 14:03 packages/vhdl-capf-20160221.1734.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:03 packages/vhdl-capf-badge.svg
+4.0K -rw-r--r-- 1 root root  117 Aug 17 14:03 packages/vhdl-capf-readme.txt

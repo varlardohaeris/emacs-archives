@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/larkery/ido-grid-mode.el.git
 
 Updating /mnt/store/melpa/working/ido-grid-mode/
-Built ido-grid-mode in 2.846s, finished at Wed May 19 04:42:43 2021
+Checking out 8bbd66e365d4f6f352bbb17673be5869ab26d7ab
+Built ido-grid-mode in 4.025s, finished at 2021-08-17T11:10:51+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  35K May 19 04:42 packages-stable/ido-grid-mode-1.1.5.el
-4.0K -rw-r--r-- 1 root root  348 May 19 04:42 packages-stable/ido-grid-mode-1.1.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/ido-grid-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  739 May 19 04:42 packages-stable/ido-grid-mode-readme.txt
+ 36K -rw-r--r-- 1 root root  35K Aug 17 11:10 packages-stable/ido-grid-mode-1.1.5.el
+4.0K -rw-r--r-- 1 root root  348 Aug 17 11:10 packages-stable/ido-grid-mode-1.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/ido-grid-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  739 Aug 17 11:10 packages-stable/ido-grid-mode-readme.txt

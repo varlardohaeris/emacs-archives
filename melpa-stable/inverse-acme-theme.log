@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/dcjohnson/inverse-acme-theme.git
 
 Updating /mnt/store/melpa/working/inverse-acme-theme/
+Checking out e57f494fd94e49321a6396f530b8a13bae8b57df
 Single file gruvbox-theme.el does not match package name inverse-acme-theme

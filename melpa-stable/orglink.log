@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tarsius/orglink.git
 
 Updating /mnt/store/melpa/working/orglink/
-Built orglink in 3.100s, finished at Wed May 19 01:40:56 2021
+Checking out 36bb4c1cce3ac413c0d1c4b6316e539d4e246689
+Built orglink in 5.238s, finished at 2021-08-17T11:24:50+0000
  ✓ Success:
- 12K -rwxr-xr-x 1 root root  11K May 19 01:40 packages-stable/orglink-1.1.6.el
-4.0K -rw-r--r-- 1 root root  394 May 19 01:40 packages-stable/orglink-1.1.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/orglink-badge.svg
-4.0K -rw-r--r-- 1 root root  480 May 19 01:40 packages-stable/orglink-readme.txt
+ 12K -rwxr-xr-x 1 root root  11K Aug 17 11:24 packages-stable/orglink-1.1.6.el
+4.0K -rw-r--r-- 1 root root  394 Aug 17 11:24 packages-stable/orglink-1.1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/orglink-badge.svg
+4.0K -rw-r--r-- 1 root root  480 Aug 17 11:24 packages-stable/orglink-readme.txt

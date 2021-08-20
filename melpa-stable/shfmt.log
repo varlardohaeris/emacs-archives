@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/emacs-shfmt.git
 
 Updating /mnt/store/melpa/working/shfmt/
-Built shfmt in 3.159s, finished at Wed May 19 01:48:17 2021
+Checking out cd94266badc71c1e981e904e10f28c6a80237a2f
+Built shfmt in 4.045s, finished at 2021-08-17T11:33:13+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.3K May 19 01:48 packages-stable/shfmt-0.1.el
-4.0K -rw-r--r-- 1 root root  364 May 19 01:48 packages-stable/shfmt-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shfmt-badge.svg
-4.0K -rw-r--r-- 1 root root  532 May 19 01:48 packages-stable/shfmt-readme.txt
+4.0K -rw-r--r-- 1 root root 2.3K Aug 17 11:33 packages-stable/shfmt-0.1.el
+4.0K -rw-r--r-- 1 root root  364 Aug 17 11:33 packages-stable/shfmt-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shfmt-badge.svg
+4.0K -rw-r--r-- 1 root root  532 Aug 17 11:33 packages-stable/shfmt-readme.txt

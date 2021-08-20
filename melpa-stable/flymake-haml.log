@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/flymake-haml.git
 
 Updating /mnt/store/melpa/working/flymake-haml/
-Built flymake-haml in 2.889s, finished at Wed May 19 04:35:32 2021
+Checking out 343449920866238db343d61343bc845cc8bc5e1b
+Built flymake-haml in 3.424s, finished at 2021-08-17T11:02:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.5K May 19 04:35 packages-stable/flymake-haml-0.8.el
-4.0K -rw-r--r-- 1 root root  348 May 19 04:35 packages-stable/flymake-haml-0.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-haml-badge.svg
-4.0K -rw-r--r-- 1 root root  274 May 19 04:35 packages-stable/flymake-haml-readme.txt
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 11:02 packages-stable/flymake-haml-0.8.el
+4.0K -rw-r--r-- 1 root root  348 Aug 17 11:02 packages-stable/flymake-haml-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flymake-haml-badge.svg
+4.0K -rw-r--r-- 1 root root  274 Aug 17 11:02 packages-stable/flymake-haml-readme.txt

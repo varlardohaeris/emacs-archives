@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cjohansson/emacs-ssh-deploy.git
 
 Updating /mnt/store/melpa/working/ssh-deploy/
+Checking out 20a87ab053b1d56fdb102b75b1c90658df756505
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ssh-deploy/
-  to /tmp/ssh-deploySloPVr/ssh-deploy-3.1
+  to /tmp/ssh-deploy3viKEN/ssh-deploy-3.1
     ssh-deploy-diff-mode.el -> ssh-deploy-diff-mode.el
     ssh-deploy-hydra.el -> ssh-deploy-hydra.el
     ssh-deploy.el -> ssh-deploy.el
@@ -15,9 +16,9 @@ Created ssh-deploy-3.1.tar containing:
   ssh-deploy-3.1/ssh-deploy-hydra.el
   ssh-deploy-3.1/ssh-deploy-pkg.el
   ssh-deploy-3.1/ssh-deploy.el
-Built ssh-deploy in 2.688s, finished at Wed May 19 01:50:14 2021
+Built ssh-deploy in 3.793s, finished at 2021-08-17T11:35:24+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  420 May 19 01:50 packages-stable/ssh-deploy-3.1.entry
-100K -rw-r--r-- 1 root root 100K May 19 01:50 packages-stable/ssh-deploy-3.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/ssh-deploy-badge.svg
-8.0K -rw-r--r-- 1 root root 5.1K May 19 01:50 packages-stable/ssh-deploy-readme.txt
+4.0K -rw-r--r-- 1 root root  420 Aug 17 11:35 packages-stable/ssh-deploy-3.1.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:35 packages-stable/ssh-deploy-3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/ssh-deploy-badge.svg
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 11:35 packages-stable/ssh-deploy-readme.txt

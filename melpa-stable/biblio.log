@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cpitclaudel/biblio.el.git
 
 Updating /mnt/store/melpa/working/biblio/
+Checking out d10ea0dc67ec3ea1cba20692bde0ce5132610056
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/biblio/
-  to /tmp/biblioRqttWQ/biblio-0.2
+  to /tmp/bibliolTL59S/biblio-0.2
     biblio-arxiv.el -> biblio-arxiv.el
     biblio-crossref.el -> biblio-crossref.el
     biblio-dblp.el -> biblio-dblp.el
@@ -26,15 +27,15 @@ Created biblio-0.2.tar containing:
   biblio-0.2/biblio-hal.el
   biblio-0.2/biblio-pkg.el
   biblio-0.2/biblio.el
-Built biblio in 3.703s, finished at Wed May 19 04:21:07 2021
+Built biblio in 4.410s, finished at 2021-08-17T10:46:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  490 May 19 04:21 packages-stable/biblio-0.2.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:21 packages-stable/biblio-0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/biblio-badge.svg
-4.0K -rw-r--r-- 1 root root  214 May 19 04:21 packages-stable/biblio-bibsonomy.log
- 36K -rw-r--r-- 1 root root  33K May 19 01:06 packages-stable/biblio-core-0.2.el
-4.0K -rw-r--r-- 1 root root  555 May 19 01:06 packages-stable/biblio-core-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:06 packages-stable/biblio-core-badge.svg
-4.0K -rw-r--r-- 1 root root  254 May 19 01:06 packages-stable/biblio-core-readme.txt
-4.0K -rw-r--r-- 1 root root  139 May 19 04:21 packages-stable/biblio-core.log
-4.0K -rw-r--r-- 1 root root 2.6K May 19 04:21 packages-stable/biblio-readme.txt
+4.0K -rw-r--r-- 1 root root  490 Aug 17 10:46 packages-stable/biblio-0.2.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 10:46 packages-stable/biblio-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/biblio-badge.svg
+4.0K -rw-r--r-- 1 root root  214 Aug 17 10:46 packages-stable/biblio-bibsonomy.log
+ 36K -rw-r--r-- 1 root root  33K Aug 17 10:46 packages-stable/biblio-core-0.2.el
+4.0K -rw-r--r-- 1 root root  555 Aug 17 07:16 packages-stable/biblio-core-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:16 packages-stable/biblio-core-badge.svg
+4.0K -rw-r--r-- 1 root root  254 Aug 17 07:16 packages-stable/biblio-core-readme.txt
+4.0K -rw-r--r-- 1 root root  193 Aug 17 10:46 packages-stable/biblio-core.log
+4.0K -rw-r--r-- 1 root root 2.6K Aug 17 10:46 packages-stable/biblio-readme.txt

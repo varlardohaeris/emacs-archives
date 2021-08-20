@@ -3,34 +3,37 @@ Fetcher: github
 Source:  https://github.com/dajva/rg.el.git
 
 Updating /mnt/store/melpa/working/rg/
+Checking out 0fa6d33d2f3123aecd0b0dbc5fa3d884edf10a92
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rg/
-  to /tmp/rgV2tx1s/rg-2.0.3
+  to /tmp/rgfDjV9w/rg-2.1.0
     rg-header.el -> rg-header.el
     rg-history.el -> rg-history.el
     rg-ibuffer.el -> rg-ibuffer.el
     rg-info-hack.el -> rg-info-hack.el
+    rg-isearch.el -> rg-isearch.el
     rg-menu.el -> rg-menu.el
     rg-result.el -> rg-result.el
     rg.el -> rg.el
     wgrep-rg.el -> wgrep-rg.el
     rgel.info -> rgel.info
-Created rg-2.0.3.tar containing:
-  rg-2.0.3/
-  rg-2.0.3/dir
-  rg-2.0.3/rg-header.el
-  rg-2.0.3/rg-history.el
-  rg-2.0.3/rg-ibuffer.el
-  rg-2.0.3/rg-info-hack.el
-  rg-2.0.3/rg-menu.el
-  rg-2.0.3/rg-pkg.el
-  rg-2.0.3/rg-result.el
-  rg-2.0.3/rg.el
-  rg-2.0.3/rgel.info
-  rg-2.0.3/wgrep-rg.el
-Built rg in 3.013s, finished at Wed May 19 01:46:44 2021
+Created rg-2.1.0.tar containing:
+  rg-2.1.0/
+  rg-2.1.0/dir
+  rg-2.1.0/rg-header.el
+  rg-2.1.0/rg-history.el
+  rg-2.1.0/rg-ibuffer.el
+  rg-2.1.0/rg-info-hack.el
+  rg-2.1.0/rg-isearch.el
+  rg-2.1.0/rg-menu.el
+  rg-2.1.0/rg-pkg.el
+  rg-2.1.0/rg-result.el
+  rg-2.1.0/rg.el
+  rg-2.1.0/rgel.info
+  rg-2.1.0/wgrep-rg.el
+Built rg in 3.706s, finished at 2021-08-17T11:31:26+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  493 May 19 01:46 packages-stable/rg-2.0.3.entry
-192K -rw-r--r-- 1 root root 190K May 19 01:46 packages-stable/rg-2.0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/rg-badge.svg
-4.0K -rw-r--r-- 1 root root  687 May 19 01:46 packages-stable/rg-readme.txt
+4.0K -rw-r--r-- 1 root root  493 Aug 17 11:31 packages-stable/rg-2.1.0.entry
+200K -rw-r--r-- 1 root root 200K Aug 17 11:31 packages-stable/rg-2.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/rg-badge.svg
+4.0K -rw-r--r-- 1 root root  687 Aug 17 11:31 packages-stable/rg-readme.txt

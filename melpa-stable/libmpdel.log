@@ -3,19 +3,20 @@ Fetcher: github
 Source:  https://github.com/mpdel/libmpdel.git
 
 Updating /mnt/store/melpa/working/libmpdel/
+Checking out b49ab2fe497d61d7d00ed1ad0c3b5a1d6a65e5c4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/libmpdel/
-  to /tmp/libmpdelxepwNA/libmpdel-1.2.0
+  to /tmp/libmpdelC7g9a5/libmpdel-1.3.0
     libmpdel-directory.el -> libmpdel-directory.el
     libmpdel.el -> libmpdel.el
-Created libmpdel-1.2.0.tar containing:
-  libmpdel-1.2.0/
-  libmpdel-1.2.0/libmpdel-directory.el
-  libmpdel-1.2.0/libmpdel-pkg.el
-  libmpdel-1.2.0/libmpdel.el
-Built libmpdel in 3.252s, finished at Wed May 19 01:32:14 2021
+Created libmpdel-1.3.0.tar containing:
+  libmpdel-1.3.0/
+  libmpdel-1.3.0/libmpdel-directory.el
+  libmpdel-1.3.0/libmpdel-pkg.el
+  libmpdel-1.3.0/libmpdel.el
+Built libmpdel in 4.890s, finished at 2021-08-17T11:15:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  360 May 19 01:32 packages-stable/libmpdel-1.2.0.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:32 packages-stable/libmpdel-1.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/libmpdel-badge.svg
-4.0K -rw-r--r-- 1 root root  251 May 19 01:32 packages-stable/libmpdel-readme.txt
+4.0K -rw-r--r-- 1 root root  359 Aug 17 11:15 packages-stable/libmpdel-1.3.0.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:15 packages-stable/libmpdel-1.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/libmpdel-badge.svg
+4.0K -rw-r--r-- 1 root root  251 Aug 17 11:15 packages-stable/libmpdel-readme.txt

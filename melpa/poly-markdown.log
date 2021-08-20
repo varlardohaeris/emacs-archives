@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/polymode/poly-markdown.git
 
 Updating /mnt/store/melpa/working/poly-markdown/
-Built poly-markdown in 4.035s, finished at Wed May 19 03:56:24 2021
+Checking out origin/HEAD
+Checking out e79d811d78da668556a694bb840bea3515b4c6f8
+Built poly-markdown in 6.582s, finished at 2021-08-17T10:21:28+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.9K May 19 03:56 packages/poly-markdown-20200316.1315.el
-4.0K -rw-r--r-- 1 root root  365 May 19 03:56 packages/poly-markdown-20200316.1315.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:56 packages/poly-markdown-badge.svg
-4.0K -rw-r--r-- 1 root root   70 May 19 03:56 packages/poly-markdown-readme.txt
+8.0K -rw-r--r-- 1 root root 7.0K Aug 17 10:21 packages/poly-markdown-20210625.803.el
+4.0K -rw-r--r-- 1 root root  364 Aug 17 10:21 packages/poly-markdown-20210625.803.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:21 packages/poly-markdown-badge.svg
+4.0K -rw-r--r-- 1 root root   70 Aug 17 10:21 packages/poly-markdown-readme.txt

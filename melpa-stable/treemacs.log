@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /mnt/store/melpa/working/treemacs/
+Checking out 16b0819c6f27f45fe0495a29eeff5f01bd765b04
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/treemacs/
-  to /tmp/treemacsFwpPXQ/treemacs-2.8
+  to /tmp/treemacsrO0sjd/treemacs-2.8
     Changelog.org -> Changelog.org
     icons => icons
   ! src/elisp/treemacs-async.el -> treemacs-async.el
@@ -232,36 +233,36 @@ Created treemacs-2.8.tar containing:
   treemacs-2.8/treemacs-visuals.el
   treemacs-2.8/treemacs-workspaces.el
   treemacs-2.8/treemacs.el
-Built treemacs in 3.828s, finished at Wed May 19 01:52:48 2021
+Built treemacs in 5.041s, finished at 2021-08-17T11:38:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  553 May 19 01:52 packages-stable/treemacs-2.8.entry
-940K -rw-r--r-- 1 root root 940K May 19 01:52 packages-stable/treemacs-2.8.tar
-4.0K -rw-r--r-- 1 root root  282 May 19 01:52 packages-stable/treemacs-all-the-icons.log
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/treemacs-badge.svg
-8.0K -rw-r--r-- 1 root root 4.7K May 19 01:52 packages-stable/treemacs-evil-2.8.el
-4.0K -rw-r--r-- 1 root root  385 May 19 01:52 packages-stable/treemacs-evil-2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/treemacs-evil-badge.svg
-4.0K -rw-r--r-- 1 root root   27 May 19 01:52 packages-stable/treemacs-evil-readme.txt
-4.0K -rw-r--r-- 1 root root  571 May 19 01:52 packages-stable/treemacs-evil.log
-8.0K -rw-r--r-- 1 root root 6.9K May 18 22:38 packages-stable/treemacs-icons-dired-2.8.el
-4.0K -rw-r--r-- 1 root root  404 May 18 22:38 packages-stable/treemacs-icons-dired-2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:38 packages-stable/treemacs-icons-dired-badge.svg
-4.0K -rw-r--r-- 1 root root   68 May 18 22:38 packages-stable/treemacs-icons-dired-readme.txt
-   0 -rw-r--r-- 1 root root    0 May 19 01:52 packages-stable/treemacs-icons-dired.log
-8.0K -rw-r--r-- 1 root root 7.2K May 18 22:38 packages-stable/treemacs-magit-2.8.el
-4.0K -rw-r--r-- 1 root root  416 May 18 22:38 packages-stable/treemacs-magit-2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:38 packages-stable/treemacs-magit-badge.svg
-4.0K -rw-r--r-- 1 root root  277 May 18 22:38 packages-stable/treemacs-magit-readme.txt
-   0 -rw-r--r-- 1 root root    0 May 19 01:52 packages-stable/treemacs-magit.log
-8.0K -rw-r--r-- 1 root root 5.1K May 18 22:38 packages-stable/treemacs-persp-2.8.el
-4.0K -rw-r--r-- 1 root root  425 May 18 22:38 packages-stable/treemacs-persp-2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:38 packages-stable/treemacs-persp-badge.svg
-4.0K -rw-r--r-- 1 root root   69 May 18 22:38 packages-stable/treemacs-persp-readme.txt
-   0 -rw-r--r-- 1 root root    0 May 19 01:52 packages-stable/treemacs-persp.log
-   0 -rw-r--r-- 1 root root    0 May 19 01:52 packages-stable/treemacs-perspective.log
-8.0K -rw-r--r-- 1 root root 4.1K May 18 22:38 packages-stable/treemacs-projectile-2.8.el
-4.0K -rw-r--r-- 1 root root  443 May 18 22:38 packages-stable/treemacs-projectile-2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:38 packages-stable/treemacs-projectile-badge.svg
-4.0K -rw-r--r-- 1 root root   38 May 18 22:38 packages-stable/treemacs-projectile-readme.txt
-   0 -rw-r--r-- 1 root root    0 May 19 01:52 packages-stable/treemacs-projectile.log
-4.0K -rw-r--r-- 1 root root   54 May 19 01:52 packages-stable/treemacs-readme.txt
+4.0K -rw-r--r-- 1 root root  553 Aug 17 11:38 packages-stable/treemacs-2.8.entry
+940K -rw-r--r-- 1 root root 940K Aug 17 11:38 packages-stable/treemacs-2.8.tar
+4.0K -rw-r--r-- 1 root root  336 Aug 17 11:38 packages-stable/treemacs-all-the-icons.log
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/treemacs-badge.svg
+8.0K -rw-r--r-- 1 root root 4.7K Aug 17 11:38 packages-stable/treemacs-evil-2.8.el
+4.0K -rw-r--r-- 1 root root  385 Aug 17 11:38 packages-stable/treemacs-evil-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/treemacs-evil-badge.svg
+4.0K -rw-r--r-- 1 root root   27 Aug 17 11:38 packages-stable/treemacs-evil-readme.txt
+4.0K -rw-r--r-- 1 root root  269 Aug 17 11:38 packages-stable/treemacs-evil.log
+8.0K -rw-r--r-- 1 root root 6.9K Aug 17 08:13 packages-stable/treemacs-icons-dired-2.8.el
+4.0K -rw-r--r-- 1 root root  404 Aug 17 08:13 packages-stable/treemacs-icons-dired-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:13 packages-stable/treemacs-icons-dired-badge.svg
+4.0K -rw-r--r-- 1 root root   68 Aug 17 08:13 packages-stable/treemacs-icons-dired-readme.txt
+4.0K -rw-r--r-- 1 root root  161 Aug 17 11:38 packages-stable/treemacs-icons-dired.log
+8.0K -rw-r--r-- 1 root root 7.2K Aug 17 08:13 packages-stable/treemacs-magit-2.8.el
+4.0K -rw-r--r-- 1 root root  416 Aug 17 08:13 packages-stable/treemacs-magit-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:13 packages-stable/treemacs-magit-badge.svg
+4.0K -rw-r--r-- 1 root root  277 Aug 17 08:13 packages-stable/treemacs-magit-readme.txt
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:38 packages-stable/treemacs-magit.log
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 08:13 packages-stable/treemacs-persp-2.8.el
+4.0K -rw-r--r-- 1 root root  425 Aug 17 08:13 packages-stable/treemacs-persp-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:13 packages-stable/treemacs-persp-badge.svg
+4.0K -rw-r--r-- 1 root root   69 Aug 17 08:13 packages-stable/treemacs-persp-readme.txt
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:38 packages-stable/treemacs-persp.log
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:38 packages-stable/treemacs-perspective.log
+8.0K -rw-r--r-- 1 root root 4.1K Aug 17 08:13 packages-stable/treemacs-projectile-2.8.el
+4.0K -rw-r--r-- 1 root root  443 Aug 17 08:13 packages-stable/treemacs-projectile-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:13 packages-stable/treemacs-projectile-badge.svg
+4.0K -rw-r--r-- 1 root root   38 Aug 17 08:13 packages-stable/treemacs-projectile-readme.txt
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:38 packages-stable/treemacs-projectile.log
+4.0K -rw-r--r-- 1 root root   54 Aug 17 11:38 packages-stable/treemacs-readme.txt

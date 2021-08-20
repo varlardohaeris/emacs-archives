@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-geiser/geiser.git
 
 Updating /mnt/store/melpa/working/geiser/
+Checking out 77d4c3a91c0acdb16cefa8a3e0efac3435aebdc0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser/
-  to /tmp/geiserv9rgBc/geiser-0.16
+  to /tmp/geiserDwKLeq/geiser-0.17
   ! elisp/geiser-autodoc.el -> geiser-autodoc.el
   ! elisp/geiser-base.el -> geiser-base.el
   ! elisp/geiser-company.el -> geiser-company.el
@@ -31,88 +32,100 @@ Copying files (->) and directories (=>)
   ! elisp/geiser.el -> geiser.el
   ! doc/dir -> dir
   ! doc/geiser.texi -> geiser.texi
-Created /tmp/geiserv9rgBc/geiser-0.16/geiser.info
-Created geiser-0.16.tar containing:
-  geiser-0.16/
-  geiser-0.16/dir
-  geiser-0.16/geiser-autodoc.el
-  geiser-0.16/geiser-base.el
-  geiser-0.16/geiser-company.el
-  geiser-0.16/geiser-compile.el
-  geiser-0.16/geiser-completion.el
-  geiser-0.16/geiser-connection.el
-  geiser-0.16/geiser-custom.el
-  geiser-0.16/geiser-debug.el
-  geiser-0.16/geiser-doc.el
-  geiser-0.16/geiser-edit.el
-  geiser-0.16/geiser-eval.el
-  geiser-0.16/geiser-image.el
-  geiser-0.16/geiser-impl.el
-  geiser-0.16/geiser-log.el
-  geiser-0.16/geiser-menu.el
-  geiser-0.16/geiser-mode.el
-  geiser-0.16/geiser-pkg.el
-  geiser-0.16/geiser-popup.el
-  geiser-0.16/geiser-reload.el
-  geiser-0.16/geiser-repl.el
-  geiser-0.16/geiser-syntax.el
-  geiser-0.16/geiser-table.el
-  geiser-0.16/geiser-xref.el
-  geiser-0.16/geiser.el
-  geiser-0.16/geiser.info
-Built geiser in 9.890s, finished at Wed May 19 04:36:50 2021
+Error: (error "Command '(env LC_ALL=C makeinfo /mnt/store/melpa/working/geiser/doc/geiser.texi -o /tmp/geiserDwKLeq/geiser-0.17/geiser.info)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
+HEAD is now at 77d4c3a Version bump (0.17)
+./install.texi:56: misplaced {
+./install.texi:56: misplaced }
+")
+Created /tmp/geiserDwKLeq/geiser-0.17/geiser.info
+Error: (error "Command '(env LC_ALL=C install-info --dir=dir /tmp/geiserDwKLeq/geiser-0.17/geiser.info)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
+HEAD is now at 77d4c3a Version bump (0.17)
+./install.texi:56: misplaced {
+./install.texi:56: misplaced }
+install-info: No such file or directory for /tmp/geiserDwKLeq/geiser-0.17/geiser.info
+")
+Created geiser-0.17.tar containing:
+  geiser-0.17/
+  geiser-0.17/dir
+  geiser-0.17/geiser-autodoc.el
+  geiser-0.17/geiser-base.el
+  geiser-0.17/geiser-company.el
+  geiser-0.17/geiser-compile.el
+  geiser-0.17/geiser-completion.el
+  geiser-0.17/geiser-connection.el
+  geiser-0.17/geiser-custom.el
+  geiser-0.17/geiser-debug.el
+  geiser-0.17/geiser-doc.el
+  geiser-0.17/geiser-edit.el
+  geiser-0.17/geiser-eval.el
+  geiser-0.17/geiser-image.el
+  geiser-0.17/geiser-impl.el
+  geiser-0.17/geiser-log.el
+  geiser-0.17/geiser-menu.el
+  geiser-0.17/geiser-mode.el
+  geiser-0.17/geiser-pkg.el
+  geiser-0.17/geiser-popup.el
+  geiser-0.17/geiser-reload.el
+  geiser-0.17/geiser-repl.el
+  geiser-0.17/geiser-syntax.el
+  geiser-0.17/geiser-table.el
+  geiser-0.17/geiser-xref.el
+  geiser-0.17/geiser.el
+Built geiser in 8.448s, finished at 2021-08-17T11:03:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  366 May 19 04:36 packages-stable/geiser-0.16.entry
-312K -rw-r--r-- 1 root root 310K May 19 04:36 packages-stable/geiser-0.16.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-badge.svg
-4.0K -rw-r--r-- 1 root root  435 May 19 04:36 packages-stable/geiser-chez-0.16.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:36 packages-stable/geiser-chez-0.16.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-chez-badge.svg
-4.0K -rw-r--r-- 1 root root   57 May 19 04:36 packages-stable/geiser-chez-readme.txt
-4.0K -rw-r--r-- 1 root root 1014 May 19 04:36 packages-stable/geiser-chez.log
-4.0K -rw-r--r-- 1 root root  416 May 19 04:36 packages-stable/geiser-chibi-0.16.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:36 packages-stable/geiser-chibi-0.16.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-chibi-badge.svg
-4.0K -rw-r--r-- 1 root root   51 May 19 04:36 packages-stable/geiser-chibi-readme.txt
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:36 packages-stable/geiser-chibi.log
-4.0K -rw-r--r-- 1 root root  381 May 19 04:36 packages-stable/geiser-chicken-0.16.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:36 packages-stable/geiser-chicken-0.16.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-chicken-badge.svg
-4.0K -rw-r--r-- 1 root root   69 May 19 04:36 packages-stable/geiser-chicken-readme.txt
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:36 packages-stable/geiser-chicken.log
-4.0K -rw-r--r-- 1 root root  408 May 19 04:36 packages-stable/geiser-gambit-0.16.entry
-140K -rw-r--r-- 1 root root 140K May 19 04:36 packages-stable/geiser-gambit-0.16.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-gambit-badge.svg
-4.0K -rw-r--r-- 1 root root  148 May 19 04:36 packages-stable/geiser-gambit-readme.txt
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:36 packages-stable/geiser-gambit.log
- 12K -rw-r--r-- 1 root root  11K May 19 04:36 packages-stable/geiser-gauche-0.14.el
-4.0K -rw-r--r-- 1 root root  135 May 19 04:36 packages-stable/geiser-gauche-0.14.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-gauche-badge.svg
+4.0K -rw-r--r-- 1 root root  366 Aug 17 11:03 packages-stable/geiser-0.17.entry
+220K -rw-r--r-- 1 root root 220K Aug 17 11:03 packages-stable/geiser-0.17.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-badge.svg
+4.0K -rw-r--r-- 1 root root  435 Aug 17 11:03 packages-stable/geiser-chez-0.16.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:03 packages-stable/geiser-chez-0.16.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-chez-badge.svg
+4.0K -rw-r--r-- 1 root root   57 Aug 17 11:03 packages-stable/geiser-chez-readme.txt
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:03 packages-stable/geiser-chez.log
+4.0K -rw-r--r-- 1 root root  416 Aug 17 11:03 packages-stable/geiser-chibi-0.16.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:03 packages-stable/geiser-chibi-0.16.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-chibi-badge.svg
+4.0K -rw-r--r-- 1 root root   51 Aug 17 11:03 packages-stable/geiser-chibi-readme.txt
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:03 packages-stable/geiser-chibi.log
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:03 packages-stable/geiser-chicken-0.16.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 11:03 packages-stable/geiser-chicken-0.16.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-chicken-badge.svg
+4.0K -rw-r--r-- 1 root root   69 Aug 17 11:03 packages-stable/geiser-chicken-readme.txt
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-chicken.log
+4.0K -rw-r--r-- 1 root root  408 Aug 17 11:03 packages-stable/geiser-gambit-0.16.entry
+140K -rw-r--r-- 1 root root 140K Aug 17 11:03 packages-stable/geiser-gambit-0.16.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-gambit-badge.svg
+4.0K -rw-r--r-- 1 root root  148 Aug 17 11:03 packages-stable/geiser-gambit-readme.txt
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-gambit.log
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:03 packages-stable/geiser-gauche-0.14.el
+4.0K -rw-r--r-- 1 root root  135 Aug 17 11:03 packages-stable/geiser-gauche-0.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-gauche-badge.svg
 4.0K -rw-r--r-- 1 root root   65 Mar 22 00:24 packages-stable/geiser-gauche-readme.txt
-4.0K -rw-r--r-- 1 root root  629 May 19 04:36 packages-stable/geiser-gauche.log
-4.0K -rw-r--r-- 1 root root  431 May 19 04:36 packages-stable/geiser-guile-0.17.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:36 packages-stable/geiser-guile-0.17.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-guile-badge.svg
-4.0K -rw-r--r-- 1 root root   69 May 19 04:36 packages-stable/geiser-guile-readme.txt
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:36 packages-stable/geiser-guile.log
-4.0K -rw-r--r-- 1 root root  452 May 19 04:36 packages-stable/geiser-kawa-0.14.entry
-140K -rw-r--r-- 1 root root 140K May 19 04:36 packages-stable/geiser-kawa-0.14.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-kawa-badge.svg
-4.0K -rw-r--r-- 1 root root   87 May 19 04:36 packages-stable/geiser-kawa-readme.txt
-4.0K -rw-r--r-- 1 root root 3.2K May 19 04:36 packages-stable/geiser-kawa.log
-4.0K -rw-r--r-- 1 root root  444 May 19 04:36 packages-stable/geiser-mit-0.14.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:36 packages-stable/geiser-mit-0.14.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-mit-badge.svg
-4.0K -rw-r--r-- 1 root root   56 May 19 04:36 packages-stable/geiser-mit-readme.txt
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:36 packages-stable/geiser-mit.log
-4.0K -rw-r--r-- 1 root root  406 May 19 04:36 packages-stable/geiser-racket-1.0.entry
- 80K -rw-r--r-- 1 root root  80K May 19 04:36 packages-stable/geiser-racket-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-racket-badge.svg
-4.0K -rw-r--r-- 1 root root   94 May 19 04:36 packages-stable/geiser-racket-readme.txt
-4.0K -rw-r--r-- 1 root root 1.7K May 19 04:36 packages-stable/geiser-racket.log
-4.0K -rw-r--r-- 1 root root 1.4K May 19 04:36 packages-stable/geiser-readme.txt
- 16K -rw-r--r-- 1 root root  14K May 19 04:36 packages-stable/geiser-stklos-1.6.el
-4.0K -rw-r--r-- 1 root root  431 May 19 01:22 packages-stable/geiser-stklos-1.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:22 packages-stable/geiser-stklos-badge.svg
-4.0K -rw-r--r-- 1 root root 1.8K May 19 01:22 packages-stable/geiser-stklos-readme.txt
-4.0K -rw-r--r-- 1 root root  203 May 19 04:36 packages-stable/geiser-stklos.log
+4.0K -rw-r--r-- 1 root root  683 Aug 17 11:03 packages-stable/geiser-gauche.log
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:03 packages-stable/geiser-guile-0.17.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:03 packages-stable/geiser-guile-0.17.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-guile-badge.svg
+4.0K -rw-r--r-- 1 root root   69 Aug 17 11:03 packages-stable/geiser-guile-readme.txt
+4.0K -rw-r--r-- 1 root root  966 Aug 17 11:03 packages-stable/geiser-guile.log
+4.0K -rw-r--r-- 1 root root  452 Aug 17 11:03 packages-stable/geiser-kawa-0.14.entry
+140K -rw-r--r-- 1 root root 140K Aug 17 11:03 packages-stable/geiser-kawa-0.14.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-kawa-badge.svg
+4.0K -rw-r--r-- 1 root root   87 Aug 17 11:03 packages-stable/geiser-kawa-readme.txt
+4.0K -rw-r--r-- 1 root root 3.3K Aug 17 11:03 packages-stable/geiser-kawa.log
+4.0K -rw-r--r-- 1 root root  444 Aug 17 07:36 packages-stable/geiser-mit-0.14.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 07:36 packages-stable/geiser-mit-0.14.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:36 packages-stable/geiser-mit-badge.svg
+4.0K -rw-r--r-- 1 root root   56 Aug 17 07:36 packages-stable/geiser-mit-readme.txt
+4.0K -rw-r--r-- 1 root root  132 Aug 17 11:03 packages-stable/geiser-mit.log
+4.0K -rw-r--r-- 1 root root  406 Aug 17 07:36 packages-stable/geiser-racket-1.0.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 07:36 packages-stable/geiser-racket-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:36 packages-stable/geiser-racket-badge.svg
+4.0K -rw-r--r-- 1 root root   94 Aug 17 07:36 packages-stable/geiser-racket-readme.txt
+4.0K -rw-r--r-- 1 root root  141 Aug 17 11:03 packages-stable/geiser-racket.log
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 11:03 packages-stable/geiser-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 07:36 packages-stable/geiser-stklos-1.6.el
+4.0K -rw-r--r-- 1 root root  431 Aug 17 07:36 packages-stable/geiser-stklos-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:36 packages-stable/geiser-stklos-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K Aug 17 07:36 packages-stable/geiser-stklos-readme.txt
+4.0K -rw-r--r-- 1 root root  141 Aug 17 11:03 packages-stable/geiser-stklos.log

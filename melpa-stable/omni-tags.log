@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/AdrieanKhisbe/omni-tags.el.git
 
 Updating /mnt/store/melpa/working/omni-tags/
+Checking out 43cb5cfe97b5a72dc1c6aac8ab7555295bd52832
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/omni-tags/
-  to /tmp/omni-tags7nR9YE/omni-tags-0.1.2
+  to /tmp/omni-tagsP6RVJK/omni-tags-0.1.2
     omni-tags-face.el -> omni-tags-face.el
     omni-tags-navigation.el -> omni-tags-navigation.el
     omni-tags-utils.el -> omni-tags-utils.el
@@ -17,9 +18,9 @@ Created omni-tags-0.1.2.tar containing:
   omni-tags-0.1.2/omni-tags-pkg.el
   omni-tags-0.1.2/omni-tags-utils.el
   omni-tags-0.1.2/omni-tags.el
-Built omni-tags in 2.910s, finished at Wed May 19 01:38:38 2021
+Built omni-tags in 3.863s, finished at 2021-08-17T11:22:23+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  420 May 19 01:38 packages-stable/omni-tags-0.1.2.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:38 packages-stable/omni-tags-0.1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/omni-tags-badge.svg
-4.0K -rw-r--r-- 1 root root  420 May 19 01:38 packages-stable/omni-tags-readme.txt
+4.0K -rw-r--r-- 1 root root  420 Aug 17 11:22 packages-stable/omni-tags-0.1.2.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:22 packages-stable/omni-tags-0.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/omni-tags-badge.svg
+4.0K -rw-r--r-- 1 root root  420 Aug 17 11:22 packages-stable/omni-tags-readme.txt

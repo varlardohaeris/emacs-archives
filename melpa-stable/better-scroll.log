@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/better-scroll.git
 
 Updating /mnt/store/melpa/working/better-scroll/
-Built better-scroll in 3.624s, finished at Wed May 19 04:21:03 2021
+Checking out eaa8dae6f048fcff773f3cca2e3113c52ad0463f
+Built better-scroll in 4.018s, finished at 2021-08-17T10:46:25+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.7K May 19 04:21 packages-stable/better-scroll-0.1.4.el
-4.0K -rw-r--r-- 1 root root  352 May 19 04:21 packages-stable/better-scroll-0.1.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:21 packages-stable/better-scroll-badge.svg
-4.0K -rw-r--r-- 1 root root   48 May 19 04:21 packages-stable/better-scroll-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K Aug 17 10:46 packages-stable/better-scroll-0.1.4.el
+4.0K -rw-r--r-- 1 root root  352 Aug 17 10:46 packages-stable/better-scroll-0.1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/better-scroll-badge.svg
+4.0K -rw-r--r-- 1 root root   48 Aug 17 10:46 packages-stable/better-scroll-readme.txt

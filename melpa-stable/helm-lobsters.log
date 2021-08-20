@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/julienXX/helm-lobste.rs.git
 
 Updating /mnt/store/melpa/working/helm-lobsters/
+Checking out 69a73e992e0d25ce749df78055e421e7e4289802
 Single file helm-lobste.rs.el does not match package name helm-lobsters

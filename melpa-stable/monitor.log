@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/GuiltyDolphin/monitor.git
 
 Updating /mnt/store/melpa/working/monitor/
+Checking out 8c67c06f60a89b2583bae90afc91a7e7d73260fd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/monitor/
-  to /tmp/monitorgM8Vgf/monitor-0.3.0
+  to /tmp/monitorTvf1YF/monitor-0.3.0
     monitor.el -> monitor.el
   ! doc/fdl-1.3.texi -> fdl-1.3.texi
   ! doc/monitor.texi -> monitor.texi
-Created /tmp/monitorgM8Vgf/monitor-0.3.0/fdl-1.3.info
-Created /tmp/monitorgM8Vgf/monitor-0.3.0/monitor.info
+Created /tmp/monitorTvf1YF/monitor-0.3.0/fdl-1.3.info
+Created /tmp/monitorTvf1YF/monitor-0.3.0/monitor.info
 Created monitor-0.3.0.tar containing:
   monitor-0.3.0/
   monitor-0.3.0/dir
@@ -18,9 +19,9 @@ Created monitor-0.3.0.tar containing:
   monitor-0.3.0/monitor-pkg.el
   monitor-0.3.0/monitor.el
   monitor-0.3.0/monitor.info
-Built monitor in 10.286s, finished at Wed May 19 01:35:58 2021
+Built monitor in 11.231s, finished at 2021-08-17T11:19:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  374 May 19 01:35 packages-stable/monitor-0.3.0.entry
- 80K -rw-r--r-- 1 root root  80K May 19 01:35 packages-stable/monitor-0.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/monitor-badge.svg
-4.0K -rw-r--r-- 1 root root  634 May 19 01:35 packages-stable/monitor-readme.txt
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:19 packages-stable/monitor-0.3.0.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 11:19 packages-stable/monitor-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/monitor-badge.svg
+4.0K -rw-r--r-- 1 root root  634 Aug 17 11:19 packages-stable/monitor-readme.txt

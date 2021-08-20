@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ocaml/tuareg.git
 
 Updating /mnt/store/melpa/working/tuareg/
+Checking out 5796f08757a6d172d628834a40ba6379f318edf5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tuareg/
-  to /tmp/tuareg9uYov6/tuareg-2.2.0
+  to /tmp/tuareg9zU9Pa/tuareg-2.2.0
     dot-emacs.el -> dot-emacs.el
     ocamldebug.el -> ocamldebug.el
     tuareg-jbuild.el -> tuareg-jbuild.el
@@ -23,9 +24,9 @@ Created tuareg-2.2.0.tar containing:
   tuareg-2.2.0/tuareg-pkg.el
   tuareg-2.2.0/tuareg-site-file.el
   tuareg-2.2.0/tuareg.el
-Built tuareg in 3.923s, finished at Wed May 19 01:53:04 2021
+Built tuareg in 3.755s, finished at 2021-08-17T11:38:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  586 May 19 01:53 packages-stable/tuareg-2.2.0.entry
-220K -rw-r--r-- 1 root root 220K May 19 01:53 packages-stable/tuareg-2.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/tuareg-badge.svg
-4.0K -rw-r--r-- 1 root root  441 May 19 01:53 packages-stable/tuareg-readme.txt
+4.0K -rw-r--r-- 1 root root  586 Aug 17 11:38 packages-stable/tuareg-2.2.0.entry
+220K -rw-r--r-- 1 root root 220K Aug 17 11:38 packages-stable/tuareg-2.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/tuareg-badge.svg
+4.0K -rw-r--r-- 1 root root  441 Aug 17 11:38 packages-stable/tuareg-readme.txt

@@ -1,0 +1,6 @@
+Package: package-loading-notifier
+Fetcher: github
+Source:  https://github.com/tttuuu888/package-loading-notifier.git
+
+Updating /mnt/store/melpa/working/package-loading-notifier/
+No valid stable versions found for package-loading-notifier

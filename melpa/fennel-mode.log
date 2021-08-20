@@ -3,9 +3,11 @@ Fetcher: gitlab
 Source:  https://gitlab.com/technomancy/fennel-mode.git
 
 Updating /mnt/store/melpa/working/fennel-mode/
-Built fennel-mode in 5.130s, finished at Wed May 19 03:20:20 2021
+Checking out origin/HEAD
+Checking out 26f7a3adeec1f84c13b8dfdefd8a1f70a5ba1aaf
+Built fennel-mode in 5.439s, finished at 2021-08-17T09:43:49+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 03:20 packages/fennel-mode-20210410.1942.el
-4.0K -rw-r--r-- 1 root root  364 May 19 03:20 packages/fennel-mode-20210410.1942.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:20 packages/fennel-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   71 May 19 03:20 packages/fennel-mode-readme.txt
+ 28K -rw-r--r-- 1 root root  26K Aug 17 09:43 packages/fennel-mode-20210811.2030.el
+4.0K -rw-r--r-- 1 root root  364 Aug 17 09:43 packages/fennel-mode-20210811.2030.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/fennel-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Aug 17 09:43 packages/fennel-mode-readme.txt

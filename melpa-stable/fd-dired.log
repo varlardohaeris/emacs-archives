@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/yqrashawn/fd-dired.git
 
 Updating /mnt/store/melpa/working/fd-dired/
-Built fd-dired in 3.640s, finished at Wed May 19 04:33:44 2021
+Checking out d90ec902f417c194e44697f73a9d6cbfd0cf7216
+Built fd-dired in 7.175s, finished at 2021-08-17T11:00:08+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.6K May 19 04:33 packages-stable/fd-dired-0.1.0.el
-4.0K -rw-r--r-- 1 root root  300 May 19 04:33 packages-stable/fd-dired-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/fd-dired-badge.svg
-4.0K -rw-r--r-- 1 root root  144 May 19 04:33 packages-stable/fd-dired-readme.txt
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 11:00 packages-stable/fd-dired-0.1.0.el
+4.0K -rw-r--r-- 1 root root  300 Aug 17 11:00 packages-stable/fd-dired-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/fd-dired-badge.svg
+4.0K -rw-r--r-- 1 root root  144 Aug 17 11:00 packages-stable/fd-dired-readme.txt

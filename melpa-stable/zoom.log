@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/cyrus-and/zoom.git
 
 Updating /mnt/store/melpa/working/zoom/
-Built zoom in 3.371s, finished at Wed May 19 01:56:52 2021
+Checking out 85694c9baa99bcf247528a6743383a3a1e5323fe
+Built zoom in 3.911s, finished at 2021-08-17T11:43:05+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 01:56 packages-stable/zoom-0.2.3.el
-4.0K -rw-r--r-- 1 root root  355 May 19 01:56 packages-stable/zoom-0.2.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zoom-badge.svg
-4.0K -rw-r--r-- 1 root root  306 May 19 01:56 packages-stable/zoom-readme.txt
- 16K -rw-r--r-- 1 root root  14K May 19 01:56 packages-stable/zoom-window-0.6.el
-4.0K -rw-r--r-- 1 root root  342 May 18 22:42 packages-stable/zoom-window-0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:42 packages-stable/zoom-window-badge.svg
-4.0K -rw-r--r-- 1 root root  157 May 18 22:42 packages-stable/zoom-window-readme.txt
-4.0K -rw-r--r-- 1 root root  144 May 19 01:56 packages-stable/zoom-window.log
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:43 packages-stable/zoom-0.2.3.el
+4.0K -rw-r--r-- 1 root root  355 Aug 17 11:43 packages-stable/zoom-0.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:43 packages-stable/zoom-badge.svg
+4.0K -rw-r--r-- 1 root root  306 Aug 17 11:43 packages-stable/zoom-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:43 packages-stable/zoom-window-0.6.el
+4.0K -rw-r--r-- 1 root root  342 Aug 17 08:18 packages-stable/zoom-window-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:18 packages-stable/zoom-window-badge.svg
+4.0K -rw-r--r-- 1 root root  157 Aug 17 08:18 packages-stable/zoom-window-readme.txt
+4.0K -rw-r--r-- 1 root root  198 Aug 17 11:43 packages-stable/zoom-window.log

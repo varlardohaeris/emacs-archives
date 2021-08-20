@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/esessoms/nofrils-theme.git
 
 Updating /mnt/store/melpa/working/nofrils-acme-theme/
-Built nofrils-acme-theme in 3.050s, finished at Wed May 19 01:37:36 2021
+Checking out 89f18231fdc393a93bd99cd629d33ec54276bbf6
+Built nofrils-acme-theme in 4.043s, finished at 2021-08-17T11:21:05+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.7K May 19 01:37 packages-stable/nofrils-acme-theme-0.1.0.el
-4.0K -rw-r--r-- 1 root root  386 May 19 01:37 packages-stable/nofrils-acme-theme-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nofrils-acme-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  236 May 19 01:37 packages-stable/nofrils-acme-theme-readme.txt
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 11:21 packages-stable/nofrils-acme-theme-0.1.0.el
+4.0K -rw-r--r-- 1 root root  386 Aug 17 11:21 packages-stable/nofrils-acme-theme-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/nofrils-acme-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  236 Aug 17 11:21 packages-stable/nofrils-acme-theme-readme.txt

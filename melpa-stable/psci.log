@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purescript-emacs/emacs-psci.git
 
 Updating /mnt/store/melpa/working/psci/
+Checking out 8c2d5a0ba604ec593f83f632b2830a87f41f84d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/psci/
-  to /tmp/psciyUgw0u/psci-0.0.6
+  to /tmp/pscinA4Gco/psci-0.0.6
     psci-dev.el -> psci-dev.el
     psci.el -> psci.el
 Created psci-0.0.6.tar containing:
@@ -13,9 +14,9 @@ Created psci-0.0.6.tar containing:
   psci-0.0.6/psci-dev.el
   psci-0.0.6/psci-pkg.el
   psci-0.0.6/psci.el
-Built psci in 3.189s, finished at Wed May 19 01:44:30 2021
+Built psci in 3.626s, finished at 2021-08-17T11:28:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  474 May 19 01:44 packages-stable/psci-0.0.6.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:44 packages-stable/psci-0.0.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/psci-badge.svg
-4.0K -rw-r--r-- 1 root root  629 May 19 01:44 packages-stable/psci-readme.txt
+4.0K -rw-r--r-- 1 root root  474 Aug 17 11:28 packages-stable/psci-0.0.6.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:28 packages-stable/psci-0.0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/psci-badge.svg
+4.0K -rw-r--r-- 1 root root  629 Aug 17 11:28 packages-stable/psci-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kisaragi-hiu/cangjie.el.git
 
 Updating /mnt/store/melpa/working/cangjie/
+Checking out b34a28dd06bd95a16b655f1917227925975314bc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cangjie/
-  to /tmp/cangjieWIMO9D/cangjie-0.7.4
+  to /tmp/cangjie9e7aZD/cangjie-0.7.4
     cangjie-practice.el -> cangjie-practice.el
     cangjie.el -> cangjie.el
 Created cangjie-0.7.4.tar containing:
@@ -13,9 +14,9 @@ Created cangjie-0.7.4.tar containing:
   cangjie-0.7.4/cangjie-pkg.el
   cangjie-0.7.4/cangjie-practice.el
   cangjie-0.7.4/cangjie.el
-Built cangjie in 3.132s, finished at Wed May 19 04:22:40 2021
+Built cangjie in 3.972s, finished at 2021-08-17T10:47:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  325 May 19 04:22 packages-stable/cangjie-0.7.4.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:22 packages-stable/cangjie-0.7.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/cangjie-badge.svg
-4.0K -rw-r--r-- 1 root root   55 May 19 04:22 packages-stable/cangjie-readme.txt
+4.0K -rw-r--r-- 1 root root  325 Aug 17 10:47 packages-stable/cangjie-0.7.4.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:47 packages-stable/cangjie-0.7.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/cangjie-badge.svg
+4.0K -rw-r--r-- 1 root root   55 Aug 17 10:47 packages-stable/cangjie-readme.txt

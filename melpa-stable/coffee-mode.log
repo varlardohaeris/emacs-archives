@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/defunkt/coffee-mode.git
 
 Updating /mnt/store/melpa/working/coffee-mode/
-Built coffee-mode in 2.965s, finished at Wed May 19 04:23:55 2021
+Checking out adfb7ae73d6ee2ef790c780dd3c967e62930e94a
+Built coffee-mode in 3.736s, finished at 2021-08-17T10:49:24+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  47K May 19 04:23 packages-stable/coffee-mode-0.6.3.el
-4.0K -rw-r--r-- 1 root root  422 May 19 04:23 packages-stable/coffee-mode-0.6.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/coffee-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  134 May 19 04:23 packages-stable/coffee-mode-readme.txt
+ 52K -rw-r--r-- 1 root root  47K Aug 17 10:49 packages-stable/coffee-mode-0.6.3.el
+4.0K -rw-r--r-- 1 root root  422 Aug 17 10:49 packages-stable/coffee-mode-0.6.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/coffee-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  134 Aug 17 10:49 packages-stable/coffee-mode-readme.txt

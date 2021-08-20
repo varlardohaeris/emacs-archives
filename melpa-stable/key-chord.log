@@ -3,3 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/key-chord.git
 
 Updating /mnt/store/melpa/working/key-chord/
+Checking out 8468998946367157830df19a1e92785d22a34178
+Built key-chord in 4.416s, finished at 2021-08-17T11:14:02+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:14 packages-stable/key-chord-0.6.el
+4.0K -rw-r--r-- 1 root root  354 Aug 17 11:14 packages-stable/key-chord-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/key-chord-badge.svg
+8.0K -rw-r--r-- 1 root root 6.7K Aug 17 11:14 packages-stable/key-chord-readme.txt

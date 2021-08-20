@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/10sr/term-run-el.git
 
 Updating /mnt/store/melpa/working/term-run/
-Built term-run in 5.737s, finished at Wed May 19 01:51:33 2021
+Checking out 54650dbbabb13cb2a6c0670ff6b24b29717a6a8b
+Built term-run in 3.543s, finished at 2021-08-17T11:37:13+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.6K May 19 01:51 packages-stable/term-run-0.1.5.el
-4.0K -rw-r--r-- 1 root root  381 May 19 01:51 packages-stable/term-run-0.1.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/term-run-badge.svg
-4.0K -rw-r--r-- 1 root root  901 May 19 01:51 packages-stable/term-run-readme.txt
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 11:37 packages-stable/term-run-0.1.5.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:37 packages-stable/term-run-0.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/term-run-badge.svg
+4.0K -rw-r--r-- 1 root root  901 Aug 17 11:37 packages-stable/term-run-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/factor/factor.git
 
 Updating /mnt/store/melpa/working/fuel/
+Checking out 7999e72aecc3c5bc4019d43dc4697f49678cc3b4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fuel/
-  to /tmp/fuelSjLiNd/fuel-0.98
+  to /tmp/fuelOOBNB8/fuel-0.98
   ! misc/fuel/factor-mode.el -> factor-mode.el
   ! misc/fuel/factor-smie.el -> factor-smie.el
   ! misc/fuel/fuel-autodoc.el -> fuel-autodoc.el
@@ -58,8 +59,8 @@ Created fuel-0.98.tar containing:
   fuel-0.98/fuel-table.el
   fuel-0.98/fuel-tests.el
   fuel-0.98/fuel-xref.el
-Built fuel in 9.898s, finished at Wed May 19 04:36:32 2021
+Built fuel in 11.354s, finished at 2021-08-17T11:03:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  193 May 19 04:36 packages-stable/fuel-0.98.entry
-212K -rw-r--r-- 1 root root 210K May 19 04:36 packages-stable/fuel-0.98.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fuel-badge.svg
+4.0K -rw-r--r-- 1 root root  193 Aug 17 11:03 packages-stable/fuel-0.98.entry
+212K -rw-r--r-- 1 root root 210K Aug 17 11:03 packages-stable/fuel-0.98.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fuel-badge.svg

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nlamirault/ripgrep.el.git
 
 Updating /mnt/store/melpa/working/ripgrep/
-Built ripgrep in 2.992s, finished at Wed May 19 01:46:52 2021
+Checking out 73595f1364f2117db49e1e4a49290bd6d430e345
+Built ripgrep in 3.867s, finished at 2021-08-17T11:31:35+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.0K May 19 01:46 packages-stable/ripgrep-0.4.0.el
-4.0K -rw-r--r-- 1 root root  415 May 19 01:46 packages-stable/ripgrep-0.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/ripgrep-badge.svg
-4.0K -rw-r--r-- 1 root root  338 May 19 01:46 packages-stable/ripgrep-readme.txt
+8.0K -rw-r--r-- 1 root root 6.0K Aug 17 11:31 packages-stable/ripgrep-0.4.0.el
+4.0K -rw-r--r-- 1 root root  415 Aug 17 11:31 packages-stable/ripgrep-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/ripgrep-badge.svg
+4.0K -rw-r--r-- 1 root root  338 Aug 17 11:31 packages-stable/ripgrep-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/ahungry/fast-scroll.git
 
 Updating /mnt/store/melpa/working/fast-scroll/
-Built fast-scroll in 4.597s, finished at Wed May 19 03:20:07 2021
+Checking out origin/HEAD
+Checking out 3f6ca0d5556fe9795b74714304564f2295dcfa24
+Built fast-scroll in 4.800s, finished at 2021-08-17T09:43:36+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.6K May 19 03:20 packages/fast-scroll-20191016.327.el
-4.0K -rw-r--r-- 1 root root  473 May 19 03:20 packages/fast-scroll-20191016.327.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:20 packages/fast-scroll-badge.svg
-4.0K -rw-r--r-- 1 root root  148 May 19 03:20 packages/fast-scroll-readme.txt
+8.0K -rw-r--r-- 1 root root 7.6K Aug 17 09:43 packages/fast-scroll-20191016.327.el
+4.0K -rw-r--r-- 1 root root  473 Aug 17 09:43 packages/fast-scroll-20191016.327.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/fast-scroll-badge.svg
+4.0K -rw-r--r-- 1 root root  148 Aug 17 09:43 packages/fast-scroll-readme.txt

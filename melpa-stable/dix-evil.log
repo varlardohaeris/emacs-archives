@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/unhammer/dix.git
 
 Updating /mnt/store/melpa/working/dix-evil/
-Built dix-evil in 2.939s, finished at Wed May 19 04:28:19 2021
+Checking out f8a0024d5be5d27d04a05518b8e361a798c29626
+Built dix-evil in 3.633s, finished at 2021-08-17T10:53:48+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 04:28 packages-stable/dix-evil-0.4.1.el
-4.0K -rw-r--r-- 1 root root  408 May 19 04:28 packages-stable/dix-evil-0.4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dix-evil-badge.svg
-4.0K -rw-r--r-- 1 root root  127 May 19 04:28 packages-stable/dix-evil-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 10:53 packages-stable/dix-evil-0.4.1.el
+4.0K -rw-r--r-- 1 root root  408 Aug 17 10:53 packages-stable/dix-evil-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dix-evil-badge.svg
+4.0K -rw-r--r-- 1 root root  127 Aug 17 10:53 packages-stable/dix-evil-readme.txt

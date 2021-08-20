@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/justbur/emacs-vdiff.git
 
 Updating /mnt/store/melpa/working/vdiff/
-Built vdiff in 2.876s, finished at Wed May 19 01:53:55 2021
+Checking out f55acdbfcbb14e463d0850cfd041614c7002669e
+Built vdiff in 3.935s, finished at 2021-08-17T11:39:36+0000
  ✓ Success:
- 80K -rw-r--r-- 1 root root  79K May 19 01:53 packages-stable/vdiff-0.2.2.el
-4.0K -rw-r--r-- 1 root root  355 May 19 01:53 packages-stable/vdiff-0.2.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/vdiff-badge.svg
- 16K -rw-r--r-- 1 root root  15K May 19 01:53 packages-stable/vdiff-magit-0.3.2.el
-4.0K -rw-r--r-- 1 root root  431 May 18 22:39 packages-stable/vdiff-magit-0.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:39 packages-stable/vdiff-magit-badge.svg
-4.0K -rw-r--r-- 1 root root   28 May 18 22:39 packages-stable/vdiff-magit-readme.txt
-4.0K -rw-r--r-- 1 root root  143 May 19 01:53 packages-stable/vdiff-magit.log
-4.0K -rw-r--r-- 1 root root 1.3K May 19 01:53 packages-stable/vdiff-readme.txt
+ 80K -rw-r--r-- 1 root root  79K Aug 17 11:39 packages-stable/vdiff-0.2.2.el
+4.0K -rw-r--r-- 1 root root  355 Aug 17 11:39 packages-stable/vdiff-0.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/vdiff-badge.svg
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:39 packages-stable/vdiff-magit-0.3.2.el
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:39 packages-stable/vdiff-magit-0.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/vdiff-magit-badge.svg
+4.0K -rw-r--r-- 1 root root   28 Aug 17 11:39 packages-stable/vdiff-magit-readme.txt
+4.0K -rw-r--r-- 1 root root  615 Aug 17 11:39 packages-stable/vdiff-magit.log
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:39 packages-stable/vdiff-readme.txt

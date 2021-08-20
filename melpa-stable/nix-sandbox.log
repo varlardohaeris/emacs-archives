@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/travisbhartwell/nix-emacs.git
 
 Updating /mnt/store/melpa/working/nix-sandbox/
+Checking out 5fc8fa29bea9dd8e9c822af92f9bc6ddc223635f
 No matching file(s) found in /mnt/store/melpa/working/nix-sandbox/: (nix-sandbox.el)

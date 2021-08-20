@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/amd-mode.el.git
 
 Updating /mnt/store/melpa/working/amd-mode/
-Built amd-mode in 3.092s, finished at Wed May 19 04:19:14 2021
+Checking out 0edf18118998c97f98257f7c1773a75af3555da2
+Built amd-mode in 4.209s, finished at 2021-08-17T10:44:02+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  23K May 19 04:19 packages-stable/amd-mode-2.8.el
-4.0K -rw-r--r-- 1 root root  568 May 19 04:19 packages-stable/amd-mode-2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/amd-mode-badge.svg
+ 24K -rw-r--r-- 1 root root  23K Aug 17 10:44 packages-stable/amd-mode-2.8.el
+4.0K -rw-r--r-- 1 root root  568 Aug 17 10:44 packages-stable/amd-mode-2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/amd-mode-badge.svg

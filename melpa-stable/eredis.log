@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/justinhj/eredis.git
 
 Updating /mnt/store/melpa/working/eredis/
-Built eredis in 2.726s, finished at Wed May 19 04:31:23 2021
+Checking out cfbfc25832f6fbc507bdd56b02e3a0b851a3c368
+Built eredis in 3.800s, finished at 2021-08-17T10:57:47+0000
  ✓ Success:
- 44K -rw-r--r-- 1 root root  44K May 19 04:31 packages-stable/eredis-0.9.6.el
-4.0K -rw-r--r-- 1 root root  365 May 19 04:31 packages-stable/eredis-0.9.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eredis-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 04:31 packages-stable/eredis-readme.txt
+ 44K -rw-r--r-- 1 root root  44K Aug 17 10:57 packages-stable/eredis-0.9.6.el
+4.0K -rw-r--r-- 1 root root  365 Aug 17 10:57 packages-stable/eredis-0.9.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/eredis-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 10:57 packages-stable/eredis-readme.txt

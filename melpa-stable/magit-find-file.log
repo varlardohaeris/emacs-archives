@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/bradwright/magit-find-file.el.git
 
 Updating /mnt/store/melpa/working/magit-find-file/
-Built magit-find-file in 3.031s, finished at Wed May 19 01:33:32 2021
+Checking out e8147beebc201b25907f6a6dd1e6cc4acdc6da44
+Built magit-find-file in 3.855s, finished at 2021-08-17T11:16:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.9K May 19 01:33 packages-stable/magit-find-file-2.1.0.el
-4.0K -rw-r--r-- 1 root root  417 May 19 01:33 packages-stable/magit-find-file-2.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-find-file-badge.svg
-4.0K -rw-r--r-- 1 root root  572 May 19 01:33 packages-stable/magit-find-file-readme.txt
+4.0K -rw-r--r-- 1 root root 2.9K Aug 17 11:16 packages-stable/magit-find-file-2.1.0.el
+4.0K -rw-r--r-- 1 root root  417 Aug 17 11:16 packages-stable/magit-find-file-2.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/magit-find-file-badge.svg
+4.0K -rw-r--r-- 1 root root  572 Aug 17 11:16 packages-stable/magit-find-file-readme.txt

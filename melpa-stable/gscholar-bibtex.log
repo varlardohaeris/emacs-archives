@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cute-jumper/gscholar-bibtex.git
 
 Updating /mnt/store/melpa/working/gscholar-bibtex/
-Built gscholar-bibtex in 6.166s, finished at Wed May 19 04:38:59 2021
+Checking out ba4ce159e385d695d8560e8b06b3cbe48424861c
+Built gscholar-bibtex in 3.747s, finished at 2021-08-17T11:06:20+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  31K May 19 04:38 packages-stable/gscholar-bibtex-0.3.3.el
-4.0K -rw-r--r-- 1 root root  338 May 19 04:38 packages-stable/gscholar-bibtex-0.3.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/gscholar-bibtex-badge.svg
-8.0K -rw-r--r-- 1 root root 4.1K May 19 04:38 packages-stable/gscholar-bibtex-readme.txt
+ 32K -rw-r--r-- 1 root root  31K Aug 17 11:06 packages-stable/gscholar-bibtex-0.3.3.el
+4.0K -rw-r--r-- 1 root root  338 Aug 17 11:06 packages-stable/gscholar-bibtex-0.3.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/gscholar-bibtex-badge.svg
+8.0K -rw-r--r-- 1 root root 4.1K Aug 17 11:06 packages-stable/gscholar-bibtex-readme.txt

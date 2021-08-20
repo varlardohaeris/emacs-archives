@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/holomorph/transmission.git
 
 Updating /mnt/store/melpa/working/transmission/
-Built transmission in 3.515s, finished at Wed May 19 01:52:40 2021
+Checking out bdd4927c51b031950b2e1701f4d8ee0e8d0b52b2
+Built transmission in 4.777s, finished at 2021-08-17T11:38:09+0000
  ✓ Success:
-104K -rw-r--r-- 1 root root 101K May 19 01:52 packages-stable/transmission-0.12.2.el
-4.0K -rw-r--r-- 1 root root  344 May 19 01:52 packages-stable/transmission-0.12.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/transmission-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 01:52 packages-stable/transmission-readme.txt
+104K -rw-r--r-- 1 root root 101K Aug 17 11:38 packages-stable/transmission-0.12.2.el
+4.0K -rw-r--r-- 1 root root  344 Aug 17 11:38 packages-stable/transmission-0.12.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/transmission-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 11:38 packages-stable/transmission-readme.txt

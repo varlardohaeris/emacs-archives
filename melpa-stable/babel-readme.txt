@@ -8,7 +8,6 @@ presents it in a special *babel* buffer. Currently the following
 backends are available:
 
  * the FOSS MT platform Apertium
- * the Babelfish service at babelfish.yahoo.com
  * the Google service at translate.google.com
  * the Transparent Language motor at FreeTranslation.com
 
@@ -55,7 +54,7 @@ following lines to your ~/.emacs.el initialization file:
   (autoload 'babel-buffer "babel"
     "Use a web translation service to translate the current buffer." t)
 
-babel.el requires emacs >= 22
+babel.el requires emacs >= 23
 
 
 Backend information =================================================
@@ -97,10 +96,13 @@ User quotes: Dieses ist die größte Sache seit geschnittenem Brot.
                 -- Stainless Steel Rat <ratinox@peorth.gweep.net>
 
 ; History
+
+   Discontinued Log (Use GIT: git://github.com/juergenhoetzel/babel.git)
+
    1.4 * `babel-region' now yank the translation instead insert him at
          point.
 
-   1.3 * Added new Google languages
+   1.3 n* Added new Google languages
 
    1.2 * Added FOSS MT platform Apertium
         (by Kevin Brubeck Unhammer)
@@ -153,7 +155,7 @@ User quotes: Dieses ist die größte Sache seit geschnittenem Brot.
 
 TODO:
 
-* Use google xml output
+* select multiple engines at once
 
 * Adjust output window height. Current versions use
  `with-current-buffer' instead `with-output-to-temp-buffer'. So

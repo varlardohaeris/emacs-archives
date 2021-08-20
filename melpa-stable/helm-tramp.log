@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/masasam/emacs-helm-tramp.git
 
 Updating /mnt/store/melpa/working/helm-tramp/
-Built helm-tramp in 3.413s, finished at Wed May 19 04:41:21 2021
+Checking out 924b5516270b3933e847562e8e14e3888dd24184
+Built helm-tramp in 3.862s, finished at 2021-08-17T11:09:18+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.3K May 19 04:41 packages-stable/helm-tramp-1.3.9.el
-4.0K -rw-r--r-- 1 root root  364 May 19 04:41 packages-stable/helm-tramp-1.3.9.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-tramp-badge.svg
-4.0K -rw-r--r-- 1 root root  247 May 19 04:41 packages-stable/helm-tramp-readme.txt
+ 12K -rw-r--r-- 1 root root 8.3K Aug 17 11:09 packages-stable/helm-tramp-1.3.9.el
+4.0K -rw-r--r-- 1 root root  364 Aug 17 11:09 packages-stable/helm-tramp-1.3.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/helm-tramp-badge.svg
+4.0K -rw-r--r-- 1 root root  247 Aug 17 11:09 packages-stable/helm-tramp-readme.txt

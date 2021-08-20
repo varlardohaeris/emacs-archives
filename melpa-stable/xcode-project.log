@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nhojb/xcode-project.git
 
 Updating /mnt/store/melpa/working/xcode-project/
+Checking out f5548a26a1afc0b0d873556c25f6d8b6b9c2aa8c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/xcode-project/
-  to /tmp/xcode-projectlIXhCa/xcode-project-1.0.0
+  to /tmp/xcode-projectsCXuOe/xcode-project-1.0.0
     xcode-parser.el -> xcode-parser.el
     xcode-project.el -> xcode-project.el
 Created xcode-project-1.0.0.tar containing:
@@ -13,9 +14,9 @@ Created xcode-project-1.0.0.tar containing:
   xcode-project-1.0.0/xcode-parser.el
   xcode-project-1.0.0/xcode-project-pkg.el
   xcode-project-1.0.0/xcode-project.el
-Built xcode-project in 3.072s, finished at Wed May 19 01:55:55 2021
+Built xcode-project in 4.166s, finished at 2021-08-17T11:42:04+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  374 May 19 01:55 packages-stable/xcode-project-1.0.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:55 packages-stable/xcode-project-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/xcode-project-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:55 packages-stable/xcode-project-readme.txt
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:42 packages-stable/xcode-project-1.0.0.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:42 packages-stable/xcode-project-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/xcode-project-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:42 packages-stable/xcode-project-readme.txt

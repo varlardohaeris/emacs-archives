@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/stacked-git/stgit.git
 
 Updating /mnt/store/melpa/working/stgit/
-Built stgit in 5.076s, finished at Wed May 19 04:07:13 2021
+Checking out origin/HEAD
+Checking out 1b2058a91b7ed920952ea99b5140c60b8c7cdd1b
+Built stgit in 7.220s, finished at 2021-08-17T13:58:02+0000
  ✓ Success:
-120K -rw-r--r-- 1 root root 117K May 19 04:07 packages/stgit-20200606.1308.el
-4.0K -rw-r--r-- 1 root root  302 May 19 04:07 packages/stgit-20200606.1308.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:07 packages/stgit-badge.svg
-4.0K -rw-r--r-- 1 root root  733 May 19 04:07 packages/stgit-readme.txt
+120K -rw-r--r-- 1 root root 117K Aug 17 13:58 packages/stgit-20200606.1308.el
+4.0K -rw-r--r-- 1 root root  302 Aug 17 13:58 packages/stgit-20200606.1308.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 13:58 packages/stgit-badge.svg
+4.0K -rw-r--r-- 1 root root  733 Aug 17 13:58 packages/stgit-readme.txt

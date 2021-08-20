@@ -3,9 +3,11 @@ Fetcher: gitlab
 Source:  https://gitlab.com/jgkamat/bpftrace-mode.git
 
 Updating /mnt/store/melpa/working/bpftrace-mode/
-Built bpftrace-mode in 4.907s, finished at Wed May 19 03:02:52 2021
+Checking out origin/HEAD
+Checking out 181065e1f9ab4ec7096bafffe6818b0d7f5362b1
+Built bpftrace-mode in 9.980s, finished at 2021-08-17T09:25:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.8K May 19 03:02 packages/bpftrace-mode-20190608.2201.el
-4.0K -rw-r--r-- 1 root root  376 May 19 03:02 packages/bpftrace-mode-20190608.2201.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:02 packages/bpftrace-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  175 May 19 03:02 packages/bpftrace-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 3.8K Aug 17 09:25 packages/bpftrace-mode-20190608.2201.el
+4.0K -rw-r--r-- 1 root root  376 Aug 17 09:25 packages/bpftrace-mode-20190608.2201.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:25 packages/bpftrace-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  175 Aug 17 09:25 packages/bpftrace-mode-readme.txt

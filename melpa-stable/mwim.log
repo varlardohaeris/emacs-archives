@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alezost/mwim.el.git
 
 Updating /mnt/store/melpa/working/mwim/
-Built mwim in 4.684s, finished at Wed May 19 01:36:47 2021
+Checking out 462207227b98a6a4356d51419f5ad5ba9356e5cf
+Built mwim in 4.069s, finished at 2021-08-17T11:20:09+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 01:36 packages-stable/mwim-0.4.el
-4.0K -rw-r--r-- 1 root root  329 May 19 01:36 packages-stable/mwim-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mwim-badge.svg
-4.0K -rw-r--r-- 1 root root  918 May 19 01:36 packages-stable/mwim-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 11:20 packages-stable/mwim-0.4.el
+4.0K -rw-r--r-- 1 root root  329 Aug 17 11:20 packages-stable/mwim-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/mwim-badge.svg
+4.0K -rw-r--r-- 1 root root  918 Aug 17 11:20 packages-stable/mwim-readme.txt

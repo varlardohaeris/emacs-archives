@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/mkjunker/abc-mode.git
 
 Updating /mnt/store/melpa/working/abc-mode/
-Built abc-mode in 4.216s, finished at Wed May 19 02:57:32 2021
+Checking out origin/HEAD
+Checking out 80fa954787b57d14e21e19bd65e52abab1686f4a
+Built abc-mode in 9.177s, finished at 2021-08-17T09:19:48+0000
  ✓ Success:
- 56K -rwxr-xr-x 1 root root  56K May 19 02:57 packages/abc-mode-20210508.1552.el
-4.0K -rw-r--r-- 1 root root  314 May 19 02:57 packages/abc-mode-20210508.1552.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 02:57 packages/abc-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  290 May 19 02:57 packages/abc-mode-readme.txt
+ 60K -rwxr-xr-x 1 root root  56K Aug 17 09:19 packages/abc-mode-20210508.1552.el
+4.0K -rw-r--r-- 1 root root  314 Aug 17 09:19 packages/abc-mode-20210508.1552.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:19 packages/abc-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  290 Aug 17 09:19 packages/abc-mode-readme.txt

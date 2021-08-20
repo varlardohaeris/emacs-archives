@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/khardel.git
 
 Updating /mnt/store/melpa/working/khardel/
+Checking out e2876d93c9340944c34dc935ffc6e31ba48cd290
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/khardel/
-  to /tmp/khardelMTG2u6/khardel-0.2.0
+  to /tmp/khardelGQrmKc/khardel-0.2.0
     khardel-org.el -> khardel-org.el
     khardel.el -> khardel.el
 Created khardel-0.2.0.tar containing:
@@ -13,9 +14,9 @@ Created khardel-0.2.0.tar containing:
   khardel-0.2.0/khardel-org.el
   khardel-0.2.0/khardel-pkg.el
   khardel-0.2.0/khardel.el
-Built khardel in 2.643s, finished at Wed May 19 01:31:18 2021
+Built khardel in 3.467s, finished at 2021-08-17T11:14:14+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  344 May 19 01:31 packages-stable/khardel-0.2.0.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:31 packages-stable/khardel-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/khardel-badge.svg
-4.0K -rw-r--r-- 1 root root  105 May 19 01:31 packages-stable/khardel-readme.txt
+4.0K -rw-r--r-- 1 root root  344 Aug 17 11:14 packages-stable/khardel-0.2.0.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:14 packages-stable/khardel-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/khardel-badge.svg
+4.0K -rw-r--r-- 1 root root  105 Aug 17 11:14 packages-stable/khardel-readme.txt

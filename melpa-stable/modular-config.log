@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/SidharthArya/modular-config.el.git
 
 Updating /mnt/store/melpa/working/modular-config/
-Single file modules.el does not match package name modular-config
+Checking out 3c78fde6b7c53857c712408691427536d3c891bc
+Built modular-config in 8.025s, finished at 2021-08-17T11:19:03+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K Aug 17 11:19 packages-stable/modular-config-0.0.5.el
+4.0K -rw-r--r-- 1 root root  417 Aug 17 11:19 packages-stable/modular-config-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/modular-config-badge.svg
+4.0K -rw-r--r-- 1 root root  336 Aug 17 11:19 packages-stable/modular-config-readme.txt

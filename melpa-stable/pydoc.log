@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/statmobile/pydoc.git
 
 Updating /mnt/store/melpa/working/pydoc/
-Built pydoc in 3.218s, finished at Wed May 19 01:44:47 2021
+Checking out 5392248e33d83ef05d3b2809b0c6b207786b2644
+Built pydoc in 3.530s, finished at 2021-08-17T11:29:18+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  28K May 19 01:44 packages-stable/pydoc-0.1.el
-4.0K -rw-r--r-- 1 root root  344 May 19 01:44 packages-stable/pydoc-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pydoc-badge.svg
-4.0K -rw-r--r-- 1 root root  983 May 19 01:44 packages-stable/pydoc-readme.txt
+ 28K -rw-r--r-- 1 root root  28K Aug 17 11:29 packages-stable/pydoc-0.1.el
+4.0K -rw-r--r-- 1 root root  344 Aug 17 11:29 packages-stable/pydoc-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/pydoc-badge.svg
+4.0K -rw-r--r-- 1 root root  983 Aug 17 11:29 packages-stable/pydoc-readme.txt

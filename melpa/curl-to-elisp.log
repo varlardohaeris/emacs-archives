@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/xuchunyang/curl-to-elisp.git
 
 Updating /mnt/store/melpa/working/curl-to-elisp/
-Built curl-to-elisp in 4.175s, finished at Wed May 19 03:09:17 2021
+Checking out origin/HEAD
+Checking out 63d8d9c6d5efb8af8aa88042bfc0690ba699ef64
+Built curl-to-elisp in 5.103s, finished at 2021-08-17T09:32:01+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 03:09 packages/curl-to-elisp-20201124.1012.el
-4.0K -rw-r--r-- 1 root root  322 May 19 03:09 packages/curl-to-elisp-20201124.1012.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:09 packages/curl-to-elisp-badge.svg
-4.0K -rw-r--r-- 1 root root  103 May 19 03:09 packages/curl-to-elisp-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 09:32 packages/curl-to-elisp-20201124.1012.el
+4.0K -rw-r--r-- 1 root root  322 Aug 17 09:32 packages/curl-to-elisp-20201124.1012.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:32 packages/curl-to-elisp-badge.svg
+4.0K -rw-r--r-- 1 root root  103 Aug 17 09:32 packages/curl-to-elisp-readme.txt

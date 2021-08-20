@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mattfidler/extend-dnd.git
 
 Updating /mnt/store/melpa/working/extend-dnd/
+Checking out 6f6abba43a22e7ac1d4350dca41c44cdb89069ff
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/extend-dnd/
-  to /tmp/extend-dndDphyhy/extend-dnd-0.5
+  to /tmp/extend-dndJm3ETC/extend-dnd-0.5
     extend-dnd.el -> extend-dnd.el
     dir -> dir
     extend-dnd.info -> extend-dnd.info
@@ -15,9 +16,9 @@ Created extend-dnd-0.5.tar containing:
   extend-dnd-0.5/extend-dnd-pkg.el
   extend-dnd-0.5/extend-dnd.el
   extend-dnd-0.5/extend-dnd.info
-Built extend-dnd in 6.005s, finished at Wed May 19 04:33:08 2021
+Built extend-dnd in 3.686s, finished at 2021-08-17T10:59:41+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  313 May 19 04:33 packages-stable/extend-dnd-0.5.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:33 packages-stable/extend-dnd-0.5.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/extend-dnd-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 04:33 packages-stable/extend-dnd-readme.txt
+4.0K -rw-r--r-- 1 root root  313 Aug 17 10:59 packages-stable/extend-dnd-0.5.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:59 packages-stable/extend-dnd-0.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/extend-dnd-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 10:59 packages-stable/extend-dnd-readme.txt

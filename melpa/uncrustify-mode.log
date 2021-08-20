@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/koko1000ban/emacs-uncrustify-mode.git
 
 Updating /mnt/store/melpa/working/uncrustify-mode/
-Built uncrustify-mode in 4.972s, finished at Wed May 19 04:12:06 2021
+Checking out origin/HEAD
+Checking out 73893d000361e95784911e5ec268ad0ab2a1473c
+Built uncrustify-mode in 4.756s, finished at 2021-08-17T14:02:36+0000
  ✓ Success:
-8.0K -rwxr-xr-x 1 root root 5.5K May 19 04:12 packages/uncrustify-mode-20130707.1359.el
-4.0K -rw-r--r-- 1 root root  316 May 19 04:12 packages/uncrustify-mode-20130707.1359.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:12 packages/uncrustify-mode-badge.svg
+8.0K -rwxr-xr-x 1 root root 5.5K Aug 17 14:02 packages/uncrustify-mode-20130707.1359.el
+4.0K -rw-r--r-- 1 root root  316 Aug 17 14:02 packages/uncrustify-mode-20130707.1359.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:02 packages/uncrustify-mode-badge.svg

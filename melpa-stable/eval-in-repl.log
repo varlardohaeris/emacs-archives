@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kaz-yos/eval-in-repl.git
 
 Updating /mnt/store/melpa/working/eval-in-repl/
+Checking out c8e5f31a2476c922857d921e367b6a2320ce5a6f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eval-in-repl/
-  to /tmp/eval-in-repl5gmZP3/eval-in-repl-0.9.7
+  to /tmp/eval-in-replVeOE4C/eval-in-repl-0.9.7
     eval-in-repl-cider.el -> eval-in-repl-cider.el
     eval-in-repl-elm.el -> eval-in-repl-elm.el
     eval-in-repl-erlang.el -> eval-in-repl-erlang.el
@@ -50,9 +51,9 @@ Created eval-in-repl-0.9.7.tar containing:
   eval-in-repl-0.9.7/eval-in-repl-sly.el
   eval-in-repl-0.9.7/eval-in-repl-sml.el
   eval-in-repl-0.9.7/eval-in-repl.el
-Built eval-in-repl in 3.035s, finished at Wed May 19 04:31:59 2021
+Built eval-in-repl in 3.673s, finished at 2021-08-17T10:58:31+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  470 May 19 04:31 packages-stable/eval-in-repl-0.9.7.entry
- 80K -rw-r--r-- 1 root root  80K May 19 04:31 packages-stable/eval-in-repl-0.9.7.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eval-in-repl-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 04:31 packages-stable/eval-in-repl-readme.txt
+4.0K -rw-r--r-- 1 root root  470 Aug 17 10:58 packages-stable/eval-in-repl-0.9.7.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 10:58 packages-stable/eval-in-repl-0.9.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/eval-in-repl-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 10:58 packages-stable/eval-in-repl-readme.txt

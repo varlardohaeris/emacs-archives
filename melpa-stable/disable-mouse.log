@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/disable-mouse.git
 
 Updating /mnt/store/melpa/working/disable-mouse/
-Built disable-mouse in 2.883s, finished at Wed May 19 04:28:11 2021
+Checking out 81639930bcaeedadbcc19728e91719afcac84613
+Built disable-mouse in 3.791s, finished at 2021-08-17T10:53:38+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 04:28 packages-stable/disable-mouse-0.3.el
-4.0K -rw-r--r-- 1 root root  335 May 19 04:28 packages-stable/disable-mouse-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/disable-mouse-badge.svg
-4.0K -rw-r--r-- 1 root root  202 May 19 04:28 packages-stable/disable-mouse-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 10:53 packages-stable/disable-mouse-0.3.el
+4.0K -rw-r--r-- 1 root root  335 Aug 17 10:53 packages-stable/disable-mouse-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/disable-mouse-badge.svg
+4.0K -rw-r--r-- 1 root root  202 Aug 17 10:53 packages-stable/disable-mouse-readme.txt

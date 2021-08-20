@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rocky/emacs-load-relative.git
 
 Updating /mnt/store/melpa/working/load-relative/
+Checking out 5055bfd80644e306aef4e7a7e3e9e5d765b691a4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/load-relative/
-  to /tmp/load-relativedcnwQU/load-relative-1.3.1
+  to /tmp/load-relativeqbwQkm/load-relative-1.3.1
     el-get-install.el -> el-get-install.el
     load-relative.el -> load-relative.el
 Created load-relative-1.3.1.tar containing:
@@ -13,9 +14,9 @@ Created load-relative-1.3.1.tar containing:
   load-relative-1.3.1/el-get-install.el
   load-relative-1.3.1/load-relative-pkg.el
   load-relative-1.3.1/load-relative.el
-Built load-relative in 3.009s, finished at Wed May 19 01:32:44 2021
+Built load-relative in 3.735s, finished at 2021-08-17T11:15:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  355 May 19 01:32 packages-stable/load-relative-1.3.1.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:32 packages-stable/load-relative-1.3.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/load-relative-badge.svg
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:32 packages-stable/load-relative-readme.txt
+4.0K -rw-r--r-- 1 root root  355 Aug 17 11:15 packages-stable/load-relative-1.3.1.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:15 packages-stable/load-relative-1.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/load-relative-badge.svg
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:15 packages-stable/load-relative-readme.txt

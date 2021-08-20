@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/organize-imports-java.git
 
 Updating /mnt/store/melpa/working/organize-imports-java/
+Checking out 6e0b1d094bc624a895d198874a8a423dfc033247
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/organize-imports-java/
-  to /tmp/organize-imports-javaCJktbm/organize-imports-java-0.3.0
+  to /tmp/organize-imports-javaeAmh2Q/organize-imports-java-0.3.0
     organize-imports-java.el -> organize-imports-java.el
     sdk => sdk
     default => default
@@ -36,10 +37,10 @@ Created organize-imports-java-0.3.0.tar containing:
   organize-imports-java-0.3.0/sdk/jre/lib/resources.jar
   organize-imports-java-0.3.0/sdk/jre/lib/rt.jar
   organize-imports-java-0.3.0/sdk/version.txt
-Built organize-imports-java in 6.195s, finished at Wed May 19 01:40:58 2021
+Built organize-imports-java in 8.600s, finished at 2021-08-17T11:24:53+0000
  ✓ Success:
  36K -rw-r--r-- 1 root root  36K Sep 14  2020 packages-stable/organize-imports-java-0.2.1.el
-4.0K -rw-r--r-- 1 root root  461 May 19 01:40 packages-stable/organize-imports-java-0.3.0.entry
- 88M -rw-r--r-- 1 root root  88M May 19 01:40 packages-stable/organize-imports-java-0.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/organize-imports-java-badge.svg
-4.0K -rw-r--r-- 1 root root  185 May 19 01:40 packages-stable/organize-imports-java-readme.txt
+4.0K -rw-r--r-- 1 root root  461 Aug 17 11:24 packages-stable/organize-imports-java-0.3.0.entry
+ 88M -rw-r--r-- 1 root root  88M Aug 17 11:24 packages-stable/organize-imports-java-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/organize-imports-java-badge.svg
+4.0K -rw-r--r-- 1 root root  185 Aug 17 11:24 packages-stable/organize-imports-java-readme.txt

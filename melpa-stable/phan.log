@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-php/phan.el.git
 
 Updating /mnt/store/melpa/working/phan/
-Built phan in 3.097s, finished at Wed May 19 01:42:41 2021
+Checking out 6b077b3421a0b2c0b98a6906b8ab0d14d9d7bf50
+Built phan in 3.720s, finished at 2021-08-17T11:26:55+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 01:42 packages-stable/phan-0.0.4.el
-4.0K -rw-r--r-- 1 root root  391 May 19 01:42 packages-stable/phan-0.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phan-badge.svg
-4.0K -rw-r--r-- 1 root root  287 May 19 01:42 packages-stable/phan-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:26 packages-stable/phan-0.0.4.el
+4.0K -rw-r--r-- 1 root root  391 Aug 17 11:26 packages-stable/phan-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/phan-badge.svg
+4.0K -rw-r--r-- 1 root root  287 Aug 17 11:26 packages-stable/phan-readme.txt

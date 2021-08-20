@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/sagemath/ob-sagemath.git
 
 Updating /mnt/store/melpa/working/ob-sagemath/
+Checking out 450d510a5eb1fd644d0037e9f02271ca33639fb0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-sagemath/
-  to /tmp/ob-sagemathiL7WzF/ob-sagemath-0.4
+  to /tmp/ob-sagemath1Cb9cY/ob-sagemath-0.4
     ob-sagemath.el -> ob-sagemath.el
     emacs_ob_sagemath.py -> emacs_ob_sagemath.py
 Created ob-sagemath-0.4.tar containing:
@@ -13,9 +14,9 @@ Created ob-sagemath-0.4.tar containing:
   ob-sagemath-0.4/emacs_ob_sagemath.py
   ob-sagemath-0.4/ob-sagemath-pkg.el
   ob-sagemath-0.4/ob-sagemath.el
-Built ob-sagemath in 2.763s, finished at Wed May 19 01:38:18 2021
+Built ob-sagemath in 5.170s, finished at 2021-08-17T11:21:58+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  461 May 19 01:38 packages-stable/ob-sagemath-0.4.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:38 packages-stable/ob-sagemath-0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-sagemath-badge.svg
-4.0K -rw-r--r-- 1 root root  128 May 19 01:38 packages-stable/ob-sagemath-readme.txt
+4.0K -rw-r--r-- 1 root root  461 Aug 17 11:21 packages-stable/ob-sagemath-0.4.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:21 packages-stable/ob-sagemath-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/ob-sagemath-badge.svg
+4.0K -rw-r--r-- 1 root root  128 Aug 17 11:21 packages-stable/ob-sagemath-readme.txt

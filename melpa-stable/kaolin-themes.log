@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ogdenwebb/emacs-kaolin-themes.git
 
 Updating /mnt/store/melpa/working/kaolin-themes/
+Checking out 1e6d02784a1c1e9f537b45aa487ee16885283b60
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kaolin-themes/
-  to /tmp/kaolin-themesyoqXhF/kaolin-themes-1.6.4
+  to /tmp/kaolin-themesv7deEw/kaolin-themes-1.6.5
     kaolin-themes-lib.el -> kaolin-themes-lib.el
     kaolin-themes-treemacs.el -> kaolin-themes-treemacs.el
     kaolin-themes.el -> kaolin-themes.el
@@ -24,30 +25,30 @@ Copying files (->) and directories (=>)
   ! themes/kaolin-temple-theme.el -> kaolin-temple-theme.el
   ! themes/kaolin-valley-dark-theme.el -> kaolin-valley-dark-theme.el
   ! themes/kaolin-valley-light-theme.el -> kaolin-valley-light-theme.el
-Created kaolin-themes-1.6.4.tar containing:
-  kaolin-themes-1.6.4/
-  kaolin-themes-1.6.4/kaolin-aurora-theme.el
-  kaolin-themes-1.6.4/kaolin-blossom-theme.el
-  kaolin-themes-1.6.4/kaolin-breeze-theme.el
-  kaolin-themes-1.6.4/kaolin-bubblegum-theme.el
-  kaolin-themes-1.6.4/kaolin-dark-theme.el
-  kaolin-themes-1.6.4/kaolin-eclipse-theme.el
-  kaolin-themes-1.6.4/kaolin-galaxy-theme.el
-  kaolin-themes-1.6.4/kaolin-light-theme.el
-  kaolin-themes-1.6.4/kaolin-mono-dark-theme.el
-  kaolin-themes-1.6.4/kaolin-mono-light-theme.el
-  kaolin-themes-1.6.4/kaolin-ocean-theme.el
-  kaolin-themes-1.6.4/kaolin-shiva-theme.el
-  kaolin-themes-1.6.4/kaolin-temple-theme.el
-  kaolin-themes-1.6.4/kaolin-themes-lib.el
-  kaolin-themes-1.6.4/kaolin-themes-pkg.el
-  kaolin-themes-1.6.4/kaolin-themes-treemacs.el
-  kaolin-themes-1.6.4/kaolin-themes.el
-  kaolin-themes-1.6.4/kaolin-valley-dark-theme.el
-  kaolin-themes-1.6.4/kaolin-valley-light-theme.el
-Built kaolin-themes in 3.471s, finished at Wed May 19 04:45:30 2021
+Created kaolin-themes-1.6.5.tar containing:
+  kaolin-themes-1.6.5/
+  kaolin-themes-1.6.5/kaolin-aurora-theme.el
+  kaolin-themes-1.6.5/kaolin-blossom-theme.el
+  kaolin-themes-1.6.5/kaolin-breeze-theme.el
+  kaolin-themes-1.6.5/kaolin-bubblegum-theme.el
+  kaolin-themes-1.6.5/kaolin-dark-theme.el
+  kaolin-themes-1.6.5/kaolin-eclipse-theme.el
+  kaolin-themes-1.6.5/kaolin-galaxy-theme.el
+  kaolin-themes-1.6.5/kaolin-light-theme.el
+  kaolin-themes-1.6.5/kaolin-mono-dark-theme.el
+  kaolin-themes-1.6.5/kaolin-mono-light-theme.el
+  kaolin-themes-1.6.5/kaolin-ocean-theme.el
+  kaolin-themes-1.6.5/kaolin-shiva-theme.el
+  kaolin-themes-1.6.5/kaolin-temple-theme.el
+  kaolin-themes-1.6.5/kaolin-themes-lib.el
+  kaolin-themes-1.6.5/kaolin-themes-pkg.el
+  kaolin-themes-1.6.5/kaolin-themes-treemacs.el
+  kaolin-themes-1.6.5/kaolin-themes.el
+  kaolin-themes-1.6.5/kaolin-valley-dark-theme.el
+  kaolin-themes-1.6.5/kaolin-valley-light-theme.el
+Built kaolin-themes in 4.170s, finished at 2021-08-17T11:13:55+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  465 May 19 04:45 packages-stable/kaolin-themes-1.6.4.entry
-180K -rw-r--r-- 1 root root 180K May 19 04:45 packages-stable/kaolin-themes-1.6.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/kaolin-themes-badge.svg
-4.0K -rw-r--r-- 1 root root 2.0K May 19 04:45 packages-stable/kaolin-themes-readme.txt
+4.0K -rw-r--r-- 1 root root  465 Aug 17 11:13 packages-stable/kaolin-themes-1.6.5.entry
+192K -rw-r--r-- 1 root root 190K Aug 17 11:13 packages-stable/kaolin-themes-1.6.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/kaolin-themes-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 11:13 packages-stable/kaolin-themes-readme.txt

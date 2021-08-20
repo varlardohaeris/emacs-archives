@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/takaxp/org-tree-slide.git
 
 Updating /mnt/store/melpa/working/org-tree-slide/
-Built org-tree-slide in 6.362s, finished at Wed May 19 01:40:40 2021
+Checking out dccd80418a4444df5e8301695ff0d0dfe86a3c21
+Built org-tree-slide in 7.210s, finished at 2021-08-17T11:24:22+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  30K May 19 01:40 packages-stable/org-tree-slide-2.8.4.el
-4.0K -rw-r--r-- 1 root root  322 May 19 01:40 packages-stable/org-tree-slide-2.8.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-tree-slide-badge.svg
- 12K -rw-r--r-- 1 root root  11K May 18 22:26 packages-stable/org-tree-slide-pauses-0.1.0.el
-4.0K -rw-r--r-- 1 root root  409 May 18 22:26 packages-stable/org-tree-slide-pauses-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:26 packages-stable/org-tree-slide-pauses-badge.svg
-4.0K -rw-r--r-- 1 root root  769 May 18 22:26 packages-stable/org-tree-slide-pauses-readme.txt
-4.0K -rw-r--r-- 1 root root  170 May 19 01:40 packages-stable/org-tree-slide-pauses.log
-4.0K -rw-r--r-- 1 root root 1.3K May 19 01:40 packages-stable/org-tree-slide-readme.txt
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:24 packages-stable/org-tree-slide-2.8.4.el
+4.0K -rw-r--r-- 1 root root  322 Aug 17 11:24 packages-stable/org-tree-slide-2.8.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/org-tree-slide-badge.svg
+ 12K -rw-r--r-- 1 root root  11K Aug 17 07:58 packages-stable/org-tree-slide-pauses-0.1.0.el
+4.0K -rw-r--r-- 1 root root  409 Aug 17 07:58 packages-stable/org-tree-slide-pauses-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:58 packages-stable/org-tree-slide-pauses-badge.svg
+4.0K -rw-r--r-- 1 root root  769 Aug 17 07:58 packages-stable/org-tree-slide-pauses-readme.txt
+4.0K -rw-r--r-- 1 root root  170 Aug 17 11:24 packages-stable/org-tree-slide-pauses.log
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:24 packages-stable/org-tree-slide-readme.txt

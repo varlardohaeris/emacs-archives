@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/andras-simonyi/citeproc-el.git
 
 Updating /mnt/store/melpa/working/citeproc/
+Checking out 15034f1706cc9eb0ef97dfeeb7884da2a43b88a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citeproc/
-  to /tmp/citeprocXXZprc/citeproc-0.1.2
+  to /tmp/citeprocrqiYmb/citeproc-0.9
+    citeproc-biblatex.el -> citeproc-biblatex.el
     citeproc-bibtex.el -> citeproc-bibtex.el
     citeproc-choose.el -> citeproc-choose.el
     citeproc-cite.el -> citeproc-cite.el
@@ -28,41 +30,44 @@ Copying files (->) and directories (=>)
     citeproc-sort.el -> citeproc-sort.el
     citeproc-style.el -> citeproc-style.el
     citeproc-term.el -> citeproc-term.el
+    citeproc-test-human.el -> citeproc-test-human.el
     citeproc.el -> citeproc.el
-Created citeproc-0.1.2.tar containing:
-  citeproc-0.1.2/
-  citeproc-0.1.2/citeproc-bibtex.el
-  citeproc-0.1.2/citeproc-choose.el
-  citeproc-0.1.2/citeproc-cite.el
-  citeproc-0.1.2/citeproc-context.el
-  citeproc-0.1.2/citeproc-date.el
-  citeproc-0.1.2/citeproc-disamb.el
-  citeproc-0.1.2/citeproc-formatters.el
-  citeproc-0.1.2/citeproc-generic-elements.el
-  citeproc-0.1.2/citeproc-itemdata.el
-  citeproc-0.1.2/citeproc-itemgetters.el
-  citeproc-0.1.2/citeproc-lib.el
-  citeproc-0.1.2/citeproc-locale.el
-  citeproc-0.1.2/citeproc-macro.el
-  citeproc-0.1.2/citeproc-name.el
-  citeproc-0.1.2/citeproc-number.el
-  citeproc-0.1.2/citeproc-pkg.el
-  citeproc-0.1.2/citeproc-prange.el
-  citeproc-0.1.2/citeproc-proc.el
-  citeproc-0.1.2/citeproc-rt.el
-  citeproc-0.1.2/citeproc-s.el
-  citeproc-0.1.2/citeproc-sort.el
-  citeproc-0.1.2/citeproc-style.el
-  citeproc-0.1.2/citeproc-term.el
-  citeproc-0.1.2/citeproc.el
-Built citeproc in 3.590s, finished at Wed May 19 04:23:23 2021
+Created citeproc-0.9.tar containing:
+  citeproc-0.9/
+  citeproc-0.9/citeproc-biblatex.el
+  citeproc-0.9/citeproc-bibtex.el
+  citeproc-0.9/citeproc-choose.el
+  citeproc-0.9/citeproc-cite.el
+  citeproc-0.9/citeproc-context.el
+  citeproc-0.9/citeproc-date.el
+  citeproc-0.9/citeproc-disamb.el
+  citeproc-0.9/citeproc-formatters.el
+  citeproc-0.9/citeproc-generic-elements.el
+  citeproc-0.9/citeproc-itemdata.el
+  citeproc-0.9/citeproc-itemgetters.el
+  citeproc-0.9/citeproc-lib.el
+  citeproc-0.9/citeproc-locale.el
+  citeproc-0.9/citeproc-macro.el
+  citeproc-0.9/citeproc-name.el
+  citeproc-0.9/citeproc-number.el
+  citeproc-0.9/citeproc-pkg.el
+  citeproc-0.9/citeproc-prange.el
+  citeproc-0.9/citeproc-proc.el
+  citeproc-0.9/citeproc-rt.el
+  citeproc-0.9/citeproc-s.el
+  citeproc-0.9/citeproc-sort.el
+  citeproc-0.9/citeproc-style.el
+  citeproc-0.9/citeproc-term.el
+  citeproc-0.9/citeproc-test-human.el
+  citeproc-0.9/citeproc.el
+Built citeproc in 4.327s, finished at 2021-08-17T10:48:48+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  533 May 19 04:23 packages-stable/citeproc-0.1.2.entry
-212K -rw-r--r-- 1 root root 210K May 19 04:23 packages-stable/citeproc-0.1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/citeproc-badge.svg
-4.0K -rw-r--r-- 1 root root  517 May 19 01:08 packages-stable/citeproc-org-0.2.4.entry
- 72K -rw-r--r-- 1 root root  70K May 19 01:08 packages-stable/citeproc-org-0.2.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:08 packages-stable/citeproc-org-badge.svg
-4.0K -rw-r--r-- 1 root root  177 May 19 01:08 packages-stable/citeproc-org-readme.txt
-4.0K -rw-r--r-- 1 root root  469 May 19 04:23 packages-stable/citeproc-org.log
-4.0K -rw-r--r-- 1 root root  126 May 19 04:23 packages-stable/citeproc-readme.txt
+4.0K -rw-r--r-- 1 root root  559 Aug 17 10:48 packages-stable/citeproc-0.9.entry
+252K -rw-r--r-- 1 root root 250K Aug 17 10:48 packages-stable/citeproc-0.9.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/citeproc-badge.svg
+4.0K -rw-r--r-- 1 root root  517 Aug 17 10:48 packages-stable/citeproc-org-0.2.4.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:48 packages-stable/citeproc-org-0.2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:18 packages-stable/citeproc-org-badge.svg
+4.0K -rw-r--r-- 1 root root  177 Aug 17 10:48 packages-stable/citeproc-org-readme.txt
+4.0K -rw-r--r-- 1 root root  793 Aug 17 10:48 packages-stable/citeproc-org.log
+4.0K -rw-r--r-- 1 root root  126 Aug 17 10:48 packages-stable/citeproc-readme.txt

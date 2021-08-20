@@ -1,11 +1,12 @@
 Package: tree-sitter
 Fetcher: github
-Source:  https://github.com/ubolonton/emacs-tree-sitter.git
+Source:  https://github.com/emacs-tree-sitter/elisp-tree-sitter.git
 
 Updating /mnt/store/melpa/working/tree-sitter/
+Checking out 042306f0ab2cba7e0b3747decf3c2efb8ad26209
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tree-sitter/
-  to /tmp/tree-sitterYB73xZ/tree-sitter-0.15.1
+  to /tmp/tree-sitterNr5Rvd/tree-sitter-0.15.1
   ! lisp/tree-sitter-cli.el -> tree-sitter-cli.el
   ! lisp/tree-sitter-debug.el -> tree-sitter-debug.el
   ! lisp/tree-sitter-extras.el -> tree-sitter-extras.el
@@ -23,19 +24,19 @@ Created tree-sitter-0.15.1.tar containing:
   tree-sitter-0.15.1/tree-sitter-pkg.el
   tree-sitter-0.15.1/tree-sitter-query.el
   tree-sitter-0.15.1/tree-sitter.el
-Built tree-sitter in 4.251s, finished at Wed May 19 01:52:47 2021
+Built tree-sitter in 5.645s, finished at 2021-08-17T11:38:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  455 May 19 01:52 packages-stable/tree-sitter-0.15.1.entry
- 72K -rw-r--r-- 1 root root  70K May 19 01:52 packages-stable/tree-sitter-0.15.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tree-sitter-badge.svg
- 24K -rw-r--r-- 1 root root  21K May 19 01:52 packages-stable/tree-sitter-indent-0.3.el
-4.0K -rw-r--r-- 1 root root  523 May 18 22:38 packages-stable/tree-sitter-indent-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:38 packages-stable/tree-sitter-indent-badge.svg
-4.0K -rw-r--r-- 1 root root  532 May 18 22:38 packages-stable/tree-sitter-indent-readme.txt
-4.0K -rw-r--r-- 1 root root  163 May 19 01:52 packages-stable/tree-sitter-indent.log
-4.0K -rw-r--r-- 1 root root  482 May 18 22:38 packages-stable/tree-sitter-langs-0.10.0.entry
- 80K -rw-r--r-- 1 root root  80K May 19 01:52 packages-stable/tree-sitter-langs-0.10.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:38 packages-stable/tree-sitter-langs-badge.svg
-4.0K -rw-r--r-- 1 root root  786 May 19 01:52 packages-stable/tree-sitter-langs-readme.txt
-4.0K -rw-r--r-- 1 root root 2.0K May 19 01:52 packages-stable/tree-sitter-langs.log
-4.0K -rw-r--r-- 1 root root  318 May 19 01:52 packages-stable/tree-sitter-readme.txt
+4.0K -rw-r--r-- 1 root root  455 Aug 17 11:38 packages-stable/tree-sitter-0.15.1.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 11:38 packages-stable/tree-sitter-0.15.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/tree-sitter-badge.svg
+ 24K -rw-r--r-- 1 root root  21K Aug 17 11:38 packages-stable/tree-sitter-indent-0.3.el
+4.0K -rw-r--r-- 1 root root  523 Aug 17 11:38 packages-stable/tree-sitter-indent-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/tree-sitter-indent-badge.svg
+4.0K -rw-r--r-- 1 root root  532 Aug 17 11:38 packages-stable/tree-sitter-indent-readme.txt
+4.0K -rw-r--r-- 1 root root  666 Aug 17 11:38 packages-stable/tree-sitter-indent.log
+4.0K -rw-r--r-- 1 root root  490 Aug 17 11:38 packages-stable/tree-sitter-langs-0.10.4.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 11:38 packages-stable/tree-sitter-langs-0.10.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:13 packages-stable/tree-sitter-langs-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:38 packages-stable/tree-sitter-langs-readme.txt
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 11:38 packages-stable/tree-sitter-langs.log
+4.0K -rw-r--r-- 1 root root  318 Aug 17 11:38 packages-stable/tree-sitter-readme.txt

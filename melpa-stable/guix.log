@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alezost/guix.el.git
 
 Updating /mnt/store/melpa/working/guix/
+Checking out c2796e68868c91253b6aca422a9ae07363aa03a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/guix/
-  to /tmp/guixwzwjFd/guix-0.5.2
+  to /tmp/guixA9K9Xu/guix-0.5.2
   ! elisp/guix-about.el -> guix-about.el
   ! elisp/guix-auto-mode.el -> guix-auto-mode.el
   ! elisp/guix-build-log.el -> guix-build-log.el
@@ -54,7 +55,7 @@ Copying files (->) and directories (=>)
     images/guixsd-logo.svg -> images/guixsd-logo.svg
     scheme/emacs-guix => scheme/emacs-guix
     scheme/emacs-guix.scm -> scheme/emacs-guix.scm
-Created /tmp/guixwzwjFd/guix-0.5.2/emacs-guix.info
+Created /tmp/guixA9K9Xu/guix-0.5.2/emacs-guix.info
 Created guix-0.5.2.tar containing:
   guix-0.5.2/
   guix-0.5.2/dir
@@ -126,9 +127,9 @@ Created guix-0.5.2.tar containing:
   guix-0.5.2/scheme/emacs-guix/system-generations.scm
   guix-0.5.2/scheme/emacs-guix/system.scm
   guix-0.5.2/scheme/emacs-guix/utils.scm
-Built guix in 18.812s, finished at Wed May 19 04:39:24 2021
+Built guix in 11.356s, finished at 2021-08-17T11:06:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  427 May 19 04:39 packages-stable/guix-0.5.2.entry
-872K -rw-r--r-- 1 root root 870K May 19 04:39 packages-stable/guix-0.5.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/guix-badge.svg
-4.0K -rw-r--r-- 1 root root  469 May 19 04:39 packages-stable/guix-readme.txt
+4.0K -rw-r--r-- 1 root root  427 Aug 17 11:06 packages-stable/guix-0.5.2.entry
+872K -rw-r--r-- 1 root root 870K Aug 17 11:06 packages-stable/guix-0.5.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/guix-badge.svg
+4.0K -rw-r--r-- 1 root root  469 Aug 17 11:06 packages-stable/guix-readme.txt

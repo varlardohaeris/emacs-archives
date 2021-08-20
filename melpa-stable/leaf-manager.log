@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/conao3/leaf-manager.el.git
 
 Updating /mnt/store/melpa/working/leaf-manager/
-Built leaf-manager in 3.430s, finished at Wed May 19 01:31:55 2021
+Checking out f2ae35e02ebe218daa3076a0e9d83b4feadfbb0a
+Built leaf-manager in 3.960s, finished at 2021-08-17T11:14:55+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 01:31 packages-stable/leaf-manager-1.0.0.el
-4.0K -rw-r--r-- 1 root root  452 May 19 01:31 packages-stable/leaf-manager-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/leaf-manager-badge.svg
-4.0K -rw-r--r-- 1 root root   45 May 19 01:31 packages-stable/leaf-manager-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 11:14 packages-stable/leaf-manager-1.0.0.el
+4.0K -rw-r--r-- 1 root root  452 Aug 17 11:14 packages-stable/leaf-manager-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/leaf-manager-badge.svg
+4.0K -rw-r--r-- 1 root root   45 Aug 17 11:14 packages-stable/leaf-manager-readme.txt

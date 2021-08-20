@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/clojure-mode.git
 
 Updating /mnt/store/melpa/working/clojure-mode/
-Built clojure-mode in 3.675s, finished at Wed May 19 04:23:39 2021
+Checking out 0e886656c83e6e8771f748ec698bb173adcb0968
+Built clojure-mode in 4.480s, finished at 2021-08-17T10:49:08+0000
  ✓ Success:
-112K -rw-r--r-- 1 root root 112K May 19 04:23 packages-stable/clojure-mode-5.13.0.el
-4.0K -rw-r--r-- 1 root root  348 May 19 04:23 packages-stable/clojure-mode-5.13.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clojure-mode-badge.svg
- 12K -rw-r--r-- 1 root root  11K May 19 04:23 packages-stable/clojure-mode-extra-font-locking-5.13.0.el
-4.0K -rw-r--r-- 1 root root  437 May 19 04:23 packages-stable/clojure-mode-extra-font-locking-5.13.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clojure-mode-extra-font-locking-badge.svg
-4.0K -rw-r--r-- 1 root root  388 May 19 04:23 packages-stable/clojure-mode-extra-font-locking-readme.txt
-4.0K -rw-r--r-- 1 root root  284 May 19 04:23 packages-stable/clojure-mode-extra-font-locking.log
-4.0K -rw-r--r-- 1 root root  632 May 19 04:23 packages-stable/clojure-mode-readme.txt
+112K -rw-r--r-- 1 root root 112K Aug 17 10:49 packages-stable/clojure-mode-5.13.0.el
+4.0K -rw-r--r-- 1 root root  348 Aug 17 10:49 packages-stable/clojure-mode-5.13.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/clojure-mode-badge.svg
+ 12K -rw-r--r-- 1 root root  11K Aug 17 10:49 packages-stable/clojure-mode-extra-font-locking-5.13.0.el
+4.0K -rw-r--r-- 1 root root  437 Aug 17 10:49 packages-stable/clojure-mode-extra-font-locking-5.13.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:19 packages-stable/clojure-mode-extra-font-locking-badge.svg
+4.0K -rw-r--r-- 1 root root  388 Aug 17 10:49 packages-stable/clojure-mode-extra-font-locking-readme.txt
+4.0K -rw-r--r-- 1 root root  238 Aug 17 10:49 packages-stable/clojure-mode-extra-font-locking.log
+4.0K -rw-r--r-- 1 root root  632 Aug 17 10:49 packages-stable/clojure-mode-readme.txt

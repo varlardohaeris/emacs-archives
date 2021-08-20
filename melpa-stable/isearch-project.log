@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/isearch-project.git
 
 Updating /mnt/store/melpa/working/isearch-project/
-Built isearch-project in 3.918s, finished at Wed May 19 04:43:43 2021
+Checking out 1077b395e1c34a734120faf1f3a7feae6dc4d9c5
+Built isearch-project in 3.644s, finished at 2021-08-17T11:11:57+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 04:43 packages-stable/isearch-project-0.2.6.el
-4.0K -rw-r--r-- 1 root root  390 May 19 04:43 packages-stable/isearch-project-0.2.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/isearch-project-badge.svg
-4.0K -rw-r--r-- 1 root root   47 May 19 04:43 packages-stable/isearch-project-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:11 packages-stable/isearch-project-0.2.6.el
+4.0K -rw-r--r-- 1 root root  390 Aug 17 11:11 packages-stable/isearch-project-0.2.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/isearch-project-badge.svg
+4.0K -rw-r--r-- 1 root root   47 Aug 17 11:11 packages-stable/isearch-project-readme.txt

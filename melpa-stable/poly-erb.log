@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/polymode/poly-erb.git
 
 Updating /mnt/store/melpa/working/poly-erb/
-Built poly-erb in 2.960s, finished at Wed May 19 01:43:34 2021
+Checking out 56c744b8d87d8cbe0aba2696d4e8525afc4aa0e8
+Built poly-erb in 3.806s, finished at 2021-08-17T11:27:51+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.6K May 19 01:43 packages-stable/poly-erb-0.2.2.el
-4.0K -rw-r--r-- 1 root root  345 May 19 01:43 packages-stable/poly-erb-0.2.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/poly-erb-badge.svg
-4.0K -rw-r--r-- 1 root root   70 May 19 01:43 packages-stable/poly-erb-readme.txt
+4.0K -rw-r--r-- 1 root root 3.6K Aug 17 11:27 packages-stable/poly-erb-0.2.2.el
+4.0K -rw-r--r-- 1 root root  345 Aug 17 11:27 packages-stable/poly-erb-0.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/poly-erb-badge.svg
+4.0K -rw-r--r-- 1 root root   70 Aug 17 11:27 packages-stable/poly-erb-readme.txt

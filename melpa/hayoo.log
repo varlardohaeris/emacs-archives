@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/benma/hayoo.el.git
 
 Updating /mnt/store/melpa/working/hayoo/
-Built hayoo in 4.159s, finished at Wed May 19 03:28:48 2021
+Checking out origin/HEAD
+Checking out 3ca2fb0c4d5f337d0410c21b2702dd147014e984
+Built hayoo in 5.041s, finished at 2021-08-17T09:52:36+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.9K May 19 03:28 packages/hayoo-20140831.1221.el
-4.0K -rw-r--r-- 1 root root  380 May 19 03:28 packages/hayoo-20140831.1221.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:28 packages/hayoo-badge.svg
+8.0K -rw-r--r-- 1 root root 4.9K Aug 17 09:52 packages/hayoo-20140831.1221.el
+4.0K -rw-r--r-- 1 root root  380 Aug 17 09:52 packages/hayoo-20140831.1221.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:52 packages/hayoo-badge.svg

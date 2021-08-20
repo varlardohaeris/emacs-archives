@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/IvanMalison/term-manager.git
 
 Updating /mnt/store/melpa/working/term-manager/
+Checking out 0bca2e7e3b6e906ec67696bc0be952988ca7f733
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/term-manager/
-  to /tmp/term-managerFxHs1d/term-manager-0.1.1
+  to /tmp/term-managergzkWBa/term-manager-0.1.1
     term-manager-indexed-mapping.el -> term-manager-indexed-mapping.el
     term-manager.el -> term-manager.el
 Created term-manager-0.1.1.tar containing:
@@ -13,9 +14,9 @@ Created term-manager-0.1.1.tar containing:
   term-manager-0.1.1/term-manager-indexed-mapping.el
   term-manager-0.1.1/term-manager-pkg.el
   term-manager-0.1.1/term-manager.el
-Built term-manager in 4.248s, finished at Wed May 19 01:51:30 2021
+Built term-manager in 3.488s, finished at 2021-08-17T11:37:11+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  401 May 19 01:51 packages-stable/term-manager-0.1.1.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:51 packages-stable/term-manager-0.1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/term-manager-badge.svg
-4.0K -rw-r--r-- 1 root root   69 May 19 01:51 packages-stable/term-manager-readme.txt
+4.0K -rw-r--r-- 1 root root  401 Aug 17 11:37 packages-stable/term-manager-0.1.1.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:37 packages-stable/term-manager-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/term-manager-badge.svg
+4.0K -rw-r--r-- 1 root root   69 Aug 17 11:37 packages-stable/term-manager-readme.txt

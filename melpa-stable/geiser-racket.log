@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-geiser/racket.git
 
 Updating /mnt/store/melpa/working/geiser-racket/
+Checking out 42376b74ae0ad84d02c26560dfd9181493dcccd7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser-racket/
-  to /tmp/geiser-racketbkG7tc/geiser-racket-1.0
+  to /tmp/geiser-racketNyVjCc/geiser-racket-1.0
     geiser-racket.el -> geiser-racket.el
     src/geiser => src/geiser
   ! bin => src/bin
@@ -31,9 +32,9 @@ Created geiser-racket-1.0.tar containing:
   geiser-racket-1.0/src/geiser/user.rkt
   geiser-racket-1.0/src/geiser/utils.rkt
   geiser-racket-1.0/src/racket-server.sh
-Built geiser-racket in 3.084s, finished at Wed May 19 04:36:49 2021
+Built geiser-racket in 4.756s, finished at 2021-08-17T11:04:02+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  406 May 19 04:36 packages-stable/geiser-racket-1.0.entry
- 80K -rw-r--r-- 1 root root  80K May 19 04:36 packages-stable/geiser-racket-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-racket-badge.svg
-4.0K -rw-r--r-- 1 root root   94 May 19 04:36 packages-stable/geiser-racket-readme.txt
+4.0K -rw-r--r-- 1 root root  406 Aug 17 11:04 packages-stable/geiser-racket-1.0.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 11:04 packages-stable/geiser-racket-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/geiser-racket-badge.svg
+4.0K -rw-r--r-- 1 root root   94 Aug 17 11:04 packages-stable/geiser-racket-readme.txt

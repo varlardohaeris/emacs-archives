@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsmirror/po-mode.git
 
 Updating /mnt/store/melpa/working/po-mode/
+Checking out 351e68b066582da34c4b6fc9788da0ce34e19532
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/po-mode/
-  to /tmp/po-modeXdGwzj/po-mode-0.21
+  to /tmp/po-modePfxziu/po-mode-0.21
     po-compat.el -> po-compat.el
     po-mode.el -> po-mode.el
     start-po.el -> start-po.el
@@ -15,10 +16,10 @@ Created po-mode-0.21.tar containing:
   po-mode-0.21/po-mode-pkg.el
   po-mode-0.21/po-mode.el
   po-mode-0.21/start-po.el
-Built po-mode in 2.975s, finished at Wed May 19 01:43:24 2021
+Built po-mode in 3.737s, finished at 2021-08-17T11:27:39+0000
  ✓ Success:
 132K -rw-r--r-- 1 root root 132K Aug 15  2020 packages-stable/po-mode-0.21.el
-4.0K -rw-r--r-- 1 root root  165 May 19 01:43 packages-stable/po-mode-0.21.entry
-152K -rw-r--r-- 1 root root 150K May 19 01:43 packages-stable/po-mode-0.21.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/po-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 01:43 packages-stable/po-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  165 Aug 17 11:27 packages-stable/po-mode-0.21.entry
+152K -rw-r--r-- 1 root root 150K Aug 17 11:27 packages-stable/po-mode-0.21.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/po-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 11:27 packages-stable/po-mode-readme.txt

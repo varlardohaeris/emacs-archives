@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/manute/gorepl-mode.git
 
 Updating /mnt/store/melpa/working/gorepl-mode/
-Built gorepl-mode in 3.305s, finished at Wed May 19 04:38:21 2021
+Checking out 17e025951f5964a0542a4b353ddddbc734c01eed
+Built gorepl-mode in 4.476s, finished at 2021-08-17T11:05:48+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.4K May 19 04:38 packages-stable/gorepl-mode-1.0.0.el
-4.0K -rw-r--r-- 1 root root  423 May 19 04:38 packages-stable/gorepl-mode-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/gorepl-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  136 May 19 04:38 packages-stable/gorepl-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.4K Aug 17 11:05 packages-stable/gorepl-mode-1.0.0.el
+4.0K -rw-r--r-- 1 root root  423 Aug 17 11:05 packages-stable/gorepl-mode-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/gorepl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  136 Aug 17 11:05 packages-stable/gorepl-mode-readme.txt

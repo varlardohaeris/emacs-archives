@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/godotengine/emacs-gdscript-mode.git
 
 Updating /mnt/store/melpa/working/gdscript-mode/
+Checking out ef7a7f2789d0708a624a93b0f7037dd057cd8532
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gdscript-mode/
-  to /tmp/gdscript-modenISKsu/gdscript-mode-1.4.0
+  to /tmp/gdscript-modeY4joMT/gdscript-mode-1.4.0
     gdscript-comint-gdformat.el -> gdscript-comint-gdformat.el
     gdscript-comint.el -> gdscript-comint.el
     gdscript-completion.el -> gdscript-completion.el
@@ -47,9 +48,9 @@ Created gdscript-mode-1.4.0.tar containing:
   gdscript-mode-1.4.0/gdscript-rx.el
   gdscript-mode-1.4.0/gdscript-syntax.el
   gdscript-mode-1.4.0/gdscript-utils.el
-Built gdscript-mode in 3.481s, finished at Wed May 19 04:36:42 2021
+Built gdscript-mode in 4.248s, finished at 2021-08-17T11:03:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  398 May 19 04:36 packages-stable/gdscript-mode-1.4.0.entry
-360K -rw-r--r-- 1 root root 360K May 19 04:36 packages-stable/gdscript-mode-1.4.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/gdscript-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  145 May 19 04:36 packages-stable/gdscript-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  398 Aug 17 11:03 packages-stable/gdscript-mode-1.4.0.entry
+360K -rw-r--r-- 1 root root 360K Aug 17 11:03 packages-stable/gdscript-mode-1.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/gdscript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  145 Aug 17 11:03 packages-stable/gdscript-mode-readme.txt

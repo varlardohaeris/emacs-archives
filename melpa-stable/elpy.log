@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jorgenschaefer/elpy.git
 
 Updating /mnt/store/melpa/working/elpy/
+Checking out 3bf96407644bc0189574c736521cab7fe00f5871
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elpy/
-  to /tmp/elpyhMtjav/elpy-1.35.0
+  to /tmp/elpyZDUYoV/elpy-1.35.0
     elpy-django.el -> elpy-django.el
     elpy-pkg.el -> elpy-pkg.el
     elpy-profile.el -> elpy-profile.el
@@ -240,9 +241,9 @@ Created elpy-1.35.0.tar containing:
   elpy-1.35.0/snippets/python-mode/pdb
   elpy-1.35.0/snippets/python-mode/py3
   elpy-1.35.0/snippets/python-mode/super
-Built elpy in 4.313s, finished at Wed May 19 04:30:31 2021
+Built elpy in 5.147s, finished at 2021-08-17T10:56:41+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  589 May 19 04:30 packages-stable/elpy-1.35.0.entry
-660K -rw-r--r-- 1 root root 660K May 19 04:30 packages-stable/elpy-1.35.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elpy-badge.svg
-4.0K -rw-r--r-- 1 root root  302 May 19 04:30 packages-stable/elpy-readme.txt
+4.0K -rw-r--r-- 1 root root  589 Aug 17 10:56 packages-stable/elpy-1.35.0.entry
+660K -rw-r--r-- 1 root root 660K Aug 17 10:56 packages-stable/elpy-1.35.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elpy-badge.svg
+4.0K -rw-r--r-- 1 root root  302 Aug 17 10:56 packages-stable/elpy-readme.txt

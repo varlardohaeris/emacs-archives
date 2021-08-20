@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/org2blog/org2blog.git
 
 Updating /mnt/store/melpa/working/metaweblog/
-Built metaweblog in 3.750s, finished at Wed May 19 01:35:09 2021
+Checking out 3a39561b13bea5dd7b6bd4bd1a530d452774497e
+Built metaweblog in 4.579s, finished at 2021-08-17T11:18:07+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  25K May 19 01:35 packages-stable/metaweblog-1.1.11.el
-4.0K -rw-r--r-- 1 root root  415 May 19 01:35 packages-stable/metaweblog-1.1.11.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/metaweblog-badge.svg
-4.0K -rw-r--r-- 1 root root  782 May 19 01:35 packages-stable/metaweblog-readme.txt
+ 28K -rw-r--r-- 1 root root  25K Aug 17 11:18 packages-stable/metaweblog-1.1.11.el
+4.0K -rw-r--r-- 1 root root  415 Aug 17 11:18 packages-stable/metaweblog-1.1.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/metaweblog-badge.svg
+4.0K -rw-r--r-- 1 root root  782 Aug 17 11:18 packages-stable/metaweblog-readme.txt

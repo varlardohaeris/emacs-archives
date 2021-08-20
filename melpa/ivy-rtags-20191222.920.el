@@ -6,7 +6,7 @@
 ;;         Anders Bakken <agbakken@gmail.com>
 ;; URL: https://github.com/Andersbakken/rtags
 ;; Package-Version: 20191222.920
-;; Package-Commit: 63f18acb21e664fd92fbc19465f0b5df085b5e93
+;; Package-Commit: 3a057f127b931c683288f8731f05ba5e2aab4133
 ;; Version: 0.1
 ;; Package-Requires: ((ivy "0.7.0") (rtags "2.10"))
 

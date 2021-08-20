@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://git.jamzattack.xyz/eshell-outline
 
 Updating /mnt/store/melpa/working/eshell-outline/
-Built eshell-outline in 3.990s, finished at Wed May 19 04:31:40 2021
+Checking out 45311744f38dea4f750b382068c0b720568449b1
+Built eshell-outline in 4.818s, finished at 2021-08-17T10:58:08+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.4K May 19 04:31 packages-stable/eshell-outline-2020.8.31.el
-4.0K -rw-r--r-- 1 root root  400 May 19 04:31 packages-stable/eshell-outline-2020.8.31.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eshell-outline-badge.svg
-4.0K -rw-r--r-- 1 root root  946 May 19 04:31 packages-stable/eshell-outline-readme.txt
+8.0K -rw-r--r-- 1 root root 6.4K Aug 17 10:58 packages-stable/eshell-outline-2020.8.31.el
+4.0K -rw-r--r-- 1 root root  400 Aug 17 10:58 packages-stable/eshell-outline-2020.8.31.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/eshell-outline-badge.svg
+4.0K -rw-r--r-- 1 root root  946 Aug 17 10:58 packages-stable/eshell-outline-readme.txt

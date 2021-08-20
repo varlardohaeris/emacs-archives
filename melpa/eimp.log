@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/nicferrier/eimp.git
 
 Updating /mnt/store/melpa/working/eimp/
-Built eimp in 4.599s, finished at Wed May 19 03:14:17 2021
+Checking out origin/HEAD
+Checking out 2e7536fe6d8f7faf1bad7a8ae37faba0162c3b4f
+Built eimp in 4.841s, finished at 2021-08-17T09:37:23+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  36K May 19 03:14 packages/eimp-20120826.2039.el
-4.0K -rw-r--r-- 1 root root  300 May 19 03:14 packages/eimp-20120826.2039.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:14 packages/eimp-badge.svg
-4.0K -rw-r--r-- 1 root root  442 May 19 03:14 packages/eimp-readme.txt
+ 36K -rw-r--r-- 1 root root  36K Aug 17 09:37 packages/eimp-20120826.2039.el
+4.0K -rw-r--r-- 1 root root  300 Aug 17 09:37 packages/eimp-20120826.2039.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:37 packages/eimp-badge.svg
+4.0K -rw-r--r-- 1 root root  442 Aug 17 09:37 packages/eimp-readme.txt

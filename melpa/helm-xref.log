@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/brotzeit/helm-xref.git
 
 Updating /mnt/store/melpa/working/helm-xref/
-Built helm-xref in 4.810s, finished at Wed May 19 03:31:59 2021
+Checking out origin/HEAD
+Checking out 23f1174cfca7667d95828dcd388c655a4a9c877d
+Built helm-xref in 4.606s, finished at 2021-08-17T09:55:47+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.6K May 19 03:31 packages/helm-xref-20201004.1817.el
-4.0K -rw-r--r-- 1 root root  392 May 19 03:31 packages/helm-xref-20201004.1817.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:31 packages/helm-xref-badge.svg
+8.0K -rw-r--r-- 1 root root 6.6K Aug 17 09:55 packages/helm-xref-20201004.1817.el
+4.0K -rw-r--r-- 1 root root  392 Aug 17 09:55 packages/helm-xref-20201004.1817.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:55 packages/helm-xref-badge.svg

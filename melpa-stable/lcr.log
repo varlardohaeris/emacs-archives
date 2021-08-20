@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jyp/lcr.git
 
 Updating /mnt/store/melpa/working/lcr/
-Built lcr in 3.826s, finished at Wed May 19 01:31:52 2021
+Checking out c14f40692292d59156c7632dbdd2867c086aa75f
+Built lcr in 4.057s, finished at 2021-08-17T11:14:53+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 01:31 packages-stable/lcr-1.1.el
-4.0K -rw-r--r-- 1 root root  406 May 19 01:31 packages-stable/lcr-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/lcr-badge.svg
-4.0K -rw-r--r-- 1 root root  892 May 19 01:31 packages-stable/lcr-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 11:14 packages-stable/lcr-1.1.el
+4.0K -rw-r--r-- 1 root root  406 Aug 17 11:14 packages-stable/lcr-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/lcr-badge.svg
+4.0K -rw-r--r-- 1 root root  892 Aug 17 11:14 packages-stable/lcr-readme.txt

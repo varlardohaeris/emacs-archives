@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/peterwvj/eshell-up.git
 
 Updating /mnt/store/melpa/working/eshell-up/
-Built eshell-up in 3.125s, finished at Wed May 19 04:31:41 2021
+Checking out 653121392acd607d5dfbca0832927e06806a2d39
+Built eshell-up in 4.524s, finished at 2021-08-17T10:58:11+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.6K May 19 04:31 packages-stable/eshell-up-0.0.3.el
-4.0K -rw-r--r-- 1 root root  439 May 19 04:31 packages-stable/eshell-up-0.0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eshell-up-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 04:31 packages-stable/eshell-up-readme.txt
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 10:58 packages-stable/eshell-up-0.0.3.el
+4.0K -rw-r--r-- 1 root root  439 Aug 17 10:58 packages-stable/eshell-up-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/eshell-up-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 10:58 packages-stable/eshell-up-readme.txt

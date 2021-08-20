@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/linktohack/evil-rsi.git
 
 Updating /mnt/store/melpa/working/evil-rsi/
-Built evil-rsi in 2.872s, finished at Wed May 19 04:32:33 2021
+Checking out 236bf6ed1e2285698db808463e5f2f69f5f5e7c0
+Built evil-rsi in 4.214s, finished at 2021-08-17T10:59:09+0000
  ✓ Success:
-4.0K -rwxr-xr-x 1 root root 2.9K May 19 04:32 packages-stable/evil-rsi-2.0.0.el
-4.0K -rw-r--r-- 1 root root  398 May 19 04:32 packages-stable/evil-rsi-2.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-rsi-badge.svg
-4.0K -rw-r--r-- 1 root root  228 May 19 04:32 packages-stable/evil-rsi-readme.txt
+4.0K -rwxr-xr-x 1 root root 2.9K Aug 17 10:59 packages-stable/evil-rsi-2.0.0.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 10:59 packages-stable/evil-rsi-2.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-rsi-badge.svg
+4.0K -rw-r--r-- 1 root root  228 Aug 17 10:59 packages-stable/evil-rsi-readme.txt

@@ -3,19 +3,20 @@ Fetcher: github
 Source:  https://github.com/mssola/soria.git
 
 Updating /mnt/store/melpa/working/soria-theme/
+Checking out 69b6ad6c5b1b1e32ae801e3afc22bea838308295
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/soria-theme/
-  to /tmp/soria-themeDVrwYZ/soria-theme-0.4.0
+  to /tmp/soria-themeliId7c/soria-theme-0.4.1
     soria-theme-tree.el -> soria-theme-tree.el
     soria-theme.el -> soria-theme.el
-Created soria-theme-0.4.0.tar containing:
-  soria-theme-0.4.0/
-  soria-theme-0.4.0/soria-theme-pkg.el
-  soria-theme-0.4.0/soria-theme-tree.el
-  soria-theme-0.4.0/soria-theme.el
-Built soria-theme in 3.344s, finished at Wed May 19 01:49:41 2021
+Created soria-theme-0.4.1.tar containing:
+  soria-theme-0.4.1/
+  soria-theme-0.4.1/soria-theme-pkg.el
+  soria-theme-0.4.1/soria-theme-tree.el
+  soria-theme-0.4.1/soria-theme.el
+Built soria-theme in 4.403s, finished at 2021-08-17T11:34:40+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  403 May 19 01:49 packages-stable/soria-theme-0.4.0.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:49 packages-stable/soria-theme-0.4.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/soria-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  189 May 19 01:49 packages-stable/soria-theme-readme.txt
+4.0K -rw-r--r-- 1 root root  403 Aug 17 11:34 packages-stable/soria-theme-0.4.1.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:34 packages-stable/soria-theme-0.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/soria-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  189 Aug 17 11:34 packages-stable/soria-theme-readme.txt

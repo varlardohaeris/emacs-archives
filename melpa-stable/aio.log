@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/skeeto/emacs-aio.git
 
 Updating /mnt/store/melpa/working/aio/
+Checking out 653f7c8937a77f8fc56c1d3f90a864691d0d95d6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aio/
-  to /tmp/aioKRT80H/aio-1.0
+  to /tmp/aiosYjavh/aio-1.0
     aio.el -> aio.el
     README.md -> README.md
     UNLICENSE -> UNLICENSE
@@ -15,9 +16,9 @@ Created aio-1.0.tar containing:
   aio-1.0/UNLICENSE
   aio-1.0/aio-pkg.el
   aio-1.0/aio.el
-Built aio in 2.709s, finished at Wed May 19 04:18:59 2021
+Built aio in 3.629s, finished at 2021-08-17T10:43:44+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  343 May 19 04:18 packages-stable/aio-1.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:18 packages-stable/aio-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/aio-badge.svg
-4.0K -rw-r--r-- 1 root root  481 May 19 04:18 packages-stable/aio-readme.txt
+4.0K -rw-r--r-- 1 root root  343 Aug 17 10:43 packages-stable/aio-1.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:43 packages-stable/aio-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/aio-badge.svg
+4.0K -rw-r--r-- 1 root root  481 Aug 17 10:43 packages-stable/aio-readme.txt

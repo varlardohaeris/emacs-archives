@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ledger/ledger-mode.git
 
 Updating /mnt/store/melpa/working/ledger-mode/
+Checking out 964630f80e0e80dad83134a3660f56948390173a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ledger-mode/
-  to /tmp/ledger-modeTIWOB3/ledger-mode-4.0.0
+  to /tmp/ledger-modepdqG8q/ledger-mode-4.0.0
     ledger-check.el -> ledger-check.el
     ledger-commodities.el -> ledger-commodities.el
     ledger-complete.el -> ledger-complete.el
@@ -29,7 +30,7 @@ Copying files (->) and directories (=>)
     ledger-xact.el -> ledger-xact.el
   ! doc/ledger-mode.texi -> ledger-mode.texi
     ledger-test.el -> ledger-test.el
-Created /tmp/ledger-modeTIWOB3/ledger-mode-4.0.0/ledger-mode.info
+Created /tmp/ledger-modepdqG8q/ledger-mode-4.0.0/ledger-mode.info
 Created ledger-mode-4.0.0.tar containing:
   ledger-mode-4.0.0/
   ledger-mode-4.0.0/dir
@@ -57,9 +58,9 @@ Created ledger-mode-4.0.0.tar containing:
   ledger-mode-4.0.0/ledger-test.el
   ledger-mode-4.0.0/ledger-texi.el
   ledger-mode-4.0.0/ledger-xact.el
-Built ledger-mode in 12.423s, finished at Wed May 19 01:32:08 2021
+Built ledger-mode in 12.290s, finished at 2021-08-17T11:15:08+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  193 May 19 01:32 packages-stable/ledger-mode-4.0.0.entry
-320K -rw-r--r-- 1 root root 320K May 19 01:32 packages-stable/ledger-mode-4.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/ledger-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   46 May 19 01:32 packages-stable/ledger-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  193 Aug 17 11:15 packages-stable/ledger-mode-4.0.0.entry
+320K -rw-r--r-- 1 root root 320K Aug 17 11:15 packages-stable/ledger-mode-4.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/ledger-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   46 Aug 17 11:15 packages-stable/ledger-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-rust.git
 
 Updating /mnt/store/melpa/working/flycheck-rust/
-Built flycheck-rust in 3.034s, finished at Wed May 19 04:35:15 2021
+Checking out 8db9bb4f5d37c9071251d4542d5971c8f7103952
+Built flycheck-rust in 3.667s, finished at 2021-08-17T11:02:14+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.6K May 19 04:35 packages-stable/flycheck-rust-1.1.el
-4.0K -rw-r--r-- 1 root root  489 May 19 04:35 packages-stable/flycheck-rust-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-rust-badge.svg
-4.0K -rw-r--r-- 1 root root  262 May 19 04:35 packages-stable/flycheck-rust-readme.txt
+ 12K -rw-r--r-- 1 root root 8.6K Aug 17 11:02 packages-stable/flycheck-rust-1.1.el
+4.0K -rw-r--r-- 1 root root  489 Aug 17 11:02 packages-stable/flycheck-rust-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-rust-badge.svg
+4.0K -rw-r--r-- 1 root root  262 Aug 17 11:02 packages-stable/flycheck-rust-readme.txt

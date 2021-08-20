@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/nbfalcon/flycheck-projectile.git
 
 Updating /mnt/store/melpa/working/flycheck-projectile/
+Checking out ce6e9e8793a55dace13d5fa13badab2dca3b5ddb
 Note: flycheck-projectile :files spec is equivalent to the default.
-Built flycheck-projectile in 2.893s, finished at Wed May 19 04:35:09 2021
+Built flycheck-projectile in 6.963s, finished at 2021-08-17T11:02:08+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 04:35 packages-stable/flycheck-projectile-0.2.0.el
-4.0K -rw-r--r-- 1 root root  442 May 19 04:35 packages-stable/flycheck-projectile-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-projectile-badge.svg
-4.0K -rw-r--r-- 1 root root   68 May 19 04:35 packages-stable/flycheck-projectile-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:02 packages-stable/flycheck-projectile-0.2.0.el
+4.0K -rw-r--r-- 1 root root  442 Aug 17 11:02 packages-stable/flycheck-projectile-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-projectile-badge.svg
+4.0K -rw-r--r-- 1 root root   68 Aug 17 11:02 packages-stable/flycheck-projectile-readme.txt

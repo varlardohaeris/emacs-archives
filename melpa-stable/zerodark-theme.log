@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/zerodark-theme.git
 
 Updating /mnt/store/melpa/working/zerodark-theme/
-Built zerodark-theme in 3.614s, finished at Wed May 19 01:56:44 2021
+Checking out 342055346446bb8306ac2d3d2ac1f4236c84a404
+Built zerodark-theme in 3.918s, finished at 2021-08-17T11:42:55+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  45K May 19 01:56 packages-stable/zerodark-theme-4.7.el
-4.0K -rw-r--r-- 1 root root  381 May 19 01:56 packages-stable/zerodark-theme-4.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zerodark-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  135 May 19 01:56 packages-stable/zerodark-theme-readme.txt
+ 48K -rw-r--r-- 1 root root  45K Aug 17 11:42 packages-stable/zerodark-theme-4.7.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:42 packages-stable/zerodark-theme-4.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/zerodark-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  135 Aug 17 11:42 packages-stable/zerodark-theme-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/antonj/scss-mode.git
 
 Updating /mnt/store/melpa/working/scss-mode/
-Built scss-mode in 3.033s, finished at Wed May 19 01:47:44 2021
+Checking out d663069667d9b158d56e863b80dd4cc02984e49f
+Built scss-mode in 3.231s, finished at 2021-08-17T11:32:31+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.2K May 19 01:47 packages-stable/scss-mode-0.5.0.el
-4.0K -rw-r--r-- 1 root root  375 May 19 01:47 packages-stable/scss-mode-0.5.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/scss-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  306 May 19 01:47 packages-stable/scss-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.2K Aug 17 11:32 packages-stable/scss-mode-0.5.0.el
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:32 packages-stable/scss-mode-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:32 packages-stable/scss-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  306 Aug 17 11:32 packages-stable/scss-mode-readme.txt

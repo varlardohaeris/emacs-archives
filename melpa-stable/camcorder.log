@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Malabarba/camcorder.el.git
 
 Updating /mnt/store/melpa/working/camcorder/
-Built camcorder in 3.577s, finished at Wed May 19 04:22:40 2021
+Checking out b11ca61491a27681bb3131b72b51c105fd996bed
+Built camcorder in 4.624s, finished at 2021-08-17T10:47:51+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 04:22 packages-stable/camcorder-1.0.el
-4.0K -rw-r--r-- 1 root root  480 May 19 04:22 packages-stable/camcorder-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:22 packages-stable/camcorder-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:22 packages-stable/camcorder-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 10:47 packages-stable/camcorder-1.0.el
+4.0K -rw-r--r-- 1 root root  480 Aug 17 10:47 packages-stable/camcorder-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:47 packages-stable/camcorder-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 10:47 packages-stable/camcorder-readme.txt

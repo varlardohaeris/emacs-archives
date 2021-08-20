@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/p3r7/with-shell-interpreter.git
 
 Updating /mnt/store/melpa/working/with-shell-interpreter/
-Built with-shell-interpreter in 3.613s, finished at Wed May 19 01:55:27 2021
+Checking out 45b7d6ad63165c82a95966b291abbfe305d3ada2
+Built with-shell-interpreter in 8.016s, finished at 2021-08-17T11:41:23+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  20K May 19 01:55 packages-stable/with-shell-interpreter-0.2.4.el
-4.0K -rw-r--r-- 1 root root  303 May 19 01:55 packages-stable/with-shell-interpreter-0.2.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/with-shell-interpreter-badge.svg
-4.0K -rw-r--r-- 1 root root  270 May 19 01:55 packages-stable/with-shell-interpreter-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:41 packages-stable/with-shell-interpreter-0.2.4.el
+4.0K -rw-r--r-- 1 root root  303 Aug 17 11:41 packages-stable/with-shell-interpreter-0.2.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:41 packages-stable/with-shell-interpreter-badge.svg
+4.0K -rw-r--r-- 1 root root  270 Aug 17 11:41 packages-stable/with-shell-interpreter-readme.txt

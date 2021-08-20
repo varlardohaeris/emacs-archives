@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Fuco1/neon-mode.git
 
 Updating /mnt/store/melpa/working/neon-mode/
-Built neon-mode in 3.740s, finished at Wed May 19 01:37:10 2021
+Checking out 99d15e46beaf1e7d71e39a00cce810df1f33229d
+Built neon-mode in 4.485s, finished at 2021-08-17T11:20:33+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.9K May 19 01:37 packages-stable/neon-mode-1.3.0.el
-4.0K -rw-r--r-- 1 root root  308 May 19 01:37 packages-stable/neon-mode-1.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/neon-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  141 May 19 01:37 packages-stable/neon-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.9K Aug 17 11:20 packages-stable/neon-mode-1.3.0.el
+4.0K -rw-r--r-- 1 root root  308 Aug 17 11:20 packages-stable/neon-mode-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/neon-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  141 Aug 17 11:20 packages-stable/neon-mode-readme.txt

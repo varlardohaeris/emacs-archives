@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/agda/agda.git
 
 Updating /mnt/store/melpa/working/eri/
-Built eri in 9.029s, finished at Wed May 19 04:31:32 2021
+Checking out 496322c834ebd2d621cb1286e146d2f4c289d7ab
+Built eri in 7.641s, finished at 2021-08-17T10:57:54+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.9K May 19 04:31 packages-stable/eri-2.6.1.3.el
-4.0K -rw-r--r-- 1 root root  143 May 19 04:31 packages-stable/eri-2.6.1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eri-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 04:31 packages-stable/eri-readme.txt
+8.0K -rw-r--r-- 1 root root 7.1K Aug 17 10:57 packages-stable/eri-2.6.2.el
+4.0K -rw-r--r-- 1 root root  188 Aug 17 10:57 packages-stable/eri-2.6.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/eri-badge.svg
+4.0K -rw-r--r-- 1 root root   69 Aug 17 10:57 packages-stable/eri-readme.txt

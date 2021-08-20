@@ -1,0 +1,12 @@
+(treemacs-icons-dired .
+		      [(20210630 1953)
+		       ((treemacs
+			 (0 0))
+			(emacs
+			 (26 1)))
+		       "Treemacs icons for dired" single
+		       ((:commit . "d9fc2995577b71d213f0201a66c8e2d90e7cd0ff")
+			(:authors
+			 ("Alexander Miller" . "alexanderm@web.de"))
+			(:maintainer "Alexander Miller" . "alexanderm@web.de")
+			(:url . "https://github.com/Alexander-Miller/treemacs"))])

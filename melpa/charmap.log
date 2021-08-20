@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/lateau/charmap.git
 
 Updating /mnt/store/melpa/working/charmap/
-Built charmap in 4.926s, finished at Wed May 19 03:04:30 2021
+Checking out origin/HEAD
+Checking out a810347b43b024a86167ab9be935dcf56c122743
+Built charmap in 5.902s, finished at 2021-08-17T09:27:05+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 03:04 packages/charmap-20200616.1418.el
-4.0K -rw-r--r-- 1 root root  335 May 19 03:04 packages/charmap-20200616.1418.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:04 packages/charmap-badge.svg
+ 20K -rw-r--r-- 1 root root  18K Aug 17 09:27 packages/charmap-20200616.1418.el
+4.0K -rw-r--r-- 1 root root  335 Aug 17 09:27 packages/charmap-20200616.1418.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:27 packages/charmap-badge.svg

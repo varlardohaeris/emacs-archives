@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/vermiculus/ghub-plus.git
 
 Updating /mnt/store/melpa/working/ghub+/
-Built ghub+ in 3.378s, finished at Wed May 19 04:37:03 2021
+Checking out 464e28e411c8a389a9a77e7eedeabbf774dac257
+Built ghub+ in 3.514s, finished at 2021-08-17T11:04:16+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  39K May 19 04:37 packages-stable/ghub+-0.3.el
-4.0K -rw-r--r-- 1 root root  402 May 19 04:37 packages-stable/ghub+-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/ghub+-badge.svg
-4.0K -rw-r--r-- 1 root root   98 May 19 04:37 packages-stable/ghub+-readme.txt
+ 40K -rw-r--r-- 1 root root  39K Aug 17 11:04 packages-stable/ghub+-0.3.el
+4.0K -rw-r--r-- 1 root root  402 Aug 17 11:04 packages-stable/ghub+-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/ghub+-badge.svg
+4.0K -rw-r--r-- 1 root root   98 Aug 17 11:04 packages-stable/ghub+-readme.txt

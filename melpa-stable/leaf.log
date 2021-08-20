@@ -3,26 +3,27 @@ Fetcher: github
 Source:  https://github.com/conao3/leaf.el.git
 
 Updating /mnt/store/melpa/working/leaf/
-Built leaf in 3.322s, finished at Wed May 19 01:31:53 2021
+Checking out 0841ab466a1542868b5448bb375ac9f0c33e2b3f
+Built leaf in 4.060s, finished at 2021-08-17T11:14:54+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  47K May 19 01:31 packages-stable/leaf-4.1.0.el
-4.0K -rw-r--r-- 1 root root  375 May 19 01:31 packages-stable/leaf-4.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/leaf-badge.svg
-4.0K -rw-r--r-- 1 root root  190 May 19 01:31 packages-stable/leaf-convert.log
-4.0K -rw-r--r-- 1 root root  194 May 19 01:31 packages-stable/leaf-defaults.log
- 20K -rw-r--r-- 1 root root  18K May 18 22:17 packages-stable/leaf-keywords-1.1.0.el
-4.0K -rw-r--r-- 1 root root  366 May 18 22:17 packages-stable/leaf-keywords-1.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:17 packages-stable/leaf-keywords-badge.svg
-4.0K -rw-r--r-- 1 root root   16 May 18 22:17 packages-stable/leaf-keywords-readme.txt
-4.0K -rw-r--r-- 1 root root  145 May 19 01:31 packages-stable/leaf-keywords.log
- 20K -rw-r--r-- 1 root root  19K May 18 22:17 packages-stable/leaf-manager-1.0.0.el
-4.0K -rw-r--r-- 1 root root  452 May 18 22:17 packages-stable/leaf-manager-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:17 packages-stable/leaf-manager-badge.svg
-4.0K -rw-r--r-- 1 root root   45 May 18 22:17 packages-stable/leaf-manager-readme.txt
-4.0K -rw-r--r-- 1 root root  142 May 19 01:31 packages-stable/leaf-manager.log
-4.0K -rw-r--r-- 1 root root  696 May 19 01:31 packages-stable/leaf-readme.txt
- 12K -rw-r--r-- 1 root root  11K May 18 22:17 packages-stable/leaf-tree-1.0.0.el
-4.0K -rw-r--r-- 1 root root  436 May 18 22:17 packages-stable/leaf-tree-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:17 packages-stable/leaf-tree-badge.svg
-4.0K -rw-r--r-- 1 root root  112 May 18 22:17 packages-stable/leaf-tree-readme.txt
-   0 -rw-r--r-- 1 root root    0 May 19 01:31 packages-stable/leaf-tree.log
+ 48K -rw-r--r-- 1 root root  47K Aug 17 11:14 packages-stable/leaf-4.1.0.el
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:14 packages-stable/leaf-4.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/leaf-badge.svg
+4.0K -rw-r--r-- 1 root root  190 Aug 17 11:14 packages-stable/leaf-convert.log
+4.0K -rw-r--r-- 1 root root  194 Aug 17 11:14 packages-stable/leaf-defaults.log
+ 20K -rw-r--r-- 1 root root  18K Aug 17 11:14 packages-stable/leaf-keywords-1.1.0.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 07:48 packages-stable/leaf-keywords-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:48 packages-stable/leaf-keywords-badge.svg
+4.0K -rw-r--r-- 1 root root   16 Aug 17 07:48 packages-stable/leaf-keywords-readme.txt
+4.0K -rw-r--r-- 1 root root  199 Aug 17 11:14 packages-stable/leaf-keywords.log
+ 20K -rw-r--r-- 1 root root  19K Aug 17 07:48 packages-stable/leaf-manager-1.0.0.el
+4.0K -rw-r--r-- 1 root root  452 Aug 17 07:48 packages-stable/leaf-manager-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:48 packages-stable/leaf-manager-badge.svg
+4.0K -rw-r--r-- 1 root root   45 Aug 17 07:48 packages-stable/leaf-manager-readme.txt
+4.0K -rw-r--r-- 1 root root  196 Aug 17 11:14 packages-stable/leaf-manager.log
+4.0K -rw-r--r-- 1 root root  696 Aug 17 11:14 packages-stable/leaf-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 07:48 packages-stable/leaf-tree-1.0.0.el
+4.0K -rw-r--r-- 1 root root  436 Aug 17 07:48 packages-stable/leaf-tree-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:48 packages-stable/leaf-tree-badge.svg
+4.0K -rw-r--r-- 1 root root  112 Aug 17 07:48 packages-stable/leaf-tree-readme.txt
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:14 packages-stable/leaf-tree.log

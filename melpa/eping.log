@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/sean-hut/eping.git
 
 Updating /mnt/store/melpa/working/eping/
+Checking out origin/HEAD
+Checking out 99d3a4b6973d5b09864e0af7425a61f99c19b90a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eping/
-  to /tmp/epingwkzDeX/eping-20201027.2149
+  to /tmp/epingXWRFXg/eping-20201027.2149
     eping.el -> eping.el
     eping.info -> eping.info
     eping.texinfo -> eping.texinfo
@@ -15,9 +17,9 @@ Created eping-20201027.2149.tar containing:
   eping-20201027.2149/eping-pkg.el
   eping-20201027.2149/eping.el
   eping-20201027.2149/eping.info
-Built eping in 4.591s, finished at Wed May 19 03:16:29 2021
+Built eping in 5.839s, finished at 2021-08-17T09:39:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  379 May 19 03:16 packages/eping-20201027.2149.entry
- 20K -rw-r--r-- 1 root root  20K May 19 03:16 packages/eping-20201027.2149.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:16 packages/eping-badge.svg
-4.0K -rw-r--r-- 1 root root  143 May 19 03:16 packages/eping-readme.txt
+4.0K -rw-r--r-- 1 root root  379 Aug 17 09:39 packages/eping-20201027.2149.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 09:39 packages/eping-20201027.2149.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:39 packages/eping-badge.svg
+4.0K -rw-r--r-- 1 root root  143 Aug 17 09:39 packages/eping-readme.txt

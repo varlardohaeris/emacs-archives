@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/dedicated.git
 
 Updating /mnt/store/melpa/working/dedicated/
-Built dedicated in 4.334s, finished at Wed May 19 03:10:15 2021
+Checking out origin/HEAD
+Checking out f47b504c0c56fa5ab9d1028417ca1f65a713a2f0
+Built dedicated in 5.906s, finished at 2021-08-17T09:33:05+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.1K May 19 03:10 packages/dedicated-20151202.110.el
-4.0K -rw-r--r-- 1 root root  319 May 19 03:10 packages/dedicated-20151202.110.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:10 packages/dedicated-badge.svg
-4.0K -rw-r--r-- 1 root root  382 May 19 03:10 packages/dedicated-readme.txt
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 09:33 packages/dedicated-20151202.110.el
+4.0K -rw-r--r-- 1 root root  319 Aug 17 09:33 packages/dedicated-20151202.110.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:33 packages/dedicated-badge.svg
+4.0K -rw-r--r-- 1 root root  382 Aug 17 09:33 packages/dedicated-readme.txt

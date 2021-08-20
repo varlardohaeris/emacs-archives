@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dykstrom/basic-mode.git
 
 Updating /mnt/store/melpa/working/basic-mode/
-Built basic-mode in 3.524s, finished at Wed May 19 04:20:47 2021
+Checking out af77e32e92793d9ea934110dbd6e287aa627784f
+Built basic-mode in 4.112s, finished at 2021-08-17T10:46:06+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 04:20 packages-stable/basic-mode-0.4.3.el
-4.0K -rw-r--r-- 1 root root  380 May 19 04:20 packages-stable/basic-mode-0.4.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/basic-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 04:20 packages-stable/basic-mode-readme.txt
+ 28K -rw-r--r-- 1 root root  27K Aug 17 10:46 packages-stable/basic-mode-0.4.3.el
+4.0K -rw-r--r-- 1 root root  380 Aug 17 10:46 packages-stable/basic-mode-0.4.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/basic-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 10:46 packages-stable/basic-mode-readme.txt

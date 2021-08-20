@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rejeep/prodigy.el.git
 
 Updating /mnt/store/melpa/working/prodigy/
-Built prodigy in 2.970s, finished at Wed May 19 01:44:07 2021
+Checking out 3bacca898db9b3493883c95f923a87eb1ce807eb
+Built prodigy in 4.626s, finished at 2021-08-17T11:28:34+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  45K May 19 01:44 packages-stable/prodigy-0.7.0.el
-4.0K -rw-r--r-- 1 root root  410 May 19 01:44 packages-stable/prodigy-0.7.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/prodigy-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:44 packages-stable/prodigy-readme.txt
+ 48K -rw-r--r-- 1 root root  45K Aug 17 11:28 packages-stable/prodigy-0.7.0.el
+4.0K -rw-r--r-- 1 root root  410 Aug 17 11:28 packages-stable/prodigy-0.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/prodigy-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:28 packages-stable/prodigy-readme.txt

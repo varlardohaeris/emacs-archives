@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/rubikitch/recentf-ext.git
 
 Updating /mnt/store/melpa/working/recentf-ext/
-Built recentf-ext in 4.235s, finished at Wed May 19 04:00:07 2021
+Checking out origin/HEAD
+Checking out 450de5f8544ed6414e88d4924d7daa5caa55b7fe
+Built recentf-ext in 4.519s, finished at 2021-08-17T10:25:12+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.9K May 19 04:00 packages/recentf-ext-20170926.35.el
-4.0K -rw-r--r-- 1 root root  389 May 19 04:00 packages/recentf-ext-20170926.35.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/recentf-ext-badge.svg
-4.0K -rw-r--r-- 1 root root  129 May 19 04:00 packages/recentf-ext-readme.txt
+8.0K -rw-r--r-- 1 root root 4.9K Aug 17 10:25 packages/recentf-ext-20170926.35.el
+4.0K -rw-r--r-- 1 root root  389 Aug 17 10:25 packages/recentf-ext-20170926.35.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:25 packages/recentf-ext-badge.svg
+4.0K -rw-r--r-- 1 root root  129 Aug 17 10:25 packages/recentf-ext-readme.txt

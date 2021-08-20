@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/atilaneves/cmake-ide.git
 
 Updating /mnt/store/melpa/working/cmake-ide/
-Built cmake-ide in 3.041s, finished at Wed May 19 04:23:46 2021
+Checking out e6d3cdd29b4fb2a5df425f52fef4cac94c506c21
+Built cmake-ide in 2.842s, finished at 2021-08-17T10:49:14+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  37K May 19 04:23 packages-stable/cmake-ide-0.5.el
-4.0K -rw-r--r-- 1 root root  491 May 19 04:23 packages-stable/cmake-ide-0.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cmake-ide-badge.svg
-4.0K -rw-r--r-- 1 root root  319 May 19 04:23 packages-stable/cmake-ide-readme.txt
+ 44K -rw-r--r-- 1 root root  37K Aug 17 10:49 packages-stable/cmake-ide-0.5.el
+4.0K -rw-r--r-- 1 root root  491 Aug 17 10:49 packages-stable/cmake-ide-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/cmake-ide-badge.svg
+4.0K -rw-r--r-- 1 root root  319 Aug 17 10:49 packages-stable/cmake-ide-readme.txt

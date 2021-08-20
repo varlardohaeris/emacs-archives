@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/Wilfred/ht.el.git
 
 Updating /mnt/store/melpa/working/ht/
+Checking out 2eddb85a66508ad607e94fd8384b18feb07a2449
 Note: ht :files spec is equivalent to the default.
-Built ht in 2.858s, finished at Wed May 19 04:42:10 2021
+Built ht in 3.645s, finished at 2021-08-17T11:10:13+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 04:42 packages-stable/ht-2.3.el
-4.0K -rw-r--r-- 1 root root  337 May 19 04:42 packages-stable/ht-2.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/ht-badge.svg
-4.0K -rw-r--r-- 1 root root   97 May 19 04:42 packages-stable/ht-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:10 packages-stable/ht-2.3.el
+4.0K -rw-r--r-- 1 root root  337 Aug 17 11:10 packages-stable/ht-2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/ht-badge.svg
+4.0K -rw-r--r-- 1 root root   97 Aug 17 11:10 packages-stable/ht-readme.txt

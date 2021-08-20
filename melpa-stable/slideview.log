@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mhayashi1120/Emacs-slideview.git
 
 Updating /mnt/store/melpa/working/slideview/
-Built slideview in 2.939s, finished at Wed May 19 01:48:48 2021
+Checking out ec2340e7b0e74201206d14e3eaef1e77149f122d
+Built slideview in 3.641s, finished at 2021-08-17T11:33:44+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  23K May 19 01:48 packages-stable/slideview-0.6.1.el
-4.0K -rw-r--r-- 1 root root  376 May 19 01:48 packages-stable/slideview-0.6.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/slideview-badge.svg
-4.0K -rw-r--r-- 1 root root  401 May 19 01:48 packages-stable/slideview-readme.txt
+ 24K -rw-r--r-- 1 root root  23K Aug 17 11:33 packages-stable/slideview-0.6.1.el
+4.0K -rw-r--r-- 1 root root  376 Aug 17 11:33 packages-stable/slideview-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/slideview-badge.svg
+4.0K -rw-r--r-- 1 root root  401 Aug 17 11:33 packages-stable/slideview-readme.txt

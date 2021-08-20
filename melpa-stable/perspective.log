@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nex3/perspective-el.git
 
 Updating /mnt/store/melpa/working/perspective/
-Built perspective in 3.004s, finished at Wed May 19 01:42:34 2021
+Checking out 1f321053e56ea5cc7beeb63e6269160d1544d74f
+Built perspective in 4.159s, finished at 2021-08-17T11:26:50+0000
  ✓ Success:
- 68K -rw-r--r-- 1 root root  68K May 19 01:42 packages-stable/perspective-2.15.el
-4.0K -rw-r--r-- 1 root root  455 May 19 01:42 packages-stable/perspective-2.15.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/perspective-badge.svg
-4.0K -rw-r--r-- 1 root root  580 May 19 01:42 packages-stable/perspective-readme.txt
+ 72K -rw-r--r-- 1 root root  72K Aug 17 11:26 packages-stable/perspective-2.16.el
+4.0K -rw-r--r-- 1 root root  455 Aug 17 11:26 packages-stable/perspective-2.16.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/perspective-badge.svg
+4.0K -rw-r--r-- 1 root root  580 Aug 17 11:26 packages-stable/perspective-readme.txt

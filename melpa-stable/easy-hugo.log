@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/masasam/emacs-easy-hugo.git
 
 Updating /mnt/store/melpa/working/easy-hugo/
-Built easy-hugo in 3.255s, finished at Wed May 19 04:29:11 2021
+Checking out b3c9ca2a4e1d90013a7d990056d56cdf2bdf8e40
+Built easy-hugo in 4.082s, finished at 2021-08-17T10:54:48+0000
  ✓ Success:
- 96K -rw-r--r-- 1 root root  93K May 19 04:29 packages-stable/easy-hugo-3.9.55.el
-4.0K -rw-r--r-- 1 root root  387 May 19 04:29 packages-stable/easy-hugo-3.9.55.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/easy-hugo-badge.svg
-4.0K -rw-r--r-- 1 root root  218 May 19 04:29 packages-stable/easy-hugo-readme.txt
+ 96K -rw-r--r-- 1 root root  93K Aug 17 10:54 packages-stable/easy-hugo-3.9.55.el
+4.0K -rw-r--r-- 1 root root  387 Aug 17 10:54 packages-stable/easy-hugo-3.9.55.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/easy-hugo-badge.svg
+4.0K -rw-r--r-- 1 root root  218 Aug 17 10:54 packages-stable/easy-hugo-readme.txt

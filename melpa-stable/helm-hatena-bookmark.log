@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/masutaka/emacs-helm-hatena-bookmark.git
 
 Updating /mnt/store/melpa/working/helm-hatena-bookmark/
-Built helm-hatena-bookmark in 2.874s, finished at Wed May 19 04:40:30 2021
+Checking out 4f865796e35abee1b37e5de71cb94fcda641883b
+Built helm-hatena-bookmark in 3.971s, finished at 2021-08-17T11:08:15+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 04:40 packages-stable/helm-hatena-bookmark-2.4.3.el
-4.0K -rw-r--r-- 1 root root  408 May 19 04:40 packages-stable/helm-hatena-bookmark-2.4.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-hatena-bookmark-badge.svg
-4.0K -rw-r--r-- 1 root root   71 May 19 04:40 packages-stable/helm-hatena-bookmark-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:08 packages-stable/helm-hatena-bookmark-2.4.4.el
+4.0K -rw-r--r-- 1 root root  408 Aug 17 11:08 packages-stable/helm-hatena-bookmark-2.4.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-hatena-bookmark-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Aug 17 11:08 packages-stable/helm-hatena-bookmark-readme.txt

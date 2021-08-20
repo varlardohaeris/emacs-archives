@@ -3,19 +3,21 @@ Fetcher: github
 Source:  https://github.com/emacs-pe/docker-tramp.el.git
 
 Updating /mnt/store/melpa/working/docker-tramp/
+Checking out origin/HEAD
+Checking out 7bfbb55417e7d2aac53adf92cb0e3fd329c495c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/docker-tramp/
-  to /tmp/docker-trampdajHAN/docker-tramp-20170207.325
+  to /tmp/docker-trampww6g8Q/docker-tramp-20210729.508
     docker-tramp-compat.el -> docker-tramp-compat.el
     docker-tramp.el -> docker-tramp.el
-Created docker-tramp-20170207.325.tar containing:
-  docker-tramp-20170207.325/
-  docker-tramp-20170207.325/docker-tramp-compat.el
-  docker-tramp-20170207.325/docker-tramp-pkg.el
-  docker-tramp-20170207.325/docker-tramp.el
-Built docker-tramp in 3.535s, finished at Wed May 19 03:12:07 2021
+Created docker-tramp-20210729.508.tar containing:
+  docker-tramp-20210729.508/
+  docker-tramp-20210729.508/docker-tramp-compat.el
+  docker-tramp-20210729.508/docker-tramp-pkg.el
+  docker-tramp-20210729.508/docker-tramp.el
+Built docker-tramp in 4.547s, finished at 2021-08-17T09:35:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  434 May 19 03:12 packages/docker-tramp-20170207.325.entry
- 20K -rw-r--r-- 1 root root  20K May 19 03:12 packages/docker-tramp-20170207.325.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:12 packages/docker-tramp-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:12 packages/docker-tramp-readme.txt
+4.0K -rw-r--r-- 1 root root  434 Aug 17 09:35 packages/docker-tramp-20210729.508.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 09:35 packages/docker-tramp-20210729.508.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:35 packages/docker-tramp-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 09:35 packages/docker-tramp-readme.txt

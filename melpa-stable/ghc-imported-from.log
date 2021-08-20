@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/david-christiansen/ghc-imported-from-el.git
 
 Updating /mnt/store/melpa/working/ghc-imported-from/
-Built ghc-imported-from in 2.906s, finished at Wed May 19 04:36:59 2021
+Checking out fcff08628a19f5d26151564659218cc677779b79
+Built ghc-imported-from in 3.818s, finished at 2021-08-17T11:04:12+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.8K May 19 04:36 packages-stable/ghc-imported-from-0.1.2.el
-4.0K -rw-r--r-- 1 root root  398 May 19 04:36 packages-stable/ghc-imported-from-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/ghc-imported-from-badge.svg
-4.0K -rw-r--r-- 1 root root  191 May 19 04:36 packages-stable/ghc-imported-from-readme.txt
+4.0K -rw-r--r-- 1 root root 3.8K Aug 17 11:04 packages-stable/ghc-imported-from-0.1.2.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 11:04 packages-stable/ghc-imported-from-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/ghc-imported-from-badge.svg
+4.0K -rw-r--r-- 1 root root  191 Aug 17 11:04 packages-stable/ghc-imported-from-readme.txt

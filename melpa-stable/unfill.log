@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/unfill.git
 
 Updating /mnt/store/melpa/working/unfill/
-Built unfill in 2.633s, finished at Wed May 19 01:53:23 2021
+Checking out 8375d87ec184fbe964189e2f9b7263cdb1396694
+Built unfill in 3.551s, finished at 2021-08-17T11:38:58+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.7K May 19 01:53 packages-stable/unfill-0.3.el
-4.0K -rw-r--r-- 1 root root  356 May 19 01:53 packages-stable/unfill-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/unfill-badge.svg
-4.0K -rw-r--r-- 1 root root  479 May 19 01:53 packages-stable/unfill-readme.txt
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 11:38 packages-stable/unfill-0.3.el
+4.0K -rw-r--r-- 1 root root  356 Aug 17 11:38 packages-stable/unfill-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/unfill-badge.svg
+4.0K -rw-r--r-- 1 root root  479 Aug 17 11:38 packages-stable/unfill-readme.txt

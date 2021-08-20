@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/fontawesome.git
 
 Updating /mnt/store/melpa/working/fontawesome/
+Checking out 72b4f2f83c7fdacd225aee58f93acefc53166626
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fontawesome/
-  to /tmp/fontawesomeTOoFI0/fontawesome-0.4
+  to /tmp/fontawesomeO36UWi/fontawesome-0.4
     fontawesome-data.el -> fontawesome-data.el
     fontawesome.el -> fontawesome.el
 Created fontawesome-0.4.tar containing:
@@ -13,9 +14,9 @@ Created fontawesome-0.4.tar containing:
   fontawesome-0.4/fontawesome-data.el
   fontawesome-0.4/fontawesome-pkg.el
   fontawesome-0.4/fontawesome.el
-Built fontawesome in 3.617s, finished at Wed May 19 04:36:03 2021
+Built fontawesome in 3.726s, finished at 2021-08-17T11:03:08+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  367 May 19 04:36 packages-stable/fontawesome-0.4.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:36 packages-stable/fontawesome-0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fontawesome-badge.svg
-4.0K -rw-r--r-- 1 root root   92 May 19 04:36 packages-stable/fontawesome-readme.txt
+4.0K -rw-r--r-- 1 root root  367 Aug 17 11:03 packages-stable/fontawesome-0.4.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:03 packages-stable/fontawesome-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fontawesome-badge.svg
+4.0K -rw-r--r-- 1 root root   92 Aug 17 11:03 packages-stable/fontawesome-readme.txt

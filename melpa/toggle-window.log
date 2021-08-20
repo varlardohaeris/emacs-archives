@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/deadghost/toggle-window.git
 
 Updating /mnt/store/melpa/working/toggle-window/
-Built toggle-window in 6.731s, finished at Wed May 19 04:10:51 2021
+Checking out origin/HEAD
+Checking out e82c60e543933880402ede11e9423e48a17dde53
+Built toggle-window in 5.422s, finished at 2021-08-17T14:01:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.5K May 19 04:10 packages/toggle-window-20141207.1548.el
-4.0K -rw-r--r-- 1 root root  316 May 19 04:10 packages/toggle-window-20141207.1548.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:10 packages/toggle-window-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 14:01 packages/toggle-window-20141207.1548.el
+4.0K -rw-r--r-- 1 root root  316 Aug 17 14:01 packages/toggle-window-20141207.1548.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:01 packages/toggle-window-badge.svg

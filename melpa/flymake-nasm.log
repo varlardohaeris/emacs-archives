@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/juergenhoetzel/flymake-nasm.git
 
 Updating /mnt/store/melpa/working/flymake-nasm/
-Built flymake-nasm in 4.747s, finished at Wed May 19 03:23:13 2021
+Checking out origin/HEAD
+Checking out 27e58d7f3a48ca6fc12238fe6c888a3fdffc3f75
+Built flymake-nasm in 5.588s, finished at 2021-08-17T09:46:41+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.5K May 19 03:23 packages/flymake-nasm-20210310.1540.el
-4.0K -rw-r--r-- 1 root root  420 May 19 03:23 packages/flymake-nasm-20210310.1540.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:23 packages/flymake-nasm-badge.svg
-4.0K -rw-r--r-- 1 root root   54 May 19 03:23 packages/flymake-nasm-readme.txt
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 09:46 packages/flymake-nasm-20210310.1540.el
+4.0K -rw-r--r-- 1 root root  420 Aug 17 09:46 packages/flymake-nasm-20210310.1540.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:46 packages/flymake-nasm-badge.svg
+4.0K -rw-r--r-- 1 root root   54 Aug 17 09:46 packages/flymake-nasm-readme.txt

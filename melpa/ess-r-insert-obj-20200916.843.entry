@@ -5,7 +5,7 @@
 		    (ess
 		     (18 10 1)))
 		   "Insert objects in ESS-R" single
-		   ((:commit . "554bdc7d6c7fafc5b8a886690970b5145276a3f5")
+		   ((:commit . "f6731eb26dc0fc5b7ca1fa881a5f9100f8fcf494")
 		    (:authors
 		     ("Shuguang Sun" . "shuguang79@qq.com"))
 		    (:maintainer "Shuguang Sun" . "shuguang79@qq.com")

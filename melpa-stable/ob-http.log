@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/zweifisch/ob-http.git
 
 Updating /mnt/store/melpa/working/ob-http/
+Checking out 20393dd8130d21a3f06d8514da14c5ffdd88ae44
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-http/
-  to /tmp/ob-httpI0C0ye/ob-http-0.2.0
+  to /tmp/ob-http1KgiwM/ob-http-0.2.0
     ob-http-mode.el -> ob-http-mode.el
     ob-http.el -> ob-http.el
 Created ob-http-0.2.0.tar containing:
@@ -13,9 +14,9 @@ Created ob-http-0.2.0.tar containing:
   ob-http-0.2.0/ob-http-mode.el
   ob-http-0.2.0/ob-http-pkg.el
   ob-http-0.2.0/ob-http.el
-Built ob-http in 2.926s, finished at Wed May 19 01:38:09 2021
+Built ob-http in 4.483s, finished at 2021-08-17T11:21:44+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  333 May 19 01:38 packages-stable/ob-http-0.2.0.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:38 packages-stable/ob-http-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ob-http-badge.svg
-4.0K -rw-r--r-- 1 root root   32 May 19 01:38 packages-stable/ob-http-readme.txt
+4.0K -rw-r--r-- 1 root root  333 Aug 17 11:21 packages-stable/ob-http-0.2.0.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:21 packages-stable/ob-http-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/ob-http-badge.svg
+4.0K -rw-r--r-- 1 root root   32 Aug 17 11:21 packages-stable/ob-http-readme.txt

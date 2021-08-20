@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-sonarlint.git
 
 Updating /mnt/store/melpa/working/lsp-sonarlint/
+Checking out d2c0ffe736d6cda4cc524f62ac8b5c5c98490c04
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-sonarlint/
-  to /tmp/lsp-sonarlintf11cxx/lsp-sonarlint-0.0.2
+  to /tmp/lsp-sonarlintElCRUQ/lsp-sonarlint-0.0.2
     lsp-sonarlint.el -> lsp-sonarlint.el
   ! languages/xml/lsp-sonarlint-xml.el -> languages/lsp-sonarlint-xml.el
   ! languages/scala/lsp-sonarlint-scala.el -> languages/lsp-sonarlint-scala.el
@@ -33,9 +34,9 @@ Created lsp-sonarlint-0.0.2.tar containing:
   lsp-sonarlint-0.0.2/server/
   lsp-sonarlint-0.0.2/server/LICENSE
   lsp-sonarlint-0.0.2/server/sonarlint-language-server.jar
-Built lsp-sonarlint in 3.751s, finished at Wed May 19 01:33:14 2021
+Built lsp-sonarlint in 4.278s, finished at 2021-08-17T11:16:29+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  472 May 19 01:33 packages-stable/lsp-sonarlint-0.0.2.entry
- 14M -rw-r--r-- 1 root root  14M May 19 01:33 packages-stable/lsp-sonarlint-0.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-sonarlint-badge.svg
-4.0K -rw-r--r-- 1 root root  201 May 19 01:33 packages-stable/lsp-sonarlint-readme.txt
+4.0K -rw-r--r-- 1 root root  472 Aug 17 11:16 packages-stable/lsp-sonarlint-0.0.2.entry
+ 14M -rw-r--r-- 1 root root  14M Aug 17 11:16 packages-stable/lsp-sonarlint-0.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-sonarlint-badge.svg
+4.0K -rw-r--r-- 1 root root  201 Aug 17 11:16 packages-stable/lsp-sonarlint-readme.txt

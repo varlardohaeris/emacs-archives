@@ -1,0 +1,12 @@
+(with-simulated-input .
+		      [(20210527 2320)
+		       ((emacs
+			 (24 4)))
+		       "A macro to simulate user input non-interactively" single
+		       ((:commit . "0f43fe46d4ab098c18a90b9df18cb96bab8e4a35")
+			(:authors
+			 ("Ryan C. Thompson" . "rct@thompsonclan.org")
+			 ("Nikita Bloshchanevich" . "nikblos@outlook.com"))
+			(:maintainer "Ryan C Thompson" . "rct@thompsonclan.org")
+			(:keywords "lisp" "tools" "extensions")
+			(:url . "https://github.com/DarwinAwardWinner/with-simulated-input"))])

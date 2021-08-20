@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/mdempsky/gocode.git
 
 Updating /mnt/store/melpa/working/company-go/
-Built company-go in 4.162s, finished at Wed May 19 04:24:30 2021
+Checking out eef10fdde96a12528a6da32f51bf638b2863a3b1
+Built company-go in 3.957s, finished at 2021-08-17T10:49:59+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.1K May 19 04:24 packages-stable/company-go-20150303.el
-4.0K -rw-r--r-- 1 root root  336 May 19 04:24 packages-stable/company-go-20150303.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-go-badge.svg
+8.0K -rw-r--r-- 1 root root 7.1K Aug 17 10:49 packages-stable/company-go-20150303.el
+4.0K -rw-r--r-- 1 root root  336 Aug 17 10:49 packages-stable/company-go-20150303.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-go-badge.svg

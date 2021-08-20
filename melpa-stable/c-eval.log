@@ -1,0 +1,6 @@
+Package: c-eval
+Fetcher: github
+Source:  https://github.com/lassik/emacs-c-eval.git
+
+Updating /mnt/store/melpa/working/c-eval/
+No valid stable versions found for c-eval

@@ -5,7 +5,7 @@
 	     (rtags
 	      (2 10)))
 	    "RTags completion back-end for ivy" single
-	    ((:commit . "63f18acb21e664fd92fbc19465f0b5df085b5e93")
+	    ((:commit . "3a057f127b931c683288f8731f05ba5e2aab4133")
 	     (:authors
 	      ("Jan Erik Hanssen" . "jhanssen@gmail.com")
 	      ("Anders Bakken" . "agbakken@gmail.com"))

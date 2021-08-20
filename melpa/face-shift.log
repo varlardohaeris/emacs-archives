@@ -1,11 +1,13 @@
 Package: face-shift
 Fetcher: git
-Source:  https://git.sr.ht/~zge/face-shift
+Source:  https://git.sr.ht/~pkal/face-shift
 
 Updating /mnt/store/melpa/working/face-shift/
-Built face-shift in 9.336s, finished at Wed May 19 03:20:02 2021
+Checking out origin/HEAD
+Checking out 14dce79fc42116c49eb4c8a4ab7ca3c4bd7cbf6f
+Built face-shift in 3.981s, finished at 2021-08-17T09:43:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.9K May 19 03:20 packages/face-shift-20190818.1551.el
-4.0K -rw-r--r-- 1 root root  411 May 19 03:20 packages/face-shift-20190818.1551.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:20 packages/face-shift-badge.svg
-4.0K -rw-r--r-- 1 root root  204 May 19 03:20 packages/face-shift-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K Aug 17 09:43 packages/face-shift-20210725.2146.el
+4.0K -rw-r--r-- 1 root root  396 Aug 17 09:43 packages/face-shift-20210725.2146.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/face-shift-badge.svg
+4.0K -rw-r--r-- 1 root root  204 Aug 17 09:43 packages/face-shift-readme.txt

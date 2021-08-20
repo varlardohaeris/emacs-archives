@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/LefterisJP/malinka.git
 
 Updating /mnt/store/melpa/working/malinka/
-Built malinka in 3.596s, finished at Wed May 19 01:33:55 2021
+Checking out f89ea727a0e1ad2758f5f5c34853fd5e9569a948
+Built malinka in 4.429s, finished at 2021-08-17T11:17:18+0000
  ✓ Success:
- 52K -rw-r--r-- 1 root root  49K May 19 01:33 packages-stable/malinka-0.3.1.el
-4.0K -rw-r--r-- 1 root root  516 May 19 01:33 packages-stable/malinka-0.3.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/malinka-badge.svg
-4.0K -rw-r--r-- 1 root root  888 May 19 01:33 packages-stable/malinka-readme.txt
+ 56K -rw-r--r-- 1 root root  49K Aug 17 11:17 packages-stable/malinka-0.3.1.el
+4.0K -rw-r--r-- 1 root root  516 Aug 17 11:17 packages-stable/malinka-0.3.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/malinka-badge.svg
+4.0K -rw-r--r-- 1 root root  888 Aug 17 11:17 packages-stable/malinka-readme.txt

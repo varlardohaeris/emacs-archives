@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/magit/magit.git
 
 Updating /mnt/store/melpa/working/magit-libgit/
-No matching file(s) found in /mnt/store/melpa/working/magit-libgit/: (lisp/magit-libgit.el)
+Checking out 38ac3fe82352dd6007c5103897abd2ef456b7158
+Built magit-libgit in 4.372s, finished at 2021-08-17T11:16:57+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:16 packages-stable/magit-libgit-3.2.1.el
+4.0K -rw-r--r-- 1 root root  393 Aug 17 11:16 packages-stable/magit-libgit-3.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/magit-libgit-badge.svg
+4.0K -rw-r--r-- 1 root root  493 Aug 17 11:16 packages-stable/magit-libgit-readme.txt

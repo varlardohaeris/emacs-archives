@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/skeeto/emacs-memoize.git
 
 Updating /mnt/store/melpa/working/memoize/
-Built memoize in 6.437s, finished at Wed May 19 01:34:50 2021
+Checking out 2d1b8a98881fbeb5e6fa5fe042482eb6fe1c44ca
+Built memoize in 4.168s, finished at 2021-08-17T11:17:53+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.1K May 19 01:34 packages-stable/memoize-1.1.el
-4.0K -rw-r--r-- 1 root root  311 May 19 01:34 packages-stable/memoize-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/memoize-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 01:34 packages-stable/memoize-readme.txt
+8.0K -rw-r--r-- 1 root root 7.1K Aug 17 11:17 packages-stable/memoize-1.1.el
+4.0K -rw-r--r-- 1 root root  311 Aug 17 11:17 packages-stable/memoize-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/memoize-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 11:17 packages-stable/memoize-readme.txt

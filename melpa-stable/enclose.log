@@ -3,7 +3,9 @@ Fetcher: github
 Source:  https://github.com/rejeep/enclose.el.git
 
 Updating /mnt/store/melpa/working/enclose/
+Checking out 8c3a9c050cb76f478049674069c1dac1b2a3ad81
 Command '(env LC_ALL=C git submodule update --init --recursive)' exited with non-zero status 1: Fetching origin
+origin/HEAD set to master
 HEAD is now at 8c3a9c0 Update version to 0.0.2.
 Synchronizing submodule url for 'util/ecukes'
 Synchronizing submodule url for 'util/ecukes/test/el-mock'

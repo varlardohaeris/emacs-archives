@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/mola-T/SPU.git
 
 Updating /mnt/store/melpa/working/spu/
+Checking out origin/HEAD
+Checking out 41eec86b595816e3852e8ad1a8e07e51a27fd065
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/spu/
-  to /tmp/spu6tfG5h/spu-20161214.324
+  to /tmp/spugHgh7d/spu-20161214.324
     spu-dark.el -> spu-dark.el
     spu.el -> spu.el
 Created spu-20161214.324.tar containing:
@@ -13,9 +15,9 @@ Created spu-20161214.324.tar containing:
   spu-20161214.324/spu-dark.el
   spu-20161214.324/spu-pkg.el
   spu-20161214.324/spu.el
-Built spu in 3.827s, finished at Wed May 19 04:06:42 2021
+Built spu in 4.862s, finished at 2021-08-17T13:57:27+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  413 May 19 04:06 packages/spu-20161214.324.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:06 packages/spu-20161214.324.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:06 packages/spu-badge.svg
-4.0K -rw-r--r-- 1 root root  373 May 19 04:06 packages/spu-readme.txt
+4.0K -rw-r--r-- 1 root root  413 Aug 17 13:57 packages/spu-20161214.324.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 13:57 packages/spu-20161214.324.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 13:57 packages/spu-badge.svg
+4.0K -rw-r--r-- 1 root root  373 Aug 17 13:57 packages/spu-readme.txt

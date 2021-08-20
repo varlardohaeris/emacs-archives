@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/the-kenny/weechat.el.git
 
 Updating /mnt/store/melpa/working/weechat/
+Checking out 8cbda2738149b070c09288df550781b6c604beb2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/weechat/
-  to /tmp/weechatbVUcqH/weechat-0.5.0
+  to /tmp/weechatkmPF0E/weechat-0.5.0
     weechat-button.el -> weechat-button.el
     weechat-cmd.el -> weechat-cmd.el
     weechat-color.el -> weechat-color.el
@@ -46,10 +47,10 @@ Created weechat-0.5.0.tar containing:
   weechat-0.5.0/weechat-spelling.el
   weechat-0.5.0/weechat-tracking.el
   weechat-0.5.0/weechat.el
-Built weechat in 3.724s, finished at Wed May 19 01:54:51 2021
+Built weechat in 4.631s, finished at 2021-08-17T11:40:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  563 May 19 01:54 packages-stable/weechat-0.5.0.entry
-220K -rw-r--r-- 1 root root 220K May 19 01:54 packages-stable/weechat-0.5.0.tar
-4.0K -rw-r--r-- 1 root root  190 May 19 01:54 packages-stable/weechat-alert.log
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/weechat-badge.svg
-4.0K -rw-r--r-- 1 root root  116 May 19 01:54 packages-stable/weechat-readme.txt
+4.0K -rw-r--r-- 1 root root  563 Aug 17 11:40 packages-stable/weechat-0.5.0.entry
+220K -rw-r--r-- 1 root root 220K Aug 17 11:40 packages-stable/weechat-0.5.0.tar
+4.0K -rw-r--r-- 1 root root  190 Aug 17 11:40 packages-stable/weechat-alert.log
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/weechat-badge.svg
+4.0K -rw-r--r-- 1 root root  116 Aug 17 11:40 packages-stable/weechat-readme.txt

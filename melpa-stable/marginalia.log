@@ -3,21 +3,10 @@ Fetcher: github
 Source:  https://github.com/minad/marginalia.git
 
 Updating /mnt/store/melpa/working/marginalia/
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/marginalia/
-  to /tmp/marginalianzdabs/marginalia-0.5
-    marginalia.el -> marginalia.el
-    marginalia.texi -> marginalia.texi
-Created /tmp/marginalianzdabs/marginalia-0.5/marginalia.info
-Created marginalia-0.5.tar containing:
-  marginalia-0.5/
-  marginalia-0.5/dir
-  marginalia-0.5/marginalia-pkg.el
-  marginalia-0.5/marginalia.el
-  marginalia-0.5/marginalia.info
-Built marginalia in 8.785s, finished at Wed May 19 01:34:09 2021
+Checking out b65d66e9301f9a0e3012568ca6721ae4ec276ebc
+Built marginalia in 4.173s, finished at 2021-08-17T11:17:26+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  468 May 19 01:34 packages-stable/marginalia-0.5.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:34 packages-stable/marginalia-0.5.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/marginalia-badge.svg
-4.0K -rw-r--r-- 1 root root   53 May 19 01:34 packages-stable/marginalia-readme.txt
+ 48K -rw-r--r-- 1 root root  44K Aug 17 11:17 packages-stable/marginalia-0.8.el
+4.0K -rw-r--r-- 1 root root  471 Aug 17 11:17 packages-stable/marginalia-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/marginalia-badge.svg
+4.0K -rw-r--r-- 1 root root   53 Aug 17 11:17 packages-stable/marginalia-readme.txt

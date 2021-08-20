@@ -3,7 +3,7 @@
 	   ((emacs
 	     (26 1)))
 	   "Spotify access library" single
-	   ((:commit . "22b81067ebcaef2cea633f967a4b55454af9326a")
+	   ((:commit . "5bf63dacc5df8a74860e80dabd16afce68a24a36")
 	    (:authors
 	     ("Jose A Ortega Ruiz" . "jao@gnu.org"))
 	    (:maintainer "Jose A Ortega Ruiz")

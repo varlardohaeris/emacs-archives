@@ -3,9 +3,11 @@ Fetcher: gitlab
 Source:  https://gitlab.com/sasanidas/maxima.git
 
 Updating /mnt/store/melpa/working/maxima/
+Checking out origin/HEAD
+Checking out ce5fd160c193e387d9e2bacdba4065c4b4262cb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/maxima/
-  to /tmp/maximaiYGFYJ/maxima-20210124.2005
+  to /tmp/maximaBtqvhM/maxima-20210526.1525
     maxima.el -> maxima.el
     maxima-font-lock.el -> maxima-font-lock.el
     keywords/constants -> keywords/constants
@@ -20,27 +22,27 @@ Copying files (->) and directories (=>)
     keywords/scene -> keywords/scene
     keywords/special -> keywords/special
     keywords/system_variables -> keywords/system_variables
-Created maxima-20210124.2005.tar containing:
-  maxima-20210124.2005/
-  maxima-20210124.2005/keywords/
-  maxima-20210124.2005/keywords/constants
-  maxima-20210124.2005/keywords/functions
-  maxima-20210124.2005/keywords/global
-  maxima-20210124.2005/keywords/graphic
-  maxima-20210124.2005/keywords/object
-  maxima-20210124.2005/keywords/operators
-  maxima-20210124.2005/keywords/options
-  maxima-20210124.2005/keywords/plot
-  maxima-20210124.2005/keywords/properties
-  maxima-20210124.2005/keywords/scene
-  maxima-20210124.2005/keywords/special
-  maxima-20210124.2005/keywords/system_variables
-  maxima-20210124.2005/maxima-font-lock.el
-  maxima-20210124.2005/maxima-pkg.el
-  maxima-20210124.2005/maxima.el
-Built maxima in 4.045s, finished at Wed May 19 03:43:29 2021
+Created maxima-20210526.1525.tar containing:
+  maxima-20210526.1525/
+  maxima-20210526.1525/keywords/
+  maxima-20210526.1525/keywords/constants
+  maxima-20210526.1525/keywords/functions
+  maxima-20210526.1525/keywords/global
+  maxima-20210526.1525/keywords/graphic
+  maxima-20210526.1525/keywords/object
+  maxima-20210526.1525/keywords/operators
+  maxima-20210526.1525/keywords/options
+  maxima-20210526.1525/keywords/plot
+  maxima-20210526.1525/keywords/properties
+  maxima-20210526.1525/keywords/scene
+  maxima-20210526.1525/keywords/special
+  maxima-20210526.1525/keywords/system_variables
+  maxima-20210526.1525/maxima-font-lock.el
+  maxima-20210526.1525/maxima-pkg.el
+  maxima-20210526.1525/maxima.el
+Built maxima in 5.660s, finished at 2021-08-17T10:07:39+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  416 May 19 03:43 packages/maxima-20210124.2005.entry
-192K -rw-r--r-- 1 root root 190K May 19 03:43 packages/maxima-20210124.2005.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:43 packages/maxima-badge.svg
-4.0K -rw-r--r-- 1 root root  572 May 19 03:43 packages/maxima-readme.txt
+4.0K -rw-r--r-- 1 root root  416 Aug 17 10:07 packages/maxima-20210526.1525.entry
+192K -rw-r--r-- 1 root root 190K Aug 17 10:07 packages/maxima-20210526.1525.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:07 packages/maxima-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:07 packages/maxima-readme.txt

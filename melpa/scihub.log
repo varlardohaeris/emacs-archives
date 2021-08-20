@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacs-pe/scihub.el.git
 
 Updating /mnt/store/melpa/working/scihub/
-Built scihub in 5.064s, finished at Wed May 19 04:02:32 2021
+Checking out origin/HEAD
+Checking out 4f8852dc675fcf3d20ae6e945f4579890ed81de5
+Built scihub in 11.785s, finished at 2021-08-17T10:27:33+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.0K May 19 04:02 packages/scihub-20201009.420.el
-4.0K -rw-r--r-- 1 root root  360 May 19 04:02 packages/scihub-20201009.420.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:02 packages/scihub-badge.svg
-4.0K -rw-r--r-- 1 root root   72 May 19 04:02 packages/scihub-readme.txt
+ 12K -rw-r--r-- 1 root root 9.0K Aug 17 10:27 packages/scihub-20201009.420.el
+4.0K -rw-r--r-- 1 root root  360 Aug 17 10:27 packages/scihub-20201009.420.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:27 packages/scihub-badge.svg
+4.0K -rw-r--r-- 1 root root   72 Aug 17 10:27 packages/scihub-readme.txt

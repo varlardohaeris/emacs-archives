@@ -3,18 +3,19 @@ Fetcher: github
 Source:  https://github.com/ardumont/emacs-creds.git
 
 Updating /mnt/store/melpa/working/creds/
+Checking out 00ebefd10005c170b790a01380cb6a98f798ce5c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/creds/
-  to /tmp/creds8SW5DB/creds-0.0.6.1
+  to /tmp/credsjyMP7l/creds-0.0.6.1
     creds-pkg.el -> creds-pkg.el
     creds.el -> creds.el
 Created creds-0.0.6.1.tar containing:
   creds-0.0.6.1/
   creds-0.0.6.1/creds-pkg.el
   creds-0.0.6.1/creds.el
-Built creds in 3.751s, finished at Wed May 19 04:25:45 2021
+Built creds in 3.802s, finished at 2021-08-17T10:51:35+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  408 May 19 04:25 packages-stable/creds-0.0.6.1.entry
- 12K -rw-r--r-- 1 root root  10K May 19 04:25 packages-stable/creds-0.0.6.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/creds-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 04:25 packages-stable/creds-readme.txt
+4.0K -rw-r--r-- 1 root root  408 Aug 17 10:51 packages-stable/creds-0.0.6.1.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 10:51 packages-stable/creds-0.0.6.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/creds-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 10:51 packages-stable/creds-readme.txt

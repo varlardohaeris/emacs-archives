@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacscollective/epkg.git
 
 Updating /mnt/store/melpa/working/epkg/
+Checking out 0af56c3fdc94de2f0c25e2aee1e4f7f316870bb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/epkg/
-  to /tmp/epkg6lnB2F/epkg-3.2.2
+  to /tmp/epkggzpeJB/epkg-3.3.1
     epkg-desc.el -> epkg-desc.el
     epkg-gelpa.el -> epkg-gelpa.el
     epkg-list.el -> epkg-list.el
@@ -15,23 +16,24 @@ Copying files (->) and directories (=>)
     epkg-utils.el -> epkg-utils.el
     epkg.el -> epkg.el
     epkg.texi -> epkg.texi
-Created /tmp/epkg6lnB2F/epkg-3.2.2/epkg.info
-Created epkg-3.2.2.tar containing:
-  epkg-3.2.2/
-  epkg-3.2.2/dir
-  epkg-3.2.2/epkg-desc.el
-  epkg-3.2.2/epkg-gelpa.el
-  epkg-3.2.2/epkg-list.el
-  epkg-3.2.2/epkg-melpa.el
-  epkg-3.2.2/epkg-org.el
-  epkg-3.2.2/epkg-pkg.el
-  epkg-3.2.2/epkg-schemata.el
-  epkg-3.2.2/epkg-utils.el
-  epkg-3.2.2/epkg.el
-  epkg-3.2.2/epkg.info
-Built epkg in 7.560s, finished at Wed May 19 04:31:14 2021
+Created /tmp/epkggzpeJB/epkg-3.3.1/epkg.info
+Created epkg-3.3.1.tar containing:
+  epkg-3.3.1/
+  epkg-3.3.1/dir
+  epkg-3.3.1/epkg-desc.el
+  epkg-3.3.1/epkg-gelpa.el
+  epkg-3.3.1/epkg-list.el
+  epkg-3.3.1/epkg-melpa.el
+  epkg-3.3.1/epkg-org.el
+  epkg-3.3.1/epkg-pkg.el
+  epkg-3.3.1/epkg-schemata.el
+  epkg-3.3.1/epkg-utils.el
+  epkg-3.3.1/epkg.el
+  epkg-3.3.1/epkg.info
+Built epkg in 8.921s, finished at 2021-08-17T10:57:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  389 May 19 04:31 packages-stable/epkg-3.2.2.entry
-100K -rw-r--r-- 1 root root 100K May 19 04:31 packages-stable/epkg-3.2.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/epkg-badge.svg
-4.0K -rw-r--r-- 1 root root  341 May 19 04:31 packages-stable/epkg-readme.txt
+4.0K -rw-r--r-- 1 root root  370 Aug 17 10:57 packages-stable/epkg-3.3.1.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 10:57 packages-stable/epkg-3.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/epkg-badge.svg
+4.0K -rw-r--r-- 1 root root  208 Aug 17 10:57 packages-stable/epkg-marginalia.log
+4.0K -rw-r--r-- 1 root root  341 Aug 17 10:57 packages-stable/epkg-readme.txt

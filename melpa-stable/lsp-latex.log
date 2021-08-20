@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ROCKTAKEY/lsp-latex.git
 
 Updating /mnt/store/melpa/working/lsp-latex/
-Built lsp-latex in 3.294s, finished at Wed May 19 01:33:05 2021
+Checking out 1c60c2d331baf778bd8a3ac9d5688516398ae323
+Built lsp-latex in 3.646s, finished at 2021-08-17T11:16:20+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 01:33 packages-stable/lsp-latex-1.3.0.el
-4.0K -rw-r--r-- 1 root root  410 May 19 01:33 packages-stable/lsp-latex-1.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-latex-badge.svg
-4.0K -rw-r--r-- 1 root root 1.9K May 19 01:33 packages-stable/lsp-latex-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 11:16 packages-stable/lsp-latex-2.0.0.el
+4.0K -rw-r--r-- 1 root root  410 Aug 17 11:16 packages-stable/lsp-latex-2.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-latex-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 11:16 packages-stable/lsp-latex-readme.txt

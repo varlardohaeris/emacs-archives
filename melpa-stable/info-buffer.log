@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/llvilanova/info-buffer.git
 
 Updating /mnt/store/melpa/working/info-buffer/
-Built info-buffer in 3.564s, finished at Wed May 19 04:43:18 2021
+Checking out d35dad6e766c6e2ddb8dc6acb4ce5b6e10fbcaa7
+Built info-buffer in 4.466s, finished at 2021-08-17T11:11:31+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.3K May 19 04:43 packages-stable/info-buffer-0.2.el
-4.0K -rw-r--r-- 1 root root  381 May 19 04:43 packages-stable/info-buffer-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/info-buffer-badge.svg
-4.0K -rw-r--r-- 1 root root  324 May 19 04:43 packages-stable/info-buffer-readme.txt
+4.0K -rw-r--r-- 1 root root 2.3K Aug 17 11:11 packages-stable/info-buffer-0.2.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:11 packages-stable/info-buffer-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/info-buffer-badge.svg
+4.0K -rw-r--r-- 1 root root  324 Aug 17 11:11 packages-stable/info-buffer-readme.txt

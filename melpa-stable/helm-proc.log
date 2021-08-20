@@ -3,18 +3,19 @@ Fetcher: github
 Source:  https://github.com/markus1189/helm-proc.git
 
 Updating /mnt/store/melpa/working/helm-proc/
+Checking out c9319d93042c633c418df52b5c1f2a2497887515
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-proc/
-  to /tmp/helm-procxZL8kY/helm-proc-0.0.5
+  to /tmp/helm-proc7UUNTn/helm-proc-0.0.5
     helm-proc-pkg.el -> helm-proc-pkg.el
     helm-proc.el -> helm-proc.el
 Created helm-proc-0.0.5.tar containing:
   helm-proc-0.0.5/
   helm-proc-0.0.5/helm-proc-pkg.el
   helm-proc-0.0.5/helm-proc.el
-Built helm-proc in 3.040s, finished at Wed May 19 04:40:57 2021
+Built helm-proc in 3.751s, finished at 2021-08-17T11:08:51+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  326 May 19 04:40 packages-stable/helm-proc-0.0.5.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:40 packages-stable/helm-proc-0.0.5.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-proc-badge.svg
-4.0K -rw-r--r-- 1 root root  517 May 19 04:40 packages-stable/helm-proc-readme.txt
+4.0K -rw-r--r-- 1 root root  326 Aug 17 11:08 packages-stable/helm-proc-0.0.5.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:08 packages-stable/helm-proc-0.0.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-proc-badge.svg
+4.0K -rw-r--r-- 1 root root  517 Aug 17 11:08 packages-stable/helm-proc-readme.txt

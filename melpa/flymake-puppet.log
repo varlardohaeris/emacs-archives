@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/benprew/flymake-puppet.git
 
 Updating /mnt/store/melpa/working/flymake-puppet/
-Built flymake-puppet in 4.226s, finished at Wed May 19 03:23:19 2021
+Checking out origin/HEAD
+Checking out 8a772395f4ccc59d883712ab53a92a17c1d9a429
+Built flymake-puppet in 4.941s, finished at 2021-08-17T09:46:46+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.9K May 19 03:23 packages/flymake-puppet-20170801.554.el
-4.0K -rw-r--r-- 1 root root  294 May 19 03:23 packages/flymake-puppet-20170801.554.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:23 packages/flymake-puppet-badge.svg
-4.0K -rw-r--r-- 1 root root   88 May 19 03:23 packages/flymake-puppet-readme.txt
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 09:46 packages/flymake-puppet-20170801.554.el
+4.0K -rw-r--r-- 1 root root  294 Aug 17 09:46 packages/flymake-puppet-20170801.554.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:46 packages/flymake-puppet-badge.svg
+4.0K -rw-r--r-- 1 root root   88 Aug 17 09:46 packages/flymake-puppet-readme.txt

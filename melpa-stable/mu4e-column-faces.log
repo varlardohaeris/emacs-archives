@@ -1,0 +1,12 @@
+Package: mu4e-column-faces
+Fetcher: github
+Source:  https://github.com/Alexander-Miller/mu4e-column-faces.git
+
+Updating /mnt/store/melpa/working/mu4e-column-faces/
+Checking out 2f903099073a863fb9b827d3d10c439237925548
+Built mu4e-column-faces in 3.874s, finished at 2021-08-17T11:19:44+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.5K Aug 17 11:19 packages-stable/mu4e-column-faces-1.0.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:19 packages-stable/mu4e-column-faces-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/mu4e-column-faces-badge.svg
+4.0K -rw-r--r-- 1 root root   66 Aug 17 11:19 packages-stable/mu4e-column-faces-readme.txt

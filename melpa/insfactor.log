@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/duelinmarkers/insfactor.el.git
 
 Updating /mnt/store/melpa/working/insfactor/
-Built insfactor in 3.208s, finished at Wed May 19 03:35:09 2021
+Checking out origin/release
+Checking out 7ef5446cebb08a17d4106d2e6f3c053e49e1e829
+Built insfactor in 6.325s, finished at 2021-08-17T09:58:58+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.9K May 19 03:35 packages/insfactor-20141117.2.el
-4.0K -rw-r--r-- 1 root root  387 May 19 03:35 packages/insfactor-20141117.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:35 packages/insfactor-badge.svg
-4.0K -rw-r--r-- 1 root root  242 May 19 03:35 packages/insfactor-readme.txt
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 09:58 packages/insfactor-20141117.2.el
+4.0K -rw-r--r-- 1 root root  387 Aug 17 09:58 packages/insfactor-20141117.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:58 packages/insfactor-badge.svg
+4.0K -rw-r--r-- 1 root root  242 Aug 17 09:58 packages/insfactor-readme.txt

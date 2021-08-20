@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/skeeto/nasm-mode.git
 
 Updating /mnt/store/melpa/working/nasm-mode/
-Built nasm-mode in 3.706s, finished at Wed May 19 01:37:03 2021
+Checking out a22c53472b049a7523bef94bcc97c31c2e6d70eb
+Built nasm-mode in 4.194s, finished at 2021-08-17T11:20:24+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  36K May 19 01:37 packages-stable/nasm-mode-1.1.1.el
-4.0K -rw-r--r-- 1 root root  361 May 19 01:37 packages-stable/nasm-mode-1.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nasm-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  584 May 19 01:37 packages-stable/nasm-mode-readme.txt
+ 36K -rw-r--r-- 1 root root  36K Aug 17 11:20 packages-stable/nasm-mode-1.1.1.el
+4.0K -rw-r--r-- 1 root root  361 Aug 17 11:20 packages-stable/nasm-mode-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/nasm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  584 Aug 17 11:20 packages-stable/nasm-mode-readme.txt

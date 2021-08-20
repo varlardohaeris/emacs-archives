@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/undercover-el/undercover.el.git
 
 Updating /mnt/store/melpa/working/undercover/
-Built undercover in 2.859s, finished at Wed May 19 01:53:19 2021
+Checking out 1d3587f1fad66a747688f36636b67b33b73447d3
+Built undercover in 3.809s, finished at 2021-08-17T11:38:53+0000
  ✓ Success:
- 52K -rw-r--r-- 1 root root  50K May 19 01:53 packages-stable/undercover-0.8.0.el
-4.0K -rw-r--r-- 1 root root  495 May 19 01:53 packages-stable/undercover-0.8.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/undercover-badge.svg
-4.0K -rw-r--r-- 1 root root   49 May 19 01:53 packages-stable/undercover-readme.txt
+ 60K -rw-r--r-- 1 root root  57K Aug 17 11:38 packages-stable/undercover-0.8.1.el
+4.0K -rw-r--r-- 1 root root  495 Aug 17 11:38 packages-stable/undercover-0.8.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/undercover-badge.svg
+4.0K -rw-r--r-- 1 root root   49 Aug 17 11:38 packages-stable/undercover-readme.txt

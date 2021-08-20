@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/karlotness/flymake-quickdef.git
 
 Updating /mnt/store/melpa/working/flymake-quickdef/
-Built flymake-quickdef in 3.032s, finished at Wed May 19 04:35:44 2021
+Checking out 150c5839768a3d32f988f9dc08052978a68f2ad7
+Built flymake-quickdef in 3.848s, finished at 2021-08-17T11:02:47+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 04:35 packages-stable/flymake-quickdef-1.0.0.el
-4.0K -rw-r--r-- 1 root root  374 May 19 04:35 packages-stable/flymake-quickdef-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-quickdef-badge.svg
-4.0K -rw-r--r-- 1 root root  829 May 19 04:35 packages-stable/flymake-quickdef-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:02 packages-stable/flymake-quickdef-1.0.0.el
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:02 packages-stable/flymake-quickdef-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flymake-quickdef-badge.svg
+4.0K -rw-r--r-- 1 root root  829 Aug 17 11:02 packages-stable/flymake-quickdef-readme.txt

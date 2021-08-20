@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/d12frosted/flyspell-correct.git
 
 Updating /mnt/store/melpa/working/flyspell-correct-ivy/
-Built flyspell-correct-ivy in 3.060s, finished at Wed May 19 04:35:53 2021
+Checking out 7b4cf8c9ba5ac65e3bb2b62f5b72d45f4c9cf7b6
+Built flyspell-correct-ivy in 3.912s, finished at 2021-08-17T11:02:57+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.5K May 19 04:35 packages-stable/flyspell-correct-ivy-0.6.1.el
-4.0K -rw-r--r-- 1 root root  435 May 19 04:35 packages-stable/flyspell-correct-ivy-0.6.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flyspell-correct-ivy-badge.svg
-4.0K -rw-r--r-- 1 root root  474 May 19 04:35 packages-stable/flyspell-correct-ivy-readme.txt
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 11:02 packages-stable/flyspell-correct-ivy-0.6.1.el
+4.0K -rw-r--r-- 1 root root  435 Aug 17 11:02 packages-stable/flyspell-correct-ivy-0.6.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flyspell-correct-ivy-badge.svg
+4.0K -rw-r--r-- 1 root root  474 Aug 17 11:02 packages-stable/flyspell-correct-ivy-readme.txt

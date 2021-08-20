@@ -1,11 +1,13 @@
 Package: circe
 Fetcher: github
-Source:  https://github.com/jorgenschaefer/circe.git
+Source:  https://github.com/emacs-circe/circe.git
 
 Updating /mnt/store/melpa/working/circe/
+Checking out origin/HEAD
+Checking out 77e16de3b9fbaa0417b56a9acc70a9bca17c4ad0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/circe/
-  to /tmp/circeq9r6Hf/circe-20210508.1616
+  to /tmp/circeEMf8Qf/circe-20210717.1041
     circe-chanop.el -> circe-chanop.el
     circe-color-nicks.el -> circe-color-nicks.el
     circe-compat.el -> circe-compat.el
@@ -26,35 +28,35 @@ Copying files (->) and directories (=>)
     make-tls-process.el -> make-tls-process.el
     shorten.el -> shorten.el
     tracking.el -> tracking.el
-Created circe-20210508.1616.tar containing:
-  circe-20210508.1616/
-  circe-20210508.1616/circe-chanop.el
-  circe-20210508.1616/circe-color-nicks.el
-  circe-20210508.1616/circe-compat.el
-  circe-20210508.1616/circe-display-images.el
-  circe-20210508.1616/circe-lagmon.el
-  circe-20210508.1616/circe-new-day-notifier.el
-  circe-20210508.1616/circe-pkg.el
-  circe-20210508.1616/circe.el
-  circe-20210508.1616/irc.el
-  circe-20210508.1616/lcs.el
-  circe-20210508.1616/lui-autopaste.el
-  circe-20210508.1616/lui-format.el
-  circe-20210508.1616/lui-irc-colors.el
-  circe-20210508.1616/lui-logging.el
-  circe-20210508.1616/lui-track-bar.el
-  circe-20210508.1616/lui-track.el
-  circe-20210508.1616/lui.el
-  circe-20210508.1616/make-tls-process.el
-  circe-20210508.1616/shorten.el
-  circe-20210508.1616/tracking.el
-Built circe in 4.978s, finished at Wed May 19 03:04:58 2021
+Created circe-20210717.1041.tar containing:
+  circe-20210717.1041/
+  circe-20210717.1041/circe-chanop.el
+  circe-20210717.1041/circe-color-nicks.el
+  circe-20210717.1041/circe-compat.el
+  circe-20210717.1041/circe-display-images.el
+  circe-20210717.1041/circe-lagmon.el
+  circe-20210717.1041/circe-new-day-notifier.el
+  circe-20210717.1041/circe-pkg.el
+  circe-20210717.1041/circe.el
+  circe-20210717.1041/irc.el
+  circe-20210717.1041/lcs.el
+  circe-20210717.1041/lui-autopaste.el
+  circe-20210717.1041/lui-format.el
+  circe-20210717.1041/lui-irc-colors.el
+  circe-20210717.1041/lui-logging.el
+  circe-20210717.1041/lui-track-bar.el
+  circe-20210717.1041/lui-track.el
+  circe-20210717.1041/lui.el
+  circe-20210717.1041/make-tls-process.el
+  circe-20210717.1041/shorten.el
+  circe-20210717.1041/tracking.el
+Built circe in 4.959s, finished at 2021-08-17T09:27:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  364 May 19 03:04 packages/circe-20210508.1616.entry
-372K -rw-r--r-- 1 root root 370K May 19 03:04 packages/circe-20210508.1616.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:04 packages/circe-badge.svg
- 12K -rw-r--r-- 1 root root 9.6K May 19 03:04 packages/circe-notifications-20180102.2318.el
-4.0K -rw-r--r-- 1 root root  421 May 19 03:04 packages/circe-notifications-20180102.2318.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:04 packages/circe-notifications-badge.svg
-4.0K -rw-r--r-- 1 root root  520 May 19 03:04 packages/circe-notifications.log
-4.0K -rw-r--r-- 1 root root  227 May 19 03:04 packages/circe-readme.txt
+4.0K -rw-r--r-- 1 root root  361 Aug 17 09:27 packages/circe-20210717.1041.entry
+372K -rw-r--r-- 1 root root 370K Aug 17 09:27 packages/circe-20210717.1041.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:27 packages/circe-badge.svg
+ 12K -rw-r--r-- 1 root root 9.6K Aug 17 09:27 packages/circe-notifications-20180102.2318.el
+4.0K -rw-r--r-- 1 root root  421 Aug 17 09:27 packages/circe-notifications-20180102.2318.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 05:55 packages/circe-notifications-badge.svg
+4.0K -rw-r--r-- 1 root root  239 Aug 17 09:27 packages/circe-notifications.log
+4.0K -rw-r--r-- 1 root root  227 Aug 17 09:27 packages/circe-readme.txt

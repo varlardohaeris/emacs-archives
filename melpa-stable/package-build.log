@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/melpa/package-build.git
 
 Updating /mnt/store/melpa/working/package-build/
+Checking out 20a01c8f966e16d305458d522d8fa3a4db1bfffb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package-build/
-  to /tmp/package-buildVyCcyd/package-build-2.4
+  to /tmp/package-buildPUCVoK/package-build-2.4
     package-build-badges.el -> package-build-badges.el
     package-build.el -> package-build.el
     package-recipe-mode.el -> package-recipe-mode.el
@@ -17,9 +18,9 @@ Created package-build-2.4.tar containing:
   package-build-2.4/package-build.el
   package-build-2.4/package-recipe-mode.el
   package-build-2.4/package-recipe.el
-Built package-build in 2.660s, finished at Wed May 19 01:41:42 2021
+Built package-build in 3.710s, finished at 2021-08-17T11:25:48+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  319 May 19 01:41 packages-stable/package-build-2.4.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:41 packages-stable/package-build-2.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/package-build-badge.svg
-4.0K -rw-r--r-- 1 root root  308 May 19 01:41 packages-stable/package-build-readme.txt
+4.0K -rw-r--r-- 1 root root  319 Aug 17 11:25 packages-stable/package-build-2.4.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 11:25 packages-stable/package-build-2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/package-build-badge.svg
+4.0K -rw-r--r-- 1 root root  308 Aug 17 11:25 packages-stable/package-build-readme.txt

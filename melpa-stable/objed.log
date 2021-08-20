@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/clemera/objed.git
 
 Updating /mnt/store/melpa/working/objed/
+Checking out 4798b5b9fd531562ac17d6148e86cd8cdc1bc985
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/objed/
-  to /tmp/objedqwzJWY/objed-0.8.1
+  to /tmp/objedf32uTI/objed-0.8.1
     objed-objects.el -> objed-objects.el
     objed.el -> objed.el
 Created objed-0.8.1.tar containing:
@@ -13,9 +14,9 @@ Created objed-0.8.1.tar containing:
   objed-0.8.1/objed-objects.el
   objed-0.8.1/objed-pkg.el
   objed-0.8.1/objed.el
-Built objed in 3.097s, finished at Wed May 19 01:38:24 2021
+Built objed in 3.328s, finished at 2021-08-17T11:22:06+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  361 May 19 01:38 packages-stable/objed-0.8.1.entry
-212K -rw-r--r-- 1 root root 210K May 19 01:38 packages-stable/objed-0.8.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/objed-badge.svg
-8.0K -rw-r--r-- 1 root root 4.6K May 19 01:38 packages-stable/objed-readme.txt
+4.0K -rw-r--r-- 1 root root  361 Aug 17 11:22 packages-stable/objed-0.8.1.entry
+212K -rw-r--r-- 1 root root 210K Aug 17 11:22 packages-stable/objed-0.8.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/objed-badge.svg
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 11:22 packages-stable/objed-readme.txt

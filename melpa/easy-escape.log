@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/cpitclaudel/easy-escape.git
 
 Updating /mnt/store/melpa/working/easy-escape/
-Built easy-escape in 10.217s, finished at Wed May 19 03:13:20 2021
+Checking out origin/HEAD
+Checking out a6449f22cb97160ee1c90121968de89e193268df
+Built easy-escape in 8.300s, finished at 2021-08-17T09:36:15+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.9K May 19 03:13 packages/easy-escape-20161209.1544.el
-4.0K -rw-r--r-- 1 root root  456 May 19 03:13 packages/easy-escape-20161209.1544.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:13 packages/easy-escape-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:13 packages/easy-escape-readme.txt
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 09:36 packages/easy-escape-20161209.1544.el
+4.0K -rw-r--r-- 1 root root  456 Aug 17 09:36 packages/easy-escape-20161209.1544.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:36 packages/easy-escape-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:36 packages/easy-escape-readme.txt

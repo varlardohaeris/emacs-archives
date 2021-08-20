@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/erlang/otp.git
 
 Updating /mnt/store/melpa/working/erlang/
+Checking out 907b761405d3f73c0a67038a48f0c76dec002fc7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/erlang/
-  to /tmp/erlang1tWHqs/erlang-24.0
+  to /tmp/erlangB42rvd/erlang-24.0.5
   ! lib/tools/emacs/erlang-edoc.el -> erlang-edoc.el
   ! lib/tools/emacs/erlang-eunit.el -> erlang-eunit.el
   ! lib/tools/emacs/erlang-flymake.el -> erlang-flymake.el
@@ -16,21 +17,21 @@ Copying files (->) and directories (=>)
   ! lib/tools/emacs/erlang-test.el -> erlang-test.el
   ! lib/tools/emacs/erlang.el -> erlang.el
   ! lib/tools/emacs/erldoc.el -> erldoc.el
-Created erlang-24.0.tar containing:
-  erlang-24.0/
-  erlang-24.0/erlang-edoc.el
-  erlang-24.0/erlang-eunit.el
-  erlang-24.0/erlang-flymake.el
-  erlang-24.0/erlang-pkg.el
-  erlang-24.0/erlang-skels-old.el
-  erlang-24.0/erlang-skels.el
-  erlang-24.0/erlang-start.el
-  erlang-24.0/erlang-test.el
-  erlang-24.0/erlang.el
-  erlang-24.0/erldoc.el
-Built erlang in 5.134s, finished at Wed May 19 04:31:28 2021
+Created erlang-24.0.5.tar containing:
+  erlang-24.0.5/
+  erlang-24.0.5/erlang-edoc.el
+  erlang-24.0.5/erlang-eunit.el
+  erlang-24.0.5/erlang-flymake.el
+  erlang-24.0.5/erlang-pkg.el
+  erlang-24.0.5/erlang-skels-old.el
+  erlang-24.0.5/erlang-skels.el
+  erlang-24.0.5/erlang-start.el
+  erlang-24.0.5/erlang-test.el
+  erlang-24.0.5/erlang.el
+  erlang-24.0.5/erldoc.el
+Built erlang in 9.251s, finished at 2021-08-17T10:57:56+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  250 May 19 04:31 packages-stable/erlang-24.0.entry
-432K -rw-r--r-- 1 root root 430K May 19 04:31 packages-stable/erlang-24.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/erlang-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 04:31 packages-stable/erlang-readme.txt
+4.0K -rw-r--r-- 1 root root  252 Aug 17 10:57 packages-stable/erlang-24.0.5.entry
+432K -rw-r--r-- 1 root root 430K Aug 17 10:57 packages-stable/erlang-24.0.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/erlang-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 10:57 packages-stable/erlang-readme.txt

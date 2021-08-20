@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Raku/raku-mode.git
 
 Updating /mnt/store/melpa/working/raku-mode/
+Checking out 7496ad3a03bed613c259405ec8839ae02950fdb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/raku-mode/
-  to /tmp/raku-modeQ09lQX/raku-mode-0.2.0
+  to /tmp/raku-mode8UPRwG/raku-mode-0.2.0
     raku-detect.el -> raku-detect.el
     raku-font-lock.el -> raku-font-lock.el
     raku-imenu.el -> raku-imenu.el
@@ -25,9 +26,9 @@ Created raku-mode-0.2.0.tar containing:
   raku-mode-0.2.0/raku-repl.el
   raku-mode-0.2.0/raku-skeletons.el
   raku-mode-0.2.0/raku-unicode-menu.el
-Built raku-mode in 3.416s, finished at Wed May 19 01:45:25 2021
+Built raku-mode in 8.967s, finished at 2021-08-17T11:30:12+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  425 May 19 01:45 packages-stable/raku-mode-0.2.0.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:45 packages-stable/raku-mode-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/raku-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  104 May 19 01:45 packages-stable/raku-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  425 Aug 17 11:30 packages-stable/raku-mode-0.2.0.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 11:30 packages-stable/raku-mode-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/raku-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  104 Aug 17 11:30 packages-stable/raku-mode-readme.txt

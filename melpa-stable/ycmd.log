@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abingham/emacs-ycmd.git
 
 Updating /mnt/store/melpa/working/ycmd/
+Checking out d042a673b4d717c3ca9d641f120bfe16c994c740
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ycmd/
-  to /tmp/ycmd7OCUJN/ycmd-1.2
+  to /tmp/ycmdScDsHO/ycmd-1.2
     ycmd.el -> ycmd.el
     ycmd-eldoc.el -> ycmd-eldoc.el
   ! contrib/ycmd-next-error.el -> ycmd-next-error.el
@@ -15,9 +16,9 @@ Created ycmd-1.2.tar containing:
   ycmd-1.2/ycmd-next-error.el
   ycmd-1.2/ycmd-pkg.el
   ycmd-1.2/ycmd.el
-Built ycmd in 3.132s, finished at Wed May 19 01:56:26 2021
+Built ycmd in 3.629s, finished at 2021-08-17T11:42:37+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  397 May 19 01:56 packages-stable/ycmd-1.2.entry
-112K -rw-r--r-- 1 root root 110K May 19 01:56 packages-stable/ycmd-1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/ycmd-badge.svg
-4.0K -rw-r--r-- 1 root root 2.5K May 19 01:56 packages-stable/ycmd-readme.txt
+4.0K -rw-r--r-- 1 root root  397 Aug 17 11:42 packages-stable/ycmd-1.2.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 11:42 packages-stable/ycmd-1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/ycmd-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 11:42 packages-stable/ycmd-readme.txt

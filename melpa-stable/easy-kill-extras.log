@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/knu/easy-kill-extras.el.git
 
 Updating /mnt/store/melpa/working/easy-kill-extras/
+Checking out 74e9d0fcafc38d5f24e6209671a552bc1ba5a867
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/easy-kill-extras/
-  to /tmp/easy-kill-extrasLkiAoe/easy-kill-extras-0.9.6
+  to /tmp/easy-kill-extrasbdovBk/easy-kill-extras-0.9.10
     easy-kill-aj.el -> easy-kill-aj.el
     easy-kill-buffer.el -> easy-kill-buffer.el
     easy-kill-er.el -> easy-kill-er.el
@@ -13,19 +14,21 @@ Copying files (->) and directories (=>)
     easy-kill-line-edge.el -> easy-kill-line-edge.el
     easy-kill-mc.el -> easy-kill-mc.el
     easy-kill-to-char.el -> easy-kill-to-char.el
-Created easy-kill-extras-0.9.6.tar containing:
-  easy-kill-extras-0.9.6/
-  easy-kill-extras-0.9.6/easy-kill-aj.el
-  easy-kill-extras-0.9.6/easy-kill-buffer.el
-  easy-kill-extras-0.9.6/easy-kill-er.el
-  easy-kill-extras-0.9.6/easy-kill-extras-pkg.el
-  easy-kill-extras-0.9.6/easy-kill-extras.el
-  easy-kill-extras-0.9.6/easy-kill-line-edge.el
-  easy-kill-extras-0.9.6/easy-kill-mc.el
-  easy-kill-extras-0.9.6/easy-kill-to-char.el
-Built easy-kill-extras in 3.325s, finished at Wed May 19 04:29:13 2021
+    extra-things.el -> extra-things.el
+Created easy-kill-extras-0.9.10.tar containing:
+  easy-kill-extras-0.9.10/
+  easy-kill-extras-0.9.10/easy-kill-aj.el
+  easy-kill-extras-0.9.10/easy-kill-buffer.el
+  easy-kill-extras-0.9.10/easy-kill-er.el
+  easy-kill-extras-0.9.10/easy-kill-extras-pkg.el
+  easy-kill-extras-0.9.10/easy-kill-extras.el
+  easy-kill-extras-0.9.10/easy-kill-line-edge.el
+  easy-kill-extras-0.9.10/easy-kill-mc.el
+  easy-kill-extras-0.9.10/easy-kill-to-char.el
+  easy-kill-extras-0.9.10/extra-things.el
+Built easy-kill-extras in 3.909s, finished at 2021-08-17T10:54:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  395 May 19 04:29 packages-stable/easy-kill-extras-0.9.6.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:29 packages-stable/easy-kill-extras-0.9.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/easy-kill-extras-badge.svg
-4.0K -rw-r--r-- 1 root root 2.5K May 19 04:29 packages-stable/easy-kill-extras-readme.txt
+4.0K -rw-r--r-- 1 root root  396 Aug 17 10:54 packages-stable/easy-kill-extras-0.9.10.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:54 packages-stable/easy-kill-extras-0.9.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/easy-kill-extras-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 10:54 packages-stable/easy-kill-extras-readme.txt

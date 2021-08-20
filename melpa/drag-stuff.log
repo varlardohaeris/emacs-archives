@@ -3,18 +3,20 @@ Fetcher: github
 Source:  https://github.com/rejeep/drag-stuff.el.git
 
 Updating /mnt/store/melpa/working/drag-stuff/
+Checking out origin/HEAD
+Checking out 6d06d846cd37c052d79acd0f372c13006aa7e7c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/drag-stuff/
-  to /tmp/drag-stuffh4amTn/drag-stuff-20161108.749
+  to /tmp/drag-stuffVKH0YP/drag-stuff-20161108.749
     drag-stuff-pkg.el -> drag-stuff-pkg.el
     drag-stuff.el -> drag-stuff.el
 Created drag-stuff-20161108.749.tar containing:
   drag-stuff-20161108.749/
   drag-stuff-20161108.749/drag-stuff-pkg.el
   drag-stuff-20161108.749/drag-stuff.el
-Built drag-stuff in 4.042s, finished at Wed May 19 03:12:30 2021
+Built drag-stuff in 4.638s, finished at 2021-08-17T09:35:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  399 May 19 03:12 packages/drag-stuff-20161108.749.entry
- 20K -rw-r--r-- 1 root root  20K May 19 03:12 packages/drag-stuff-20161108.749.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:12 packages/drag-stuff-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 03:12 packages/drag-stuff-readme.txt
+4.0K -rw-r--r-- 1 root root  399 Aug 17 09:35 packages/drag-stuff-20161108.749.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 09:35 packages/drag-stuff-20161108.749.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:35 packages/drag-stuff-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 09:35 packages/drag-stuff-readme.txt

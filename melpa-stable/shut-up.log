@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cask/shut-up.git
 
 Updating /mnt/store/melpa/working/shut-up/
-Built shut-up in 3.152s, finished at Wed May 19 01:48:28 2021
+Checking out 081d6b01e3ba0e60326558e545c4019219e046ce
+Built shut-up in 3.514s, finished at 2021-08-17T11:33:22+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.4K May 19 01:48 packages-stable/shut-up-0.3.3.el
-4.0K -rw-r--r-- 1 root root  343 May 19 01:48 packages-stable/shut-up-0.3.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shut-up-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:48 packages-stable/shut-up-readme.txt
+8.0K -rw-r--r-- 1 root root 5.4K Aug 17 11:33 packages-stable/shut-up-0.3.3.el
+4.0K -rw-r--r-- 1 root root  343 Aug 17 11:33 packages-stable/shut-up-0.3.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shut-up-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:33 packages-stable/shut-up-readme.txt

@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/thierryvolpiatto/psession.git
 
 Updating /mnt/store/melpa/working/psession/
-Built psession in 3.279s, finished at Wed May 19 01:44:30 2021
+Checking out f1f4314ba8cb22c4cc5e4dc1ef49bbf2f00849a9
+Built psession in 3.822s, finished at 2021-08-17T11:29:00+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 01:44 packages-stable/psession-1.5.el
-4.0K -rw-r--r-- 1 root root  418 May 19 01:44 packages-stable/psession-1.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/psession-badge.svg
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:28 packages-stable/psession-1.5.el
+4.0K -rw-r--r-- 1 root root  418 Aug 17 11:28 packages-stable/psession-1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/psession-badge.svg

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/clomacs.git
 
 Updating /mnt/store/melpa/working/clomacs/
-Built clomacs in 3.057s, finished at Wed May 19 04:23:40 2021
+Checking out aa187025748fc8c79b923ad009090b4017017a54
+Built clomacs in 3.482s, finished at 2021-08-17T10:49:09+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  26K May 19 04:23 packages-stable/clomacs-0.0.5.el
-4.0K -rw-r--r-- 1 root root  453 May 19 04:23 packages-stable/clomacs-0.0.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clomacs-badge.svg
-4.0K -rw-r--r-- 1 root root  283 May 19 04:23 packages-stable/clomacs-readme.txt
+ 28K -rw-r--r-- 1 root root  26K Aug 17 10:49 packages-stable/clomacs-0.0.5.el
+4.0K -rw-r--r-- 1 root root  453 Aug 17 10:49 packages-stable/clomacs-0.0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/clomacs-badge.svg
+4.0K -rw-r--r-- 1 root root  283 Aug 17 10:49 packages-stable/clomacs-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/wlemuel/alarm-clock.git
 
 Updating /mnt/store/melpa/working/alarm-clock/
+Checking out 2621d3a492d7f4e10a34d9d1d4af015df55a2b1b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/alarm-clock/
-  to /tmp/alarm-clockF5nuSI/alarm-clock-1.0
+  to /tmp/alarm-clockfyKZWl/alarm-clock-1.0
     alarm-clock.el -> alarm-clock.el
     alarm.mp3 -> alarm.mp3
 Created alarm-clock-1.0.tar containing:
@@ -13,9 +14,9 @@ Created alarm-clock-1.0.tar containing:
   alarm-clock-1.0/alarm-clock-pkg.el
   alarm-clock-1.0/alarm-clock.el
   alarm-clock-1.0/alarm.mp3
-Built alarm-clock in 3.444s, finished at Wed May 19 04:19:01 2021
+Built alarm-clock in 4.031s, finished at 2021-08-17T10:43:46+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  402 May 19 04:19 packages-stable/alarm-clock-1.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:19 packages-stable/alarm-clock-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/alarm-clock-badge.svg
-4.0K -rw-r--r-- 1 root root  295 May 19 04:19 packages-stable/alarm-clock-readme.txt
+4.0K -rw-r--r-- 1 root root  402 Aug 17 10:43 packages-stable/alarm-clock-1.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:43 packages-stable/alarm-clock-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/alarm-clock-badge.svg
+4.0K -rw-r--r-- 1 root root  295 Aug 17 10:43 packages-stable/alarm-clock-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tee3/unobtrusive-magit-theme.git
 
 Updating /mnt/store/melpa/working/unobtrusive-magit-theme/
-Built unobtrusive-magit-theme in 3.027s, finished at Wed May 19 01:53:33 2021
+Checking out c6fda4b70905d97d6018bd099ac9e3e06e52a9ca
+Built unobtrusive-magit-theme in 3.675s, finished at 2021-08-17T11:39:11+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.7K May 19 01:53 packages-stable/unobtrusive-magit-theme-0.4.el
-4.0K -rw-r--r-- 1 root root  430 May 19 01:53 packages-stable/unobtrusive-magit-theme-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/unobtrusive-magit-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  133 May 19 01:53 packages-stable/unobtrusive-magit-theme-readme.txt
+8.0K -rw-r--r-- 1 root root 7.7K Aug 17 11:39 packages-stable/unobtrusive-magit-theme-0.4.el
+4.0K -rw-r--r-- 1 root root  430 Aug 17 11:39 packages-stable/unobtrusive-magit-theme-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/unobtrusive-magit-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Aug 17 11:39 packages-stable/unobtrusive-magit-theme-readme.txt

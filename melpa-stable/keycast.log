@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tarsius/keycast.git
 
 Updating /mnt/store/melpa/working/keycast/
-Built keycast in 2.723s, finished at Wed May 19 01:31:12 2021
+Checking out b1c3b118b3ea9cf0f59172bfff6d152965bb3724
+Built keycast in 4.041s, finished at 2021-08-17T11:14:07+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 01:31 packages-stable/keycast-1.0.4.el
-4.0K -rw-r--r-- 1 root root  339 May 19 01:31 packages-stable/keycast-1.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/keycast-badge.svg
-4.0K -rw-r--r-- 1 root root  188 May 19 01:31 packages-stable/keycast-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:14 packages-stable/keycast-1.1.0.el
+4.0K -rw-r--r-- 1 root root  339 Aug 17 11:14 packages-stable/keycast-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/keycast-badge.svg
+4.0K -rw-r--r-- 1 root root  188 Aug 17 11:14 packages-stable/keycast-readme.txt

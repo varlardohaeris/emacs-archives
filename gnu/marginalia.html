@@ -1,0 +1,225 @@
+<!DOCTYPE HTML PUBLIC>
+<html lang="en" xml:lang="en">
+    <head>
+        <title>GNU ELPA - marginalia</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="shortcut icon" type="image/png" href="../favicon.png">
+        <link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
+        <link rel="stylesheet" type="text/css" href="../layout.css">
+        <script src="../javascript/jquery.min.js" type="text/javascript"></script>
+        <script src="../javascript/jquery.filtertable.min.js" type="text/javascript"></script>
+        <script src="../javascript/package-search.js" type="text/javascript"></script>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,width=device-width" />
+    </head>
+    <body>
+
+        <div class="wrapper">
+
+            <div class="header small">
+                <div class="container">
+                    <h1><a href="index.html">GNU ELPA</a> - marginalia</h1>
+                </div>
+            </div>
+
+            <div class="container">
+<h2 class="package">marginalia</h2><dl><dt>Description</dt><dd>Enrich existing commands with completion annotations</dd>
+<dt>Latest</dt> <dd><a href="marginalia-0.8.tar">marginalia-0.8.tar</a>, 2021-Aug-11,  220&nbsp;KiB</dd>
+<dt>Maintainer</dt> <dd>Omar Antolín Camarena &lt;omar@matem.unam.mx>, Daniel Mendler &lt;mail@daniel-mendler.de></dd>
+<dt>Home page</dt> <dd><a href="https://github.com/minad/marginalia">https://github.com/minad/marginalia</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="https://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/marginalia">CGit</a> or <a href="https://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/marginalia">Gitweb</a></dd>
+<dt>Badge</dt><dd><img src="marginalia.svg"/></dd>
+</dl><p>To install this package, run in Emacs:</p>
+                       <pre>M-x <span class="kw">package-install</span> RET <span class="kw">marginalia</span> RET</pre><h2>Full description</h2><pre>
+#+title: marginalia.el - Marginalia in the minibuffer
+#+author: Omar Antolín Camarena, Daniel Mendler
+#+language: en
+#+export_file_name: marginalia.texi
+#+texinfo_dir_category: Emacs
+#+texinfo_dir_title: Marginalia: (marginalia).
+#+texinfo_dir_desc: Marginalia in the minibuffer
+
+#+html: &lt;a href="http://elpa.gnu.org/packages/marginalia.html">&lt;img alt="GNU ELPA" src="https://elpa.gnu.org/packages/marginalia.svg"/>&lt;/a>
+#+html: &lt;a href="http://elpa.gnu.org/devel/marginalia.html">&lt;img alt="GNU-devel ELPA" src="https://elpa.gnu.org/devel/marginalia.svg"/>&lt;/a>
+#+html: &lt;a href="https://melpa.org/#/marginalia">&lt;img alt="MELPA" src="https://melpa.org/packages/marginalia-badge.svg"/>&lt;/a>
+#+html: &lt;a href="https://stable.melpa.org/#/marginalia">&lt;img alt="MELPA Stable" src="https://stable.melpa.org/packages/marginalia-badge.svg"/>&lt;/a>
+
+* Introduction
+
+#+html: &lt;img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Marginalia_%285095211566%29.jpg" align="right" width="30%">
+
+This package provides =marginalia-mode= which adds marginalia to the
+minibuffer completions.
+[[https://en.wikipedia.org/wiki/Marginalia][Marginalia]] are marks or
+annotations placed at the margin of the page of a book or in this case
+helpful colorful annotations placed at the margin of the minibuffer for
+your completion candidates. Marginalia can only add annotations to be
+displayed with the completion candidates. It cannot modify the
+appearance of the candidates themselves, which are shown as supplied by
+the original commands.
+
+The annotations are added based on the completion category. For example
+=find-file= reports the =file= category and =M-x= reports the =command= category. You
+can cycle between more or less detailed annotators or even disable the annotator
+with command =marginalia-cycle=.
+
+#+html: &lt;img src="https://github.com/minad/marginalia/blob/main/marginalia-mode.png?raw=true">
+
+* Configuration
+
+It is recommended to use Marginalia together with either the [[https://github.com/raxod502/selectrum][Selectrum]], [[https://github.com/minad/vertico][Vertico]]
+or the [[https://github.com/oantolin/icomplete-vertical][Icomplete-vertical]] completion system. Furthermore Marginalia can be
+combined with [[https://github.com/oantolin/embark][Embark]] for action support and [[https://github.com/minad/consult][Consult]], which provides many useful
+commands.
+
+#+begin_src emacs-lisp
+;; Enable richer annotations using the Marginalia package
+(use-package marginalia
+  ;; Either bind `marginalia-cycle` globally or only in the minibuffer
+  :bind (("M-A" . marginalia-cycle)
+         :map minibuffer-local-map
+         ("M-A" . marginalia-cycle))
+
+  ;; The :init configuration is always executed (Not lazy!)
+  :init
+
+  ;; Must be in the :init section of use-package such that the mode gets
+  ;; enabled right away. Note that this forces loading the package.
+  (marginalia-mode))
+#+end_src
+
+* Adding custom annotators or classifiers
+
+Minibuffer completion commands can specify the type of the candidates which are
+being completed, called the *completion category*. For example the =M-x= command
+(=execute-extended-command=) specifies the category =command=. However many
+commands do not specify a completion category, this includes many of the Emacs
+built-in completion commands.
+
+In order to repair existing commands, Marginalia provides heuristic classifiers,
+which try to determine the completion category based on the prompt string or
+based on other properties of the completion candidates. You can for example
+define that commands with a prompt containing "face", have the associated =face=
+completion category.
+
+#+begin_src emacs-lisp
+  (add-to-list 'marginalia-prompt-categories '("face" . face))
+#+end_src
+
+Another useful classifier uses the =marginalia-command-categories= variable,
+which allows do define the completion category per command name. This is
+particularily useful if for example the prompt classifier yields a false
+positive. The list of all available classifiers is specified by the variable
+=marginalia-classifiers=. The completion categories are also important for
+[[https://github.com/oantolin/embark][Embark]], which associates its minibuffer actions depending on the completion
+commands.
+
+Marginalia uses the annotators depending on the completion category of the
+current command as registered in =marginalia-annotator-registry=. It is possible
+to specify multiple annotators per completion category (for example with more or
+less information). You can cycle between the different annotators by invoking
+the =marginalia-cycle= command during the current completion.
+
+An annotation function is a function taken a completion candidate string as
+argument and returns the annotation string. For example a basic face annotator
+can be written as follows:
+
+#+begin_src emacs-lisp
+  (defun my-face-annotator (cand)
+    (when-let (sym (intern-soft cand))
+      (concat (propertize " " 'display '(space :align-to center))
+              (propertize "The quick brown fox jumps over the lazy dog" 'face sym))))
+#+end_src
+
+There are a few helper functions available internally which can be used to write
+the annotation functions more conveniently, in particular =marginalia--fields=.
+After defining the annotator, it must be added to the annotator registry.
+
+#+begin_src emacs-lisp
+  (add-to-list 'marginalia-annotator-registry
+               '(face my-face-annotator marginalia-annotate-face builtin none))
+#+end_src
+
+We also add the annotator provided by Marginalia (=marginalia-annotate-face=),
+the =builtin= annotator as defined by Emacs and the =none= annotator, which
+disables the annotations. You can cycle between all of those annotators using
+=marginalia-cycle= after invoking =M-x describe-face RET=.
+
+* Disabling annotators, builtin or lightweight annotators
+
+Marginalia activates rich annotators by default. Depending on your preference
+you may want to use the builtin annotators or even no annotators by default and
+only activate the annotators on demand by invoking ~marginalia-cycle~.
+
+In order to use the builtin annotators by default, you can use the following
+command. Replace =builtin= by =none= to disable annotators by default.
+
+#+begin_src emacs-lisp
+  (defun marginalia-use-builtin ()
+    (interactive)
+    (mapc
+     (lambda (x)
+       (setcdr x (cons 'builtin (remq 'builtin (cdr x)))))
+     marginalia-annotator-registry))
+#+end_src
+
+If a completion category supports two annotators, you can toggle between
+those using this command.
+
+#+begin_src emacs-lisp
+  (defun marginalia-toggle ()
+    (interactive)
+    (mapc
+     (lambda (x)
+       (setcdr x (append (reverse (remq 'none
+                                        (remq 'builtin (cdr x))))
+                         '(builtin none))))
+     marginalia-annotator-registry))
+#+end_src
+
+After cycling the annotators you may want to automatically save the
+configuration. This can be achieved using an advice which calls
+~customize-save-variable~.
+
+#+begin_src emacs-lisp
+  (advice-add #'marginalia-cycle :after
+              (lambda ()
+                (let ((inhibit-message t))
+                  (customize-save-variable 'marginalia-annotator-registry
+                                           marginalia-annotator-registry))))
+#+end_src
+
+In order to disable an annotator permanently, the ~marginalia-annotator-registry~
+can be modified. For example if you prefer to never see file annotations, you
+can delete all file annotators from the registry.
+
+#+begin_src emacs-lisp
+  (setq marginalia-annotator-registry
+        (assq-delete-all 'file marginalia-annotator-registry))
+#+end_src
+
+* Contributions
+
+Since this package is part of [[http://elpa.gnu.org/packages/marginalia.html][GNU ELPA]] contributions require a copyright
+assignment to the FSF.
+
+</pre>
+<h2>Old versions</h2><table>
+<tr><td><a href="marginalia-0.7.tar.lz">marginalia-0.7.tar.lz</a></td><td>2021-Jun-20</td><td> 130&nbsp;KiB</td>
+<tr><td><a href="marginalia-0.6.tar.lz">marginalia-0.6.tar.lz</a></td><td>2021-May-30</td><td> 128&nbsp;KiB</td>
+</table>
+
+
+        <div class="footer">
+            <div class="container">
+                <p>Copyright 2016-2021 <a href="https://fsf.org">Free Software Foundation</a>, Inc.</p>
+                <p>Design provided by <a href="https://nicolas.petton.fr">Nicolas Petton</a></p>
+                <p>
+                  This website is licensed under the
+                  <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+                  International License.
+                </p>
+                <p><a href="/jslicense.html" data-jslicense="1">JavaScript Licenses</a></p>
+            </div>
+        </div>
+
+</body>

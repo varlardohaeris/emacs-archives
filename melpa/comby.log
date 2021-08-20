@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/s-kostyaev/comby.el.git
 
 Updating /mnt/store/melpa/working/comby/
-Built comby in 5.793s, finished at Wed May 19 03:06:10 2021
+Checking out origin/HEAD
+Checking out 928b8b8959a2556aba5526f2a25801341eb59dc3
+Built comby in 4.881s, finished at 2021-08-17T09:28:52+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.4K May 19 03:06 packages/comby-20200629.140.el
-4.0K -rw-r--r-- 1 root root  329 May 19 03:06 packages/comby-20200629.140.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:06 packages/comby-badge.svg
-4.0K -rw-r--r-- 1 root root   95 May 19 03:06 packages/comby-readme.txt
+8.0K -rw-r--r-- 1 root root 6.4K Aug 17 09:28 packages/comby-20200629.140.el
+4.0K -rw-r--r-- 1 root root  329 Aug 17 09:28 packages/comby-20200629.140.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:28 packages/comby-badge.svg
+4.0K -rw-r--r-- 1 root root   95 Aug 17 09:28 packages/comby-readme.txt

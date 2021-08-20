@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/Bad-ptr/persp-mode.el.git
 
 Updating /mnt/store/melpa/working/persp-mode/
-Built persp-mode in 3.554s, finished at Wed May 19 01:42:34 2021
+Checking out 391a7dc248c9c04b7ad424c696bdff578e14dd2c
+Built persp-mode in 4.314s, finished at 2021-08-17T11:26:46+0000
  ✓ Success:
-168K -rw-r--r-- 1 root root 165K May 19 01:42 packages-stable/persp-mode-2.9.8.el
-4.0K -rw-r--r-- 1 root root  488 May 19 01:42 packages-stable/persp-mode-2.9.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/persp-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  255 May 19 01:42 packages-stable/persp-mode-projectile-bridge.log
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/persp-mode-readme.txt
+168K -rw-r--r-- 1 root root 165K Aug 17 11:26 packages-stable/persp-mode-2.9.8.el
+4.0K -rw-r--r-- 1 root root  488 Aug 17 11:26 packages-stable/persp-mode-2.9.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/persp-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  240 Aug 17 11:26 packages-stable/persp-mode-project-bridge.log
+4.0K -rw-r--r-- 1 root root  255 Aug 17 11:26 packages-stable/persp-mode-projectile-bridge.log
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/persp-mode-readme.txt

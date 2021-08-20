@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/ns-auto-titlebar.git
 
 Updating /mnt/store/melpa/working/ns-auto-titlebar/
-Built ns-auto-titlebar in 2.818s, finished at Wed May 19 01:37:46 2021
+Checking out b16092e8058af63ad2bc222f166b0aa3cb66bf9d
+Built ns-auto-titlebar in 3.526s, finished at 2021-08-17T11:21:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:37 packages-stable/ns-auto-titlebar-0.3.el
-4.0K -rw-r--r-- 1 root root  402 May 19 01:37 packages-stable/ns-auto-titlebar-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/ns-auto-titlebar-badge.svg
-4.0K -rw-r--r-- 1 root root  578 May 19 01:37 packages-stable/ns-auto-titlebar-readme.txt
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:21 packages-stable/ns-auto-titlebar-0.3.el
+4.0K -rw-r--r-- 1 root root  402 Aug 17 11:21 packages-stable/ns-auto-titlebar-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/ns-auto-titlebar-badge.svg
+4.0K -rw-r--r-- 1 root root  578 Aug 17 11:21 packages-stable/ns-auto-titlebar-readme.txt

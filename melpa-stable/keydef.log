@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/keydef.git
 
 Updating /mnt/store/melpa/working/keydef/
-Built keydef in 3.950s, finished at Wed May 19 01:31:14 2021
+Checking out 8f1149a925a76c2bdd28bc02c3cc38da0596d887
+Built keydef in 3.933s, finished at 2021-08-17T11:14:08+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 01:31 packages-stable/keydef-1.15.el
-4.0K -rw-r--r-- 1 root root  324 May 19 01:31 packages-stable/keydef-1.15.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/keydef-badge.svg
-8.0K -rw-r--r-- 1 root root 7.9K May 19 01:31 packages-stable/keydef-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 11:14 packages-stable/keydef-1.15.el
+4.0K -rw-r--r-- 1 root root  324 Aug 17 11:14 packages-stable/keydef-1.15.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/keydef-badge.svg
+8.0K -rw-r--r-- 1 root root 7.9K Aug 17 11:14 packages-stable/keydef-readme.txt

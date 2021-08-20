@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mrkkrp/typit.git
 
 Updating /mnt/store/melpa/working/typit/
+Checking out a4e3147dedac5535bdc8b06aca00f34f14f26e35
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/typit/
-  to /tmp/typitumMuCO/typit-0.2.1
+  to /tmp/typitfDjTnt/typit-0.2.1
     typit.el -> typit.el
     dict => dict
 Created typit-0.2.1.tar containing:
@@ -15,9 +16,9 @@ Created typit-0.2.1.tar containing:
   typit-0.2.1/dict/english.txt
   typit-0.2.1/typit-pkg.el
   typit-0.2.1/typit.el
-Built typit in 2.920s, finished at Wed May 19 01:53:12 2021
+Built typit in 3.584s, finished at 2021-08-17T11:38:43+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  379 May 19 01:53 packages-stable/typit-0.2.1.entry
-120K -rw-r--r-- 1 root root 120K May 19 01:53 packages-stable/typit-0.2.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/typit-badge.svg
-4.0K -rw-r--r-- 1 root root  334 May 19 01:53 packages-stable/typit-readme.txt
+4.0K -rw-r--r-- 1 root root  379 Aug 17 11:38 packages-stable/typit-0.2.1.entry
+120K -rw-r--r-- 1 root root 120K Aug 17 11:38 packages-stable/typit-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/typit-badge.svg
+4.0K -rw-r--r-- 1 root root  334 Aug 17 11:38 packages-stable/typit-readme.txt

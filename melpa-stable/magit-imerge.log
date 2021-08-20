@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/magit/magit-imerge.git
 
 Updating /mnt/store/melpa/working/magit-imerge/
-Built magit-imerge in 2.929s, finished at Wed May 19 01:33:33 2021
+Checking out 0780fbd27f7f9fc02b1e4f009e7c3850969f307f
+Built magit-imerge in 3.904s, finished at 2021-08-17T11:16:52+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 01:33 packages-stable/magit-imerge-1.0.0.el
-4.0K -rw-r--r-- 1 root root  375 May 19 01:33 packages-stable/magit-imerge-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-imerge-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 01:33 packages-stable/magit-imerge-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:16 packages-stable/magit-imerge-1.1.0.el
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:16 packages-stable/magit-imerge-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/magit-imerge-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 11:16 packages-stable/magit-imerge-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/stsquad/dired-rsync.git
 
 Updating /mnt/store/melpa/working/dired-rsync/
+Checking out 947a008387a939f466ca122bda2ea98bb17710e3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-rsync/
-  to /tmp/dired-rsyncnxXaqH/dired-rsync-0.6
+  to /tmp/dired-rsyncAF935f/dired-rsync-0.6
     dired-rsync-ert.el -> dired-rsync-ert.el
     dired-rsync.el -> dired-rsync.el
 Created dired-rsync-0.6.tar containing:
@@ -13,9 +14,9 @@ Created dired-rsync-0.6.tar containing:
   dired-rsync-0.6/dired-rsync-ert.el
   dired-rsync-0.6/dired-rsync-pkg.el
   dired-rsync-0.6/dired-rsync.el
-Built dired-rsync in 3.561s, finished at Wed May 19 04:27:59 2021
+Built dired-rsync in 4.006s, finished at 2021-08-17T10:53:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  383 May 19 04:27 packages-stable/dired-rsync-0.6.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:27 packages-stable/dired-rsync-0.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-rsync-badge.svg
-4.0K -rw-r--r-- 1 root root  484 May 19 04:27 packages-stable/dired-rsync-readme.txt
+4.0K -rw-r--r-- 1 root root  383 Aug 17 10:53 packages-stable/dired-rsync-0.6.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:53 packages-stable/dired-rsync-0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dired-rsync-badge.svg
+4.0K -rw-r--r-- 1 root root  484 Aug 17 10:53 packages-stable/dired-rsync-readme.txt

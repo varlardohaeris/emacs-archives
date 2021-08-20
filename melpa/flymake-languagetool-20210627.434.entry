@@ -1,0 +1,12 @@
+(flymake-languagetool .
+		      [(20210627 434)
+		       ((emacs
+			 (27 1))
+			(s
+			 (1 9 0)))
+		       "Flymake support for LanguageTool" single
+		       ((:commit . "5c93f538978f2d272e5210b27f5255ee87b6b61f")
+			(:authors
+			 ("Shen, Jen-Chieh" . "jcs090218@gmail.com"))
+			(:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com")
+			(:url . "https://github.com/emacs-languagetool/flymake-languagetool"))])

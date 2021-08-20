@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Wilfred/deadgrep.git
 
 Updating /mnt/store/melpa/working/deadgrep/
-Built deadgrep in 3.068s, finished at Wed May 19 04:26:49 2021
+Checking out 647523452d57e94cec6ebc28e35d3e88487d82dc
+Built deadgrep in 3.820s, finished at 2021-08-17T10:52:33+0000
  ✓ Success:
- 56K -rw-r--r-- 1 root root  55K May 19 04:26 packages-stable/deadgrep-0.10.el
-4.0K -rw-r--r-- 1 root root  440 May 19 04:26 packages-stable/deadgrep-0.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/deadgrep-badge.svg
-4.0K -rw-r--r-- 1 root root  240 May 19 04:26 packages-stable/deadgrep-readme.txt
+ 56K -rw-r--r-- 1 root root  55K Aug 17 10:52 packages-stable/deadgrep-0.10.el
+4.0K -rw-r--r-- 1 root root  440 Aug 17 10:52 packages-stable/deadgrep-0.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/deadgrep-badge.svg
+4.0K -rw-r--r-- 1 root root  240 Aug 17 10:52 packages-stable/deadgrep-readme.txt

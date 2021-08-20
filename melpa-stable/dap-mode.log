@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/dap-mode.git
 
 Updating /mnt/store/melpa/working/dap-mode/
+Checking out 35db94e81c592246675f300aaca4a70966b8a5fc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dap-mode/
-  to /tmp/dap-modeaEnBIz/dap-mode-0.6
+  to /tmp/dap-modeP25ZHD/dap-mode-0.6
     dap-chrome.el -> dap-chrome.el
     dap-edge.el -> dap-edge.el
     dap-elixir.el -> dap-elixir.el
@@ -85,9 +86,9 @@ Created dap-mode-0.6.tar containing:
   dap-mode-0.6/icons/vscode/stop-disabled.png
   dap-mode-0.6/icons/vscode/stop.png
   dap-mode-0.6/icons/vscode/toggle-breakpoints.png
-Built dap-mode in 3.087s, finished at Wed May 19 04:26:30 2021
+Built dap-mode in 4.113s, finished at 2021-08-17T10:52:14+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  589 May 19 04:26 packages-stable/dap-mode-0.6.entry
-272K -rw-r--r-- 1 root root 270K May 19 04:26 packages-stable/dap-mode-0.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/dap-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   41 May 19 04:26 packages-stable/dap-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  589 Aug 17 10:52 packages-stable/dap-mode-0.6.entry
+272K -rw-r--r-- 1 root root 270K Aug 17 10:52 packages-stable/dap-mode-0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/dap-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   41 Aug 17 10:52 packages-stable/dap-mode-readme.txt

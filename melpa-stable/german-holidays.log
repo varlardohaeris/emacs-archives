@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rudolfochrist/german-holidays.git
 
 Updating /mnt/store/melpa/working/german-holidays/
-Built german-holidays in 3.583s, finished at Wed May 19 04:36:54 2021
+Checking out 8388b3bf5b5c38f9b9fcc9216ca26ef0640c6edc
+Built german-holidays in 4.352s, finished at 2021-08-17T11:04:08+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.2K May 19 04:36 packages-stable/german-holidays-0.2.0.el
-4.0K -rw-r--r-- 1 root root  350 May 19 04:36 packages-stable/german-holidays-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/german-holidays-badge.svg
-4.0K -rw-r--r-- 1 root root  550 May 19 04:36 packages-stable/german-holidays-readme.txt
+8.0K -rw-r--r-- 1 root root 5.2K Aug 17 11:04 packages-stable/german-holidays-0.2.0.el
+4.0K -rw-r--r-- 1 root root  350 Aug 17 11:04 packages-stable/german-holidays-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/german-holidays-badge.svg
+4.0K -rw-r--r-- 1 root root  550 Aug 17 11:04 packages-stable/german-holidays-readme.txt

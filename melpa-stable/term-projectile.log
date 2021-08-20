@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/IvanMalison/term-manager.git
 
 Updating /mnt/store/melpa/working/term-projectile/
-Built term-projectile in 5.794s, finished at Wed May 19 01:51:33 2021
+Checking out 0bca2e7e3b6e906ec67696bc0be952988ca7f733
+Built term-projectile in 3.605s, finished at 2021-08-17T11:37:13+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.3K May 19 01:51 packages-stable/term-projectile-0.1.1.el
-4.0K -rw-r--r-- 1 root root  445 May 19 01:51 packages-stable/term-projectile-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/term-projectile-badge.svg
-4.0K -rw-r--r-- 1 root root   71 May 19 01:51 packages-stable/term-projectile-readme.txt
+8.0K -rw-r--r-- 1 root root 5.3K Aug 17 11:37 packages-stable/term-projectile-0.1.1.el
+4.0K -rw-r--r-- 1 root root  445 Aug 17 11:37 packages-stable/term-projectile-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/term-projectile-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Aug 17 11:37 packages-stable/term-projectile-readme.txt

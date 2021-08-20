@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/travisbhartwell/nix-emacs.git
 
 Updating /mnt/store/melpa/working/company-nixos-options/
-Built company-nixos-options in 3.208s, finished at Wed May 19 04:24:37 2021
+Checking out 5fc8fa29bea9dd8e9c822af92f9bc6ddc223635f
+Built company-nixos-options in 6.973s, finished at 2021-08-17T10:50:11+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.1K May 19 04:24 packages-stable/company-nixos-options-0.0.1.el
-4.0K -rw-r--r-- 1 root root  504 May 19 04:24 packages-stable/company-nixos-options-0.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-nixos-options-badge.svg
-4.0K -rw-r--r-- 1 root root  101 May 19 04:24 packages-stable/company-nixos-options-readme.txt
+4.0K -rw-r--r-- 1 root root 3.1K Aug 17 10:50 packages-stable/company-nixos-options-0.0.1.el
+4.0K -rw-r--r-- 1 root root  504 Aug 17 10:50 packages-stable/company-nixos-options-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/company-nixos-options-badge.svg
+4.0K -rw-r--r-- 1 root root  101 Aug 17 10:50 packages-stable/company-nixos-options-readme.txt

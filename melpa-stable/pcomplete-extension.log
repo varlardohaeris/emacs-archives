@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/thierryvolpiatto/pcomplete-extension.git
 
 Updating /mnt/store/melpa/working/pcomplete-extension/
-Built pcomplete-extension in 2.848s, finished at Wed May 19 01:42:22 2021
+Checking out 46458f445509053026a6a91b49d4ee9fdfae244d
+Built pcomplete-extension in 3.636s, finished at 2021-08-17T11:26:32+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 01:42 packages-stable/pcomplete-extension-1.0.el
-4.0K -rw-r--r-- 1 root root  438 May 19 01:42 packages-stable/pcomplete-extension-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/pcomplete-extension-badge.svg
+ 20K -rw-r--r-- 1 root root  19K Aug 17 11:26 packages-stable/pcomplete-extension-1.0.el
+4.0K -rw-r--r-- 1 root root  438 Aug 17 11:26 packages-stable/pcomplete-extension-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/pcomplete-extension-badge.svg

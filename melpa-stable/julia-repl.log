@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tpapp/julia-repl.git
 
 Updating /mnt/store/melpa/working/julia-repl/
-Built julia-repl in 3.564s, finished at Wed May 19 04:45:14 2021
+Checking out 7ce38a9caf2a9c105afe66f464a2f30e816d69f3
+Built julia-repl in 3.648s, finished at 2021-08-17T11:13:37+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  33K May 19 04:45 packages-stable/julia-repl-1.3.0.el
-4.0K -rw-r--r-- 1 root root  397 May 19 04:45 packages-stable/julia-repl-1.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/julia-repl-badge.svg
-4.0K -rw-r--r-- 1 root root  154 May 19 04:45 packages-stable/julia-repl-readme.txt
+ 36K -rw-r--r-- 1 root root  33K Aug 17 11:13 packages-stable/julia-repl-1.3.0.el
+4.0K -rw-r--r-- 1 root root  397 Aug 17 11:13 packages-stable/julia-repl-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/julia-repl-badge.svg
+4.0K -rw-r--r-- 1 root root  154 Aug 17 11:13 packages-stable/julia-repl-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/Indium.git
 
 Updating /mnt/store/melpa/working/indium/
+Checking out 7211c9f18b397c3dde713c33495a39de3fcd9998
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/indium/
-  to /tmp/indiumTXsKde/indium-2.1.7
+  to /tmp/indiumiDhWof/indium-2.1.7
     indium-breakpoint.el -> indium-breakpoint.el
     indium-chrome.el -> indium-chrome.el
     indium-client.el -> indium-client.el
@@ -24,7 +25,7 @@ Copying files (->) and directories (=>)
     indium-structs.el -> indium-structs.el
     indium.el -> indium.el
   ! doc/Indium.texi -> Indium.texi
-Created /tmp/indiumTXsKde/indium-2.1.7/Indium.info
+Created /tmp/indiumiDhWof/indium-2.1.7/Indium.info
 Created indium-2.1.7.tar containing:
   indium-2.1.7/
   indium-2.1.7/Indium.info
@@ -47,9 +48,9 @@ Created indium-2.1.7.tar containing:
   indium-2.1.7/indium-seq-fix.el
   indium-2.1.7/indium-structs.el
   indium-2.1.7/indium.el
-Built indium in 8.470s, finished at Wed May 19 04:43:17 2021
+Built indium in 8.357s, finished at 2021-08-17T11:11:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  499 May 19 04:43 packages-stable/indium-2.1.7.entry
-172K -rw-r--r-- 1 root root 170K May 19 04:43 packages-stable/indium-2.1.7.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/indium-badge.svg
-4.0K -rw-r--r-- 1 root root  273 May 19 04:43 packages-stable/indium-readme.txt
+4.0K -rw-r--r-- 1 root root  499 Aug 17 11:11 packages-stable/indium-2.1.7.entry
+172K -rw-r--r-- 1 root root 170K Aug 17 11:11 packages-stable/indium-2.1.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/indium-badge.svg
+4.0K -rw-r--r-- 1 root root  273 Aug 17 11:11 packages-stable/indium-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/helm-ispell.git
 
 Updating /mnt/store/melpa/working/helm-ispell/
-Built helm-ispell in 2.994s, finished at Wed May 19 04:40:35 2021
+Checking out 640723ace794d21b8a5892012db99f963149415b
+Built helm-ispell in 3.797s, finished at 2021-08-17T11:08:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.5K May 19 04:40 packages-stable/helm-ispell-0.1.el
-4.0K -rw-r--r-- 1 root root  366 May 19 04:40 packages-stable/helm-ispell-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-ispell-badge.svg
-4.0K -rw-r--r-- 1 root root   48 May 19 04:40 packages-stable/helm-ispell-readme.txt
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 11:08 packages-stable/helm-ispell-0.1.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 11:08 packages-stable/helm-ispell-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-ispell-badge.svg
+4.0K -rw-r--r-- 1 root root   48 Aug 17 11:08 packages-stable/helm-ispell-readme.txt

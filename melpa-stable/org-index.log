@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/marcIhm/org-index.git
 
 Updating /mnt/store/melpa/working/org-index/
-Built org-index in 4.357s, finished at Wed May 19 01:39:25 2021
+Checking out f3ea4a07abd971ebc2c48a1cf8c5e49ce6fa14bd
+Built org-index in 4.991s, finished at 2021-08-17T11:23:14+0000
  ✓ Success:
-108K -rw-r--r-- 1 root root 105K May 19 01:39 packages-stable/org-index-7.1.7.el
-4.0K -rw-r--r-- 1 root root  393 May 19 01:39 packages-stable/org-index-7.1.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-index-badge.svg
-4.0K -rw-r--r-- 1 root root 1.8K May 19 01:39 packages-stable/org-index-readme.txt
+112K -rw-r--r-- 1 root root 110K Aug 17 11:23 packages-stable/org-index-7.3.0.el
+4.0K -rw-r--r-- 1 root root  393 Aug 17 11:23 packages-stable/org-index-7.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:23 packages-stable/org-index-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 11:23 packages-stable/org-index-readme.txt

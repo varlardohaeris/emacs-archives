@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/yoshinari-nomura/mhc.git
 
 Updating /mnt/store/melpa/working/mhc/
+Checking out 9c35d574e2132adac721117afd10c06fad6a8d4e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mhc/
-  to /tmp/mhcni6qh6/mhc-1.2.4
+  to /tmp/mhcT2NEPr/mhc-1.2.4
   ! emacs/mhc-calendar.el -> mhc-calendar.el
   ! emacs/mhc-calfw.el -> mhc-calfw.el
   ! emacs/mhc-compat.el -> mhc-compat.el
@@ -59,9 +60,9 @@ Created mhc-1.2.4.tar containing:
   mhc-1.2.4/mhc-sync.el
   mhc-1.2.4/mhc-vars.el
   mhc-1.2.4/mhc.el
-Built mhc in 3.132s, finished at Wed May 19 01:35:12 2021
+Built mhc in 3.777s, finished at 2021-08-17T11:18:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  366 May 19 01:35 packages-stable/mhc-1.2.4.entry
-392K -rw-r--r-- 1 root root 390K May 19 01:35 packages-stable/mhc-1.2.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mhc-badge.svg
-4.0K -rw-r--r-- 1 root root  220 May 19 01:35 packages-stable/mhc-readme.txt
+4.0K -rw-r--r-- 1 root root  366 Aug 17 11:18 packages-stable/mhc-1.2.4.entry
+392K -rw-r--r-- 1 root root 390K Aug 17 11:18 packages-stable/mhc-1.2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/mhc-badge.svg
+4.0K -rw-r--r-- 1 root root  220 Aug 17 11:18 packages-stable/mhc-readme.txt

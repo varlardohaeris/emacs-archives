@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jonathanchu/atom-one-dark-theme.git
 
 Updating /mnt/store/melpa/working/atom-one-dark-theme/
-Built atom-one-dark-theme in 3.133s, finished at Wed May 19 04:19:56 2021
+Checking out f720088d3addf0b2b65458d3148447de00e67299
+Built atom-one-dark-theme in 3.206s, finished at 2021-08-17T10:45:09+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 04:19 packages-stable/atom-one-dark-theme-0.4.0.el
-4.0K -rw-r--r-- 1 root root  346 May 19 04:19 packages-stable/atom-one-dark-theme-0.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/atom-one-dark-theme-badge.svg
-4.0K -rw-r--r-- 1 root root   56 May 19 04:19 packages-stable/atom-one-dark-theme-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 10:45 packages-stable/atom-one-dark-theme-0.4.0.el
+4.0K -rw-r--r-- 1 root root  346 Aug 17 10:45 packages-stable/atom-one-dark-theme-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/atom-one-dark-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   56 Aug 17 10:45 packages-stable/atom-one-dark-theme-readme.txt

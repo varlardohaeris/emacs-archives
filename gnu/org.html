@@ -23,10 +23,11 @@
 
             <div class="container">
 <h2 class="package">org</h2><dl><dt>Description</dt><dd>Outline-based notes management and organizer</dd>
-<dt>Latest</dt> <dd><a href="org-9.4.5.tar">org-9.4.5.tar</a>, 2021-Mar-28, 8.25&nbsp;MiB</dd>
+<dt>Latest</dt> <dd><a href="org-9.4.6.tar">org-9.4.6.tar</a>, 2021-May-19, 8.26&nbsp;MiB</dd>
 <dt>Maintainer</dt> <dd>Bastien Guerry &lt;bzg@gnu.org></dd>
 <dt>Home page</dt> <dd><a href="https://orgmode.org">https://orgmode.org</a></dd>
-<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/org">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/org">Gitweb</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="https://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/org">CGit</a> or <a href="https://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/org">Gitweb</a></dd>
+<dt>Badge</dt><dd><img src="org.svg"/></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">org</span> RET</pre><h2>Full description</h2><pre>
 -*- mode: org; fill-column:70 -*-
@@ -72,6 +73,7 @@ directory.
 
 </pre>
 <h2>Old versions</h2><table>
+<tr><td><a href="org-9.4.5.tar.lz">org-9.4.5.tar.lz</a></td><td>2021-Mar-28</td><td>1.38&nbsp;MiB</td>
 <tr><td><a href="org-9.4.4.tar.lz">org-9.4.4.tar.lz</a></td><td>2020-Dec-22</td><td>1.38&nbsp;MiB</td>
 <tr><td><a href="org-9.4.3.tar.lz">org-9.4.3.tar.lz</a></td><td>2020-Dec-22</td><td>1.91&nbsp;MiB</td>
 <tr><td><a href="org-9.4.2.tar.lz">org-9.4.2.tar.lz</a></td><td>2020-Dec-13</td><td>1.23&nbsp;MiB</td>
@@ -88,7 +90,6 @@ directory.
 <tr><td><a href="org-9.2.1.tar.lz">org-9.2.1.tar.lz</a></td><td>2019-Feb-03</td><td>1.19&nbsp;MiB</td>
 <tr><td><a href="org-9.2.tar.lz">org-9.2.tar.lz</a></td><td>2018-Dec-31</td><td>1.18&nbsp;MiB</td>
 <tr><td><a href="org-9.1.14.tar.lz">org-9.1.14.tar.lz</a></td><td>2018-Aug-27</td><td>1.17&nbsp;MiB</td>
-<tr><td><a href="org-9.1.10.tar.lz">org-9.1.10.tar.lz</a></td><td>2018-Apr-16</td><td>1.17&nbsp;MiB</td>
 <tr><td><a href="org-9.1.9.tar.lz">org-9.1.9.tar.lz</a></td><td>2018-Mar-27</td><td>1.17&nbsp;MiB</td>
 <tr><td><a href="org-9.1.8.tar.lz">org-9.1.8.tar.lz</a></td><td>2018-Mar-26</td><td>1.17&nbsp;MiB</td>
 <tr><td><a href="org-9.1.7.tar.lz">org-9.1.7.tar.lz</a></td><td>2018-Mar-21</td><td>1.17&nbsp;MiB</td>
@@ -198,18 +199,32 @@ Also, ~org-startup-folded~ now defaults to ~showeverything~.
 
 ** New features
 
-*** Looping agenda commands over headlines
+*** =RET= and =C-j= now obey ~electric-indent-mode~
 
-~org-agenda-loop-over-headlines-in-active-region~ allows you to loop
-agenda commands over the active region.
+Since Emacs 24.4, ~electric-indent-mode~ is enabled by default.  In
+most major modes, this causes =RET= to reindent the current line and
+indent the new line, and =C-j= to insert a newline without indenting.
 
-When set to =t= (the default), loop over all headlines.  When set to
-='start-level=, loop over headlines with the same level as the first
-headline in the region.  When set to a string, loop over lines
-matching this regular expression.
+Org mode now obeys this minor mode: when ~electric-indent-mode~ is
+enabled, and point is neither in a table nor on a timestamp or a link:
 
-*** New minor mode ~org-table-header-line-mode~...
+- =RET= (bound to ~org-return~) reind...
 ...
 
 </pre>
+
+
+        <div class="footer">
+            <div class="container">
+                <p>Copyright 2016-2021 <a href="https://fsf.org">Free Software Foundation</a>, Inc.</p>
+                <p>Design provided by <a href="https://nicolas.petton.fr">Nicolas Petton</a></p>
+                <p>
+                  This website is licensed under the
+                  <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+                  International License.
+                </p>
+                <p><a href="/jslicense.html" data-jslicense="1">JavaScript Licenses</a></p>
+            </div>
+        </div>
+
 </body>

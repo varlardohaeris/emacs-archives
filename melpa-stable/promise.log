@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/chuntaro/emacs-promise.git
 
 Updating /mnt/store/melpa/working/promise/
+Checking out eb8675c5588f207e2c57fd89499fd1027328c4aa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/promise/
-  to /tmp/promiseqSCjaz/promise-1.1
+  to /tmp/promiseDPLXxh/promise-1.1
     promise-core.el -> promise-core.el
     promise-done.el -> promise-done.el
     promise-es6-extensions.el -> promise-es6-extensions.el
@@ -21,9 +22,9 @@ Created promise-1.1.tar containing:
   promise-1.1/promise-pkg.el
   promise-1.1/promise-rejection-tracking.el
   promise-1.1/promise.el
-Built promise in 2.658s, finished at Wed May 19 01:44:21 2021
+Built promise in 3.632s, finished at 2021-08-17T11:28:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  353 May 19 01:44 packages-stable/promise-1.1.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:44 packages-stable/promise-1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/promise-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 01:44 packages-stable/promise-readme.txt
+4.0K -rw-r--r-- 1 root root  353 Aug 17 11:28 packages-stable/promise-1.1.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:28 packages-stable/promise-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/promise-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 11:28 packages-stable/promise-readme.txt

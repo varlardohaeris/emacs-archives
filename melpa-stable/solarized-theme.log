@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/bbatsov/solarized-emacs.git
 
 Updating /mnt/store/melpa/working/solarized-theme/
+Checking out 813ab509080e8310a7676bbd165ddc03c651a1eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/solarized-theme/
-  to /tmp/solarized-themeHExojM/solarized-theme-1.3.1
+  to /tmp/solarized-themecQwn8a/solarized-theme-1.3.1
     solarized-dark-theme.el -> solarized-dark-theme.el
     solarized-light-theme.el -> solarized-light-theme.el
     solarized-theme-pkg.el -> solarized-theme-pkg.el
@@ -20,8 +21,8 @@ Created solarized-theme-1.3.1.tar containing:
   solarized-theme-1.3.1/solarized-theme-utils.el
   solarized-theme-1.3.1/solarized-theme.el
   solarized-theme-1.3.1/solarized.el
-Built solarized-theme in 2.865s, finished at Wed May 19 01:49:36 2021
+Built solarized-theme in 3.767s, finished at 2021-08-17T11:34:33+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  227 May 19 01:49 packages-stable/solarized-theme-1.3.1.entry
-160K -rw-r--r-- 1 root root 160K May 19 01:49 packages-stable/solarized-theme-1.3.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/solarized-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  227 Aug 17 11:34 packages-stable/solarized-theme-1.3.1.entry
+160K -rw-r--r-- 1 root root 160K Aug 17 11:34 packages-stable/solarized-theme-1.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/solarized-theme-badge.svg

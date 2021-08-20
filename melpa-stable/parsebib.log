@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/joostkremers/parsebib.git
 
 Updating /mnt/store/melpa/working/parsebib/
-Built parsebib in 4.138s, finished at Wed May 19 01:42:04 2021
+Checking out 8d7cf64badde2b14baac277cac85e83777da9409
+Built parsebib in 3.782s, finished at 2021-08-17T11:26:12+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  30K May 19 01:42 packages-stable/parsebib-2.4.1.el
-4.0K -rw-r--r-- 1 root root  382 May 19 01:42 packages-stable/parsebib-2.4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/parsebib-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:42 packages-stable/parsebib-readme.txt
+ 52K -rw-r--r-- 1 root root  48K Aug 17 11:26 packages-stable/parsebib-3.0.1.el
+4.0K -rw-r--r-- 1 root root  382 Aug 17 11:26 packages-stable/parsebib-3.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/parsebib-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:26 packages-stable/parsebib-readme.txt

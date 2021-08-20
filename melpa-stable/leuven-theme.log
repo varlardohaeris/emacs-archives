@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/fniessen/emacs-leuven-theme.git
 
 Updating /mnt/store/melpa/working/leuven-theme/
+Checking out 4a657651a684afd73868c48965496bf72745d2a2
 No matching file(s) found in /mnt/store/melpa/working/leuven-theme/: (lisp/*.el)

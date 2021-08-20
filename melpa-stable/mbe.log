@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ijp/mbe.el.git
 
 Updating /mnt/store/melpa/working/mbe/
-Built mbe in 7.094s, finished at Wed May 19 01:34:31 2021
+Checking out 9c659a1652b8fb611a19df9c36267994a7dcd9b9
+Built mbe in 3.870s, finished at 2021-08-17T11:17:44+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.2K May 19 01:34 packages-stable/mbe-0.1.el
-4.0K -rw-r--r-- 1 root root  372 May 19 01:34 packages-stable/mbe-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/mbe-badge.svg
-4.0K -rw-r--r-- 1 root root  235 May 19 01:34 packages-stable/mbe-readme.txt
+8.0K -rw-r--r-- 1 root root 7.2K Aug 17 11:17 packages-stable/mbe-0.1.el
+4.0K -rw-r--r-- 1 root root  372 Aug 17 11:17 packages-stable/mbe-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/mbe-badge.svg
+4.0K -rw-r--r-- 1 root root  235 Aug 17 11:17 packages-stable/mbe-readme.txt

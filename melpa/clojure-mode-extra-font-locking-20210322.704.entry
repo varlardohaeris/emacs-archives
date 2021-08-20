@@ -3,7 +3,7 @@
 				  ((clojure-mode
 				    (3 0)))
 				  "Extra font-locking for Clojure mode" single
-				  ((:commit . "33f267ac182afe8fa82cc321e9f515c0397e35f6")
+				  ((:commit . "ba59133b8ebdd98fdd282d21514dc718d600568a")
 				   (:authors
 				    ("Bozhidar Batsov" . "bozhidar@batsov.com"))
 				   (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.com")

@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/rejeep/ansi.el.git
 
 Updating /mnt/store/melpa/working/ansi/
-Built ansi in 3.065s, finished at Wed May 19 04:19:29 2021
+Checking out a042c5954453bab9a74177e2b78ad17a824caebc
+Built ansi in 3.753s, finished at 2021-08-17T10:44:18+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.1K May 19 04:19 packages-stable/ansi-0.4.1.el
-4.0K -rw-r--r-- 1 root root  367 May 19 04:19 packages-stable/ansi-0.4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/ansi-badge.svg
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 10:44 packages-stable/ansi-0.4.1.el
+4.0K -rw-r--r-- 1 root root  367 Aug 17 10:44 packages-stable/ansi-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/ansi-badge.svg

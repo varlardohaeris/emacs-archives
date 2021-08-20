@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-geiser/gambit.git
 
 Updating /mnt/store/melpa/working/geiser-gambit/
+Checking out 3294c944d1c3b79db44ed14b133129fec454bd60
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser-gambit/
-  to /tmp/geiser-gambitPe9CaB/geiser-gambit-0.16
+  to /tmp/geiser-gambit7dZ0sQ/geiser-gambit-0.16
     geiser-gambit.el -> geiser-gambit.el
     src/geiser => src/geiser
 Created geiser-gambit-0.16.tar containing:
@@ -16,9 +17,9 @@ Created geiser-gambit-0.16.tar containing:
   geiser-gambit-0.16/src/geiser/
   geiser-gambit-0.16/src/geiser/gambit.scm
   geiser-gambit-0.16/src/geiser/gambit_procedures.scm
-Built geiser-gambit in 2.783s, finished at Wed May 19 04:36:45 2021
+Built geiser-gambit in 3.939s, finished at 2021-08-17T11:03:58+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  408 May 19 04:36 packages-stable/geiser-gambit-0.16.entry
-140K -rw-r--r-- 1 root root 140K May 19 04:36 packages-stable/geiser-gambit-0.16.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-gambit-badge.svg
-4.0K -rw-r--r-- 1 root root  148 May 19 04:36 packages-stable/geiser-gambit-readme.txt
+4.0K -rw-r--r-- 1 root root  408 Aug 17 11:03 packages-stable/geiser-gambit-0.16.entry
+140K -rw-r--r-- 1 root root 140K Aug 17 11:03 packages-stable/geiser-gambit-0.16.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-gambit-badge.svg
+4.0K -rw-r--r-- 1 root root  148 Aug 17 11:03 packages-stable/geiser-gambit-readme.txt

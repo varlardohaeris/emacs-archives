@@ -30,6 +30,8 @@ file created by etags.  But it will increase initial loading time.
   The input could match any part of the candidate instead of the beginning of
   the candidate.
 
+- Set `company-ctags-ignore-case' to ignore case when fetching candidates
+
 - Use rusty-tags to generate tags file for Rust programming language.
   Add below code into ~/.emacs,
     (setq company-ctags-tags-file-name "rusty-tags.emacs")
@@ -37,3 +39,5 @@ file created by etags.  But it will increase initial loading time.
 - Make sure CLI program diff is executable on Windows.
 It's optional but highly recommended.  It can speed up tags file updating.
 This package uses diff through variable `diff-command'.
+
+- `company-ctags-debug-info' for debugging.

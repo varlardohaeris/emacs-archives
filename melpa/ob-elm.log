@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/BonfaceKilz/ob-elm.git
 
 Updating /mnt/store/melpa/working/ob-elm/
-Built ob-elm in 4.290s, finished at Wed May 19 03:48:31 2021
+Checking out origin/HEAD
+Checking out d3a9fbc2f56416894c9aed65ea9a20cc1d98f15d
+Built ob-elm in 4.675s, finished at 2021-08-17T10:13:01+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.1K May 19 03:48 packages/ob-elm-20200528.1857.el
-4.0K -rw-r--r-- 1 root root  330 May 19 03:48 packages/ob-elm-20200528.1857.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:48 packages/ob-elm-badge.svg
-4.0K -rw-r--r-- 1 root root  120 May 19 03:48 packages/ob-elm-readme.txt
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 10:13 packages/ob-elm-20200528.1857.el
+4.0K -rw-r--r-- 1 root root  330 Aug 17 10:13 packages/ob-elm-20200528.1857.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:13 packages/ob-elm-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Aug 17 10:13 packages/ob-elm-readme.txt

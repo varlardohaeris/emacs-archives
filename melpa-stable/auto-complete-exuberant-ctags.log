@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/k1LoW/auto-complete-exuberant-ctags.git
 
 Updating /mnt/store/melpa/working/auto-complete-exuberant-ctags/
-Built auto-complete-exuberant-ctags in 2.922s, finished at Wed May 19 04:20:11 2021
+Checking out ff6121ff8b71beb5aa606d28fd389c484ed49765
+Built auto-complete-exuberant-ctags in 3.756s, finished at 2021-08-17T10:45:24+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.8K May 19 04:20 packages-stable/auto-complete-exuberant-ctags-0.0.7.el
-4.0K -rw-r--r-- 1 root root  422 May 19 04:20 packages-stable/auto-complete-exuberant-ctags-0.0.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/auto-complete-exuberant-ctags-badge.svg
-4.0K -rw-r--r-- 1 root root  506 May 19 04:20 packages-stable/auto-complete-exuberant-ctags-readme.txt
+8.0K -rw-r--r-- 1 root root 7.8K Aug 17 10:45 packages-stable/auto-complete-exuberant-ctags-0.0.7.el
+4.0K -rw-r--r-- 1 root root  422 Aug 17 10:45 packages-stable/auto-complete-exuberant-ctags-0.0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/auto-complete-exuberant-ctags-badge.svg
+4.0K -rw-r--r-- 1 root root  506 Aug 17 10:45 packages-stable/auto-complete-exuberant-ctags-readme.txt

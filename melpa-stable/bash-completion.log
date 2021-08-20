@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/szermatt/emacs-bash-completion.git
 
 Updating /mnt/store/melpa/working/bash-completion/
-Built bash-completion in 2.827s, finished at Wed May 19 04:20:45 2021
+Checking out d47edb9d4142a22746009c1f680df93a4fefd107
+Built bash-completion in 4.235s, finished at 2021-08-17T10:46:05+0000
  ✓ Success:
- 64K -rw-r--r-- 1 root root  64K May 19 04:20 packages-stable/bash-completion-3.1.0.el
-4.0K -rw-r--r-- 1 root root  415 May 19 04:20 packages-stable/bash-completion-3.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/bash-completion-badge.svg
-4.0K -rw-r--r-- 1 root root 2.8K May 19 04:20 packages-stable/bash-completion-readme.txt
+ 64K -rw-r--r-- 1 root root  64K Aug 17 10:46 packages-stable/bash-completion-3.1.0.el
+4.0K -rw-r--r-- 1 root root  415 Aug 17 10:46 packages-stable/bash-completion-3.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/bash-completion-badge.svg
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 10:46 packages-stable/bash-completion-readme.txt

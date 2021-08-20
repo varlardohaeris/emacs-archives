@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/chmouel/tox.el.git
 
 Updating /mnt/store/melpa/working/tox/
-Built tox in 3.049s, finished at Wed May 19 01:52:33 2021
+Checking out 7655eb254038d5e34433e8a9d66b3ffc9c72e40c
+Built tox in 3.648s, finished at 2021-08-17T11:37:58+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 01:52 packages-stable/tox-0.4.0.el
-4.0K -rw-r--r-- 1 root root  377 May 19 01:52 packages-stable/tox-0.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tox-badge.svg
-4.0K -rw-r--r-- 1 root root  335 May 19 01:52 packages-stable/tox-readme.txt
+8.0K -rw-r--r-- 1 root root 5.5K Aug 17 11:37 packages-stable/tox-0.4.0.el
+4.0K -rw-r--r-- 1 root root  377 Aug 17 11:37 packages-stable/tox-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/tox-badge.svg
+4.0K -rw-r--r-- 1 root root  335 Aug 17 11:37 packages-stable/tox-readme.txt

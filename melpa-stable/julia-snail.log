@@ -3,23 +3,24 @@ Fetcher: github
 Source:  https://github.com/gcv/julia-snail.git
 
 Updating /mnt/store/melpa/working/julia-snail/
+Checking out 7582e054f41925822a4d5ce15d09917140eab78a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/julia-snail/
-  to /tmp/julia-snailklVwSQ/julia-snail-1.0.0pre6
+  to /tmp/julia-snailk0At72/julia-snail-1.1.2
     julia-snail.el -> julia-snail.el
     JuliaSnail.jl -> JuliaSnail.jl
     Manifest.toml -> Manifest.toml
     Project.toml -> Project.toml
-Created julia-snail-1.0.0pre6.tar containing:
-  julia-snail-1.0.0pre6/
-  julia-snail-1.0.0pre6/JuliaSnail.jl
-  julia-snail-1.0.0pre6/Manifest.toml
-  julia-snail-1.0.0pre6/Project.toml
-  julia-snail-1.0.0pre6/julia-snail-pkg.el
-  julia-snail-1.0.0pre6/julia-snail.el
-Built julia-snail in 3.353s, finished at Wed May 19 04:45:14 2021
+Created julia-snail-1.1.2.tar containing:
+  julia-snail-1.1.2/
+  julia-snail-1.1.2/JuliaSnail.jl
+  julia-snail-1.1.2/Manifest.toml
+  julia-snail-1.1.2/Project.toml
+  julia-snail-1.1.2/julia-snail-pkg.el
+  julia-snail-1.1.2/julia-snail.el
+Built julia-snail in 3.713s, finished at 2021-08-17T11:13:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  338 May 19 04:45 packages-stable/julia-snail-1.0.0pre6.entry
- 72K -rw-r--r-- 1 root root  70K May 19 04:45 packages-stable/julia-snail-1.0.0pre6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/julia-snail-badge.svg
-4.0K -rw-r--r-- 1 root root  200 May 19 04:45 packages-stable/julia-snail-readme.txt
+4.0K -rw-r--r-- 1 root root  333 Aug 17 11:13 packages-stable/julia-snail-1.1.2.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 11:13 packages-stable/julia-snail-1.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/julia-snail-badge.svg
+4.0K -rw-r--r-- 1 root root  200 Aug 17 11:13 packages-stable/julia-snail-readme.txt

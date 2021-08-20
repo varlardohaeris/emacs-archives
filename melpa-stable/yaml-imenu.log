@@ -3,19 +3,20 @@ Fetcher: github
 Source:  https://github.com/knu/yaml-imenu.el.git
 
 Updating /mnt/store/melpa/working/yaml-imenu/
+Checking out 01741205fb33d2ed511502d1cd65a711e07a3117
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yaml-imenu/
-  to /tmp/yaml-imenu7irfnO/yaml-imenu-1.0.2
+  to /tmp/yaml-imenum3LtDX/yaml-imenu-1.0.3
     yaml-imenu.el -> yaml-imenu.el
     parse_yaml.rb -> parse_yaml.rb
-Created yaml-imenu-1.0.2.tar containing:
-  yaml-imenu-1.0.2/
-  yaml-imenu-1.0.2/parse_yaml.rb
-  yaml-imenu-1.0.2/yaml-imenu-pkg.el
-  yaml-imenu-1.0.2/yaml-imenu.el
-Built yaml-imenu in 3.032s, finished at Wed May 19 01:56:14 2021
+Created yaml-imenu-1.0.3.tar containing:
+  yaml-imenu-1.0.3/
+  yaml-imenu-1.0.3/parse_yaml.rb
+  yaml-imenu-1.0.3/yaml-imenu-pkg.el
+  yaml-imenu-1.0.3/yaml-imenu.el
+Built yaml-imenu in 2.889s, finished at 2021-08-17T11:42:23+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  445 May 19 01:56 packages-stable/yaml-imenu-1.0.2.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:56 packages-stable/yaml-imenu-1.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/yaml-imenu-badge.svg
-4.0K -rw-r--r-- 1 root root  795 May 19 01:56 packages-stable/yaml-imenu-readme.txt
+4.0K -rw-r--r-- 1 root root  445 Aug 17 11:42 packages-stable/yaml-imenu-1.0.3.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:42 packages-stable/yaml-imenu-1.0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/yaml-imenu-badge.svg
+4.0K -rw-r--r-- 1 root root  795 Aug 17 11:42 packages-stable/yaml-imenu-readme.txt

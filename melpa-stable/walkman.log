@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abrochard/walkman.git
 
 Updating /mnt/store/melpa/working/walkman/
-Built walkman in 3.434s, finished at Wed May 19 01:54:35 2021
+Checking out 00b4fd5cae7fe27085995dbb178828fb765c7edc
+Built walkman in 3.737s, finished at 2021-08-17T11:40:19+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 01:54 packages-stable/walkman-0.2.el
-4.0K -rw-r--r-- 1 root root  413 May 19 01:54 packages-stable/walkman-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/walkman-badge.svg
-4.0K -rw-r--r-- 1 root root   67 May 19 01:54 packages-stable/walkman-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:40 packages-stable/walkman-0.2.el
+4.0K -rw-r--r-- 1 root root  413 Aug 17 11:40 packages-stable/walkman-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/walkman-badge.svg
+4.0K -rw-r--r-- 1 root root   67 Aug 17 11:40 packages-stable/walkman-readme.txt

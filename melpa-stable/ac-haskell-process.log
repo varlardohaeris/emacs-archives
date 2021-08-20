@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/ac-haskell-process.git
 
 Updating /mnt/store/melpa/working/ac-haskell-process/
-Built ac-haskell-process in 3.009s, finished at Wed May 19 04:18:22 2021
+Checking out 0362d4323511107ec70e7165cb612f3ab01b712f
+Built ac-haskell-process in 4.453s, finished at 2021-08-17T10:43:05+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.7K May 19 04:18 packages-stable/ac-haskell-process-0.7.el
-4.0K -rw-r--r-- 1 root root  426 May 19 04:18 packages-stable/ac-haskell-process-0.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ac-haskell-process-badge.svg
-4.0K -rw-r--r-- 1 root root  291 May 19 04:18 packages-stable/ac-haskell-process-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K Aug 17 10:43 packages-stable/ac-haskell-process-0.7.el
+4.0K -rw-r--r-- 1 root root  426 Aug 17 10:43 packages-stable/ac-haskell-process-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/ac-haskell-process-badge.svg
+4.0K -rw-r--r-- 1 root root  291 Aug 17 10:43 packages-stable/ac-haskell-process-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/pzorin/bibretrieve.git
 
 Updating /mnt/store/melpa/working/bibretrieve/
+Checking out origin/HEAD
+Checking out 81dc8e0db3629cc180eafb2bc34b60dcd8980316
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bibretrieve/
-  to /tmp/bibretrievejQmazI/bibretrieve-20191124.1855
+  to /tmp/bibretrieverg18gh/bibretrieve-20191124.1855
     bibretrieve-base.el -> bibretrieve-base.el
     bibretrieve.el -> bibretrieve.el
 Created bibretrieve-20191124.1855.tar containing:
@@ -13,9 +15,9 @@ Created bibretrieve-20191124.1855.tar containing:
   bibretrieve-20191124.1855/bibretrieve-base.el
   bibretrieve-20191124.1855/bibretrieve-pkg.el
   bibretrieve-20191124.1855/bibretrieve.el
-Built bibretrieve in 8.604s, finished at Wed May 19 03:01:56 2021
+Built bibretrieve in 4.608s, finished at 2021-08-17T09:24:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  451 May 19 03:01 packages/bibretrieve-20191124.1855.entry
- 32K -rw-r--r-- 1 root root  30K May 19 03:01 packages/bibretrieve-20191124.1855.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:01 packages/bibretrieve-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 03:01 packages/bibretrieve-readme.txt
+4.0K -rw-r--r-- 1 root root  451 Aug 17 09:24 packages/bibretrieve-20191124.1855.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 09:24 packages/bibretrieve-20191124.1855.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:24 packages/bibretrieve-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 09:24 packages/bibretrieve-readme.txt

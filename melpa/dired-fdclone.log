@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/knu/dired-fdclone.el.git
 
 Updating /mnt/store/melpa/working/dired-fdclone/
-Built dired-fdclone in 3.895s, finished at Wed May 19 03:11:06 2021
+Checking out origin/HEAD
+Checking out 3ba369f5fc48a8fdf06d1c6ee1167b5a6eb7c1b3
+Built dired-fdclone in 4.776s, finished at 2021-08-17T09:33:57+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  40K May 19 03:11 packages/dired-fdclone-20210226.532.el
-4.0K -rw-r--r-- 1 root root  372 May 19 03:11 packages/dired-fdclone-20210226.532.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:11 packages/dired-fdclone-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 03:11 packages/dired-fdclone-readme.txt
+ 40K -rw-r--r-- 1 root root  40K Aug 17 09:33 packages/dired-fdclone-20210226.532.el
+4.0K -rw-r--r-- 1 root root  372 Aug 17 09:33 packages/dired-fdclone-20210226.532.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:33 packages/dired-fdclone-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 09:33 packages/dired-fdclone-readme.txt

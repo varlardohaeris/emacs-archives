@@ -3,7 +3,7 @@
 		  ((dash
 		    (2 18 0)))
 		  "Collection of useful combinators for Emacs Lisp" single
-		  ((:commit . "b9286a84975874b10493f1cb4ea051c501f51273")
+		  ((:commit . "2675596b9ac1c4b9d47b93e227f06f8ec6755ec6")
 		   (:authors
 		    ("Matus Goljer" . "matus.goljer@gmail.com")
 		    ("Magnar Sveen" . "magnars@gmail.com"))

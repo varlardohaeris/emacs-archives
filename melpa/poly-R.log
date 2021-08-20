@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/polymode/poly-R.git
 
 Updating /mnt/store/melpa/working/poly-R/
-Built poly-R in 4.694s, finished at Wed May 19 03:56:20 2021
+Checking out origin/HEAD
+Checking out c42ff3a4d0da96ccb7f826dca5c6b2eb558a2ab5
+Built poly-R in 6.601s, finished at 2021-08-17T10:21:26+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  29K May 19 03:56 packages/poly-R-20210210.1053.el
-4.0K -rw-r--r-- 1 root root  398 May 19 03:56 packages/poly-R-20210210.1053.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:56 packages/poly-R-badge.svg
-4.0K -rw-r--r-- 1 root root   70 May 19 03:56 packages/poly-R-readme.txt
+ 32K -rw-r--r-- 1 root root  29K Aug 17 10:21 packages/poly-R-20210210.1053.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 10:21 packages/poly-R-20210210.1053.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:21 packages/poly-R-badge.svg
+4.0K -rw-r--r-- 1 root root   70 Aug 17 10:21 packages/poly-R-readme.txt

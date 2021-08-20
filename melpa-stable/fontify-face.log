@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Fuco1/fontify-face.git
 
 Updating /mnt/store/melpa/working/fontify-face/
-Built fontify-face in 4.390s, finished at Wed May 19 04:36:04 2021
+Checking out fc3325c98427523d86f0b411e0515cec51ac3d8a
+Built fontify-face in 4.079s, finished at 2021-08-17T11:03:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.4K May 19 04:36 packages-stable/fontify-face-1.1.0.el
-4.0K -rw-r--r-- 1 root root  388 May 19 04:36 packages-stable/fontify-face-1.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fontify-face-badge.svg
-4.0K -rw-r--r-- 1 root root   94 May 19 04:36 packages-stable/fontify-face-readme.txt
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 11:03 packages-stable/fontify-face-1.1.0.el
+4.0K -rw-r--r-- 1 root root  388 Aug 17 11:03 packages-stable/fontify-face-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fontify-face-badge.svg
+4.0K -rw-r--r-- 1 root root   94 Aug 17 11:03 packages-stable/fontify-face-readme.txt

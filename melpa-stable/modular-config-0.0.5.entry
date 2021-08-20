@@ -1,0 +1,11 @@
+(modular-config .
+		[(0 0 5)
+		 ((emacs
+		   (24 3)))
+		 "Organize your config into small and loadable modules" single
+		 ((:commit . "3c78fde6b7c53857c712408691427536d3c891bc")
+		  (:authors
+		   ("Sidharth Arya" . "sidhartharya10@gmail.com"))
+		  (:maintainer "Sidharth Arya" . "sidhartharya10@gmail.com")
+		  (:keywords "startup" "lisp" "tools")
+		  (:url . "https://github.com/SidharthArya/modular-config.el"))])

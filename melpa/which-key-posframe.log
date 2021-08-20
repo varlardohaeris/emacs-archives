@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/yanghaoxie/which-key-posframe.git
 
 Updating /mnt/store/melpa/working/which-key-posframe/
-Built which-key-posframe in 4.688s, finished at Wed May 19 04:14:47 2021
+Checking out origin/HEAD
+Checking out 90e85d74899fc23d95798048cc0bbdb4bab9c1b7
+Built which-key-posframe in 5.404s, finished at 2021-08-17T14:05:24+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.9K May 19 04:14 packages/which-key-posframe-20190427.1103.el
-4.0K -rw-r--r-- 1 root root  491 May 19 04:14 packages/which-key-posframe-20190427.1103.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:14 packages/which-key-posframe-badge.svg
-4.0K -rw-r--r-- 1 root root   87 May 19 04:14 packages/which-key-posframe-readme.txt
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 14:05 packages/which-key-posframe-20210615.944.el
+4.0K -rw-r--r-- 1 root root  490 Aug 17 14:05 packages/which-key-posframe-20210615.944.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:05 packages/which-key-posframe-badge.svg
+4.0K -rw-r--r-- 1 root root   87 Aug 17 14:05 packages/which-key-posframe-readme.txt

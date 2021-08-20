@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/ataka/fcopy.git
 
 Updating /mnt/store/melpa/working/fcopy/
-Built fcopy in 4.763s, finished at Wed May 19 03:20:14 2021
+Checking out origin/HEAD
+Checking out e355f6ec889d8ecbdb096019c2dc660b1cec4941
+Built fcopy in 5.254s, finished at 2021-08-17T09:43:43+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  36K May 19 03:20 packages/fcopy-20150304.1403.el
-4.0K -rw-r--r-- 1 root root  359 May 19 03:20 packages/fcopy-20150304.1403.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:20 packages/fcopy-badge.svg
-4.0K -rw-r--r-- 1 root root 2.6K May 19 03:20 packages/fcopy-readme.txt
+ 36K -rw-r--r-- 1 root root  36K Aug 17 09:43 packages/fcopy-20150304.1403.el
+4.0K -rw-r--r-- 1 root root  359 Aug 17 09:43 packages/fcopy-20150304.1403.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/fcopy-badge.svg
+4.0K -rw-r--r-- 1 root root 2.6K Aug 17 09:43 packages/fcopy-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/phillord/pabbrev.git
 
 Updating /mnt/store/melpa/working/pabbrev/
-Built pabbrev in 3.703s, finished at Wed May 19 01:41:40 2021
+Checking out 127a8b10cf352b0491fefd2f4178ba78ee587564
+Built pabbrev in 3.938s, finished at 2021-08-17T11:25:44+0000
  ✓ Success:
- 68K -rw-r--r-- 1 root root  65K May 19 01:41 packages-stable/pabbrev-4.1.el
-4.0K -rw-r--r-- 1 root root  268 May 19 01:41 packages-stable/pabbrev-4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/pabbrev-badge.svg
-8.0K -rw-r--r-- 1 root root 4.1K May 19 01:41 packages-stable/pabbrev-readme.txt
+ 68K -rw-r--r-- 1 root root  65K Aug 17 11:25 packages-stable/pabbrev-4.1.el
+4.0K -rw-r--r-- 1 root root  268 Aug 17 11:25 packages-stable/pabbrev-4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/pabbrev-badge.svg
+8.0K -rw-r--r-- 1 root root 4.1K Aug 17 11:25 packages-stable/pabbrev-readme.txt

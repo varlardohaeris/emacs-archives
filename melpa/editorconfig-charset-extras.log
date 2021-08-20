@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/10sr/editorconfig-charset-extras-el.git
 
 Updating /mnt/store/melpa/working/editorconfig-charset-extras/
-Built editorconfig-charset-extras in 4.728s, finished at Wed May 19 03:13:55 2021
+Checking out origin/HEAD
+Checking out 4f75e175ad15ce2038f926fe4f0e5a0c1d0cbc46
+Built editorconfig-charset-extras in 5.007s, finished at 2021-08-17T09:37:00+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 4.0K May 19 03:13 packages/editorconfig-charset-extras-20180223.457.el
-4.0K -rw-r--r-- 1 root root  433 May 19 03:13 packages/editorconfig-charset-extras-20180223.457.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:13 packages/editorconfig-charset-extras-badge.svg
-4.0K -rw-r--r-- 1 root root  475 May 19 03:13 packages/editorconfig-charset-extras-readme.txt
+4.0K -rw-r--r-- 1 root root 4.0K Aug 17 09:36 packages/editorconfig-charset-extras-20180223.457.el
+4.0K -rw-r--r-- 1 root root  433 Aug 17 09:37 packages/editorconfig-charset-extras-20180223.457.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:37 packages/editorconfig-charset-extras-badge.svg
+4.0K -rw-r--r-- 1 root root  475 Aug 17 09:37 packages/editorconfig-charset-extras-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/OpenSourceOrg/el-opensourceorg.git
 
 Updating /mnt/store/melpa/working/opensource/
+Checking out 27d06be45c852e84e47c33cbd0f4c344fd9a0370
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/opensource/
-  to /tmp/opensource3zdUsf/opensource-0.2.0
+  to /tmp/opensource0ESgLY/opensource-0.2.0
     opensource-api.el -> opensource-api.el
     opensource-http.el -> opensource-http.el
     opensource-licenses.el -> opensource-licenses.el
@@ -21,9 +22,9 @@ Created opensource-0.2.0.tar containing:
   opensource-0.2.0/opensource-utils.el
   opensource-0.2.0/opensource-version.el
   opensource-0.2.0/opensource.el
-Built opensource in 2.913s, finished at Wed May 19 01:38:46 2021
+Built opensource in 3.730s, finished at 2021-08-17T11:22:32+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  505 May 19 01:38 packages-stable/opensource-0.2.0.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:38 packages-stable/opensource-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/opensource-badge.svg
-4.0K -rw-r--r-- 1 root root  324 May 19 01:38 packages-stable/opensource-readme.txt
+4.0K -rw-r--r-- 1 root root  505 Aug 17 11:22 packages-stable/opensource-0.2.0.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:22 packages-stable/opensource-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/opensource-badge.svg
+4.0K -rw-r--r-- 1 root root  324 Aug 17 11:22 packages-stable/opensource-readme.txt

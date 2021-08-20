@@ -3,4 +3,4 @@ Fetcher: hg
 Source:  https://hg.sr.ht/~zck/minesweeper
 
 Updating /mnt/store/melpa/working/minesweeper/
-hg exited with status 255
+Args out of range: #<buffer *scratch*>, 0, 3

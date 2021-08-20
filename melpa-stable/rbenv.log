@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/senny/rbenv.el.git
 
 Updating /mnt/store/melpa/working/rbenv/
-Built rbenv in 2.837s, finished at Wed May 19 01:45:28 2021
+Checking out 366513b0ebbdcc56ba72fa057249e1d49ce32557
+Built rbenv in 7.587s, finished at 2021-08-17T11:30:17+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.5K May 19 01:45 packages-stable/rbenv-0.0.3.el
-4.0K -rw-r--r-- 1 root root  309 May 19 01:45 packages-stable/rbenv-0.0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rbenv-badge.svg
-4.0K -rw-r--r-- 1 root root  333 May 19 01:45 packages-stable/rbenv-readme.txt
+8.0K -rw-r--r-- 1 root root 7.5K Aug 17 11:30 packages-stable/rbenv-0.0.3.el
+4.0K -rw-r--r-- 1 root root  309 Aug 17 11:30 packages-stable/rbenv-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/rbenv-badge.svg
+4.0K -rw-r--r-- 1 root root  333 Aug 17 11:30 packages-stable/rbenv-readme.txt

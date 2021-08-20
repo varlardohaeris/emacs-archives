@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/merrickluo/liberime.git
 
 Updating /mnt/store/melpa/working/liberime/
+Checking out f13a98ddd7be658e742b0f42988b02db9d779e85
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/liberime/
-  to /tmp/liberimex1Oxpe/liberime-0.0.6
+  to /tmp/liberimeES0VvX/liberime-0.0.6
     liberime.el -> liberime.el
     src => src
     LICENSE -> LICENSE
@@ -25,9 +26,9 @@ Created liberime-0.0.6.tar containing:
   liberime-0.0.6/src/interface.h
   liberime-0.0.6/src/liberime-core.c
   liberime-0.0.6/src/liberime-core.h
-Built liberime in 3.325s, finished at Wed May 19 01:32:13 2021
+Built liberime in 5.007s, finished at 2021-08-17T11:15:19+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  239 May 19 01:32 packages-stable/liberime-0.0.6.entry
-112K -rw-r--r-- 1 root root 110K May 19 01:32 packages-stable/liberime-0.0.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/liberime-badge.svg
-4.0K -rw-r--r-- 1 root root   25 May 19 01:32 packages-stable/liberime-readme.txt
+4.0K -rw-r--r-- 1 root root  239 Aug 17 11:15 packages-stable/liberime-0.0.6.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 11:15 packages-stable/liberime-0.0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/liberime-badge.svg
+4.0K -rw-r--r-- 1 root root   25 Aug 17 11:15 packages-stable/liberime-readme.txt

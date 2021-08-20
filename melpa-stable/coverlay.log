@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/twada/coverlay.el.git
 
 Updating /mnt/store/melpa/working/coverlay/
-Built coverlay in 3.336s, finished at Wed May 19 04:25:38 2021
+Checking out 63a06524462f8242b66fe82bb07616eb37594679
+Built coverlay in 3.996s, finished at 2021-08-17T10:51:28+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  23K May 19 04:25 packages-stable/coverlay-3.0.2.el
-4.0K -rw-r--r-- 1 root root  392 May 19 04:25 packages-stable/coverlay-3.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/coverlay-badge.svg
-4.0K -rw-r--r-- 1 root root  477 May 19 04:25 packages-stable/coverlay-readme.txt
+ 24K -rw-r--r-- 1 root root  23K Aug 17 10:51 packages-stable/coverlay-3.0.2.el
+4.0K -rw-r--r-- 1 root root  392 Aug 17 10:51 packages-stable/coverlay-3.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/coverlay-badge.svg
+4.0K -rw-r--r-- 1 root root  477 Aug 17 10:51 packages-stable/coverlay-readme.txt

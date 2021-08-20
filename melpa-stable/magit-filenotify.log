@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ruediger/magit-filenotify.git
 
 Updating /mnt/store/melpa/working/magit-filenotify/
-Built magit-filenotify in 3.810s, finished at Wed May 19 01:33:31 2021
+Checking out 575c4321f61fb8f25e4779f9ffd4514ac086ae96
+Built magit-filenotify in 4.436s, finished at 2021-08-17T11:16:50+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 01:33 packages-stable/magit-filenotify-0.1.el
-4.0K -rw-r--r-- 1 root root  381 May 19 01:33 packages-stable/magit-filenotify-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-filenotify-badge.svg
-4.0K -rw-r--r-- 1 root root  221 May 19 01:33 packages-stable/magit-filenotify-readme.txt
+8.0K -rw-r--r-- 1 root root 5.5K Aug 17 11:16 packages-stable/magit-filenotify-0.1.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 11:16 packages-stable/magit-filenotify-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/magit-filenotify-badge.svg
+4.0K -rw-r--r-- 1 root root  221 Aug 17 11:16 packages-stable/magit-filenotify-readme.txt

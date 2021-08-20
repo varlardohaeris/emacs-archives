@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/sebastiw/edts.git
 
 Updating /mnt/store/melpa/working/edts/
+Checking out 61855db6f1315ea45f97ed95b47a3f182ec4c6be
 edts[-pkg].el matching package name is missing

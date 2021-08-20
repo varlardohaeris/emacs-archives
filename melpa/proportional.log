@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/ksjogo/proportional.git
 
 Updating /mnt/store/melpa/working/proportional/
-Built proportional in 4.292s, finished at Wed May 19 03:57:35 2021
+Checking out origin/HEAD
+Checking out 0e4537af7ba2bc9dbb449c38350bce012b382f51
+Built proportional in 5.691s, finished at 2021-08-17T10:23:06+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.2K May 19 03:57 packages/proportional-20200309.1556.el
-4.0K -rw-r--r-- 1 root root  331 May 19 03:57 packages/proportional-20200309.1556.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:57 packages/proportional-badge.svg
+8.0K -rw-r--r-- 1 root root 4.2K Aug 17 10:23 packages/proportional-20200309.1556.el
+4.0K -rw-r--r-- 1 root root  331 Aug 17 10:23 packages/proportional-20200309.1556.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:23 packages/proportional-badge.svg

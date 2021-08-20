@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/kentaro/perlbrew.el.git
 
 Updating /mnt/store/melpa/working/perlbrew/
-Built perlbrew in 4.428s, finished at Wed May 19 03:54:56 2021
+Checking out origin/HEAD
+Checking out 3a3406c3307c92aa30f9400d430925c434a3b6f0
+Built perlbrew in 5.218s, finished at 2021-08-17T10:19:46+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.4K May 19 03:54 packages/perlbrew-20161109.709.el
-4.0K -rw-r--r-- 1 root root  305 May 19 03:54 packages/perlbrew-20161109.709.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:54 packages/perlbrew-badge.svg
-4.0K -rw-r--r-- 1 root root  225 May 19 03:54 packages/perlbrew-readme.txt
+8.0K -rw-r--r-- 1 root root 4.4K Aug 17 10:19 packages/perlbrew-20161109.709.el
+4.0K -rw-r--r-- 1 root root  305 Aug 17 10:19 packages/perlbrew-20161109.709.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:19 packages/perlbrew-badge.svg
+4.0K -rw-r--r-- 1 root root  225 Aug 17 10:19 packages/perlbrew-readme.txt

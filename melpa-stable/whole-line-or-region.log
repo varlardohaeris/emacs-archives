@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/whole-line-or-region.git
 
 Updating /mnt/store/melpa/working/whole-line-or-region/
-Built whole-line-or-region in 4.466s, finished at Wed May 19 01:55:05 2021
+Checking out 4189d03cfda752f04364e2abc0117080ed4112cd
+Built whole-line-or-region in 4.062s, finished at 2021-08-17T11:40:51+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 01:55 packages-stable/whole-line-or-region-2.0.el
-4.0K -rw-r--r-- 1 root root  441 May 19 01:55 packages-stable/whole-line-or-region-2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/whole-line-or-region-badge.svg
-4.0K -rw-r--r-- 1 root root  676 May 19 01:55 packages-stable/whole-line-or-region-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:40 packages-stable/whole-line-or-region-2.0.el
+4.0K -rw-r--r-- 1 root root  441 Aug 17 11:40 packages-stable/whole-line-or-region-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/whole-line-or-region-badge.svg
+4.0K -rw-r--r-- 1 root root  676 Aug 17 11:40 packages-stable/whole-line-or-region-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ponylang/flycheck-pony.git
 
 Updating /mnt/store/melpa/working/flycheck-pony/
-Built flycheck-pony in 3.003s, finished at Wed May 19 04:35:08 2021
+Checking out 22787cf8223ca9ec309e30a42c20a8e706d8bfbe
+Built flycheck-pony in 7.988s, finished at 2021-08-17T11:02:04+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.5K May 19 04:35 packages-stable/flycheck-pony-0.3.0.el
-4.0K -rw-r--r-- 1 root root  254 May 19 04:35 packages-stable/flycheck-pony-0.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-pony-badge.svg
-4.0K -rw-r--r-- 1 root root  257 May 19 04:35 packages-stable/flycheck-pony-readme.txt
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 11:02 packages-stable/flycheck-pony-0.3.0.el
+4.0K -rw-r--r-- 1 root root  254 Aug 17 11:02 packages-stable/flycheck-pony-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-pony-badge.svg
+4.0K -rw-r--r-- 1 root root  257 Aug 17 11:02 packages-stable/flycheck-pony-readme.txt

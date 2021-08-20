@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/fitzsim/slime-volleyball.git
 
 Updating /mnt/store/melpa/working/slime-volleyball/
+Checking out ce56bc5e79cc40fc6d63d3fd103feead3f25b883
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/slime-volleyball/
-  to /tmp/slime-volleyballahzsLO/slime-volleyball-1.1
+  to /tmp/slime-volleyballyC0Uce/slime-volleyball-1.1
     slime-volleyball.el -> slime-volleyball.el
     green-slime.el.gz -> green-slime.el.gz
     grey-slime.el.gz -> grey-slime.el.gz
@@ -21,9 +22,9 @@ Created slime-volleyball-1.1.tar containing:
   slime-volleyball-1.1/slime-volleyball.el
   slime-volleyball-1.1/start.b64
   slime-volleyball-1.1/title-screen.svg
-Built slime-volleyball in 3.286s, finished at Wed May 19 01:48:52 2021
+Built slime-volleyball in 4.467s, finished at 2021-08-17T11:33:49+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  301 May 19 01:48 packages-stable/slime-volleyball-1.1.entry
-4.0M -rw-r--r-- 1 root root 4.0M May 19 01:48 packages-stable/slime-volleyball-1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/slime-volleyball-badge.svg
-4.0K -rw-r--r-- 1 root root 2.5K May 19 01:48 packages-stable/slime-volleyball-readme.txt
+4.0K -rw-r--r-- 1 root root  301 Aug 17 11:33 packages-stable/slime-volleyball-1.1.entry
+4.0M -rw-r--r-- 1 root root 4.0M Aug 17 11:33 packages-stable/slime-volleyball-1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/slime-volleyball-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 11:33 packages-stable/slime-volleyball-readme.txt

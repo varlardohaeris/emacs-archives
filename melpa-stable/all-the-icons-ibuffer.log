@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/seagle0128/all-the-icons-ibuffer.git
 
 Updating /mnt/store/melpa/working/all-the-icons-ibuffer/
-Built all-the-icons-ibuffer in 3.002s, finished at Wed May 19 04:19:10 2021
+Checking out 767b52186c1d9ef52f087f34a48af39c31e45b73
+Built all-the-icons-ibuffer in 3.641s, finished at 2021-08-17T10:43:56+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.8K May 19 04:19 packages-stable/all-the-icons-ibuffer-1.3.0.el
-4.0K -rw-r--r-- 1 root root  453 May 19 04:19 packages-stable/all-the-icons-ibuffer-1.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/all-the-icons-ibuffer-badge.svg
-4.0K -rw-r--r-- 1 root root  243 May 19 04:19 packages-stable/all-the-icons-ibuffer-readme.txt
+8.0K -rw-r--r-- 1 root root 7.8K Aug 17 10:43 packages-stable/all-the-icons-ibuffer-1.3.0.el
+4.0K -rw-r--r-- 1 root root  453 Aug 17 10:43 packages-stable/all-the-icons-ibuffer-1.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/all-the-icons-ibuffer-badge.svg
+4.0K -rw-r--r-- 1 root root  243 Aug 17 10:43 packages-stable/all-the-icons-ibuffer-readme.txt

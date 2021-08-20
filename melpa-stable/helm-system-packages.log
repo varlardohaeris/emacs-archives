@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-system-packages.git
 
 Updating /mnt/store/melpa/working/helm-system-packages/
+Checking out c331c69de0a37d2bc4d6f882cc021a905e7e56f9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-system-packages/
-  to /tmp/helm-system-packages9Uwcn2/helm-system-packages-1.10.2
+  to /tmp/helm-system-packagesu0mvHD/helm-system-packages-1.10.2
     helm-system-packages-brew.el -> helm-system-packages-brew.el
     helm-system-packages-dnf.el -> helm-system-packages-dnf.el
     helm-system-packages-dpkg.el -> helm-system-packages-dpkg.el
@@ -25,9 +26,9 @@ Created helm-system-packages-1.10.2.tar containing:
   helm-system-packages-1.10.2/helm-system-packages-portage.el
   helm-system-packages-1.10.2/helm-system-packages-xbps.el
   helm-system-packages-1.10.2/helm-system-packages.el
-Built helm-system-packages in 2.925s, finished at Wed May 19 04:41:20 2021
+Built helm-system-packages in 3.569s, finished at 2021-08-17T11:09:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  458 May 19 04:41 packages-stable/helm-system-packages-1.10.2.entry
-132K -rw-r--r-- 1 root root 130K May 19 04:41 packages-stable/helm-system-packages-1.10.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-system-packages-badge.svg
-4.0K -rw-r--r-- 1 root root   45 May 19 04:41 packages-stable/helm-system-packages-readme.txt
+4.0K -rw-r--r-- 1 root root  458 Aug 17 11:09 packages-stable/helm-system-packages-1.10.2.entry
+132K -rw-r--r-- 1 root root 130K Aug 17 11:09 packages-stable/helm-system-packages-1.10.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/helm-system-packages-badge.svg
+4.0K -rw-r--r-- 1 root root   45 Aug 17 11:09 packages-stable/helm-system-packages-readme.txt

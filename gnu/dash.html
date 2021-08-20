@@ -23,10 +23,11 @@
 
             <div class="container">
 <h2 class="package">dash</h2><dl><dt>Description</dt><dd>A modern list library for Emacs</dd>
-<dt>Latest</dt> <dd><a href="dash-2.18.1.tar">dash-2.18.1.tar</a>, 2021-Feb-28,  670&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="dash-2.19.0.tar">dash-2.19.0.tar</a>, 2021-Jul-08,  680&nbsp;KiB</dd>
 <dt>Maintainer</dt> <dd>Magnar Sveen &lt;magnars@gmail.com></dd>
 <dt>Home page</dt> <dd><a href="https://github.com/magnars/dash.el">https://github.com/magnars/dash.el</a></dd>
-<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/dash">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/dash">Gitweb</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="https://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/dash">CGit</a> or <a href="https://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/dash">Gitweb</a></dd>
+<dt>Badge</dt><dd><img src="dash.svg"/></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">dash</span> RET</pre><h2>Full description</h2><pre>
 A modern list API for Emacs.
@@ -34,6 +35,7 @@ A modern list API for Emacs.
 See its overview at https://github.com/magnars/dash.el#functions.
 </pre>
 <h2>Old versions</h2><table>
+<tr><td><a href="dash-2.18.1.tar.lz">dash-2.18.1.tar.lz</a></td><td>2021-Feb-28</td><td> 103&nbsp;KiB</td>
 <tr><td><a href="dash-2.18.0.tar.lz">dash-2.18.0.tar.lz</a></td><td>2021-Feb-15</td><td> 103&nbsp;KiB</td>
 <tr><td><a href="dash-2.12.0.tar.lz">dash-2.12.0.tar.lz</a></td><td>2015-Oct-05</td><td>100.0&nbsp;KiB</td>
 </table>
@@ -45,6 +47,28 @@ Copyright (C) 2012-2021 Free Software Foundation, Inc.
 See the end of the file for license conditions.
 
 ## Change log
+
+### From 2.18.1 to 2.19.0
+
+#### Fixes
+
+- Reverted a breaking change introduced in `2.18.0` that caused the
+  threading macro `-->` to be indented differently from `->` and
+  `->>` (#375).
+- Added and fixed Edebug specifications for many Dash macros (Philipp
+  Stephani, #380, #381).
+
+#### New features
+
+- The combinators `-on`, `-flip`, `-not`, `-andfn`, and `-orfn` now
+  return variadic functions that take any number of arguments (#308).
+- New combinator `-rotate-args` similar to `-flip`, but for arbitrary
+  arglist rotations (suggested by @vapniks, #72).
+- New function `-every` and its anaphoric macro counterpart `--every`.
+  They are like the existing `-every-p` and `--every-p`, respectively,
+  but return the last non-`nil` result instead of just `t`.
+- New macro `--partition-after-pred` which affords
+  `-partition-after-pred` better performance (Per Weijnitz, #362).
 
 ### From 2.18.0 to 2.18.1
 
@@ -122,33 +146,23 @@ https://github.com/magnars/dash.el/wiki/Obsoletion-of-dash-functional.el
 
 - Added `--doto`, anaphoric version of `-doto` (#282).
 - Aliased `-cons-pair-p` to `-cons-pair?` (#288).
-- Generalized `-rotate` for `|N|` greater than the length of the list (@leungbk,
-  #290).
-- Added a mechanism to extend destructuring with custom matchers (@yyoncho,
-  #277).
-
-### From 2.14 to 2.15
-
-This release brings new destructuring features, some new control flow
-functions and performance optimizations.
-
-- Added `-setq` with destructuring binding support similar to the `-let` family
-  (#116).
-- Added smarter key destructuring in `-let` and friends where variables are
-  auto-derived from keys (#111).
-- Allowed `-let` bindings without a source value form (#256).
-- Added `-each-r` and `-each-r-while` (@doublep, #159).
-- Added `-common-suffix` (@basil-conto, #263).
-- Improved performance of folds (`-reduce` and friends) (@basil-conto, #264).
-
-### From 2.13 to 2.14
-
-This release retired Emacs 23 support.
-
-- Added Edebug support for threading macros (@Wilfred).
-- Added `-unzip`.
-- Added support for `-first-item` ...
+- Generalized `-rotate` for `|N|` greater t...
 ...
 
 </pre>
+
+
+        <div class="footer">
+            <div class="container">
+                <p>Copyright 2016-2021 <a href="https://fsf.org">Free Software Foundation</a>, Inc.</p>
+                <p>Design provided by <a href="https://nicolas.petton.fr">Nicolas Petton</a></p>
+                <p>
+                  This website is licensed under the
+                  <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+                  International License.
+                </p>
+                <p><a href="/jslicense.html" data-jslicense="1">JavaScript Licenses</a></p>
+            </div>
+        </div>
+
 </body>

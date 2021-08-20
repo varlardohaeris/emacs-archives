@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/gabesoft/evil-mc.git
 
 Updating /mnt/store/melpa/working/evil-mc/
+Checking out be2259b8cedd62011b25ddbcc1774bbbe9a66c61
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-mc/
-  to /tmp/evil-mc8q5Xk5/evil-mc-0.0.3
+  to /tmp/evil-mc1jnEnZ/evil-mc-0.0.3
     evil-mc-command-execute.el -> evil-mc-command-execute.el
     evil-mc-command-record.el -> evil-mc-command-record.el
     evil-mc-common.el -> evil-mc-common.el
@@ -33,10 +34,10 @@ Created evil-mc-0.0.3.tar containing:
   evil-mc-0.0.3/evil-mc-undo.el
   evil-mc-0.0.3/evil-mc-vars.el
   evil-mc-0.0.3/evil-mc.el
-Built evil-mc in 2.905s, finished at Wed May 19 04:32:23 2021
+Built evil-mc in 3.573s, finished at 2021-08-17T10:58:57+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  477 May 19 04:32 packages-stable/evil-mc-0.0.3.entry
-132K -rw-r--r-- 1 root root 130K May 19 04:32 packages-stable/evil-mc-0.0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-mc-badge.svg
-4.0K -rw-r--r-- 1 root root  197 May 19 04:32 packages-stable/evil-mc-extras.log
-4.0K -rw-r--r-- 1 root root  244 May 19 04:32 packages-stable/evil-mc-readme.txt
+4.0K -rw-r--r-- 1 root root  477 Aug 17 10:58 packages-stable/evil-mc-0.0.3.entry
+132K -rw-r--r-- 1 root root 130K Aug 17 10:58 packages-stable/evil-mc-0.0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/evil-mc-badge.svg
+4.0K -rw-r--r-- 1 root root  197 Aug 17 10:58 packages-stable/evil-mc-extras.log
+4.0K -rw-r--r-- 1 root root  244 Aug 17 10:58 packages-stable/evil-mc-readme.txt

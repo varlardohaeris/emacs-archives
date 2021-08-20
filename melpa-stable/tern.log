@@ -3,20 +3,21 @@ Fetcher: github
 Source:  https://github.com/ternjs/tern.git
 
 Updating /mnt/store/melpa/working/tern/
-Built tern in 5.946s, finished at Wed May 19 01:51:41 2021
+Checking out 0d19800db70a6348c627a69f444b91d21ad89629
+Built tern in 4.015s, finished at 2021-08-17T11:37:16+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 01:51 packages-stable/tern-0.24.3.el
-4.0K -rw-r--r-- 1 root root  300 May 19 01:51 packages-stable/tern-0.24.3.entry
-8.0K -rw-r--r-- 1 root root 4.2K May 19 01:51 packages-stable/tern-auto-complete-0.24.3.el
-4.0K -rw-r--r-- 1 root root  402 May 19 01:51 packages-stable/tern-auto-complete-0.24.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/tern-auto-complete-badge.svg
-4.0K -rw-r--r-- 1 root root  453 May 19 01:51 packages-stable/tern-auto-complete-readme.txt
-4.0K -rw-r--r-- 1 root root  230 May 19 01:51 packages-stable/tern-auto-complete.log
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/tern-badge.svg
-4.0K -rw-r--r-- 1 root root 2.6K May 18 22:37 packages-stable/tern-context-coloring-1.0.1.el
-4.0K -rw-r--r-- 1 root root  509 May 18 22:37 packages-stable/tern-context-coloring-1.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:37 packages-stable/tern-context-coloring-badge.svg
-4.0K -rw-r--r-- 1 root root  183 May 18 22:37 packages-stable/tern-context-coloring-readme.txt
-4.0K -rw-r--r-- 1 root root  178 May 19 01:51 packages-stable/tern-context-coloring.log
+ 28K -rw-r--r-- 1 root root  27K Aug 17 11:37 packages-stable/tern-0.24.3.el
+4.0K -rw-r--r-- 1 root root  300 Aug 17 11:37 packages-stable/tern-0.24.3.entry
+8.0K -rw-r--r-- 1 root root 4.2K Aug 17 11:37 packages-stable/tern-auto-complete-0.24.3.el
+4.0K -rw-r--r-- 1 root root  402 Aug 17 11:37 packages-stable/tern-auto-complete-0.24.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:12 packages-stable/tern-auto-complete-badge.svg
+4.0K -rw-r--r-- 1 root root  453 Aug 17 11:37 packages-stable/tern-auto-complete-readme.txt
+4.0K -rw-r--r-- 1 root root  197 Aug 17 11:37 packages-stable/tern-auto-complete.log
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:37 packages-stable/tern-badge.svg
+4.0K -rw-r--r-- 1 root root 2.6K Aug 17 08:12 packages-stable/tern-context-coloring-1.0.1.el
+4.0K -rw-r--r-- 1 root root  509 Aug 17 08:12 packages-stable/tern-context-coloring-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:12 packages-stable/tern-context-coloring-badge.svg
+4.0K -rw-r--r-- 1 root root  183 Aug 17 08:12 packages-stable/tern-context-coloring-readme.txt
+4.0K -rw-r--r-- 1 root root  178 Aug 17 11:37 packages-stable/tern-context-coloring.log
 4.0K -rw-r--r-- 1 root root  967 Jan 12  2019 packages-stable/tern-django-badge.svg
 4.0K -rw-r--r-- 1 root root   33 Jan 12  2019 packages-stable/tern-django-readme.txt

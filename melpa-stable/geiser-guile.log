@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-geiser/guile.git
 
 Updating /mnt/store/melpa/working/geiser-guile/
+Checking out 8dda28f4f1758221f84f5cb5dc5b5ca5fd56caa9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser-guile/
-  to /tmp/geiser-guilegEw5vd/geiser-guile-0.17
+  to /tmp/geiser-guilevJpVcN/geiser-guile-0.17
     geiser-guile.el -> geiser-guile.el
     src/geiser => src/geiser
 Created geiser-guile-0.17.tar containing:
@@ -21,9 +22,9 @@ Created geiser-guile-0.17.tar containing:
   geiser-guile-0.17/src/geiser/modules.scm
   geiser-guile-0.17/src/geiser/utils.scm
   geiser-guile-0.17/src/geiser/xref.scm
-Built geiser-guile in 2.961s, finished at Wed May 19 04:36:47 2021
+Built geiser-guile in 4.042s, finished at 2021-08-17T11:03:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  431 May 19 04:36 packages-stable/geiser-guile-0.17.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:36 packages-stable/geiser-guile-0.17.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-guile-badge.svg
-4.0K -rw-r--r-- 1 root root   69 May 19 04:36 packages-stable/geiser-guile-readme.txt
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:03 packages-stable/geiser-guile-0.17.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:03 packages-stable/geiser-guile-0.17.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/geiser-guile-badge.svg
+4.0K -rw-r--r-- 1 root root   69 Aug 17 11:03 packages-stable/geiser-guile-readme.txt

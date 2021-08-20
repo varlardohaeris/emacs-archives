@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Trevoke/sqlup-mode.el.git
 
 Updating /mnt/store/melpa/working/sqlup-mode/
-Built sqlup-mode in 2.998s, finished at Wed May 19 01:50:09 2021
+Checking out 04970977b4abb4d44301651618bbf1cdb0b263dd
+Built sqlup-mode in 3.568s, finished at 2021-08-17T11:35:17+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.5K May 19 01:50 packages-stable/sqlup-mode-0.8.0.el
-4.0K -rw-r--r-- 1 root root  377 May 19 01:50 packages-stable/sqlup-mode-0.8.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sqlup-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sqlup-mode-readme.txt
+ 12K -rw-r--r-- 1 root root 9.5K Aug 17 11:35 packages-stable/sqlup-mode-0.8.0.el
+4.0K -rw-r--r-- 1 root root  377 Aug 17 11:35 packages-stable/sqlup-mode-0.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/sqlup-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/sqlup-mode-readme.txt

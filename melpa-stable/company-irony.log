@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/Sarcasm/company-irony.git
 
 Updating /mnt/store/melpa/working/company-irony/
-Built company-irony in 2.801s, finished at Wed May 19 04:24:31 2021
+Checking out 4b8c48fb25a28629f0a38b3e205adc9455f40de4
+Built company-irony in 3.548s, finished at 2021-08-17T10:49:59+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.8K May 19 04:24 packages-stable/company-irony-1.1.0.el
-4.0K -rw-r--r-- 1 root root  467 May 19 04:24 packages-stable/company-irony-1.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-irony-badge.svg
- 12K -rw-r--r-- 1 root root 9.8K May 19 04:24 packages-stable/company-irony-c-headers-1.0.0.el
-4.0K -rw-r--r-- 1 root root  479 May 19 01:09 packages-stable/company-irony-c-headers-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-irony-c-headers-badge.svg
-4.0K -rw-r--r-- 1 root root  584 May 19 01:09 packages-stable/company-irony-c-headers-readme.txt
-4.0K -rw-r--r-- 1 root root  172 May 19 04:24 packages-stable/company-irony-c-headers.log
-4.0K -rw-r--r-- 1 root root   93 May 19 04:24 packages-stable/company-irony-readme.txt
+8.0K -rw-r--r-- 1 root root 5.8K Aug 17 10:49 packages-stable/company-irony-1.1.1.el
+4.0K -rw-r--r-- 1 root root  467 Aug 17 10:49 packages-stable/company-irony-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-irony-badge.svg
+ 12K -rw-r--r-- 1 root root 9.7K Aug 17 10:49 packages-stable/company-irony-c-headers-1.0.0.el
+4.0K -rw-r--r-- 1 root root  479 Aug 17 07:20 packages-stable/company-irony-c-headers-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-irony-c-headers-badge.svg
+4.0K -rw-r--r-- 1 root root  584 Aug 17 07:20 packages-stable/company-irony-c-headers-readme.txt
+4.0K -rw-r--r-- 1 root root  226 Aug 17 10:49 packages-stable/company-irony-c-headers.log
+4.0K -rw-r--r-- 1 root root   93 Aug 17 10:49 packages-stable/company-irony-readme.txt

@@ -1,0 +1,6 @@
+Package: cursor-flash
+Fetcher: github
+Source:  https://github.com/Boruch-Baum/emacs-cursor-flash.git
+
+Updating /mnt/store/melpa/working/cursor-flash/
+No valid stable versions found for cursor-flash

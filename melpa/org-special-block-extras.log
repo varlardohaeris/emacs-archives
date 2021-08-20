@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/alhassy/org-special-block-extras.git
 
 Updating /mnt/store/melpa/working/org-special-block-extras/
-Built org-special-block-extras in 5.207s, finished at Wed May 19 03:51:32 2021
+Checking out origin/HEAD
+Checking out 8b7bbcb239cb08ca96a950cf59bb5e9617bee2cc
+Built org-special-block-extras in 12.300s, finished at 2021-08-17T10:16:32+0000
  ✓ Success:
- 76K -rw-r--r-- 1 root root  76K May 19 03:51 packages/org-special-block-extras-20210228.212.el
-4.0K -rw-r--r-- 1 root root  547 May 19 03:51 packages/org-special-block-extras-20210228.212.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:51 packages/org-special-block-extras-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 03:51 packages/org-special-block-extras-readme.txt
+ 76K -rw-r--r-- 1 root root  73K Aug 17 10:16 packages/org-special-block-extras-20210806.154.el
+4.0K -rw-r--r-- 1 root root  547 Aug 17 10:16 packages/org-special-block-extras-20210806.154.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:16 packages/org-special-block-extras-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 10:16 packages/org-special-block-extras-readme.txt

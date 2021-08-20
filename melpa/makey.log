@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/mickeynp/makey.git
 
 Updating /mnt/store/melpa/working/makey/
-Built makey in 4.240s, finished at Wed May 19 03:42:52 2021
+Checking out origin/HEAD
+Checking out a61781e69d3b451551e269446e1c5f624ab81137
+Built makey in 4.926s, finished at 2021-08-17T10:07:01+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  22K May 19 03:42 packages/makey-20131231.1430.el
-4.0K -rw-r--r-- 1 root root  283 May 19 03:42 packages/makey-20131231.1430.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:42 packages/makey-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 03:42 packages/makey-readme.txt
+ 24K -rw-r--r-- 1 root root  22K Aug 17 10:07 packages/makey-20131231.1430.el
+4.0K -rw-r--r-- 1 root root  283 Aug 17 10:07 packages/makey-20131231.1430.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:07 packages/makey-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:07 packages/makey-readme.txt

@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/stepnem/stripes-el.git
 
 Updating /mnt/store/melpa/working/stripes/
-Built stripes in 3.783s, finished at Wed May 19 01:50:30 2021
+Checking out 2f19389e408101e09aae231f2280011beb8b977f
+Built stripes in 9.235s, finished at 2021-08-17T11:35:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.7K May 19 01:50 packages-stable/stripes-0.3.1.1.el
-4.0K -rw-r--r-- 1 root root  426 May 19 01:50 packages-stable/stripes-0.3.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/stripes-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:50 packages-stable/stripes-readme.txt
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 11:35 packages-stable/stripes-0.3.1.1.el
+4.0K -rw-r--r-- 1 root root  426 Aug 17 11:35 packages-stable/stripes-0.3.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/stripes-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:35 packages-stable/stripes-readme.txt

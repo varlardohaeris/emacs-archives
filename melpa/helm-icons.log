@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/yyoncho/helm-icons.git
 
 Updating /mnt/store/melpa/working/helm-icons/
-Built helm-icons in 11.376s, finished at Wed May 19 03:30:20 2021
+Checking out origin/HEAD
+Checking out 8d2f5e705c8b78a390677cf242024739c932fc95
+Built helm-icons in 5.660s, finished at 2021-08-17T09:54:20+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.9K May 19 03:30 packages/helm-icons-20210330.1216.el
-4.0K -rw-r--r-- 1 root root  467 May 19 03:30 packages/helm-icons-20210330.1216.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:30 packages/helm-icons-badge.svg
-4.0K -rw-r--r-- 1 root root   57 May 19 03:30 packages/helm-icons-readme.txt
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 09:54 packages/helm-icons-20210330.1216.el
+4.0K -rw-r--r-- 1 root root  467 Aug 17 09:54 packages/helm-icons-20210330.1216.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:54 packages/helm-icons-badge.svg
+4.0K -rw-r--r-- 1 root root   57 Aug 17 09:54 packages/helm-icons-readme.txt

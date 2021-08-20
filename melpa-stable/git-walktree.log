@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/10sr/git-walktree-el.git
 
 Updating /mnt/store/melpa/working/git-walktree/
+Checking out a1a5490b89d193724ec637818baf2d8edf97c638
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-walktree/
-  to /tmp/git-walktreeXL3gZw/git-walktree-0.1.0
+  to /tmp/git-walktreea6EQLo/git-walktree-0.1.0
     git-walktree-mode.el -> git-walktree-mode.el
     git-walktree-read.el -> git-walktree-read.el
     git-walktree-utils.el -> git-walktree-utils.el
@@ -17,9 +18,9 @@ Created git-walktree-0.1.0.tar containing:
   git-walktree-0.1.0/git-walktree-read.el
   git-walktree-0.1.0/git-walktree-utils.el
   git-walktree-0.1.0/git-walktree.el
-Built git-walktree in 2.476s, finished at Wed May 19 04:37:21 2021
+Built git-walktree in 3.583s, finished at 2021-08-17T11:04:39+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  415 May 19 04:37 packages-stable/git-walktree-0.1.0.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:37 packages-stable/git-walktree-0.1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-walktree-badge.svg
-4.0K -rw-r--r-- 1 root root  282 May 19 04:37 packages-stable/git-walktree-readme.txt
+4.0K -rw-r--r-- 1 root root  415 Aug 17 11:04 packages-stable/git-walktree-0.1.0.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:04 packages-stable/git-walktree-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/git-walktree-badge.svg
+4.0K -rw-r--r-- 1 root root  282 Aug 17 11:04 packages-stable/git-walktree-readme.txt

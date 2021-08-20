@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/fastdef.git
 
 Updating /mnt/store/melpa/working/fastdef/
-Built fastdef in 2.862s, finished at Wed May 19 04:33:40 2021
+Checking out 0696f41dc150d35ce31fe8d2ea74f4173818bb55
+Built fastdef in 3.736s, finished at 2021-08-17T11:00:00+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.1K May 19 04:33 packages-stable/fastdef-0.2.0.el
-4.0K -rw-r--r-- 1 root root  424 May 19 04:33 packages-stable/fastdef-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/fastdef-badge.svg
-4.0K -rw-r--r-- 1 root root  517 May 19 04:33 packages-stable/fastdef-readme.txt
+8.0K -rw-r--r-- 1 root root 7.1K Aug 17 11:00 packages-stable/fastdef-0.2.0.el
+4.0K -rw-r--r-- 1 root root  424 Aug 17 11:00 packages-stable/fastdef-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/fastdef-badge.svg
+4.0K -rw-r--r-- 1 root root  517 Aug 17 11:00 packages-stable/fastdef-readme.txt

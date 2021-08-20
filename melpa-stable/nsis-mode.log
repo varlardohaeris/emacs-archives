@@ -3,21 +3,22 @@ Fetcher: github
 Source:  https://github.com/mattfidler/nsis-mode.git
 
 Updating /mnt/store/melpa/working/nsis-mode/
+Checking out b1d24c1a3f139bc38878fde0e465e31503e0c5df
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nsis-mode/
-  to /tmp/nsis-modePNWG0w/nsis-mode-0.44
+  to /tmp/nsis-modezw5MLi/nsis-mode-0.44
     nsis-mode.el -> nsis-mode.el
     nsis-mode.texi -> nsis-mode.texi
-Created /tmp/nsis-modePNWG0w/nsis-mode-0.44/nsis-mode.info
+Created /tmp/nsis-modezw5MLi/nsis-mode-0.44/nsis-mode.info
 Created nsis-mode-0.44.tar containing:
   nsis-mode-0.44/
   nsis-mode-0.44/dir
   nsis-mode-0.44/nsis-mode-pkg.el
   nsis-mode-0.44/nsis-mode.el
   nsis-mode-0.44/nsis-mode.info
-Built nsis-mode in 6.241s, finished at Wed May 19 01:37:50 2021
+Built nsis-mode in 6.471s, finished at 2021-08-17T11:21:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  279 May 19 01:37 packages-stable/nsis-mode-0.44.entry
- 92K -rw-r--r-- 1 root root  90K May 19 01:37 packages-stable/nsis-mode-0.44.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nsis-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  500 May 19 01:37 packages-stable/nsis-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  279 Aug 17 11:21 packages-stable/nsis-mode-0.44.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 11:21 packages-stable/nsis-mode-0.44.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/nsis-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  500 Aug 17 11:21 packages-stable/nsis-mode-readme.txt

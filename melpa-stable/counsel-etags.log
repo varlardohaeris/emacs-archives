@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/counsel-etags.git
 
 Updating /mnt/store/melpa/working/counsel-etags/
-Built counsel-etags in 4.648s, finished at Wed May 19 04:25:26 2021
+Checking out 84fff26b0f207131c2e6669bd7f510eac43973aa
+Built counsel-etags in 3.720s, finished at 2021-08-17T10:51:15+0000
  ✓ Success:
- 72K -rw-r--r-- 1 root root  69K May 19 04:25 packages-stable/counsel-etags-1.9.16.el
-4.0K -rw-r--r-- 1 root root  427 May 19 04:25 packages-stable/counsel-etags-1.9.16.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/counsel-etags-badge.svg
-8.0K -rw-r--r-- 1 root root 4.9K May 19 04:25 packages-stable/counsel-etags-readme.txt
+ 72K -rw-r--r-- 1 root root  71K Aug 17 10:51 packages-stable/counsel-etags-1.9.17.el
+4.0K -rw-r--r-- 1 root root  427 Aug 17 10:51 packages-stable/counsel-etags-1.9.17.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/counsel-etags-badge.svg
+8.0K -rw-r--r-- 1 root root 5.3K Aug 17 10:51 packages-stable/counsel-etags-readme.txt

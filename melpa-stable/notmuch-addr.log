@@ -1,0 +1,12 @@
+Package: notmuch-addr
+Fetcher: git
+Source:  https://git.sr.ht/~tarsius/notmuch-addr
+
+Updating /mnt/store/melpa/working/notmuch-addr/
+Checking out 90cc683335d7393b18a72d21203c01812988b7a4
+Built notmuch-addr in 3.287s, finished at 2021-08-17T11:21:10+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K Aug 17 11:21 packages-stable/notmuch-addr-0.2.0.el
+4.0K -rw-r--r-- 1 root root  389 Aug 17 11:21 packages-stable/notmuch-addr-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/notmuch-addr-badge.svg
+4.0K -rw-r--r-- 1 root root  945 Aug 17 11:21 packages-stable/notmuch-addr-readme.txt

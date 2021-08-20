@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/minad/hasklig-mode.git
 
 Updating /mnt/store/melpa/working/hasklig-mode/
-Built hasklig-mode in 4.660s, finished at Wed May 19 03:28:42 2021
+Checking out origin/HEAD
+Checking out 57e8ac22bd499b632ab94657b855c7c43b166dda
+Built hasklig-mode in 4.702s, finished at 2021-08-17T09:52:29+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 03:28 packages/hasklig-mode-20181110.1859.el
-4.0K -rw-r--r-- 1 root root  287 May 19 03:28 packages/hasklig-mode-20181110.1859.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:28 packages/hasklig-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   34 May 19 03:28 packages/hasklig-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 09:52 packages/hasklig-mode-20181110.1859.el
+4.0K -rw-r--r-- 1 root root  287 Aug 17 09:52 packages/hasklig-mode-20181110.1859.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:52 packages/hasklig-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   34 Aug 17 09:52 packages/hasklig-mode-readme.txt

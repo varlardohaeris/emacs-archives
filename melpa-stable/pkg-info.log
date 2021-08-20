@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/pkg-info.git
 
 Updating /mnt/store/melpa/working/pkg-info/
-Built pkg-info in 3.872s, finished at Wed May 19 01:43:12 2021
+Checking out ae4caaf9828a7cb4ef0fd29f6b7daeb544c3ef4e
+Built pkg-info in 3.906s, finished at 2021-08-17T11:27:23+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 01:43 packages-stable/pkg-info-0.6.el
-4.0K -rw-r--r-- 1 root root  374 May 19 01:43 packages-stable/pkg-info-0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/pkg-info-badge.svg
-4.0K -rw-r--r-- 1 root root   59 May 19 01:43 packages-stable/pkg-info-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:27 packages-stable/pkg-info-0.6.el
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:27 packages-stable/pkg-info-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/pkg-info-badge.svg
+4.0K -rw-r--r-- 1 root root   59 Aug 17 11:27 packages-stable/pkg-info-readme.txt

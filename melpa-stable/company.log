@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/company-mode/company-mode.git
 
 Updating /mnt/store/melpa/working/company/
+Checking out 656ad10670512e135a0a5881f127bb7a789ef8ca
 Note: company :files spec is equivalent to the default.
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company/
-  to /tmp/companySmMjFf/company-0.9.13
+  to /tmp/companyZD8P9T/company-0.9.13
     company-abbrev.el -> company-abbrev.el
     company-bbdb.el -> company-bbdb.el
     company-capf.el -> company-capf.el
@@ -58,234 +59,240 @@ Created company-0.9.13.tar containing:
   company-0.9.13/company-xcode.el
   company-0.9.13/company-yasnippet.el
   company-0.9.13/company.el
-Built company in 3.986s, finished at Wed May 19 04:24:15 2021
+Built company in 4.311s, finished at 2021-08-17T10:49:44+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  346 May 19 04:24 packages-stable/company-0.9.13.entry
-320K -rw-r--r-- 1 root root 320K May 19 04:24 packages-stable/company-0.9.13.tar
-8.0K -rw-r--r-- 1 root root 6.2K May 19 04:24 packages-stable/company-anaconda-0.2.0.el
-4.0K -rw-r--r-- 1 root root  486 May 19 04:24 packages-stable/company-anaconda-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-anaconda-badge.svg
-4.0K -rw-r--r-- 1 root root   33 May 19 04:24 packages-stable/company-anaconda-readme.txt
-4.0K -rw-r--r-- 1 root root  602 May 19 04:24 packages-stable/company-anaconda.log
-4.0K -rw-r--r-- 1 root root  416 May 19 04:24 packages-stable/company-ansible-0.8.0.entry
-352K -rw-r--r-- 1 root root 350K May 19 04:24 packages-stable/company-ansible-0.8.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-ansible-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/company-ansible-readme.txt
-4.0K -rw-r--r-- 1 root root  692 May 19 04:24 packages-stable/company-ansible.log
-4.0K -rw-r--r-- 1 root root  204 May 19 04:24 packages-stable/company-arduino.log
-4.0K -rw-r--r-- 1 root root  196 May 19 04:24 packages-stable/company-auctex.log
-4.0K -rw-r--r-- 1 root root  188 May 19 04:24 packages-stable/company-axiom.log
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-badge.svg
-4.0K -rw-r--r-- 1 root root  144 May 19 04:24 packages-stable/company-bibtex.log
-   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/company-box.log
-   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/company-c-headers.log
-4.0K -rw-r--r-- 1 root root  360 May 19 01:09 packages-stable/company-cabal-0.2.1.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:09 packages-stable/company-cabal-0.2.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-cabal-badge.svg
-4.0K -rw-r--r-- 1 root root  231 May 19 01:09 packages-stable/company-cabal-readme.txt
-   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/company-cabal.log
-4.0K -rw-r--r-- 1 root root  571 May 19 01:09 packages-stable/company-coq-1.0.1.entry
-1.7M -rw-r--r-- 1 root root 1.7M May 19 01:09 packages-stable/company-coq-1.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-coq-badge.svg
-4.0K -rw-r--r-- 1 root root  340 May 19 01:09 packages-stable/company-coq-readme.txt
-   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/company-coq.log
- 20K -rw-r--r-- 1 root root  19K May 19 01:09 packages-stable/company-ctags-0.0.4.el
-4.0K -rw-r--r-- 1 root root  401 May 19 01:09 packages-stable/company-ctags-0.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-ctags-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 01:09 packages-stable/company-ctags-readme.txt
-4.0K -rw-r--r-- 1 root root  575 May 19 01:09 packages-stable/company-ctags.log
-4.0K -rw-r--r-- 1 root root  188 May 19 01:09 packages-stable/company-dcd.log
-8.0K -rw-r--r-- 1 root root 5.6K May 19 01:09 packages-stable/company-dict-1.2.8.el
-4.0K -rw-r--r-- 1 root root  474 May 19 01:09 packages-stable/company-dict-1.2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-dict-badge.svg
-4.0K -rw-r--r-- 1 root root  484 May 19 01:09 packages-stable/company-dict.log
-4.0K -rw-r--r-- 1 root root  200 May 19 01:09 packages-stable/company-distel.log
+4.0K -rw-r--r-- 1 root root  346 Aug 17 10:49 packages-stable/company-0.9.13.entry
+320K -rw-r--r-- 1 root root 320K Aug 17 10:49 packages-stable/company-0.9.13.tar
+8.0K -rw-r--r-- 1 root root 6.2K Aug 17 10:49 packages-stable/company-anaconda-0.2.0.el
+4.0K -rw-r--r-- 1 root root  486 Aug 17 10:49 packages-stable/company-anaconda-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-anaconda-badge.svg
+4.0K -rw-r--r-- 1 root root   33 Aug 17 10:49 packages-stable/company-anaconda-readme.txt
+4.0K -rw-r--r-- 1 root root  656 Aug 17 10:49 packages-stable/company-anaconda.log
+4.0K -rw-r--r-- 1 root root  416 Aug 17 07:19 packages-stable/company-ansible-0.8.0.entry
+352K -rw-r--r-- 1 root root 350K Aug 17 07:19 packages-stable/company-ansible-0.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:19 packages-stable/company-ansible-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 07:19 packages-stable/company-ansible-readme.txt
+4.0K -rw-r--r-- 1 root root  212 Aug 17 10:49 packages-stable/company-ansible.log
+4.0K -rw-r--r-- 1 root root  153 Aug 17 10:49 packages-stable/company-arduino.log
+4.0K -rw-r--r-- 1 root root  146 Aug 17 10:49 packages-stable/company-auctex.log
+4.0K -rw-r--r-- 1 root root  139 Aug 17 10:49 packages-stable/company-axiom.log
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-badge.svg
+4.0K -rw-r--r-- 1 root root  144 Aug 17 10:49 packages-stable/company-bibtex.log
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:49 packages-stable/company-box.log
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:49 packages-stable/company-c-headers.log
+4.0K -rw-r--r-- 1 root root  360 Aug 17 07:20 packages-stable/company-cabal-0.2.1.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 07:20 packages-stable/company-cabal-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-cabal-badge.svg
+4.0K -rw-r--r-- 1 root root  231 Aug 17 07:20 packages-stable/company-cabal-readme.txt
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 07:20 packages-stable/company-cabal.log
+4.0K -rw-r--r-- 1 root root  571 Aug 17 07:20 packages-stable/company-coq-1.0.1.entry
+1.7M -rw-r--r-- 1 root root 1.7M Aug 17 07:20 packages-stable/company-coq-1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-coq-badge.svg
+4.0K -rw-r--r-- 1 root root  340 Aug 17 07:20 packages-stable/company-coq-readme.txt
+ 28K -rw-r--r-- 1 root root  28K Aug 17 07:20 packages-stable/company-coq.log
+ 20K -rw-r--r-- 1 root root  20K Aug 17 07:20 packages-stable/company-ctags-0.0.6.el
+4.0K -rw-r--r-- 1 root root  401 Aug 17 07:20 packages-stable/company-ctags-0.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-ctags-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 07:20 packages-stable/company-ctags-readme.txt
+4.0K -rw-r--r-- 1 root root  629 Aug 17 07:20 packages-stable/company-ctags.log
+4.0K -rw-r--r-- 1 root root  188 Aug 17 07:20 packages-stable/company-dcd.log
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 07:20 packages-stable/company-dict-1.2.8.el
+4.0K -rw-r--r-- 1 root root  474 Aug 17 07:20 packages-stable/company-dict-1.2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-dict-badge.svg
+4.0K -rw-r--r-- 1 root root  538 Aug 17 07:20 packages-stable/company-dict.log
+4.0K -rw-r--r-- 1 root root  200 Aug 17 07:20 packages-stable/company-distel.log
 4.0K -rw-r--r-- 1 root root  963 Feb  2  2020 packages-stable/company-edbi-badge.svg
 4.0K -rw-r--r-- 1 root root   33 Feb  2  2020 packages-stable/company-edbi-readme.txt
-8.0K -rw-r--r-- 1 root root 5.1K May 19 01:09 packages-stable/company-emacs-eclim-0.4.el
-4.0K -rw-r--r-- 1 root root  234 May 19 01:09 packages-stable/company-emacs-eclim-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-emacs-eclim-badge.svg
-4.0K -rw-r--r-- 1 root root  182 May 19 01:09 packages-stable/company-emacs-eclim-readme.txt
-4.0K -rw-r--r-- 1 root root  611 May 19 01:09 packages-stable/company-emacs-eclim.log
-4.0K -rw-r--r-- 1 root root  380 May 19 01:09 packages-stable/company-emoji-2.6.1.entry
-100K -rw-r--r-- 1 root root 100K May 19 01:09 packages-stable/company-emoji-2.6.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-emoji-badge.svg
-4.0K -rw-r--r-- 1 root root 2.7K May 19 01:09 packages-stable/company-emoji-readme.txt
-4.0K -rw-r--r-- 1 root root  991 May 19 01:09 packages-stable/company-emoji.log
-8.0K -rw-r--r-- 1 root root 7.3K May 19 01:09 packages-stable/company-erlang-0.1.1.el
-4.0K -rw-r--r-- 1 root root  371 May 19 01:09 packages-stable/company-erlang-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-erlang-badge.svg
-4.0K -rw-r--r-- 1 root root  828 May 19 01:09 packages-stable/company-erlang-readme.txt
-4.0K -rw-r--r-- 1 root root  582 May 19 01:09 packages-stable/company-erlang.log
-4.0K -rw-r--r-- 1 root root  192 May 19 01:09 packages-stable/company-flow.log
-4.0K -rw-r--r-- 1 root root  186 May 19 01:09 packages-stable/company-flx.log
- 24K -rw-r--r-- 1 root root  22K May 19 01:09 packages-stable/company-fuzzy-1.2.1.el
-4.0K -rw-r--r-- 1 root root  404 May 19 01:09 packages-stable/company-fuzzy-1.2.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-fuzzy-badge.svg
-4.0K -rw-r--r-- 1 root root   36 May 19 01:09 packages-stable/company-fuzzy-readme.txt
-4.0K -rw-r--r-- 1 root root  572 May 19 01:09 packages-stable/company-fuzzy.log
-4.0K -rw-r--r-- 1 root root 1.2K Feb  4 20:25 packages-stable/company-ghc-badge.svg
-4.0K -rw-r--r-- 1 root root  340 Feb  4 20:25 packages-stable/company-ghc-readme.txt
-4.0K -rw-r--r-- 1 root root  553 Feb  4 20:25 packages-stable/company-ghc.log
-4.0K -rw-r--r-- 1 root root  190 May 19 01:09 packages-stable/company-ghci.log
-4.0K -rw-r--r-- 1 root root  193 May 19 01:09 packages-stable/company-glsl.log
-8.0K -rw-r--r-- 1 root root 7.1K May 19 01:09 packages-stable/company-go-20150303.el
-4.0K -rw-r--r-- 1 root root  336 May 19 01:09 packages-stable/company-go-20150303.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-go-badge.svg
-4.0K -rw-r--r-- 1 root root  466 May 19 01:09 packages-stable/company-go.log
-4.0K -rw-r--r-- 1 root root  209 May 19 01:09 packages-stable/company-inf-ruby.log
-4.0K -rw-r--r-- 1 root root  187 May 19 01:09 packages-stable/company-ipa.log
-8.0K -rw-r--r-- 1 root root 5.8K May 19 01:09 packages-stable/company-irony-1.1.0.el
-4.0K -rw-r--r-- 1 root root  467 May 19 01:09 packages-stable/company-irony-1.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-irony-badge.svg
- 12K -rw-r--r-- 1 root root 9.8K May 19 01:09 packages-stable/company-irony-c-headers-1.0.0.el
-4.0K -rw-r--r-- 1 root root  479 May 19 01:09 packages-stable/company-irony-c-headers-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-irony-c-headers-badge.svg
-4.0K -rw-r--r-- 1 root root  584 May 19 01:09 packages-stable/company-irony-c-headers-readme.txt
-4.0K -rw-r--r-- 1 root root  650 May 19 01:09 packages-stable/company-irony-c-headers.log
-4.0K -rw-r--r-- 1 root root   93 May 19 01:09 packages-stable/company-irony-readme.txt
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:09 packages-stable/company-irony.log
-4.0K -rw-r--r-- 1 root root 3.6K May 19 01:09 packages-stable/company-jedi-0.4.el
-4.0K -rw-r--r-- 1 root root  348 May 19 01:09 packages-stable/company-jedi-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-jedi-badge.svg
-4.0K -rw-r--r-- 1 root root  328 May 19 01:09 packages-stable/company-jedi-readme.txt
-4.0K -rw-r--r-- 1 root root  566 May 19 01:09 packages-stable/company-jedi.log
-4.0K -rw-r--r-- 1 root root  188 May 19 01:09 packages-stable/company-lean.log
-4.0K -rw-r--r-- 1 root root  197 May 19 01:09 packages-stable/company-ledger.log
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 07:20 packages-stable/company-emacs-eclim-0.4.el
+4.0K -rw-r--r-- 1 root root  234 Aug 17 07:20 packages-stable/company-emacs-eclim-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-emacs-eclim-badge.svg
+4.0K -rw-r--r-- 1 root root  182 Aug 17 07:20 packages-stable/company-emacs-eclim-readme.txt
+4.0K -rw-r--r-- 1 root root  665 Aug 17 07:20 packages-stable/company-emacs-eclim.log
+4.0K -rw-r--r-- 1 root root  380 Aug 17 07:20 packages-stable/company-emoji-2.6.1.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 07:20 packages-stable/company-emoji-2.6.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-emoji-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 07:20 packages-stable/company-emoji-readme.txt
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 07:20 packages-stable/company-emoji.log
+8.0K -rw-r--r-- 1 root root 6.1K Aug 17 07:20 packages-stable/company-emojify-0.1.0.el
+4.0K -rw-r--r-- 1 root root  432 Aug 17 07:20 packages-stable/company-emojify-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-emojify-badge.svg
+4.0K -rw-r--r-- 1 root root   32 Aug 17 07:20 packages-stable/company-emojify-readme.txt
+4.0K -rw-r--r-- 1 root root  642 Aug 17 07:20 packages-stable/company-emojify.log
+8.0K -rw-r--r-- 1 root root 7.3K Aug 17 07:20 packages-stable/company-erlang-0.1.1.el
+4.0K -rw-r--r-- 1 root root  371 Aug 17 07:20 packages-stable/company-erlang-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-erlang-badge.svg
+4.0K -rw-r--r-- 1 root root  828 Aug 17 07:20 packages-stable/company-erlang-readme.txt
+4.0K -rw-r--r-- 1 root root  636 Aug 17 07:20 packages-stable/company-erlang.log
+4.0K -rw-r--r-- 1 root root  192 Aug 17 07:20 packages-stable/company-flow.log
+4.0K -rw-r--r-- 1 root root  186 Aug 17 07:20 packages-stable/company-flx.log
+ 24K -rw-r--r-- 1 root root  22K Aug 17 07:20 packages-stable/company-fuzzy-1.2.1.el
+4.0K -rw-r--r-- 1 root root  404 Aug 17 07:20 packages-stable/company-fuzzy-1.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-fuzzy-badge.svg
+4.0K -rw-r--r-- 1 root root   36 Aug 17 07:20 packages-stable/company-fuzzy-readme.txt
+4.0K -rw-r--r-- 1 root root  626 Aug 17 07:20 packages-stable/company-fuzzy.log
+4.0K -rw-r--r-- 1 root root 1.2K Feb  4  2021 packages-stable/company-ghc-badge.svg
+4.0K -rw-r--r-- 1 root root  340 Feb  4  2021 packages-stable/company-ghc-readme.txt
+4.0K -rw-r--r-- 1 root root  553 Feb  4  2021 packages-stable/company-ghc.log
+4.0K -rw-r--r-- 1 root root  190 Aug 17 07:20 packages-stable/company-ghci.log
+4.0K -rw-r--r-- 1 root root  193 Aug 17 07:20 packages-stable/company-glsl.log
+8.0K -rw-r--r-- 1 root root 7.1K Aug 17 07:20 packages-stable/company-go-20150303.el
+4.0K -rw-r--r-- 1 root root  336 Aug 17 07:20 packages-stable/company-go-20150303.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-go-badge.svg
+4.0K -rw-r--r-- 1 root root  520 Aug 17 07:20 packages-stable/company-go.log
+4.0K -rw-r--r-- 1 root root  209 Aug 17 07:20 packages-stable/company-inf-ruby.log
+4.0K -rw-r--r-- 1 root root  187 Aug 17 07:20 packages-stable/company-ipa.log
+8.0K -rw-r--r-- 1 root root 5.8K Aug 17 07:20 packages-stable/company-irony-1.1.1.el
+4.0K -rw-r--r-- 1 root root  467 Aug 17 07:20 packages-stable/company-irony-1.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-irony-badge.svg
+ 12K -rw-r--r-- 1 root root 9.8K Aug 17 07:20 packages-stable/company-irony-c-headers-1.0.0.el
+4.0K -rw-r--r-- 1 root root  479 Aug 17 07:20 packages-stable/company-irony-c-headers-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-irony-c-headers-badge.svg
+4.0K -rw-r--r-- 1 root root  584 Aug 17 07:20 packages-stable/company-irony-c-headers-readme.txt
+4.0K -rw-r--r-- 1 root root  704 Aug 17 07:20 packages-stable/company-irony-c-headers.log
+4.0K -rw-r--r-- 1 root root   93 Aug 17 07:20 packages-stable/company-irony-readme.txt
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 07:20 packages-stable/company-irony.log
+4.0K -rw-r--r-- 1 root root 3.6K Aug 17 07:20 packages-stable/company-jedi-0.4.el
+4.0K -rw-r--r-- 1 root root  348 Aug 17 07:20 packages-stable/company-jedi-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-jedi-badge.svg
+4.0K -rw-r--r-- 1 root root  328 Aug 17 07:20 packages-stable/company-jedi-readme.txt
+4.0K -rw-r--r-- 1 root root  620 Aug 17 07:20 packages-stable/company-jedi.log
+4.0K -rw-r--r-- 1 root root  188 Aug 17 07:20 packages-stable/company-lean.log
+4.0K -rw-r--r-- 1 root root  197 Aug 17 07:20 packages-stable/company-ledger.log
 4.0K -rw-r--r-- 1 root root 1.2K Mar  7 20:58 packages-stable/company-lsp-badge.svg
 4.0K -rw-r--r-- 1 root root  185 Mar  7 20:58 packages-stable/company-lsp-readme.txt
 4.0K -rw-r--r-- 1 root root  560 Mar  7 20:58 packages-stable/company-lsp.log
-4.0K -rw-r--r-- 1 root root  181 May 19 01:09 packages-stable/company-lua.log
-8.0K -rw-r--r-- 1 root root 7.4K May 19 01:09 packages-stable/company-manually-0.1.0.el
-4.0K -rw-r--r-- 1 root root  492 May 19 01:09 packages-stable/company-manually-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-manually-badge.svg
-4.0K -rw-r--r-- 1 root root   51 May 19 01:09 packages-stable/company-manually-readme.txt
-4.0K -rw-r--r-- 1 root root  598 May 19 01:09 packages-stable/company-manually.log
- 12K -rw-r--r-- 1 root root  11K May 19 01:09 packages-stable/company-math-1.4.el
-4.0K -rw-r--r-- 1 root root  447 May 19 01:09 packages-stable/company-math-1.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-math-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:09 packages-stable/company-math-readme.txt
-4.0K -rw-r--r-- 1 root root  558 May 19 01:09 packages-stable/company-math.log
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:09 packages-stable/company-maxima-0.7.6.el
-4.0K -rw-r--r-- 1 root root  422 May 19 01:09 packages-stable/company-maxima-0.7.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-maxima-badge.svg
-4.0K -rw-r--r-- 1 root root  213 May 19 01:09 packages-stable/company-maxima-readme.txt
-4.0K -rw-r--r-- 1 root root  573 May 19 01:09 packages-stable/company-maxima.log
-4.0K -rw-r--r-- 1 root root  213 May 19 01:09 packages-stable/company-nand2tetris.log
-4.0K -rw-r--r-- 1 root root  244 May 19 01:09 packages-stable/company-native-complete.log
-4.0K -rw-r--r-- 1 root root  196 May 19 01:09 packages-stable/company-nginx.log
-4.0K -rw-r--r-- 1 root root  287 May 19 01:09 packages-stable/company-ngram-0.8.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:09 packages-stable/company-ngram-0.8.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-ngram-badge.svg
-4.0K -rw-r--r-- 1 root root  628 May 19 01:09 packages-stable/company-ngram-readme.txt
-4.0K -rw-r--r-- 1 root root  955 May 19 01:09 packages-stable/company-ngram.log
-4.0K -rw-r--r-- 1 root root 3.1K May 19 01:09 packages-stable/company-nixos-options-0.0.1.el
-4.0K -rw-r--r-- 1 root root  504 May 19 01:09 packages-stable/company-nixos-options-0.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-nixos-options-badge.svg
-4.0K -rw-r--r-- 1 root root  101 May 19 01:09 packages-stable/company-nixos-options-readme.txt
-4.0K -rw-r--r-- 1 root root  631 May 19 01:09 packages-stable/company-nixos-options.log
-4.0K -rw-r--r-- 1 root root 1.2K Jan 17 20:17 packages-stable/company-org-roam-badge.svg
-4.0K -rw-r--r-- 1 root root  177 Jan 17 20:17 packages-stable/company-org-roam-readme.txt
-4.0K -rw-r--r-- 1 root root  592 Jan 17 20:17 packages-stable/company-org-roam.log
-8.0K -rw-r--r-- 1 root root 7.7K May 19 01:09 packages-stable/company-php-2.4.0.el
-4.0K -rw-r--r-- 1 root root  410 May 19 01:09 packages-stable/company-php-2.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:09 packages-stable/company-php-badge.svg
-4.0K -rw-r--r-- 1 root root  627 May 19 01:09 packages-stable/company-php-readme.txt
-4.0K -rw-r--r-- 1 root root  548 May 19 01:10 packages-stable/company-php.log
-4.0K -rw-r--r-- 1 root root 3.6K May 19 01:10 packages-stable/company-phpactor-0.1.0.el
-4.0K -rw-r--r-- 1 root root  455 May 19 01:10 packages-stable/company-phpactor-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-phpactor-badge.svg
-4.0K -rw-r--r-- 1 root root   34 May 19 01:10 packages-stable/company-phpactor-readme.txt
-4.0K -rw-r--r-- 1 root root  592 May 19 01:10 packages-stable/company-phpactor.log
-4.0K -rw-r--r-- 1 root root  480 May 19 01:10 packages-stable/company-plisp-0.0.1.entry
- 12K -rw-r--r-- 1 root root  10K May 19 01:10 packages-stable/company-plisp-0.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-plisp-badge.svg
-4.0K -rw-r--r-- 1 root root   63 May 19 01:10 packages-stable/company-plisp-readme.txt
-4.0K -rw-r--r-- 1 root root  978 May 19 01:10 packages-stable/company-plisp.log
-4.0K -rw-r--r-- 1 root root  208 May 19 01:09 packages-stable/company-plsense.log
-4.0K -rw-r--r-- 1 root root  195 May 19 01:10 packages-stable/company-pollen.log
- 24K -rw-r--r-- 1 root root  21K May 19 01:10 packages-stable/company-posframe-0.5.0.el
-4.0K -rw-r--r-- 1 root root  502 May 19 01:10 packages-stable/company-posframe-0.5.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-posframe-badge.svg
-4.0K -rw-r--r-- 1 root root 1007 May 19 01:10 packages-stable/company-posframe-readme.txt
-4.0K -rw-r--r-- 1 root root  595 May 19 01:10 packages-stable/company-posframe.log
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:10 packages-stable/company-prescient-5.1.el
-4.0K -rw-r--r-- 1 root root  461 May 19 01:10 packages-stable/company-prescient-5.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-prescient-badge.svg
-4.0K -rw-r--r-- 1 root root  432 May 19 01:10 packages-stable/company-prescient-readme.txt
-4.0K -rw-r--r-- 1 root root  595 May 19 01:10 packages-stable/company-prescient.log
-4.0K -rw-r--r-- 1 root root  188 May 19 01:10 packages-stable/company-qml.log
- 12K -rw-r--r-- 1 root root  11K May 19 01:10 packages-stable/company-quickhelp-2.3.0.el
-4.0K -rw-r--r-- 1 root root  509 May 19 01:10 packages-stable/company-quickhelp-2.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-quickhelp-badge.svg
-4.0K -rw-r--r-- 1 root root  132 May 19 01:10 packages-stable/company-quickhelp-readme.txt
-4.0K -rw-r--r-- 1 root root 3.7K May 19 01:10 packages-stable/company-quickhelp-terminal-0.1.1.el
-4.0K -rw-r--r-- 1 root root  502 May 19 01:10 packages-stable/company-quickhelp-terminal-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-quickhelp-terminal-badge.svg
-4.0K -rw-r--r-- 1 root root   43 May 19 01:10 packages-stable/company-quickhelp-terminal-readme.txt
-4.0K -rw-r--r-- 1 root root  676 May 19 01:10 packages-stable/company-quickhelp-terminal.log
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:10 packages-stable/company-quickhelp.log
-4.0K -rw-r--r-- 1 root root  195 May 19 01:10 packages-stable/company-racer.log
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:24 packages-stable/company-readme.txt
-4.0K -rw-r--r-- 1 root root  194 May 19 01:10 packages-stable/company-reftex.log
-8.0K -rw-r--r-- 1 root root 5.3K May 19 01:10 packages-stable/company-restclient-0.3.0.el
-4.0K -rw-r--r-- 1 root root  542 May 19 01:10 packages-stable/company-restclient-0.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-restclient-badge.svg
-4.0K -rw-r--r-- 1 root root  180 May 19 01:10 packages-stable/company-restclient-readme.txt
-4.0K -rw-r--r-- 1 root root  609 May 19 01:10 packages-stable/company-restclient.log
- 16K -rw-r--r-- 1 root root  13K May 19 01:10 packages-stable/company-rtags-3.23.el
-4.0K -rw-r--r-- 1 root root  399 May 19 01:10 packages-stable/company-rtags-3.23.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-rtags-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:10 packages-stable/company-rtags-readme.txt
-4.0K -rw-r--r-- 1 root root  566 May 19 01:10 packages-stable/company-rtags.log
- 12K -rw-r--r-- 1 root root  11K May 19 01:10 packages-stable/company-shell-1.2.1.el
-4.0K -rw-r--r-- 1 root root  475 May 19 01:10 packages-stable/company-shell-1.2.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-shell-badge.svg
-4.0K -rw-r--r-- 1 root root  115 May 19 01:10 packages-stable/company-shell-readme.txt
-4.0K -rw-r--r-- 1 root root  642 May 19 01:10 packages-stable/company-shell.log
-8.0K -rw-r--r-- 1 root root 4.2K May 19 01:10 packages-stable/company-solidity-0.1.10.el
-4.0K -rw-r--r-- 1 root root  501 May 19 01:10 packages-stable/company-solidity-0.1.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-solidity-badge.svg
-4.0K -rw-r--r-- 1 root root  122 May 19 01:10 packages-stable/company-solidity-readme.txt
-4.0K -rw-r--r-- 1 root root  596 May 19 01:10 packages-stable/company-solidity.log
-8.0K -rw-r--r-- 1 root root 7.8K May 19 01:10 packages-stable/company-sourcekit-0.2.0.el
-4.0K -rw-r--r-- 1 root root  543 May 19 01:10 packages-stable/company-sourcekit-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-sourcekit-badge.svg
-4.0K -rw-r--r-- 1 root root  148 May 19 01:10 packages-stable/company-sourcekit-readme.txt
-4.0K -rw-r--r-- 1 root root  605 May 19 01:10 packages-stable/company-sourcekit.log
- 12K -rw-r--r-- 1 root root 8.3K May 19 01:10 packages-stable/company-stan-10.2.0.el
-4.0K -rw-r--r-- 1 root root  478 May 19 01:10 packages-stable/company-stan-10.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-stan-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:10 packages-stable/company-stan-readme.txt
-4.0K -rw-r--r-- 1 root root  563 May 19 01:10 packages-stable/company-stan.log
- 16K -rw-r--r-- 1 root root  16K May 19 01:10 packages-stable/company-statistics-0.2.2.el
-4.0K -rw-r--r-- 1 root root  478 May 19 01:10 packages-stable/company-statistics-0.2.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-statistics-badge.svg
-4.0K -rw-r--r-- 1 root root  887 May 19 01:10 packages-stable/company-statistics-readme.txt
-4.0K -rw-r--r-- 1 root root  616 May 19 01:10 packages-stable/company-statistics.log
-4.0K -rw-r--r-- 1 root root  207 May 19 01:10 packages-stable/company-suggest.log
-4.0K -rw-r--r-- 1 root root  201 May 19 01:10 packages-stable/company-tabnine.log
+4.0K -rw-r--r-- 1 root root  181 Aug 17 07:20 packages-stable/company-lua.log
+8.0K -rw-r--r-- 1 root root 7.4K Aug 17 07:20 packages-stable/company-manually-0.1.0.el
+4.0K -rw-r--r-- 1 root root  492 Aug 17 07:20 packages-stable/company-manually-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-manually-badge.svg
+4.0K -rw-r--r-- 1 root root   51 Aug 17 07:20 packages-stable/company-manually-readme.txt
+4.0K -rw-r--r-- 1 root root  652 Aug 17 07:20 packages-stable/company-manually.log
+ 12K -rw-r--r-- 1 root root  11K Aug 17 07:20 packages-stable/company-math-1.4.el
+4.0K -rw-r--r-- 1 root root  447 Aug 17 07:20 packages-stable/company-math-1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-math-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 07:20 packages-stable/company-math-readme.txt
+4.0K -rw-r--r-- 1 root root  612 Aug 17 07:20 packages-stable/company-math.log
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 07:20 packages-stable/company-maxima-0.7.6.el
+4.0K -rw-r--r-- 1 root root  422 Aug 17 07:20 packages-stable/company-maxima-0.7.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-maxima-badge.svg
+4.0K -rw-r--r-- 1 root root  213 Aug 17 07:20 packages-stable/company-maxima-readme.txt
+4.0K -rw-r--r-- 1 root root  627 Aug 17 07:20 packages-stable/company-maxima.log
+4.0K -rw-r--r-- 1 root root  213 Aug 17 07:20 packages-stable/company-nand2tetris.log
+4.0K -rw-r--r-- 1 root root  244 Aug 17 07:20 packages-stable/company-native-complete.log
+4.0K -rw-r--r-- 1 root root  196 Aug 17 07:20 packages-stable/company-nginx.log
+4.0K -rw-r--r-- 1 root root  287 Aug 17 07:20 packages-stable/company-ngram-0.8.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 07:20 packages-stable/company-ngram-0.8.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-ngram-badge.svg
+4.0K -rw-r--r-- 1 root root  628 Aug 17 07:20 packages-stable/company-ngram-readme.txt
+4.0K -rw-r--r-- 1 root root 1009 Aug 17 07:20 packages-stable/company-ngram.log
+4.0K -rw-r--r-- 1 root root 3.1K Aug 17 07:20 packages-stable/company-nixos-options-0.0.1.el
+4.0K -rw-r--r-- 1 root root  504 Aug 17 07:20 packages-stable/company-nixos-options-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-nixos-options-badge.svg
+4.0K -rw-r--r-- 1 root root  101 Aug 17 07:20 packages-stable/company-nixos-options-readme.txt
+4.0K -rw-r--r-- 1 root root  685 Aug 17 07:20 packages-stable/company-nixos-options.log
+4.0K -rw-r--r-- 1 root root  209 Aug 17 07:20 packages-stable/company-org-block.log
+4.0K -rw-r--r-- 1 root root 1.2K Jan 17  2021 packages-stable/company-org-roam-badge.svg
+4.0K -rw-r--r-- 1 root root  177 Jan 17  2021 packages-stable/company-org-roam-readme.txt
+4.0K -rw-r--r-- 1 root root  592 Jan 17  2021 packages-stable/company-org-roam.log
+8.0K -rw-r--r-- 1 root root 7.7K Aug 17 07:20 packages-stable/company-php-2.4.1.el
+4.0K -rw-r--r-- 1 root root  410 Aug 17 07:20 packages-stable/company-php-2.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-php-badge.svg
+4.0K -rw-r--r-- 1 root root  627 Aug 17 07:20 packages-stable/company-php-readme.txt
+4.0K -rw-r--r-- 1 root root  602 Aug 17 07:20 packages-stable/company-php.log
+4.0K -rw-r--r-- 1 root root 3.6K Aug 17 07:20 packages-stable/company-phpactor-0.1.0.el
+4.0K -rw-r--r-- 1 root root  455 Aug 17 07:20 packages-stable/company-phpactor-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-phpactor-badge.svg
+4.0K -rw-r--r-- 1 root root   34 Aug 17 07:20 packages-stable/company-phpactor-readme.txt
+4.0K -rw-r--r-- 1 root root  646 Aug 17 07:20 packages-stable/company-phpactor.log
+4.0K -rw-r--r-- 1 root root  480 Aug 17 07:20 packages-stable/company-plisp-0.0.1.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 07:20 packages-stable/company-plisp-0.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-plisp-badge.svg
+4.0K -rw-r--r-- 1 root root   63 Aug 17 07:20 packages-stable/company-plisp-readme.txt
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 07:20 packages-stable/company-plisp.log
+4.0K -rw-r--r-- 1 root root  208 Aug 17 07:20 packages-stable/company-plsense.log
+4.0K -rw-r--r-- 1 root root  195 Aug 17 07:20 packages-stable/company-pollen.log
+ 24K -rw-r--r-- 1 root root  21K Aug 17 07:20 packages-stable/company-posframe-0.5.0.el
+4.0K -rw-r--r-- 1 root root  502 Aug 17 07:20 packages-stable/company-posframe-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-posframe-badge.svg
+4.0K -rw-r--r-- 1 root root 1007 Aug 17 07:20 packages-stable/company-posframe-readme.txt
+4.0K -rw-r--r-- 1 root root  649 Aug 17 07:20 packages-stable/company-posframe.log
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 07:20 packages-stable/company-prescient-5.1.el
+4.0K -rw-r--r-- 1 root root  461 Aug 17 07:20 packages-stable/company-prescient-5.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-prescient-badge.svg
+4.0K -rw-r--r-- 1 root root  432 Aug 17 07:20 packages-stable/company-prescient-readme.txt
+4.0K -rw-r--r-- 1 root root  649 Aug 17 07:20 packages-stable/company-prescient.log
+4.0K -rw-r--r-- 1 root root  188 Aug 17 07:20 packages-stable/company-qml.log
+ 12K -rw-r--r-- 1 root root  11K Aug 17 07:20 packages-stable/company-quickhelp-2.3.0.el
+4.0K -rw-r--r-- 1 root root  509 Aug 17 07:20 packages-stable/company-quickhelp-2.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-quickhelp-badge.svg
+4.0K -rw-r--r-- 1 root root  132 Aug 17 07:20 packages-stable/company-quickhelp-readme.txt
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 07:20 packages-stable/company-quickhelp-terminal-0.1.1.el
+4.0K -rw-r--r-- 1 root root  502 Aug 17 07:20 packages-stable/company-quickhelp-terminal-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-quickhelp-terminal-badge.svg
+4.0K -rw-r--r-- 1 root root   43 Aug 17 07:20 packages-stable/company-quickhelp-terminal-readme.txt
+4.0K -rw-r--r-- 1 root root  730 Aug 17 07:20 packages-stable/company-quickhelp-terminal.log
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-quickhelp.log
+4.0K -rw-r--r-- 1 root root  195 Aug 17 07:20 packages-stable/company-racer.log
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 10:49 packages-stable/company-readme.txt
+4.0K -rw-r--r-- 1 root root  194 Aug 17 07:20 packages-stable/company-reftex.log
+8.0K -rw-r--r-- 1 root root 5.3K Aug 17 07:20 packages-stable/company-restclient-0.3.0.el
+4.0K -rw-r--r-- 1 root root  542 Aug 17 07:20 packages-stable/company-restclient-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-restclient-badge.svg
+4.0K -rw-r--r-- 1 root root  180 Aug 17 07:20 packages-stable/company-restclient-readme.txt
+4.0K -rw-r--r-- 1 root root  663 Aug 17 07:20 packages-stable/company-restclient.log
+ 16K -rw-r--r-- 1 root root  13K Aug 17 07:20 packages-stable/company-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  399 Aug 17 07:20 packages-stable/company-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 07:20 packages-stable/company-rtags-readme.txt
+4.0K -rw-r--r-- 1 root root  620 Aug 17 07:20 packages-stable/company-rtags.log
+ 12K -rw-r--r-- 1 root root  11K Aug 17 07:20 packages-stable/company-shell-1.2.1.el
+4.0K -rw-r--r-- 1 root root  475 Aug 17 07:20 packages-stable/company-shell-1.2.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-shell-badge.svg
+4.0K -rw-r--r-- 1 root root  115 Aug 17 07:20 packages-stable/company-shell-readme.txt
+4.0K -rw-r--r-- 1 root root  696 Aug 17 07:20 packages-stable/company-shell.log
+8.0K -rw-r--r-- 1 root root 4.2K Aug 17 07:20 packages-stable/company-solidity-0.1.10.el
+4.0K -rw-r--r-- 1 root root  501 Aug 17 07:20 packages-stable/company-solidity-0.1.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-solidity-badge.svg
+4.0K -rw-r--r-- 1 root root  122 Aug 17 07:20 packages-stable/company-solidity-readme.txt
+4.0K -rw-r--r-- 1 root root  650 Aug 17 07:20 packages-stable/company-solidity.log
+8.0K -rw-r--r-- 1 root root 7.8K Aug 17 07:20 packages-stable/company-sourcekit-0.2.0.el
+4.0K -rw-r--r-- 1 root root  543 Aug 17 07:20 packages-stable/company-sourcekit-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-sourcekit-badge.svg
+4.0K -rw-r--r-- 1 root root  148 Aug 17 07:20 packages-stable/company-sourcekit-readme.txt
+4.0K -rw-r--r-- 1 root root  659 Aug 17 07:20 packages-stable/company-sourcekit.log
+ 12K -rw-r--r-- 1 root root 8.3K Aug 17 07:20 packages-stable/company-stan-10.2.0.el
+4.0K -rw-r--r-- 1 root root  478 Aug 17 07:20 packages-stable/company-stan-10.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-stan-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 07:20 packages-stable/company-stan-readme.txt
+4.0K -rw-r--r-- 1 root root  617 Aug 17 07:20 packages-stable/company-stan.log
+ 16K -rw-r--r-- 1 root root  16K Aug 17 07:20 packages-stable/company-statistics-0.2.2.el
+4.0K -rw-r--r-- 1 root root  478 Aug 17 07:20 packages-stable/company-statistics-0.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-statistics-badge.svg
+4.0K -rw-r--r-- 1 root root  887 Aug 17 07:20 packages-stable/company-statistics-readme.txt
+4.0K -rw-r--r-- 1 root root  670 Aug 17 07:20 packages-stable/company-statistics.log
+4.0K -rw-r--r-- 1 root root  207 Aug 17 07:20 packages-stable/company-suggest.log
+4.0K -rw-r--r-- 1 root root  201 Aug 17 07:20 packages-stable/company-tabnine.log
 4.0K -rw-r--r-- 1 root root  967 Mar 21  2020 packages-stable/company-tern-badge.svg
 4.0K -rw-r--r-- 1 root root   33 Mar 21  2020 packages-stable/company-tern-readme.txt
-4.0K -rw-r--r-- 1 root root  528 May 19 01:10 packages-stable/company-terraform-1.3.entry
-2.0M -rw-r--r-- 1 root root 2.0M May 19 01:10 packages-stable/company-terraform-1.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-terraform-badge.svg
-4.0K -rw-r--r-- 1 root root  295 May 19 01:10 packages-stable/company-terraform-readme.txt
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:10 packages-stable/company-terraform.log
-4.0K -rw-r--r-- 1 root root  204 May 19 01:10 packages-stable/company-try-hard.log
-4.0K -rw-r--r-- 1 root root  532 May 19 01:10 packages-stable/company-web-2.1.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:10 packages-stable/company-web-2.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-web-badge.svg
-4.0K -rw-r--r-- 1 root root  904 May 19 01:10 packages-stable/company-web-readme.txt
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:10 packages-stable/company-web.log
- 12K -rw-r--r-- 1 root root  12K May 19 01:10 packages-stable/company-wordfreq-0.1.1.el
-4.0K -rw-r--r-- 1 root root  484 May 19 01:10 packages-stable/company-wordfreq-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-wordfreq-badge.svg
-4.0K -rw-r--r-- 1 root root 2.3K May 19 01:10 packages-stable/company-wordfreq-readme.txt
-4.0K -rw-r--r-- 1 root root  607 May 19 01:10 packages-stable/company-wordfreq.log
-4.0K -rw-r--r-- 1 root root  181 May 19 01:10 packages-stable/company-ycm.log
- 28K -rw-r--r-- 1 root root  25K May 19 01:10 packages-stable/company-ycmd-1.2.el
-4.0K -rw-r--r-- 1 root root  355 May 19 01:10 packages-stable/company-ycmd-1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:10 packages-stable/company-ycmd-badge.svg
-4.0K -rw-r--r-- 1 root root  491 May 19 01:10 packages-stable/company-ycmd-readme.txt
-4.0K -rw-r--r-- 1 root root  558 May 19 01:10 packages-stable/company-ycmd.log
+4.0K -rw-r--r-- 1 root root  528 Aug 17 07:20 packages-stable/company-terraform-1.3.entry
+2.0M -rw-r--r-- 1 root root 2.0M Aug 17 07:20 packages-stable/company-terraform-1.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-terraform-badge.svg
+4.0K -rw-r--r-- 1 root root  295 Aug 17 07:20 packages-stable/company-terraform-readme.txt
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-terraform.log
+4.0K -rw-r--r-- 1 root root  204 Aug 17 07:20 packages-stable/company-try-hard.log
+4.0K -rw-r--r-- 1 root root  532 Aug 17 07:20 packages-stable/company-web-2.1.entry
+ 56K -rw-r--r-- 1 root root  50K Aug 17 07:20 packages-stable/company-web-2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-web-badge.svg
+4.0K -rw-r--r-- 1 root root  904 Aug 17 07:20 packages-stable/company-web-readme.txt
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-web.log
+ 12K -rw-r--r-- 1 root root  12K Aug 17 07:20 packages-stable/company-wordfreq-0.1.1.el
+4.0K -rw-r--r-- 1 root root  484 Aug 17 07:20 packages-stable/company-wordfreq-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-wordfreq-badge.svg
+4.0K -rw-r--r-- 1 root root 2.3K Aug 17 07:20 packages-stable/company-wordfreq-readme.txt
+4.0K -rw-r--r-- 1 root root  661 Aug 17 07:20 packages-stable/company-wordfreq.log
+4.0K -rw-r--r-- 1 root root  181 Aug 17 07:20 packages-stable/company-ycm.log
+ 28K -rw-r--r-- 1 root root  25K Aug 17 07:20 packages-stable/company-ycmd-1.2.el
+4.0K -rw-r--r-- 1 root root  355 Aug 17 07:20 packages-stable/company-ycmd-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:20 packages-stable/company-ycmd-badge.svg
+4.0K -rw-r--r-- 1 root root  491 Aug 17 07:20 packages-stable/company-ycmd-readme.txt
+4.0K -rw-r--r-- 1 root root  612 Aug 17 07:20 packages-stable/company-ycmd.log

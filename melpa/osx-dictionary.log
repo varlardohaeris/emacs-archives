@@ -3,19 +3,21 @@ Fetcher: github
 Source:  https://github.com/xuchunyang/osx-dictionary.el.git
 
 Updating /mnt/store/melpa/working/osx-dictionary/
+Checking out origin/HEAD
+Checking out 1a4479d9f44ef1e6e5f7643c172c32f6fe6cce21
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osx-dictionary/
-  to /tmp/osx-dictionarykrMjtj/osx-dictionary-20210309.115
+  to /tmp/osx-dictionaryqVs7TB/osx-dictionary-20210703.1152
     osx-dictionary.el -> osx-dictionary.el
     osx-dictionary.m -> osx-dictionary.m
-Created osx-dictionary-20210309.115.tar containing:
-  osx-dictionary-20210309.115/
-  osx-dictionary-20210309.115/osx-dictionary-pkg.el
-  osx-dictionary-20210309.115/osx-dictionary.el
-  osx-dictionary-20210309.115/osx-dictionary.m
-Built osx-dictionary in 4.052s, finished at Wed May 19 03:52:25 2021
+Created osx-dictionary-20210703.1152.tar containing:
+  osx-dictionary-20210703.1152/
+  osx-dictionary-20210703.1152/osx-dictionary-pkg.el
+  osx-dictionary-20210703.1152/osx-dictionary.el
+  osx-dictionary-20210703.1152/osx-dictionary.m
+Built osx-dictionary in 4.170s, finished at 2021-08-17T10:17:29+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  377 May 19 03:52 packages/osx-dictionary-20210309.115.entry
- 32K -rw-r--r-- 1 root root  30K May 19 03:52 packages/osx-dictionary-20210309.115.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:52 packages/osx-dictionary-badge.svg
-4.0K -rw-r--r-- 1 root root  359 May 19 03:52 packages/osx-dictionary-readme.txt
+4.0K -rw-r--r-- 1 root root  378 Aug 17 10:17 packages/osx-dictionary-20210703.1152.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:17 packages/osx-dictionary-20210703.1152.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:17 packages/osx-dictionary-badge.svg
+4.0K -rw-r--r-- 1 root root  359 Aug 17 10:17 packages/osx-dictionary-readme.txt

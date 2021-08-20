@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mrkkrp/char-menu.git
 
 Updating /mnt/store/melpa/working/char-menu/
-Built char-menu in 4.117s, finished at Wed May 19 04:23:04 2021
+Checking out f4d8bf8fa6787e2aaca2ccda5223646541d7a4b2
+Built char-menu in 4.185s, finished at 2021-08-17T10:48:26+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.9K May 19 04:23 packages-stable/char-menu-0.1.1.el
-4.0K -rw-r--r-- 1 root root  447 May 19 04:23 packages-stable/char-menu-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/char-menu-badge.svg
-4.0K -rw-r--r-- 1 root root  921 May 19 04:23 packages-stable/char-menu-readme.txt
+8.0K -rw-r--r-- 1 root root 4.9K Aug 17 10:48 packages-stable/char-menu-0.1.1.el
+4.0K -rw-r--r-- 1 root root  447 Aug 17 10:48 packages-stable/char-menu-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/char-menu-badge.svg
+4.0K -rw-r--r-- 1 root root  921 Aug 17 10:48 packages-stable/char-menu-readme.txt

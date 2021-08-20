@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-evil/evil.git
 
 Updating /mnt/store/melpa/working/evil-test-helpers/
-Built evil-test-helpers in 3.700s, finished at Wed May 19 04:32:41 2021
+Checking out 4dc63903d9688e2ce838a220b0e24d8f14a64c12
+Built evil-test-helpers in 4.489s, finished at 2021-08-17T10:59:19+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 04:32 packages-stable/evil-test-helpers-1.14.0.el
-4.0K -rw-r--r-- 1 root root  308 May 19 04:32 packages-stable/evil-test-helpers-1.14.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-test-helpers-badge.svg
-4.0K -rw-r--r-- 1 root root  659 May 19 04:32 packages-stable/evil-test-helpers-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 10:59 packages-stable/evil-test-helpers-1.14.0.el
+4.0K -rw-r--r-- 1 root root  308 Aug 17 10:59 packages-stable/evil-test-helpers-1.14.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-test-helpers-badge.svg
+4.0K -rw-r--r-- 1 root root  659 Aug 17 10:59 packages-stable/evil-test-helpers-readme.txt

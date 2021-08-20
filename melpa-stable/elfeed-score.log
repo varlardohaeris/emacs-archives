@@ -3,35 +3,38 @@ Fetcher: github
 Source:  https://github.com/sp1ff/elfeed-score.git
 
 Updating /mnt/store/melpa/working/elfeed-score/
+Checking out 8ed96b811b786fd838dc0f36d911b6156ac5f161
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elfeed-score/
-  to /tmp/elfeed-scoreC5mSlk/elfeed-score-0.7.8
+  to /tmp/elfeed-scorePYwb1N/elfeed-score-0.7.10
     elfeed-score-log.el -> elfeed-score-log.el
     elfeed-score-maint.el -> elfeed-score-maint.el
     elfeed-score-pkg.el -> elfeed-score-pkg.el
+    elfeed-score-rule-stats.el -> elfeed-score-rule-stats.el
     elfeed-score-rules.el -> elfeed-score-rules.el
     elfeed-score-scoring.el -> elfeed-score-scoring.el
     elfeed-score-serde.el -> elfeed-score-serde.el
     elfeed-score.el -> elfeed-score.el
   ! doc/elfeed-score.texi -> elfeed-score.texi
   ! doc/version.texi -> version.texi
-Created /tmp/elfeed-scoreC5mSlk/elfeed-score-0.7.8/elfeed-score.info
-Created /tmp/elfeed-scoreC5mSlk/elfeed-score-0.7.8/version.info
-Created elfeed-score-0.7.8.tar containing:
-  elfeed-score-0.7.8/
-  elfeed-score-0.7.8/dir
-  elfeed-score-0.7.8/elfeed-score-log.el
-  elfeed-score-0.7.8/elfeed-score-maint.el
-  elfeed-score-0.7.8/elfeed-score-pkg.el
-  elfeed-score-0.7.8/elfeed-score-rules.el
-  elfeed-score-0.7.8/elfeed-score-scoring.el
-  elfeed-score-0.7.8/elfeed-score-serde.el
-  elfeed-score-0.7.8/elfeed-score.el
-  elfeed-score-0.7.8/elfeed-score.info
-  elfeed-score-0.7.8/version.info
-Built elfeed-score in 12.244s, finished at Wed May 19 04:30:15 2021
+Created /tmp/elfeed-scorePYwb1N/elfeed-score-0.7.10/elfeed-score.info
+Created /tmp/elfeed-scorePYwb1N/elfeed-score-0.7.10/version.info
+Created elfeed-score-0.7.10.tar containing:
+  elfeed-score-0.7.10/
+  elfeed-score-0.7.10/dir
+  elfeed-score-0.7.10/elfeed-score-log.el
+  elfeed-score-0.7.10/elfeed-score-maint.el
+  elfeed-score-0.7.10/elfeed-score-pkg.el
+  elfeed-score-0.7.10/elfeed-score-rule-stats.el
+  elfeed-score-0.7.10/elfeed-score-rules.el
+  elfeed-score-0.7.10/elfeed-score-scoring.el
+  elfeed-score-0.7.10/elfeed-score-serde.el
+  elfeed-score-0.7.10/elfeed-score.el
+  elfeed-score-0.7.10/elfeed-score.info
+  elfeed-score-0.7.10/version.info
+Built elfeed-score in 20.612s, finished at 2021-08-17T10:56:27+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  377 May 19 04:30 packages-stable/elfeed-score-0.7.8.entry
-180K -rw-r--r-- 1 root root 180K May 19 04:30 packages-stable/elfeed-score-0.7.8.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elfeed-score-badge.svg
-4.0K -rw-r--r-- 1 root root  629 May 19 04:30 packages-stable/elfeed-score-readme.txt
+4.0K -rw-r--r-- 1 root root  378 Aug 17 10:56 packages-stable/elfeed-score-0.7.10.entry
+200K -rw-r--r-- 1 root root 200K Aug 17 10:56 packages-stable/elfeed-score-0.7.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elfeed-score-badge.svg
+4.0K -rw-r--r-- 1 root root  629 Aug 17 10:56 packages-stable/elfeed-score-readme.txt

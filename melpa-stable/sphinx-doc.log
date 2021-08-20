@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/naiquevin/sphinx-doc.el.git
 
 Updating /mnt/store/melpa/working/sphinx-doc/
-Built sphinx-doc in 2.934s, finished at Wed May 19 01:49:56 2021
+Checking out b3459ecb9e6d3fffdee3cb7342563a56a32ce666
+Built sphinx-doc in 5.699s, finished at 2021-08-17T11:35:01+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 01:49 packages-stable/sphinx-doc-0.1.0.el
-4.0K -rw-r--r-- 1 root root  433 May 19 01:49 packages-stable/sphinx-doc-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/sphinx-doc-badge.svg
-4.0K -rw-r--r-- 1 root root  232 May 19 01:49 packages-stable/sphinx-doc-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 11:35 packages-stable/sphinx-doc-0.1.0.el
+4.0K -rw-r--r-- 1 root root  433 Aug 17 11:35 packages-stable/sphinx-doc-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/sphinx-doc-badge.svg
+4.0K -rw-r--r-- 1 root root  232 Aug 17 11:35 packages-stable/sphinx-doc-readme.txt

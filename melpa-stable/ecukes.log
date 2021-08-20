@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ecukes/ecukes.git
 
 Updating /mnt/store/melpa/working/ecukes/
+Checking out 3a77ba9f1064c2bca47b401974c009e65727c46e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ecukes/
-  to /tmp/ecukesjybDJZ/ecukes-0.6.17
+  to /tmp/ecukes0kXBxk/ecukes-0.6.17
     ecukes-byte-compile.el -> ecukes-byte-compile.el
     ecukes-cli.el -> ecukes-cli.el
     ecukes-core.el -> ecukes-core.el
@@ -58,8 +59,8 @@ Created ecukes-0.6.17.tar containing:
   ecukes-0.6.17/templates/feature.tpl
   ecukes-0.6.17/templates/missing-step.tpl
   ecukes-0.6.17/templates/step-definition.tpl
-Built ecukes in 3.203s, finished at Wed May 19 04:29:18 2021
+Built ecukes in 3.903s, finished at 2021-08-17T10:54:56+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  245 May 19 04:29 packages-stable/ecukes-0.6.17.entry
-112K -rw-r--r-- 1 root root 110K May 19 04:29 packages-stable/ecukes-0.6.17.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/ecukes-badge.svg
+4.0K -rw-r--r-- 1 root root  245 Aug 17 10:54 packages-stable/ecukes-0.6.17.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 10:54 packages-stable/ecukes-0.6.17.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/ecukes-badge.svg

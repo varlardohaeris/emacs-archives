@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/snapshot-timemachine-rsnapshot.git
 
 Updating /mnt/store/melpa/working/snapshot-timemachine-rsnapshot/
-Built snapshot-timemachine-rsnapshot in 2.846s, finished at Wed May 19 01:49:29 2021
+Checking out 11b41947e63bec5675e1acf0f8775f7f9f35a946
+Built snapshot-timemachine-rsnapshot in 3.593s, finished at 2021-08-17T11:34:26+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.9K May 19 01:49 packages-stable/snapshot-timemachine-rsnapshot-0.4.el
-4.0K -rw-r--r-- 1 root root  368 May 19 01:49 packages-stable/snapshot-timemachine-rsnapshot-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/snapshot-timemachine-rsnapshot-badge.svg
-4.0K -rw-r--r-- 1 root root   43 May 19 01:49 packages-stable/snapshot-timemachine-rsnapshot-readme.txt
+4.0K -rw-r--r-- 1 root root 2.9K Aug 17 11:34 packages-stable/snapshot-timemachine-rsnapshot-0.4.el
+4.0K -rw-r--r-- 1 root root  368 Aug 17 11:34 packages-stable/snapshot-timemachine-rsnapshot-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/snapshot-timemachine-rsnapshot-badge.svg
+4.0K -rw-r--r-- 1 root root   43 Aug 17 11:34 packages-stable/snapshot-timemachine-rsnapshot-readme.txt

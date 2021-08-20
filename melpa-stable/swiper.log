@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/abo-abo/swiper.git
 
 Updating /mnt/store/melpa/working/swiper/
-Built swiper in 3.030s, finished at Wed May 19 01:50:50 2021
+Checking out 0d497f71c676c02867261f7db5b8f82fa8008533
+Built swiper in 4.130s, finished at 2021-08-17T11:36:25+0000
  ✓ Success:
- 60K -rw-r--r-- 1 root root  60K May 19 01:50 packages-stable/swiper-0.13.4.el
-4.0K -rw-r--r-- 1 root root  360 May 19 01:50 packages-stable/swiper-0.13.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/swiper-badge.svg
- 12K -rw-r--r-- 1 root root 8.4K May 19 01:50 packages-stable/swiper-helm-0.2.0.el
-4.0K -rw-r--r-- 1 root root  424 May 19 01:50 packages-stable/swiper-helm-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/swiper-helm-badge.svg
-4.0K -rw-r--r-- 1 root root  300 May 19 01:50 packages-stable/swiper-helm-readme.txt
-4.0K -rw-r--r-- 1 root root  555 May 19 01:50 packages-stable/swiper-helm.log
-4.0K -rw-r--r-- 1 root root  265 May 19 01:50 packages-stable/swiper-readme.txt
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:36 packages-stable/swiper-0.13.4.el
+4.0K -rw-r--r-- 1 root root  360 Aug 17 11:36 packages-stable/swiper-0.13.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/swiper-badge.svg
+ 12K -rw-r--r-- 1 root root 8.4K Aug 17 11:36 packages-stable/swiper-helm-0.2.0.el
+4.0K -rw-r--r-- 1 root root  424 Aug 17 11:36 packages-stable/swiper-helm-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/swiper-helm-badge.svg
+4.0K -rw-r--r-- 1 root root  300 Aug 17 11:36 packages-stable/swiper-helm-readme.txt
+4.0K -rw-r--r-- 1 root root  609 Aug 17 11:36 packages-stable/swiper-helm.log
+4.0K -rw-r--r-- 1 root root  265 Aug 17 11:36 packages-stable/swiper-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/nhojb/flycheck-swiftx.git
 
 Updating /mnt/store/melpa/working/flycheck-swiftx/
-Built flycheck-swiftx in 4.310s, finished at Wed May 19 03:22:42 2021
+Checking out origin/HEAD
+Checking out 84f42393dea362d3bdfc9253a205a17ec7a12a76
+Built flycheck-swiftx in 4.883s, finished at 2021-08-17T09:46:09+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  29K May 19 03:22 packages/flycheck-swiftx-20200814.845.el
-4.0K -rw-r--r-- 1 root root  454 May 19 03:22 packages/flycheck-swiftx-20200814.845.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:22 packages/flycheck-swiftx-badge.svg
-4.0K -rw-r--r-- 1 root root  655 May 19 03:22 packages/flycheck-swiftx-readme.txt
+ 32K -rw-r--r-- 1 root root  29K Aug 17 09:46 packages/flycheck-swiftx-20200814.845.el
+4.0K -rw-r--r-- 1 root root  454 Aug 17 09:46 packages/flycheck-swiftx-20200814.845.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:46 packages/flycheck-swiftx-badge.svg
+4.0K -rw-r--r-- 1 root root  655 Aug 17 09:46 packages/flycheck-swiftx-readme.txt

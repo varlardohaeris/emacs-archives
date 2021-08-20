@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-descbinds.git
 
 Updating /mnt/store/melpa/working/helm-descbinds/
-Built helm-descbinds in 3.064s, finished at Wed May 19 04:40:07 2021
+Checking out 5608fd552d451608a364de53819278875bab3709
+Built helm-descbinds in 7.375s, finished at 2021-08-17T11:07:46+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 04:40 packages-stable/helm-descbinds-1.13.el
-4.0K -rw-r--r-- 1 root root  384 May 19 04:40 packages-stable/helm-descbinds-1.13.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-descbinds-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:40 packages-stable/helm-descbinds-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:07 packages-stable/helm-descbinds-1.13.el
+4.0K -rw-r--r-- 1 root root  384 Aug 17 11:07 packages-stable/helm-descbinds-1.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:07 packages-stable/helm-descbinds-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:07 packages-stable/helm-descbinds-readme.txt

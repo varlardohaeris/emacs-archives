@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/elixir-editors/emacs-elixir.git
 
 Updating /mnt/store/melpa/working/elixir-mode/
+Checking out c548a84e69787bcd04e0821351009c4448c96cac
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elixir-mode/
-  to /tmp/elixir-modelyE39e/elixir-mode-2.3.2
+  to /tmp/elixir-modeqzOavv/elixir-mode-2.3.2
     elixir-format.el -> elixir-format.el
     elixir-mode.el -> elixir-mode.el
     elixir-smie.el -> elixir-smie.el
@@ -15,9 +16,9 @@ Created elixir-mode-2.3.2.tar containing:
   elixir-mode-2.3.2/elixir-mode-pkg.el
   elixir-mode-2.3.2/elixir-mode.el
   elixir-mode-2.3.2/elixir-smie.el
-Built elixir-mode in 3.362s, finished at Wed May 19 04:30:17 2021
+Built elixir-mode in 3.733s, finished at 2021-08-17T10:56:27+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  303 May 19 04:30 packages-stable/elixir-mode-2.3.2.entry
- 72K -rw-r--r-- 1 root root  70K May 19 04:30 packages-stable/elixir-mode-2.3.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elixir-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   97 May 19 04:30 packages-stable/elixir-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  303 Aug 17 10:56 packages-stable/elixir-mode-2.3.2.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:56 packages-stable/elixir-mode-2.3.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elixir-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   97 Aug 17 10:56 packages-stable/elixir-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hylang/hy-mode.git
 
 Updating /mnt/store/melpa/working/hy-mode/
+Checking out e2d5fecdaec602788aa7123ed13651c888b8d94b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hy-mode/
-  to /tmp/hy-mode1x01se/hy-mode-1.0.4
+  to /tmp/hy-mode0SipS1/hy-mode-1.0.4
     hy-base.el -> hy-base.el
     hy-font-lock.el -> hy-font-lock.el
     hy-jedhy.el -> hy-jedhy.el
@@ -19,9 +20,9 @@ Created hy-mode-1.0.4.tar containing:
   hy-mode-1.0.4/hy-mode-pkg.el
   hy-mode-1.0.4/hy-mode.el
   hy-mode-1.0.4/hy-shell.el
-Built hy-mode in 3.212s, finished at Wed May 19 04:42:19 2021
+Built hy-mode in 3.854s, finished at 2021-08-17T11:10:25+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  312 May 19 04:42 packages-stable/hy-mode-1.0.4.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:42 packages-stable/hy-mode-1.0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hy-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  576 May 19 04:42 packages-stable/hy-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  312 Aug 17 11:10 packages-stable/hy-mode-1.0.4.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 11:10 packages-stable/hy-mode-1.0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/hy-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  576 Aug 17 11:10 packages-stable/hy-mode-readme.txt

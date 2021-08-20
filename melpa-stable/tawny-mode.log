@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/phillord/tawny-owl.git
 
 Updating /mnt/store/melpa/working/tawny-mode/
-Built tawny-mode in 3.058s, finished at Wed May 19 01:51:18 2021
+Checking out 94d9f3f6a0d6e07abdedfcc0a9b2d6de244a785a
+Built tawny-mode in 4.515s, finished at 2021-08-17T11:36:58+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 01:51 packages-stable/tawny-mode-2.0.3.el
-4.0K -rw-r--r-- 1 root root  344 May 19 01:51 packages-stable/tawny-mode-2.0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/tawny-mode-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:51 packages-stable/tawny-mode-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:36 packages-stable/tawny-mode-2.3.0.el
+4.0K -rw-r--r-- 1 root root  344 Aug 17 11:36 packages-stable/tawny-mode-2.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/tawny-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:36 packages-stable/tawny-mode-readme.txt

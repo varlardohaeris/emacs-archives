@@ -3,16 +3,17 @@ Fetcher: github
 Source:  https://github.com/gabrielsaldana/Emacs-Identica-mode.git
 
 Updating /mnt/store/melpa/working/identica-mode/
+Checking out 1a831ec625f5eba047bf37087aac328abe6be6af
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/identica-mode/
-  to /tmp/identica-modejqXp0k/identica-mode-1.3.1
+  to /tmp/identica-modekEhXif/identica-mode-1.3.1
     bbdb-identica.el -> bbdb-identica.el
     identica-friends.el -> identica-friends.el
     identica-mode.el -> identica-mode.el
   ! doc/fdl.texi -> fdl.texi
   ! doc/identica-mode.texi -> identica-mode.texi
-Created /tmp/identica-modejqXp0k/identica-mode-1.3.1/fdl.info
-Created /tmp/identica-modejqXp0k/identica-mode-1.3.1/identica-mode.info
+Created /tmp/identica-modekEhXif/identica-mode-1.3.1/fdl.info
+Created /tmp/identica-modekEhXif/identica-mode-1.3.1/identica-mode.info
 Created identica-mode-1.3.1.tar containing:
   identica-mode-1.3.1/
   identica-mode-1.3.1/bbdb-identica.el
@@ -22,9 +23,9 @@ Created identica-mode-1.3.1.tar containing:
   identica-mode-1.3.1/identica-mode-pkg.el
   identica-mode-1.3.1/identica-mode.el
   identica-mode-1.3.1/identica-mode.info
-Built identica-mode in 11.318s, finished at Wed May 19 04:42:44 2021
+Built identica-mode in 10.593s, finished at 2021-08-17T11:10:49+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  384 May 19 04:42 packages-stable/identica-mode-1.3.1.entry
-200K -rw-r--r-- 1 root root 200K May 19 04:42 packages-stable/identica-mode-1.3.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/identica-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:42 packages-stable/identica-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  384 Aug 17 11:10 packages-stable/identica-mode-1.3.1.entry
+200K -rw-r--r-- 1 root root 200K Aug 17 11:10 packages-stable/identica-mode-1.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/identica-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:10 packages-stable/identica-mode-readme.txt

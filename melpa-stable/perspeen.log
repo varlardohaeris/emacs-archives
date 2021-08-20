@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/seudut/perspeen.git
 
 Updating /mnt/store/melpa/working/perspeen/
-Built perspeen in 2.924s, finished at Wed May 19 01:42:36 2021
+Checking out 30ee14339cf8fe2e59e5384085afee3f8eb58dda
+Built perspeen in 4.089s, finished at 2021-08-17T11:26:51+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 01:42 packages-stable/perspeen-0.1.el
-4.0K -rw-r--r-- 1 root root  268 May 19 01:42 packages-stable/perspeen-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/perspeen-badge.svg
-4.0K -rw-r--r-- 1 root root  241 May 19 01:42 packages-stable/perspeen-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 11:26 packages-stable/perspeen-0.1.el
+4.0K -rw-r--r-- 1 root root  268 Aug 17 11:26 packages-stable/perspeen-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/perspeen-badge.svg
+4.0K -rw-r--r-- 1 root root  241 Aug 17 11:26 packages-stable/perspeen-readme.txt

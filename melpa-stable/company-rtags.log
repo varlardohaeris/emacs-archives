@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Andersbakken/rtags.git
 
 Updating /mnt/store/melpa/working/company-rtags/
-Built company-rtags in 3.856s, finished at Wed May 19 04:24:47 2021
+Checking out 083bd75cb851567a1e18f237736fe2d02716b6c4
+Built company-rtags in 9.746s, finished at 2021-08-17T10:50:35+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 04:24 packages-stable/company-rtags-3.23.el
-4.0K -rw-r--r-- 1 root root  399 May 19 04:24 packages-stable/company-rtags-3.23.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-rtags-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 04:24 packages-stable/company-rtags-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 10:50 packages-stable/company-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  399 Aug 17 10:50 packages-stable/company-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/company-rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:50 packages-stable/company-rtags-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/tomjakubowski/dark-souls.el.git
 
 Updating /mnt/store/melpa/working/dark-souls/
-Built dark-souls in 4.370s, finished at Wed May 19 03:09:40 2021
+Checking out origin/HEAD
+Checking out 94122b1215423e58dcf18584a2bd022029d54d4b
+Built dark-souls in 4.816s, finished at 2021-08-17T09:32:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.4K May 19 03:09 packages/dark-souls-20140314.1128.el
-4.0K -rw-r--r-- 1 root root  349 May 19 03:09 packages/dark-souls-20140314.1128.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:09 packages/dark-souls-badge.svg
-4.0K -rw-r--r-- 1 root root  170 May 19 03:09 packages/dark-souls-readme.txt
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 09:32 packages/dark-souls-20140314.1128.el
+4.0K -rw-r--r-- 1 root root  349 Aug 17 09:32 packages/dark-souls-20140314.1128.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:32 packages/dark-souls-badge.svg
+4.0K -rw-r--r-- 1 root root  170 Aug 17 09:32 packages/dark-souls-readme.txt

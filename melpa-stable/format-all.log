@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lassik/emacs-format-all-the-code.git
 
 Updating /mnt/store/melpa/working/format-all/
-Built format-all in 3.499s, finished at Wed May 19 04:36:09 2021
+Checking out 0527cbc1d3daa49f213b1be00820445b8cc15fdf
+Built format-all in 4.214s, finished at 2021-08-17T11:03:14+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  45K May 19 04:36 packages-stable/format-all-0.4.0.el
-4.0K -rw-r--r-- 1 root root  496 May 19 04:36 packages-stable/format-all-0.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/format-all-badge.svg
-4.0K -rw-r--r-- 1 root root 2.4K May 19 04:36 packages-stable/format-all-readme.txt
+ 52K -rw-r--r-- 1 root root  49K Aug 17 11:03 packages-stable/format-all-0.5.0.el
+4.0K -rw-r--r-- 1 root root  496 Aug 17 11:03 packages-stable/format-all-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/format-all-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 11:03 packages-stable/format-all-readme.txt

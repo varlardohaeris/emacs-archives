@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/realgud/realgud.git
 
 Updating /mnt/store/melpa/working/realgud/
+Checking out 53938f04d5252677484e5c48513e1c138aafc756
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/realgud/
-  to /tmp/realgud4WFcna/realgud-1.5.1
+  to /tmp/realgudxS2NgA/realgud-1.5.1
     realgud.el -> realgud.el
   ! realgud/.nosearch -> .nosearch
     realgud-recursive-autoloads.el -> realgud-recursive-autoloads.el
@@ -234,31 +235,31 @@ Created realgud-1.5.1.tar containing:
   realgud-1.5.1/realgud/lang/posix-shell.el
   realgud-1.5.1/realgud/lang/python.el
   realgud-1.5.1/realgud/lang/ruby.el
-Built realgud in 3.773s, finished at Wed May 19 01:45:40 2021
+Built realgud in 4.526s, finished at 2021-08-17T11:30:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  548 May 19 01:45 packages-stable/realgud-1.5.1.entry
-740K -rw-r--r-- 1 root root 740K May 19 01:45 packages-stable/realgud-1.5.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/realgud-badge.svg
-4.0K -rw-r--r-- 1 root root  196 May 19 01:45 packages-stable/realgud-byebug.log
-4.0K -rw-r--r-- 1 root root  188 May 19 01:45 packages-stable/realgud-ipdb.log
-4.0K -rw-r--r-- 1 root root  184 May 19 01:45 packages-stable/realgud-jdb.log
-4.0K -rw-r--r-- 1 root root  375 May 19 01:45 packages-stable/realgud-lldb-1.0.2.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:45 packages-stable/realgud-lldb-1.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/realgud-lldb-badge.svg
-4.0K -rw-r--r-- 1 root root   72 May 19 01:45 packages-stable/realgud-lldb-readme.txt
-4.0K -rw-r--r-- 1 root root  850 May 19 01:45 packages-stable/realgud-lldb.log
-4.0K -rw-r--r-- 1 root root  212 May 19 01:45 packages-stable/realgud-node-debug.log
-4.0K -rw-r--r-- 1 root root  220 May 19 01:45 packages-stable/realgud-node-inspect.log
-4.0K -rw-r--r-- 1 root root  167 May 19 01:45 packages-stable/realgud-old-debuggers.log
-4.0K -rw-r--r-- 1 root root  397 May 18 22:31 packages-stable/realgud-pry-1.0.0.entry
- 32K -rw-r--r-- 1 root root  30K May 18 22:31 packages-stable/realgud-pry-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:31 packages-stable/realgud-pry-badge.svg
-4.0K -rw-r--r-- 1 root root   42 May 18 22:31 packages-stable/realgud-pry-readme.txt
-4.0K -rw-r--r-- 1 root root  137 May 19 01:45 packages-stable/realgud-pry.log
-   0 -rw-r--r-- 1 root root    0 May 19 01:45 packages-stable/realgud-rdb2.log
-4.0K -rw-r--r-- 1 root root 2.1K May 19 01:45 packages-stable/realgud-readme.txt
-4.0K -rw-r--r-- 1 root root  455 May 18 22:31 packages-stable/realgud-trepan-ni-1.0.1.entry
- 32K -rw-r--r-- 1 root root  30K May 18 22:31 packages-stable/realgud-trepan-ni-1.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:31 packages-stable/realgud-trepan-ni-badge.svg
-4.0K -rw-r--r-- 1 root root  187 May 18 22:31 packages-stable/realgud-trepan-ni-readme.txt
-   0 -rw-r--r-- 1 root root    0 May 19 01:45 packages-stable/realgud-trepan-ni.log
+4.0K -rw-r--r-- 1 root root  548 Aug 17 11:30 packages-stable/realgud-1.5.1.entry
+740K -rw-r--r-- 1 root root 740K Aug 17 11:30 packages-stable/realgud-1.5.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/realgud-badge.svg
+4.0K -rw-r--r-- 1 root root  196 Aug 17 11:30 packages-stable/realgud-byebug.log
+4.0K -rw-r--r-- 1 root root  188 Aug 17 11:30 packages-stable/realgud-ipdb.log
+4.0K -rw-r--r-- 1 root root  184 Aug 17 11:30 packages-stable/realgud-jdb.log
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:30 packages-stable/realgud-lldb-1.0.2.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:30 packages-stable/realgud-lldb-1.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/realgud-lldb-badge.svg
+4.0K -rw-r--r-- 1 root root   72 Aug 17 11:30 packages-stable/realgud-lldb-readme.txt
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:30 packages-stable/realgud-lldb.log
+4.0K -rw-r--r-- 1 root root  212 Aug 17 11:30 packages-stable/realgud-node-debug.log
+4.0K -rw-r--r-- 1 root root  220 Aug 17 11:30 packages-stable/realgud-node-inspect.log
+4.0K -rw-r--r-- 1 root root  167 Aug 17 11:30 packages-stable/realgud-old-debuggers.log
+4.0K -rw-r--r-- 1 root root  397 Aug 17 08:05 packages-stable/realgud-pry-1.0.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 08:05 packages-stable/realgud-pry-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:05 packages-stable/realgud-pry-badge.svg
+4.0K -rw-r--r-- 1 root root   42 Aug 17 08:05 packages-stable/realgud-pry-readme.txt
+4.0K -rw-r--r-- 1 root root   90 Aug 17 11:30 packages-stable/realgud-pry.log
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:30 packages-stable/realgud-rdb2.log
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 11:30 packages-stable/realgud-readme.txt
+4.0K -rw-r--r-- 1 root root  455 Aug 17 08:05 packages-stable/realgud-trepan-ni-1.0.1.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 08:05 packages-stable/realgud-trepan-ni-1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 08:05 packages-stable/realgud-trepan-ni-badge.svg
+4.0K -rw-r--r-- 1 root root  187 Aug 17 08:05 packages-stable/realgud-trepan-ni-readme.txt
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:30 packages-stable/realgud-trepan-ni.log

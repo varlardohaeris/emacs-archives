@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Christoph-D/latex-unicode-math-mode.git
 
 Updating /mnt/store/melpa/working/latex-unicode-math-mode/
+Checking out 8da72dbb49e96ac9ffa0f6336903ec3441764ec0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/latex-unicode-math-mode/
-  to /tmp/latex-unicode-math-modenP0oDv/latex-unicode-math-mode-0.3.1
+  to /tmp/latex-unicode-math-modeD97uj3/latex-unicode-math-mode-0.3.1
     latex-unicode-math-mode.el -> latex-unicode-math-mode.el
     unicode-math-mode.sty -> unicode-math-mode.sty
 Created latex-unicode-math-mode-0.3.1.tar containing:
@@ -13,9 +14,9 @@ Created latex-unicode-math-mode-0.3.1.tar containing:
   latex-unicode-math-mode-0.3.1/latex-unicode-math-mode-pkg.el
   latex-unicode-math-mode-0.3.1/latex-unicode-math-mode.el
   latex-unicode-math-mode-0.3.1/unicode-math-mode.sty
-Built latex-unicode-math-mode in 3.173s, finished at Wed May 19 01:31:48 2021
+Built latex-unicode-math-mode in 3.494s, finished at 2021-08-17T11:14:48+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  369 May 19 01:31 packages-stable/latex-unicode-math-mode-0.3.1.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:31 packages-stable/latex-unicode-math-mode-0.3.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/latex-unicode-math-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  635 May 19 01:31 packages-stable/latex-unicode-math-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  369 Aug 17 11:14 packages-stable/latex-unicode-math-mode-0.3.1.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:14 packages-stable/latex-unicode-math-mode-0.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/latex-unicode-math-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  635 Aug 17 11:14 packages-stable/latex-unicode-math-mode-readme.txt

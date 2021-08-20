@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/asimpson/pinboard-popular.git
 
 Updating /mnt/store/melpa/working/pinboard-popular/
-Built pinboard-popular in 4.372s, finished at Wed May 19 01:43:03 2021
+Checking out df6f5928f1e5a614fb770f6f4b9aefe0bf4d1c25
+Built pinboard-popular in 3.869s, finished at 2021-08-17T11:27:16+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.9K May 19 01:43 packages-stable/pinboard-popular-0.1.2.el
-4.0K -rw-r--r-- 1 root root  279 May 19 01:43 packages-stable/pinboard-popular-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/pinboard-popular-badge.svg
-4.0K -rw-r--r-- 1 root root   60 May 19 01:43 packages-stable/pinboard-popular-readme.txt
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 11:27 packages-stable/pinboard-popular-0.1.2.el
+4.0K -rw-r--r-- 1 root root  279 Aug 17 11:27 packages-stable/pinboard-popular-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/pinboard-popular-badge.svg
+4.0K -rw-r--r-- 1 root root   60 Aug 17 11:27 packages-stable/pinboard-popular-readme.txt

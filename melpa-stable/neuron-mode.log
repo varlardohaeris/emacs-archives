@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/felko/neuron-mode.git
 
 Updating /mnt/store/melpa/working/neuron-mode/
-No valid stable versions found for neuron-mode
+Checking out 3f86d26fb2006e82c673a5bf122594820a4842d8
+Built neuron-mode in 4.332s, finished at 2021-08-17T11:20:40+0000
+ ✓ Success:
+ 52K -rw-r--r-- 1 root root  51K Aug 17 11:20 packages-stable/neuron-mode-1.0.el
+4.0K -rw-r--r-- 1 root root  490 Aug 17 11:20 packages-stable/neuron-mode-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/neuron-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   94 Aug 17 11:20 packages-stable/neuron-mode-readme.txt

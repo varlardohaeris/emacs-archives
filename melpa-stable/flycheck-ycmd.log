@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abingham/emacs-ycmd.git
 
 Updating /mnt/store/melpa/working/flycheck-ycmd/
-Built flycheck-ycmd in 2.955s, finished at Wed May 19 04:35:23 2021
+Checking out d042a673b4d717c3ca9d641f120bfe16c994c740
+Built flycheck-ycmd in 4.091s, finished at 2021-08-17T11:02:24+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 04:35 packages-stable/flycheck-ycmd-1.2.el
-4.0K -rw-r--r-- 1 root root  435 May 19 04:35 packages-stable/flycheck-ycmd-1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-ycmd-badge.svg
-4.0K -rw-r--r-- 1 root root  291 May 19 04:35 packages-stable/flycheck-ycmd-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 11:02 packages-stable/flycheck-ycmd-1.2.el
+4.0K -rw-r--r-- 1 root root  435 Aug 17 11:02 packages-stable/flycheck-ycmd-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-ycmd-badge.svg
+4.0K -rw-r--r-- 1 root root  291 Aug 17 11:02 packages-stable/flycheck-ycmd-readme.txt

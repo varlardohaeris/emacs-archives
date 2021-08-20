@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/gromnitsky/ph.git
 
 Updating /mnt/store/melpa/working/ph/
+Checking out ed45c371642e313810b56c45af08fdfbd71a7dfe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ph/
-  to /tmp/phpfa0c5/ph-0.1.0
+  to /tmp/phk15lcg/ph-0.1.0
     ph-metadata.el -> ph-metadata.el
     ph-pkg.el -> ph-pkg.el
     ph-u.el -> ph-u.el
@@ -25,8 +26,8 @@ Created ph-0.1.0.tar containing:
   ph-0.1.0/ph-u.el
   ph-0.1.0/ph-venture.el
   ph-0.1.0/ph.el
-Built ph in 3.122s, finished at Wed May 19 01:42:39 2021
+Built ph in 3.677s, finished at 2021-08-17T11:26:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  175 May 19 01:42 packages-stable/ph-0.1.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:42 packages-stable/ph-0.1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/ph-badge.svg
+4.0K -rw-r--r-- 1 root root  175 Aug 17 11:26 packages-stable/ph-0.1.0.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:26 packages-stable/ph-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/ph-badge.svg

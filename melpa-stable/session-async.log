@@ -1,0 +1,6 @@
+Package: session-async
+Fetcher: git
+Source:  https://codeberg.org/FelipeLema/session-async.el.git
+
+Updating /mnt/store/melpa/working/session-async/
+No valid stable versions found for session-async

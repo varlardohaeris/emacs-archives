@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/skuro/plantuml-mode.git
 
 Updating /mnt/store/melpa/working/plantuml-mode/
-Built plantuml-mode in 2.823s, finished at Wed May 19 01:43:16 2021
+Checking out 460195d107325b93d6b973144c13354ae654216f
+Built plantuml-mode in 3.890s, finished at 2021-08-17T11:27:29+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  36K May 19 01:43 packages-stable/plantuml-mode-1.4.1.el
-4.0K -rw-r--r-- 1 root root  296 May 19 01:43 packages-stable/plantuml-mode-1.4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/plantuml-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  296 May 19 01:43 packages-stable/plantuml-mode-readme.txt
+ 36K -rw-r--r-- 1 root root  36K Aug 17 11:27 packages-stable/plantuml-mode-1.4.1.el
+4.0K -rw-r--r-- 1 root root  296 Aug 17 11:27 packages-stable/plantuml-mode-1.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/plantuml-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  296 Aug 17 11:27 packages-stable/plantuml-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/UndeadKernel/pacfiles-mode.git
 
 Updating /mnt/store/melpa/working/pacfiles-mode/
+Checking out 180eea7ba33dc4fa5c116b01649c4e9ba3f43276
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pacfiles-mode/
-  to /tmp/pacfiles-modedMiKWT/pacfiles-mode-1.0
+  to /tmp/pacfiles-modeLdjlFb/pacfiles-mode-1.0
     pacfiles-buttons.el -> pacfiles-buttons.el
     pacfiles-mode.el -> pacfiles-mode.el
     pacfiles-utils.el -> pacfiles-utils.el
@@ -17,9 +18,9 @@ Created pacfiles-mode-1.0.tar containing:
   pacfiles-mode-1.0/pacfiles-mode.el
   pacfiles-mode-1.0/pacfiles-utils.el
   pacfiles-mode-1.0/pacfiles-win.el
-Built pacfiles-mode in 2.797s, finished at Wed May 19 01:41:41 2021
+Built pacfiles-mode in 3.492s, finished at 2021-08-17T11:25:44+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  447 May 19 01:41 packages-stable/pacfiles-mode-1.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:41 packages-stable/pacfiles-mode-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/pacfiles-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  534 May 19 01:41 packages-stable/pacfiles-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  447 Aug 17 11:25 packages-stable/pacfiles-mode-1.0.entry
+ 44K -rw-r--r-- 1 root root  40K Aug 17 11:25 packages-stable/pacfiles-mode-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/pacfiles-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  534 Aug 17 11:25 packages-stable/pacfiles-mode-readme.txt

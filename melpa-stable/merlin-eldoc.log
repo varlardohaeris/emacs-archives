@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Khady/merlin-eldoc.git
 
 Updating /mnt/store/melpa/working/merlin-eldoc/
-Built merlin-eldoc in 7.966s, finished at Wed May 19 01:34:57 2021
+Checking out bbb1a10f2131c09a7f7f844d4da98efd77f927ae
+Built merlin-eldoc in 4.539s, finished at 2021-08-17T11:17:58+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 01:34 packages-stable/merlin-eldoc-1.3.el
-4.0K -rw-r--r-- 1 root root  405 May 19 01:34 packages-stable/merlin-eldoc-1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/merlin-eldoc-badge.svg
-4.0K -rw-r--r-- 1 root root  252 May 19 01:34 packages-stable/merlin-eldoc-readme.txt
+ 28K -rw-r--r-- 1 root root  27K Aug 17 11:17 packages-stable/merlin-eldoc-1.3.el
+4.0K -rw-r--r-- 1 root root  405 Aug 17 11:17 packages-stable/merlin-eldoc-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/merlin-eldoc-badge.svg
+4.0K -rw-r--r-- 1 root root  252 Aug 17 11:17 packages-stable/merlin-eldoc-readme.txt

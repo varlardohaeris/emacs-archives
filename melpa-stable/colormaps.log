@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lepisma/colormaps.el.git
 
 Updating /mnt/store/melpa/working/colormaps/
-Built colormaps in 3.738s, finished at Wed May 19 04:24:03 2021
+Checking out 3a88961ba66b09a49ea5aa92b2b8776b2c92d68c
+Built colormaps in 3.666s, finished at 2021-08-17T10:49:32+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 04:24 packages-stable/colormaps-0.1.2.el
-4.0K -rw-r--r-- 1 root root  358 May 19 04:24 packages-stable/colormaps-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/colormaps-badge.svg
-4.0K -rw-r--r-- 1 root root  110 May 19 04:24 packages-stable/colormaps-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 10:49 packages-stable/colormaps-0.1.2.el
+4.0K -rw-r--r-- 1 root root  358 Aug 17 10:49 packages-stable/colormaps-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/colormaps-badge.svg
+4.0K -rw-r--r-- 1 root root  110 Aug 17 10:49 packages-stable/colormaps-readme.txt

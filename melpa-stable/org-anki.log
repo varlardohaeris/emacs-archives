@@ -3,4 +3,10 @@ Fetcher: github
 Source:  https://github.com/eyeinsky/org-anki.git
 
 Updating /mnt/store/melpa/working/org-anki/
-No valid stable versions found for org-anki
+Checking out c86394d5fd8933d1b6cafbc1dbc36bf61bcc871e
+Built org-anki in 4.560s, finished at 2021-08-17T11:22:40+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:22 packages-stable/org-anki-0.0.6.el
+4.0K -rw-r--r-- 1 root root  421 Aug 17 11:22 packages-stable/org-anki-0.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/org-anki-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Aug 17 11:22 packages-stable/org-anki-readme.txt

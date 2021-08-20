@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/ruby-hash-syntax.git
 
 Updating /mnt/store/melpa/working/ruby-hash-syntax/
-Built ruby-hash-syntax in 3.136s, finished at Wed May 19 01:47:09 2021
+Checking out d458fb5891e0da85271b1cba3ee0ee69ea66a374
+Built ruby-hash-syntax in 3.741s, finished at 2021-08-17T11:31:53+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.8K May 19 01:47 packages-stable/ruby-hash-syntax-0.7.el
-4.0K -rw-r--r-- 1 root root  406 May 19 01:47 packages-stable/ruby-hash-syntax-0.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/ruby-hash-syntax-badge.svg
-4.0K -rw-r--r-- 1 root root  206 May 19 01:47 packages-stable/ruby-hash-syntax-readme.txt
+4.0K -rw-r--r-- 1 root root 2.8K Aug 17 11:31 packages-stable/ruby-hash-syntax-0.7.el
+4.0K -rw-r--r-- 1 root root  406 Aug 17 11:31 packages-stable/ruby-hash-syntax-0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/ruby-hash-syntax-badge.svg
+4.0K -rw-r--r-- 1 root root  206 Aug 17 11:31 packages-stable/ruby-hash-syntax-readme.txt

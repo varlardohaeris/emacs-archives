@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/benma/visual-regexp-steroids.el.git
 
 Updating /mnt/store/melpa/working/visual-regexp-steroids/
+Checking out 1653ce2986ae4524d8852fea69e451e88971aafc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/visual-regexp-steroids/
-  to /tmp/visual-regexp-steroidsn2KZxw/visual-regexp-steroids-1.1.0
+  to /tmp/visual-regexp-steroids90gWwh/visual-regexp-steroids-1.1.0
     visual-regexp-steroids.el -> visual-regexp-steroids.el
     regexp.py -> regexp.py
 Created visual-regexp-steroids-1.1.0.tar containing:
@@ -13,8 +14,8 @@ Created visual-regexp-steroids-1.1.0.tar containing:
   visual-regexp-steroids-1.1.0/regexp.py
   visual-regexp-steroids-1.1.0/visual-regexp-steroids-pkg.el
   visual-regexp-steroids-1.1.0/visual-regexp-steroids.el
-Built visual-regexp-steroids in 2.987s, finished at Wed May 19 01:54:15 2021
+Built visual-regexp-steroids in 3.551s, finished at 2021-08-17T11:39:58+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  470 May 19 01:54 packages-stable/visual-regexp-steroids-1.1.0.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:54 packages-stable/visual-regexp-steroids-1.1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/visual-regexp-steroids-badge.svg
+4.0K -rw-r--r-- 1 root root  470 Aug 17 11:39 packages-stable/visual-regexp-steroids-1.1.0.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:39 packages-stable/visual-regexp-steroids-1.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/visual-regexp-steroids-badge.svg

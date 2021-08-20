@@ -1,11 +1,12 @@
 Package: vs-light-theme
 Fetcher: github
-Source:  https://github.com/jcs-elpa/vs-light-theme.git
+Source:  https://github.com/emacs-vs/vs-light-theme.git
 
 Updating /mnt/store/melpa/working/vs-light-theme/
-Built vs-light-theme in 3.264s, finished at Wed May 19 01:54:21 2021
+Checking out 4e6501118bafb62ecfca8797b6c6d81310d95fd2
+Built vs-light-theme in 3.947s, finished at 2021-08-17T11:40:05+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.9K May 19 01:54 packages-stable/vs-light-theme-0.2.el
-4.0K -rw-r--r-- 1 root root  289 May 19 01:54 packages-stable/vs-light-theme-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/vs-light-theme-badge.svg
-4.0K -rw-r--r-- 1 root root   32 May 19 01:54 packages-stable/vs-light-theme-readme.txt
+4.0K -rw-r--r-- 1 root root 2.9K Aug 17 11:40 packages-stable/vs-light-theme-0.2.el
+4.0K -rw-r--r-- 1 root root  289 Aug 17 11:40 packages-stable/vs-light-theme-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/vs-light-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   32 Aug 17 11:40 packages-stable/vs-light-theme-readme.txt

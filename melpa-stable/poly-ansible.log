@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/mavit/poly-ansible.git
 
 Updating /mnt/store/melpa/working/poly-ansible/
+Checking out d76f6ec2374ec46ad78f2d0c3e1d1d91ee44c2bf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/poly-ansible/
-  to /tmp/poly-ansiblecjult2/poly-ansible-0.3.0
+  to /tmp/poly-ansibleXhH8wO/poly-ansible-0.3.0
     poly-ansible-jinja2-filters.el -> poly-ansible-jinja2-filters.el
     poly-ansible.el -> poly-ansible.el
 Created poly-ansible-0.3.0.tar containing:
@@ -13,9 +14,9 @@ Created poly-ansible-0.3.0.tar containing:
   poly-ansible-0.3.0/poly-ansible-jinja2-filters.el
   poly-ansible-0.3.0/poly-ansible-pkg.el
   poly-ansible-0.3.0/poly-ansible.el
-Built poly-ansible in 2.828s, finished at Wed May 19 01:43:33 2021
+Built poly-ansible in 3.984s, finished at 2021-08-17T11:27:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  481 May 19 01:43 packages-stable/poly-ansible-0.3.0.entry
- 12K -rw-r--r-- 1 root root  10K May 19 01:43 packages-stable/poly-ansible-0.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/poly-ansible-badge.svg
-4.0K -rw-r--r-- 1 root root   67 May 19 01:43 packages-stable/poly-ansible-readme.txt
+4.0K -rw-r--r-- 1 root root  481 Aug 17 11:27 packages-stable/poly-ansible-0.3.0.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 11:27 packages-stable/poly-ansible-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/poly-ansible-badge.svg
+4.0K -rw-r--r-- 1 root root   67 Aug 17 11:27 packages-stable/poly-ansible-readme.txt

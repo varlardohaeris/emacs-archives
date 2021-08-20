@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/domtronn/jpop.el.git
 
 Updating /mnt/store/melpa/working/jpop/
+Checking out f3eed65e54dc2daaa7678e6eb169d35c4a7d1e63
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jpop/
-  to /tmp/jpopmE0hCc/jpop-3.2.3
+  to /tmp/jpopo7x76s/jpop-3.2.3
     jpop.el -> jpop.el
     create-file-alist.py -> create-file-alist.py
 Created jpop-3.2.3.tar containing:
@@ -13,9 +14,9 @@ Created jpop-3.2.3.tar containing:
   jpop-3.2.3/create-file-alist.py
   jpop-3.2.3/jpop-pkg.el
   jpop-3.2.3/jpop.el
-Built jpop in 5.704s, finished at Wed May 19 04:44:49 2021
+Built jpop in 8.000s, finished at 2021-08-17T11:13:02+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  392 May 19 04:44 packages-stable/jpop-3.2.3.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:44 packages-stable/jpop-3.2.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/jpop-badge.svg
-4.0K -rw-r--r-- 1 root root  260 May 19 04:44 packages-stable/jpop-readme.txt
+4.0K -rw-r--r-- 1 root root  392 Aug 17 11:13 packages-stable/jpop-3.2.3.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:13 packages-stable/jpop-3.2.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/jpop-badge.svg
+4.0K -rw-r--r-- 1 root root  260 Aug 17 11:13 packages-stable/jpop-readme.txt

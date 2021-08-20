@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://git.sr.ht/~tarsius/notmuch-maildir
 
 Updating /mnt/store/melpa/working/notmuch-maildir/
-Built notmuch-maildir in 2.765s, finished at Wed May 19 01:37:41 2021
+Checking out 70f35b014f8ce50e5a9ab51753d27d57d5369aba
+Built notmuch-maildir in 4.680s, finished at 2021-08-17T11:21:12+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.3K May 19 01:37 packages-stable/notmuch-maildir-0.2.0.el
-4.0K -rw-r--r-- 1 root root  393 May 19 01:37 packages-stable/notmuch-maildir-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/notmuch-maildir-badge.svg
-4.0K -rw-r--r-- 1 root root  133 May 19 01:37 packages-stable/notmuch-maildir-readme.txt
+8.0K -rw-r--r-- 1 root root 4.3K Aug 17 11:21 packages-stable/notmuch-maildir-0.2.0.el
+4.0K -rw-r--r-- 1 root root  393 Aug 17 11:21 packages-stable/notmuch-maildir-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/notmuch-maildir-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Aug 17 11:21 packages-stable/notmuch-maildir-readme.txt

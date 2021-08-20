@@ -1,11 +1,12 @@
 Package: circe
 Fetcher: github
-Source:  https://github.com/jorgenschaefer/circe.git
+Source:  https://github.com/emacs-circe/circe.git
 
 Updating /mnt/store/melpa/working/circe/
+Checking out 6ccd4b494cbae9d28091217654f052eaea321007
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/circe/
-  to /tmp/circeqdnkCQ/circe-2.11
+  to /tmp/circeSGrMXv/circe-2.11
     circe-chanop.el -> circe-chanop.el
     circe-color-nicks.el -> circe-color-nicks.el
     circe-compat.el -> circe-compat.el
@@ -46,13 +47,13 @@ Created circe-2.11.tar containing:
   circe-2.11/make-tls-process.el
   circe-2.11/shorten.el
   circe-2.11/tracking.el
-Built circe in 3.141s, finished at Wed May 19 04:23:20 2021
+Built circe in 4.024s, finished at 2021-08-17T10:48:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  328 May 19 04:23 packages-stable/circe-2.11.entry
-360K -rw-r--r-- 1 root root 360K May 19 04:23 packages-stable/circe-2.11.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/circe-badge.svg
- 12K -rw-r--r-- 1 root root 9.4K May 19 01:08 packages-stable/circe-notifications-1.0.el
-4.0K -rw-r--r-- 1 root root  411 May 19 01:08 packages-stable/circe-notifications-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:08 packages-stable/circe-notifications-badge.svg
-4.0K -rw-r--r-- 1 root root  160 May 19 04:23 packages-stable/circe-notifications.log
-4.0K -rw-r--r-- 1 root root  227 May 19 04:23 packages-stable/circe-readme.txt
+4.0K -rw-r--r-- 1 root root  328 Aug 17 10:48 packages-stable/circe-2.11.entry
+360K -rw-r--r-- 1 root root 360K Aug 17 10:48 packages-stable/circe-2.11.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/circe-badge.svg
+ 12K -rw-r--r-- 1 root root 9.4K Aug 17 07:18 packages-stable/circe-notifications-1.0.el
+4.0K -rw-r--r-- 1 root root  411 Aug 17 07:18 packages-stable/circe-notifications-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:18 packages-stable/circe-notifications-badge.svg
+4.0K -rw-r--r-- 1 root root  214 Aug 17 10:48 packages-stable/circe-notifications.log
+4.0K -rw-r--r-- 1 root root  227 Aug 17 10:48 packages-stable/circe-readme.txt

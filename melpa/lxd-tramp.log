@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/onixie/lxd-tramp.git
 
 Updating /mnt/store/melpa/working/lxd-tramp/
-Built lxd-tramp in 8.703s, finished at Wed May 19 03:41:50 2021
+Checking out origin/HEAD
+Checking out f335c76245f62b02cf67a9376eca6f3863c8a75a
+Built lxd-tramp in 5.865s, finished at 2021-08-17T10:06:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.5K May 19 03:41 packages/lxd-tramp-20181023.7.el
-4.0K -rw-r--r-- 1 root root  406 May 19 03:41 packages/lxd-tramp-20181023.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:41 packages/lxd-tramp-badge.svg
-4.0K -rw-r--r-- 1 root root  303 May 19 03:41 packages/lxd-tramp-readme.txt
+4.0K -rw-r--r-- 1 root root 3.5K Aug 17 10:06 packages/lxd-tramp-20181023.7.el
+4.0K -rw-r--r-- 1 root root  406 Aug 17 10:06 packages/lxd-tramp-20181023.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:06 packages/lxd-tramp-badge.svg
+4.0K -rw-r--r-- 1 root root  303 Aug 17 10:06 packages/lxd-tramp-readme.txt

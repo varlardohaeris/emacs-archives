@@ -1,0 +1,17 @@
+(merlin-ac .
+	   [(4 3 1 -4 412)
+	    ((emacs
+	      (25 1))
+	     (merlin
+	      (3))
+	     (auto-complete
+	      (1 5)))
+	    "Merlin and auto-complete integration." single
+	    ((:commit . "ba8ec63cf40b8999238c4639d111ca3bdb1e34cf")
+	     (:authors
+	      ("Simon Castellan <simon.castellan(_)iuwt.fr>")
+	      ("Frédéric Bour <frederic.bour(_)lakaban.net>")
+	      ("Thomas Refis <thomas.refis(_)gmail.com>"))
+	     (:maintainer "Simon Castellan <simon.castellan(_)iuwt.fr>")
+	     (:keywords "ocaml" "languages")
+	     (:url . "http://github.com/ocaml/merlin"))])

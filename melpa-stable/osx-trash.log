@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/osx-trash.git
 
 Updating /mnt/store/melpa/working/osx-trash/
+Checking out 814ec770f7e57a355c01fc81ded71f7287f56e77
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osx-trash/
-  to /tmp/osx-trasheygdVk/osx-trash-0.2.1
+  to /tmp/osx-trashcwWWci/osx-trash-0.2.1
     osx-trash.el -> osx-trash.el
     trashfile.AppleScript -> trashfile.AppleScript
 Created osx-trash-0.2.1.tar containing:
@@ -13,9 +14,9 @@ Created osx-trash-0.2.1.tar containing:
   osx-trash-0.2.1/osx-trash-pkg.el
   osx-trash-0.2.1/osx-trash.el
   osx-trash-0.2.1/trashfile.AppleScript
-Built osx-trash in 2.954s, finished at Wed May 19 01:41:10 2021
+Built osx-trash in 3.635s, finished at 2021-08-17T11:25:08+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  406 May 19 01:41 packages-stable/osx-trash-0.2.1.entry
- 12K -rw-r--r-- 1 root root  10K May 19 01:41 packages-stable/osx-trash-0.2.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/osx-trash-badge.svg
-4.0K -rw-r--r-- 1 root root  720 May 19 01:41 packages-stable/osx-trash-readme.txt
+4.0K -rw-r--r-- 1 root root  406 Aug 17 11:25 packages-stable/osx-trash-0.2.1.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 11:25 packages-stable/osx-trash-0.2.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/osx-trash-badge.svg
+4.0K -rw-r--r-- 1 root root  720 Aug 17 11:25 packages-stable/osx-trash-readme.txt

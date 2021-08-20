@@ -21,6 +21,7 @@
    `fontify-buffer', `interesting-buffer-p', `live-buffer-name',
    `make-transient-mark-mode-buffer-local', `mode-ancestors',
    `mode-symbol-p', `mod-signed', `notify-user-of-mode',
+   `plist-to-alist', `plist-to-alist-1', `plist-to-dotted-alist',
    `read-mode-name', `region-or-buffer-limits', `signum',
    `some-apply-p' `string-after-p', `string-before-p',
    `undefine-keys-bound-to', `undefine-killer-commands',

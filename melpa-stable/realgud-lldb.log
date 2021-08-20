@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/realgud/realgud-lldb.git
 
 Updating /mnt/store/melpa/working/realgud-lldb/
+Checking out f2f77d6ddfa42430ead400eaf81c605c3a04dead
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/realgud-lldb/
-  to /tmp/realgud-lldbvE3mQ8/realgud-lldb-1.0.2
+  to /tmp/realgud-lldbSKDfN8/realgud-lldb-1.0.2
     realgud-lldb.el -> realgud-lldb.el
     lldb/core.el -> lldb/core.el
     lldb/init.el -> lldb/init.el
@@ -20,9 +21,9 @@ Created realgud-lldb-1.0.2.tar containing:
   realgud-lldb-1.0.2/lldb/track-mode.el
   realgud-lldb-1.0.2/realgud-lldb-pkg.el
   realgud-lldb-1.0.2/realgud-lldb.el
-Built realgud-lldb in 2.863s, finished at Wed May 19 01:45:40 2021
+Built realgud-lldb in 3.318s, finished at 2021-08-17T11:30:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  375 May 19 01:45 packages-stable/realgud-lldb-1.0.2.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:45 packages-stable/realgud-lldb-1.0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/realgud-lldb-badge.svg
-4.0K -rw-r--r-- 1 root root   72 May 19 01:45 packages-stable/realgud-lldb-readme.txt
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:30 packages-stable/realgud-lldb-1.0.2.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:30 packages-stable/realgud-lldb-1.0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/realgud-lldb-badge.svg
+4.0K -rw-r--r-- 1 root root   72 Aug 17 11:30 packages-stable/realgud-lldb-readme.txt

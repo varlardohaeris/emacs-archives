@@ -1,0 +1,6 @@
+Package: fanyi
+Fetcher: github
+Source:  https://github.com/condy0919/fanyi.el.git
+
+Updating /mnt/store/melpa/working/fanyi/
+No valid stable versions found for fanyi

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alphapapa/magit-todos.git
 
 Updating /mnt/store/melpa/working/magit-todos/
-Built magit-todos in 3.839s, finished at Wed May 19 01:33:44 2021
+Checking out e543d729d6d68ef96255a8235cf75c25f83a4c83
+Built magit-todos in 5.018s, finished at 2021-08-17T11:17:04+0000
  ✓ Success:
- 72K -rw-r--r-- 1 root root  69K May 19 01:33 packages-stable/magit-todos-1.5.3.el
-4.0K -rw-r--r-- 1 root root  560 May 19 01:33 packages-stable/magit-todos-1.5.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magit-todos-badge.svg
-4.0K -rw-r--r-- 1 root root  224 May 19 01:33 packages-stable/magit-todos-readme.txt
+ 72K -rw-r--r-- 1 root root  69K Aug 17 11:17 packages-stable/magit-todos-1.5.3.el
+4.0K -rw-r--r-- 1 root root  560 Aug 17 11:17 packages-stable/magit-todos-1.5.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/magit-todos-badge.svg
+4.0K -rw-r--r-- 1 root root  224 Aug 17 11:17 packages-stable/magit-todos-readme.txt

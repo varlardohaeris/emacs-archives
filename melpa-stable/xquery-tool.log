@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/paddymcall/xquery-tool.el.git
 
 Updating /mnt/store/melpa/working/xquery-tool/
-Built xquery-tool in 4.621s, finished at Wed May 19 01:56:03 2021
+Checking out bd48e0f56b58e36309f7966dcf67db69d65100a4
+Built xquery-tool in 3.980s, finished at 2021-08-17T11:42:13+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  37K May 19 01:56 packages-stable/xquery-tool-0.2.0.el
-4.0K -rw-r--r-- 1 root root  387 May 19 01:56 packages-stable/xquery-tool-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/xquery-tool-badge.svg
-4.0K -rw-r--r-- 1 root root  517 May 19 01:56 packages-stable/xquery-tool-readme.txt
+ 40K -rw-r--r-- 1 root root  37K Aug 17 11:42 packages-stable/xquery-tool-0.2.0.el
+4.0K -rw-r--r-- 1 root root  387 Aug 17 11:42 packages-stable/xquery-tool-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/xquery-tool-badge.svg
+4.0K -rw-r--r-- 1 root root  517 Aug 17 11:42 packages-stable/xquery-tool-readme.txt

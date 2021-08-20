@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/find-file-in-project.git
 
 Updating /mnt/store/melpa/working/find-file-in-project/
-Built find-file-in-project in 3.565s, finished at Wed May 19 04:33:56 2021
+Checking out f26f081f835165bfb05e247afbfbcbddf53236a5
+Built find-file-in-project in 4.280s, finished at 2021-08-17T11:00:18+0000
  ✓ Success:
- 52K -rw-r--r-- 1 root root  49K May 19 04:33 packages-stable/find-file-in-project-6.0.7.el
-4.0K -rw-r--r-- 1 root root  458 May 19 04:33 packages-stable/find-file-in-project-6.0.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/find-file-in-project-badge.svg
-8.0K -rw-r--r-- 1 root root 5.3K May 19 04:33 packages-stable/find-file-in-project-readme.txt
+ 56K -rw-r--r-- 1 root root  56K Aug 17 11:00 packages-stable/find-file-in-project-6.1.1.el
+4.0K -rw-r--r-- 1 root root  458 Aug 17 11:00 packages-stable/find-file-in-project-6.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/find-file-in-project-badge.svg
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 11:00 packages-stable/find-file-in-project-readme.txt

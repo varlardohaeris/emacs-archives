@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jdenen/mastodon.el.git
 
 Updating /mnt/store/melpa/working/mastodon/
+Checking out 5095797ef32b922d2a624fa6beb970b5e9cf5ca0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mastodon/
-  to /tmp/mastodon55qyZb/mastodon-0.9.0
+  to /tmp/mastodonJmr35a/mastodon-0.9.0
   ! lisp/mastodon-auth.el -> mastodon-auth.el
   ! lisp/mastodon-client.el -> mastodon-client.el
   ! lisp/mastodon-discover.el -> mastodon-discover.el
@@ -31,9 +32,9 @@ Created mastodon-0.9.0.tar containing:
   mastodon-0.9.0/mastodon-tl.el
   mastodon-0.9.0/mastodon-toot.el
   mastodon-0.9.0/mastodon.el
-Built mastodon in 3.426s, finished at Wed May 19 01:34:16 2021
+Built mastodon in 3.745s, finished at 2021-08-17T11:17:36+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  329 May 19 01:34 packages-stable/mastodon-0.9.0.entry
-132K -rw-r--r-- 1 root root 130K May 19 01:34 packages-stable/mastodon-0.9.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/mastodon-badge.svg
-4.0K -rw-r--r-- 1 root root  192 May 19 01:34 packages-stable/mastodon-readme.txt
+4.0K -rw-r--r-- 1 root root  329 Aug 17 11:17 packages-stable/mastodon-0.9.0.entry
+132K -rw-r--r-- 1 root root 130K Aug 17 11:17 packages-stable/mastodon-0.9.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/mastodon-badge.svg
+4.0K -rw-r--r-- 1 root root  192 Aug 17 11:17 packages-stable/mastodon-readme.txt

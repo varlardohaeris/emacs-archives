@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/company-ctags.git
 
 Updating /mnt/store/melpa/working/company-ctags/
-Built company-ctags in 2.938s, finished at Wed May 19 04:24:21 2021
+Checking out cf7bfdbfedc8ca4ee134c8d66e70eb6035185174
+Built company-ctags in 2.946s, finished at 2021-08-17T10:49:49+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 04:24 packages-stable/company-ctags-0.0.4.el
-4.0K -rw-r--r-- 1 root root  401 May 19 04:24 packages-stable/company-ctags-0.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-ctags-badge.svg
-4.0K -rw-r--r-- 1 root root 1.4K May 19 04:24 packages-stable/company-ctags-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:49 packages-stable/company-ctags-0.0.6.el
+4.0K -rw-r--r-- 1 root root  401 Aug 17 10:49 packages-stable/company-ctags-0.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-ctags-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 10:49 packages-stable/company-ctags-readme.txt

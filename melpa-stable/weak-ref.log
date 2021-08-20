@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/skeeto/elisp-weak-ref.git
 
 Updating /mnt/store/melpa/working/weak-ref/
-Built weak-ref in 3.031s, finished at Wed May 19 01:54:41 2021
+Checking out 1df1bf63e5456460ec98ea93b991527adaff4e60
+Built weak-ref in 3.606s, finished at 2021-08-17T11:40:25+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.4K May 19 01:54 packages-stable/weak-ref-2.0.el
-4.0K -rw-r--r-- 1 root root  333 May 19 01:54 packages-stable/weak-ref-2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/weak-ref-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 11:40 packages-stable/weak-ref-2.0.el
+4.0K -rw-r--r-- 1 root root  333 Aug 17 11:40 packages-stable/weak-ref-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/weak-ref-badge.svg

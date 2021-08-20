@@ -1,11 +1,12 @@
 Package: tron-legacy-theme
 Fetcher: github
-Source:  https://github.com/ianpan870102/tron-legacy-emacs-theme.git
+Source:  https://github.com/ianyepan/tron-legacy-emacs-theme.git
 
 Updating /mnt/store/melpa/working/tron-legacy-theme/
-Built tron-legacy-theme in 3.063s, finished at Wed May 19 01:52:57 2021
+Checking out 74e0cf066392c6fa99327e42b24caf4ed2fc414f
+Built tron-legacy-theme in 4.046s, finished at 2021-08-17T11:38:28+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  39K May 19 01:52 packages-stable/tron-legacy-theme-2.6.0.el
-4.0K -rw-r--r-- 1 root root  332 May 19 01:52 packages-stable/tron-legacy-theme-2.6.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/tron-legacy-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  163 May 19 01:52 packages-stable/tron-legacy-theme-readme.txt
+ 40K -rw-r--r-- 1 root root  39K Aug 17 11:38 packages-stable/tron-legacy-theme-2.6.0.el
+4.0K -rw-r--r-- 1 root root  332 Aug 17 11:38 packages-stable/tron-legacy-theme-2.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/tron-legacy-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  163 Aug 17 11:38 packages-stable/tron-legacy-theme-readme.txt

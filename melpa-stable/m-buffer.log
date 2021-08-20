@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/phillord/m-buffer-el.git
 
 Updating /mnt/store/melpa/working/m-buffer/
+Checking out 6eb1d2535a82707a83733173bc400a0d8e520c80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/m-buffer/
-  to /tmp/m-bufferI9HCmU/m-buffer-0.15
+  to /tmp/m-bufferKlm18d/m-buffer-0.15
     m-buffer-at.el -> m-buffer-at.el
     m-buffer-macro.el -> m-buffer-macro.el
     m-buffer.el -> m-buffer.el
@@ -17,9 +18,9 @@ Created m-buffer-0.15.tar containing:
   m-buffer-0.15/m-buffer-macro.el
   m-buffer-0.15/m-buffer-pkg.el
   m-buffer-0.15/m-buffer.el
-Built m-buffer in 2.804s, finished at Wed May 19 01:33:21 2021
+Built m-buffer in 3.843s, finished at 2021-08-17T11:16:38+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  301 May 19 01:33 packages-stable/m-buffer-0.15.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:33 packages-stable/m-buffer-0.15.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/m-buffer-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 01:33 packages-stable/m-buffer-readme.txt
+4.0K -rw-r--r-- 1 root root  301 Aug 17 11:16 packages-stable/m-buffer-0.15.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:16 packages-stable/m-buffer-0.15.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/m-buffer-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 11:16 packages-stable/m-buffer-readme.txt

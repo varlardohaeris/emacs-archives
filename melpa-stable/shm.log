@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/projectional-haskell/structured-haskell-mode.git
 
 Updating /mnt/store/melpa/working/shm/
+Checking out 8abc5cd73e59ea85bef906e14e87dc388c4f350f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shm/
-  to /tmp/shmTyCV6I/shm-1.0.20
+  to /tmp/shmEdzXZr/shm-1.0.20
   ! elisp/shm-ast-documentation.el -> shm-ast-documentation.el
   ! elisp/shm-ast.el -> shm-ast.el
   ! elisp/shm-case-split.el -> shm-case-split.el
@@ -61,9 +62,9 @@ Created shm-1.0.20.tar containing:
   shm-1.0.20/shm-type.el
   shm-1.0.20/shm-yank-kill.el
   shm-1.0.20/shm.el
-Built shm in 3.478s, finished at Wed May 19 01:48:22 2021
+Built shm in 4.105s, finished at 2021-08-17T11:33:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  299 May 19 01:48 packages-stable/shm-1.0.20.entry
-220K -rw-r--r-- 1 root root 220K May 19 01:48 packages-stable/shm-1.0.20.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shm-badge.svg
-4.0K -rw-r--r-- 1 root root   55 May 19 01:48 packages-stable/shm-readme.txt
+4.0K -rw-r--r-- 1 root root  299 Aug 17 11:33 packages-stable/shm-1.0.20.entry
+220K -rw-r--r-- 1 root root 220K Aug 17 11:33 packages-stable/shm-1.0.20.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shm-badge.svg
+4.0K -rw-r--r-- 1 root root   55 Aug 17 11:33 packages-stable/shm-readme.txt

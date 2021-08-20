@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/gonewest818/geolocation.el.git
 
 Updating /mnt/store/melpa/working/geolocation/
-Built geolocation in 3.271s, finished at Wed May 19 04:36:53 2021
+Checking out 83ab28e64bc067016b5344dffe93e380e9807e9c
+Built geolocation in 4.417s, finished at 2021-08-17T11:04:06+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  33K May 19 04:36 packages-stable/geolocation-0.2.0.el
-4.0K -rw-r--r-- 1 root root  469 May 19 04:36 packages-stable/geolocation-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geolocation-badge.svg
-4.0K -rw-r--r-- 1 root root 4.0K May 19 04:36 packages-stable/geolocation-readme.txt
+ 36K -rw-r--r-- 1 root root  33K Aug 17 11:04 packages-stable/geolocation-0.2.0.el
+4.0K -rw-r--r-- 1 root root  469 Aug 17 11:04 packages-stable/geolocation-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/geolocation-badge.svg
+4.0K -rw-r--r-- 1 root root 4.0K Aug 17 11:04 packages-stable/geolocation-readme.txt

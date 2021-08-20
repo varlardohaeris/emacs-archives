@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-ivy.git
 
 Updating /mnt/store/melpa/working/lsp-ivy/
-Built lsp-ivy in 4.235s, finished at Wed May 19 01:33:03 2021
+Checking out 4cdb739fc2bc47f7d4dcad824f9240c70c4cb37d
+Built lsp-ivy in 4.150s, finished at 2021-08-17T11:16:16+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.0K May 19 01:33 packages-stable/lsp-ivy-0.4.el
-4.0K -rw-r--r-- 1 root root  304 May 19 01:33 packages-stable/lsp-ivy-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-ivy-badge.svg
-4.0K -rw-r--r-- 1 root root  201 May 19 01:33 packages-stable/lsp-ivy-readme.txt
+ 12K -rw-r--r-- 1 root root 9.0K Aug 17 11:16 packages-stable/lsp-ivy-0.4.el
+4.0K -rw-r--r-- 1 root root  304 Aug 17 11:16 packages-stable/lsp-ivy-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-ivy-badge.svg
+4.0K -rw-r--r-- 1 root root  201 Aug 17 11:16 packages-stable/lsp-ivy-readme.txt

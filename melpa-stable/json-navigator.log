@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/json-navigator.git
 
 Updating /mnt/store/melpa/working/json-navigator/
-Built json-navigator in 3.467s, finished at Wed May 19 04:45:07 2021
+Checking out ad14c020983339662473f805dd11fe866bb7f35f
+Built json-navigator in 5.936s, finished at 2021-08-17T11:13:30+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.4K May 19 04:45 packages-stable/json-navigator-0.1.1.el
-4.0K -rw-r--r-- 1 root root  367 May 19 04:45 packages-stable/json-navigator-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/json-navigator-badge.svg
-4.0K -rw-r--r-- 1 root root   34 May 19 04:45 packages-stable/json-navigator-readme.txt
+8.0K -rw-r--r-- 1 root root 6.4K Aug 17 11:13 packages-stable/json-navigator-0.1.1.el
+4.0K -rw-r--r-- 1 root root  367 Aug 17 11:13 packages-stable/json-navigator-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/json-navigator-badge.svg
+4.0K -rw-r--r-- 1 root root   34 Aug 17 11:13 packages-stable/json-navigator-readme.txt

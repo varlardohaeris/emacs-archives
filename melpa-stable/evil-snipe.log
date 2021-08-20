@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hlissner/evil-snipe.git
 
 Updating /mnt/store/melpa/working/evil-snipe/
-Built evil-snipe in 2.902s, finished at Wed May 19 04:32:35 2021
+Checking out dc62ac317fd29f018e9785c1b3b7dd7ad57b3938
+Built evil-snipe in 4.036s, finished at 2021-08-17T10:59:12+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  25K May 19 04:32 packages-stable/evil-snipe-2.0.8.el
-4.0K -rw-r--r-- 1 root root  476 May 19 04:32 packages-stable/evil-snipe-2.0.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-snipe-badge.svg
-4.0K -rw-r--r-- 1 root root  478 May 19 04:32 packages-stable/evil-snipe-readme.txt
+ 32K -rw-r--r-- 1 root root  25K Aug 17 10:59 packages-stable/evil-snipe-2.0.8.el
+4.0K -rw-r--r-- 1 root root  476 Aug 17 10:59 packages-stable/evil-snipe-2.0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-snipe-badge.svg
+4.0K -rw-r--r-- 1 root root  478 Aug 17 10:59 packages-stable/evil-snipe-readme.txt

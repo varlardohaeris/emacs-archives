@@ -3,10 +3,11 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-geiser/stklos.git
 
 Updating /mnt/store/melpa/working/geiser-stklos/
+Checking out 7e7edc8318ab2669710ec6466aecfa402e5b8d95
 Note: geiser-stklos :files spec is equivalent to the default.
-Built geiser-stklos in 3.688s, finished at Wed May 19 04:36:51 2021
+Built geiser-stklos in 4.872s, finished at 2021-08-17T11:04:03+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:36 packages-stable/geiser-stklos-1.6.el
-4.0K -rw-r--r-- 1 root root  431 May 19 04:36 packages-stable/geiser-stklos-1.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/geiser-stklos-badge.svg
-4.0K -rw-r--r-- 1 root root 1.8K May 19 04:36 packages-stable/geiser-stklos-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:04 packages-stable/geiser-stklos-1.6.el
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:04 packages-stable/geiser-stklos-1.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/geiser-stklos-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K Aug 17 11:04 packages-stable/geiser-stklos-readme.txt

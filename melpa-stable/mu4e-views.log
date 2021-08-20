@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lordpretzel/mu4e-views.git
 
 Updating /mnt/store/melpa/working/mu4e-views/
-Built mu4e-views in 3.157s, finished at Wed May 19 01:36:24 2021
+Checking out 33fa9f584034978006108a4498566e933493f852
+Built mu4e-views in 4.647s, finished at 2021-08-17T11:19:50+0000
  ✓ Success:
- 56K -rw-r--r-- 1 root root  54K May 19 01:36 packages-stable/mu4e-views-0.5.el
-4.0K -rw-r--r-- 1 root root  459 May 19 01:36 packages-stable/mu4e-views-0.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mu4e-views-badge.svg
-4.0K -rw-r--r-- 1 root root  411 May 19 01:36 packages-stable/mu4e-views-readme.txt
+ 56K -rw-r--r-- 1 root root  54K Aug 17 11:19 packages-stable/mu4e-views-0.5.el
+4.0K -rw-r--r-- 1 root root  459 Aug 17 11:19 packages-stable/mu4e-views-0.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/mu4e-views-badge.svg
+4.0K -rw-r--r-- 1 root root  411 Aug 17 11:19 packages-stable/mu4e-views-readme.txt

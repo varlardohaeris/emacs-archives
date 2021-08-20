@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rnkn/olivetti.git
 
 Updating /mnt/store/melpa/working/olivetti/
-Built olivetti in 3.179s, finished at Wed May 19 01:38:34 2021
+Checking out 8a4e020a4522b0e14a812ae5116c4631db165256
+Built olivetti in 3.393s, finished at 2021-08-17T11:22:18+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 01:38 packages-stable/olivetti-1.11.4.el
-4.0K -rw-r--r-- 1 root root  367 May 19 01:38 packages-stable/olivetti-1.11.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/olivetti-badge.svg
-4.0K -rw-r--r-- 1 root root 2.4K May 19 01:38 packages-stable/olivetti-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 11:22 packages-stable/olivetti-2.0.1.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 11:22 packages-stable/olivetti-2.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/olivetti-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 11:22 packages-stable/olivetti-readme.txt

@@ -3,17 +3,18 @@ Fetcher: github
 Source:  https://github.com/google/mozc.git
 
 Updating /mnt/store/melpa/working/mozc/
-Built mozc in 30.333s, finished at Wed May 19 01:36:35 2021
+Checking out afb03ddfe72dde4cf2409863a3bfea160f7a66d8
+Built mozc in 27.836s, finished at 2021-08-17T11:19:53+0000
  ✓ Success:
- 80K -rw-r--r-- 1 root root  79K May 19 01:36 packages-stable/mozc-2018snapshot2snapshot26.el
-4.0K -rw-r--r-- 1 root root  208 May 19 01:36 packages-stable/mozc-2018snapshot2snapshot26.entry
-4.0K -rw-r--r-- 1 root root 1.3K May 19 01:36 packages-stable/mozc-badge.svg
-4.0K -rw-r--r-- 1 root root  206 May 19 01:36 packages-stable/mozc-cand-posframe.log
-4.0K -rw-r--r-- 1 root root  166 May 19 01:36 packages-stable/mozc-im.log
-4.0K -rw-r--r-- 1 root root  178 May 19 01:36 packages-stable/mozc-popup.log
-4.0K -rw-r--r-- 1 root root 2.9K May 19 01:36 packages-stable/mozc-readme.txt
- 12K -rw-r--r-- 1 root root 8.3K May 19 01:36 packages-stable/mozc-temp-1.0.0.el
-4.0K -rw-r--r-- 1 root root  380 May 19 01:36 packages-stable/mozc-temp-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mozc-temp-badge.svg
-4.0K -rw-r--r-- 1 root root  200 May 19 01:36 packages-stable/mozc-temp-readme.txt
-4.0K -rw-r--r-- 1 root root  536 May 19 01:36 packages-stable/mozc-temp.log
+ 80K -rw-r--r-- 1 root root  79K Aug 17 11:19 packages-stable/mozc-2018snapshot2snapshot26.el
+4.0K -rw-r--r-- 1 root root  208 Aug 17 11:19 packages-stable/mozc-2018snapshot2snapshot26.entry
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:19 packages-stable/mozc-badge.svg
+4.0K -rw-r--r-- 1 root root  206 Aug 17 11:19 packages-stable/mozc-cand-posframe.log
+4.0K -rw-r--r-- 1 root root  166 Aug 17 11:19 packages-stable/mozc-im.log
+4.0K -rw-r--r-- 1 root root  178 Aug 17 11:19 packages-stable/mozc-popup.log
+4.0K -rw-r--r-- 1 root root 2.9K Aug 17 11:19 packages-stable/mozc-readme.txt
+ 12K -rw-r--r-- 1 root root 8.3K Aug 17 11:19 packages-stable/mozc-temp-1.0.0.el
+4.0K -rw-r--r-- 1 root root  380 Aug 17 11:19 packages-stable/mozc-temp-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/mozc-temp-badge.svg
+4.0K -rw-r--r-- 1 root root  200 Aug 17 11:19 packages-stable/mozc-temp-readme.txt
+4.0K -rw-r--r-- 1 root root  590 Aug 17 11:19 packages-stable/mozc-temp.log

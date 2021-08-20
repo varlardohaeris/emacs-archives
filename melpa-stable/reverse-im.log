@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/a13/reverse-im.el.git
 
 Updating /mnt/store/melpa/working/reverse-im/
-Built reverse-im in 3.030s, finished at Wed May 19 01:46:42 2021
+Checking out 90add9a1f8c4a3c78029d38087ff4d22fe5372d3
+Built reverse-im in 3.922s, finished at 2021-08-17T11:31:23+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 01:46 packages-stable/reverse-im-0.0.7.el
-4.0K -rw-r--r-- 1 root root  267 May 19 01:46 packages-stable/reverse-im-0.0.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/reverse-im-badge.svg
-4.0K -rw-r--r-- 1 root root  477 May 19 01:46 packages-stable/reverse-im-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:31 packages-stable/reverse-im-0.0.7.el
+4.0K -rw-r--r-- 1 root root  267 Aug 17 11:31 packages-stable/reverse-im-0.0.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/reverse-im-badge.svg
+4.0K -rw-r--r-- 1 root root  477 Aug 17 11:31 packages-stable/reverse-im-readme.txt

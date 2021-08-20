@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jplindstrom/emacs-org-transform-tree-table.git
 
 Updating /mnt/store/melpa/working/org-transform-tree-table/
-Built org-transform-tree-table in 7.878s, finished at Wed May 19 01:40:40 2021
+Checking out 14f2e42db1b97f145d57fa415c7e615756216e13
+Built org-transform-tree-table in 8.586s, finished at 2021-08-17T11:24:22+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  20K May 19 01:40 packages-stable/org-transform-tree-table-0.1.2.el
-4.0K -rw-r--r-- 1 root root  596 May 19 01:40 packages-stable/org-transform-tree-table-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-transform-tree-table-badge.svg
-4.0K -rw-r--r-- 1 root root 3.4K May 19 01:40 packages-stable/org-transform-tree-table-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:24 packages-stable/org-transform-tree-table-0.1.2.el
+4.0K -rw-r--r-- 1 root root  596 Aug 17 11:24 packages-stable/org-transform-tree-table-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/org-transform-tree-table-badge.svg
+4.0K -rw-r--r-- 1 root root 3.4K Aug 17 11:24 packages-stable/org-transform-tree-table-readme.txt

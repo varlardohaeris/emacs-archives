@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/Wilfred/mustache.el.git
 
 Updating /mnt/store/melpa/working/mustache/
+Checking out b0ea352813592424164520a49e86c04600242752
 Note: mustache :files spec is equivalent to the default.
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mustache/
-  to /tmp/mustachePI3NqJ/mustache-0.23
+  to /tmp/mustacheFesKcw/mustache-0.23
     mustache-lex.el -> mustache-lex.el
     mustache-parse.el -> mustache-parse.el
     mustache-pkg.el -> mustache-pkg.el
@@ -19,14 +20,14 @@ Created mustache-0.23.tar containing:
   mustache-0.23/mustache-pkg.el
   mustache-0.23/mustache-render.el
   mustache-0.23/mustache.el
-Built mustache in 3.655s, finished at Wed May 19 01:36:38 2021
+Built mustache in 4.304s, finished at 2021-08-17T11:20:02+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  370 May 19 01:36 packages-stable/mustache-0.23.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:36 packages-stable/mustache-0.23.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/mustache-badge.svg
- 12K -rw-r--r-- 1 root root  10K May 18 22:22 packages-stable/mustache-mode-1.3.el
-4.0K -rw-r--r-- 1 root root  269 May 18 22:22 packages-stable/mustache-mode-1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:22 packages-stable/mustache-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  323 May 18 22:22 packages-stable/mustache-mode-readme.txt
-4.0K -rw-r--r-- 1 root root  136 May 19 01:36 packages-stable/mustache-mode.log
-4.0K -rw-r--r-- 1 root root  566 May 19 01:36 packages-stable/mustache-readme.txt
+4.0K -rw-r--r-- 1 root root  370 Aug 17 11:20 packages-stable/mustache-0.23.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:20 packages-stable/mustache-0.23.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/mustache-badge.svg
+ 12K -rw-r--r-- 1 root root 9.9K Aug 17 11:20 packages-stable/mustache-mode-1.3.el
+4.0K -rw-r--r-- 1 root root  269 Aug 17 07:53 packages-stable/mustache-mode-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:53 packages-stable/mustache-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  323 Aug 17 07:53 packages-stable/mustache-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  190 Aug 17 11:20 packages-stable/mustache-mode.log
+4.0K -rw-r--r-- 1 root root  566 Aug 17 11:20 packages-stable/mustache-readme.txt

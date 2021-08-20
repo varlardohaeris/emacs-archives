@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/elf-mode.git
 
 Updating /mnt/store/melpa/working/elf-mode/
-Built elf-mode in 4.250s, finished at Wed May 19 04:30:03 2021
+Checking out cd280d683cd3341d8bb31af6db7e3b74a133e6ab
+Built elf-mode in 7.475s, finished at 2021-08-17T10:56:01+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.9K May 19 04:30 packages-stable/elf-mode-0.1.0.el
-4.0K -rw-r--r-- 1 root root  351 May 19 04:30 packages-stable/elf-mode-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elf-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  169 May 19 04:30 packages-stable/elf-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 10:56 packages-stable/elf-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  351 Aug 17 10:56 packages-stable/elf-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elf-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  169 Aug 17 10:56 packages-stable/elf-mode-readme.txt

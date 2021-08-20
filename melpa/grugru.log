@@ -3,21 +3,23 @@ Fetcher: github
 Source:  https://github.com/ROCKTAKEY/grugru.git
 
 Updating /mnt/store/melpa/working/grugru/
+Checking out origin/HEAD
+Checking out b1d873cb6186e08c6f7ec782df989b01e955fb4d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/grugru/
-  to /tmp/grugru5xCkkb/grugru-20210127.432
+  to /tmp/grugruEVa7Re/grugru-20210617.1028
     grugru-default.el -> grugru-default.el
     grugru-utils.el -> grugru-utils.el
     grugru.el -> grugru.el
-Created grugru-20210127.432.tar containing:
-  grugru-20210127.432/
-  grugru-20210127.432/grugru-default.el
-  grugru-20210127.432/grugru-pkg.el
-  grugru-20210127.432/grugru-utils.el
-  grugru-20210127.432/grugru.el
-Built grugru in 4.783s, finished at Wed May 19 03:28:04 2021
+Created grugru-20210617.1028.tar containing:
+  grugru-20210617.1028/
+  grugru-20210617.1028/grugru-default.el
+  grugru-20210617.1028/grugru-pkg.el
+  grugru-20210617.1028/grugru-utils.el
+  grugru-20210617.1028/grugru.el
+Built grugru in 4.798s, finished at 2021-08-17T09:51:47+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  345 May 19 03:28 packages/grugru-20210127.432.entry
- 72K -rw-r--r-- 1 root root  70K May 19 03:28 packages/grugru-20210127.432.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:28 packages/grugru-badge.svg
- 12K -rw-r--r-- 1 root root  12K May 19 03:28 packages/grugru-readme.txt
+4.0K -rw-r--r-- 1 root root  346 Aug 17 09:51 packages/grugru-20210617.1028.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 09:51 packages/grugru-20210617.1028.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:51 packages/grugru-badge.svg
+ 12K -rw-r--r-- 1 root root  12K Aug 17 09:51 packages/grugru-readme.txt

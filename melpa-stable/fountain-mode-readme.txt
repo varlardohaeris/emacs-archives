@@ -16,16 +16,19 @@ Features
  - Traditional TAB auto-completion writing style
  - Highly accurate pagination calculation
  - Navigation by section, scene, character name, or page
- - Integration with outline to fold/cycle visibility of sections and
-   scenes
+ - Integration with outline to fold/cycle visibility of sections,
+   scenes and notes
  - Integration with electric-pair-mode to insert emphasis delimiters
    with single key (i.e. * or _)
  - Integration with imenu (sections, scene headings, notes)
  - Intergration with auto-insert for title page metadata
+ - Integreation with which-function-mode to display live-update of current
+   page and page count in mode-line
  - Automatically add/remove character (CONT'D)
  - Toggle syntax highlighting of each element
  - Toggle visibility of emphasis and syntax markup
- - Optionally display scene numbers in the right margin
+ - Optionally display scene numbers in margins
+ - Intelligent insertion of page breaks
 
 Most common features are accessible from the menu. For a full list of
 functions and key-bindings, type C-h m.
@@ -75,6 +78,9 @@ list returned by:
 If you prefer the latest but perhaps unstable version, do the above
 using [MELPA][2].
 
+Fountain Mode may be available via your system package manager; check at
+[Repology][3].
+
 
 Advanced Installation
 ---------------------
@@ -103,3 +109,4 @@ Known issues are tracked with FIXME comments in the source.
 
 [1]: https://stable.melpa.org/#/fountain-mode
 [2]: https://melpa.org/#/fountain-mode
+[3]: https://repology.org/project/emacs:fountain-mode/versions

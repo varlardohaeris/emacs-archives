@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nathankot/company-sourcekit.git
 
 Updating /mnt/store/melpa/working/sourcekit/
-Built sourcekit in 2.939s, finished at Wed May 19 01:49:45 2021
+Checking out 8ba62ac25bf533b7f148f333bcb5c1db799f749b
+Built sourcekit in 4.104s, finished at 2021-08-17T11:34:44+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.8K May 19 01:49 packages-stable/sourcekit-0.2.0.el
-4.0K -rw-r--r-- 1 root root  492 May 19 01:49 packages-stable/sourcekit-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/sourcekit-badge.svg
-4.0K -rw-r--r-- 1 root root  287 May 19 01:49 packages-stable/sourcekit-readme.txt
+8.0K -rw-r--r-- 1 root root 7.8K Aug 17 11:34 packages-stable/sourcekit-0.2.0.el
+4.0K -rw-r--r-- 1 root root  492 Aug 17 11:34 packages-stable/sourcekit-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/sourcekit-badge.svg
+4.0K -rw-r--r-- 1 root root  287 Aug 17 11:34 packages-stable/sourcekit-readme.txt

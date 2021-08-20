@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/clemera/ivy-explorer.git
 
 Updating /mnt/store/melpa/working/ivy-explorer/
-Built ivy-explorer in 3.157s, finished at Wed May 19 04:43:54 2021
+Checking out 14adb6164f1d1646f503c3e4bd9aa559805f93d7
+Built ivy-explorer in 3.770s, finished at 2021-08-17T11:12:11+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  29K May 19 04:43 packages-stable/ivy-explorer-0.3.2.el
-4.0K -rw-r--r-- 1 root root  423 May 19 04:43 packages-stable/ivy-explorer-0.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-explorer-badge.svg
-4.0K -rw-r--r-- 1 root root  605 May 19 04:43 packages-stable/ivy-explorer-readme.txt
+ 32K -rw-r--r-- 1 root root  29K Aug 17 11:12 packages-stable/ivy-explorer-0.3.2.el
+4.0K -rw-r--r-- 1 root root  423 Aug 17 11:12 packages-stable/ivy-explorer-0.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/ivy-explorer-badge.svg
+4.0K -rw-r--r-- 1 root root  605 Aug 17 11:12 packages-stable/ivy-explorer-readme.txt

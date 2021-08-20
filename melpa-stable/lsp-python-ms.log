@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-python-ms.git
 
 Updating /mnt/store/melpa/working/lsp-python-ms/
-Built lsp-python-ms in 3.761s, finished at Wed May 19 01:33:12 2021
+Checking out 5856c08d6393c10951f39b993a8d7bf2d506b44f
+Built lsp-python-ms in 4.042s, finished at 2021-08-17T11:16:27+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  25K May 19 01:33 packages-stable/lsp-python-ms-0.7.2.el
-4.0K -rw-r--r-- 1 root root  390 May 19 01:33 packages-stable/lsp-python-ms-0.7.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-python-ms-badge.svg
-4.0K -rw-r--r-- 1 root root  120 May 19 01:33 packages-stable/lsp-python-ms-readme.txt
+ 28K -rw-r--r-- 1 root root  25K Aug 17 11:16 packages-stable/lsp-python-ms-0.7.2.el
+4.0K -rw-r--r-- 1 root root  390 Aug 17 11:16 packages-stable/lsp-python-ms-0.7.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-python-ms-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Aug 17 11:16 packages-stable/lsp-python-ms-readme.txt

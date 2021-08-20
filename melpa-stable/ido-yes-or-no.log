@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/DarwinAwardWinner/ido-yes-or-no.git
 
 Updating /mnt/store/melpa/working/ido-yes-or-no/
-Built ido-yes-or-no in 2.653s, finished at Wed May 19 04:42:49 2021
+Checking out 9ddee9e878ad62d58c9f4b3a7685f22b8e36e420
+Built ido-yes-or-no in 3.570s, finished at 2021-08-17T11:10:58+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 1.4K May 19 04:42 packages-stable/ido-yes-or-no-1.4.el
-4.0K -rw-r--r-- 1 root root  317 May 19 04:42 packages-stable/ido-yes-or-no-1.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/ido-yes-or-no-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Aug 17 11:10 packages-stable/ido-yes-or-no-1.4.el
+4.0K -rw-r--r-- 1 root root  317 Aug 17 11:10 packages-stable/ido-yes-or-no-1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/ido-yes-or-no-badge.svg

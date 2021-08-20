@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/clj-refactor.el.git
 
 Updating /mnt/store/melpa/working/clj-refactor/
+Checking out b24ce76acefe792975f00147c94b4dd784e65b80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clj-refactor/
-  to /tmp/clj-refactorkW7YCb/clj-refactor-2.5.1
+  to /tmp/clj-refactorszTbsb/clj-refactor-2.5.1
     clj-refactor-compat.el -> clj-refactor-compat.el
     clj-refactor.el -> clj-refactor.el
     CHANGELOG.md -> CHANGELOG.md
@@ -15,9 +16,9 @@ Created clj-refactor-2.5.1.tar containing:
   clj-refactor-2.5.1/clj-refactor-compat.el
   clj-refactor-2.5.1/clj-refactor-pkg.el
   clj-refactor-2.5.1/clj-refactor.el
-Built clj-refactor in 2.936s, finished at Wed May 19 04:23:32 2021
+Built clj-refactor in 4.319s, finished at 2021-08-17T10:49:01+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  702 May 19 04:23 packages-stable/clj-refactor-2.5.1.entry
-192K -rw-r--r-- 1 root root 190K May 19 04:23 packages-stable/clj-refactor-2.5.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clj-refactor-badge.svg
-4.0K -rw-r--r-- 1 root root   66 May 19 04:23 packages-stable/clj-refactor-readme.txt
+4.0K -rw-r--r-- 1 root root  702 Aug 17 10:49 packages-stable/clj-refactor-2.5.1.entry
+192K -rw-r--r-- 1 root root 190K Aug 17 10:49 packages-stable/clj-refactor-2.5.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/clj-refactor-badge.svg
+4.0K -rw-r--r-- 1 root root   66 Aug 17 10:49 packages-stable/clj-refactor-readme.txt

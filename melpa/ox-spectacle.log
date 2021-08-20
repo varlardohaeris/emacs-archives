@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/lorniu/ox-spectacle.git
 
 Updating /mnt/store/melpa/working/ox-spectacle/
-Built ox-spectacle in 8.932s, finished at Wed May 19 03:53:28 2021
+Checking out origin/HEAD
+Checking out 9d3ec9a6326289074d8620e97d65e3105307ff51
+Built ox-spectacle in 5.420s, finished at 2021-08-17T10:18:17+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  32K May 19 03:53 packages/ox-spectacle-20181211.953.el
-4.0K -rw-r--r-- 1 root root  328 May 19 03:53 packages/ox-spectacle-20181211.953.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:53 packages/ox-spectacle-badge.svg
-4.0K -rw-r--r-- 1 root root   28 May 19 03:53 packages/ox-spectacle-readme.txt
+ 32K -rw-r--r-- 1 root root  32K Aug 17 10:18 packages/ox-spectacle-20181211.953.el
+4.0K -rw-r--r-- 1 root root  328 Aug 17 10:18 packages/ox-spectacle-20181211.953.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:18 packages/ox-spectacle-badge.svg
+4.0K -rw-r--r-- 1 root root   28 Aug 17 10:18 packages/ox-spectacle-readme.txt

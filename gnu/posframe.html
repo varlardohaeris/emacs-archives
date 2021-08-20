@@ -23,14 +23,22 @@
 
             <div class="container">
 <h2 class="package">posframe</h2><dl><dt>Description</dt><dd>Pop a posframe (just a frame) at point</dd>
-<dt>Latest</dt> <dd><a href="posframe-1.0.2.tar">posframe-1.0.2.tar</a>, 2021-Apr-23,  140&nbsp;KiB</dd>
+<dt>Latest</dt> <dd><a href="posframe-1.0.4.tar">posframe-1.0.4.tar</a>, 2021-Jun-16,  140&nbsp;KiB</dd>
 <dt>Maintainer</dt> <dd>Feng Shu &lt;tumashu@163.com></dd>
 <dt>Home page</dt> <dd><a href="https://github.com/tumashu/posframe">https://github.com/tumashu/posframe</a></dd>
-<dt>Browse ELPA's repository</dt> <dd><a href="http://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/posframe">CGit</a> or <a href="http://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/posframe">Gitweb</a></dd>
+<dt>Browse ELPA's repository</dt> <dd><a href="https://git.savannah.gnu.org/cgit/emacs/elpa.git/?h=externals/posframe">CGit</a> or <a href="https://git.savannah.gnu.org/gitweb/?p=emacs/elpa.git;a=shortlog;h=refs/heads/externals/posframe">Gitweb</a></dd>
+<dt>Badge</dt><dd><img src="posframe.svg"/></dd>
 </dl><p>To install this package, run in Emacs:</p>
                        <pre>M-x <span class="kw">package-install</span> RET <span class="kw">posframe</span> RET</pre><h2>Full description</h2><pre>
-* Posframe README                                :README:
-** What is posframe?
+# Created 2021-06-01 Tue 10:41
+#+TITLE: Pop a posframe (just a frame) at point
+#+AUTHOR: Feng Shu
+
+#+html: &lt;a href="http://elpa.gnu.org/packages/posframe.html">&lt;img alt="GNU ELPA" src="https://elpa.gnu.org/packages/posframe.svg"/>&lt;/a>
+#+html: &lt;a href="http://elpa.gnu.org/devel/posframe.html">&lt;img alt="GNU-devel ELPA" src="https://elpa.gnu.org/devel/posframe.svg"/>&lt;/a>
+#+html: &lt;a href="https://melpa.org/#/posframe">&lt;img alt="MELPA" src="https://melpa.org/packages/posframe-badge.svg"/>&lt;/a>
+
+* What is posframe?
 Posframe can pop up a frame at point, this *posframe* is a
 child-frame connected to its root window's buffer.
 
@@ -48,28 +56,28 @@ NOTE:
    1. [[https://git.savannah.gnu.org/cgit/emacs.git/commit/?h=emacs-27&amp;id=c49d379f17bcb0ce82604def2eaa04bda00bd5ec][Fix some problems with moving and resizing child frames]]
    2. [[https://lists.gnu.org/archive/html/emacs-devel/2020-01/msg00343.html][Emacs's set-frame-size can not work well with gnome-shell?]]
 
-[[./snapshots/posframe-1.png]]
+[[file:./snapshots/posframe-1.png]]
 
-** Installation
+* Installation
 
-#+BEGIN_EXAMPLE
+#+begin_example
 (require 'posframe)
-#+END_EXAMPLE
+#+end_example
 
-** Usage
+* Usage
 
-*** Create a posframe
+** Create a posframe
 
-**** Simple way
-#+BEGIN_EXAMPLE
+*** Simple way
+#+begin_example
 (when (posframe-workable-p)
   (posframe-show " *my-posframe-buffer*"
                  :string "This is a test"
                  :position (point)))
-#+END_EXAMPLE
+#+end_example
 
-**** Advanced way
-#+BEGIN_EXAMPLE
+*** Advanced way
+#+begin_example
 (defvar my-posframe-buffer " *my-posframe-buffer*")
 
 (with-current-buffer (get-buffer-create my-posframe-buffer)
@@ -79,65 +87,68 @@ NOTE:
 (when (posframe-workable-p)
   (posframe-show my-posframe-buffer
                  :position (point)))
-#+END_EXAMPLE
+#+end_example
 
-**** Arguments
+*** Arguments
 
-#+BEGIN_EXAMPLE
+#+begin_example
 C-h f posframe-show
-#+END_EXAMPLE
+#+end_example
 
-*** Hide a posframe
-#+BEGIN_EXAMPLE
+** Hide a posframe
+#+begin_example
 (posframe-hide " *my-posframe-buffer*")
-#+END_EXAMPLE
+#+end_example
 
-*** Hide all posframes
-#+BEGIN_EXAMPLE
+** Hide all posframes
+#+begin_example
 M-x posframe-hide-all
-#+END_EXAMPLE
+#+end_example
 
-*** Delete a posframe
+** Delete a posframe
 1. Delete posframe and its buffer
-   #+BEGIN_EXAMPLE
+   #+begin_example
    (posframe-delete " *my-posframe-buffer*")
-   #+END_EXAMPLE
+   #+end_example
 2. Only delete the frame
-   #+BEGIN_EXAMPLE
+   #+begin_example
    (posframe-delete-frame " *my-posframe-buffer*")
-   #+END_EXAMPLE
-*** Delete all posframes
-#+BEGIN_EXAMPLE
+   #+end_example
+** Delete all posframes
+#+begin_example
 M-x posframe-delete-all
-#+END_EXAMPLE
+#+end_example
 
 Note: this command will delete all posframe buffers.
 You probably shouldn't use it if you are sharing a buffer
 between posframe and other packages.
 
-*** Customizing mouse pointer control
+** Customizing mouse pointer control
 
 By default, posframe moves the pointer to point (0,0) in
 the frame, as a way to address an issue with mouse focus.
 To disable this feature, add this to your init.el:
-#+BEGIN_EXAMPLE
+#+begin_example
 (setq posframe-mouse-banish nil)
-#+END_EXAMPLE
+#+end_example
 
-*** Set fallback arguments of posframe-show
+** Set fallback arguments of posframe-show
 
 Users can set fallback values of posframe-show's arguments with the
 help of `posframe-arghandler'.  The example below sets fallback
 border-width to 10 and fallback background color to green.
 
-#+BEGIN_EXAMPLE
+#+begin_example
 (setq posframe-arghandler #'my-posframe-arghandler)
 (defun my-posframe-arghandler (buffer-or-name arg-name value)
   (let ((info '(:internal-border-width 10 :background-color "green")))
     (or (plist-get info arg-name) value)))
-#+END_EXAMPLE
+#+end_example
+
 </pre>
 <h2>Old versions</h2><table>
+<tr><td><a href="posframe-1.0.3.tar.lz">posframe-1.0.3.tar.lz</a></td><td>2021-May-31</td><td>75.4&nbsp;KiB</td>
+<tr><td><a href="posframe-1.0.2.tar.lz">posframe-1.0.2.tar.lz</a></td><td>2021-Apr-23</td><td>75.4&nbsp;KiB</td>
 <tr><td><a href="posframe-1.0.1.tar.lz">posframe-1.0.1.tar.lz</a></td><td>2021-Apr-16</td><td>75.4&nbsp;KiB</td>
 <tr><td><a href="posframe-1.0.0.tar.lz">posframe-1.0.0.tar.lz</a></td><td>2021-Apr-10</td><td>75.4&nbsp;KiB</td>
 <tr><td><a href="posframe-0.9.0.tar.lz">posframe-0.9.0.tar.lz</a></td><td>2021-Mar-31</td><td>74.6&nbsp;KiB</td>
@@ -147,8 +158,6 @@ border-width to 10 and fallback background color to green.
 <tr><td><a href="posframe-0.8.5.tar.lz">posframe-0.8.5.tar.lz</a></td><td>2021-Feb-08</td><td>74.6&nbsp;KiB</td>
 <tr><td><a href="posframe-0.8.4.tar.lz">posframe-0.8.4.tar.lz</a></td><td>2021-Jan-13</td><td>73.8&nbsp;KiB</td>
 <tr><td><a href="posframe-0.8.3.el.lz">posframe-0.8.3.el.lz</a></td><td>2020-Nov-18</td><td>10.7&nbsp;KiB</td>
-<tr><td><a href="posframe-0.8.2.el.lz">posframe-0.8.2.el.lz</a></td><td>2020-Oct-26</td><td>10.7&nbsp;KiB</td>
-<tr><td><a href="posframe-0.8.1.el.lz">posframe-0.8.1.el.lz</a></td><td>2020-Oct-09</td><td>10.7&nbsp;KiB</td>
 <tr><td><a href="posframe-0.8.0.el.lz">posframe-0.8.0.el.lz</a></td><td>2020-Aug-18</td><td>10.7&nbsp;KiB</td>
 <tr><td><a href="posframe-0.7.0.el.lz">posframe-0.7.0.el.lz</a></td><td>2020-Apr-05</td><td>9.53&nbsp;KiB</td>
 <tr><td><a href="posframe-0.6.0.el.lz">posframe-0.6.0.el.lz</a></td><td>2020-Feb-05</td><td>9.32&nbsp;KiB</td>
@@ -159,4 +168,19 @@ border-width to 10 and fallback background color to green.
 <tr><td><a href="posframe-0.2.0.el.lz">posframe-0.2.0.el.lz</a></td><td>2018-Mar-08</td><td>6.07&nbsp;KiB</td>
 <tr><td><a href="posframe-0.1.0.el.lz">posframe-0.1.0.el.lz</a></td><td>2018-Feb-27</td><td>5.83&nbsp;KiB</td>
 </table>
+
+
+        <div class="footer">
+            <div class="container">
+                <p>Copyright 2016-2021 <a href="https://fsf.org">Free Software Foundation</a>, Inc.</p>
+                <p>Design provided by <a href="https://nicolas.petton.fr">Nicolas Petton</a></p>
+                <p>
+                  This website is licensed under the
+                  <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+                  International License.
+                </p>
+                <p><a href="/jslicense.html" data-jslicense="1">JavaScript Licenses</a></p>
+            </div>
+        </div>
+
 </body>

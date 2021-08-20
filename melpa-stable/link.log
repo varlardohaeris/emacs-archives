@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/myrkr/dictionary-el.git
 
 Updating /mnt/store/melpa/working/link/
-Built link in 3.223s, finished at Wed May 19 01:32:21 2021
+Checking out c9cad101100975e88873636bfd426b7a19304ebd
+Built link in 3.783s, finished at 2021-08-17T11:15:29+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.6K May 19 01:32 packages-stable/link-1.11.el
-4.0K -rw-r--r-- 1 root root  305 May 19 01:32 packages-stable/link-1.11.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/link-badge.svg
-4.0K -rw-r--r-- 1 root root  134 May 19 01:32 packages-stable/link-hint.log
-4.0K -rw-r--r-- 1 root root  567 May 19 01:32 packages-stable/link-readme.txt
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 11:15 packages-stable/link-1.11.el
+4.0K -rw-r--r-- 1 root root  305 Aug 17 11:15 packages-stable/link-1.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/link-badge.svg
+4.0K -rw-r--r-- 1 root root  188 Aug 17 11:15 packages-stable/link-hint.log
+4.0K -rw-r--r-- 1 root root  567 Aug 17 11:15 packages-stable/link-readme.txt

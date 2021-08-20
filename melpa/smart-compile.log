@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/zenitani/elisp.git
 
 Updating /mnt/store/melpa/working/smart-compile/
-Built smart-compile in 10.046s, finished at Wed May 19 04:05:02 2021
+Checking out origin/HEAD
+Checking out 2edfcf2004ce927f11ca9cb43e2e4b93f43524a9
+Built smart-compile in 5.137s, finished at 2021-08-17T13:55:50+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:05 packages/smart-compile-20201029.1600.el
-4.0K -rw-r--r-- 1 root root  291 May 19 04:05 packages/smart-compile-20201029.1600.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:05 packages/smart-compile-badge.svg
-4.0K -rw-r--r-- 1 root root  459 May 19 04:05 packages/smart-compile-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 13:55 packages/smart-compile-20201029.1600.el
+4.0K -rw-r--r-- 1 root root  291 Aug 17 13:55 packages/smart-compile-20201029.1600.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 13:55 packages/smart-compile-badge.svg
+4.0K -rw-r--r-- 1 root root  459 Aug 17 13:55 packages/smart-compile-readme.txt

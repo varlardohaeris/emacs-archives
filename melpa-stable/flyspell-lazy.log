@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rolandwalker/flyspell-lazy.git
 
 Updating /mnt/store/melpa/working/flyspell-lazy/
-Built flyspell-lazy in 3.211s, finished at Wed May 19 04:35:54 2021
+Checking out 39f79aaa1ca5cb28c5f453f6530b8428fec1e7dc
+Built flyspell-lazy in 4.415s, finished at 2021-08-17T11:02:58+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  36K May 19 04:35 packages-stable/flyspell-lazy-0.6.10.el
-4.0K -rw-r--r-- 1 root root  357 May 19 04:35 packages-stable/flyspell-lazy-0.6.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flyspell-lazy-badge.svg
-8.0K -rw-r--r-- 1 root root 5.6K May 19 04:35 packages-stable/flyspell-lazy-readme.txt
+ 36K -rw-r--r-- 1 root root  36K Aug 17 11:02 packages-stable/flyspell-lazy-0.6.10.el
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:02 packages-stable/flyspell-lazy-0.6.10.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flyspell-lazy-badge.svg
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 11:02 packages-stable/flyspell-lazy-readme.txt

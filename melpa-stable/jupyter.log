@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nnicandro/emacs-jupyter.git
 
 Updating /mnt/store/melpa/working/jupyter/
+Checking out 35be899d938949305450002f50b22d7e829f7e5c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jupyter/
-  to /tmp/jupyteruoPQLc/jupyter-0.8.2
+  to /tmp/jupyterXT1w6P/jupyter-0.8.2
     jupyter-R.el -> jupyter-R.el
     jupyter-base.el -> jupyter-base.el
     jupyter-c++.el -> jupyter-c++.el
@@ -85,9 +86,9 @@ Created jupyter-0.8.2.tar containing:
   jupyter-0.8.2/jupyter.el
   jupyter-0.8.2/ob-jupyter.el
   jupyter-0.8.2/widget.html
-Built jupyter in 3.559s, finished at Wed May 19 04:45:20 2021
+Built jupyter in 4.015s, finished at 2021-08-17T11:13:44+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  430 May 19 04:45 packages-stable/jupyter-0.8.2.entry
-720K -rw-r--r-- 1 root root 720K May 19 04:45 packages-stable/jupyter-0.8.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/jupyter-badge.svg
-4.0K -rw-r--r-- 1 root root   53 May 19 04:45 packages-stable/jupyter-readme.txt
+4.0K -rw-r--r-- 1 root root  430 Aug 17 11:13 packages-stable/jupyter-0.8.2.entry
+720K -rw-r--r-- 1 root root 720K Aug 17 11:13 packages-stable/jupyter-0.8.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/jupyter-badge.svg
+4.0K -rw-r--r-- 1 root root   53 Aug 17 11:13 packages-stable/jupyter-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/hying-caritas/project-shells.git
 
 Updating /mnt/store/melpa/working/project-shells/
-Built project-shells in 4.288s, finished at Wed May 19 03:57:17 2021
+Checking out origin/HEAD
+Checking out 900369828f1a213c60a2207a71d46bc43fd5405c
+Built project-shells in 5.188s, finished at 2021-08-17T10:22:49+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 03:57 packages/project-shells-20201026.748.el
-4.0K -rw-r--r-- 1 root root  443 May 19 03:57 packages/project-shells-20201026.748.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:57 packages/project-shells-badge.svg
-4.0K -rw-r--r-- 1 root root  866 May 19 03:57 packages/project-shells-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 10:22 packages/project-shells-20210625.647.el
+4.0K -rw-r--r-- 1 root root  443 Aug 17 10:22 packages/project-shells-20210625.647.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:22 packages/project-shells-badge.svg
+4.0K -rw-r--r-- 1 root root  866 Aug 17 10:22 packages/project-shells-readme.txt

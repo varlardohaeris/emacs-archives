@@ -3,18 +3,19 @@ Fetcher: github
 Source:  https://github.com/rdallasgray/ppd-sr-speedbar.git
 
 Updating /mnt/store/melpa/working/ppd-sr-speedbar/
+Checking out 4ef219dfa9dd2fa601882cd61c9089a289a8d00a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ppd-sr-speedbar/
-  to /tmp/ppd-sr-speedbar8YtEXn/ppd-sr-speedbar-0.0.6
+  to /tmp/ppd-sr-speedbarjCviK3/ppd-sr-speedbar-0.0.6
   ! lib/ppd-sr-speedbar-pkg.el -> ppd-sr-speedbar-pkg.el
   ! lib/ppd-sr-speedbar.el -> ppd-sr-speedbar.el
 Created ppd-sr-speedbar-0.0.6.tar containing:
   ppd-sr-speedbar-0.0.6/
   ppd-sr-speedbar-0.0.6/ppd-sr-speedbar-pkg.el
   ppd-sr-speedbar-0.0.6/ppd-sr-speedbar.el
-Built ppd-sr-speedbar in 2.930s, finished at Wed May 19 01:43:55 2021
+Built ppd-sr-speedbar in 4.785s, finished at 2021-08-17T11:28:16+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  422 May 19 01:43 packages-stable/ppd-sr-speedbar-0.0.6.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:43 packages-stable/ppd-sr-speedbar-0.0.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/ppd-sr-speedbar-badge.svg
-4.0K -rw-r--r-- 1 root root  222 May 19 01:43 packages-stable/ppd-sr-speedbar-readme.txt
+4.0K -rw-r--r-- 1 root root  422 Aug 17 11:28 packages-stable/ppd-sr-speedbar-0.0.6.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:28 packages-stable/ppd-sr-speedbar-0.0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/ppd-sr-speedbar-badge.svg
+4.0K -rw-r--r-- 1 root root  222 Aug 17 11:28 packages-stable/ppd-sr-speedbar-readme.txt

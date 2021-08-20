@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://gitlab.kitware.com/cmake/cmake.git
 
 Updating /mnt/store/melpa/working/cmake-mode/
-Built cmake-mode in 9.082s, finished at Wed May 19 04:23:52 2021
+Checking out 75a6f032e1237582b7c73fe490a8742079182406
+Built cmake-mode in 7.644s, finished at 2021-08-17T10:49:19+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 04:23 packages-stable/cmake-mode-3.20.2.el
-4.0K -rw-r--r-- 1 root root  177 May 19 04:23 packages-stable/cmake-mode-3.20.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cmake-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  324 May 19 04:23 packages-stable/cmake-mode-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 10:49 packages-stable/cmake-mode-3.21.1.el
+4.0K -rw-r--r-- 1 root root  177 Aug 17 10:49 packages-stable/cmake-mode-3.21.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/cmake-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  324 Aug 17 10:49 packages-stable/cmake-mode-readme.txt

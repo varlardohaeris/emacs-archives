@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/miniedit.git
 
 Updating /mnt/store/melpa/working/miniedit/
-Built miniedit in 3.256s, finished at Wed May 19 01:35:22 2021
+Checking out cb159572553c20f7978b5a4a0a4ede12e7a3914a
+Built miniedit in 3.744s, finished at 2021-08-17T11:18:22+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 01:35 packages-stable/miniedit-2.0.el
-4.0K -rw-r--r-- 1 root root  142 May 19 01:35 packages-stable/miniedit-2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/miniedit-badge.svg
+ 16K -rw-r--r-- 1 root root  13K Aug 17 11:18 packages-stable/miniedit-2.0.el
+4.0K -rw-r--r-- 1 root root  142 Aug 17 11:18 packages-stable/miniedit-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/miniedit-badge.svg

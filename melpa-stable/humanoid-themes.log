@@ -3,4 +3,22 @@ Fetcher: github
 Source:  https://github.com/humanoid-colors/emacs-humanoid-themes.git
 
 Updating /mnt/store/melpa/working/humanoid-themes/
-No valid stable versions found for humanoid-themes
+Checking out d140638360a3eb1bf8f17877bd888f898df63ec0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/humanoid-themes/
+  to /tmp/humanoid-themesZT3a9m/humanoid-themes-0.2
+    humanoid-dark-theme.el -> humanoid-dark-theme.el
+    humanoid-light-theme.el -> humanoid-light-theme.el
+    humanoid-themes.el -> humanoid-themes.el
+Created humanoid-themes-0.2.tar containing:
+  humanoid-themes-0.2/
+  humanoid-themes-0.2/humanoid-dark-theme.el
+  humanoid-themes-0.2/humanoid-light-theme.el
+  humanoid-themes-0.2/humanoid-themes-pkg.el
+  humanoid-themes-0.2/humanoid-themes.el
+Built humanoid-themes in 3.691s, finished at 2021-08-17T11:10:23+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  361 Aug 17 11:10 packages-stable/humanoid-themes-0.2.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 11:10 packages-stable/humanoid-themes-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/humanoid-themes-badge.svg
+4.0K -rw-r--r-- 1 root root  106 Aug 17 11:10 packages-stable/humanoid-themes-readme.txt

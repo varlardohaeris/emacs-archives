@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/laynor/enotify.git
 
 Updating /mnt/store/melpa/working/enotify/
+Checking out 75c84b53703e5d52cb18acc9251b87ffa400f388
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/enotify/
-  to /tmp/enotifyqkFEjh/enotify-0.1.3
+  to /tmp/enotifywFJhlo/enotify-0.1.3
     enotify-group.el -> enotify-group.el
     enotify-messages.el -> enotify-messages.el
     enotify-mode-line.el -> enotify-mode-line.el
@@ -23,8 +24,8 @@ Created enotify-0.1.3.tar containing:
   enotify-0.1.3/enotify.el
   enotify-0.1.3/footer.el
   enotify-0.1.3/header.el
-Built enotify in 2.561s, finished at Wed May 19 04:31:06 2021
+Built enotify in 3.695s, finished at 2021-08-17T10:57:25+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  123 May 19 04:31 packages-stable/enotify-0.1.3.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:31 packages-stable/enotify-0.1.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/enotify-badge.svg
+4.0K -rw-r--r-- 1 root root  123 Aug 17 10:57 packages-stable/enotify-0.1.3.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:57 packages-stable/enotify-0.1.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/enotify-badge.svg

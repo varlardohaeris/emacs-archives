@@ -1,0 +1,12 @@
+Package: create-link
+Fetcher: github
+Source:  https://github.com/kijimaD/create-link.git
+
+Updating /mnt/store/melpa/working/create-link/
+Checking out fbc4e8eeec845f7d1610c52b81c0c7a4e961b991
+Built create-link in 3.773s, finished at 2021-08-17T10:51:34+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.6K Aug 17 10:51 packages-stable/create-link-1.0.el
+4.0K -rw-r--r-- 1 root root  475 Aug 17 10:51 packages-stable/create-link-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/create-link-badge.svg
+4.0K -rw-r--r-- 1 root root   65 Aug 17 10:51 packages-stable/create-link-readme.txt

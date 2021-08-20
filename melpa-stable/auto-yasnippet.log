@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/auto-yasnippet.git
 
 Updating /mnt/store/melpa/working/auto-yasnippet/
-Built auto-yasnippet in 3.411s, finished at Wed May 19 04:20:23 2021
+Checking out 5cc54edbe03c0061bf69883a3e39d3bb16019e0f
+Built auto-yasnippet in 4.220s, finished at 2021-08-17T10:45:38+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 04:20 packages-stable/auto-yasnippet-0.3.0.el
-4.0K -rw-r--r-- 1 root root  343 May 19 04:20 packages-stable/auto-yasnippet-0.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/auto-yasnippet-badge.svg
-4.0K -rw-r--r-- 1 root root 2.0K May 19 04:20 packages-stable/auto-yasnippet-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 10:45 packages-stable/auto-yasnippet-0.3.0.el
+4.0K -rw-r--r-- 1 root root  343 Aug 17 10:45 packages-stable/auto-yasnippet-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/auto-yasnippet-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 10:45 packages-stable/auto-yasnippet-readme.txt

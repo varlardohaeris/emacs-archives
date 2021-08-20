@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/Wilfred/refine.git
 
 Updating /mnt/store/melpa/working/refine/
-Built refine in 5.741s, finished at Wed May 19 04:00:23 2021
+Checking out origin/HEAD
+Checking out d72fa50910b86217a35bb1b7e56adea206052021
+Built refine in 4.911s, finished at 2021-08-17T10:25:28+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  26K May 19 04:00 packages/refine-20200507.731.el
-4.0K -rw-r--r-- 1 root root  381 May 19 04:00 packages/refine-20200507.731.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:00 packages/refine-badge.svg
-4.0K -rw-r--r-- 1 root root   58 May 19 04:00 packages/refine-readme.txt
+ 28K -rw-r--r-- 1 root root  26K Aug 17 10:25 packages/refine-20200507.731.el
+4.0K -rw-r--r-- 1 root root  381 Aug 17 10:25 packages/refine-20200507.731.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:25 packages/refine-badge.svg
+4.0K -rw-r--r-- 1 root root   58 Aug 17 10:25 packages/refine-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/p3r7/friendly-tramp-path.git
 
 Updating /mnt/store/melpa/working/friendly-tramp-path/
-Built friendly-tramp-path in 3.113s, finished at Wed May 19 04:36:20 2021
+Checking out be2714118876c592fae199aaa877c49475b6176a
+Built friendly-tramp-path in 3.519s, finished at 2021-08-17T11:03:29+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.4K May 19 04:36 packages-stable/friendly-tramp-path-0.1.0.el
-4.0K -rw-r--r-- 1 root root  246 May 19 04:36 packages-stable/friendly-tramp-path-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/friendly-tramp-path-badge.svg
-4.0K -rw-r--r-- 1 root root  534 May 19 04:36 packages-stable/friendly-tramp-path-readme.txt
+8.0K -rw-r--r-- 1 root root 6.4K Aug 17 11:03 packages-stable/friendly-tramp-path-0.1.0.el
+4.0K -rw-r--r-- 1 root root  246 Aug 17 11:03 packages-stable/friendly-tramp-path-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/friendly-tramp-path-badge.svg
+4.0K -rw-r--r-- 1 root root  534 Aug 17 11:03 packages-stable/friendly-tramp-path-readme.txt

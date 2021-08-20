@@ -1,21 +1,6 @@
 Package: insert-kaomoji
 Fetcher: git
-Source:  https://git.sr.ht/~zge/kaomoji
+Source:  https://git.sr.ht/~pkal/insert-kaomoji
 
 Updating /mnt/store/melpa/working/insert-kaomoji/
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/insert-kaomoji/
-  to /tmp/insert-kaomojik5yEWI/insert-kaomoji-0.1.1
-    insert-kaomoji.el -> insert-kaomoji.el
-    KAOMOJIS -> KAOMOJIS
-Created insert-kaomoji-0.1.1.tar containing:
-  insert-kaomoji-0.1.1/
-  insert-kaomoji-0.1.1/KAOMOJIS
-  insert-kaomoji-0.1.1/insert-kaomoji-pkg.el
-  insert-kaomoji-0.1.1/insert-kaomoji.el
-Built insert-kaomoji in 2.570s, finished at Wed May 19 04:43:28 2021
- ✓ Success:
-4.0K -rw-r--r-- 1 root root  330 May 19 04:43 packages-stable/insert-kaomoji-0.1.1.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:43 packages-stable/insert-kaomoji-0.1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/insert-kaomoji-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:43 packages-stable/insert-kaomoji-readme.txt
+No valid stable versions found for insert-kaomoji

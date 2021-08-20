@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tarsius/outline-minor-faces.git
 
 Updating /mnt/store/melpa/working/outline-minor-faces/
-Built outline-minor-faces in 3.176s, finished at Wed May 19 01:41:12 2021
+Checking out 965f557d3590f567d5ea1003f2a05081305a41be
+Built outline-minor-faces in 3.748s, finished at 2021-08-17T11:25:10+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.5K May 19 01:41 packages-stable/outline-minor-faces-0.2.3.el
-4.0K -rw-r--r-- 1 root root  402 May 19 01:41 packages-stable/outline-minor-faces-0.2.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/outline-minor-faces-badge.svg
-4.0K -rw-r--r-- 1 root root  614 May 19 01:41 packages-stable/outline-minor-faces-readme.txt
+8.0K -rw-r--r-- 1 root root 6.6K Aug 17 11:25 packages-stable/outline-minor-faces-0.2.4.el
+4.0K -rw-r--r-- 1 root root  414 Aug 17 11:25 packages-stable/outline-minor-faces-0.2.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/outline-minor-faces-badge.svg
+4.0K -rw-r--r-- 1 root root  614 Aug 17 11:25 packages-stable/outline-minor-faces-readme.txt

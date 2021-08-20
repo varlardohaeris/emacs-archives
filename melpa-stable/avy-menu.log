@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mrkkrp/avy-menu.git
 
 Updating /mnt/store/melpa/working/avy-menu/
-Built avy-menu in 3.561s, finished at Wed May 19 04:20:31 2021
+Checking out 71b71e64900d0637e17013781042e086e9bf56e7
+Built avy-menu in 4.246s, finished at 2021-08-17T10:45:48+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.5K May 19 04:20 packages-stable/avy-menu-0.1.1.el
-4.0K -rw-r--r-- 1 root root  401 May 19 04:20 packages-stable/avy-menu-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/avy-menu-badge.svg
-4.0K -rw-r--r-- 1 root root  261 May 19 04:20 packages-stable/avy-menu-readme.txt
+8.0K -rw-r--r-- 1 root root 6.5K Aug 17 10:45 packages-stable/avy-menu-0.1.1.el
+4.0K -rw-r--r-- 1 root root  401 Aug 17 10:45 packages-stable/avy-menu-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/avy-menu-badge.svg
+4.0K -rw-r--r-- 1 root root  261 Aug 17 10:45 packages-stable/avy-menu-readme.txt

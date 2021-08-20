@@ -1,6 +1,6 @@
 Package: devdocs
 Fetcher: github
-Source:  https://github.com/xuchunyang/DevDocs.el.git
+Source:  https://github.com/astoff/devdocs.el.git
 
 Updating /mnt/store/melpa/working/devdocs/
 No valid stable versions found for devdocs

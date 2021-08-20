@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/zephir-lang/zephir-mode.git
 
 Updating /mnt/store/melpa/working/zephir-mode/
+Checking out a5277457c16ac45680fbc8f350761ff5b4af4ba6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zephir-mode/
-  to /tmp/zephir-modeh4aFcj/zephir-mode-0.6.0
+  to /tmp/zephir-modemuf0tP/zephir-mode-0.6.0
     zephir-face.el -> zephir-face.el
     zephir-mode.el -> zephir-mode.el
 Created zephir-mode-0.6.0.tar containing:
@@ -13,9 +14,9 @@ Created zephir-mode-0.6.0.tar containing:
   zephir-mode-0.6.0/zephir-face.el
   zephir-mode-0.6.0/zephir-mode-pkg.el
   zephir-mode-0.6.0/zephir-mode.el
-Built zephir-mode in 2.921s, finished at Wed May 19 01:56:42 2021
+Built zephir-mode in 3.554s, finished at 2021-08-17T11:42:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  447 May 19 01:56 packages-stable/zephir-mode-0.6.0.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:56 packages-stable/zephir-mode-0.6.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zephir-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zephir-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  447 Aug 17 11:42 packages-stable/zephir-mode-0.6.0.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:42 packages-stable/zephir-mode-0.6.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/zephir-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/zephir-mode-readme.txt

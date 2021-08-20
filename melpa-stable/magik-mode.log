@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/roadrunner1776/magik.git
 
 Updating /mnt/store/melpa/working/magik-mode/
+Checking out d280836c77fd263ee404273d7c21f47395a657f9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magik-mode/
-  to /tmp/magik-modeogZE0i/magik-mode-0.0.3
+  to /tmp/magik-modezHQH9w/magik-mode-0.0.3
     magik-aliases.el -> magik-aliases.el
     magik-cb.el -> magik-cb.el
     magik-electric.el -> magik-electric.el
@@ -45,9 +46,9 @@ Created magik-mode-0.0.3.tar containing:
   magik-mode-0.0.3/magik-template.el
   magik-mode-0.0.3/magik-utils.el
   magik-mode-0.0.3/magik-version.el
-Built magik-mode in 2.996s, finished at Wed May 19 01:33:27 2021
+Built magik-mode in 4.012s, finished at 2021-08-17T11:16:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  234 May 19 01:33 packages-stable/magik-mode-0.0.3.entry
-440K -rw-r--r-- 1 root root 440K May 19 01:33 packages-stable/magik-mode-0.0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/magik-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   71 May 19 01:33 packages-stable/magik-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  234 Aug 17 11:16 packages-stable/magik-mode-0.0.3.entry
+440K -rw-r--r-- 1 root root 440K Aug 17 11:16 packages-stable/magik-mode-0.0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/magik-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Aug 17 11:16 packages-stable/magik-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nim-lang/nim-mode.git
 
 Updating /mnt/store/melpa/working/nim-mode/
+Checking out 86abed21b9b718ac65cc167f208e0bd5b92c79ed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nim-mode/
-  to /tmp/nim-modexRmkac/nim-mode-0.4.1
+  to /tmp/nim-mode5SjrUU/nim-mode-0.4.1
     flycheck-nimsuggest.el -> flycheck-nimsuggest.el
     nim-capf.el -> nim-capf.el
     nim-compile.el -> nim-compile.el
@@ -37,9 +38,9 @@ Created nim-mode-0.4.1.tar containing:
   nim-mode-0.4.1/nim-util.el
   nim-mode-0.4.1/nim-vars.el
   nim-mode-0.4.1/nimscript-mode.el
-Built nim-mode in 2.948s, finished at Wed May 19 01:37:19 2021
+Built nim-mode in 3.632s, finished at 2021-08-17T11:20:46+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  414 May 19 01:37 packages-stable/nim-mode-0.4.1.entry
-240K -rw-r--r-- 1 root root 240K May 19 01:37 packages-stable/nim-mode-0.4.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nim-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 01:37 packages-stable/nim-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  414 Aug 17 11:20 packages-stable/nim-mode-0.4.1.entry
+240K -rw-r--r-- 1 root root 240K Aug 17 11:20 packages-stable/nim-mode-0.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/nim-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 11:20 packages-stable/nim-mode-readme.txt

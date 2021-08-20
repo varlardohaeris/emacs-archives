@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/fujimisakari/emacs-go-expr-completion.git
 
 Updating /mnt/store/melpa/working/go-expr-completion/
-Built go-expr-completion in 3.972s, finished at Wed May 19 03:26:50 2021
+Checking out origin/HEAD
+Checking out 66bba78f52a732b978848e3a4c99fa2afeb6c25f
+Built go-expr-completion in 5.141s, finished at 2021-08-17T09:50:36+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.9K May 19 03:26 packages/go-expr-completion-20200817.1750.el
-4.0K -rw-r--r-- 1 root root  406 May 19 03:26 packages/go-expr-completion-20200817.1750.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:26 packages/go-expr-completion-badge.svg
-4.0K -rw-r--r-- 1 root root  521 May 19 03:26 packages/go-expr-completion-readme.txt
+8.0K -rw-r--r-- 1 root root 4.9K Aug 17 09:50 packages/go-expr-completion-20200817.1750.el
+4.0K -rw-r--r-- 1 root root  406 Aug 17 09:50 packages/go-expr-completion-20200817.1750.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:50 packages/go-expr-completion-badge.svg
+4.0K -rw-r--r-- 1 root root  521 Aug 17 09:50 packages/go-expr-completion-readme.txt

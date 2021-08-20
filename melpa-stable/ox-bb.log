@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mmitch/ox-bb.git
 
 Updating /mnt/store/melpa/working/ox-bb/
-Built ox-bb in 2.907s, finished at Wed May 19 01:41:20 2021
+Checking out 37e22316afac9dd73dec072ac6420e5c1c4471b6
+Built ox-bb in 3.758s, finished at 2021-08-17T11:25:20+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 01:41 packages-stable/ox-bb-0.0.1.el
-4.0K -rw-r--r-- 1 root root  375 May 19 01:41 packages-stable/ox-bb-0.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-bb-badge.svg
-4.0K -rw-r--r-- 1 root root  554 May 19 01:41 packages-stable/ox-bb-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 11:25 packages-stable/ox-bb-0.0.1.el
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:25 packages-stable/ox-bb-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/ox-bb-badge.svg
+4.0K -rw-r--r-- 1 root root  554 Aug 17 11:25 packages-stable/ox-bb-readme.txt

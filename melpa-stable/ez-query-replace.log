@@ -1,6 +1,12 @@
 Package: ez-query-replace
 Fetcher: github
-Source:  https://github.com/Wilfred/ez-query-replace.el.git
+Source:  https://github.com/Wilfred/ez-query-replace.git
 
 Updating /mnt/store/melpa/working/ez-query-replace/
-No valid stable versions found for ez-query-replace
+Checking out f5dbd2d3e5e62e6b7e7cc1a98fc4d0cd411e5afa
+Built ez-query-replace in 3.487s, finished at 2021-08-17T10:59:47+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.3K Aug 17 10:59 packages-stable/ez-query-replace-0.4.el
+4.0K -rw-r--r-- 1 root root  350 Aug 17 10:59 packages-stable/ez-query-replace-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/ez-query-replace-badge.svg
+4.0K -rw-r--r-- 1 root root  149 Aug 17 10:59 packages-stable/ez-query-replace-readme.txt

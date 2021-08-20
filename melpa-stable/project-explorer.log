@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/sabof/project-explorer.git
 
 Updating /mnt/store/melpa/working/project-explorer/
-Built project-explorer in 3.358s, finished at Wed May 19 01:44:12 2021
+Checking out 7c2cc86a81f679dda355110f916366b64893a5d4
+Built project-explorer in 3.556s, finished at 2021-08-17T11:28:38+0000
  ✓ Success:
- 68K -rw-r--r-- 1 root root  65K May 19 01:44 packages-stable/project-explorer-0.14.3.el
-4.0K -rw-r--r-- 1 root root  375 May 19 01:44 packages-stable/project-explorer-0.14.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/project-explorer-badge.svg
-4.0K -rw-r--r-- 1 root root  140 May 19 01:44 packages-stable/project-explorer-readme.txt
+ 68K -rw-r--r-- 1 root root  65K Aug 17 11:28 packages-stable/project-explorer-0.14.3.el
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:28 packages-stable/project-explorer-0.14.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/project-explorer-badge.svg
+4.0K -rw-r--r-- 1 root root  140 Aug 17 11:28 packages-stable/project-explorer-readme.txt

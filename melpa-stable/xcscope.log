@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dkogan/xcscope.el.git
 
 Updating /mnt/store/melpa/working/xcscope/
-Built xcscope in 3.416s, finished at Wed May 19 01:55:56 2021
+Checking out f3e2c84bd92f5a78182cc8d81f5358979a6c241c
+Built xcscope in 5.108s, finished at 2021-08-17T11:42:06+0000
  ✓ Success:
-120K -rw-r--r-- 1 root root 119K May 19 01:55 packages-stable/xcscope-1.5.el
-4.0K -rw-r--r-- 1 root root  374 May 19 01:55 packages-stable/xcscope-1.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/xcscope-badge.svg
- 20K -rw-r--r-- 1 root root  20K May 19 01:55 packages-stable/xcscope-readme.txt
+120K -rw-r--r-- 1 root root 119K Aug 17 11:42 packages-stable/xcscope-1.5.el
+4.0K -rw-r--r-- 1 root root  374 Aug 17 11:42 packages-stable/xcscope-1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/xcscope-badge.svg
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:42 packages-stable/xcscope-readme.txt

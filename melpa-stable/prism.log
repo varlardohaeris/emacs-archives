@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alphapapa/prism.el.git
 
 Updating /mnt/store/melpa/working/prism/
-Built prism in 3.644s, finished at Wed May 19 01:44:03 2021
+Checking out 8562782ff16401554d07094fbfbfab7ee514d0ee
+Built prism in 4.936s, finished at 2021-08-17T11:28:29+0000
  ✓ Success:
- 56K -rw-r--r-- 1 root root  54K May 19 01:44 packages-stable/prism-0.2.3.el
-4.0K -rw-r--r-- 1 root root  367 May 19 01:44 packages-stable/prism-0.2.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/prism-badge.svg
-4.0K -rw-r--r-- 1 root root 2.2K May 19 01:44 packages-stable/prism-readme.txt
+ 56K -rw-r--r-- 1 root root  54K Aug 17 11:28 packages-stable/prism-0.2.3.el
+4.0K -rw-r--r-- 1 root root  367 Aug 17 11:28 packages-stable/prism-0.2.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/prism-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 11:28 packages-stable/prism-readme.txt

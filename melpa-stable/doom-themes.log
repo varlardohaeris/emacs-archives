@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hlissner/emacs-doom-themes.git
 
 Updating /mnt/store/melpa/working/doom-themes/
+Checking out 39e6971e81181b86a57f65cd0ea31376203a9756
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/doom-themes/
-  to /tmp/doom-themes47KE4h/doom-themes-2.1.6
+  to /tmp/doom-themesiwiJ07/doom-themes-2.1.6
     doom-themes-common.el -> doom-themes-common.el
     doom-themes-neotree.el -> doom-themes-neotree.el
     doom-themes-org.el -> doom-themes-org.el
@@ -53,9 +54,9 @@ Created doom-themes-2.1.6.tar containing:
   doom-themes-2.1.6/doom-tomorrow-day-theme.el
   doom-themes-2.1.6/doom-tomorrow-night-theme.el
   doom-themes-2.1.6/doom-vibrant-theme.el
-Built doom-themes in 3.116s, finished at Wed May 19 04:28:36 2021
+Built doom-themes in 4.081s, finished at 2021-08-17T10:54:11+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  524 May 19 04:28 packages-stable/doom-themes-2.1.6.entry
-232K -rw-r--r-- 1 root root 230K May 19 04:28 packages-stable/doom-themes-2.1.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/doom-themes-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 04:28 packages-stable/doom-themes-readme.txt
+4.0K -rw-r--r-- 1 root root  524 Aug 17 10:54 packages-stable/doom-themes-2.1.6.entry
+232K -rw-r--r-- 1 root root 230K Aug 17 10:54 packages-stable/doom-themes-2.1.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/doom-themes-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 10:54 packages-stable/doom-themes-readme.txt

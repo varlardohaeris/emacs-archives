@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jpkotta/syntax-subword.git
 
 Updating /mnt/store/melpa/working/syntax-subword/
-Built syntax-subword in 2.874s, finished at Wed May 19 01:51:05 2021
+Checking out 01b27feac37eb60cf73ff80374004d9e847e637d
+Built syntax-subword in 3.633s, finished at 2021-08-17T11:36:41+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.0K May 19 01:51 packages-stable/syntax-subword-0.2.el
-4.0K -rw-r--r-- 1 root root  266 May 19 01:51 packages-stable/syntax-subword-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/syntax-subword-badge.svg
-4.0K -rw-r--r-- 1 root root  984 May 19 01:51 packages-stable/syntax-subword-readme.txt
+8.0K -rw-r--r-- 1 root root 7.0K Aug 17 11:36 packages-stable/syntax-subword-0.2.el
+4.0K -rw-r--r-- 1 root root  266 Aug 17 11:36 packages-stable/syntax-subword-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/syntax-subword-badge.svg
+4.0K -rw-r--r-- 1 root root  984 Aug 17 11:36 packages-stable/syntax-subword-readme.txt

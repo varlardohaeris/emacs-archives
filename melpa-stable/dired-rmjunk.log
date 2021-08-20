@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://git.sr.ht/~jakob/dired-rmjunk
 
 Updating /mnt/store/melpa/working/dired-rmjunk/
-Built dired-rmjunk in 3.670s, finished at Wed May 19 04:27:59 2021
+Checking out 66031d4636cd9d5fff4d39be9868c32624b71c1d
+Built dired-rmjunk in 3.868s, finished at 2021-08-17T10:53:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.5K May 19 04:27 packages-stable/dired-rmjunk-1.2.el
-4.0K -rw-r--r-- 1 root root  390 May 19 04:27 packages-stable/dired-rmjunk-1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-rmjunk-badge.svg
-4.0K -rw-r--r-- 1 root root  459 May 19 04:27 packages-stable/dired-rmjunk-readme.txt
+8.0K -rw-r--r-- 1 root root 7.5K Aug 17 10:53 packages-stable/dired-rmjunk-1.2.el
+4.0K -rw-r--r-- 1 root root  390 Aug 17 10:53 packages-stable/dired-rmjunk-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dired-rmjunk-badge.svg
+4.0K -rw-r--r-- 1 root root  459 Aug 17 10:53 packages-stable/dired-rmjunk-readme.txt

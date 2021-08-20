@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alphapapa/outshine.git
 
 Updating /mnt/store/melpa/working/outshine/
+Checking out 7f51449a92b4caf092d06c1197a47a1caa769de6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/outshine/
-  to /tmp/outshineG17IuU/outshine-3.0.1
+  to /tmp/outshineuPlJt1/outshine-3.0.1
     outshine-org-cmds.el -> outshine-org-cmds.el
     outshine.el -> outshine.el
 Created outshine-3.0.1.tar containing:
@@ -13,8 +14,8 @@ Created outshine-3.0.1.tar containing:
   outshine-3.0.1/outshine-org-cmds.el
   outshine-3.0.1/outshine-pkg.el
   outshine-3.0.1/outshine.el
-Built outshine in 3.112s, finished at Wed May 19 01:41:15 2021
+Built outshine in 3.940s, finished at 2021-08-17T11:25:13+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  299 May 19 01:41 packages-stable/outshine-3.0.1.entry
-352K -rw-r--r-- 1 root root 350K May 19 01:41 packages-stable/outshine-3.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/outshine-badge.svg
+4.0K -rw-r--r-- 1 root root  299 Aug 17 11:25 packages-stable/outshine-3.0.1.entry
+352K -rw-r--r-- 1 root root 350K Aug 17 11:25 packages-stable/outshine-3.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/outshine-badge.svg

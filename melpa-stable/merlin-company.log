@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ocaml/merlin.git
 
 Updating /mnt/store/melpa/working/merlin-company/
-Built merlin-company in 9.028s, finished at Wed May 19 01:34:58 2021
+Checking out 55caee534acf364b093653a6108521d57d56af1c
+Built merlin-company in 4.832s, finished at 2021-08-17T11:17:57+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.6K May 19 01:34 packages-stable/merlin-company-4.2snapshot412.el
-4.0K -rw-r--r-- 1 root root  535 May 19 01:34 packages-stable/merlin-company-4.2snapshot412.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/merlin-company-badge.svg
-4.0K -rw-r--r-- 1 root root  216 May 19 01:34 packages-stable/merlin-company-readme.txt
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 11:17 packages-stable/merlin-company-4.3.1snapshot412.el
+4.0K -rw-r--r-- 1 root root  537 Aug 17 11:17 packages-stable/merlin-company-4.3.1snapshot412.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/merlin-company-badge.svg
+4.0K -rw-r--r-- 1 root root  216 Aug 17 11:17 packages-stable/merlin-company-readme.txt

@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/mrhmouse/rc-mode.el.git
 
 Updating /mnt/store/melpa/working/rc-mode/
-Built rc-mode in 4.097s, finished at Wed May 19 01:45:32 2021
+Checking out fe2e0570bf9c19a292e16b18fd4b0a256df5d93f
+Built rc-mode in 9.639s, finished at 2021-08-17T11:30:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.6K May 19 01:45 packages-stable/rc-mode-1.0.13.el
-4.0K -rw-r--r-- 1 root root  296 May 19 01:45 packages-stable/rc-mode-1.0.13.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/rc-mode-badge.svg
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 11:30 packages-stable/rc-mode-1.0.13.el
+4.0K -rw-r--r-- 1 root root  296 Aug 17 11:30 packages-stable/rc-mode-1.0.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/rc-mode-badge.svg

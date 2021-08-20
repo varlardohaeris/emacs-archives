@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/sprintly/sprintly-mode.git
 
 Updating /mnt/store/melpa/working/sprintly-mode/
-Built sprintly-mode in 3.814s, finished at Wed May 19 01:50:03 2021
+Checking out 6695892bae5860b5268bf3ae62be990ee9b63c11
+Built sprintly-mode in 3.385s, finished at 2021-08-17T11:35:11+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.6K May 19 01:50 packages-stable/sprintly-mode-0.0.4.el
-4.0K -rw-r--r-- 1 root root  344 May 19 01:50 packages-stable/sprintly-mode-0.0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/sprintly-mode-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:50 packages-stable/sprintly-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 11:35 packages-stable/sprintly-mode-0.0.4.el
+4.0K -rw-r--r-- 1 root root  344 Aug 17 11:35 packages-stable/sprintly-mode-0.0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:35 packages-stable/sprintly-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:35 packages-stable/sprintly-mode-readme.txt

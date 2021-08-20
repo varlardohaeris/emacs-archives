@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/arnested/drupal-spell.git
 
 Updating /mnt/store/melpa/working/drupal-spell/
+Checking out fa263b6d438facafcd708d37c50c4e8ee0e51966
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/drupal-spell/
-  to /tmp/drupal-spellmPu7vQ/drupal-spell-0.2.2
+  to /tmp/drupal-spellf6ekya/drupal-spell-0.2.2
     drupal-spell.el -> drupal-spell.el
     dict => dict
 Created drupal-spell-0.2.2.tar containing:
@@ -14,9 +15,9 @@ Created drupal-spell-0.2.2.tar containing:
   drupal-spell-0.2.2/dict/drupal.txt
   drupal-spell-0.2.2/drupal-spell-pkg.el
   drupal-spell-0.2.2/drupal-spell.el
-Built drupal-spell in 3.496s, finished at Wed May 19 04:28:50 2021
+Built drupal-spell in 4.314s, finished at 2021-08-17T10:54:26+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  337 May 19 04:28 packages-stable/drupal-spell-0.2.2.entry
- 12K -rw-r--r-- 1 root root  10K May 19 04:28 packages-stable/drupal-spell-0.2.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/drupal-spell-badge.svg
-4.0K -rw-r--r-- 1 root root   65 May 19 04:28 packages-stable/drupal-spell-readme.txt
+4.0K -rw-r--r-- 1 root root  337 Aug 17 10:54 packages-stable/drupal-spell-0.2.2.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 10:54 packages-stable/drupal-spell-0.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:54 packages-stable/drupal-spell-badge.svg
+4.0K -rw-r--r-- 1 root root   65 Aug 17 10:54 packages-stable/drupal-spell-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lassik/emacs-whois.git
 
 Updating /mnt/store/melpa/working/whois/
-Built whois in 4.142s, finished at Wed May 19 01:55:03 2021
+Checking out 6ce65ec5c992b1e1cb538610f1c3708e9d467c39
+Built whois in 4.011s, finished at 2021-08-17T11:40:50+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.8K May 19 01:55 packages-stable/whois-0.3.el
-4.0K -rw-r--r-- 1 root root  356 May 19 01:55 packages-stable/whois-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:55 packages-stable/whois-badge.svg
-4.0K -rw-r--r-- 1 root root  577 May 19 01:55 packages-stable/whois-readme.txt
+8.0K -rw-r--r-- 1 root root 5.8K Aug 17 11:40 packages-stable/whois-0.3.el
+4.0K -rw-r--r-- 1 root root  356 Aug 17 11:40 packages-stable/whois-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/whois-badge.svg
+4.0K -rw-r--r-- 1 root root  577 Aug 17 11:40 packages-stable/whois-readme.txt

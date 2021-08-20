@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/NixOS/nix-mode.git
 
 Updating /mnt/store/melpa/working/nix-mode/
+Checking out 471a90ac96f4c94a717e5138fb0b03a167cfbf26
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nix-mode/
-  to /tmp/nix-modexDuaME/nix-mode-1.4.5
+  to /tmp/nix-modeAOrOwJ/nix-mode-1.4.5
     nix-build.el -> nix-build.el
     nix-drv-mode.el -> nix-drv-mode.el
     nix-edit.el -> nix-edit.el
@@ -37,9 +38,9 @@ Created nix-mode-1.4.5.tar containing:
   nix-mode-1.4.5/nix-shell.el
   nix-mode-1.4.5/nix-store.el
   nix-mode-1.4.5/nix.el
-Built nix-mode in 3.282s, finished at Wed May 19 01:37:24 2021
+Built nix-mode in 4.048s, finished at 2021-08-17T11:20:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  315 May 19 01:37 packages-stable/nix-mode-1.4.5.entry
-100K -rw-r--r-- 1 root root 100K May 19 01:37 packages-stable/nix-mode-1.4.5.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/nix-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  140 May 19 01:37 packages-stable/nix-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  315 Aug 17 11:20 packages-stable/nix-mode-1.4.5.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:20 packages-stable/nix-mode-1.4.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/nix-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  140 Aug 17 11:20 packages-stable/nix-mode-readme.txt

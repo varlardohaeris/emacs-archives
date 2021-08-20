@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/Fuco1/clippy.el.git
 
 Updating /mnt/store/melpa/working/clippy/
-Built clippy in 3.967s, finished at Wed May 19 03:05:14 2021
+Checking out origin/HEAD
+Checking out e77f6b63e54d74e243be98accad474e38f7e2a86
+Built clippy in 6.824s, finished at 2021-08-17T09:27:53+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.2K May 19 03:05 packages/clippy-20161028.1954.el
-4.0K -rw-r--r-- 1 root root  366 May 19 03:05 packages/clippy-20161028.1954.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:05 packages/clippy-badge.svg
-4.0K -rw-r--r-- 1 root root  612 May 19 03:05 packages/clippy-readme.txt
+8.0K -rw-r--r-- 1 root root 7.2K Aug 17 09:27 packages/clippy-20161028.1954.el
+4.0K -rw-r--r-- 1 root root  366 Aug 17 09:27 packages/clippy-20161028.1954.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:27 packages/clippy-badge.svg
+4.0K -rw-r--r-- 1 root root  612 Aug 17 09:27 packages/clippy-readme.txt

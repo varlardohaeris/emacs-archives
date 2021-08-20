@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/rejeep/evm.el.git
 
 Updating /mnt/store/melpa/working/evm/
-Built evm in 2.999s, finished at Wed May 19 04:32:48 2021
+Checking out d0623b2355436a5fd9f7238b419782080c79196b
+Built evm in 3.741s, finished at 2021-08-17T10:59:28+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.6K May 19 04:32 packages-stable/evm-0.4.2.el
-4.0K -rw-r--r-- 1 root root  347 May 19 04:32 packages-stable/evm-0.4.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evm-badge.svg
+4.0K -rw-r--r-- 1 root root 2.6K Aug 17 10:59 packages-stable/evm-0.4.2.el
+4.0K -rw-r--r-- 1 root root  347 Aug 17 10:59 packages-stable/evm-0.4.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evm-badge.svg

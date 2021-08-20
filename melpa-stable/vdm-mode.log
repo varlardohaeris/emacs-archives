@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/peterwvj/vdm-mode.git
 
 Updating /mnt/store/melpa/working/vdm-mode/
+Checking out e131edb0d35de28bd47d6128dd70d9a6fc46e0fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vdm-mode/
-  to /tmp/vdm-modegMdwlV/vdm-mode-0.0.4
+  to /tmp/vdm-modeITAY6h/vdm-mode-0.0.4
     vdm-mode-util.el -> vdm-mode-util.el
     vdm-mode.el -> vdm-mode.el
 Created vdm-mode-0.0.4.tar containing:
@@ -13,9 +14,9 @@ Created vdm-mode-0.0.4.tar containing:
   vdm-mode-0.0.4/vdm-mode-pkg.el
   vdm-mode-0.0.4/vdm-mode-util.el
   vdm-mode-0.0.4/vdm-mode.el
-Built vdm-mode in 3.596s, finished at Wed May 19 01:53:59 2021
+Built vdm-mode in 4.534s, finished at 2021-08-17T11:39:40+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  420 May 19 01:53 packages-stable/vdm-mode-0.0.4.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:53 packages-stable/vdm-mode-0.0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:53 packages-stable/vdm-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  368 May 19 01:53 packages-stable/vdm-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  420 Aug 17 11:39 packages-stable/vdm-mode-0.0.4.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:39 packages-stable/vdm-mode-0.0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/vdm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  368 Aug 17 11:39 packages-stable/vdm-mode-readme.txt

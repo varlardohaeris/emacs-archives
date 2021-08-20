@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flexibeast/org-vcard.git
 
 Updating /mnt/store/melpa/working/org-vcard/
+Checking out a6ab82ab28fa78f7c985d3ea9c9fafdd17f7ea8b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-vcard/
-  to /tmp/org-vcardUGDhnW/org-vcard-0.2.0
+  to /tmp/org-vcardcxBGRV/org-vcard-0.2.0
     org-vcard.el -> org-vcard.el
     styles => styles
 Created org-vcard-0.2.0.tar containing:
@@ -25,9 +26,9 @@ Created org-vcard-0.2.0.tar containing:
   org-vcard-0.2.0/styles/tree/mappings/en
   org-vcard-0.2.0/styles/tree/mappings/en_AU
   org-vcard-0.2.0/styles/tree/mappings/en_US
-Built org-vcard in 3.594s, finished at Wed May 19 01:40:47 2021
+Built org-vcard in 7.542s, finished at 2021-08-17T11:24:32+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  365 May 19 01:40 packages-stable/org-vcard-0.2.0.entry
-100K -rw-r--r-- 1 root root 100K May 19 01:40 packages-stable/org-vcard-0.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-vcard-badge.svg
-8.0K -rw-r--r-- 1 root root 6.1K May 19 01:40 packages-stable/org-vcard-readme.txt
+4.0K -rw-r--r-- 1 root root  365 Aug 17 11:24 packages-stable/org-vcard-0.2.0.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:24 packages-stable/org-vcard-0.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/org-vcard-badge.svg
+8.0K -rw-r--r-- 1 root root 6.1K Aug 17 11:24 packages-stable/org-vcard-readme.txt

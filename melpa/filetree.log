@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/knpatel401/filetree.git
 
 Updating /mnt/store/melpa/working/filetree/
-Built filetree in 4.437s, finished at Wed May 19 03:20:27 2021
+Checking out origin/HEAD
+Checking out f7dd8a310f5364f1e1549082ef231c3c27285e89
+Built filetree in 4.835s, finished at 2021-08-17T09:43:56+0000
  ✓ Success:
- 52K -rw-r--r-- 1 root root  50K May 19 03:20 packages/filetree-20210514.1614.el
-4.0K -rw-r--r-- 1 root root  402 May 19 03:20 packages/filetree-20210514.1614.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:20 packages/filetree-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 03:20 packages/filetree-readme.txt
+ 52K -rw-r--r-- 1 root root  52K Aug 17 09:43 packages/filetree-20210629.356.el
+4.0K -rw-r--r-- 1 root root  401 Aug 17 09:43 packages/filetree-20210629.356.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/filetree-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 09:43 packages/filetree-readme.txt

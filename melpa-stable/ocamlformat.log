@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ocaml-ppx/ocamlformat.git
 
 Updating /mnt/store/melpa/working/ocamlformat/
-Built ocamlformat in 3.682s, finished at Wed May 19 01:38:25 2021
+Checking out 0fccbf6a9b0521bf8ce97b57a098ffdb8f51da27
+Built ocamlformat in 4.746s, finished at 2021-08-17T11:22:09+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 01:38 packages-stable/ocamlformat-0.18.0.el
-4.0K -rw-r--r-- 1 root root  278 May 19 01:38 packages-stable/ocamlformat-0.18.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/ocamlformat-badge.svg
-4.0K -rw-r--r-- 1 root root  200 May 19 01:38 packages-stable/ocamlformat-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 11:22 packages-stable/ocamlformat-0.19.0.el
+4.0K -rw-r--r-- 1 root root  278 Aug 17 11:22 packages-stable/ocamlformat-0.19.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/ocamlformat-badge.svg
+4.0K -rw-r--r-- 1 root root  200 Aug 17 11:22 packages-stable/ocamlformat-readme.txt

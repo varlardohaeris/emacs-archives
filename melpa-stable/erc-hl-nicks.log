@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/leathekd/erc-hl-nicks.git
 
 Updating /mnt/store/melpa/working/erc-hl-nicks/
-Built erc-hl-nicks in 2.538s, finished at Wed May 19 04:31:16 2021
+Checking out a67fe361c8f2aa20fc235447fbb898f424b51439
+Built erc-hl-nicks in 3.743s, finished at 2021-08-17T10:57:38+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:31 packages-stable/erc-hl-nicks-1.3.4.el
-4.0K -rw-r--r-- 1 root root  363 May 19 04:31 packages-stable/erc-hl-nicks-1.3.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/erc-hl-nicks-badge.svg
-4.0K -rw-r--r-- 1 root root 2.5K May 19 04:31 packages-stable/erc-hl-nicks-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 10:57 packages-stable/erc-hl-nicks-1.3.4.el
+4.0K -rw-r--r-- 1 root root  363 Aug 17 10:57 packages-stable/erc-hl-nicks-1.3.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/erc-hl-nicks-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K Aug 17 10:57 packages-stable/erc-hl-nicks-readme.txt

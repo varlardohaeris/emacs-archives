@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rukano/emacs-faust-mode.git
 
 Updating /mnt/store/melpa/working/faust-mode/
-Built faust-mode in 2.937s, finished at Wed May 19 04:33:41 2021
+Checking out 7c31b22bdbfd2f8c16ec117d2975d56dd61ac15c
+Built faust-mode in 4.420s, finished at 2021-08-17T11:00:03+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:33 packages-stable/faust-mode-0.6.el
-4.0K -rw-r--r-- 1 root root  365 May 19 04:33 packages-stable/faust-mode-0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/faust-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  661 May 19 04:33 packages-stable/faust-mode-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:00 packages-stable/faust-mode-0.6.el
+4.0K -rw-r--r-- 1 root root  365 Aug 17 11:00 packages-stable/faust-mode-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/faust-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  661 Aug 17 11:00 packages-stable/faust-mode-readme.txt

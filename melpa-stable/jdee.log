@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/jdee-emacs/jdee.git
 
 Updating /mnt/store/melpa/working/jdee/
+Checking out 6180af1db3ec7c5e15fe3e879cc493bce82d9500
 No matching file(s) found in /mnt/store/melpa/working/jdee/: (*.el *.el.in dir *.info *.texi *.texinfo doc/dir doc/*.info doc/*.texi doc/*.texinfo (:exclude .dir-locals.el test.el tests.el *-test.el *-tests.el) jdee-test.el)

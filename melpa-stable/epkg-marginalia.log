@@ -1,0 +1,6 @@
+Package: epkg-marginalia
+Fetcher: github
+Source:  https://github.com/emacscollective/epkg-marginalia.git
+
+Updating /mnt/store/melpa/working/epkg-marginalia/
+No valid stable versions found for epkg-marginalia

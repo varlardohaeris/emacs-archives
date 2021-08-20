@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rtrn/shelltest-mode.git
 
 Updating /mnt/store/melpa/working/shelltest-mode/
-Built shelltest-mode in 3.097s, finished at Wed May 19 01:48:17 2021
+Checking out fead97c7ff1b39715ec033a793de41176f1788f5
+Built shelltest-mode in 3.727s, finished at 2021-08-17T11:33:10+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.1K May 19 01:48 packages-stable/shelltest-mode-1.1.el
-4.0K -rw-r--r-- 1 root root  338 May 19 01:48 packages-stable/shelltest-mode-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/shelltest-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  492 May 19 01:48 packages-stable/shelltest-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 5.1K Aug 17 11:33 packages-stable/shelltest-mode-1.1.el
+4.0K -rw-r--r-- 1 root root  338 Aug 17 11:33 packages-stable/shelltest-mode-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/shelltest-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  492 Aug 17 11:33 packages-stable/shelltest-mode-readme.txt

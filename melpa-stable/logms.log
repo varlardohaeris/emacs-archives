@@ -1,0 +1,12 @@
+Package: logms
+Fetcher: github
+Source:  https://github.com/jcs-elpa/logms.git
+
+Updating /mnt/store/melpa/working/logms/
+Checking out 68bab96a13d64efdf4f5951d931d0862e6861fb5
+Built logms in 4.536s, finished at 2021-08-17T11:16:02+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:16 packages-stable/logms-0.3.1.el
+4.0K -rw-r--r-- 1 root root  376 Aug 17 11:16 packages-stable/logms-0.3.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/logms-badge.svg
+4.0K -rw-r--r-- 1 root root   46 Aug 17 11:16 packages-stable/logms-readme.txt

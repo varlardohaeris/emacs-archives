@@ -3,9 +3,11 @@ Fetcher: git
 Source:  https://depp.brause.cc/eyebrowse.git
 
 Updating /mnt/store/melpa/working/eyebrowse/
-Built eyebrowse in 5.039s, finished at Wed May 19 03:19:51 2021
+Checking out origin/HEAD
+Checking out 88c7b59aa7c5c93bc23812217213adfa238f977b
+Built eyebrowse in 4.478s, finished at 2021-08-17T09:43:21+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 03:19 packages/eyebrowse-20201107.955.el
-4.0K -rw-r--r-- 1 root root  415 May 19 03:19 packages/eyebrowse-20201107.955.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:19 packages/eyebrowse-badge.svg
-4.0K -rw-r--r-- 1 root root  221 May 19 03:19 packages/eyebrowse-readme.txt
+ 28K -rw-r--r-- 1 root root  27K Aug 17 09:43 packages/eyebrowse-20201107.955.el
+4.0K -rw-r--r-- 1 root root  415 Aug 17 09:43 packages/eyebrowse-20201107.955.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/eyebrowse-badge.svg
+4.0K -rw-r--r-- 1 root root  221 Aug 17 09:43 packages/eyebrowse-readme.txt

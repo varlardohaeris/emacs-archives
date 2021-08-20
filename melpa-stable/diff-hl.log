@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dgutov/diff-hl.git
 
 Updating /mnt/store/melpa/working/diff-hl/
+Checking out b8b4f43af73f109bf1af0453a076c274164488cf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-hl/
-  to /tmp/diff-hl4d6OEL/diff-hl-1.8.8
+  to /tmp/diff-hlIf0m26/diff-hl-1.8.8
     diff-hl-amend.el -> diff-hl-amend.el
     diff-hl-dired.el -> diff-hl-dired.el
     diff-hl-flydiff.el -> diff-hl-flydiff.el
@@ -19,9 +20,9 @@ Created diff-hl-1.8.8.tar containing:
   diff-hl-1.8.8/diff-hl-margin.el
   diff-hl-1.8.8/diff-hl-pkg.el
   diff-hl-1.8.8/diff-hl.el
-Built diff-hl in 3.342s, finished at Wed May 19 04:27:12 2021
+Built diff-hl in 4.187s, finished at 2021-08-17T10:52:58+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  370 May 19 04:27 packages-stable/diff-hl-1.8.8.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:27 packages-stable/diff-hl-1.8.8.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/diff-hl-badge.svg
-4.0K -rw-r--r-- 1 root root  643 May 19 04:27 packages-stable/diff-hl-readme.txt
+4.0K -rw-r--r-- 1 root root  370 Aug 17 10:52 packages-stable/diff-hl-1.8.8.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 10:52 packages-stable/diff-hl-1.8.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/diff-hl-badge.svg
+4.0K -rw-r--r-- 1 root root  643 Aug 17 10:52 packages-stable/diff-hl-readme.txt

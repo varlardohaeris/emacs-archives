@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cute-jumper/parsec.el.git
 
 Updating /mnt/store/melpa/working/parsec/
-Built parsec in 3.584s, finished at Wed May 19 01:42:05 2021
+Checking out 2cbbbc2254aa7bcaa4fb5e07c8c1bf2f381dba26
+Built parsec in 3.862s, finished at 2021-08-17T11:26:13+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  38K May 19 01:42 packages-stable/parsec-0.1.4.el
-4.0K -rw-r--r-- 1 root root  357 May 19 01:42 packages-stable/parsec-0.1.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/parsec-badge.svg
- 20K -rw-r--r-- 1 root root  18K May 19 01:42 packages-stable/parsec-readme.txt
+ 40K -rw-r--r-- 1 root root  38K Aug 17 11:26 packages-stable/parsec-0.1.4.el
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:26 packages-stable/parsec-0.1.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/parsec-badge.svg
+ 20K -rw-r--r-- 1 root root  18K Aug 17 11:26 packages-stable/parsec-readme.txt

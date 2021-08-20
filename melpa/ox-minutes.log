@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/kaushalmodi/ox-minutes.git
 
 Updating /mnt/store/melpa/working/ox-minutes/
-Built ox-minutes in 8.484s, finished at Wed May 19 03:53:12 2021
+Checking out origin/HEAD
+Checking out 27c29f3fdb9181322ae56f8bace8d95e621230e5
+Built ox-minutes in 4.695s, finished at 2021-08-17T10:18:09+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.1K May 19 03:53 packages/ox-minutes-20180202.1734.el
-4.0K -rw-r--r-- 1 root root  431 May 19 03:53 packages/ox-minutes-20180202.1734.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:53 packages/ox-minutes-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 03:53 packages/ox-minutes-readme.txt
+8.0K -rw-r--r-- 1 root root 7.1K Aug 17 10:18 packages/ox-minutes-20180202.1734.el
+4.0K -rw-r--r-- 1 root root  431 Aug 17 10:18 packages/ox-minutes-20180202.1734.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:18 packages/ox-minutes-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 10:18 packages/ox-minutes-readme.txt

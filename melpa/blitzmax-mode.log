@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/Sodaware/blitzmax-mode.git
 
 Updating /mnt/store/melpa/working/blitzmax-mode/
-Built blitzmax-mode in 4.487s, finished at Wed May 19 03:02:31 2021
+Checking out origin/HEAD
+Checking out 5f67bb3c8e4baf1f6881cc998f9f031641a7b08a
+Built blitzmax-mode in 5.080s, finished at 2021-08-17T09:24:40+0000
  ✓ Success:
- 28K -rwxr-xr-x 1 root root  26K May 19 03:02 packages/blitzmax-mode-20200415.1529.el
-4.0K -rw-r--r-- 1 root root  350 May 19 03:02 packages/blitzmax-mode-20200415.1529.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:02 packages/blitzmax-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  840 May 19 03:02 packages/blitzmax-mode-readme.txt
+ 28K -rwxr-xr-x 1 root root  26K Aug 17 09:24 packages/blitzmax-mode-20200415.1529.el
+4.0K -rw-r--r-- 1 root root  350 Aug 17 09:24 packages/blitzmax-mode-20200415.1529.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:24 packages/blitzmax-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  840 Aug 17 09:24 packages/blitzmax-mode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tlikonen/suomalainen-kalenteri.git
 
 Updating /mnt/store/melpa/working/suomalainen-kalenteri/
+Checking out 424ac76e0bbf8c078eb5a0f46650a49b0e40510d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/suomalainen-kalenteri/
-  to /tmp/suomalainen-kalenteriQV5rF6/suomalainen-kalenteri-2020.8.30
+  to /tmp/suomalainen-kalenteriIlv1QN/suomalainen-kalenteri-2020.8.30
     loader.el -> loader.el
     suomalainen-kalenteri-pkg.el -> suomalainen-kalenteri-pkg.el
     suomalainen-kalenteri.el -> suomalainen-kalenteri.el
@@ -14,9 +15,9 @@ Created suomalainen-kalenteri-2020.8.30.tar containing:
   suomalainen-kalenteri-2020.8.30/loader.el
   suomalainen-kalenteri-2020.8.30/suomalainen-kalenteri-pkg.el
   suomalainen-kalenteri-2020.8.30/suomalainen-kalenteri.el
-Built suomalainen-kalenteri in 3.147s, finished at Wed May 19 01:50:40 2021
+Built suomalainen-kalenteri in 3.710s, finished at 2021-08-17T11:36:15+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  400 May 19 01:50 packages-stable/suomalainen-kalenteri-2020.8.30.entry
- 12K -rw-r--r-- 1 root root  10K May 19 01:50 packages-stable/suomalainen-kalenteri-2020.8.30.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/suomalainen-kalenteri-badge.svg
-4.0K -rw-r--r-- 1 root root  295 May 19 01:50 packages-stable/suomalainen-kalenteri-readme.txt
+4.0K -rw-r--r-- 1 root root  400 Aug 17 11:36 packages-stable/suomalainen-kalenteri-2020.8.30.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 11:36 packages-stable/suomalainen-kalenteri-2020.8.30.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/suomalainen-kalenteri-badge.svg
+4.0K -rw-r--r-- 1 root root  295 Aug 17 11:36 packages-stable/suomalainen-kalenteri-readme.txt

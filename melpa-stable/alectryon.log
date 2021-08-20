@@ -1,0 +1,29 @@
+Package: alectryon
+Fetcher: github
+Source:  https://github.com/cpitclaudel/alectryon.git
+
+Updating /mnt/store/melpa/working/alectryon/
+Checking out dceda1731ac650869d89610d8af6246992468b1c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/alectryon/
+  to /tmp/alectryonA4XwXd/alectryon-1.3.1
+  ! etc/elisp/.gitignore -> .gitignore
+  ! etc/elisp/Cask -> Cask
+  ! etc/elisp/alectryon.el -> alectryon.el
+  ! etc/elisp/screenshot => screenshot
+Created alectryon-1.3.1.tar containing:
+  alectryon-1.3.1/
+  alectryon-1.3.1/.gitignore
+  alectryon-1.3.1/Cask
+  alectryon-1.3.1/alectryon-pkg.el
+  alectryon-1.3.1/alectryon.el
+  alectryon-1.3.1/screenshot/
+  alectryon-1.3.1/screenshot/.gitignore
+  alectryon-1.3.1/screenshot/capture.el
+  alectryon-1.3.1/screenshot/example.v
+Built alectryon in 4.556s, finished at 2021-08-17T10:43:51+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  465 Aug 17 10:43 packages-stable/alectryon-1.3.1.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 10:43 packages-stable/alectryon-1.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/alectryon-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:43 packages-stable/alectryon-readme.txt

@@ -3,18 +3,19 @@ Fetcher: git
 Source:  https://framagit.org/steckerhalter/grandshell-theme.git
 
 Updating /mnt/store/melpa/working/grandshell-theme/
+Checking out 22c8df52c0fb8899fa748fa2980947ab38b53380
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/grandshell-theme/
-  to /tmp/grandshell-themebHYjos/grandshell-theme-1.3
+  to /tmp/grandshell-themeXmbENp/grandshell-theme-1.3
     grandshell-theme-pkg.el -> grandshell-theme-pkg.el
     grandshell-theme.el -> grandshell-theme.el
 Created grandshell-theme-1.3.tar containing:
   grandshell-theme-1.3/
   grandshell-theme-1.3/grandshell-theme-pkg.el
   grandshell-theme-1.3/grandshell-theme.el
-Built grandshell-theme in 3.169s, finished at Wed May 19 04:38:31 2021
+Built grandshell-theme in 5.205s, finished at 2021-08-17T11:06:03+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  368 May 19 04:38 packages-stable/grandshell-theme-1.3.entry
- 40K -rw-r--r-- 1 root root  40K May 19 04:38 packages-stable/grandshell-theme-1.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grandshell-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  235 May 19 04:38 packages-stable/grandshell-theme-readme.txt
+4.0K -rw-r--r-- 1 root root  368 Aug 17 11:06 packages-stable/grandshell-theme-1.3.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:06 packages-stable/grandshell-theme-1.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/grandshell-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  235 Aug 17 11:06 packages-stable/grandshell-theme-readme.txt

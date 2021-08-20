@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/mmm-mode.git
 
 Updating /mnt/store/melpa/working/mmm-mode/
+Checking out 8aed53f9aec4bcb9faf5f2b080e863f51d775905
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mmm-mode/
-  to /tmp/mmm-modeH4epkM/mmm-mode-0.5.8
+  to /tmp/mmm-modegPgxUh/mmm-mode-0.5.8
     mmm-auto.el -> mmm-auto.el
     mmm-class.el -> mmm-class.el
     mmm-cmds.el -> mmm-cmds.el
@@ -24,7 +25,7 @@ Copying files (->) and directories (=>)
     mmm-utils.el -> mmm-utils.el
     mmm-vars.el -> mmm-vars.el
     mmm.texinfo -> mmm.texinfo
-Created /tmp/mmm-modeH4epkM/mmm-mode-0.5.8/mmm.info
+Created /tmp/mmm-modegPgxUh/mmm-mode-0.5.8/mmm.info
 Created mmm-mode-0.5.8.tar containing:
   mmm-mode-0.5.8/
   mmm-mode-0.5.8/dir
@@ -47,9 +48,9 @@ Created mmm-mode-0.5.8.tar containing:
   mmm-mode-0.5.8/mmm-utils.el
   mmm-mode-0.5.8/mmm-vars.el
   mmm-mode-0.5.8/mmm.info
-Built mmm-mode in 12.674s, finished at Wed May 19 01:35:43 2021
+Built mmm-mode in 24.288s, finished at 2021-08-17T11:18:53+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  405 May 19 01:35 packages-stable/mmm-mode-0.5.8.entry
-312K -rw-r--r-- 1 root root 310K May 19 01:35 packages-stable/mmm-mode-0.5.8.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/mmm-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 2.2K May 19 01:35 packages-stable/mmm-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  405 Aug 17 11:18 packages-stable/mmm-mode-0.5.8.entry
+312K -rw-r--r-- 1 root root 310K Aug 17 11:18 packages-stable/mmm-mode-0.5.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/mmm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 11:18 packages-stable/mmm-mode-readme.txt

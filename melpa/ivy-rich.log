@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/Yevgnen/ivy-rich.git
 
 Updating /mnt/store/melpa/working/ivy-rich/
+Checking out origin/HEAD
+Checking out 600b8183ed0be8668dcc548cc2c8cb94b001363b
 Note: ivy-rich :files spec is equivalent to the default.
-Built ivy-rich in 9.413s, finished at Wed May 19 03:36:20 2021
+Built ivy-rich in 5.483s, finished at 2021-08-17T10:00:14+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 03:36 packages/ivy-rich-20210409.931.el
-4.0K -rw-r--r-- 1 root root  420 May 19 03:36 packages/ivy-rich-20210409.931.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:36 packages/ivy-rich-badge.svg
-4.0K -rw-r--r-- 1 root root  159 May 19 03:36 packages/ivy-rich-readme.txt
+ 28K -rw-r--r-- 1 root root  27K Aug 17 10:00 packages/ivy-rich-20210409.931.el
+4.0K -rw-r--r-- 1 root root  420 Aug 17 10:00 packages/ivy-rich-20210409.931.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:00 packages/ivy-rich-badge.svg
+4.0K -rw-r--r-- 1 root root  159 Aug 17 10:00 packages/ivy-rich-readme.txt

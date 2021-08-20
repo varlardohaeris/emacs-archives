@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/swift-emacs/flycheck-swift.git
 
 Updating /mnt/store/melpa/working/flycheck-swift/
-Built flycheck-swift in 2.950s, finished at Wed May 19 04:35:16 2021
+Checking out 822d1415eabfd464adc52063f9c44da1c87f0ff9
+Built flycheck-swift in 3.600s, finished at 2021-08-17T11:02:16+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 04:35 packages-stable/flycheck-swift-2.0.el
-4.0K -rw-r--r-- 1 root root  227 May 19 04:35 packages-stable/flycheck-swift-2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-swift-badge.svg
-4.0K -rw-r--r-- 1 root root   38 May 19 04:35 packages-stable/flycheck-swift-readme.txt
+8.0K -rw-r--r-- 1 root root 5.5K Aug 17 11:02 packages-stable/flycheck-swift-2.0.el
+4.0K -rw-r--r-- 1 root root  227 Aug 17 11:02 packages-stable/flycheck-swift-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-swift-badge.svg
+4.0K -rw-r--r-- 1 root root   38 Aug 17 11:02 packages-stable/flycheck-swift-readme.txt

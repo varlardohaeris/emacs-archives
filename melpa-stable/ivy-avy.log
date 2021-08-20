@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/swiper.git
 
 Updating /mnt/store/melpa/working/ivy-avy/
-Built ivy-avy in 3.147s, finished at Wed May 19 04:43:48 2021
+Checking out 0d497f71c676c02867261f7db5b8f82fa8008533
+Built ivy-avy in 4.169s, finished at 2021-08-17T11:12:05+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.7K May 19 04:43 packages-stable/ivy-avy-0.13.4.el
-4.0K -rw-r--r-- 1 root root  388 May 19 04:43 packages-stable/ivy-avy-0.13.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-avy-badge.svg
-4.0K -rw-r--r-- 1 root root   68 May 19 04:43 packages-stable/ivy-avy-readme.txt
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 11:12 packages-stable/ivy-avy-0.13.4.el
+4.0K -rw-r--r-- 1 root root  388 Aug 17 11:12 packages-stable/ivy-avy-0.13.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/ivy-avy-badge.svg
+4.0K -rw-r--r-- 1 root root   68 Aug 17 11:12 packages-stable/ivy-avy-readme.txt

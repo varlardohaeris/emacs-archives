@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/spudlyo/clipetty.git
 
 Updating /mnt/store/melpa/working/clipetty/
-Built clipetty in 3.034s, finished at Wed May 19 04:23:30 2021
+Checking out 8430e1c01ae701fb85bb12703fe59a0f04fd0a6f
+Built clipetty in 3.725s, finished at 2021-08-17T10:48:56+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.5K May 19 04:23 packages-stable/clipetty-0.1.el
-4.0K -rw-r--r-- 1 root root  400 May 19 04:23 packages-stable/clipetty-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/clipetty-badge.svg
-4.0K -rw-r--r-- 1 root root  260 May 19 04:23 packages-stable/clipetty-readme.txt
+ 12K -rw-r--r-- 1 root root 8.5K Aug 17 10:48 packages-stable/clipetty-0.1.el
+4.0K -rw-r--r-- 1 root root  400 Aug 17 10:48 packages-stable/clipetty-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/clipetty-badge.svg
+4.0K -rw-r--r-- 1 root root  260 Aug 17 10:48 packages-stable/clipetty-readme.txt

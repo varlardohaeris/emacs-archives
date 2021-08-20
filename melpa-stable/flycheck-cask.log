@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-cask.git
 
 Updating /mnt/store/melpa/working/flycheck-cask/
-Built flycheck-cask in 2.893s, finished at Wed May 19 04:34:28 2021
+Checking out 7015b23733dc9154922b0dd69544749de9b4e87e
+Built flycheck-cask in 3.763s, finished at 2021-08-17T11:00:55+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.7K May 19 04:34 packages-stable/flycheck-cask-0.4.el
-4.0K -rw-r--r-- 1 root root  423 May 19 04:34 packages-stable/flycheck-cask-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-cask-badge.svg
-4.0K -rw-r--r-- 1 root root  166 May 19 04:34 packages-stable/flycheck-cask-readme.txt
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 11:00 packages-stable/flycheck-cask-0.4.el
+4.0K -rw-r--r-- 1 root root  423 Aug 17 11:00 packages-stable/flycheck-cask-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/flycheck-cask-badge.svg
+4.0K -rw-r--r-- 1 root root  166 Aug 17 11:00 packages-stable/flycheck-cask-readme.txt

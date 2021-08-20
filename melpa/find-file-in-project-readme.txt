@@ -78,10 +78,15 @@ and `find-file-in-current-directory-by-selected'.
 
 `ffip-fix-file-path-at-point' replaces path at point with correct relative/absolute path.
 
+File/directory searching actions are automatically stored into `ffip-find-files-history'.
+Use `ffip-find-files-resume' to replay any previous action.
+The maximum number of items of the history is set in `ffip-find-files-history-max-items'.
+
 `ffip-show-diff' execute the backend from `ffip-diff-backends'.
 The output is in Unified Diff Format and inserted into *ffip-diff* buffer.
 Press "o" or "C-c C-c" or "ENTER" or `M-x ffip-diff-find-file' in the
-buffer to open corresponding file.
+buffer to open corresponding file.  Please note some backends assume that the git cli program
+is added into environment variable PATH.
 
 `ffip-diff-find-file-before-hook' is called before `ffip-diff-find-file'.
 
@@ -90,6 +95,11 @@ buffer to open corresponding file.
 file. The target file could be located by searching `recentf-list'.
 Except this extra feature, `ffip-diff-apply-hunk' is same as `diff-apply-hunk'.
 So `diff-apply-hunk' can be replaced by `ffip-diff-apply-hunk'.
+
+`ffip-diff-filter-hunks-by-file-name' can filter hunks by their file names.
+User input pattern "regex !exclude1 exclude1" means the hunk's file name does match "regex".
+But does not match "exclude1" or "exclude2".;
+Please note in "regex", space represents any string.
 
 If you use `evil-mode', insert below code into ~/.emacs,
   (defun ffip-diff-mode-hook-setup ()
@@ -116,4 +126,4 @@ the executable location by insert below code into ".emacs",
 
 This program works on Windows/Cygwin/Linux/macOS
 
-See https://github.com/technomancy/find-file-in-project for advanced tips.
+See https://github.com/redguardtoo/find-file-in-project for advanced tips.

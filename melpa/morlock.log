@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/tarsius/morlock.git
 
 Updating /mnt/store/melpa/working/morlock/
-Built morlock in 4.107s, finished at Wed May 19 03:45:11 2021
+Checking out origin/HEAD
+Checking out b883d48024ddfffebe2d0dd69f5ed54c617f8834
+Built morlock in 4.977s, finished at 2021-08-17T10:09:35+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.9K May 19 03:45 packages/morlock-20180318.2023.el
-4.0K -rw-r--r-- 1 root root  340 May 19 03:45 packages/morlock-20180318.2023.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:45 packages/morlock-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 03:45 packages/morlock-readme.txt
+4.0K -rw-r--r-- 1 root root 3.9K Aug 17 10:09 packages/morlock-20180318.2023.el
+4.0K -rw-r--r-- 1 root root  340 Aug 17 10:09 packages/morlock-20180318.2023.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:09 packages/morlock-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:09 packages/morlock-readme.txt

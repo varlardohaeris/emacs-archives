@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/ShuguangSun/ess-view-data.git
 
 Updating /mnt/store/melpa/working/ess-view-data/
-Built ess-view-data in 4.591s, finished at Wed May 19 03:17:36 2021
+Checking out origin/HEAD
+Checking out 845412ba57efab1a28fbaf0dcdbe76bdab03f828
+Built ess-view-data in 6.865s, finished at 2021-08-17T09:41:08+0000
  ✓ Success:
- 88K -rw-r--r-- 1 root root  88K May 19 03:17 packages/ess-view-data-20210326.1431.el
-4.0K -rw-r--r-- 1 root root  388 May 19 03:17 packages/ess-view-data-20210326.1431.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:17 packages/ess-view-data-badge.svg
-4.0K -rw-r--r-- 1 root root 2.1K May 19 03:17 packages/ess-view-data-readme.txt
+ 88K -rw-r--r-- 1 root root  88K Aug 17 09:41 packages/ess-view-data-20210603.1412.el
+4.0K -rw-r--r-- 1 root root  388 Aug 17 09:41 packages/ess-view-data-20210603.1412.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:41 packages/ess-view-data-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 09:41 packages/ess-view-data-readme.txt

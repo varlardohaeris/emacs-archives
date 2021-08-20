@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/xuchunyang/eshell-git-prompt.git
 
 Updating /mnt/store/melpa/working/eshell-git-prompt/
-Built eshell-git-prompt in 3.152s, finished at Wed May 19 04:31:39 2021
+Checking out b6bb2d7bd4e393b4170b29891cfefb72ae020aab
+Built eshell-git-prompt in 4.368s, finished at 2021-08-17T10:58:08+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 04:31 packages-stable/eshell-git-prompt-0.1.2.el
-4.0K -rw-r--r-- 1 root root  463 May 19 04:31 packages-stable/eshell-git-prompt-0.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/eshell-git-prompt-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 04:31 packages-stable/eshell-git-prompt-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 10:58 packages-stable/eshell-git-prompt-0.1.2.el
+4.0K -rw-r--r-- 1 root root  463 Aug 17 10:58 packages-stable/eshell-git-prompt-0.1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/eshell-git-prompt-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 10:58 packages-stable/eshell-git-prompt-readme.txt

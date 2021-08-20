@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-php/phpt-mode.git
 
 Updating /mnt/store/melpa/working/phpt-mode/
-Built phpt-mode in 3.733s, finished at Wed May 19 01:42:55 2021
+Checking out 310579e5db57c344460f74239bd1a8fc0d6ddf33
+Built phpt-mode in 3.902s, finished at 2021-08-17T11:27:09+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.0K May 19 01:42 packages-stable/phpt-mode-0.0.1.el
-4.0K -rw-r--r-- 1 root root  438 May 19 01:42 packages-stable/phpt-mode-0.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/phpt-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  215 May 19 01:42 packages-stable/phpt-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 3.0K Aug 17 11:27 packages-stable/phpt-mode-0.0.1.el
+4.0K -rw-r--r-- 1 root root  438 Aug 17 11:27 packages-stable/phpt-mode-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/phpt-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  215 Aug 17 11:27 packages-stable/phpt-mode-readme.txt

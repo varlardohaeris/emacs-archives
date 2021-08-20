@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cireu/emacsql-sqlite3.git
 
 Updating /mnt/store/melpa/working/emacsql-sqlite3/
-Built emacsql-sqlite3 in 2.724s, finished at Wed May 19 04:30:42 2021
+Checking out 3dd781cddb3680d85e1f4fac7fc764bdcc00e78a
+Built emacsql-sqlite3 in 3.946s, finished at 2021-08-17T10:56:56+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.9K May 19 04:30 packages-stable/emacsql-sqlite3-1.0.2.el
-4.0K -rw-r--r-- 1 root root  406 May 19 04:30 packages-stable/emacsql-sqlite3-1.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emacsql-sqlite3-badge.svg
-4.0K -rw-r--r-- 1 root root 2.1K May 19 04:30 packages-stable/emacsql-sqlite3-readme.txt
+ 12K -rw-r--r-- 1 root root 9.9K Aug 17 10:56 packages-stable/emacsql-sqlite3-1.0.2.el
+4.0K -rw-r--r-- 1 root root  406 Aug 17 10:56 packages-stable/emacsql-sqlite3-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/emacsql-sqlite3-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 10:56 packages-stable/emacsql-sqlite3-readme.txt

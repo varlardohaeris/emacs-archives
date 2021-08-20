@@ -1,0 +1,12 @@
+Package: flycheck-languagetool
+Fetcher: github
+Source:  https://github.com/emacs-languagetool/flycheck-languagetool.git
+
+Updating /mnt/store/melpa/working/flycheck-languagetool/
+Checking out 5608a330e09222d05bf0354f1847f537168e22dd
+Built flycheck-languagetool in 7.632s, finished at 2021-08-17T11:01:36+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.6K Aug 17 11:01 packages-stable/flycheck-languagetool-0.2.0.el
+4.0K -rw-r--r-- 1 root root  423 Aug 17 11:01 packages-stable/flycheck-languagetool-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-languagetool-badge.svg
+4.0K -rw-r--r-- 1 root root   36 Aug 17 11:01 packages-stable/flycheck-languagetool-readme.txt

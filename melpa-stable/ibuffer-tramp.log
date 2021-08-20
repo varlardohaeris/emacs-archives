@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/svend/ibuffer-tramp.git
 
 Updating /mnt/store/melpa/working/ibuffer-tramp/
-Built ibuffer-tramp in 3.053s, finished at Wed May 19 04:42:32 2021
+Checking out 1c312baf6e46cc6f09fe8edeef15fef7099afb57
+Built ibuffer-tramp in 3.663s, finished at 2021-08-17T11:10:39+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.4K May 19 04:42 packages-stable/ibuffer-tramp-1.0.0.el
-4.0K -rw-r--r-- 1 root root  345 May 19 04:42 packages-stable/ibuffer-tramp-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/ibuffer-tramp-badge.svg
-4.0K -rw-r--r-- 1 root root  177 May 19 04:42 packages-stable/ibuffer-tramp-readme.txt
+4.0K -rw-r--r-- 1 root root 3.4K Aug 17 11:10 packages-stable/ibuffer-tramp-1.0.0.el
+4.0K -rw-r--r-- 1 root root  345 Aug 17 11:10 packages-stable/ibuffer-tramp-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/ibuffer-tramp-badge.svg
+4.0K -rw-r--r-- 1 root root  177 Aug 17 11:10 packages-stable/ibuffer-tramp-readme.txt

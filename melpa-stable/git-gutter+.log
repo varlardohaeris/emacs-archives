@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/nonsequitur/git-gutter-plus.git
 
 Updating /mnt/store/melpa/working/git-gutter+/
+Checking out f8daebb6569bb116086d8653da3505382e03d940
 Note: git-gutter+ :files spec is equivalent to the default.
-Built git-gutter+ in 2.870s, finished at Wed May 19 04:37:14 2021
+Built git-gutter+ in 3.909s, finished at 2021-08-17T11:04:29+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  46K May 19 04:37 packages-stable/git-gutter+-0.4.el
-4.0K -rw-r--r-- 1 root root  398 May 19 04:37 packages-stable/git-gutter+-0.4.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-gutter+-badge.svg
-4.0K -rw-r--r-- 1 root root   62 May 19 04:37 packages-stable/git-gutter+-readme.txt
+ 48K -rw-r--r-- 1 root root  46K Aug 17 11:04 packages-stable/git-gutter+-0.4.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 11:04 packages-stable/git-gutter+-0.4.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/git-gutter+-badge.svg
+4.0K -rw-r--r-- 1 root root   62 Aug 17 11:04 packages-stable/git-gutter+-readme.txt

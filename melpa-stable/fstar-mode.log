@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/FStarLang/fstar-mode.el.git
 
 Updating /mnt/store/melpa/working/fstar-mode/
+Checking out 3a9be64827bbed8e34d38803b5c44d8d4f6cd688
 Note: fstar-mode :files spec is equivalent to the default.
-Built fstar-mode in 4.289s, finished at Wed May 19 04:36:27 2021
+Built fstar-mode in 4.719s, finished at 2021-08-17T11:03:35+0000
  ✓ Success:
- 52K -rwxr-xr-x 1 root root  50K May 19 04:36 packages-stable/fstar-mode-0.9.4.0.el
-4.0K -rw-r--r-- 1 root root  459 May 19 04:36 packages-stable/fstar-mode-0.9.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fstar-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  324 May 19 04:36 packages-stable/fstar-mode-readme.txt
+ 52K -rwxr-xr-x 1 root root  50K Aug 17 11:03 packages-stable/fstar-mode-0.9.4.0.el
+4.0K -rw-r--r-- 1 root root  459 Aug 17 11:03 packages-stable/fstar-mode-0.9.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fstar-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  324 Aug 17 11:03 packages-stable/fstar-mode-readme.txt

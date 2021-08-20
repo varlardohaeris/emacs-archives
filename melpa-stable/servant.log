@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/cask/servant.git
 
 Updating /mnt/store/melpa/working/servant/
+Checking out 4d2aa8250b54b28e6e7ee4cd5ebd98a33db2c134
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/servant/
-  to /tmp/servanti0CkvC/servant-0.3.0
+  to /tmp/servant5NbmVc/servant-0.3.0
     servant-cli.el -> servant-cli.el
     servant.el -> servant.el
     bin => bin
@@ -16,9 +17,9 @@ Created servant-0.3.0.tar containing:
   servant-0.3.0/servant-cli.el
   servant-0.3.0/servant-pkg.el
   servant-0.3.0/servant.el
-Built servant in 3.304s, finished at Wed May 19 01:48:01 2021
+Built servant in 3.799s, finished at 2021-08-17T11:32:52+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  590 May 19 01:48 packages-stable/servant-0.3.0.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:48 packages-stable/servant-0.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/servant-badge.svg
-4.0K -rw-r--r-- 1 root root  115 May 19 01:48 packages-stable/servant-readme.txt
+4.0K -rw-r--r-- 1 root root  590 Aug 17 11:32 packages-stable/servant-0.3.0.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:32 packages-stable/servant-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:32 packages-stable/servant-badge.svg
+4.0K -rw-r--r-- 1 root root  115 Aug 17 11:32 packages-stable/servant-readme.txt

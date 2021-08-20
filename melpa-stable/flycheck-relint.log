@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/flycheck-relint.git
 
 Updating /mnt/store/melpa/working/flycheck-relint/
-Built flycheck-relint in 2.930s, finished at Wed May 19 04:35:14 2021
+Checking out d1e54d4bfdb12d0b60a1b9a8c2b11799426ddc57
+Built flycheck-relint in 3.986s, finished at 2021-08-17T11:02:13+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.6K May 19 04:35 packages-stable/flycheck-relint-0.6.el
-4.0K -rw-r--r-- 1 root root  443 May 19 04:35 packages-stable/flycheck-relint-0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-relint-badge.svg
-4.0K -rw-r--r-- 1 root root  216 May 19 04:35 packages-stable/flycheck-relint-readme.txt
+4.0K -rw-r--r-- 1 root root 3.6K Aug 17 11:02 packages-stable/flycheck-relint-0.6.el
+4.0K -rw-r--r-- 1 root root  443 Aug 17 11:02 packages-stable/flycheck-relint-0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-relint-badge.svg
+4.0K -rw-r--r-- 1 root root  216 Aug 17 11:02 packages-stable/flycheck-relint-readme.txt

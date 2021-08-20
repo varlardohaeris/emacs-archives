@@ -7,7 +7,7 @@
 		      (avy
 		       (0 5)))
 		     "Use avy to jump to Embark Collect entries" single
-		     ((:commit . "0086413ef295025bde774157763e00746ee8fbf6")
+		     ((:commit . "7c6172cd1578fb7711591cf890c10ed2234226bd")
 		      (:authors
 		       ("Omar Antolín Camarena" . "omar@matem.unam.mx"))
 		      (:maintainer "Omar Antolín Camarena" . "omar@matem.unam.mx")

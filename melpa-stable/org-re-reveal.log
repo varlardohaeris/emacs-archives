@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/oer/org-re-reveal.git
 
 Updating /mnt/store/melpa/working/org-re-reveal/
+Checking out 4538c06fab9a7259aa1fb40e93a43dcfacef27c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-re-reveal/
-  to /tmp/org-re-reveal065dBo/org-re-reveal-3.9.0
+  to /tmp/org-re-revealof011P/org-re-reveal-3.9.0
     org-re-reveal.el -> org-re-reveal.el
     ox-re-reveal.el -> ox-re-reveal.el
 Created org-re-reveal-3.9.0.tar containing:
@@ -13,14 +14,14 @@ Created org-re-reveal-3.9.0.tar containing:
   org-re-reveal-3.9.0/org-re-reveal-pkg.el
   org-re-reveal-3.9.0/org-re-reveal.el
   org-re-reveal-3.9.0/ox-re-reveal.el
-Built org-re-reveal in 3.187s, finished at Wed May 19 01:39:53 2021
+Built org-re-reveal in 4.128s, finished at 2021-08-17T11:23:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  338 May 19 01:39 packages-stable/org-re-reveal-3.9.0.entry
-120K -rw-r--r-- 1 root root 120K May 19 01:39 packages-stable/org-re-reveal-3.9.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-re-reveal-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 01:39 packages-stable/org-re-reveal-readme.txt
-4.0K -rw-r--r-- 1 root root  494 May 18 22:25 packages-stable/org-re-reveal-ref-1.0.0.entry
- 60K -rw-r--r-- 1 root root  60K May 18 22:25 packages-stable/org-re-reveal-ref-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:25 packages-stable/org-re-reveal-ref-badge.svg
-4.0K -rw-r--r-- 1 root root 2.0K May 18 22:25 packages-stable/org-re-reveal-ref-readme.txt
-4.0K -rw-r--r-- 1 root root  440 May 19 01:39 packages-stable/org-re-reveal-ref.log
+4.0K -rw-r--r-- 1 root root  338 Aug 17 11:23 packages-stable/org-re-reveal-3.9.0.entry
+120K -rw-r--r-- 1 root root 120K Aug 17 11:23 packages-stable/org-re-reveal-3.9.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:23 packages-stable/org-re-reveal-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 11:23 packages-stable/org-re-reveal-readme.txt
+4.0K -rw-r--r-- 1 root root  494 Aug 17 07:58 packages-stable/org-re-reveal-ref-1.0.0.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 07:58 packages-stable/org-re-reveal-ref-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:58 packages-stable/org-re-reveal-ref-badge.svg
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 07:58 packages-stable/org-re-reveal-ref-readme.txt
+4.0K -rw-r--r-- 1 root root  205 Aug 17 11:23 packages-stable/org-re-reveal-ref.log

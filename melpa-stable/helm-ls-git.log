@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-ls-git.git
 
 Updating /mnt/store/melpa/working/helm-ls-git/
-Built helm-ls-git in 2.638s, finished at Wed May 19 04:40:39 2021
+Checking out a27af060286f4f955d66f38171022324fb588817
+Built helm-ls-git in 4.430s, finished at 2021-08-17T11:08:27+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  23K May 19 04:40 packages-stable/helm-ls-git-1.9.1.el
-4.0K -rw-r--r-- 1 root root  154 May 19 04:40 packages-stable/helm-ls-git-1.9.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-ls-git-badge.svg
+ 24K -rw-r--r-- 1 root root  23K Aug 17 11:08 packages-stable/helm-ls-git-1.9.1.el
+4.0K -rw-r--r-- 1 root root  154 Aug 17 11:08 packages-stable/helm-ls-git-1.9.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-ls-git-badge.svg

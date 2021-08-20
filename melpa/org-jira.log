@@ -3,21 +3,23 @@ Fetcher: github
 Source:  https://github.com/ahungry/org-jira.git
 
 Updating /mnt/store/melpa/working/org-jira/
+Checking out origin/HEAD
+Checking out 9de4310c3e853f76aa47bc5bf2dc404d4cf3226b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-jira/
-  to /tmp/org-jiraWV0I9V/org-jira-20210514.1352
+  to /tmp/org-jira0nDZ1G/org-jira-20210813.1834
     jiralib.el -> jiralib.el
     org-jira.el -> org-jira.el
     org-jira-sdk.el -> org-jira-sdk.el
-Created org-jira-20210514.1352.tar containing:
-  org-jira-20210514.1352/
-  org-jira-20210514.1352/jiralib.el
-  org-jira-20210514.1352/org-jira-pkg.el
-  org-jira-20210514.1352/org-jira-sdk.el
-  org-jira-20210514.1352/org-jira.el
-Built org-jira in 3.941s, finished at Wed May 19 03:50:32 2021
+Created org-jira-20210813.1834.tar containing:
+  org-jira-20210813.1834/
+  org-jira-20210813.1834/jiralib.el
+  org-jira-20210813.1834/org-jira-pkg.el
+  org-jira-20210813.1834/org-jira-sdk.el
+  org-jira-20210813.1834/org-jira.el
+Built org-jira in 4.258s, finished at 2021-08-17T10:15:09+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  411 May 19 03:50 packages/org-jira-20210514.1352.entry
-172K -rw-r--r-- 1 root root 170K May 19 03:50 packages/org-jira-20210514.1352.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:50 packages/org-jira-badge.svg
-4.0K -rw-r--r-- 1 root root   83 May 19 03:50 packages/org-jira-readme.txt
+4.0K -rw-r--r-- 1 root root  411 Aug 17 10:15 packages/org-jira-20210813.1834.entry
+172K -rw-r--r-- 1 root root 170K Aug 17 10:15 packages/org-jira-20210813.1834.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:15 packages/org-jira-badge.svg
+4.0K -rw-r--r-- 1 root root   83 Aug 17 10:15 packages/org-jira-readme.txt

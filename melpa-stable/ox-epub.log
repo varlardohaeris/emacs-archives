@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ofosos/ox-epub.git
 
 Updating /mnt/store/melpa/working/ox-epub/
-Built ox-epub in 2.938s, finished at Wed May 19 01:41:20 2021
+Checking out 3d958203e169cbfb2204c43cb4c5543befec0b9d
+Built ox-epub in 3.668s, finished at 2021-08-17T11:25:21+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  25K May 19 01:41 packages-stable/ox-epub-0.3.el
-4.0K -rw-r--r-- 1 root root  355 May 19 01:41 packages-stable/ox-epub-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-epub-badge.svg
-4.0K -rw-r--r-- 1 root root  572 May 19 01:41 packages-stable/ox-epub-readme.txt
+ 28K -rw-r--r-- 1 root root  25K Aug 17 11:25 packages-stable/ox-epub-0.3.el
+4.0K -rw-r--r-- 1 root root  355 Aug 17 11:25 packages-stable/ox-epub-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/ox-epub-badge.svg
+4.0K -rw-r--r-- 1 root root  572 Aug 17 11:25 packages-stable/ox-epub-readme.txt

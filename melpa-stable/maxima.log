@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/sasanidas/maxima.git
 
 Updating /mnt/store/melpa/working/maxima/
+Checking out 8d643a1776523ef1a6e0bff0bb0a390772fcc77d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/maxima/
-  to /tmp/maximasKALI4/maxima-0.7.6
+  to /tmp/maximauvuvrd/maxima-0.7.6
     maxima.el -> maxima.el
     maxima-font-lock.el -> maxima-font-lock.el
     keywords/constants -> keywords/constants
@@ -38,9 +39,9 @@ Created maxima-0.7.6.tar containing:
   maxima-0.7.6/maxima-font-lock.el
   maxima-0.7.6/maxima-pkg.el
   maxima-0.7.6/maxima.el
-Built maxima in 7.558s, finished at Wed May 19 01:34:29 2021
+Built maxima in 4.037s, finished at 2021-08-17T11:17:43+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  408 May 19 01:34 packages-stable/maxima-0.7.6.entry
-192K -rw-r--r-- 1 root root 190K May 19 01:34 packages-stable/maxima-0.7.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/maxima-badge.svg
-4.0K -rw-r--r-- 1 root root  572 May 19 01:34 packages-stable/maxima-readme.txt
+4.0K -rw-r--r-- 1 root root  408 Aug 17 11:17 packages-stable/maxima-0.7.6.entry
+192K -rw-r--r-- 1 root root 190K Aug 17 11:17 packages-stable/maxima-0.7.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/maxima-badge.svg
+4.0K -rw-r--r-- 1 root root  572 Aug 17 11:17 packages-stable/maxima-readme.txt

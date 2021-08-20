@@ -3,26 +3,27 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-org.git
 
 Updating /mnt/store/melpa/working/helm-org/
+Checking out ec95825a7f235e37778aacf03bcee64f2cd49f9e
 Note: helm-org :files spec is equivalent to the default.
-Built helm-org in 3.340s, finished at Wed May 19 04:40:48 2021
+Built helm-org in 5.003s, finished at 2021-08-17T11:08:41+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  21K May 19 04:40 packages-stable/helm-org-1.0.el
-4.0K -rw-r--r-- 1 root root  398 May 19 04:40 packages-stable/helm-org-1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-org-badge.svg
- 12K -rw-r--r-- 1 root root  11K May 19 04:40 packages-stable/helm-org-multi-wiki-0.4.0.el
-4.0K -rw-r--r-- 1 root root  511 May 19 04:40 packages-stable/helm-org-multi-wiki-0.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-org-multi-wiki-badge.svg
-4.0K -rw-r--r-- 1 root root   58 May 19 04:40 packages-stable/helm-org-multi-wiki-readme.txt
-4.0K -rw-r--r-- 1 root root  613 May 19 04:40 packages-stable/helm-org-multi-wiki.log
- 12K -rw-r--r-- 1 root root 8.5K May 19 04:40 packages-stable/helm-org-ql-0.5.el
-4.0K -rw-r--r-- 1 root root  313 May 19 01:26 packages-stable/helm-org-ql-0.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-org-ql-badge.svg
-4.0K -rw-r--r-- 1 root root  293 May 19 01:26 packages-stable/helm-org-ql-readme.txt
-4.0K -rw-r--r-- 1 root root  134 May 19 04:40 packages-stable/helm-org-ql.log
-4.0K -rw-r--r-- 1 root root   48 May 19 04:40 packages-stable/helm-org-readme.txt
-4.0K -rw-r--r-- 1 root root  284 May 19 04:40 packages-stable/helm-org-recent-headings.log
- 84K -rw-r--r-- 1 root root  82K May 19 01:26 packages-stable/helm-org-rifle-1.7.1.el
-4.0K -rw-r--r-- 1 root root  460 May 19 01:26 packages-stable/helm-org-rifle-1.7.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:26 packages-stable/helm-org-rifle-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:26 packages-stable/helm-org-rifle-readme.txt
-4.0K -rw-r--r-- 1 root root  143 May 19 04:40 packages-stable/helm-org-rifle.log
+ 24K -rw-r--r-- 1 root root  21K Aug 17 11:08 packages-stable/helm-org-1.0.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 11:08 packages-stable/helm-org-1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-org-badge.svg
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:08 packages-stable/helm-org-multi-wiki-0.4.0.el
+4.0K -rw-r--r-- 1 root root  511 Aug 17 11:08 packages-stable/helm-org-multi-wiki-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:41 packages-stable/helm-org-multi-wiki-badge.svg
+4.0K -rw-r--r-- 1 root root   58 Aug 17 11:08 packages-stable/helm-org-multi-wiki-readme.txt
+4.0K -rw-r--r-- 1 root root  209 Aug 17 11:08 packages-stable/helm-org-multi-wiki.log
+ 12K -rw-r--r-- 1 root root 8.5K Aug 17 11:08 packages-stable/helm-org-ql-0.5.2.el
+4.0K -rw-r--r-- 1 root root  315 Aug 17 07:41 packages-stable/helm-org-ql-0.5.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:41 packages-stable/helm-org-ql-badge.svg
+4.0K -rw-r--r-- 1 root root  293 Aug 17 07:41 packages-stable/helm-org-ql-readme.txt
+4.0K -rw-r--r-- 1 root root  188 Aug 17 11:08 packages-stable/helm-org-ql.log
+4.0K -rw-r--r-- 1 root root   48 Aug 17 11:08 packages-stable/helm-org-readme.txt
+4.0K -rw-r--r-- 1 root root  227 Aug 17 11:08 packages-stable/helm-org-recent-headings.log
+ 84K -rw-r--r-- 1 root root  82K Aug 17 07:41 packages-stable/helm-org-rifle-1.7.1.el
+4.0K -rw-r--r-- 1 root root  460 Aug 17 07:41 packages-stable/helm-org-rifle-1.7.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:41 packages-stable/helm-org-rifle-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 07:41 packages-stable/helm-org-rifle-readme.txt
+4.0K -rw-r--r-- 1 root root  143 Aug 17 11:08 packages-stable/helm-org-rifle.log

@@ -1,0 +1,6 @@
+Package: tubestatus
+Fetcher: github
+Source:  https://github.com/smallwat3r/tubestatus.el.git
+
+Updating /mnt/store/melpa/working/tubestatus/
+No valid stable versions found for tubestatus

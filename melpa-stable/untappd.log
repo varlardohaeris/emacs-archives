@@ -1,0 +1,6 @@
+Package: untappd
+Fetcher: github
+Source:  https://github.com/smallwat3r/untappd.el.git
+
+Updating /mnt/store/melpa/working/untappd/
+No valid stable versions found for untappd

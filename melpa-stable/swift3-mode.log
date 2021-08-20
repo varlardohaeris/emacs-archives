@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/taku0/swift3-mode.git
 
 Updating /mnt/store/melpa/working/swift3-mode/
+Checking out ea34d46bf9a4293e75ffdac9500d34989316d9e9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/swift3-mode/
-  to /tmp/swift3-mode6FSFEZ/swift3-mode-2.1.1
+  to /tmp/swift3-modenpMUYW/swift3-mode-2.1.1
     swift3-mode-beginning-of-defun.el -> swift3-mode-beginning-of-defun.el
     swift3-mode-font-lock.el -> swift3-mode-font-lock.el
     swift3-mode-indent.el -> swift3-mode-indent.el
@@ -21,9 +22,9 @@ Created swift3-mode-2.1.1.tar containing:
   swift3-mode-2.1.1/swift3-mode-pkg.el
   swift3-mode-2.1.1/swift3-mode-repl.el
   swift3-mode-2.1.1/swift3-mode.el
-Built swift3-mode in 2.787s, finished at Wed May 19 01:50:49 2021
+Built swift3-mode in 3.789s, finished at 2021-08-17T11:36:25+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  282 May 19 01:50 packages-stable/swift3-mode-2.1.1.entry
-112K -rw-r--r-- 1 root root 110K May 19 01:50 packages-stable/swift3-mode-2.1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:50 packages-stable/swift3-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   51 May 19 01:50 packages-stable/swift3-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  282 Aug 17 11:36 packages-stable/swift3-mode-2.1.1.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 11:36 packages-stable/swift3-mode-2.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/swift3-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   51 Aug 17 11:36 packages-stable/swift3-mode-readme.txt

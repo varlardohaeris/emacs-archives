@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/plandes/flex-compile.git
 
 Updating /mnt/store/melpa/working/flex-compile/
+Checking out 049903998e8bfda01a4be087247b23567eba0c7f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flex-compile/
-  to /tmp/flex-compile2uVuGg/flex-compile-0.7
+  to /tmp/flex-compilebkoWtS/flex-compile-0.7
     flex-compile-base.el -> flex-compile-base.el
     flex-compile-choice-program.el -> flex-compile-choice-program.el
     flex-compile-clojure.el -> flex-compile-clojure.el
@@ -43,9 +44,9 @@ Created flex-compile-0.7.tar containing:
   flex-compile-0.7/flex-compile-xml-validate.el
   flex-compile-0.7/flex-compile.el
   flex-compile-0.7/flex-compiler.el
-Built flex-compile in 3.333s, finished at Wed May 19 04:34:16 2021
+Built flex-compile in 4.120s, finished at 2021-08-17T11:00:41+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  405 May 19 04:34 packages-stable/flex-compile-0.7.entry
-120K -rw-r--r-- 1 root root 120K May 19 04:34 packages-stable/flex-compile-0.7.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flex-compile-badge.svg
-4.0K -rw-r--r-- 1 root root  418 May 19 04:34 packages-stable/flex-compile-readme.txt
+4.0K -rw-r--r-- 1 root root  405 Aug 17 11:00 packages-stable/flex-compile-0.7.entry
+120K -rw-r--r-- 1 root root 120K Aug 17 11:00 packages-stable/flex-compile-0.7.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/flex-compile-badge.svg
+4.0K -rw-r--r-- 1 root root  418 Aug 17 11:00 packages-stable/flex-compile-readme.txt

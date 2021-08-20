@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/victorhge/iedit.git
 
 Updating /mnt/store/melpa/working/iedit/
+Checking out 39919478f9472ce7a808ca601f4c19261ecc2f99
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/iedit/
-  to /tmp/ieditQPlL4A/iedit-0.9.9.9
+  to /tmp/iedit3Az1Bo/iedit-0.9.9.9
     iedit-lib.el -> iedit-lib.el
     iedit-rect.el -> iedit-rect.el
     iedit.el -> iedit.el
@@ -15,9 +16,9 @@ Created iedit-0.9.9.9.tar containing:
   iedit-0.9.9.9/iedit-pkg.el
   iedit-0.9.9.9/iedit-rect.el
   iedit-0.9.9.9/iedit.el
-Built iedit in 3.131s, finished at Wed May 19 04:42:51 2021
+Built iedit in 3.876s, finished at 2021-08-17T11:11:00+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  375 May 19 04:42 packages-stable/iedit-0.9.9.9.entry
- 92K -rw-r--r-- 1 root root  90K May 19 04:42 packages-stable/iedit-0.9.9.9.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/iedit-badge.svg
-4.0K -rw-r--r-- 1 root root 1.9K May 19 04:42 packages-stable/iedit-readme.txt
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:10 packages-stable/iedit-0.9.9.9.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 11:10 packages-stable/iedit-0.9.9.9.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/iedit-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 11:10 packages-stable/iedit-readme.txt

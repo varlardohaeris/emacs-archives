@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/akirak/nix-env-install.git
 
 Updating /mnt/store/melpa/working/nix-env-install/
-Built nix-env-install in 4.182s, finished at Wed May 19 03:47:06 2021
+Checking out origin/HEAD
+Checking out 79c34bc117ba1cebeb67fab32c364951d2ec37a0
+Built nix-env-install in 4.726s, finished at 2021-08-17T10:11:50+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 03:47 packages/nix-env-install-20200812.1305.el
-4.0K -rw-r--r-- 1 root root  403 May 19 03:47 packages/nix-env-install-20200812.1305.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:47 packages/nix-env-install-badge.svg
-4.0K -rw-r--r-- 1 root root   54 May 19 03:47 packages/nix-env-install-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 10:11 packages/nix-env-install-20200812.1305.el
+4.0K -rw-r--r-- 1 root root  403 Aug 17 10:11 packages/nix-env-install-20200812.1305.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:11 packages/nix-env-install-badge.svg
+4.0K -rw-r--r-- 1 root root   54 Aug 17 10:11 packages/nix-env-install-readme.txt

@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/edran/hc-zenburn-emacs.git
 
 Updating /mnt/store/melpa/working/hc-zenburn-theme/
+Checking out 3e9f82f83c0c5fbd0b7634fc601ccf63e95618db
 No matching file(s) found in /mnt/store/melpa/working/hc-zenburn-theme/: (hc-zenburn-theme.el)

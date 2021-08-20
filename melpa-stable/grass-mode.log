@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/plantarum/grass-mode.git
 
 Updating /mnt/store/melpa/working/grass-mode/
-Built grass-mode in 4.187s, finished at Wed May 19 04:38:37 2021
+Checking out 23ca856ca979fec0f90196b357f2b74fe1cc3a73
+Built grass-mode in 3.602s, finished at 2021-08-17T11:06:09+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  37K May 19 04:38 packages-stable/grass-mode-0.1.el
-4.0K -rw-r--r-- 1 root root  357 May 19 04:38 packages-stable/grass-mode-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grass-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  218 May 19 04:38 packages-stable/grass-mode-readme.txt
+ 40K -rw-r--r-- 1 root root  37K Aug 17 11:06 packages-stable/grass-mode-0.1.el
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:06 packages-stable/grass-mode-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/grass-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  218 Aug 17 11:06 packages-stable/grass-mode-readme.txt

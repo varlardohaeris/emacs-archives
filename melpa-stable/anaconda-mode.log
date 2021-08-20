@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/pythonic-emacs/anaconda-mode.git
 
 Updating /mnt/store/melpa/working/anaconda-mode/
+Checking out 80afec20f91f13614647b192522fff460505db6f
 Note: anaconda-mode :files spec is equivalent to the default.
-Built anaconda-mode in 3.555s, finished at Wed May 19 04:19:20 2021
+Built anaconda-mode in 4.295s, finished at 2021-08-17T10:44:08+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  35K May 19 04:19 packages-stable/anaconda-mode-0.1.14.el
-4.0K -rw-r--r-- 1 root root  458 May 19 04:19 packages-stable/anaconda-mode-0.1.14.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/anaconda-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   33 May 19 04:19 packages-stable/anaconda-mode-readme.txt
+ 40K -rw-r--r-- 1 root root  35K Aug 17 10:44 packages-stable/anaconda-mode-0.1.14.el
+4.0K -rw-r--r-- 1 root root  458 Aug 17 10:44 packages-stable/anaconda-mode-0.1.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/anaconda-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   33 Aug 17 10:44 packages-stable/anaconda-mode-readme.txt

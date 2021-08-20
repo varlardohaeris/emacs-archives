@@ -3,9 +3,11 @@ Fetcher: gitlab
 Source:  https://gitlab.com/ligolang/ligo.git
 
 Updating /mnt/store/melpa/working/ligo-mode/
-Built ligo-mode in 7.289s, finished at Wed May 19 03:40:07 2021
+Checking out origin/HEAD
+Checking out fdd2caaf0f851be6766b7d472e31d6cdd3ac5cd7
+Built ligo-mode in 7.586s, finished at 2021-08-17T10:04:07+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 03:40 packages/ligo-mode-20210303.1751.el
-4.0K -rw-r--r-- 1 root root  364 May 19 03:40 packages/ligo-mode-20210303.1751.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:40 packages/ligo-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  375 May 19 03:40 packages/ligo-mode-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 10:04 packages/ligo-mode-20210303.1751.el
+4.0K -rw-r--r-- 1 root root  364 Aug 17 10:04 packages/ligo-mode-20210303.1751.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:04 packages/ligo-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  375 Aug 17 10:04 packages/ligo-mode-readme.txt

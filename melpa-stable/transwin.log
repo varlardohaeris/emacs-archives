@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/transwin.git
 
 Updating /mnt/store/melpa/working/transwin/
-Built transwin in 3.021s, finished at Wed May 19 01:52:42 2021
+Checking out 20694aae145edd6ad496a395ef1a53ab37a59521
+Built transwin in 4.266s, finished at 2021-08-17T11:38:10+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.0K May 19 01:52 packages-stable/transwin-0.1.3.el
-4.0K -rw-r--r-- 1 root root  337 May 19 01:52 packages-stable/transwin-0.1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/transwin-badge.svg
-4.0K -rw-r--r-- 1 root root   32 May 19 01:52 packages-stable/transwin-readme.txt
+8.0K -rw-r--r-- 1 root root 5.0K Aug 17 11:38 packages-stable/transwin-0.1.3.el
+4.0K -rw-r--r-- 1 root root  337 Aug 17 11:38 packages-stable/transwin-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/transwin-badge.svg
+4.0K -rw-r--r-- 1 root root   32 Aug 17 11:38 packages-stable/transwin-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/zevlg/multitran.el.git
 
 Updating /mnt/store/melpa/working/multitran/
-Built multitran in 3.843s, finished at Wed May 19 01:36:37 2021
+Checking out c34536186088f29d4e85631825e7c6d557a8d0fa
+Built multitran in 4.770s, finished at 2021-08-17T11:20:03+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 01:36 packages-stable/multitran-0.4.10.el
-4.0K -rw-r--r-- 1 root root  345 May 19 01:36 packages-stable/multitran-0.4.10.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/multitran-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/multitran-readme.txt
+ 32K -rw-r--r-- 1 root root  29K Aug 17 11:20 packages-stable/multitran-0.4.11.el
+4.0K -rw-r--r-- 1 root root  345 Aug 17 11:20 packages-stable/multitran-0.4.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/multitran-badge.svg
+4.0K -rw-r--r-- 1 root root 1020 Aug 17 11:20 packages-stable/multitran-readme.txt

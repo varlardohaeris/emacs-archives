@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/vedang/pdf-tools.git
 
 Updating /mnt/store/melpa/working/pdf-tools/
+Checking out af1a5949c2dae59ffcbcf21cc4299fa2fc57ce72
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pdf-tools/
-  to /tmp/pdf-tools24mFVM/pdf-tools-0.90
+  to /tmp/pdf-tools7SMK6j/pdf-tools-0.90
   ! lisp/pdf-annot.el -> pdf-annot.el
   ! lisp/pdf-cache.el -> pdf-cache.el
   ! lisp/pdf-dev.el -> pdf-dev.el
@@ -86,9 +87,9 @@ Created pdf-tools-0.90.tar containing:
   pdf-tools-0.90/pdf-util.el
   pdf-tools-0.90/pdf-view.el
   pdf-tools-0.90/pdf-virtual.el
-Built pdf-tools in 3.237s, finished at Wed May 19 01:42:25 2021
+Built pdf-tools in 4.315s, finished at 2021-08-17T11:26:35+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  390 May 19 01:42 packages-stable/pdf-tools-0.90.entry
-860K -rw-r--r-- 1 root root 860K May 19 01:42 packages-stable/pdf-tools-0.90.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/pdf-tools-badge.svg
-4.0K -rw-r--r-- 1 root root 1.7K May 19 01:42 packages-stable/pdf-tools-readme.txt
+4.0K -rw-r--r-- 1 root root  390 Aug 17 11:26 packages-stable/pdf-tools-0.90.entry
+860K -rw-r--r-- 1 root root 860K Aug 17 11:26 packages-stable/pdf-tools-0.90.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/pdf-tools-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Aug 17 11:26 packages-stable/pdf-tools-readme.txt

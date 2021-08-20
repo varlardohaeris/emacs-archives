@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/lassik/emacs-posix-manual.git
 
 Updating /mnt/store/melpa/working/posix-manual/
+Checking out bc878e5f139188f46eb0577add0a2c6bf920de96
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/posix-manual/
-  to /tmp/posix-manualw8tVXf/posix-manual-0.1
+  to /tmp/posix-manualqT5GFd/posix-manual-0.1
     posix-manual-data.el -> posix-manual-data.el
     posix-manual.el -> posix-manual.el
 Created posix-manual-0.1.tar containing:
@@ -13,9 +14,9 @@ Created posix-manual-0.1.tar containing:
   posix-manual-0.1/posix-manual-data.el
   posix-manual-0.1/posix-manual-pkg.el
   posix-manual-0.1/posix-manual.el
-Built posix-manual in 2.861s, finished at Wed May 19 01:43:50 2021
+Built posix-manual in 4.112s, finished at 2021-08-17T11:28:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  357 May 19 01:43 packages-stable/posix-manual-0.1.entry
-120K -rw-r--r-- 1 root root 120K May 19 01:43 packages-stable/posix-manual-0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/posix-manual-badge.svg
-4.0K -rw-r--r-- 1 root root  129 May 19 01:43 packages-stable/posix-manual-readme.txt
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:28 packages-stable/posix-manual-0.1.entry
+120K -rw-r--r-- 1 root root 120K Aug 17 11:28 packages-stable/posix-manual-0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/posix-manual-badge.svg
+4.0K -rw-r--r-- 1 root root  129 Aug 17 11:28 packages-stable/posix-manual-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/yasuyk/flymake-gjshint-el.git
 
 Updating /mnt/store/melpa/working/flymake-gjshint/
-Built flymake-gjshint in 3.428s, finished at Wed May 19 04:35:30 2021
+Checking out 6b751b204ab6e029fe81cad1c3c6c715f27dc49d
+Built flymake-gjshint in 4.228s, finished at 2021-08-17T11:02:33+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.7K May 19 04:35 packages-stable/flymake-gjshint-0.0.6.el
-4.0K -rw-r--r-- 1 root root  348 May 19 04:35 packages-stable/flymake-gjshint-0.0.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flymake-gjshint-badge.svg
-4.0K -rw-r--r-- 1 root root  553 May 19 04:35 packages-stable/flymake-gjshint-readme.txt
+8.0K -rw-r--r-- 1 root root 7.7K Aug 17 11:02 packages-stable/flymake-gjshint-0.0.6.el
+4.0K -rw-r--r-- 1 root root  348 Aug 17 11:02 packages-stable/flymake-gjshint-0.0.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flymake-gjshint-badge.svg
+4.0K -rw-r--r-- 1 root root  553 Aug 17 11:02 packages-stable/flymake-gjshint-readme.txt

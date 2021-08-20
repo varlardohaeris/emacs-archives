@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/twlz0ne/separedit.el.git
 
 Updating /mnt/store/melpa/working/separedit/
+Checking out origin/HEAD
+Checking out 4fbbd85c0f809593f6d26edf1388ff059f77e82f
 Note: separedit :files spec is equivalent to the default.
-Built separedit in 5.057s, finished at Wed May 19 04:03:13 2021
+Built separedit in 5.511s, finished at 2021-08-17T10:28:31+0000
  ✓ Success:
- 72K -rw-r--r-- 1 root root  70K May 19 04:03 packages/separedit-20210420.1527.el
-4.0K -rw-r--r-- 1 root root  491 May 19 04:03 packages/separedit-20210420.1527.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:03 packages/separedit-badge.svg
- 12K -rw-r--r-- 1 root root 9.4K May 19 04:03 packages/separedit-readme.txt
+ 76K -rw-r--r-- 1 root root  75K Aug 17 10:28 packages/separedit-20210630.1805.el
+4.0K -rw-r--r-- 1 root root  491 Aug 17 10:28 packages/separedit-20210630.1805.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:28 packages/separedit-badge.svg
+ 12K -rw-r--r-- 1 root root 9.9K Aug 17 10:28 packages/separedit-readme.txt

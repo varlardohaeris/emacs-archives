@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/direx.git
 
 Updating /mnt/store/melpa/working/direx/
+Checking out 423caeed13249e37afc937dc8134cb3c53e0f111
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/direx/
-  to /tmp/direxs85Zu9/direx-1.0.0
+  to /tmp/direxUbPeUA/direx-1.0.0
     direx-project.el -> direx-project.el
     direx.el -> direx.el
 Created direx-1.0.0.tar containing:
@@ -13,14 +14,14 @@ Created direx-1.0.0.tar containing:
   direx-1.0.0/direx-pkg.el
   direx-1.0.0/direx-project.el
   direx-1.0.0/direx.el
-Built direx in 2.847s, finished at Wed May 19 04:28:07 2021
+Built direx in 4.319s, finished at 2021-08-17T10:53:37+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  272 May 19 04:28 packages-stable/direx-1.0.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 04:28 packages-stable/direx-1.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/direx-badge.svg
- 12K -rw-r--r-- 1 root root  11K May 19 01:13 packages-stable/direx-grep-0.1.0.el
-4.0K -rw-r--r-- 1 root root  433 May 19 01:13 packages-stable/direx-grep-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:13 packages-stable/direx-grep-badge.svg
-4.0K -rw-r--r-- 1 root root   65 May 19 01:13 packages-stable/direx-grep-readme.txt
-4.0K -rw-r--r-- 1 root root  132 May 19 04:28 packages-stable/direx-grep.log
-   0 -rw-r--r-- 1 root root    0 May 19 04:28 packages-stable/direx-readme.txt
+4.0K -rw-r--r-- 1 root root  272 Aug 17 10:53 packages-stable/direx-1.0.0.entry
+ 44K -rw-r--r-- 1 root root  40K Aug 17 10:53 packages-stable/direx-1.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/direx-badge.svg
+ 12K -rw-r--r-- 1 root root  11K Aug 17 10:53 packages-stable/direx-grep-0.1.0.el
+4.0K -rw-r--r-- 1 root root  433 Aug 17 10:53 packages-stable/direx-grep-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/direx-grep-badge.svg
+4.0K -rw-r--r-- 1 root root   65 Aug 17 10:53 packages-stable/direx-grep-readme.txt
+4.0K -rw-r--r-- 1 root root  251 Aug 17 10:53 packages-stable/direx-grep.log
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:53 packages-stable/direx-readme.txt

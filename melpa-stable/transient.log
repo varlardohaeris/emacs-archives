@@ -3,23 +3,24 @@ Fetcher: github
 Source:  https://github.com/magit/transient.git
 
 Updating /mnt/store/melpa/working/transient/
+Checking out b89614cc0621563535549baed8572af39b3c6fa8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transient/
-  to /tmp/transientWU7Xai/transient-0.3.2
+  to /tmp/transientbr9NtT/transient-0.3.6
   ! lisp/transient.el -> transient.el
   ! docs/transient.texi -> transient.texi
-Created /tmp/transientWU7Xai/transient-0.3.2/transient.info
-Created transient-0.3.2.tar containing:
-  transient-0.3.2/
-  transient-0.3.2/dir
-  transient-0.3.2/transient-pkg.el
-  transient-0.3.2/transient.el
-  transient-0.3.2/transient.info
-Built transient in 11.177s, finished at Wed May 19 01:52:47 2021
+Created /tmp/transientbr9NtT/transient-0.3.6/transient.info
+Created transient-0.3.6.tar containing:
+  transient-0.3.6/
+  transient-0.3.6/dir
+  transient-0.3.6/transient-pkg.el
+  transient-0.3.6/transient.el
+  transient-0.3.6/transient.info
+Built transient in 11.380s, finished at 2021-08-17T11:38:14+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  354 May 19 01:52 packages-stable/transient-0.3.2.entry
-252K -rw-r--r-- 1 root root 250K May 19 01:52 packages-stable/transient-0.3.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:52 packages-stable/transient-badge.svg
-4.0K -rw-r--r-- 1 root root  198 May 19 01:52 packages-stable/transient-dwim.log
-4.0K -rw-r--r-- 1 root root  215 May 19 01:52 packages-stable/transient-posframe.log
-4.0K -rw-r--r-- 1 root root  994 May 19 01:52 packages-stable/transient-readme.txt
+4.0K -rw-r--r-- 1 root root  354 Aug 17 11:38 packages-stable/transient-0.3.6.entry
+260K -rw-r--r-- 1 root root 260K Aug 17 11:38 packages-stable/transient-0.3.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/transient-badge.svg
+4.0K -rw-r--r-- 1 root root  198 Aug 17 11:38 packages-stable/transient-dwim.log
+4.0K -rw-r--r-- 1 root root  215 Aug 17 11:38 packages-stable/transient-posframe.log
+4.0K -rw-r--r-- 1 root root  994 Aug 17 11:38 packages-stable/transient-readme.txt

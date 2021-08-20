@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rclarey/deno-emacs.git
 
 Updating /mnt/store/melpa/working/deno-fmt/
-Built deno-fmt in 4.006s, finished at Wed May 19 04:27:02 2021
+Checking out ccae334361b9f83b687f040bcdfdc2a58c78059f
+Built deno-fmt in 3.528s, finished at 2021-08-17T10:52:46+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.9K May 19 04:27 packages-stable/deno-fmt-0.1.1.el
-4.0K -rw-r--r-- 1 root root  342 May 19 04:27 packages-stable/deno-fmt-0.1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/deno-fmt-badge.svg
-4.0K -rw-r--r-- 1 root root   62 May 19 04:27 packages-stable/deno-fmt-readme.txt
+4.0K -rw-r--r-- 1 root root 2.9K Aug 17 10:52 packages-stable/deno-fmt-0.1.1.el
+4.0K -rw-r--r-- 1 root root  342 Aug 17 10:52 packages-stable/deno-fmt-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/deno-fmt-badge.svg
+4.0K -rw-r--r-- 1 root root   62 Aug 17 10:52 packages-stable/deno-fmt-readme.txt

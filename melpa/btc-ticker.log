@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/niedbalski/emacs-btc-ticker.git
 
 Updating /mnt/store/melpa/working/btc-ticker/
-Built btc-ticker in 4.992s, finished at Wed May 19 03:03:07 2021
+Checking out origin/HEAD
+Checking out 845235b545f070d0812cd1654cbaa4997565824f
+Built btc-ticker in 4.795s, finished at 2021-08-17T09:25:34+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.7K May 19 03:03 packages/btc-ticker-20151113.1459.el
-4.0K -rw-r--r-- 1 root root  368 May 19 03:03 packages/btc-ticker-20151113.1459.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:03 packages/btc-ticker-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 03:03 packages/btc-ticker-readme.txt
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 09:25 packages/btc-ticker-20151113.1459.el
+4.0K -rw-r--r-- 1 root root  368 Aug 17 09:25 packages/btc-ticker-20151113.1459.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:25 packages/btc-ticker-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 09:25 packages/btc-ticker-readme.txt

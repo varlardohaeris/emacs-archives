@@ -1,11 +1,12 @@
 Package: acme-theme
 Fetcher: github
-Source:  https://github.com/ianpan870102/acme-emacs-theme.git
+Source:  https://github.com/ianyepan/acme-emacs-theme.git
 
 Updating /mnt/store/melpa/working/acme-theme/
-Built acme-theme in 3.182s, finished at Wed May 19 04:18:45 2021
+Checking out 680b2022445861e3e9030a96d9fe587188d778c8
+Built acme-theme in 3.395s, finished at 2021-08-17T10:43:29+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  34K May 19 04:18 packages-stable/acme-theme-1.0.0.el
-4.0K -rw-r--r-- 1 root root  168 May 19 04:18 packages-stable/acme-theme-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/acme-theme-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 04:18 packages-stable/acme-theme-readme.txt
+ 40K -rw-r--r-- 1 root root  34K Aug 17 10:43 packages-stable/acme-theme-1.0.0.el
+4.0K -rw-r--r-- 1 root root  168 Aug 17 10:43 packages-stable/acme-theme-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/acme-theme-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:43 packages-stable/acme-theme-readme.txt

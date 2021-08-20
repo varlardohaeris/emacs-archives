@@ -1,11 +1,12 @@
 Package: line-reminder
 Fetcher: github
-Source:  https://github.com/jcs-elpa/line-reminder.git
+Source:  https://github.com/emacs-vs/line-reminder.git
 
 Updating /mnt/store/melpa/working/line-reminder/
-Built line-reminder in 3.780s, finished at Wed May 19 01:32:19 2021
+Checking out 4d73b84a84227b01b7fbc6f717f6c380682cde2f
+Built line-reminder in 4.648s, finished at 2021-08-17T11:15:27+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  19K May 19 01:32 packages-stable/line-reminder-0.4.5.el
-4.0K -rw-r--r-- 1 root root  378 May 19 01:32 packages-stable/line-reminder-0.4.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/line-reminder-badge.svg
-4.0K -rw-r--r-- 1 root root   46 May 19 01:32 packages-stable/line-reminder-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:15 packages-stable/line-reminder-0.5.0.el
+4.0K -rw-r--r-- 1 root root  409 Aug 17 11:15 packages-stable/line-reminder-0.5.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/line-reminder-badge.svg
+4.0K -rw-r--r-- 1 root root   46 Aug 17 11:15 packages-stable/line-reminder-readme.txt

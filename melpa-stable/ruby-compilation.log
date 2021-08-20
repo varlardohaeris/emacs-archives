@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/eschulte/rinari.git
 
 Updating /mnt/store/melpa/working/ruby-compilation/
-Built ruby-compilation in 3.985s, finished at Wed May 19 01:47:06 2021
+Checking out e2ed2fa55ac3435a86b1cf6a4f2d29aebc309135
+Built ruby-compilation in 4.559s, finished at 2021-08-17T11:31:49+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 01:47 packages-stable/ruby-compilation-2.11.el
-4.0K -rw-r--r-- 1 root root  353 May 19 01:47 packages-stable/ruby-compilation-2.11.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/ruby-compilation-badge.svg
-4.0K -rw-r--r-- 1 root root  358 May 19 01:47 packages-stable/ruby-compilation-readme.txt
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:31 packages-stable/ruby-compilation-2.11.el
+4.0K -rw-r--r-- 1 root root  353 Aug 17 11:31 packages-stable/ruby-compilation-2.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/ruby-compilation-badge.svg
+4.0K -rw-r--r-- 1 root root  358 Aug 17 11:31 packages-stable/ruby-compilation-readme.txt

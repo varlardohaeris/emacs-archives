@@ -1,0 +1,11 @@
+(csharp-mode .
+	     [(0 12 0)
+	      ((emacs
+		(26 1)))
+	      "C# mode derived mode" tar
+	      ((:commit . "69fe52b5908e1b29b2765d7e01cd6a8f0fc16332")
+	       (:authors
+		("Theodor Thornhill" . "theo@thornhill.no"))
+	       (:maintainer "Jostein Kjønigsen" . "jostein@gmail.com")
+	       (:keywords "c#" "languages" "oop" "mode")
+	       (:url . "https://github.com/emacs-csharp/csharp-mode"))])

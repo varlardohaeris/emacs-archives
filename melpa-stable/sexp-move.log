@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/elzair/sexp-move.git
 
 Updating /mnt/store/melpa/working/sexp-move/
-Built sexp-move in 4.074s, finished at Wed May 19 01:48:06 2021
+Checking out 117f7a91ab7c25e438413753e916570122011ce7
+Built sexp-move in 4.664s, finished at 2021-08-17T11:32:59+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.2K May 19 01:48 packages-stable/sexp-move-0.2.6.el
-4.0K -rw-r--r-- 1 root root  357 May 19 01:48 packages-stable/sexp-move-0.2.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/sexp-move-badge.svg
-4.0K -rw-r--r-- 1 root root  240 May 19 01:48 packages-stable/sexp-move-readme.txt
+8.0K -rw-r--r-- 1 root root 6.2K Aug 17 11:32 packages-stable/sexp-move-0.2.6.el
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:32 packages-stable/sexp-move-0.2.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:32 packages-stable/sexp-move-badge.svg
+4.0K -rw-r--r-- 1 root root  240 Aug 17 11:32 packages-stable/sexp-move-readme.txt

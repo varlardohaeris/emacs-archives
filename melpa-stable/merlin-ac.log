@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ocaml/merlin.git
 
 Updating /mnt/store/melpa/working/merlin-ac/
-Built merlin-ac in 9.287s, finished at Wed May 19 01:34:57 2021
+Checking out 55caee534acf364b093653a6108521d57d56af1c
+Built merlin-ac in 4.946s, finished at 2021-08-17T11:17:57+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.1K May 19 01:34 packages-stable/merlin-ac-4.2snapshot412.el
-4.0K -rw-r--r-- 1 root root  569 May 19 01:34 packages-stable/merlin-ac-4.2snapshot412.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/merlin-ac-badge.svg
-4.0K -rw-r--r-- 1 root root  328 May 19 01:34 packages-stable/merlin-ac-readme.txt
+8.0K -rw-r--r-- 1 root root 6.1K Aug 17 11:17 packages-stable/merlin-ac-4.3.1snapshot412.el
+4.0K -rw-r--r-- 1 root root  571 Aug 17 11:17 packages-stable/merlin-ac-4.3.1snapshot412.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/merlin-ac-badge.svg
+4.0K -rw-r--r-- 1 root root  328 Aug 17 11:17 packages-stable/merlin-ac-readme.txt

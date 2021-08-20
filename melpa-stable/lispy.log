@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/abo-abo/lispy.git
 
 Updating /mnt/store/melpa/working/lispy/
+Checking out 9c41bc011ae570283cb286659f75d12d38d437ea
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lispy/
-  to /tmp/lispykRgugg/lispy-0.27.0
+  to /tmp/lispyPpD6Ut/lispy-0.27.0
     elpa.el -> elpa.el
     le-clojure.el -> le-clojure.el
     le-hy.el -> le-hy.el
@@ -34,9 +35,9 @@ Created lispy-0.27.0.tar containing:
   lispy-0.27.0/lispy-python.py
   lispy-0.27.0/lispy-tags.el
   lispy-0.27.0/lispy.el
-Built lispy in 3.565s, finished at Wed May 19 01:32:28 2021
+Built lispy in 4.132s, finished at 2021-08-17T11:15:37+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  423 May 19 01:32 packages-stable/lispy-0.27.0.entry
-452K -rw-r--r-- 1 root root 450K May 19 01:32 packages-stable/lispy-0.27.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lispy-badge.svg
-8.0K -rw-r--r-- 1 root root 4.9K May 19 01:32 packages-stable/lispy-readme.txt
+4.0K -rw-r--r-- 1 root root  423 Aug 17 11:15 packages-stable/lispy-0.27.0.entry
+452K -rw-r--r-- 1 root root 450K Aug 17 11:15 packages-stable/lispy-0.27.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:15 packages-stable/lispy-badge.svg
+8.0K -rw-r--r-- 1 root root 4.9K Aug 17 11:15 packages-stable/lispy-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Sodel-the-Vociferous/helm-company.git
 
 Updating /mnt/store/melpa/working/helm-company/
-Built helm-company in 3.949s, finished at Wed May 19 04:40:02 2021
+Checking out 6eb5c2d730a60e394e005b47c1db018697094dde
+Built helm-company in 7.627s, finished at 2021-08-17T11:07:37+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 04:40 packages-stable/helm-company-0.2.5.el
-4.0K -rw-r--r-- 1 root root  403 May 19 04:40 packages-stable/helm-company-0.2.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-company-badge.svg
-4.0K -rw-r--r-- 1 root root  285 May 19 04:40 packages-stable/helm-company-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 11:07 packages-stable/helm-company-0.2.5.el
+4.0K -rw-r--r-- 1 root root  403 Aug 17 11:07 packages-stable/helm-company-0.2.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:07 packages-stable/helm-company-badge.svg
+4.0K -rw-r--r-- 1 root root  285 Aug 17 11:07 packages-stable/helm-company-readme.txt

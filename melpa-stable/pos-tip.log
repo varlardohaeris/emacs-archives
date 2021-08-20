@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/pitkali/pos-tip.git
 
 Updating /mnt/store/melpa/working/pos-tip/
-Built pos-tip in 3.706s, finished at Wed May 19 01:43:50 2021
+Checking out 1dcafc4aa485238716eb38eace3e0b98a03a94ed
+Built pos-tip in 4.741s, finished at 2021-08-17T11:28:09+0000
  ✓ Success:
- 36K -rw-r--r-- 1 root root  34K May 19 01:43 packages-stable/pos-tip-0.4.6.el
-4.0K -rw-r--r-- 1 root root  208 May 19 01:43 packages-stable/pos-tip-0.4.6.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/pos-tip-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:43 packages-stable/pos-tip-readme.txt
+ 36K -rw-r--r-- 1 root root  34K Aug 17 11:28 packages-stable/pos-tip-0.4.6.el
+4.0K -rw-r--r-- 1 root root  208 Aug 17 11:28 packages-stable/pos-tip-0.4.6.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/pos-tip-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:28 packages-stable/pos-tip-readme.txt

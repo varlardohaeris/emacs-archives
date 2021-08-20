@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/osv/web-completion-data.git
 
 Updating /mnt/store/melpa/working/web-completion-data/
+Checking out c272c94e8a71b779c29653a532f619acad433a4f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/web-completion-data/
-  to /tmp/web-completion-dataWR99bC/web-completion-data-0.2
+  to /tmp/web-completion-dataitARwi/web-completion-data-0.2
     web-completion-data.el -> web-completion-data.el
     html-stuff => html-stuff
 Created web-completion-data-0.2.tar containing:
@@ -449,9 +450,9 @@ Created web-completion-data-0.2.tar containing:
   web-completion-data-0.2/html-stuff/html-tag-short-docs/xmp
   web-completion-data-0.2/web-completion-data-pkg.el
   web-completion-data-0.2/web-completion-data.el
-Built web-completion-data in 5.077s, finished at Wed May 19 01:54:44 2021
+Built web-completion-data in 5.749s, finished at 2021-08-17T11:40:31+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  434 May 19 01:54 packages-stable/web-completion-data-0.2.entry
-752K -rw-r--r-- 1 root root 750K May 19 01:54 packages-stable/web-completion-data-0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/web-completion-data-badge.svg
-4.0K -rw-r--r-- 1 root root  704 May 19 01:54 packages-stable/web-completion-data-readme.txt
+4.0K -rw-r--r-- 1 root root  434 Aug 17 11:40 packages-stable/web-completion-data-0.2.entry
+752K -rw-r--r-- 1 root root 750K Aug 17 11:40 packages-stable/web-completion-data-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/web-completion-data-badge.svg
+4.0K -rw-r--r-- 1 root root  704 Aug 17 11:40 packages-stable/web-completion-data-readme.txt

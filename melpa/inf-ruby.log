@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/nonsequitur/inf-ruby.git
 
 Updating /mnt/store/melpa/working/inf-ruby/
-Built inf-ruby in 5.150s, finished at Wed May 19 03:34:50 2021
+Checking out origin/HEAD
+Checking out 03dd9c9d4e3f94f5519a786804d3ef9d3a09ef9f
+Built inf-ruby in 5.295s, finished at 2021-08-17T09:58:36+0000
  ✓ Success:
- 44K -rwxr-xr-x 1 root root  43K May 19 03:34 packages/inf-ruby-20210427.1755.el
-4.0K -rw-r--r-- 1 root root  506 May 19 03:34 packages/inf-ruby-20210427.1755.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:34 packages/inf-ruby-badge.svg
-4.0K -rw-r--r-- 1 root root  923 May 19 03:34 packages/inf-ruby-readme.txt
+ 44K -rwxr-xr-x 1 root root  43K Aug 17 09:58 packages/inf-ruby-20210607.2336.el
+4.0K -rw-r--r-- 1 root root  506 Aug 17 09:58 packages/inf-ruby-20210607.2336.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:58 packages/inf-ruby-badge.svg
+4.0K -rw-r--r-- 1 root root  923 Aug 17 09:58 packages/inf-ruby-readme.txt

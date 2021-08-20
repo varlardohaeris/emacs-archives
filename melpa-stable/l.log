@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://git.sr.ht/~tarsius/l
 
 Updating /mnt/store/melpa/working/l/
-Built l in 3.308s, finished at Wed May 19 01:31:36 2021
+Checking out 2dd8bdb627f806c2f5b97c2e0b88e7fd1ae73d39
+Built l in 4.251s, finished at 2021-08-17T11:14:36+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.2K May 19 01:31 packages-stable/l-0.1.0.el
-4.0K -rw-r--r-- 1 root root  225 May 19 01:31 packages-stable/l-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/l-badge.svg
-4.0K -rw-r--r-- 1 root root  703 May 19 01:31 packages-stable/l-readme.txt
+4.0K -rw-r--r-- 1 root root 3.2K Aug 17 11:14 packages-stable/l-0.1.0.el
+4.0K -rw-r--r-- 1 root root  225 Aug 17 11:14 packages-stable/l-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/l-badge.svg
+4.0K -rw-r--r-- 1 root root  703 Aug 17 11:14 packages-stable/l-readme.txt

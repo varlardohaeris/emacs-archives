@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nonsequitur/smex.git
 
 Updating /mnt/store/melpa/working/smex/
-Built smex in 3.662s, finished at Wed May 19 01:49:22 2021
+Checking out 97b4a4d82a4449e3f1a3fa8a93387d6eb0ef9c26
+Built smex in 3.971s, finished at 2021-08-17T11:34:16+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 01:49 packages-stable/smex-3.0.el
-4.0K -rw-r--r-- 1 root root  362 May 19 01:49 packages-stable/smex-3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/smex-badge.svg
-4.0K -rw-r--r-- 1 root root  193 May 19 01:49 packages-stable/smex-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 11:34 packages-stable/smex-3.0.el
+4.0K -rw-r--r-- 1 root root  362 Aug 17 11:34 packages-stable/smex-3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/smex-badge.svg
+4.0K -rw-r--r-- 1 root root  193 Aug 17 11:34 packages-stable/smex-readme.txt

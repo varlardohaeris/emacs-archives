@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/wbolster/emacs-direnv.git
 
 Updating /mnt/store/melpa/working/direnv/
-Built direnv in 3.557s, finished at Wed May 19 04:28:07 2021
+Checking out e356b517fbf888148d761b0fc70bdeebd65bd7d6
+Built direnv in 5.005s, finished at 2021-08-17T10:53:37+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.9K May 19 04:28 packages-stable/direnv-2.1.0.el
-4.0K -rw-r--r-- 1 root root  398 May 19 04:28 packages-stable/direnv-2.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/direnv-badge.svg
-4.0K -rw-r--r-- 1 root root   89 May 19 04:28 packages-stable/direnv-readme.txt
+ 12K -rw-r--r-- 1 root root 9.9K Aug 17 10:53 packages-stable/direnv-2.1.0.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 10:53 packages-stable/direnv-2.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/direnv-badge.svg
+4.0K -rw-r--r-- 1 root root   89 Aug 17 10:53 packages-stable/direnv-readme.txt

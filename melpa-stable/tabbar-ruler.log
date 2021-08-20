@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mattfidler/tabbar-ruler.el.git
 
 Updating /mnt/store/melpa/working/tabbar-ruler/
+Checking out 7df2e4814018e84ef9261d04a2ade8168a44e3d7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tabbar-ruler/
-  to /tmp/tabbar-ruleriFvQIf/tabbar-ruler-0.45
+  to /tmp/tabbar-ruler3qu3iw/tabbar-ruler-0.45
     tabbar-ruler.el -> tabbar-ruler.el
     dir -> dir
     tabbar-ruler.info -> tabbar-ruler.info
@@ -15,9 +16,9 @@ Created tabbar-ruler-0.45.tar containing:
   tabbar-ruler-0.45/tabbar-ruler-pkg.el
   tabbar-ruler-0.45/tabbar-ruler.el
   tabbar-ruler-0.45/tabbar-ruler.info
-Built tabbar-ruler in 2.985s, finished at Wed May 19 01:51:12 2021
+Built tabbar-ruler in 3.913s, finished at 2021-08-17T11:36:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  409 May 19 01:51 packages-stable/tabbar-ruler-0.45.entry
- 92K -rw-r--r-- 1 root root  90K May 19 01:51 packages-stable/tabbar-ruler-0.45.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:51 packages-stable/tabbar-ruler-badge.svg
-4.0K -rw-r--r-- 1 root root 1.9K May 19 01:51 packages-stable/tabbar-ruler-readme.txt
+4.0K -rw-r--r-- 1 root root  409 Aug 17 11:36 packages-stable/tabbar-ruler-0.45.entry
+ 92K -rw-r--r-- 1 root root  90K Aug 17 11:36 packages-stable/tabbar-ruler-0.45.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:36 packages-stable/tabbar-ruler-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Aug 17 11:36 packages-stable/tabbar-ruler-readme.txt

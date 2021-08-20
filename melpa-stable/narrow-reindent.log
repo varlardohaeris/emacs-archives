@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emallson/narrow-reindent.el.git
 
 Updating /mnt/store/melpa/working/narrow-reindent/
-Built narrow-reindent in 3.589s, finished at Wed May 19 01:37:00 2021
+Checking out 87466aac4dbeb79597124dd077bf5c704872fd3d
+Built narrow-reindent in 4.663s, finished at 2021-08-17T11:20:22+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 01:37 packages-stable/narrow-reindent-0.2.0.el
-4.0K -rw-r--r-- 1 root root  375 May 19 01:37 packages-stable/narrow-reindent-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/narrow-reindent-badge.svg
-4.0K -rw-r--r-- 1 root root  144 May 19 01:37 packages-stable/narrow-reindent-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 11:20 packages-stable/narrow-reindent-0.2.0.el
+4.0K -rw-r--r-- 1 root root  375 Aug 17 11:20 packages-stable/narrow-reindent-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/narrow-reindent-badge.svg
+4.0K -rw-r--r-- 1 root root  144 Aug 17 11:20 packages-stable/narrow-reindent-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nlamirault/sift.el.git
 
 Updating /mnt/store/melpa/working/projectile-sift/
-Built projectile-sift in 2.940s, finished at Wed May 19 01:44:17 2021
+Checking out 8c3f3d14a351a2394027d72ee0599aa73b9f0d13
+Built projectile-sift in 3.676s, finished at 2021-08-17T11:28:45+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.1K May 19 01:44 packages-stable/projectile-sift-0.2.0.el
-4.0K -rw-r--r-- 1 root root  432 May 19 01:44 packages-stable/projectile-sift-0.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/projectile-sift-badge.svg
-4.0K -rw-r--r-- 1 root root   99 May 19 01:44 packages-stable/projectile-sift-readme.txt
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 11:28 packages-stable/projectile-sift-0.2.0.el
+4.0K -rw-r--r-- 1 root root  432 Aug 17 11:28 packages-stable/projectile-sift-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/projectile-sift-badge.svg
+4.0K -rw-r--r-- 1 root root   99 Aug 17 11:28 packages-stable/projectile-sift-readme.txt

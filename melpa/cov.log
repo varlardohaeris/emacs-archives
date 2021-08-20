@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/AdamNiederer/cov.git
 
 Updating /mnt/store/melpa/working/cov/
-Built cov in 6.276s, finished at Wed May 19 03:08:38 2021
+Checking out origin/HEAD
+Checking out 62a4650f97eddebf6cd04b662a69b15ba72472c1
+Built cov in 4.789s, finished at 2021-08-17T09:31:23+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  22K May 19 03:08 packages/cov-20210330.44.el
-4.0K -rw-r--r-- 1 root root  399 May 19 03:08 packages/cov-20210330.44.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:08 packages/cov-badge.svg
-4.0K -rw-r--r-- 1 root root   99 May 19 03:08 packages/cov-readme.txt
+ 24K -rw-r--r-- 1 root root  22K Aug 17 09:31 packages/cov-20210330.44.el
+4.0K -rw-r--r-- 1 root root  399 Aug 17 09:31 packages/cov-20210330.44.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:31 packages/cov-badge.svg
+4.0K -rw-r--r-- 1 root root   99 Aug 17 09:31 packages/cov-readme.txt

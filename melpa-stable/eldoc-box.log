@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/casouri/eldoc-box.git
 
 Updating /mnt/store/melpa/working/eldoc-box/
-Built eldoc-box in 3.592s, finished at Wed May 19 04:29:56 2021
+Checking out 8aa2b6d35a557864ff64762774fd5b4960cbeff0
+Built eldoc-box in 5.917s, finished at 2021-08-17T10:55:48+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 04:29 packages-stable/eldoc-box-1.9.1.el
-4.0K -rw-r--r-- 1 root root  344 May 19 04:29 packages-stable/eldoc-box-1.9.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/eldoc-box-badge.svg
-4.0K -rw-r--r-- 1 root root   51 May 19 04:29 packages-stable/eldoc-box-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 10:55 packages-stable/eldoc-box-1.9.1.el
+4.0K -rw-r--r-- 1 root root  344 Aug 17 10:55 packages-stable/eldoc-box-1.9.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:55 packages-stable/eldoc-box-badge.svg
+4.0K -rw-r--r-- 1 root root   51 Aug 17 10:55 packages-stable/eldoc-box-readme.txt

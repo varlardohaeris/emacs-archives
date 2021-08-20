@@ -370,7 +370,7 @@ color theme.
 If you are experiencing slow performance with a large number of
 files, you can limit the number of files displayed in the buffer by
 seting `deft-file-limit' to a positive integer value.  This limits
-the number of file widgets that need to be rendered, making each
+the number of file buttons that need to be rendered, making each
 update faster.
 
 Deft also provides several hooks: `deft-mode-hook',

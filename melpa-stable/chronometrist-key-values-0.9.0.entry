@@ -1,0 +1,11 @@
+(chronometrist-key-values .
+			  [(0 9 0)
+			   ((chronometrist
+			     (0 7 0)))
+			   "add key-values to Chronometrist data" tar
+			   ((:commit . "73e6d98612187aa64f4adacd26e058349cf131c6")
+			    (:authors
+			     ("contrapunctus" . "xmpp:contrapunctus@jabjab.de"))
+			    (:maintainer "contrapunctus" . "xmpp:contrapunctus@jabjab.de")
+			    (:keywords "calendar")
+			    (:url . "https://tildegit.org/contrapunctus/chronometrist"))])

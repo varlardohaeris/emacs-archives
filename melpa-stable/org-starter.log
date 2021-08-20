@@ -3,14 +3,15 @@ Fetcher: github
 Source:  https://github.com/akirak/org-starter.git
 
 Updating /mnt/store/melpa/working/org-starter/
-Built org-starter in 6.463s, finished at Wed May 19 01:40:10 2021
+Checking out 49237ef8d174a15a594d984438cebe23ffcf54df
+Built org-starter in 4.128s, finished at 2021-08-17T11:24:00+0000
  ✓ Success:
- 76K -rw-r--r-- 1 root root  73K May 19 01:40 packages-stable/org-starter-0.2.9.el
-4.0K -rw-r--r-- 1 root root  437 May 19 01:40 packages-stable/org-starter-0.2.9.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-starter-badge.svg
-4.0K -rw-r--r-- 1 root root   68 May 19 01:40 packages-stable/org-starter-readme.txt
-8.0K -rw-r--r-- 1 root root 4.2K May 19 01:40 packages-stable/org-starter-swiper-0.2.9.el
-4.0K -rw-r--r-- 1 root root  448 May 18 22:26 packages-stable/org-starter-swiper-0.2.9.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 18 22:26 packages-stable/org-starter-swiper-badge.svg
-4.0K -rw-r--r-- 1 root root  122 May 18 22:26 packages-stable/org-starter-swiper-readme.txt
-4.0K -rw-r--r-- 1 root root  150 May 19 01:40 packages-stable/org-starter-swiper.log
+ 76K -rw-r--r-- 1 root root  73K Aug 17 11:24 packages-stable/org-starter-0.2.9.el
+4.0K -rw-r--r-- 1 root root  437 Aug 17 11:24 packages-stable/org-starter-0.2.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/org-starter-badge.svg
+4.0K -rw-r--r-- 1 root root   68 Aug 17 11:24 packages-stable/org-starter-readme.txt
+8.0K -rw-r--r-- 1 root root 4.3K Aug 17 07:58 packages-stable/org-starter-swiper-0.2.9.el
+4.0K -rw-r--r-- 1 root root  448 Aug 17 07:58 packages-stable/org-starter-swiper-0.2.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:58 packages-stable/org-starter-swiper-badge.svg
+4.0K -rw-r--r-- 1 root root  122 Aug 17 07:58 packages-stable/org-starter-swiper-readme.txt
+4.0K -rw-r--r-- 1 root root  204 Aug 17 11:24 packages-stable/org-starter-swiper.log

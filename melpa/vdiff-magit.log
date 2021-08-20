@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/justbur/emacs-vdiff-magit.git
 
 Updating /mnt/store/melpa/working/vdiff-magit/
-Built vdiff-magit in 4.051s, finished at Wed May 19 04:13:10 2021
+Checking out origin/HEAD
+Checking out fa62a260411387702dd4cc4791075c737519001f
+Built vdiff-magit in 5.042s, finished at 2021-08-17T14:03:38+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 04:13 packages/vdiff-magit-20190304.1707.el
-4.0K -rw-r--r-- 1 root root  469 May 19 04:13 packages/vdiff-magit-20190304.1707.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:13 packages/vdiff-magit-badge.svg
-4.0K -rw-r--r-- 1 root root   28 May 19 04:13 packages/vdiff-magit-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 14:03 packages/vdiff-magit-20210614.1630.el
+4.0K -rw-r--r-- 1 root root  469 Aug 17 14:03 packages/vdiff-magit-20210614.1630.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:03 packages/vdiff-magit-badge.svg
+4.0K -rw-r--r-- 1 root root   28 Aug 17 14:03 packages/vdiff-magit-readme.txt

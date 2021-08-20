@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hlissner/emacs-solaire-mode.git
 
 Updating /mnt/store/melpa/working/solaire-mode/
-Built solaire-mode in 3.211s, finished at Wed May 19 01:49:35 2021
+Checking out 030964f7c62696c8cfb29125df6e7649d2bf9aeb
+Built solaire-mode in 3.779s, finished at 2021-08-17T11:34:33+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.9K May 19 01:49 packages-stable/solaire-mode-1.1.2.el
-4.0K -rw-r--r-- 1 root root  437 May 19 01:49 packages-stable/solaire-mode-1.1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:49 packages-stable/solaire-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  805 May 19 01:49 packages-stable/solaire-mode-readme.txt
+ 24K -rw-r--r-- 1 root root  21K Aug 17 11:34 packages-stable/solaire-mode-2.0.2.el
+4.0K -rw-r--r-- 1 root root  437 Aug 17 11:34 packages-stable/solaire-mode-2.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:34 packages-stable/solaire-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  513 Aug 17 11:34 packages-stable/solaire-mode-readme.txt

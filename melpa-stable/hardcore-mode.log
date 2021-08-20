@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/magnars/hardcore-mode.el.git
 
 Updating /mnt/store/melpa/working/hardcore-mode/
-Built hardcore-mode in 2.953s, finished at Wed May 19 04:39:29 2021
+Checking out 90c82249f2910c251400ca35c8f1625ae3f586bd
+Built hardcore-mode in 4.158s, finished at 2021-08-17T11:06:41+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.5K May 19 04:39 packages-stable/hardcore-mode-0.1.0.el
-4.0K -rw-r--r-- 1 root root  274 May 19 04:39 packages-stable/hardcore-mode-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/hardcore-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  707 May 19 04:39 packages-stable/hardcore-mode-readme.txt
+4.0K -rw-r--r-- 1 root root 3.5K Aug 17 11:06 packages-stable/hardcore-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  274 Aug 17 11:06 packages-stable/hardcore-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/hardcore-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  707 Aug 17 11:06 packages-stable/hardcore-mode-readme.txt

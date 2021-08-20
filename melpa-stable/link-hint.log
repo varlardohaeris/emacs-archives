@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/noctuid/link-hint.el.git
 
 Updating /mnt/store/melpa/working/link-hint/
+Checking out 89f098e7afb43526d852f2974420b1a9a817b8f1
 Single file url-hint.el does not match package name link-hint

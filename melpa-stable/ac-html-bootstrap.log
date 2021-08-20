@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/osv/ac-html-bootstrap.git
 
 Updating /mnt/store/melpa/working/ac-html-bootstrap/
+Checking out 591e1e996c820da218ea1eee0a500c556769f128
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ac-html-bootstrap/
-  to /tmp/ac-html-bootstrap6AkL1i/ac-html-bootstrap-0.9.3
+  to /tmp/ac-html-bootstrapK5FIDV/ac-html-bootstrap-0.9.3
     ac-html-bootstrap.el -> ac-html-bootstrap.el
     ac-html-fa.el -> ac-html-fa.el
     html-stuff => html-stuff
@@ -111,9 +112,9 @@ Created ac-html-bootstrap-0.9.3.tar containing:
   ac-html-bootstrap-0.9.3/html-stuff/html-tag-short-docs/
   ac-html-bootstrap-0.9.3/html-stuff/html-tag-short-docs/abbr
   ac-html-bootstrap-0.9.3/html-stuff/html-tag-short-docs/address
-Built ac-html-bootstrap in 3.531s, finished at Wed May 19 04:18:27 2021
+Built ac-html-bootstrap in 4.406s, finished at 2021-08-17T10:43:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  498 May 19 04:18 packages-stable/ac-html-bootstrap-0.9.3.entry
-160K -rw-r--r-- 1 root root 160K May 19 04:18 packages-stable/ac-html-bootstrap-0.9.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ac-html-bootstrap-badge.svg
-4.0K -rw-r--r-- 1 root root  852 May 19 04:18 packages-stable/ac-html-bootstrap-readme.txt
+4.0K -rw-r--r-- 1 root root  498 Aug 17 10:43 packages-stable/ac-html-bootstrap-0.9.3.entry
+160K -rw-r--r-- 1 root root 160K Aug 17 10:43 packages-stable/ac-html-bootstrap-0.9.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/ac-html-bootstrap-badge.svg
+4.0K -rw-r--r-- 1 root root  852 Aug 17 10:43 packages-stable/ac-html-bootstrap-readme.txt

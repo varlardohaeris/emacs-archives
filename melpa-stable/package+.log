@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/zenspider/package.git
 
 Updating /mnt/store/melpa/working/package+/
+Checking out 2729bfd012c53733d3e00267d81d849ce5aa8e2d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package+/
-  to /tmp/package+SsKpIX/package+-1.4.0
+  to /tmp/package+KnV4ND/package+-1.4.0
     package+.el -> package+.el
     package+advice.el -> package+advice.el
 Created package+-1.4.0.tar containing:
@@ -13,10 +14,10 @@ Created package+-1.4.0.tar containing:
   package+-1.4.0/package+-pkg.el
   package+-1.4.0/package+.el
   package+-1.4.0/package+advice.el
-Built package+ in 2.748s, finished at Wed May 19 01:41:42 2021
+Built package+ in 3.539s, finished at 2021-08-17T11:25:46+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K Jan 24 22:40 packages-stable/package+-1.4.0.el
-4.0K -rw-r--r-- 1 root root  378 May 19 01:41 packages-stable/package+-1.4.0.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:41 packages-stable/package+-1.4.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/package+-badge.svg
-4.0K -rw-r--r-- 1 root root  898 May 19 01:41 packages-stable/package+-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Jan 24  2021 packages-stable/package+-1.4.0.el
+4.0K -rw-r--r-- 1 root root  378 Aug 17 11:25 packages-stable/package+-1.4.0.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:25 packages-stable/package+-1.4.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/package+-badge.svg
+4.0K -rw-r--r-- 1 root root  898 Aug 17 11:25 packages-stable/package+-readme.txt

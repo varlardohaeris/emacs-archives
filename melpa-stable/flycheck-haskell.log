@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-haskell.git
 
 Updating /mnt/store/melpa/working/flycheck-haskell/
+Checking out c99a5909e196b6c9861a4327a38b253387dbfa09
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-haskell/
-  to /tmp/flycheck-haskell7oRr8T/flycheck-haskell-0.8
+  to /tmp/flycheck-haskell9374xx/flycheck-haskell-0.8
     flycheck-haskell.el -> flycheck-haskell.el
     get-cabal-configuration.hs -> get-cabal-configuration.hs
     get-flags.hs -> get-flags.hs
@@ -15,9 +16,9 @@ Created flycheck-haskell-0.8.tar containing:
   flycheck-haskell-0.8/flycheck-haskell.el
   flycheck-haskell-0.8/get-cabal-configuration.hs
   flycheck-haskell-0.8/get-flags.hs
-Built flycheck-haskell in 2.922s, finished at Wed May 19 04:34:48 2021
+Built flycheck-haskell in 3.589s, finished at 2021-08-17T11:01:19+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  568 May 19 04:34 packages-stable/flycheck-haskell-0.8.entry
- 32K -rw-r--r-- 1 root root  30K May 19 04:34 packages-stable/flycheck-haskell-0.8.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-haskell-badge.svg
-4.0K -rw-r--r-- 1 root root  441 May 19 04:34 packages-stable/flycheck-haskell-readme.txt
+4.0K -rw-r--r-- 1 root root  568 Aug 17 11:01 packages-stable/flycheck-haskell-0.8.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:01 packages-stable/flycheck-haskell-0.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-haskell-badge.svg
+4.0K -rw-r--r-- 1 root root  441 Aug 17 11:01 packages-stable/flycheck-haskell-readme.txt

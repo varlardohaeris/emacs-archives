@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/deftsp/mobdebug-mode.git
 
 Updating /mnt/store/melpa/working/mobdebug-mode/
-Built mobdebug-mode in 4.666s, finished at Wed May 19 03:44:37 2021
+Checking out origin/HEAD
+Checking out e1d483bc4e341c762bc5c0a8c52306a8d01ea0da
+Built mobdebug-mode in 4.768s, finished at 2021-08-17T10:08:59+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 03:44 packages/mobdebug-mode-20140110.346.el
-4.0K -rw-r--r-- 1 root root  352 May 19 03:44 packages/mobdebug-mode-20140110.346.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:44 packages/mobdebug-mode-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 03:44 packages/mobdebug-mode-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 10:08 packages/mobdebug-mode-20140110.346.el
+4.0K -rw-r--r-- 1 root root  352 Aug 17 10:08 packages/mobdebug-mode-20140110.346.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:08 packages/mobdebug-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 10:08 packages/mobdebug-mode-readme.txt

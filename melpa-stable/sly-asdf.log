@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mmgeorge/sly-asdf.git
 
 Updating /mnt/store/melpa/working/sly-asdf/
+Checking out c387ba34a75b172e8a75747220c416462ae9de31
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sly-asdf/
-  to /tmp/sly-asdfV2y1i5/sly-asdf-0.1.0
+  to /tmp/sly-asdfdaeGMC/sly-asdf-0.1.0
     sly-asdf.el -> sly-asdf.el
     slynk-asdf.lisp -> slynk-asdf.lisp
     slynk-asdf.asd -> slynk-asdf.asd
@@ -15,9 +16,9 @@ Created sly-asdf-0.1.0.tar containing:
   sly-asdf-0.1.0/sly-asdf.el
   sly-asdf-0.1.0/slynk-asdf.asd
   sly-asdf-0.1.0/slynk-asdf.lisp
-Built sly-asdf in 2.982s, finished at Wed May 19 01:48:55 2021
+Built sly-asdf in 3.774s, finished at 2021-08-17T11:33:54+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  338 May 19 01:48 packages-stable/sly-asdf-0.1.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:48 packages-stable/sly-asdf-0.1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:48 packages-stable/sly-asdf-badge.svg
-4.0K -rw-r--r-- 1 root root  237 May 19 01:48 packages-stable/sly-asdf-readme.txt
+4.0K -rw-r--r-- 1 root root  338 Aug 17 11:33 packages-stable/sly-asdf-0.1.0.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 11:33 packages-stable/sly-asdf-0.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/sly-asdf-badge.svg
+4.0K -rw-r--r-- 1 root root  237 Aug 17 11:33 packages-stable/sly-asdf-readme.txt

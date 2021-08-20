@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/skeeto/elisp-finalize.git
 
 Updating /mnt/store/melpa/working/finalize/
+Checking out 0c60cc174b68f72b7771c5e6cf472393d573efb0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/finalize/
-  to /tmp/finalizeiuIg6W/finalize-2.0.0
+  to /tmp/finalize0kRHcb/finalize-2.0.0
     finalizable.el -> finalizable.el
     finalize-pkg.el -> finalize-pkg.el
     finalize.el -> finalize.el
@@ -14,9 +15,9 @@ Created finalize-2.0.0.tar containing:
   finalize-2.0.0/finalizable.el
   finalize-2.0.0/finalize-pkg.el
   finalize-2.0.0/finalize.el
-Built finalize in 2.725s, finished at Wed May 19 04:33:54 2021
+Built finalize in 3.387s, finished at 2021-08-17T11:00:16+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  431 May 19 04:33 packages-stable/finalize-2.0.0.entry
- 12K -rw-r--r-- 1 root root  10K May 19 04:33 packages-stable/finalize-2.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/finalize-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/finalize-readme.txt
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:00 packages-stable/finalize-2.0.0.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 11:00 packages-stable/finalize-2.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/finalize-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/finalize-readme.txt

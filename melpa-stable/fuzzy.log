@@ -3,15 +3,16 @@ Fetcher: github
 Source:  https://github.com/auto-complete/fuzzy-el.git
 
 Updating /mnt/store/melpa/working/fuzzy/
+Checking out 3353ddc4f2650a40fcded8d0521dee598b3d72d8
 Note: fuzzy :files spec is equivalent to the default.
-Built fuzzy in 3.041s, finished at Wed May 19 04:36:32 2021
+Built fuzzy in 3.928s, finished at 2021-08-17T11:03:42+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:36 packages-stable/fuzzy-0.3.el
-4.0K -rw-r--r-- 1 root root  262 May 19 04:36 packages-stable/fuzzy-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fuzzy-badge.svg
- 12K -rw-r--r-- 1 root root  12K May 19 04:36 packages-stable/fuzzy-finder-0.0.1.el
-4.0K -rw-r--r-- 1 root root  347 May 19 04:36 packages-stable/fuzzy-finder-0.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/fuzzy-finder-badge.svg
-4.0K -rw-r--r-- 1 root root  590 May 19 04:36 packages-stable/fuzzy-finder-readme.txt
-4.0K -rw-r--r-- 1 root root  140 May 19 04:36 packages-stable/fuzzy-finder.log
-4.0K -rw-r--r-- 1 root root  133 May 19 04:36 packages-stable/fuzzy-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:03 packages-stable/fuzzy-0.3.el
+4.0K -rw-r--r-- 1 root root  262 Aug 17 11:03 packages-stable/fuzzy-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:03 packages-stable/fuzzy-badge.svg
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:03 packages-stable/fuzzy-finder-0.0.1.el
+4.0K -rw-r--r-- 1 root root  347 Aug 17 11:03 packages-stable/fuzzy-finder-0.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:35 packages-stable/fuzzy-finder-badge.svg
+4.0K -rw-r--r-- 1 root root  590 Aug 17 11:03 packages-stable/fuzzy-finder-readme.txt
+4.0K -rw-r--r-- 1 root root  194 Aug 17 11:03 packages-stable/fuzzy-finder.log
+4.0K -rw-r--r-- 1 root root  133 Aug 17 11:03 packages-stable/fuzzy-readme.txt

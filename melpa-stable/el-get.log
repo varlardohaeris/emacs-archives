@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dimitri/el-get.git
 
 Updating /mnt/store/melpa/working/el-get/
+Checking out bfffd553f4c72b818e9ee94f05458eae7a16056b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/el-get/
-  to /tmp/el-getxcdqHk/el-get-5.1
+  to /tmp/el-get8BiM34/el-get-5.1
     .dir-locals.el -> .dir-locals.el
     el-get-autoloads.el -> el-get-autoloads.el
     el-get-build.el -> el-get-build.el
@@ -65,9 +66,9 @@ Created el-get-5.1.tar containing:
   el-get-5.1/methods/el-get-svn.el
   el-get-5.1/recipes/
   el-get-5.1/recipes/el-get.rcp
-Built el-get in 4.158s, finished at Wed May 19 04:29:47 2021
+Built el-get in 4.956s, finished at 2021-08-17T10:55:37+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  477 May 19 04:29 packages-stable/el-get-5.1.entry
-280K -rw-r--r-- 1 root root 280K May 19 04:29 packages-stable/el-get-5.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:29 packages-stable/el-get-badge.svg
-4.0K -rw-r--r-- 1 root root  689 May 19 04:29 packages-stable/el-get-readme.txt
+4.0K -rw-r--r-- 1 root root  477 Aug 17 10:55 packages-stable/el-get-5.1.entry
+280K -rw-r--r-- 1 root root 280K Aug 17 10:55 packages-stable/el-get-5.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:55 packages-stable/el-get-badge.svg
+4.0K -rw-r--r-- 1 root root  689 Aug 17 10:55 packages-stable/el-get-readme.txt

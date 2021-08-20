@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/squiggly-clojure.git
 
 Updating /mnt/store/melpa/working/flycheck-clojure/
-Built flycheck-clojure in 3.816s, finished at Wed May 19 04:34:35 2021
+Checking out 03ac2d3208b2579d86e41a7f4acb395953b7b259
+Built flycheck-clojure in 4.754s, finished at 2021-08-17T11:01:03+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 9.0K May 19 04:34 packages-stable/flycheck-clojure-0.1.5.el
-4.0K -rw-r--r-- 1 root root  501 May 19 04:34 packages-stable/flycheck-clojure-0.1.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-clojure-badge.svg
-4.0K -rw-r--r-- 1 root root  178 May 19 04:34 packages-stable/flycheck-clojure-readme.txt
+ 12K -rw-r--r-- 1 root root 9.0K Aug 17 11:01 packages-stable/flycheck-clojure-0.1.5.el
+4.0K -rw-r--r-- 1 root root  501 Aug 17 11:01 packages-stable/flycheck-clojure-0.1.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-clojure-badge.svg
+4.0K -rw-r--r-- 1 root root  178 Aug 17 11:01 packages-stable/flycheck-clojure-readme.txt

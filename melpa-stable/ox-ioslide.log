@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/coldnew/org-ioslide.git
 
 Updating /mnt/store/melpa/working/ox-ioslide/
+Checking out e81f7a6dab512da7eaa8c2c50c673538b97db267
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-ioslide/
-  to /tmp/ox-ioslideoBPobg/ox-ioslide-0.2
+  to /tmp/ox-ioslide9z5qpf/ox-ioslide-0.2
     ox-ioslide.el -> ox-ioslide.el
     js => js
     theme => theme
@@ -565,9 +566,9 @@ Created ox-ioslide-0.2.tar containing:
   ox-ioslide-0.2/theme/scss/default.scss
   ox-ioslide-0.2/theme/scss/io2013.scss
   ox-ioslide-0.2/theme/scss/phone.scss
-Built ox-ioslide in 7.581s, finished at Wed May 19 01:41:29 2021
+Built ox-ioslide in 8.252s, finished at 2021-08-17T11:25:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  478 May 19 01:41 packages-stable/ox-ioslide-0.2.entry
-5.7M -rw-r--r-- 1 root root 5.7M May 19 01:41 packages-stable/ox-ioslide-0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-ioslide-badge.svg
-4.0K -rw-r--r-- 1 root root  204 May 19 01:41 packages-stable/ox-ioslide-readme.txt
+4.0K -rw-r--r-- 1 root root  478 Aug 17 11:25 packages-stable/ox-ioslide-0.2.entry
+5.7M -rw-r--r-- 1 root root 5.7M Aug 17 11:25 packages-stable/ox-ioslide-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/ox-ioslide-badge.svg
+4.0K -rw-r--r-- 1 root root  204 Aug 17 11:25 packages-stable/ox-ioslide-readme.txt

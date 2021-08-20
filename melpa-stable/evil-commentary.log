@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/linktohack/evil-commentary.git
 
 Updating /mnt/store/melpa/working/evil-commentary/
+Checking out ca182e27156198db533bf6d48b7e5f6f54081397
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-commentary/
-  to /tmp/evil-commentaryTNyp3b/evil-commentary-2.2.0
+  to /tmp/evil-commentarycUBasa/evil-commentary-2.2.0
     evil-commentary-integration.el -> evil-commentary-integration.el
     evil-commentary.el -> evil-commentary.el
 Created evil-commentary-2.2.0.tar containing:
@@ -13,9 +14,9 @@ Created evil-commentary-2.2.0.tar containing:
   evil-commentary-2.2.0/evil-commentary-integration.el
   evil-commentary-2.2.0/evil-commentary-pkg.el
   evil-commentary-2.2.0/evil-commentary.el
-Built evil-commentary in 2.732s, finished at Wed May 19 04:32:09 2021
+Built evil-commentary in 3.753s, finished at 2021-08-17T10:58:42+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  427 May 19 04:32 packages-stable/evil-commentary-2.2.0.entry
- 12K -rw-r--r-- 1 root root  10K May 19 04:32 packages-stable/evil-commentary-2.2.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-commentary-badge.svg
-4.0K -rw-r--r-- 1 root root  133 May 19 04:32 packages-stable/evil-commentary-readme.txt
+4.0K -rw-r--r-- 1 root root  427 Aug 17 10:58 packages-stable/evil-commentary-2.2.0.entry
+ 12K -rw-r--r-- 1 root root  10K Aug 17 10:58 packages-stable/evil-commentary-2.2.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/evil-commentary-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Aug 17 10:58 packages-stable/evil-commentary-readme.txt

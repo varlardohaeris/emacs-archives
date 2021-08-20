@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/google/protobuf.git
 
 Updating /mnt/store/melpa/working/protobuf-mode/
-Built protobuf-mode in 5.077s, finished at Wed May 19 01:44:28 2021
+Checking out 909a0f36a10075c4b4bc70fdee2c7e32dd612a72
+Built protobuf-mode in 6.018s, finished at 2021-08-17T11:28:59+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root 8.1K May 19 01:44 packages-stable/protobuf-mode-3.17.0.el
-4.0K -rw-r--r-- 1 root root  334 May 19 01:44 packages-stable/protobuf-mode-3.17.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/protobuf-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1020 May 19 01:44 packages-stable/protobuf-mode-readme.txt
+ 12K -rw-r--r-- 1 root root 8.1K Aug 17 11:28 packages-stable/protobuf-mode-3.17.3.el
+4.0K -rw-r--r-- 1 root root  334 Aug 17 11:28 packages-stable/protobuf-mode-3.17.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/protobuf-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1020 Aug 17 11:28 packages-stable/protobuf-mode-readme.txt

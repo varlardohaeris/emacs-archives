@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mihaimaruseac/hindent.git
 
 Updating /mnt/store/melpa/working/hindent/
-Built hindent in 4.210s, finished at Wed May 19 04:41:50 2021
+Checking out e146d672ea4c00fe17018e7e76e49d59570eeb2b
+Built hindent in 4.264s, finished at 2021-08-17T11:09:50+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 04:41 packages-stable/hindent-5.3.2.el
-4.0K -rw-r--r-- 1 root root  337 May 19 04:41 packages-stable/hindent-5.3.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/hindent-badge.svg
-4.0K -rw-r--r-- 1 root root  314 May 19 04:41 packages-stable/hindent-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:09 packages-stable/hindent-5.3.2.el
+4.0K -rw-r--r-- 1 root root  337 Aug 17 11:09 packages-stable/hindent-5.3.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/hindent-badge.svg
+4.0K -rw-r--r-- 1 root root  314 Aug 17 11:09 packages-stable/hindent-readme.txt

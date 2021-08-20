@@ -3,13 +3,15 @@ Fetcher: github
 Source:  https://github.com/emacsattic/fold-dwim.git
 
 Updating /mnt/store/melpa/working/fold-dwim/
-Built fold-dwim in 4.075s, finished at Wed May 19 03:23:41 2021
+Checking out origin/HEAD
+Checking out c46f4bb2ce91b4e307136320e72c28dd50b6cd8b
+Built fold-dwim in 5.323s, finished at 2021-08-17T09:47:11+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  15K May 19 03:23 packages/fold-dwim-20140208.1637.el
-4.0K -rw-r--r-- 1 root root  353 May 19 03:23 packages/fold-dwim-20140208.1637.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:23 packages/fold-dwim-badge.svg
- 16K -rw-r--r-- 1 root root  13K May 19 00:09 packages/fold-dwim-org-20131203.1351.el
-4.0K -rw-r--r-- 1 root root  367 May 19 00:09 packages/fold-dwim-org-20131203.1351.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 00:09 packages/fold-dwim-org-badge.svg
-4.0K -rw-r--r-- 1 root root   71 May 19 00:09 packages/fold-dwim-org-readme.txt
-4.0K -rw-r--r-- 1 root root  146 May 19 03:23 packages/fold-dwim-org.log
+ 16K -rw-r--r-- 1 root root  15K Aug 17 09:47 packages/fold-dwim-20140208.1637.el
+4.0K -rw-r--r-- 1 root root  353 Aug 17 09:47 packages/fold-dwim-20140208.1637.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:47 packages/fold-dwim-badge.svg
+ 16K -rw-r--r-- 1 root root  13K Aug 17 06:16 packages/fold-dwim-org-20131203.1351.el
+4.0K -rw-r--r-- 1 root root  367 Aug 17 06:16 packages/fold-dwim-org-20131203.1351.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 06:16 packages/fold-dwim-org-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Aug 17 06:16 packages/fold-dwim-org-readme.txt
+4.0K -rw-r--r-- 1 root root  171 Aug 17 09:47 packages/fold-dwim-org.log

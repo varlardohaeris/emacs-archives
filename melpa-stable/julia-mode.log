@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/JuliaEditorSupport/julia-emacs.git
 
 Updating /mnt/store/melpa/working/julia-mode/
+Checking out 8bfc709716a257521cb386f20b8932e83db930a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/julia-mode/
-  to /tmp/julia-modetcxHum/julia-mode-0.4
+  to /tmp/julia-mode7JD14K/julia-mode-0.4
     julia-mode-latexsubs.el -> julia-mode-latexsubs.el
     julia-mode.el -> julia-mode.el
 Created julia-mode-0.4.tar containing:
@@ -13,9 +14,9 @@ Created julia-mode-0.4.tar containing:
   julia-mode-0.4/julia-mode-latexsubs.el
   julia-mode-0.4/julia-mode-pkg.el
   julia-mode-0.4/julia-mode.el
-Built julia-mode in 2.895s, finished at Wed May 19 04:45:13 2021
+Built julia-mode in 3.015s, finished at 2021-08-17T11:13:37+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  274 May 19 04:45 packages-stable/julia-mode-0.4.entry
-180K -rw-r--r-- 1 root root 180K May 19 04:45 packages-stable/julia-mode-0.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:45 packages-stable/julia-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   60 May 19 04:45 packages-stable/julia-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  274 Aug 17 11:13 packages-stable/julia-mode-0.4.entry
+180K -rw-r--r-- 1 root root 180K Aug 17 11:13 packages-stable/julia-mode-0.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:13 packages-stable/julia-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   60 Aug 17 11:13 packages-stable/julia-mode-readme.txt

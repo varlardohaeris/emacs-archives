@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-treemacs.git
 
 Updating /mnt/store/melpa/working/lsp-treemacs/
+Checking out 08e256c45d2e95b510a98a8b88b0531e8785e519
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-treemacs/
-  to /tmp/lsp-treemacsbnY68A/lsp-treemacs-0.3
+  to /tmp/lsp-treemacsdhfH7Y/lsp-treemacs-0.3
     lsp-treemacs-themes.el -> lsp-treemacs-themes.el
     lsp-treemacs.el -> lsp-treemacs.el
     icons => icons
@@ -176,9 +177,9 @@ Created lsp-treemacs-0.3.tar containing:
   lsp-treemacs-0.3/lsp-treemacs-pkg.el
   lsp-treemacs-0.3/lsp-treemacs-themes.el
   lsp-treemacs-0.3/lsp-treemacs.el
-Built lsp-treemacs in 4.030s, finished at Wed May 19 01:33:15 2021
+Built lsp-treemacs in 4.571s, finished at 2021-08-17T11:16:32+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  434 May 19 01:33 packages-stable/lsp-treemacs-0.3.entry
-292K -rw-r--r-- 1 root root 290K May 19 01:33 packages-stable/lsp-treemacs-0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-treemacs-badge.svg
-4.0K -rw-r--r-- 1 root root   39 May 19 01:33 packages-stable/lsp-treemacs-readme.txt
+4.0K -rw-r--r-- 1 root root  434 Aug 17 11:16 packages-stable/lsp-treemacs-0.3.entry
+292K -rw-r--r-- 1 root root 290K Aug 17 11:16 packages-stable/lsp-treemacs-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-treemacs-badge.svg
+4.0K -rw-r--r-- 1 root root   39 Aug 17 11:16 packages-stable/lsp-treemacs-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jschaf/esup.git
 
 Updating /mnt/store/melpa/working/esup/
+Checking out 31b04d9141f59287db79e2aea9bed6046a0a5c76
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/esup/
-  to /tmp/esupRKTgBt/esup-0.7.1
+  to /tmp/esup5Ym2Uf/esup-0.7.1
     esup-child.el -> esup-child.el
     esup.el -> esup.el
 Created esup-0.7.1.tar containing:
@@ -13,9 +14,9 @@ Created esup-0.7.1.tar containing:
   esup-0.7.1/esup-child.el
   esup-0.7.1/esup-pkg.el
   esup-0.7.1/esup.el
-Built esup in 2.723s, finished at Wed May 19 04:31:50 2021
+Built esup in 3.863s, finished at 2021-08-17T10:58:22+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  366 May 19 04:31 packages-stable/esup-0.7.1.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:31 packages-stable/esup-0.7.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/esup-badge.svg
-4.0K -rw-r--r-- 1 root root  939 May 19 04:31 packages-stable/esup-readme.txt
+4.0K -rw-r--r-- 1 root root  366 Aug 17 10:58 packages-stable/esup-0.7.1.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 10:58 packages-stable/esup-0.7.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:58 packages-stable/esup-badge.svg
+4.0K -rw-r--r-- 1 root root  939 Aug 17 10:58 packages-stable/esup-readme.txt

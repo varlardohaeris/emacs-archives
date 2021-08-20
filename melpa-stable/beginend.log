@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/beginend.git
 
 Updating /mnt/store/melpa/working/beginend/
-Built beginend in 3.017s, finished at Wed May 19 04:20:56 2021
+Checking out 9c7a92779d75f6fd985cf707ff5241bc98ccea6c
+Built beginend in 3.892s, finished at 2021-08-17T10:46:17+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 04:20 packages-stable/beginend-2.2.0.el
-4.0K -rw-r--r-- 1 root root  220 May 19 04:20 packages-stable/beginend-2.2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/beginend-badge.svg
-4.0K -rw-r--r-- 1 root root  414 May 19 04:20 packages-stable/beginend-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 10:46 packages-stable/beginend-2.2.0.el
+4.0K -rw-r--r-- 1 root root  220 Aug 17 10:46 packages-stable/beginend-2.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/beginend-badge.svg
+4.0K -rw-r--r-- 1 root root  414 Aug 17 10:46 packages-stable/beginend-readme.txt

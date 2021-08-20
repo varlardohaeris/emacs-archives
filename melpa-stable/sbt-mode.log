@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hvesalai/emacs-sbt-mode.git
 
 Updating /mnt/store/melpa/working/sbt-mode/
+Checking out 9224fbcacec17c799d694d2301cf6cc70be3f20b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sbt-mode/
-  to /tmp/sbt-modeARQ0qa/sbt-mode-2.0.0
+  to /tmp/sbt-modeuK7EOi/sbt-mode-2.0.0
     sbt-mode-buffer.el -> sbt-mode-buffer.el
     sbt-mode-comint.el -> sbt-mode-comint.el
     sbt-mode-hydra.el -> sbt-mode-hydra.el
@@ -23,9 +24,9 @@ Created sbt-mode-2.0.0.tar containing:
   sbt-mode-2.0.0/sbt-mode-rgrep.el
   sbt-mode-2.0.0/sbt-mode-vars.el
   sbt-mode-2.0.0/sbt-mode.el
-Built sbt-mode in 3.015s, finished at Wed May 19 01:47:31 2021
+Built sbt-mode in 3.470s, finished at 2021-08-17T11:32:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  247 May 19 01:47 packages-stable/sbt-mode-2.0.0.entry
- 80K -rw-r--r-- 1 root root  80K May 19 01:47 packages-stable/sbt-mode-2.0.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/sbt-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   67 May 19 01:47 packages-stable/sbt-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  247 Aug 17 11:32 packages-stable/sbt-mode-2.0.0.entry
+ 80K -rw-r--r-- 1 root root  80K Aug 17 11:32 packages-stable/sbt-mode-2.0.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:32 packages-stable/sbt-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   67 Aug 17 11:32 packages-stable/sbt-mode-readme.txt

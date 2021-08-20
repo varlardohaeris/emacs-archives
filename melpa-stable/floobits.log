@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Floobits/floobits-emacs.git
 
 Updating /mnt/store/melpa/working/floobits/
+Checking out 489b294a7f30ecd2af2edc0823dead8102f27af6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/floobits/
-  to /tmp/floobitsLKsfwf/floobits-1.9.3
+  to /tmp/floobitsI2btb0/floobits-1.9.3
     floo => floo
     floobits.el -> floobits.el
     floobits.py -> floobits.py
@@ -60,9 +61,9 @@ Created floobits-1.9.3.tar containing:
   floobits-1.9.3/floobits-pkg.el
   floobits-1.9.3/floobits.el
   floobits-1.9.3/floobits.py
-Built floobits in 3.077s, finished at Wed May 19 04:34:18 2021
+Built floobits in 4.318s, finished at 2021-08-17T11:00:44+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  388 May 19 04:34 packages-stable/floobits-1.9.3.entry
-320K -rw-r--r-- 1 root root 320K May 19 04:34 packages-stable/floobits-1.9.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/floobits-badge.svg
-4.0K -rw-r--r-- 1 root root  867 May 19 04:34 packages-stable/floobits-readme.txt
+4.0K -rw-r--r-- 1 root root  388 Aug 17 11:00 packages-stable/floobits-1.9.3.entry
+320K -rw-r--r-- 1 root root 320K Aug 17 11:00 packages-stable/floobits-1.9.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/floobits-badge.svg
+4.0K -rw-r--r-- 1 root root  867 Aug 17 11:00 packages-stable/floobits-readme.txt

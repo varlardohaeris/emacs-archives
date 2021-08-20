@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ahyatt/emacs-websocket.git
 
 Updating /mnt/store/melpa/working/websocket/
-Built websocket in 2.957s, finished at Wed May 19 01:54:50 2021
+Checking out 34e11124fdd9d73e431499ba8a6b6a8023519664
+Built websocket in 4.085s, finished at 2021-08-17T11:40:37+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  47K May 19 01:54 packages-stable/websocket-1.13.el
-4.0K -rw-r--r-- 1 root root  398 May 19 01:54 packages-stable/websocket-1.13.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/websocket-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:54 packages-stable/websocket-readme.txt
+ 48K -rw-r--r-- 1 root root  47K Aug 17 11:40 packages-stable/websocket-1.13.el
+4.0K -rw-r--r-- 1 root root  398 Aug 17 11:40 packages-stable/websocket-1.13.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:40 packages-stable/websocket-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:40 packages-stable/websocket-readme.txt

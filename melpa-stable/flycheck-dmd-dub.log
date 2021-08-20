@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/atilaneves/flycheck-dmd-dub.git
 
 Updating /mnt/store/melpa/working/flycheck-dmd-dub/
-Built flycheck-dmd-dub in 3.069s, finished at Wed May 19 04:34:40 2021
+Checking out f177ece8544bca26ffb25c9e04d07ce76361dc86
+Built flycheck-dmd-dub in 4.247s, finished at 2021-08-17T11:01:10+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:34 packages-stable/flycheck-dmd-dub-0.12.el
-4.0K -rw-r--r-- 1 root root  448 May 19 04:34 packages-stable/flycheck-dmd-dub-0.12.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-dmd-dub-badge.svg
-4.0K -rw-r--r-- 1 root root  420 May 19 04:34 packages-stable/flycheck-dmd-dub-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:01 packages-stable/flycheck-dmd-dub-0.12.el
+4.0K -rw-r--r-- 1 root root  448 Aug 17 11:01 packages-stable/flycheck-dmd-dub-0.12.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-dmd-dub-badge.svg
+4.0K -rw-r--r-- 1 root root  420 Aug 17 11:01 packages-stable/flycheck-dmd-dub-readme.txt

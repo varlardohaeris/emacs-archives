@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/AdrieanKhisbe/omni-quotes.el.git
 
 Updating /mnt/store/melpa/working/omni-quotes/
+Checking out cfc7b7f01628a5d57384820d1096de4541e67cdf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/omni-quotes/
-  to /tmp/omni-quotesz51Pu6/omni-quotes-0.5.1
+  to /tmp/omni-quotestJFU4e/omni-quotes-0.5.1
     omni-quotes-reader.el -> omni-quotes-reader.el
     omni-quotes-ring.el -> omni-quotes-ring.el
     omni-quotes-timer.el -> omni-quotes-timer.el
@@ -17,9 +18,9 @@ Created omni-quotes-0.5.1.tar containing:
   omni-quotes-0.5.1/omni-quotes-ring.el
   omni-quotes-0.5.1/omni-quotes-timer.el
   omni-quotes-0.5.1/omni-quotes.el
-Built omni-quotes in 2.940s, finished at Wed May 19 01:38:37 2021
+Built omni-quotes in 3.535s, finished at 2021-08-17T11:22:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  487 May 19 01:38 packages-stable/omni-quotes-0.5.1.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:38 packages-stable/omni-quotes-0.5.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:38 packages-stable/omni-quotes-badge.svg
-4.0K -rw-r--r-- 1 root root  159 May 19 01:38 packages-stable/omni-quotes-readme.txt
+4.0K -rw-r--r-- 1 root root  487 Aug 17 11:22 packages-stable/omni-quotes-0.5.1.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:22 packages-stable/omni-quotes-0.5.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:22 packages-stable/omni-quotes-badge.svg
+4.0K -rw-r--r-- 1 root root  159 Aug 17 11:22 packages-stable/omni-quotes-readme.txt

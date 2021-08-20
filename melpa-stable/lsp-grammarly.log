@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-grammarly/lsp-grammarly.git
 
 Updating /mnt/store/melpa/working/lsp-grammarly/
-Built lsp-grammarly in 3.087s, finished at Wed May 19 01:33:00 2021
+Checking out 984037557b7e445183453faffc965fbe56df12f2
+Built lsp-grammarly in 3.614s, finished at 2021-08-17T11:16:15+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 01:33 packages-stable/lsp-grammarly-0.2.2.el
-4.0K -rw-r--r-- 1 root root  453 May 19 01:33 packages-stable/lsp-grammarly-0.2.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/lsp-grammarly-badge.svg
-4.0K -rw-r--r-- 1 root root   41 May 19 01:33 packages-stable/lsp-grammarly-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 11:16 packages-stable/lsp-grammarly-0.2.2.el
+4.0K -rw-r--r-- 1 root root  453 Aug 17 11:16 packages-stable/lsp-grammarly-0.2.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-grammarly-badge.svg
+4.0K -rw-r--r-- 1 root root   41 Aug 17 11:16 packages-stable/lsp-grammarly-readme.txt

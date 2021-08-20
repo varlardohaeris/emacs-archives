@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nubank/emidje.git
 
 Updating /mnt/store/melpa/working/emidje/
-Built emidje in 3.402s, finished at Wed May 19 04:30:48 2021
+Checking out e8577698bade8a8ea6bf394ab9a441e982058f19
+Built emidje in 5.186s, finished at 2021-08-17T10:57:04+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  31K May 19 04:30 packages-stable/emidje-1.1.0.el
-4.0K -rw-r--r-- 1 root root  400 May 19 04:30 packages-stable/emidje-1.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/emidje-badge.svg
-4.0K -rw-r--r-- 1 root root   80 May 19 04:30 packages-stable/emidje-readme.txt
+ 32K -rw-r--r-- 1 root root  31K Aug 17 10:57 packages-stable/emidje-1.1.0.el
+4.0K -rw-r--r-- 1 root root  400 Aug 17 10:57 packages-stable/emidje-1.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/emidje-badge.svg
+4.0K -rw-r--r-- 1 root root   80 Aug 17 10:57 packages-stable/emidje-readme.txt

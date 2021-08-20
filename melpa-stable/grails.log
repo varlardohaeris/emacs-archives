@@ -3,19 +3,20 @@ Fetcher: github
 Source:  https://github.com/lifeisfoo/emacs-grails.git
 
 Updating /mnt/store/melpa/working/grails/
-Built grails in 2.742s, finished at Wed May 19 04:38:28 2021
+Checking out d47273a619d6731683afe60636259b02e2c78a2e
+Built grails in 4.064s, finished at 2021-08-17T11:05:58+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:38 packages-stable/grails-0.4.2.el
-4.0K -rw-r--r-- 1 root root  200 May 19 04:38 packages-stable/grails-0.4.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grails-badge.svg
-8.0K -rw-r--r-- 1 root root 6.5K May 19 04:38 packages-stable/grails-mode-2.0.el
-4.0K -rw-r--r-- 1 root root  383 May 19 01:24 packages-stable/grails-mode-2.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:24 packages-stable/grails-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  670 May 19 01:24 packages-stable/grails-mode-readme.txt
-4.0K -rw-r--r-- 1 root root  155 May 19 04:38 packages-stable/grails-mode.log
-4.0K -rw-r--r-- 1 root root  457 May 19 01:24 packages-stable/grails-projectile-mode-1.1.2.entry
- 52K -rw-r--r-- 1 root root  50K May 19 01:24 packages-stable/grails-projectile-mode-1.1.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:24 packages-stable/grails-projectile-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:24 packages-stable/grails-projectile-mode-readme.txt
-4.0K -rw-r--r-- 1 root root  173 May 19 04:38 packages-stable/grails-projectile-mode.log
-4.0K -rw-r--r-- 1 root root 1.8K May 19 04:38 packages-stable/grails-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 11:05 packages-stable/grails-0.4.2.el
+4.0K -rw-r--r-- 1 root root  200 Aug 17 11:05 packages-stable/grails-0.4.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/grails-badge.svg
+8.0K -rw-r--r-- 1 root root 6.5K Aug 17 11:05 packages-stable/grails-mode-2.0.el
+4.0K -rw-r--r-- 1 root root  383 Aug 17 11:05 packages-stable/grails-mode-2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:38 packages-stable/grails-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  670 Aug 17 11:05 packages-stable/grails-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  209 Aug 17 11:05 packages-stable/grails-mode.log
+4.0K -rw-r--r-- 1 root root  457 Aug 17 07:38 packages-stable/grails-projectile-mode-1.1.2.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 11:05 packages-stable/grails-projectile-mode-1.1.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:38 packages-stable/grails-projectile-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:38 packages-stable/grails-projectile-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  700 Aug 17 11:05 packages-stable/grails-projectile-mode.log
+4.0K -rw-r--r-- 1 root root 1.8K Aug 17 11:05 packages-stable/grails-readme.txt

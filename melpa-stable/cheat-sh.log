@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/davep/cheat-sh.el.git
 
 Updating /mnt/store/melpa/working/cheat-sh/
-Built cheat-sh in 3.461s, finished at Wed May 19 04:23:04 2021
+Checking out bd970d7c576b8720d63a1e7fd88ea8a943f2160b
+Built cheat-sh in 3.691s, finished at 2021-08-17T10:48:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.2K May 19 04:23 packages-stable/cheat-sh-1.8.el
-4.0K -rw-r--r-- 1 root root  345 May 19 04:23 packages-stable/cheat-sh-1.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/cheat-sh-badge.svg
-4.0K -rw-r--r-- 1 root root   82 May 19 04:23 packages-stable/cheat-sh-readme.txt
+8.0K -rw-r--r-- 1 root root 7.2K Aug 17 10:48 packages-stable/cheat-sh-1.8.el
+4.0K -rw-r--r-- 1 root root  345 Aug 17 10:48 packages-stable/cheat-sh-1.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/cheat-sh-badge.svg
+4.0K -rw-r--r-- 1 root root   82 Aug 17 10:48 packages-stable/cheat-sh-readme.txt

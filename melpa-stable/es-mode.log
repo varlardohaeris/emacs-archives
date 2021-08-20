@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/dakrone/es-mode.git
 
 Updating /mnt/store/melpa/working/es-mode/
+Checking out c90e5e823ca52b98ab304ed953e46f9b31519f34
 Note: es-mode :files spec is equivalent to the default.
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/es-mode/
-  to /tmp/es-mode3L2C0e/es-mode-4.3.0
+  to /tmp/es-mode4I5Ggi/es-mode-4.3.0
     es-cc.el -> es-cc.el
     es-mode.el -> es-mode.el
     es-parse.el -> es-parse.el
@@ -18,9 +19,9 @@ Created es-mode-4.3.0.tar containing:
   es-mode-4.3.0/es-mode.el
   es-mode-4.3.0/es-parse.el
   es-mode-4.3.0/ob-elasticsearch.el
-Built es-mode in 3.080s, finished at Wed May 19 04:31:33 2021
+Built es-mode in 3.981s, finished at 2021-08-17T10:57:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  408 May 19 04:31 packages-stable/es-mode-4.3.0.entry
- 72K -rw-r--r-- 1 root root  70K May 19 04:31 packages-stable/es-mode-4.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/es-mode-badge.svg
-4.0K -rw-r--r-- 1 root root   89 May 19 04:31 packages-stable/es-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  408 Aug 17 10:57 packages-stable/es-mode-4.3.0.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:57 packages-stable/es-mode-4.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/es-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   89 Aug 17 10:57 packages-stable/es-mode-readme.txt

@@ -1,0 +1,12 @@
+Package: key-seq
+Fetcher: github
+Source:  https://github.com/vlevit/key-seq.el.git
+
+Updating /mnt/store/melpa/working/key-seq/
+Checking out e29b083a6427d061638749194fc249ef69ad2cc0
+Built key-seq in 4.937s, finished at 2021-08-17T11:14:06+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.8K Aug 17 11:14 packages-stable/key-seq-1.0.1.el
+4.0K -rw-r--r-- 1 root root  397 Aug 17 11:14 packages-stable/key-seq-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/key-seq-badge.svg
+4.0K -rw-r--r-- 1 root root 1020 Aug 17 11:14 packages-stable/key-seq-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/thomp/noaa.git
 
 Updating /mnt/store/melpa/working/noaa/
-Built noaa in 7.973s, finished at Wed May 19 03:47:24 2021
+Checking out origin/HEAD
+Checking out e2a4870fd5f8e37956d9317b74317d99f17b87ad
+Built noaa in 6.441s, finished at 2021-08-17T10:12:06+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 03:47 packages/noaa-20190202.1634.el
-4.0K -rw-r--r-- 1 root root  324 May 19 03:47 packages/noaa-20190202.1634.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:47 packages/noaa-badge.svg
-4.0K -rw-r--r-- 1 root root   97 May 19 03:47 packages/noaa-readme.txt
+ 24K -rw-r--r-- 1 root root  24K Aug 17 10:12 packages/noaa-20210606.2050.el
+4.0K -rw-r--r-- 1 root root  332 Aug 17 10:12 packages/noaa-20210606.2050.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:12 packages/noaa-badge.svg
+4.0K -rw-r--r-- 1 root root  263 Aug 17 10:12 packages/noaa-readme.txt

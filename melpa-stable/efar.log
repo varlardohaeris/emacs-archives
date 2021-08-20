@@ -1,0 +1,6 @@
+Package: efar
+Fetcher: github
+Source:  https://github.com/suntsov/efar.git
+
+Updating /mnt/store/melpa/working/efar/
+No valid stable versions found for efar

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/akirak/git-identity.el.git
 
 Updating /mnt/store/melpa/working/git-identity/
+Checking out d5b8dcfc9f93aecfcd9c6fb212742c165d48173f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-identity/
-  to /tmp/git-identity1iwUge/git-identity-0.1.1
+  to /tmp/git-identitySyYtJt/git-identity-0.1.1
     git-identity-magit.el -> git-identity-magit.el
     git-identity.el -> git-identity.el
 Created git-identity-0.1.1.tar containing:
@@ -13,9 +14,9 @@ Created git-identity-0.1.1.tar containing:
   git-identity-0.1.1/git-identity-magit.el
   git-identity-0.1.1/git-identity-pkg.el
   git-identity-0.1.1/git-identity.el
-Built git-identity in 2.607s, finished at Wed May 19 04:37:17 2021
+Built git-identity in 3.696s, finished at 2021-08-17T11:04:32+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  448 May 19 04:37 packages-stable/git-identity-0.1.1.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:37 packages-stable/git-identity-0.1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/git-identity-badge.svg
-4.0K -rw-r--r-- 1 root root  341 May 19 04:37 packages-stable/git-identity-readme.txt
+4.0K -rw-r--r-- 1 root root  448 Aug 17 11:04 packages-stable/git-identity-0.1.1.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:04 packages-stable/git-identity-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/git-identity-badge.svg
+4.0K -rw-r--r-- 1 root root  341 Aug 17 11:04 packages-stable/git-identity-readme.txt

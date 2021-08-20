@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/redguardtoo/find-by-pinyin-dired.git
 
 Updating /mnt/store/melpa/working/find-by-pinyin-dired/
-Built find-by-pinyin-dired in 3.534s, finished at Wed May 19 04:33:55 2021
+Checking out 2c48434637bd63840fca4d2c6cf9ebd5dd44658f
+Built find-by-pinyin-dired in 3.710s, finished at 2021-08-17T11:00:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.8K May 19 04:33 packages-stable/find-by-pinyin-dired-0.0.3.el
-4.0K -rw-r--r-- 1 root root  453 May 19 04:33 packages-stable/find-by-pinyin-dired-0.0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:33 packages-stable/find-by-pinyin-dired-badge.svg
-4.0K -rw-r--r-- 1 root root  589 May 19 04:33 packages-stable/find-by-pinyin-dired-readme.txt
+4.0K -rw-r--r-- 1 root root 3.8K Aug 17 11:00 packages-stable/find-by-pinyin-dired-0.0.3.el
+4.0K -rw-r--r-- 1 root root  453 Aug 17 11:00 packages-stable/find-by-pinyin-dired-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:00 packages-stable/find-by-pinyin-dired-badge.svg
+4.0K -rw-r--r-- 1 root root  589 Aug 17 11:00 packages-stable/find-by-pinyin-dired-readme.txt

@@ -1,0 +1,38 @@
+Package: citre
+Fetcher: github
+Source:  https://github.com/universal-ctags/citre.git
+
+Updating /mnt/store/melpa/working/citre/
+Checking out b74147e2a166e27c7c6074ffeaa5f273d4f938bf
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/citre/
+  to /tmp/citreIw1U9a/citre-0.1.1
+    citre-basic-tools.el -> citre-basic-tools.el
+    citre-config.el -> citre-config.el
+    citre-core-tables.el -> citre-core-tables.el
+    citre-core.el -> citre-core.el
+    citre-lang-c.el -> citre-lang-c.el
+    citre-lang-fileref.el -> citre-lang-fileref.el
+    citre-lang-verilog.el -> citre-lang-verilog.el
+    citre-peek.el -> citre-peek.el
+    citre-util.el -> citre-util.el
+    citre.el -> citre.el
+Created citre-0.1.1.tar containing:
+  citre-0.1.1/
+  citre-0.1.1/citre-basic-tools.el
+  citre-0.1.1/citre-config.el
+  citre-0.1.1/citre-core-tables.el
+  citre-0.1.1/citre-core.el
+  citre-0.1.1/citre-lang-c.el
+  citre-0.1.1/citre-lang-fileref.el
+  citre-0.1.1/citre-lang-verilog.el
+  citre-0.1.1/citre-peek.el
+  citre-0.1.1/citre-pkg.el
+  citre-0.1.1/citre-util.el
+  citre-0.1.1/citre.el
+Built citre in 3.817s, finished at 2021-08-17T10:48:49+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  338 Aug 17 10:48 packages-stable/citre-0.1.1.entry
+292K -rw-r--r-- 1 root root 290K Aug 17 10:48 packages-stable/citre-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/citre-badge.svg
+4.0K -rw-r--r-- 1 root root  525 Aug 17 10:48 packages-stable/citre-readme.txt

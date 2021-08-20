@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/purcell/color-theme-sanityinc-solarized.git
 
 Updating /mnt/store/melpa/working/color-theme-sanityinc-solarized/
+Checking out 554e941131d009c0a5d7129ed96796182b4cc590
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/color-theme-sanityinc-solarized/
-  to /tmp/color-theme-sanityinc-solarizedsokPgC/color-theme-sanityinc-solarized-2.29
+  to /tmp/color-theme-sanityinc-solarizedGTpw0h/color-theme-sanityinc-solarized-2.29
     color-theme-sanityinc-solarized-pkg.el -> color-theme-sanityinc-solarized-pkg.el
     color-theme-sanityinc-solarized.el -> color-theme-sanityinc-solarized.el
     sanityinc-solarized-dark-theme.el -> sanityinc-solarized-dark-theme.el
@@ -16,9 +17,9 @@ Created color-theme-sanityinc-solarized-2.29.tar containing:
   color-theme-sanityinc-solarized-2.29/color-theme-sanityinc-solarized.el
   color-theme-sanityinc-solarized-2.29/sanityinc-solarized-dark-theme.el
   color-theme-sanityinc-solarized-2.29/sanityinc-solarized-light-theme.el
-Built color-theme-sanityinc-solarized in 3.581s, finished at Wed May 19 04:24:01 2021
+Built color-theme-sanityinc-solarized in 3.799s, finished at 2021-08-17T10:49:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  411 May 19 04:24 packages-stable/color-theme-sanityinc-solarized-2.29.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:24 packages-stable/color-theme-sanityinc-solarized-2.29.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/color-theme-sanityinc-solarized-badge.svg
-4.0K -rw-r--r-- 1 root root  663 May 19 04:24 packages-stable/color-theme-sanityinc-solarized-readme.txt
+4.0K -rw-r--r-- 1 root root  411 Aug 17 10:49 packages-stable/color-theme-sanityinc-solarized-2.29.entry
+ 52K -rw-r--r-- 1 root root  50K Aug 17 10:49 packages-stable/color-theme-sanityinc-solarized-2.29.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/color-theme-sanityinc-solarized-badge.svg
+4.0K -rw-r--r-- 1 root root  663 Aug 17 10:49 packages-stable/color-theme-sanityinc-solarized-readme.txt

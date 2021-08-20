@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tumashu/pyim-basedict.git
 
 Updating /mnt/store/melpa/working/pyim-basedict/
+Checking out f71d0ffd9d2421f2b51cd0ccb89fd9eb43c09585
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pyim-basedict/
-  to /tmp/pyim-basedictZ4lTJS/pyim-basedict-0.3.1
+  to /tmp/pyim-basedictG6r6L4/pyim-basedict-0.3.1
     pyim-basedict.el -> pyim-basedict.el
     pyim-basedict.pyim -> pyim-basedict.pyim
 Created pyim-basedict-0.3.1.tar containing:
@@ -13,9 +14,9 @@ Created pyim-basedict-0.3.1.tar containing:
   pyim-basedict-0.3.1/pyim-basedict-pkg.el
   pyim-basedict-0.3.1/pyim-basedict.el
   pyim-basedict-0.3.1/pyim-basedict.pyim
-Built pyim-basedict in 3.555s, finished at Wed May 19 01:44:51 2021
+Built pyim-basedict in 4.143s, finished at 2021-08-17T11:29:23+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  367 May 19 01:44 packages-stable/pyim-basedict-0.3.1.entry
-2.2M -rw-r--r-- 1 root root 2.2M May 19 01:44 packages-stable/pyim-basedict-0.3.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pyim-basedict-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/pyim-basedict-readme.txt
+4.0K -rw-r--r-- 1 root root  367 Aug 17 11:29 packages-stable/pyim-basedict-0.3.1.entry
+2.2M -rw-r--r-- 1 root root 2.2M Aug 17 11:29 packages-stable/pyim-basedict-0.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/pyim-basedict-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:29 packages-stable/pyim-basedict-readme.txt

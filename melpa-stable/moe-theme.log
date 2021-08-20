@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kuanyui/moe-theme.el.git
 
 Updating /mnt/store/melpa/working/moe-theme/
+Checking out 01d00a8d75b19f641b639ba23793cdd507c61f05
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/moe-theme/
-  to /tmp/moe-themeg7yxNB/moe-theme-1.0.1
+  to /tmp/moe-themeWxsYFg/moe-theme-1.0.1
     moe-dark-theme.el -> moe-dark-theme.el
     moe-light-theme.el -> moe-light-theme.el
     moe-theme-pkg.el -> moe-theme-pkg.el
@@ -18,9 +19,9 @@ Created moe-theme-1.0.1.tar containing:
   moe-theme-1.0.1/moe-theme-pkg.el
   moe-theme-1.0.1/moe-theme-switcher.el
   moe-theme-1.0.1/moe-theme.el
-Built moe-theme in 3.041s, finished at Wed May 19 01:35:47 2021
+Built moe-theme in 7.889s, finished at 2021-08-17T11:19:05+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  349 May 19 01:35 packages-stable/moe-theme-1.0.1.entry
-160K -rw-r--r-- 1 root root 160K May 19 01:35 packages-stable/moe-theme-1.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/moe-theme-badge.svg
-8.0K -rw-r--r-- 1 root root 4.1K May 19 01:35 packages-stable/moe-theme-readme.txt
+4.0K -rw-r--r-- 1 root root  349 Aug 17 11:19 packages-stable/moe-theme-1.0.1.entry
+160K -rw-r--r-- 1 root root 160K Aug 17 11:19 packages-stable/moe-theme-1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/moe-theme-badge.svg
+8.0K -rw-r--r-- 1 root root 4.1K Aug 17 11:19 packages-stable/moe-theme-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mojochao/npm-mode.git
 
 Updating /mnt/store/melpa/working/npm-mode/
-Built npm-mode in 3.059s, finished at Wed May 19 01:37:45 2021
+Checking out 84b35211cba4f2d5f03b8dc2b60ae4b03d90bf8a
+Built npm-mode in 3.519s, finished at 2021-08-17T11:21:16+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.8K May 19 01:37 packages-stable/npm-mode-0.6.0.el
-4.0K -rw-r--r-- 1 root root  411 May 19 01:37 packages-stable/npm-mode-0.6.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/npm-mode-badge.svg
-4.0K -rw-r--r-- 1 root root 1.1K May 19 01:37 packages-stable/npm-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 6.8K Aug 17 11:21 packages-stable/npm-mode-0.6.0.el
+4.0K -rw-r--r-- 1 root root  411 Aug 17 11:21 packages-stable/npm-mode-0.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:21 packages-stable/npm-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 11:21 packages-stable/npm-mode-readme.txt

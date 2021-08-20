@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/phillord/assess.git
 
 Updating /mnt/store/melpa/working/assess/
+Checking out 5bac045b273623772b6a2d820997d50f7ab4e466
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/assess/
-  to /tmp/assessJ1Hif4/assess-0.6
+  to /tmp/assessNFoJDP/assess-0.6
     assess-call.el -> assess-call.el
     assess-discover.el -> assess-discover.el
     assess-robot.el -> assess-robot.el
@@ -17,9 +18,9 @@ Created assess-0.6.tar containing:
   assess-0.6/assess-pkg.el
   assess-0.6/assess-robot.el
   assess-0.6/assess.el
-Built assess in 2.960s, finished at Wed May 19 04:19:51 2021
+Built assess in 7.877s, finished at 2021-08-17T10:45:03+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  287 May 19 04:19 packages-stable/assess-0.6.entry
- 60K -rw-r--r-- 1 root root  60K May 19 04:19 packages-stable/assess-0.6.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/assess-badge.svg
-4.0K -rw-r--r-- 1 root root  837 May 19 04:19 packages-stable/assess-readme.txt
+4.0K -rw-r--r-- 1 root root  287 Aug 17 10:45 packages-stable/assess-0.6.entry
+ 60K -rw-r--r-- 1 root root  60K Aug 17 10:45 packages-stable/assess-0.6.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:45 packages-stable/assess-badge.svg
+4.0K -rw-r--r-- 1 root root  837 Aug 17 10:45 packages-stable/assess-readme.txt

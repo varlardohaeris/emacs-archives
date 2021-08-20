@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jscheid/prettier.el.git
 
 Updating /mnt/store/melpa/working/prettier/
+Checking out d093142ecc6af7330575d64238164b9ba6908d22
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/prettier/
-  to /tmp/prettierjK24Mk/prettier-1.1.0
+  to /tmp/prettierDEubl6/prettier-1.1.0
     prettier.el -> prettier.el
     bootstrap-min.js -> bootstrap-min.js
     prettier-el.js.gz.base64 -> prettier-el.js.gz.base64
@@ -15,10 +16,10 @@ Created prettier-1.1.0.tar containing:
   prettier-1.1.0/prettier-el.js.gz.base64
   prettier-1.1.0/prettier-pkg.el
   prettier-1.1.0/prettier.el
-Built prettier in 2.746s, finished at Wed May 19 01:43:58 2021
+Built prettier in 4.820s, finished at 2021-08-17T11:28:22+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  431 May 19 01:43 packages-stable/prettier-1.1.0.entry
- 72K -rw-r--r-- 1 root root  70K May 19 01:43 packages-stable/prettier-1.1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/prettier-badge.svg
-4.0K -rw-r--r-- 1 root root  188 May 19 01:43 packages-stable/prettier-js.log
-4.0K -rw-r--r-- 1 root root  255 May 19 01:43 packages-stable/prettier-readme.txt
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:28 packages-stable/prettier-1.1.0.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 11:28 packages-stable/prettier-1.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/prettier-badge.svg
+4.0K -rw-r--r-- 1 root root  188 Aug 17 11:28 packages-stable/prettier-js.log
+4.0K -rw-r--r-- 1 root root  255 Aug 17 11:28 packages-stable/prettier-readme.txt

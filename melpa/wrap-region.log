@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/rejeep/wrap-region.el.git
 
 Updating /mnt/store/melpa/working/wrap-region/
-Built wrap-region in 4.101s, finished at Wed May 19 04:15:43 2021
+Checking out origin/HEAD
+Checking out fbae9b0f106187af19823f1a6260b5c68b7252e6
+Built wrap-region in 5.440s, finished at 2021-08-17T14:06:40+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  13K May 19 04:15 packages/wrap-region-20140117.720.el
-4.0K -rw-r--r-- 1 root root  411 May 19 04:15 packages/wrap-region-20140117.720.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:15 packages/wrap-region-badge.svg
-4.0K -rw-r--r-- 1 root root 1.8K May 19 04:15 packages/wrap-region-readme.txt
+ 16K -rw-r--r-- 1 root root  13K Aug 17 14:06 packages/wrap-region-20140117.720.el
+4.0K -rw-r--r-- 1 root root  411 Aug 17 14:06 packages/wrap-region-20140117.720.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 14:06 packages/wrap-region-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K Aug 17 14:06 packages/wrap-region-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/marquee-header.git
 
 Updating /mnt/store/melpa/working/marquee-header/
-Built marquee-header in 3.632s, finished at Wed May 19 01:34:15 2021
+Checking out d8e83b837bacdd45d274be42fe2d172fd1cbbba2
+Built marquee-header in 3.375s, finished at 2021-08-17T11:17:35+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.1K May 19 01:34 packages-stable/marquee-header-0.0.9.el
-4.0K -rw-r--r-- 1 root root  358 May 19 01:34 packages-stable/marquee-header-0.0.9.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/marquee-header-badge.svg
-4.0K -rw-r--r-- 1 root root   50 May 19 01:34 packages-stable/marquee-header-readme.txt
+8.0K -rw-r--r-- 1 root root 7.1K Aug 17 11:17 packages-stable/marquee-header-0.0.9.el
+4.0K -rw-r--r-- 1 root root  358 Aug 17 11:17 packages-stable/marquee-header-0.0.9.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/marquee-header-badge.svg
+4.0K -rw-r--r-- 1 root root   50 Aug 17 11:17 packages-stable/marquee-header-readme.txt

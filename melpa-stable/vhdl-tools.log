@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-elisp/vhdl-tools.git
 
 Updating /mnt/store/melpa/working/vhdl-tools/
-Built vhdl-tools in 4.298s, finished at Wed May 19 01:54:08 2021
+Checking out 5202db4c6a511a90a950a723293d11d55ec05264
+Built vhdl-tools in 3.900s, finished at 2021-08-17T11:39:49+0000
  ✓ Success:
- 44K -rw-r--r-- 1 root root  41K May 19 01:54 packages-stable/vhdl-tools-6.2.el
-4.0K -rw-r--r-- 1 root root  462 May 19 01:54 packages-stable/vhdl-tools-6.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:54 packages-stable/vhdl-tools-badge.svg
-4.0K -rw-r--r-- 1 root root  377 May 19 01:54 packages-stable/vhdl-tools-readme.txt
+ 44K -rw-r--r-- 1 root root  41K Aug 17 11:39 packages-stable/vhdl-tools-6.2.el
+4.0K -rw-r--r-- 1 root root  462 Aug 17 11:39 packages-stable/vhdl-tools-6.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:39 packages-stable/vhdl-tools-badge.svg
+4.0K -rw-r--r-- 1 root root  377 Aug 17 11:39 packages-stable/vhdl-tools-readme.txt

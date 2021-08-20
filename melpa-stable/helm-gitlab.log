@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nlamirault/emacs-gitlab.git
 
 Updating /mnt/store/melpa/working/helm-gitlab/
-Built helm-gitlab in 2.745s, finished at Wed May 19 04:40:26 2021
+Checking out a1c1441ff5ffb290e695eb9ac05431e9385578f4
+Built helm-gitlab in 3.462s, finished at 2021-08-17T11:08:10+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.9K May 19 04:40 packages-stable/helm-gitlab-0.8.0.el
-4.0K -rw-r--r-- 1 root root  482 May 19 04:40 packages-stable/helm-gitlab-0.8.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:40 packages-stable/helm-gitlab-badge.svg
-4.0K -rw-r--r-- 1 root root   36 May 19 04:40 packages-stable/helm-gitlab-readme.txt
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 11:08 packages-stable/helm-gitlab-0.8.0.el
+4.0K -rw-r--r-- 1 root root  482 Aug 17 11:08 packages-stable/helm-gitlab-0.8.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:08 packages-stable/helm-gitlab-badge.svg
+4.0K -rw-r--r-- 1 root root   36 Aug 17 11:08 packages-stable/helm-gitlab-readme.txt

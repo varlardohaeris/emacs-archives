@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/marcIhm/org-id-cleanup.git
 
 Updating /mnt/store/melpa/working/org-id-cleanup/
-Built org-id-cleanup in 2.988s, finished at Wed May 19 01:39:23 2021
+Checking out 29825d892ec273c3178977445cf65a3faba42d96
+Built org-id-cleanup in 4.015s, finished at 2021-08-17T11:23:12+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  30K May 19 01:39 packages-stable/org-id-cleanup-1.6.0.el
-4.0K -rw-r--r-- 1 root root  387 May 19 01:39 packages-stable/org-id-cleanup-1.6.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:39 packages-stable/org-id-cleanup-badge.svg
-4.0K -rw-r--r-- 1 root root  639 May 19 01:39 packages-stable/org-id-cleanup-readme.txt
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:23 packages-stable/org-id-cleanup-1.7.0.el
+4.0K -rw-r--r-- 1 root root  387 Aug 17 11:23 packages-stable/org-id-cleanup-1.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:23 packages-stable/org-id-cleanup-badge.svg
+4.0K -rw-r--r-- 1 root root  639 Aug 17 11:23 packages-stable/org-id-cleanup-readme.txt

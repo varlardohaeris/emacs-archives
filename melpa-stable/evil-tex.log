@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/iyefrat/evil-tex.git
 
 Updating /mnt/store/melpa/working/evil-tex/
-Built evil-tex in 2.914s, finished at Wed May 19 04:32:40 2021
+Checking out ac313efb22d621c093d8d30233bd7dc8b4cc54b4
+Built evil-tex in 3.643s, finished at 2021-08-17T10:59:18+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  47K May 19 04:32 packages-stable/evil-tex-1.0.2.el
-4.0K -rw-r--r-- 1 root root  330 May 19 04:32 packages-stable/evil-tex-1.0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-tex-badge.svg
-4.0K -rw-r--r-- 1 root root   49 May 19 04:32 packages-stable/evil-tex-readme.txt
+ 52K -rw-r--r-- 1 root root  47K Aug 17 10:59 packages-stable/evil-tex-1.0.2.el
+4.0K -rw-r--r-- 1 root root  330 Aug 17 10:59 packages-stable/evil-tex-1.0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-tex-badge.svg
+4.0K -rw-r--r-- 1 root root   49 Aug 17 10:59 packages-stable/evil-tex-readme.txt

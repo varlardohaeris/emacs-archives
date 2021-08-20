@@ -3,7 +3,7 @@
 		 ((emacs
 		   (25 1)))
 		 "One-frame-per-action GIF recording" single
-		 ((:commit . "fa81e915c256271fa10b807a2935d5eaa4700dff")
+		 ((:commit . "5517a557a17d8016c9e26b0acb74197550f829b9")
 		  (:authors
 		   ("Pierre Neidhardt" . "mail@ambrevar.xyz"))
 		  (:maintainer "Pierre Neidhardt" . "mail@ambrevar.xyz")

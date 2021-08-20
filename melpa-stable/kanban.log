@@ -3,3 +3,4 @@ Fetcher: hg
 Source:  https://hg.sr.ht/~arnebab/kanban.el
 
 Updating /mnt/store/melpa/working/kanban/
+Args out of range: #<buffer *scratch*>, 0, 3

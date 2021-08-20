@@ -1,11 +1,12 @@
 Package: jetbrains-darcula-theme
 Fetcher: github
-Source:  https://github.com/ianpan870102/jetbrains-darcula-emacs-theme.git
+Source:  https://github.com/ianyepan/jetbrains-darcula-emacs-theme.git
 
 Updating /mnt/store/melpa/working/jetbrains-darcula-theme/
-Built jetbrains-darcula-theme in 6.410s, finished at Wed May 19 04:44:38 2021
+Checking out 05ee1876d58e7858b4526bdcd3ed5ef5e0a67ddf
+Built jetbrains-darcula-theme in 4.286s, finished at 2021-08-17T11:12:48+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  31K May 19 04:44 packages-stable/jetbrains-darcula-theme-1.0.0.el
-4.0K -rw-r--r-- 1 root root  332 May 19 04:44 packages-stable/jetbrains-darcula-theme-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/jetbrains-darcula-theme-badge.svg
-4.0K -rw-r--r-- 1 root root   65 May 19 04:44 packages-stable/jetbrains-darcula-theme-readme.txt
+ 32K -rw-r--r-- 1 root root  31K Aug 17 11:12 packages-stable/jetbrains-darcula-theme-1.0.0.el
+4.0K -rw-r--r-- 1 root root  332 Aug 17 11:12 packages-stable/jetbrains-darcula-theme-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/jetbrains-darcula-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   65 Aug 17 11:12 packages-stable/jetbrains-darcula-theme-readme.txt

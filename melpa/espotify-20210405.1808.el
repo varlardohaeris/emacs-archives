@@ -4,7 +4,7 @@
 ;; Maintainer: Jose A Ortega Ruiz
 ;; Keywords: multimedia
 ;; Package-Version: 20210405.1808
-;; Package-Commit: 22b81067ebcaef2cea633f967a4b55454af9326a
+;; Package-Commit: 5bf63dacc5df8a74860e80dabd16afce68a24a36
 ;; License: GPL-3.0-or-later
 ;; Version: 0.1
 ;; Homepage: https://codeberg.org/jao/espotify

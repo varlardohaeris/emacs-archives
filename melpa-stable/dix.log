@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/unhammer/dix.git
 
 Updating /mnt/store/melpa/working/dix/
+Checking out f8a0024d5be5d27d04a05518b8e361a798c29626
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dix/
-  to /tmp/dixcriaAr/dix-0.4.1
+  to /tmp/dixT8ceZb/dix-0.4.1
     dix.el -> dix.el
     schemas.xml -> schemas.xml
     local-schemas.xml -> local-schemas.xml
@@ -15,14 +16,14 @@ Created dix-0.4.1.tar containing:
   dix-0.4.1/dix.el
   dix-0.4.1/local-schemas.xml
   dix-0.4.1/schemas.xml
-Built dix in 2.854s, finished at Wed May 19 04:28:18 2021
+Built dix in 3.782s, finished at 2021-08-17T10:53:48+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  398 May 19 04:28 packages-stable/dix-0.4.1.entry
-112K -rw-r--r-- 1 root root 110K May 19 04:28 packages-stable/dix-0.4.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dix-badge.svg
-4.0K -rw-r--r-- 1 root root 2.2K May 19 04:28 packages-stable/dix-evil-0.4.1.el
-4.0K -rw-r--r-- 1 root root  408 May 19 04:28 packages-stable/dix-evil-0.4.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:28 packages-stable/dix-evil-badge.svg
-4.0K -rw-r--r-- 1 root root  127 May 19 04:28 packages-stable/dix-evil-readme.txt
-4.0K -rw-r--r-- 1 root root  124 May 19 04:28 packages-stable/dix-evil.log
-4.0K -rw-r--r-- 1 root root 4.0K May 19 04:28 packages-stable/dix-readme.txt
+4.0K -rw-r--r-- 1 root root  398 Aug 17 10:53 packages-stable/dix-0.4.1.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 10:53 packages-stable/dix-0.4.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dix-badge.svg
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 10:53 packages-stable/dix-evil-0.4.1.el
+4.0K -rw-r--r-- 1 root root  408 Aug 17 10:53 packages-stable/dix-evil-0.4.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 07:24 packages-stable/dix-evil-badge.svg
+4.0K -rw-r--r-- 1 root root  127 Aug 17 10:53 packages-stable/dix-evil-readme.txt
+4.0K -rw-r--r-- 1 root root  178 Aug 17 10:53 packages-stable/dix-evil.log
+4.0K -rw-r--r-- 1 root root 4.0K Aug 17 10:53 packages-stable/dix-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/w-vi/ox-wk.el.git
 
 Updating /mnt/store/melpa/working/ox-wk/
-Built ox-wk in 3.493s, finished at Wed May 19 01:41:39 2021
+Checking out d34d1b72e4e940745a377bfa745dfb618900a09e
+Built ox-wk in 4.116s, finished at 2021-08-17T11:25:43+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  22K May 19 01:41 packages-stable/ox-wk-0.3.0.el
-4.0K -rw-r--r-- 1 root root  357 May 19 01:41 packages-stable/ox-wk-0.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-wk-badge.svg
-4.0K -rw-r--r-- 1 root root  365 May 19 01:41 packages-stable/ox-wk-readme.txt
+ 24K -rw-r--r-- 1 root root  22K Aug 17 11:25 packages-stable/ox-wk-0.3.0.el
+4.0K -rw-r--r-- 1 root root  357 Aug 17 11:25 packages-stable/ox-wk-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/ox-wk-badge.svg
+4.0K -rw-r--r-- 1 root root  365 Aug 17 11:25 packages-stable/ox-wk-readme.txt

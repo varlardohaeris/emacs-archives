@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/EFLS/zetteldeft.git
 
 Updating /mnt/store/melpa/working/zetteldeft/
+Checking out 271ea573b0a4f265d16108db2ec7c928f3e9aa31
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zetteldeft/
-  to /tmp/zetteldeftNcoURc/zetteldeft-0.3
+  to /tmp/zetteldeftzpXl0d/zetteldeft-0.3
     zetteldeft.el -> zetteldeft.el
     zetteldeft.org -> zetteldeft.org
 Created zetteldeft-0.3.tar containing:
@@ -13,9 +14,9 @@ Created zetteldeft-0.3.tar containing:
   zetteldeft-0.3/zetteldeft-pkg.el
   zetteldeft-0.3/zetteldeft.el
   zetteldeft-0.3/zetteldeft.org
-Built zetteldeft in 2.890s, finished at Wed May 19 01:56:43 2021
+Built zetteldeft in 3.792s, finished at 2021-08-17T11:42:55+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  406 May 19 01:56 packages-stable/zetteldeft-0.3.entry
-100K -rw-r--r-- 1 root root 100K May 19 01:56 packages-stable/zetteldeft-0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zetteldeft-badge.svg
-4.0K -rw-r--r-- 1 root root  435 May 19 01:56 packages-stable/zetteldeft-readme.txt
+4.0K -rw-r--r-- 1 root root  406 Aug 17 11:42 packages-stable/zetteldeft-0.3.entry
+100K -rw-r--r-- 1 root root 100K Aug 17 11:42 packages-stable/zetteldeft-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/zetteldeft-badge.svg
+4.0K -rw-r--r-- 1 root root  435 Aug 17 11:42 packages-stable/zetteldeft-readme.txt

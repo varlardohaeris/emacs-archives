@@ -1,0 +1,12 @@
+Package: side-hustle
+Fetcher: github
+Source:  https://github.com/rnkn/side-hustle.git
+
+Updating /mnt/store/melpa/working/side-hustle/
+Checking out 46f2a337062994bbf9cd0bf39f71df9d866dfe73
+Built side-hustle in 3.532s, finished at 2021-08-17T11:33:27+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K Aug 17 11:33 packages-stable/side-hustle-0.2.0.el
+4.0K -rw-r--r-- 1 root root  409 Aug 17 11:33 packages-stable/side-hustle-0.2.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:33 packages-stable/side-hustle-badge.svg
+4.0K -rw-r--r-- 1 root root  728 Aug 17 11:33 packages-stable/side-hustle-readme.txt

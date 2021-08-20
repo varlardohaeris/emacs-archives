@@ -3,27 +3,29 @@ Fetcher: github
 Source:  https://github.com/GuiltyDolphin/org-evil.git
 
 Updating /mnt/store/melpa/working/org-evil/
+Checking out origin/HEAD
+Checking out 981b0931d043d3b0eb61fcab6258b5a88cc74d15
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-evil/
-  to /tmp/org-evildNumqh/org-evil-20180620.1517
+  to /tmp/org-evilezsxBC/org-evil-20210809.1724
     org-evil-commands.el -> org-evil-commands.el
     org-evil-core.el -> org-evil-core.el
     org-evil-list.el -> org-evil-list.el
     org-evil-motion.el -> org-evil-motion.el
     org-evil-table.el -> org-evil-table.el
     org-evil.el -> org-evil.el
-Created org-evil-20180620.1517.tar containing:
-  org-evil-20180620.1517/
-  org-evil-20180620.1517/org-evil-commands.el
-  org-evil-20180620.1517/org-evil-core.el
-  org-evil-20180620.1517/org-evil-list.el
-  org-evil-20180620.1517/org-evil-motion.el
-  org-evil-20180620.1517/org-evil-pkg.el
-  org-evil-20180620.1517/org-evil-table.el
-  org-evil-20180620.1517/org-evil.el
-Built org-evil in 3.921s, finished at Wed May 19 03:50:20 2021
+Created org-evil-20210809.1724.tar containing:
+  org-evil-20210809.1724/
+  org-evil-20210809.1724/org-evil-commands.el
+  org-evil-20210809.1724/org-evil-core.el
+  org-evil-20210809.1724/org-evil-list.el
+  org-evil-20210809.1724/org-evil-motion.el
+  org-evil-20210809.1724/org-evil-pkg.el
+  org-evil-20210809.1724/org-evil-table.el
+  org-evil-20210809.1724/org-evil.el
+Built org-evil in 4.925s, finished at 2021-08-17T10:14:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  455 May 19 03:50 packages/org-evil-20180620.1517.entry
- 40K -rw-r--r-- 1 root root  40K May 19 03:50 packages/org-evil-20180620.1517.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:50 packages/org-evil-badge.svg
-4.0K -rw-r--r-- 1 root root  445 May 19 03:50 packages/org-evil-readme.txt
+4.0K -rw-r--r-- 1 root root  434 Aug 17 10:14 packages/org-evil-20210809.1724.entry
+ 40K -rw-r--r-- 1 root root  40K Aug 17 10:14 packages/org-evil-20210809.1724.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:14 packages/org-evil-badge.svg
+4.0K -rw-r--r-- 1 root root  445 Aug 17 10:14 packages/org-evil-readme.txt

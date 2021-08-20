@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ralesi/ranger.el.git
 
 Updating /mnt/store/melpa/working/ranger/
-Built ranger in 3.368s, finished at Wed May 19 01:45:27 2021
+Checking out 584e4ae8cce1c54a44b40dd4c77fbb2f06d73ecb
+Built ranger in 7.354s, finished at 2021-08-17T11:30:14+0000
  ✓ Success:
- 92K -rw-r--r-- 1 root root  91K May 19 01:45 packages-stable/ranger-0.9.8.5.el
-4.0K -rw-r--r-- 1 root root  348 May 19 01:45 packages-stable/ranger-0.9.8.5.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/ranger-badge.svg
-4.0K -rw-r--r-- 1 root root 1.5K May 19 01:45 packages-stable/ranger-readme.txt
+ 92K -rw-r--r-- 1 root root  91K Aug 17 11:30 packages-stable/ranger-0.9.8.5.el
+4.0K -rw-r--r-- 1 root root  348 Aug 17 11:30 packages-stable/ranger-0.9.8.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/ranger-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Aug 17 11:30 packages-stable/ranger-readme.txt

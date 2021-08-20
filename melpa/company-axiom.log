@@ -3,9 +3,11 @@ Fetcher: git
 Source:  https://bitbucket.org/pdo/axiom-environment
 
 Updating /mnt/store/melpa/working/company-axiom/
-Built company-axiom in 4.092s, finished at Wed May 19 03:06:24 2021
+Checking out origin/HEAD
+Checking out 7d72e6319b98b334f74b78f3d4151e92fb7dcbad
+Built company-axiom in 7.077s, finished at 2021-08-17T09:29:10+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.2K May 19 03:06 packages/company-axiom-20191027.1928.el
-4.0K -rw-r--r-- 1 root root  429 May 19 03:06 packages/company-axiom-20191027.1928.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:06 packages/company-axiom-badge.svg
-4.0K -rw-r--r-- 1 root root   87 May 19 03:06 packages/company-axiom-readme.txt
+4.0K -rw-r--r-- 1 root root 2.2K Aug 17 09:29 packages/company-axiom-20191027.1928.el
+4.0K -rw-r--r-- 1 root root  429 Aug 17 09:29 packages/company-axiom-20191027.1928.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:29 packages/company-axiom-badge.svg
+4.0K -rw-r--r-- 1 root root   87 Aug 17 09:29 packages/company-axiom-readme.txt

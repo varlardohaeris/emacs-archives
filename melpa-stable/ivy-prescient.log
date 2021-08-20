@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/raxod502/prescient.el.git
 
 Updating /mnt/store/melpa/working/ivy-prescient/
-Built ivy-prescient in 3.650s, finished at Wed May 19 04:44:03 2021
+Checking out 2c0e9fc061ab723ec532428f312974ca7d8def12
+Built ivy-prescient in 3.864s, finished at 2021-08-17T11:12:19+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  11K May 19 04:44 packages-stable/ivy-prescient-5.1.el
-4.0K -rw-r--r-- 1 root root  401 May 19 04:44 packages-stable/ivy-prescient-5.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:44 packages-stable/ivy-prescient-badge.svg
-4.0K -rw-r--r-- 1 root root  269 May 19 04:44 packages-stable/ivy-prescient-readme.txt
+ 12K -rw-r--r-- 1 root root  11K Aug 17 11:12 packages-stable/ivy-prescient-5.1.el
+4.0K -rw-r--r-- 1 root root  401 Aug 17 11:12 packages-stable/ivy-prescient-5.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/ivy-prescient-badge.svg
+4.0K -rw-r--r-- 1 root root  269 Aug 17 11:12 packages-stable/ivy-prescient-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dieter-wilhelm/apdl-mode.git
 
 Updating /mnt/store/melpa/working/apdl-mode/
+Checking out 3844eafd271eb8d968e2889d9264eac0653d9eeb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/apdl-mode/
-  to /tmp/apdl-modegf8aP1/apdl-mode-20.5.0
+  to /tmp/apdl-modeLbrITc/apdl-mode-20.5.0
     apdl-initialise.el -> apdl-initialise.el
     apdl-keyword.el -> apdl-keyword.el
     apdl-mode-pkg.el -> apdl-mode-pkg.el
@@ -67,9 +68,9 @@ Created apdl-mode-20.5.0.tar containing:
   apdl-mode-20.5.0/template/harmonic_acceleration_results.mac
   apdl-mode-20.5.0/template/plane_stress_press-fit_torque_calculations.mac
   apdl-mode-20.5.0/template/post26_output.mac
-Built apdl-mode in 3.667s, finished at Wed May 19 04:19:38 2021
+Built apdl-mode in 7.149s, finished at 2021-08-17T10:44:30+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  423 May 19 04:19 packages-stable/apdl-mode-20.5.0.entry
-892K -rw-r--r-- 1 root root 890K May 19 04:19 packages-stable/apdl-mode-20.5.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/apdl-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  829 May 19 04:19 packages-stable/apdl-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  423 Aug 17 10:44 packages-stable/apdl-mode-20.5.0.entry
+892K -rw-r--r-- 1 root root 890K Aug 17 10:44 packages-stable/apdl-mode-20.5.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/apdl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  829 Aug 17 10:44 packages-stable/apdl-mode-readme.txt

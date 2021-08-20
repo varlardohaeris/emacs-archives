@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nlamirault/marcopolo.git
 
 Updating /mnt/store/melpa/working/marcopolo/
+Checking out c7fbda30a6709c441be3ee8bc16ebe0c0bcca194
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/marcopolo/
-  to /tmp/marcopoloTcncaN/marcopolo-0.3.0
+  to /tmp/marcopoloqwLSNe/marcopolo-0.3.0
     marcopolo-api.el -> marcopolo-api.el
     marcopolo-custom.el -> marcopolo-custom.el
     marcopolo-hub.el -> marcopolo-hub.el
@@ -27,9 +28,9 @@ Created marcopolo-0.3.0.tar containing:
   marcopolo-0.3.0/marcopolo-utils.el
   marcopolo-0.3.0/marcopolo-version.el
   marcopolo-0.3.0/marcopolo.el
-Built marcopolo in 3.911s, finished at Wed May 19 01:34:04 2021
+Built marcopolo in 3.461s, finished at 2021-08-17T11:17:24+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  480 May 19 01:34 packages-stable/marcopolo-0.3.0.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:34 packages-stable/marcopolo-0.3.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/marcopolo-badge.svg
-4.0K -rw-r--r-- 1 root root  232 May 19 01:34 packages-stable/marcopolo-readme.txt
+4.0K -rw-r--r-- 1 root root  480 Aug 17 11:17 packages-stable/marcopolo-0.3.0.entry
+ 44K -rw-r--r-- 1 root root  40K Aug 17 11:17 packages-stable/marcopolo-0.3.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/marcopolo-badge.svg
+4.0K -rw-r--r-- 1 root root  232 Aug 17 11:17 packages-stable/marcopolo-readme.txt

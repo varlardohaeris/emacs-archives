@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/fvdbeek/emacs-zotero.git
 
 Updating /mnt/store/melpa/working/zotero/
+Checking out 15eb7a8d099c93440f0a8920499633103f00fc83
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zotero/
-  to /tmp/zoteroONpG0I/zotero-0.2.2
+  to /tmp/zoteroJfcrFd/zotero-0.2.2
     zotero-arxiv.el -> zotero-arxiv.el
     zotero-auth.el -> zotero-auth.el
     zotero-browser.el -> zotero-browser.el
@@ -96,9 +97,9 @@ Created zotero-0.2.2.tar containing:
   zotero-0.2.2/zotero-recognize.el
   zotero-0.2.2/zotero-sync.el
   zotero-0.2.2/zotero.el
-Built zotero in 3.642s, finished at Wed May 19 01:56:54 2021
+Built zotero in 3.866s, finished at 2021-08-17T11:43:06+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  438 May 19 01:56 packages-stable/zotero-0.2.2.entry
-532K -rw-r--r-- 1 root root 530K May 19 01:56 packages-stable/zotero-0.2.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zotero-badge.svg
-4.0K -rw-r--r-- 1 root root  118 May 19 01:56 packages-stable/zotero-readme.txt
+4.0K -rw-r--r-- 1 root root  438 Aug 17 11:43 packages-stable/zotero-0.2.2.entry
+532K -rw-r--r-- 1 root root 530K Aug 17 11:43 packages-stable/zotero-0.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:43 packages-stable/zotero-badge.svg
+4.0K -rw-r--r-- 1 root root  118 Aug 17 11:43 packages-stable/zotero-readme.txt

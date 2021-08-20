@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/jrblevin/deft.git
 
 Updating /mnt/store/melpa/working/deft/
-Built deft in 3.216s, finished at Wed May 19 04:26:59 2021
+Checking out ab06d4a4e34ac02516e7f9efe23ab79c60059c2d
+Built deft in 3.969s, finished at 2021-08-17T10:52:43+0000
  ✓ Success:
- 72K -rw-r--r-- 1 root root  70K May 19 04:26 packages-stable/deft-0.8.el
-4.0K -rw-r--r-- 1 root root  392 May 19 04:26 packages-stable/deft-0.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:26 packages-stable/deft-badge.svg
- 24K -rw-r--r-- 1 root root  21K May 19 04:26 packages-stable/deft-readme.txt
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:52 packages-stable/deft-0.8.el
+4.0K -rw-r--r-- 1 root root  392 Aug 17 10:52 packages-stable/deft-0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/deft-badge.svg
+ 24K -rw-r--r-- 1 root root  21K Aug 17 10:52 packages-stable/deft-readme.txt

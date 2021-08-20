@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-dart.git
 
 Updating /mnt/store/melpa/working/lsp-dart/
+Checking out 8481da68a9df4061bc2cd884a3b73c14e8fb4bea
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-dart/
-  to /tmp/lsp-dartrIN7iS/lsp-dart-1.18.3
+  to /tmp/lsp-dartXXdSjs/lsp-dart-1.19.1
     lsp-dart-closing-labels.el -> lsp-dart-closing-labels.el
     lsp-dart-code-lens.el -> lsp-dart-code-lens.el
     lsp-dart-commands.el -> lsp-dart-commands.el
@@ -22,28 +23,28 @@ Copying files (->) and directories (=>)
     lsp-dart-test-tree.el -> lsp-dart-test-tree.el
     lsp-dart-utils.el -> lsp-dart-utils.el
     lsp-dart.el -> lsp-dart.el
-Created lsp-dart-1.18.3.tar containing:
-  lsp-dart-1.18.3/
-  lsp-dart-1.18.3/lsp-dart-closing-labels.el
-  lsp-dart-1.18.3/lsp-dart-code-lens.el
-  lsp-dart-1.18.3/lsp-dart-commands.el
-  lsp-dart-1.18.3/lsp-dart-dap.el
-  lsp-dart-1.18.3/lsp-dart-devtools.el
-  lsp-dart-1.18.3/lsp-dart-flutter-colors.el
-  lsp-dart-1.18.3/lsp-dart-flutter-daemon.el
-  lsp-dart-1.18.3/lsp-dart-flutter-fringe-colors.el
-  lsp-dart-1.18.3/lsp-dart-flutter-widget-guide.el
-  lsp-dart-1.18.3/lsp-dart-outline.el
-  lsp-dart-1.18.3/lsp-dart-pkg.el
-  lsp-dart-1.18.3/lsp-dart-protocol.el
-  lsp-dart-1.18.3/lsp-dart-test-output.el
-  lsp-dart-1.18.3/lsp-dart-test-support.el
-  lsp-dart-1.18.3/lsp-dart-test-tree.el
-  lsp-dart-1.18.3/lsp-dart-utils.el
-  lsp-dart-1.18.3/lsp-dart.el
-Built lsp-dart in 3.345s, finished at Wed May 19 01:32:58 2021
+Created lsp-dart-1.19.1.tar containing:
+  lsp-dart-1.19.1/
+  lsp-dart-1.19.1/lsp-dart-closing-labels.el
+  lsp-dart-1.19.1/lsp-dart-code-lens.el
+  lsp-dart-1.19.1/lsp-dart-commands.el
+  lsp-dart-1.19.1/lsp-dart-dap.el
+  lsp-dart-1.19.1/lsp-dart-devtools.el
+  lsp-dart-1.19.1/lsp-dart-flutter-colors.el
+  lsp-dart-1.19.1/lsp-dart-flutter-daemon.el
+  lsp-dart-1.19.1/lsp-dart-flutter-fringe-colors.el
+  lsp-dart-1.19.1/lsp-dart-flutter-widget-guide.el
+  lsp-dart-1.19.1/lsp-dart-outline.el
+  lsp-dart-1.19.1/lsp-dart-pkg.el
+  lsp-dart-1.19.1/lsp-dart-protocol.el
+  lsp-dart-1.19.1/lsp-dart-test-output.el
+  lsp-dart-1.19.1/lsp-dart-test-support.el
+  lsp-dart-1.19.1/lsp-dart-test-tree.el
+  lsp-dart-1.19.1/lsp-dart-utils.el
+  lsp-dart-1.19.1/lsp-dart.el
+Built lsp-dart in 3.878s, finished at 2021-08-17T11:16:12+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  442 May 19 01:32 packages-stable/lsp-dart-1.18.3.entry
-160K -rw-r--r-- 1 root root 160K May 19 01:32 packages-stable/lsp-dart-1.18.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:32 packages-stable/lsp-dart-badge.svg
-4.0K -rw-r--r-- 1 root root   41 May 19 01:32 packages-stable/lsp-dart-readme.txt
+4.0K -rw-r--r-- 1 root root  442 Aug 17 11:16 packages-stable/lsp-dart-1.19.1.entry
+160K -rw-r--r-- 1 root root 160K Aug 17 11:16 packages-stable/lsp-dart-1.19.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/lsp-dart-badge.svg
+4.0K -rw-r--r-- 1 root root   41 Aug 17 11:16 packages-stable/lsp-dart-readme.txt

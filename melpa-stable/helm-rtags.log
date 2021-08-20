@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Andersbakken/rtags.git
 
 Updating /mnt/store/melpa/working/helm-rtags/
-Built helm-rtags in 4.132s, finished at Wed May 19 04:41:08 2021
+Checking out 083bd75cb851567a1e18f237736fe2d02716b6c4
+Built helm-rtags in 5.479s, finished at 2021-08-17T11:09:04+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.1K May 19 04:41 packages-stable/helm-rtags-3.23.el
-4.0K -rw-r--r-- 1 root root  405 May 19 04:41 packages-stable/helm-rtags-3.23.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:41 packages-stable/helm-rtags-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 04:41 packages-stable/helm-rtags-readme.txt
+8.0K -rw-r--r-- 1 root root 6.1K Aug 17 11:09 packages-stable/helm-rtags-3.23.el
+4.0K -rw-r--r-- 1 root root  405 Aug 17 11:09 packages-stable/helm-rtags-3.23.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:09 packages-stable/helm-rtags-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:09 packages-stable/helm-rtags-readme.txt

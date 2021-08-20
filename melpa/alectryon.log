@@ -1,0 +1,30 @@
+Package: alectryon
+Fetcher: github
+Source:  https://github.com/cpitclaudel/alectryon.git
+
+Updating /mnt/store/melpa/working/alectryon/
+Checking out origin/HEAD
+Checking out ef9b4d4653c95388b9e0b242bc24fea9922cfcbb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/alectryon/
+  to /tmp/alectryonDM7M5b/alectryon-20210817.49
+  ! etc/elisp/.gitignore -> .gitignore
+  ! etc/elisp/Cask -> Cask
+  ! etc/elisp/alectryon.el -> alectryon.el
+  ! etc/elisp/screenshot => screenshot
+Created alectryon-20210817.49.tar containing:
+  alectryon-20210817.49/
+  alectryon-20210817.49/.gitignore
+  alectryon-20210817.49/Cask
+  alectryon-20210817.49/alectryon-pkg.el
+  alectryon-20210817.49/alectryon.el
+  alectryon-20210817.49/screenshot/
+  alectryon-20210817.49/screenshot/.gitignore
+  alectryon-20210817.49/screenshot/capture.el
+  alectryon-20210817.49/screenshot/example.v
+Built alectryon in 5.842s, finished at 2021-08-17T09:21:03+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  471 Aug 17 09:21 packages/alectryon-20210817.49.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 09:21 packages/alectryon-20210817.49.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:21 packages/alectryon-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Aug 17 09:21 packages/alectryon-readme.txt

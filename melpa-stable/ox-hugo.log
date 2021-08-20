@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kaushalmodi/ox-hugo.git
 
 Updating /mnt/store/melpa/working/ox-hugo/
+Checking out 9751d34e1133b89a533a978c085b0715f85db648
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-hugo/
-  to /tmp/ox-hugoKwdnNE/ox-hugo-0.8
+  to /tmp/ox-hugoSxG7Bl/ox-hugo-0.8
     ox-blackfriday.el -> ox-blackfriday.el
     ox-hugo.el -> ox-hugo.el
 Created ox-hugo-0.8.tar containing:
@@ -13,9 +14,9 @@ Created ox-hugo-0.8.tar containing:
   ox-hugo-0.8/ox-blackfriday.el
   ox-hugo-0.8/ox-hugo-pkg.el
   ox-hugo-0.8/ox-hugo.el
-Built ox-hugo in 3.191s, finished at Wed May 19 01:41:24 2021
+Built ox-hugo in 4.297s, finished at 2021-08-17T11:25:25+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  265 May 19 01:41 packages-stable/ox-hugo-0.8.entry
-192K -rw-r--r-- 1 root root 190K May 19 01:41 packages-stable/ox-hugo-0.8.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/ox-hugo-badge.svg
-4.0K -rw-r--r-- 1 root root 2.4K May 19 01:41 packages-stable/ox-hugo-readme.txt
+4.0K -rw-r--r-- 1 root root  265 Aug 17 11:25 packages-stable/ox-hugo-0.8.entry
+192K -rw-r--r-- 1 root root 190K Aug 17 11:25 packages-stable/ox-hugo-0.8.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:25 packages-stable/ox-hugo-badge.svg
+4.0K -rw-r--r-- 1 root root 2.4K Aug 17 11:25 packages-stable/ox-hugo-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ajgrf/parchment.git
 
 Updating /mnt/store/melpa/working/parchment-theme/
-Built parchment-theme in 3.624s, finished at Wed May 19 01:41:57 2021
+Checking out c90665145573f5e314ede1b7df3bb732e30f4bcd
+Built parchment-theme in 5.290s, finished at 2021-08-17T11:26:06+0000
  ✓ Success:
- 44K -rw-r--r-- 1 root root  41K May 19 01:41 packages-stable/parchment-theme-0.4.0.el
-4.0K -rw-r--r-- 1 root root  334 May 19 01:41 packages-stable/parchment-theme-0.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:41 packages-stable/parchment-theme-badge.svg
-4.0K -rw-r--r-- 1 root root  196 May 19 01:41 packages-stable/parchment-theme-readme.txt
+ 48K -rw-r--r-- 1 root root  41K Aug 17 11:26 packages-stable/parchment-theme-0.4.0.el
+4.0K -rw-r--r-- 1 root root  334 Aug 17 11:26 packages-stable/parchment-theme-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/parchment-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  196 Aug 17 11:26 packages-stable/parchment-theme-readme.txt

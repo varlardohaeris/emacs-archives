@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ROCKTAKEY/grugru.git
 
 Updating /mnt/store/melpa/working/grugru/
+Checking out e7f0fca4bfd4815e5ed794f13f89b1e28ce57d26
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/grugru/
-  to /tmp/grugrurJSLpv/grugru-1.20.0
+  to /tmp/grugruFiC5Dd/grugru-1.20.0
     grugru-default.el -> grugru-default.el
     grugru-utils.el -> grugru-utils.el
     grugru.el -> grugru.el
@@ -15,9 +16,9 @@ Created grugru-1.20.0.tar containing:
   grugru-1.20.0/grugru-pkg.el
   grugru-1.20.0/grugru-utils.el
   grugru-1.20.0/grugru.el
-Built grugru in 6.524s, finished at Wed May 19 04:38:53 2021
+Built grugru in 3.943s, finished at 2021-08-17T11:06:17+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  339 May 19 04:38 packages-stable/grugru-1.20.0.entry
- 72K -rw-r--r-- 1 root root  70K May 19 04:38 packages-stable/grugru-1.20.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grugru-badge.svg
- 12K -rw-r--r-- 1 root root  12K May 19 04:38 packages-stable/grugru-readme.txt
+4.0K -rw-r--r-- 1 root root  339 Aug 17 11:06 packages-stable/grugru-1.20.0.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 11:06 packages-stable/grugru-1.20.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/grugru-badge.svg
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:06 packages-stable/grugru-readme.txt

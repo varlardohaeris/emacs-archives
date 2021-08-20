@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/Simplify/flycheck-css-colorguard.git
 
 Updating /mnt/store/melpa/working/flycheck-css-colorguard/
-Built flycheck-css-colorguard in 4.541s, finished at Wed May 19 03:21:40 2021
+Checking out origin/HEAD
+Checking out ae94fa0396acd99f9ec36d9572459df793f37fe8
+Built flycheck-css-colorguard in 5.763s, finished at 2021-08-17T09:45:05+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.6K May 19 03:21 packages/flycheck-css-colorguard-20161031.1122.el
-4.0K -rw-r--r-- 1 root root  453 May 19 03:21 packages/flycheck-css-colorguard-20161031.1122.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:21 packages/flycheck-css-colorguard-badge.svg
-4.0K -rw-r--r-- 1 root root  832 May 19 03:21 packages/flycheck-css-colorguard-readme.txt
+8.0K -rw-r--r-- 1 root root 4.6K Aug 17 09:45 packages/flycheck-css-colorguard-20161031.1122.el
+4.0K -rw-r--r-- 1 root root  453 Aug 17 09:45 packages/flycheck-css-colorguard-20161031.1122.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:45 packages/flycheck-css-colorguard-badge.svg
+4.0K -rw-r--r-- 1 root root  832 Aug 17 09:45 packages/flycheck-css-colorguard-readme.txt

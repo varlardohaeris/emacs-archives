@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/andras-simonyi/citeproc-org.git
 
 Updating /mnt/store/melpa/working/citeproc-org/
+Checking out a35655c55bbdc3f8c0571c8a8f14a33f9eac330b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citeproc-org/
-  to /tmp/citeproc-org1KbilP/citeproc-org-0.2.4
+  to /tmp/citeproc-orgSw9Erp/citeproc-org-0.2.4
     citeproc-org-setup.el -> citeproc-org-setup.el
     citeproc-org.el -> citeproc-org.el
     chicago-author-date.csl -> chicago-author-date.csl
@@ -17,9 +18,9 @@ Created citeproc-org-0.2.4.tar containing:
   citeproc-org-0.2.4/citeproc-org-setup.el
   citeproc-org-0.2.4/citeproc-org.el
   citeproc-org-0.2.4/locales-en-US.xml
-Built citeproc-org in 3.303s, finished at Wed May 19 04:23:23 2021
+Built citeproc-org in 4.202s, finished at 2021-08-17T10:48:49+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  517 May 19 04:23 packages-stable/citeproc-org-0.2.4.entry
- 72K -rw-r--r-- 1 root root  70K May 19 04:23 packages-stable/citeproc-org-0.2.4.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:23 packages-stable/citeproc-org-badge.svg
-4.0K -rw-r--r-- 1 root root  177 May 19 04:23 packages-stable/citeproc-org-readme.txt
+4.0K -rw-r--r-- 1 root root  517 Aug 17 10:48 packages-stable/citeproc-org-0.2.4.entry
+ 72K -rw-r--r-- 1 root root  70K Aug 17 10:48 packages-stable/citeproc-org-0.2.4.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:48 packages-stable/citeproc-org-badge.svg
+4.0K -rw-r--r-- 1 root root  177 Aug 17 10:48 packages-stable/citeproc-org-readme.txt

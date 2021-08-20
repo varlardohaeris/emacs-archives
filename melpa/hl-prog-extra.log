@@ -3,9 +3,11 @@ Fetcher: gitlab
 Source:  https://gitlab.com/ideasman42/emacs-hl-prog-extra.git
 
 Updating /mnt/store/melpa/working/hl-prog-extra/
-Built hl-prog-extra in 4.769s, finished at Wed May 19 03:32:49 2021
+Checking out origin/HEAD
+Checking out c251d0cd354565b859ddf7c61bdae32649c6a0f4
+Built hl-prog-extra in 5.612s, finished at 2021-08-17T09:56:35+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 03:32 packages/hl-prog-extra-20210422.56.el
-4.0K -rw-r--r-- 1 root root  393 May 19 03:32 packages/hl-prog-extra-20210422.56.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:32 packages/hl-prog-extra-badge.svg
-4.0K -rw-r--r-- 1 root root  580 May 19 03:32 packages/hl-prog-extra-readme.txt
+ 20K -rw-r--r-- 1 root root  19K Aug 17 09:56 packages/hl-prog-extra-20210629.602.el
+4.0K -rw-r--r-- 1 root root  394 Aug 17 09:56 packages/hl-prog-extra-20210629.602.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:56 packages/hl-prog-extra-badge.svg
+4.0K -rw-r--r-- 1 root root  580 Aug 17 09:56 packages/hl-prog-extra-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-hdevtools.git
 
 Updating /mnt/store/melpa/working/flycheck-hdevtools/
-Built flycheck-hdevtools in 3.096s, finished at Wed May 19 04:34:49 2021
+Checking out fbf90b9a7d2d90f69ac55b57d18f0f4a47afed61
+Built flycheck-hdevtools in 3.888s, finished at 2021-08-17T11:01:20+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.1K May 19 04:34 packages-stable/flycheck-hdevtools-0.3.el
-4.0K -rw-r--r-- 1 root root  452 May 19 04:34 packages-stable/flycheck-hdevtools-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-hdevtools-badge.svg
-4.0K -rw-r--r-- 1 root root  133 May 19 04:34 packages-stable/flycheck-hdevtools-readme.txt
+4.0K -rw-r--r-- 1 root root 3.1K Aug 17 11:01 packages-stable/flycheck-hdevtools-0.3.el
+4.0K -rw-r--r-- 1 root root  452 Aug 17 11:01 packages-stable/flycheck-hdevtools-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-hdevtools-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Aug 17 11:01 packages-stable/flycheck-hdevtools-readme.txt

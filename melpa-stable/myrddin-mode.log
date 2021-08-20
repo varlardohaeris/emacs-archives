@@ -3,9 +3,10 @@ Fetcher: git
 Source:  https://git.sr.ht/~jakob/myrddin-mode
 
 Updating /mnt/store/melpa/working/myrddin-mode/
-Built myrddin-mode in 3.699s, finished at Wed May 19 01:36:49 2021
+Checking out 5cfebf3fceabb6e0a44cb42b1310cd4d1a1f7da8
+Built myrddin-mode in 3.575s, finished at 2021-08-17T11:20:12+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.4K May 19 01:36 packages-stable/myrddin-mode-0.1.el
-4.0K -rw-r--r-- 1 root root  407 May 19 01:36 packages-stable/myrddin-mode-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/myrddin-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  113 May 19 01:36 packages-stable/myrddin-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 5.4K Aug 17 11:20 packages-stable/myrddin-mode-0.1.el
+4.0K -rw-r--r-- 1 root root  407 Aug 17 11:20 packages-stable/myrddin-mode-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/myrddin-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  113 Aug 17 11:20 packages-stable/myrddin-mode-readme.txt

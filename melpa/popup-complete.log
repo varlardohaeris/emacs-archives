@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/popup-complete.git
 
 Updating /mnt/store/melpa/working/popup-complete/
-Built popup-complete in 3.600s, finished at Wed May 19 03:56:36 2021
+Checking out origin/HEAD
+Checking out caa655a6d8472e9a4bfa1311126d90d7d1b07fca
+Built popup-complete in 4.727s, finished at 2021-08-17T10:21:43+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.0K May 19 03:56 packages/popup-complete-20141109.308.el
-4.0K -rw-r--r-- 1 root root  336 May 19 03:56 packages/popup-complete-20141109.308.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:56 packages/popup-complete-badge.svg
-4.0K -rw-r--r-- 1 root root   87 May 19 03:56 packages/popup-complete-readme.txt
+4.0K -rw-r--r-- 1 root root 3.0K Aug 17 10:21 packages/popup-complete-20141109.308.el
+4.0K -rw-r--r-- 1 root root  336 Aug 17 10:21 packages/popup-complete-20141109.308.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:21 packages/popup-complete-badge.svg
+4.0K -rw-r--r-- 1 root root   87 Aug 17 10:21 packages/popup-complete-readme.txt

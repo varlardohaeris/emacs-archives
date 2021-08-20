@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/conao3/dired-git.el.git
 
 Updating /mnt/store/melpa/working/dired-git/
-Built dired-git in 3.831s, finished at Wed May 19 03:11:07 2021
+Checking out origin/HEAD
+Checking out 82c93bdb2fe392b122f79d2e425c632f1c69ede3
+Built dired-git in 4.402s, finished at 2021-08-17T09:33:57+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 03:11 packages/dired-git-20200527.732.el
-4.0K -rw-r--r-- 1 root root  498 May 19 03:11 packages/dired-git-20200527.732.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:11 packages/dired-git-badge.svg
-4.0K -rw-r--r-- 1 root root  128 May 19 03:11 packages/dired-git-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 09:33 packages/dired-git-20200527.732.el
+4.0K -rw-r--r-- 1 root root  498 Aug 17 09:33 packages/dired-git-20200527.732.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:33 packages/dired-git-badge.svg
+4.0K -rw-r--r-- 1 root root  128 Aug 17 09:33 packages/dired-git-readme.txt

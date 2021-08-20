@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-eldev.git
 
 Updating /mnt/store/melpa/working/flycheck-eldev/
-Built flycheck-eldev in 3.626s, finished at Wed May 19 04:34:42 2021
+Checking out d222ce6a8e59385ffeeee7c3a36ee41cf9a8561e
+Built flycheck-eldev in 4.381s, finished at 2021-08-17T11:01:13+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 04:34 packages-stable/flycheck-eldev-1.1.el
-4.0K -rw-r--r-- 1 root root  422 May 19 04:34 packages-stable/flycheck-eldev-1.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-eldev-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-eldev-readme.txt
+ 24K -rw-r--r-- 1 root root  18K Aug 17 11:01 packages-stable/flycheck-eldev-1.1.el
+4.0K -rw-r--r-- 1 root root  422 Aug 17 11:01 packages-stable/flycheck-eldev-1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-eldev-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-eldev-readme.txt

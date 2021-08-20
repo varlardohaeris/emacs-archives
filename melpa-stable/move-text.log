@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsfodder/move-text.git
 
 Updating /mnt/store/melpa/working/move-text/
-Built move-text in 3.178s, finished at Wed May 19 01:36:05 2021
+Checking out bdaf3e3a0d33cd528cad1d10facbdf0635232e4d
+Built move-text in 4.021s, finished at 2021-08-17T11:19:27+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 6.2K May 19 01:36 packages-stable/move-text-2.0.8.el
-4.0K -rw-r--r-- 1 root root  364 May 19 01:36 packages-stable/move-text-2.0.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:36 packages-stable/move-text-badge.svg
-4.0K -rw-r--r-- 1 root root  705 May 19 01:36 packages-stable/move-text-readme.txt
+8.0K -rw-r--r-- 1 root root 6.2K Aug 17 11:19 packages-stable/move-text-2.0.8.el
+4.0K -rw-r--r-- 1 root root  364 Aug 17 11:19 packages-stable/move-text-2.0.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:19 packages-stable/move-text-badge.svg
+4.0K -rw-r--r-- 1 root root  705 Aug 17 11:19 packages-stable/move-text-readme.txt

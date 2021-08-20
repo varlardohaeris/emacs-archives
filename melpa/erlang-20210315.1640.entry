@@ -3,7 +3,7 @@
 	 ((emacs
 	   (24 1)))
 	 "Erlang major mode" tar
-	 ((:commit . "fabacc7e1bbe673b50fe54b0c7c39f10f68809d0")
+	 ((:commit . "a972194fb202c35a1f2c766d47ada1cee2fad582")
 	  (:authors
 	   ("Anders Lindgren"))
 	  (:maintainer "Anders Lindgren")

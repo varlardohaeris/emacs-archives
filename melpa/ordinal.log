@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/zonuexe/ordinal.el.git
 
 Updating /mnt/store/melpa/working/ordinal/
-Built ordinal in 4.055s, finished at Wed May 19 03:49:43 2021
+Checking out origin/HEAD
+Checking out a7f378306290b6807fb6b87cee3ef79b31cec711
+Built ordinal in 4.707s, finished at 2021-08-17T10:14:13+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.6K May 19 03:49 packages/ordinal-20190104.1421.el
-4.0K -rw-r--r-- 1 root root  375 May 19 03:49 packages/ordinal-20190104.1421.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:49 packages/ordinal-badge.svg
-4.0K -rw-r--r-- 1 root root  539 May 19 03:49 packages/ordinal-readme.txt
+4.0K -rw-r--r-- 1 root root 2.6K Aug 17 10:14 packages/ordinal-20210519.1442.el
+4.0K -rw-r--r-- 1 root root  353 Aug 17 10:14 packages/ordinal-20210519.1442.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:14 packages/ordinal-badge.svg
+4.0K -rw-r--r-- 1 root root  539 Aug 17 10:14 packages/ordinal-readme.txt

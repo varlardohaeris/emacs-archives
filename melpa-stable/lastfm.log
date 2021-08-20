@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mihaiolteanu/lastfm.el.git
 
 Updating /mnt/store/melpa/working/lastfm/
-Built lastfm in 3.468s, finished at Wed May 19 01:31:43 2021
+Checking out 96568f07324ba32804be9352016956694923f5f3
+Built lastfm in 3.580s, finished at 2021-08-17T11:14:44+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  23K May 19 01:31 packages-stable/lastfm-1.2.el
-4.0K -rw-r--r-- 1 root root  479 May 19 01:31 packages-stable/lastfm-1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:31 packages-stable/lastfm-badge.svg
-4.0K -rw-r--r-- 1 root root  694 May 19 01:31 packages-stable/lastfm-readme.txt
+ 24K -rw-r--r-- 1 root root  23K Aug 17 11:14 packages-stable/lastfm-1.2.el
+4.0K -rw-r--r-- 1 root root  479 Aug 17 11:14 packages-stable/lastfm-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:14 packages-stable/lastfm-badge.svg
+4.0K -rw-r--r-- 1 root root  694 Aug 17 11:14 packages-stable/lastfm-readme.txt

@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/agda/agda.git
 
 Updating /mnt/store/melpa/working/annotation/
-Built annotation in 10.289s, finished at Wed May 19 04:19:34 2021
+Checking out 496322c834ebd2d621cb1286e146d2f4c289d7ab
+Built annotation in 7.180s, finished at 2021-08-17T10:44:21+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 04:19 packages-stable/annotation-2.6.1.3.el
-4.0K -rw-r--r-- 1 root root  172 May 19 04:19 packages-stable/annotation-2.6.1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/annotation-badge.svg
+ 12K -rw-r--r-- 1 root root  12K Aug 17 10:44 packages-stable/annotation-2.6.2.el
+4.0K -rw-r--r-- 1 root root  217 Aug 17 10:44 packages-stable/annotation-2.6.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/annotation-badge.svg
+4.0K -rw-r--r-- 1 root root   85 Aug 17 10:44 packages-stable/annotation-readme.txt

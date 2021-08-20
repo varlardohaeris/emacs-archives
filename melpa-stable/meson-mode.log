@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/wentasah/meson-mode.git
 
 Updating /mnt/store/melpa/working/meson-mode/
+Checking out c7edca029cb5745c501ca1bc73dc165e89e4f53f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/meson-mode/
-  to /tmp/meson-mode5hRYuV/meson-mode-0.3
+  to /tmp/meson-modefCMfIk/meson-mode-0.3
     meson-mode.el -> meson-mode.el
     utils.el -> utils.el
 Created meson-mode-0.3.tar containing:
@@ -13,9 +14,9 @@ Created meson-mode-0.3.tar containing:
   meson-mode-0.3/meson-mode-pkg.el
   meson-mode-0.3/meson-mode.el
   meson-mode-0.3/utils.el
-Built meson-mode in 7.287s, finished at Wed May 19 01:35:03 2021
+Built meson-mode in 3.843s, finished at 2021-08-17T11:18:00+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  401 May 19 01:35 packages-stable/meson-mode-0.3.entry
- 40K -rw-r--r-- 1 root root  40K May 19 01:35 packages-stable/meson-mode-0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:35 packages-stable/meson-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  411 May 19 01:35 packages-stable/meson-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  401 Aug 17 11:18 packages-stable/meson-mode-0.3.entry
+ 44K -rw-r--r-- 1 root root  40K Aug 17 11:18 packages-stable/meson-mode-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:18 packages-stable/meson-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  411 Aug 17 11:18 packages-stable/meson-mode-readme.txt

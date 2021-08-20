@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/magit/ghub.git
 
 Updating /mnt/store/melpa/working/ghub/
+Checking out dc923f72bbf0050fc54a291eb556cfc9b2d82835
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub/
-  to /tmp/ghub5iGHex/ghub-3.5.2
+  to /tmp/ghubWUPaxW/ghub-3.5.3
     buck.el -> buck.el
     ghub-graphql.el -> ghub-graphql.el
     ghub-pkg.el -> ghub-pkg.el
@@ -15,22 +16,22 @@ Copying files (->) and directories (=>)
     gsexp.el -> gsexp.el
     gtea.el -> gtea.el
     ghub.texi -> ghub.texi
-Created /tmp/ghub5iGHex/ghub-3.5.2/ghub.info
-Created ghub-3.5.2.tar containing:
-  ghub-3.5.2/
-  ghub-3.5.2/buck.el
-  ghub-3.5.2/dir
-  ghub-3.5.2/ghub-graphql.el
-  ghub-3.5.2/ghub-pkg.el
-  ghub-3.5.2/ghub.el
-  ghub-3.5.2/ghub.info
-  ghub-3.5.2/glab.el
-  ghub-3.5.2/gogs.el
-  ghub-3.5.2/gsexp.el
-  ghub-3.5.2/gtea.el
-Built ghub in 10.001s, finished at Wed May 19 04:37:09 2021
+Created /tmp/ghubWUPaxW/ghub-3.5.3/ghub.info
+Created ghub-3.5.3.tar containing:
+  ghub-3.5.3/
+  ghub-3.5.3/buck.el
+  ghub-3.5.3/dir
+  ghub-3.5.3/ghub-graphql.el
+  ghub-3.5.3/ghub-pkg.el
+  ghub-3.5.3/ghub.el
+  ghub-3.5.3/ghub.info
+  ghub-3.5.3/glab.el
+  ghub-3.5.3/gogs.el
+  ghub-3.5.3/gsexp.el
+  ghub-3.5.3/gtea.el
+Built ghub in 9.149s, finished at 2021-08-17T11:04:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  393 May 19 04:37 packages-stable/ghub-3.5.2.entry
-152K -rw-r--r-- 1 root root 150K May 19 04:37 packages-stable/ghub-3.5.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:37 packages-stable/ghub-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:37 packages-stable/ghub-readme.txt
+4.0K -rw-r--r-- 1 root root  393 Aug 17 11:04 packages-stable/ghub-3.5.3.entry
+152K -rw-r--r-- 1 root root 150K Aug 17 11:04 packages-stable/ghub-3.5.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/ghub-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:04 packages-stable/ghub-readme.txt

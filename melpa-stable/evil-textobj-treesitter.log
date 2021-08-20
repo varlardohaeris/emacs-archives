@@ -1,0 +1,6 @@
+Package: evil-textobj-treesitter
+Fetcher: github
+Source:  https://github.com/meain/evil-textobj-treesitter.git
+
+Updating /mnt/store/melpa/working/evil-textobj-treesitter/
+No valid stable versions found for evil-textobj-treesitter

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/slevin/mpages.git
 
 Updating /mnt/store/melpa/working/mpages/
-Built mpages in 4.135s, finished at Wed May 19 03:45:24 2021
+Checking out origin/HEAD
+Checking out 39a72a0931ab1cdbfdf0ab9f412dc12d43a3829f
+Built mpages in 4.809s, finished at 2021-08-17T10:09:49+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.2K May 19 03:45 packages/mpages-20150710.1404.el
-4.0K -rw-r--r-- 1 root root  269 May 19 03:45 packages/mpages-20150710.1404.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:45 packages/mpages-badge.svg
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:45 packages/mpages-readme.txt
+8.0K -rw-r--r-- 1 root root 5.2K Aug 17 10:09 packages/mpages-20150710.1404.el
+4.0K -rw-r--r-- 1 root root  269 Aug 17 10:09 packages/mpages-20150710.1404.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:09 packages/mpages-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:09 packages/mpages-readme.txt

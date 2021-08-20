@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rocher/elscreen-fr.git
 
 Updating /mnt/store/melpa/working/elscreen-fr/
-Built elscreen-fr in 2.847s, finished at Wed May 19 04:30:34 2021
+Checking out b9c11f80d277086d5d5bf88623e15fc7adbbbe3c
+Built elscreen-fr in 3.807s, finished at 2021-08-17T10:56:45+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.6K May 19 04:30 packages-stable/elscreen-fr-0.0.3.el
-4.0K -rw-r--r-- 1 root root  388 May 19 04:30 packages-stable/elscreen-fr-0.0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elscreen-fr-badge.svg
-4.0K -rw-r--r-- 1 root root  904 May 19 04:30 packages-stable/elscreen-fr-readme.txt
+8.0K -rw-r--r-- 1 root root 7.6K Aug 17 10:56 packages-stable/elscreen-fr-0.0.3.el
+4.0K -rw-r--r-- 1 root root  388 Aug 17 10:56 packages-stable/elscreen-fr-0.0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elscreen-fr-badge.svg
+4.0K -rw-r--r-- 1 root root  904 Aug 17 10:56 packages-stable/elscreen-fr-readme.txt

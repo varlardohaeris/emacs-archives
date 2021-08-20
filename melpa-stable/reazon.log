@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nickdrozd/reazon.git
 
 Updating /mnt/store/melpa/working/reazon/
+Checking out 020be6467a83957adcbdcb192b61f2c76a94079b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/reazon/
-  to /tmp/reazon3E3Rf3/reazon-0.3
+  to /tmp/reazonimv9iA/reazon-0.3
     reazon-perf.el -> reazon-perf.el
     reazon-sudoku.el -> reazon-sudoku.el
     reazon.el -> reazon.el
@@ -15,9 +16,9 @@ Created reazon-0.3.tar containing:
   reazon-0.3/reazon-pkg.el
   reazon-0.3/reazon-sudoku.el
   reazon-0.3/reazon.el
-Built reazon in 3.263s, finished at Wed May 19 01:45:45 2021
+Built reazon in 3.509s, finished at 2021-08-17T11:30:43+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  345 May 19 01:45 packages-stable/reazon-0.3.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:45 packages-stable/reazon-0.3.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:45 packages-stable/reazon-badge.svg
-4.0K -rw-r--r-- 1 root root  364 May 19 01:45 packages-stable/reazon-readme.txt
+4.0K -rw-r--r-- 1 root root  345 Aug 17 11:30 packages-stable/reazon-0.3.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:30 packages-stable/reazon-0.3.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:30 packages-stable/reazon-badge.svg
+4.0K -rw-r--r-- 1 root root  364 Aug 17 11:30 packages-stable/reazon-readme.txt

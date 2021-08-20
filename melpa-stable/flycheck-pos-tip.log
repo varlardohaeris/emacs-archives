@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-pos-tip.git
 
 Updating /mnt/store/melpa/working/flycheck-pos-tip/
-Built flycheck-pos-tip in 2.909s, finished at Wed May 19 04:35:08 2021
+Checking out 776a1a3c7c0c9a8f89a64fe6f297822f02c6f272
+Built flycheck-pos-tip in 7.503s, finished at 2021-08-17T11:02:04+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.7K May 19 04:35 packages-stable/flycheck-pos-tip-0.3.el
-4.0K -rw-r--r-- 1 root root  531 May 19 04:35 packages-stable/flycheck-pos-tip-0.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-pos-tip-badge.svg
-4.0K -rw-r--r-- 1 root root  133 May 19 04:35 packages-stable/flycheck-pos-tip-readme.txt
+8.0K -rw-r--r-- 1 root root 4.7K Aug 17 11:02 packages-stable/flycheck-pos-tip-0.3.el
+4.0K -rw-r--r-- 1 root root  531 Aug 17 11:02 packages-stable/flycheck-pos-tip-0.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:02 packages-stable/flycheck-pos-tip-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Aug 17 11:02 packages-stable/flycheck-pos-tip-readme.txt

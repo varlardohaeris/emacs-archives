@@ -3,8 +3,9 @@ Fetcher: github
 Source:  https://github.com/hlissner/emacs-company-dict.git
 
 Updating /mnt/store/melpa/working/company-dict/
-Built company-dict in 3.296s, finished at Wed May 19 04:24:21 2021
+Checking out cd7b8394f6014c57897f65d335d6b2bd65dab1f4
+Built company-dict in 3.475s, finished at 2021-08-17T10:49:50+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.6K May 19 04:24 packages-stable/company-dict-1.2.8.el
-4.0K -rw-r--r-- 1 root root  474 May 19 04:24 packages-stable/company-dict-1.2.8.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-dict-badge.svg
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 10:49 packages-stable/company-dict-1.2.8.el
+4.0K -rw-r--r-- 1 root root  474 Aug 17 10:49 packages-stable/company-dict-1.2.8.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:49 packages-stable/company-dict-badge.svg

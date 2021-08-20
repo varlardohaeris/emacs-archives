@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/thoughtpolice/cryptol-mode.git
 
 Updating /mnt/store/melpa/working/cryptol-mode/
-Built cryptol-mode in 4.562s, finished at Wed May 19 04:25:53 2021
+Checking out 27a6ce0a10fafac6a7abd3f095bb96b157bb27ef
+Built cryptol-mode in 4.117s, finished at 2021-08-17T10:51:41+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  14K May 19 04:25 packages-stable/cryptol-mode-0.1.0.el
-4.0K -rw-r--r-- 1 root root  384 May 19 04:25 packages-stable/cryptol-mode-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:25 packages-stable/cryptol-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  256 May 19 04:25 packages-stable/cryptol-mode-readme.txt
+ 16K -rw-r--r-- 1 root root  14K Aug 17 10:51 packages-stable/cryptol-mode-0.1.0.el
+4.0K -rw-r--r-- 1 root root  384 Aug 17 10:51 packages-stable/cryptol-mode-0.1.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:51 packages-stable/cryptol-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  256 Aug 17 10:51 packages-stable/cryptol-mode-readme.txt

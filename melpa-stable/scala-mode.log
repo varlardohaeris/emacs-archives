@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/hvesalai/emacs-scala-mode.git
 
 Updating /mnt/store/melpa/working/scala-mode/
+Checking out 46bb948345f165ebffe6ff3116e36a3b8a3f219d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/scala-mode/
-  to /tmp/scala-modeA8hp0w/scala-mode-1.1.0
+  to /tmp/scala-modex7IoVc/scala-mode-1.1.0
     scala-mode-fontlock.el -> scala-mode-fontlock.el
     scala-mode-imenu.el -> scala-mode-imenu.el
     scala-mode-indent.el -> scala-mode-indent.el
@@ -27,9 +28,9 @@ Created scala-mode-1.1.0.tar containing:
   scala-mode-1.1.0/scala-mode-prettify-symbols.el
   scala-mode-1.1.0/scala-mode-syntax.el
   scala-mode-1.1.0/scala-mode.el
-Built scala-mode in 3.141s, finished at Wed May 19 01:47:32 2021
+Built scala-mode in 3.665s, finished at 2021-08-17T11:32:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  232 May 19 01:47 packages-stable/scala-mode-1.1.0.entry
-132K -rw-r--r-- 1 root root 130K May 19 01:47 packages-stable/scala-mode-1.1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:47 packages-stable/scala-mode-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:47 packages-stable/scala-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  232 Aug 17 11:32 packages-stable/scala-mode-1.1.0.entry
+132K -rw-r--r-- 1 root root 130K Aug 17 11:32 packages-stable/scala-mode-1.1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:32 packages-stable/scala-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:32 packages-stable/scala-mode-readme.txt

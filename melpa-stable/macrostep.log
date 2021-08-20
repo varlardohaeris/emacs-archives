@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/joddie/macrostep.git
 
 Updating /mnt/store/melpa/working/macrostep/
+Checking out 1e2593279f3722e31d8a8f07e297a5c546586cba
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/macrostep/
-  to /tmp/macrostepErN8qA/macrostep-0.9
+  to /tmp/macrostepHTva9m/macrostep-0.9
     macrostep-c.el -> macrostep-c.el
     macrostep.el -> macrostep.el
 Created macrostep-0.9.tar containing:
@@ -13,10 +14,10 @@ Created macrostep-0.9.tar containing:
   macrostep-0.9/macrostep-c.el
   macrostep-0.9/macrostep-pkg.el
   macrostep-0.9/macrostep.el
-Built macrostep in 3.070s, finished at Wed May 19 01:33:24 2021
+Built macrostep in 3.585s, finished at 2021-08-17T11:16:41+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  377 May 19 01:33 packages-stable/macrostep-0.9.entry
- 60K -rw-r--r-- 1 root root  60K May 19 01:33 packages-stable/macrostep-0.9.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:33 packages-stable/macrostep-badge.svg
-4.0K -rw-r--r-- 1 root root  205 May 19 01:33 packages-stable/macrostep-geiser.log
- 12K -rw-r--r-- 1 root root 9.2K May 19 01:33 packages-stable/macrostep-readme.txt
+4.0K -rw-r--r-- 1 root root  377 Aug 17 11:16 packages-stable/macrostep-0.9.entry
+ 64K -rw-r--r-- 1 root root  60K Aug 17 11:16 packages-stable/macrostep-0.9.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:16 packages-stable/macrostep-badge.svg
+4.0K -rw-r--r-- 1 root root  205 Aug 17 11:16 packages-stable/macrostep-geiser.log
+ 12K -rw-r--r-- 1 root root 9.2K Aug 17 11:16 packages-stable/macrostep-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/kiwanami/emacs-epc.git
 
 Updating /mnt/store/melpa/working/epc/
+Checking out 7809664b3f6f522659812e820857a52aa17aefd5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/epc/
-  to /tmp/epcUlpeSi/epc-0.1.1
+  to /tmp/epcM22N5n/epc-0.1.1
     epc.el -> epc.el
     epcs.el -> epcs.el
 Created epc-0.1.1.tar containing:
@@ -13,9 +14,9 @@ Created epc-0.1.1.tar containing:
   epc-0.1.1/epc-pkg.el
   epc-0.1.1/epc.el
   epc-0.1.1/epcs.el
-Built epc in 2.632s, finished at Wed May 19 04:31:08 2021
+Built epc in 3.720s, finished at 2021-08-17T10:57:27+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  406 May 19 04:31 packages-stable/epc-0.1.1.entry
- 52K -rw-r--r-- 1 root root  50K May 19 04:31 packages-stable/epc-0.1.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:31 packages-stable/epc-badge.svg
-4.0K -rw-r--r-- 1 root root  382 May 19 04:31 packages-stable/epc-readme.txt
+4.0K -rw-r--r-- 1 root root  406 Aug 17 10:57 packages-stable/epc-0.1.1.entry
+ 56K -rw-r--r-- 1 root root  50K Aug 17 10:57 packages-stable/epc-0.1.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:57 packages-stable/epc-badge.svg
+4.0K -rw-r--r-- 1 root root  382 Aug 17 10:57 packages-stable/epc-readme.txt

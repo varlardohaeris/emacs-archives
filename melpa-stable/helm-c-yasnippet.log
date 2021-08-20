@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-jp/helm-c-yasnippet.git
 
 Updating /mnt/store/melpa/working/helm-c-yasnippet/
-Built helm-c-yasnippet in 3.034s, finished at Wed May 19 04:39:54 2021
+Checking out d9c832a6c8158dcd93e6b4348000739d4d2e25fc
+Built helm-c-yasnippet in 7.933s, finished at 2021-08-17T11:07:18+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  20K May 19 04:39 packages-stable/helm-c-yasnippet-0.6.7.el
-4.0K -rw-r--r-- 1 root root  431 May 19 04:39 packages-stable/helm-c-yasnippet-0.6.7.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/helm-c-yasnippet-badge.svg
-4.0K -rw-r--r-- 1 root root  106 May 19 04:39 packages-stable/helm-c-yasnippet-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:07 packages-stable/helm-c-yasnippet-0.6.7.el
+4.0K -rw-r--r-- 1 root root  431 Aug 17 11:07 packages-stable/helm-c-yasnippet-0.6.7.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:07 packages-stable/helm-c-yasnippet-badge.svg
+4.0K -rw-r--r-- 1 root root  106 Aug 17 11:07 packages-stable/helm-c-yasnippet-readme.txt

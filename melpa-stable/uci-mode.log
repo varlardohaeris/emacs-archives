@@ -1,0 +1,12 @@
+Package: uci-mode
+Fetcher: github
+Source:  https://github.com/dwcoates/uci-mode.git
+
+Updating /mnt/store/melpa/working/uci-mode/
+Checking out f264533e4ff775ae87bdbbe0d95964a2cc1c9676
+Built uci-mode in 3.903s, finished at 2021-08-17T11:38:47+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K Aug 17 11:38 packages-stable/uci-mode-0.5.5.el
+4.0K -rw-r--r-- 1 root root  369 Aug 17 11:38 packages-stable/uci-mode-0.5.5.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:38 packages-stable/uci-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  768 Aug 17 11:38 packages-stable/uci-mode-readme.txt

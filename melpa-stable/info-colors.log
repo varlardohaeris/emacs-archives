@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ubolonton/info-colors.git
 
 Updating /mnt/store/melpa/working/info-colors/
-Built info-colors in 3.413s, finished at Wed May 19 04:43:19 2021
+Checking out 13dd9b6a7288e6bb692b210bcb9cd72016658dae
+Built info-colors in 4.226s, finished at 2021-08-17T11:11:31+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 04:43 packages-stable/info-colors-0.2.el
-4.0K -rw-r--r-- 1 root root  386 May 19 04:43 packages-stable/info-colors-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/info-colors-badge.svg
-4.0K -rw-r--r-- 1 root root  169 May 19 04:43 packages-stable/info-colors-readme.txt
+8.0K -rw-r--r-- 1 root root 5.5K Aug 17 11:11 packages-stable/info-colors-0.2.el
+4.0K -rw-r--r-- 1 root root  386 Aug 17 11:11 packages-stable/info-colors-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/info-colors-badge.svg
+4.0K -rw-r--r-- 1 root root  169 Aug 17 11:11 packages-stable/info-colors-readme.txt

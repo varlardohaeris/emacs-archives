@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/iquiw/company-restclient.git
 
 Updating /mnt/store/melpa/working/company-restclient/
-Built company-restclient in 2.843s, finished at Wed May 19 04:24:45 2021
+Checking out e5a3ec54edb44776738c13e13e34c85b3085277b
+Built company-restclient in 6.849s, finished at 2021-08-17T10:50:28+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.3K May 19 04:24 packages-stable/company-restclient-0.3.0.el
-4.0K -rw-r--r-- 1 root root  542 May 19 04:24 packages-stable/company-restclient-0.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:24 packages-stable/company-restclient-badge.svg
-4.0K -rw-r--r-- 1 root root  180 May 19 04:24 packages-stable/company-restclient-readme.txt
+8.0K -rw-r--r-- 1 root root 5.3K Aug 17 10:50 packages-stable/company-restclient-0.3.0.el
+4.0K -rw-r--r-- 1 root root  542 Aug 17 10:50 packages-stable/company-restclient-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:50 packages-stable/company-restclient-badge.svg
+4.0K -rw-r--r-- 1 root root  180 Aug 17 10:50 packages-stable/company-restclient-readme.txt

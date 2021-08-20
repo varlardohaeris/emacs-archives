@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tonini/alchemist.el.git
 
 Updating /mnt/store/melpa/working/alchemist/
+Checking out 34caeed1bd231c7dfa8d2b9aa5c5de2b2a059601
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/alchemist/
-  to /tmp/alchemist0YF3Hg/alchemist-1.8.2
+  to /tmp/alchemistsxrAJc/alchemist-1.8.2
     alchemist-company.el -> alchemist-company.el
     alchemist-compile.el -> alchemist-compile.el
     alchemist-complete.el -> alchemist-complete.el
@@ -104,9 +105,9 @@ Created alchemist-1.8.2.tar containing:
   alchemist-1.8.2/alchemist-test-mode.el
   alchemist-1.8.2/alchemist-utils.el
   alchemist-1.8.2/alchemist.el
-Built alchemist in 4.396s, finished at Wed May 19 04:19:05 2021
+Built alchemist in 4.517s, finished at 2021-08-17T10:43:49+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  559 May 19 04:19 packages-stable/alchemist-1.8.2.entry
-292K -rw-r--r-- 1 root root 290K May 19 04:19 packages-stable/alchemist-1.8.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/alchemist-badge.svg
-4.0K -rw-r--r-- 1 root root  449 May 19 04:19 packages-stable/alchemist-readme.txt
+4.0K -rw-r--r-- 1 root root  559 Aug 17 10:43 packages-stable/alchemist-1.8.2.entry
+292K -rw-r--r-- 1 root root 290K Aug 17 10:43 packages-stable/alchemist-1.8.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/alchemist-badge.svg
+4.0K -rw-r--r-- 1 root root  449 Aug 17 10:43 packages-stable/alchemist-readme.txt

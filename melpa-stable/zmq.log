@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nnicandro/emacs-zmq.git
 
 Updating /mnt/store/melpa/working/zmq/
+Checking out 6b20e2361e78d12de1eeb671ce7ea49c7cc46fec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zmq/
-  to /tmp/zmqxCXAeO/zmq-0.10.10
+  to /tmp/zmqwN3dOk/zmq-0.10.10
     zmq.el -> zmq.el
     Makefile -> Makefile
     src => src
@@ -33,9 +34,9 @@ Created zmq-0.10.10.tar containing:
   zmq-0.10.10/src/util.h
   zmq-0.10.10/zmq-pkg.el
   zmq-0.10.10/zmq.el
-Built zmq in 3.403s, finished at Wed May 19 01:56:48 2021
+Built zmq in 3.765s, finished at 2021-08-17T11:42:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  393 May 19 01:56 packages-stable/zmq-0.10.10.entry
-152K -rw-r--r-- 1 root root 150K May 19 01:56 packages-stable/zmq-0.10.10.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zmq-badge.svg
-4.0K -rw-r--r-- 1 root root   60 May 19 01:56 packages-stable/zmq-readme.txt
+4.0K -rw-r--r-- 1 root root  393 Aug 17 11:42 packages-stable/zmq-0.10.10.entry
+152K -rw-r--r-- 1 root root 150K Aug 17 11:42 packages-stable/zmq-0.10.10.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:42 packages-stable/zmq-badge.svg
+4.0K -rw-r--r-- 1 root root   60 Aug 17 11:42 packages-stable/zmq-readme.txt

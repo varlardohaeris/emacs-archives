@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/flatwhatson/flycheck-guile.git
 
 Updating /mnt/store/melpa/working/flycheck-guile/
-Built flycheck-guile in 2.863s, finished at Wed May 19 04:34:47 2021
+Checking out 5206e71f41887a6a7fbb8d2cb9c02f75ec94569e
+Built flycheck-guile in 3.638s, finished at 2021-08-17T11:01:19+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.8K May 19 04:34 packages-stable/flycheck-guile-0.2.el
-4.0K -rw-r--r-- 1 root root  391 May 19 04:34 packages-stable/flycheck-guile-0.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:34 packages-stable/flycheck-guile-badge.svg
-4.0K -rw-r--r-- 1 root root   48 May 19 04:34 packages-stable/flycheck-guile-readme.txt
+8.0K -rw-r--r-- 1 root root 4.8K Aug 17 11:01 packages-stable/flycheck-guile-0.2.el
+4.0K -rw-r--r-- 1 root root  391 Aug 17 11:01 packages-stable/flycheck-guile-0.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-guile-badge.svg
+4.0K -rw-r--r-- 1 root root   48 Aug 17 11:01 packages-stable/flycheck-guile-readme.txt

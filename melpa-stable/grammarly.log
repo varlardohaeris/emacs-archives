@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-grammarly/grammarly.git
 
 Updating /mnt/store/melpa/working/grammarly/
-Built grammarly in 2.851s, finished at Wed May 19 04:38:31 2021
+Checking out 1fd3ed0fad915d3c5c1a2eb055bb3b91a949be21
+Built grammarly in 4.656s, finished at 2021-08-17T11:06:02+0000
  ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 04:38 packages-stable/grammarly-0.3.0.el
-4.0K -rw-r--r-- 1 root root  430 May 19 04:38 packages-stable/grammarly-0.3.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/grammarly-badge.svg
-4.0K -rw-r--r-- 1 root root   26 May 19 04:38 packages-stable/grammarly-readme.txt
+ 12K -rw-r--r-- 1 root root  12K Aug 17 11:06 packages-stable/grammarly-0.3.0.el
+4.0K -rw-r--r-- 1 root root  430 Aug 17 11:06 packages-stable/grammarly-0.3.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/grammarly-badge.svg
+4.0K -rw-r--r-- 1 root root   26 Aug 17 11:06 packages-stable/grammarly-readme.txt

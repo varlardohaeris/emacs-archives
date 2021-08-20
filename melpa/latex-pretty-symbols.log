@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/epa095/latex-pretty-symbols.el.git
 
 Updating /mnt/store/melpa/working/latex-pretty-symbols/
-Built latex-pretty-symbols in 4.960s, finished at Wed May 19 03:39:24 2021
+Checking out origin/HEAD
+Checking out 83d5888147bb734a94dfd4847a11e975a7d86ba8
+Built latex-pretty-symbols in 5.367s, finished at 2021-08-17T10:03:23+0000
  ✓ Success:
- 24K -rw-r--r-- 1 root root  24K May 19 03:39 packages/latex-pretty-symbols-20151112.1044.el
-4.0K -rw-r--r-- 1 root root  439 May 19 03:39 packages/latex-pretty-symbols-20151112.1044.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:39 packages/latex-pretty-symbols-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 03:39 packages/latex-pretty-symbols-readme.txt
+ 24K -rw-r--r-- 1 root root  24K Aug 17 10:03 packages/latex-pretty-symbols-20151112.1044.el
+4.0K -rw-r--r-- 1 root root  439 Aug 17 10:03 packages/latex-pretty-symbols-20151112.1044.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:03 packages/latex-pretty-symbols-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 10:03 packages/latex-pretty-symbols-readme.txt

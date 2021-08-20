@@ -3,5 +3,5 @@
 	 ((emacs
 	   (24)))
 	 "major mode for fbthrift and Apache Thrift files" single
-	 ((:commit . "03d9110f919d751abfa8d2b3fc1c64f8762b2100")
+	 ((:commit . "9d1f29ff4bedb691e9bcef28dcf086609be09cc3")
 	  (:keywords "languages"))])

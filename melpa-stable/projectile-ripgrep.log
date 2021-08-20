@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/nlamirault/ripgrep.el.git
 
 Updating /mnt/store/melpa/working/projectile-ripgrep/
-Built projectile-ripgrep in 2.895s, finished at Wed May 19 01:44:17 2021
+Checking out 73595f1364f2117db49e1e4a49290bd6d430e345
+Built projectile-ripgrep in 3.615s, finished at 2021-08-17T11:28:44+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.0K May 19 01:44 packages-stable/projectile-ripgrep-0.4.0.el
-4.0K -rw-r--r-- 1 root root  481 May 19 01:44 packages-stable/projectile-ripgrep-0.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:44 packages-stable/projectile-ripgrep-badge.svg
-4.0K -rw-r--r-- 1 root root  102 May 19 01:44 packages-stable/projectile-ripgrep-readme.txt
+4.0K -rw-r--r-- 1 root root 2.0K Aug 17 11:28 packages-stable/projectile-ripgrep-0.4.0.el
+4.0K -rw-r--r-- 1 root root  481 Aug 17 11:28 packages-stable/projectile-ripgrep-0.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:28 packages-stable/projectile-ripgrep-badge.svg
+4.0K -rw-r--r-- 1 root root  102 Aug 17 11:28 packages-stable/projectile-ripgrep-readme.txt

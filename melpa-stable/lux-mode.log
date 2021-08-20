@@ -1,0 +1,6 @@
+Package: lux-mode
+Fetcher: github
+Source:  https://github.com/hawk/lux.git
+
+Updating /mnt/store/melpa/working/lux-mode/
+No valid stable versions found for lux-mode

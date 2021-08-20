@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/davidshepherd7/anki-mode.git
 
 Updating /mnt/store/melpa/working/anki-mode/
-Built anki-mode in 3.666s, finished at Wed May 19 04:19:25 2021
+Checking out 06dd1bd49b7a2b43cf9b744dd5caf67809f39d74
+Built anki-mode in 4.231s, finished at 2021-08-17T10:44:14+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 7.5K May 19 04:19 packages-stable/anki-mode-0.1.el
-4.0K -rw-r--r-- 1 root root  479 May 19 04:19 packages-stable/anki-mode-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/anki-mode-badge.svg
-4.0K -rw-r--r-- 1 root root  151 May 19 04:19 packages-stable/anki-mode-readme.txt
+8.0K -rw-r--r-- 1 root root 7.5K Aug 17 10:44 packages-stable/anki-mode-0.1.el
+4.0K -rw-r--r-- 1 root root  479 Aug 17 10:44 packages-stable/anki-mode-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:44 packages-stable/anki-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  151 Aug 17 10:44 packages-stable/anki-mode-readme.txt

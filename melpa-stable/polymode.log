@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/polymode/polymode.git
 
 Updating /mnt/store/melpa/working/polymode/
+Checking out 44265e35161d77f6eaa09388ea2256b89bd5dcc8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/polymode/
-  to /tmp/polymodeO27Q4k/polymode-0.2.2
+  to /tmp/polymodeqi5F7k/polymode-0.2.2
     poly-lock.el -> poly-lock.el
     polymode-base.el -> polymode-base.el
     polymode-classes.el -> polymode-classes.el
@@ -33,9 +34,9 @@ Created polymode-0.2.2.tar containing:
   polymode-0.2.2/polymode-test-utils.el
   polymode-0.2.2/polymode-weave.el
   polymode-0.2.2/polymode.el
-Built polymode in 2.964s, finished at Wed May 19 01:43:39 2021
+Built polymode in 3.485s, finished at 2021-08-17T11:27:56+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  351 May 19 01:43 packages-stable/polymode-0.2.2.entry
-292K -rw-r--r-- 1 root root 290K May 19 01:43 packages-stable/polymode-0.2.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:43 packages-stable/polymode-badge.svg
-4.0K -rw-r--r-- 1 root root  117 May 19 01:43 packages-stable/polymode-readme.txt
+4.0K -rw-r--r-- 1 root root  351 Aug 17 11:27 packages-stable/polymode-0.2.2.entry
+292K -rw-r--r-- 1 root root 290K Aug 17 11:27 packages-stable/polymode-0.2.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:27 packages-stable/polymode-badge.svg
+4.0K -rw-r--r-- 1 root root  117 Aug 17 11:27 packages-stable/polymode-readme.txt

@@ -3,9 +3,10 @@ Fetcher: hg
 Source:  https://hg.serna.eu/emacs/lms
 
 Updating /mnt/store/melpa/working/lms/
-Built lms in 18.680s, finished at Wed May 19 03:41:03 2021
+Checking out b4f56e17933d1d4098eeb04ef665a3f18479def9
+Built lms in 44.907s, finished at 2021-08-17T10:05:22+0000
  ✓ Success:
- 72K -rw-r--r-- 1 root root  72K May 19 03:41 packages/lms-20201214.1852.el
-4.0K -rw-r--r-- 1 root root  375 May 19 03:41 packages/lms-20201214.1852.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:41 packages/lms-badge.svg
-4.0K -rw-r--r-- 1 root root  730 May 19 03:41 packages/lms-readme.txt
+ 72K -rw-r--r-- 1 root root  72K Aug 17 10:05 packages/lms-20210724.1250.el
+4.0K -rw-r--r-- 1 root root  375 Aug 17 10:05 packages/lms-20210724.1250.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:05 packages/lms-badge.svg
+4.0K -rw-r--r-- 1 root root  730 Aug 17 10:05 packages/lms-readme.txt

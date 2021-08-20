@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/Wilfred/ag.el.git
 
 Updating /mnt/store/melpa/working/ag/
-Built ag in 3.568s, finished at Wed May 19 04:18:54 2021
+Checking out 3e65650c3cc97bb3436add52794388f548b7e04e
+Built ag in 3.732s, finished at 2021-08-17T10:43:38+0000
  ✓ Success:
- 28K -rw-r--r-- 1 root root  27K May 19 04:18 packages-stable/ag-0.48.el
-4.0K -rw-r--r-- 1 root root  367 May 19 04:18 packages-stable/ag-0.48.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/ag-badge.svg
-4.0K -rw-r--r-- 1 root root  100 May 19 04:18 packages-stable/ag-readme.txt
+ 28K -rw-r--r-- 1 root root  27K Aug 17 10:43 packages-stable/ag-0.48.el
+4.0K -rw-r--r-- 1 root root  367 Aug 17 10:43 packages-stable/ag-0.48.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/ag-badge.svg
+4.0K -rw-r--r-- 1 root root  100 Aug 17 10:43 packages-stable/ag-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/alezost/pathify.el.git
 
 Updating /mnt/store/melpa/working/pathify/
-Built pathify in 3.867s, finished at Wed May 19 01:42:17 2021
+Checking out 335332a900717ae01bde5ccb8f3dc97a5350f123
+Built pathify in 4.761s, finished at 2021-08-17T11:26:26+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.4K May 19 01:42 packages-stable/pathify-0.1.el
-4.0K -rw-r--r-- 1 root root  335 May 19 01:42 packages-stable/pathify-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:42 packages-stable/pathify-badge.svg
-4.0K -rw-r--r-- 1 root root  851 May 19 01:42 packages-stable/pathify-readme.txt
+8.0K -rw-r--r-- 1 root root 4.4K Aug 17 11:26 packages-stable/pathify-0.1.el
+4.0K -rw-r--r-- 1 root root  335 Aug 17 11:26 packages-stable/pathify-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:26 packages-stable/pathify-badge.svg
+4.0K -rw-r--r-- 1 root root  851 Aug 17 11:26 packages-stable/pathify-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/dired-k.git
 
 Updating /mnt/store/melpa/working/dired-k/
+Checking out 3f0b9315f87b0f930d51089e311d41282d5f8b15
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-k/
-  to /tmp/dired-kjG1x55/dired-k-0.19
+  to /tmp/dired-k0Cvong/dired-k-0.19
     dired-k.el -> dired-k.el
     direx-k.el -> direx-k.el
 Created dired-k-0.19.tar containing:
@@ -13,9 +14,9 @@ Created dired-k-0.19.tar containing:
   dired-k-0.19/dired-k-pkg.el
   dired-k-0.19/dired-k.el
   dired-k-0.19/direx-k.el
-Built dired-k in 5.346s, finished at Wed May 19 04:27:53 2021
+Built dired-k in 3.838s, finished at 2021-08-17T10:53:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  351 May 19 04:27 packages-stable/dired-k-0.19.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:27 packages-stable/dired-k-0.19.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dired-k-badge.svg
-4.0K -rw-r--r-- 1 root root  166 May 19 04:27 packages-stable/dired-k-readme.txt
+4.0K -rw-r--r-- 1 root root  351 Aug 17 10:53 packages-stable/dired-k-0.19.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:53 packages-stable/dired-k-0.19.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:53 packages-stable/dired-k-badge.svg
+4.0K -rw-r--r-- 1 root root  166 Aug 17 10:53 packages-stable/dired-k-readme.txt

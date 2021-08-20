@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/ROCKTAKEY/ivy-migemo.git
 
 Updating /mnt/store/melpa/working/ivy-migemo/
-Built ivy-migemo in 3.012s, finished at Wed May 19 04:43:59 2021
+Checking out 2d44f7bbc1eb5f95162db889b889488b65bc0042
+Built ivy-migemo in 3.685s, finished at 2021-08-17T11:12:17+0000
  ✓ Success:
- 16K -rw-r--r-- 1 root root  16K May 19 04:43 packages-stable/ivy-migemo-1.4.0.el
-4.0K -rw-r--r-- 1 root root  459 May 19 04:43 packages-stable/ivy-migemo-1.4.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:43 packages-stable/ivy-migemo-badge.svg
-4.0K -rw-r--r-- 1 root root 1.3K May 19 04:43 packages-stable/ivy-migemo-readme.txt
+ 16K -rw-r--r-- 1 root root  16K Aug 17 11:12 packages-stable/ivy-migemo-1.4.0.el
+4.0K -rw-r--r-- 1 root root  459 Aug 17 11:12 packages-stable/ivy-migemo-1.4.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:12 packages-stable/ivy-migemo-badge.svg
+4.0K -rw-r--r-- 1 root root 1.3K Aug 17 11:12 packages-stable/ivy-migemo-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-php/phpstan.el.git
 
 Updating /mnt/store/melpa/working/flycheck-phpstan/
-Built flycheck-phpstan in 3.380s, finished at Wed May 19 04:35:05 2021
+Checking out 0869b152f82a76138daa53e953285936b9d558bd
+Built flycheck-phpstan in 7.171s, finished at 2021-08-17T11:01:59+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.1K May 19 04:35 packages-stable/flycheck-phpstan-0.5.0.el
-4.0K -rw-r--r-- 1 root root  434 May 19 04:35 packages-stable/flycheck-phpstan-0.5.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:35 packages-stable/flycheck-phpstan-badge.svg
-4.0K -rw-r--r-- 1 root root  264 May 19 04:35 packages-stable/flycheck-phpstan-readme.txt
+4.0K -rw-r--r-- 1 root root 3.1K Aug 17 11:01 packages-stable/flycheck-phpstan-0.6.0.el
+4.0K -rw-r--r-- 1 root root  434 Aug 17 11:01 packages-stable/flycheck-phpstan-0.6.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:01 packages-stable/flycheck-phpstan-badge.svg
+4.0K -rw-r--r-- 1 root root  264 Aug 17 11:01 packages-stable/flycheck-phpstan-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/magit/orgit-forge.git
 
 Updating /mnt/store/melpa/working/orgit-forge/
-Built orgit-forge in 3.000s, finished at Wed May 19 01:40:55 2021
+Checking out 9cde587e0dc807b270e8dafe7b97f24a9d21f04a
+Built orgit-forge in 5.343s, finished at 2021-08-17T11:24:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.7K May 19 01:40 packages-stable/orgit-forge-0.1.0.el
-4.0K -rw-r--r-- 1 root root  451 May 19 01:40 packages-stable/orgit-forge-0.1.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/orgit-forge-badge.svg
-4.0K -rw-r--r-- 1 root root  103 May 19 01:40 packages-stable/orgit-forge-readme.txt
+4.0K -rw-r--r-- 1 root root 3.8K Aug 17 11:24 packages-stable/orgit-forge-0.1.1.el
+4.0K -rw-r--r-- 1 root root  444 Aug 17 11:24 packages-stable/orgit-forge-0.1.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/orgit-forge-badge.svg
+4.0K -rw-r--r-- 1 root root  103 Aug 17 11:24 packages-stable/orgit-forge-readme.txt

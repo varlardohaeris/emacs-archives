@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/polymode/polymode.git
 
 Updating /mnt/store/melpa/working/polymode/
+Checking out origin/HEAD
+Checking out 7d1f822f0833b43326cc9253dc8a3e267ad4b376
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/polymode/
-  to /tmp/polymodeO1IPn9/polymode-20210413.2004
+  to /tmp/polymoden4iv1C/polymode-20210521.1131
     poly-lock.el -> poly-lock.el
     polymode-base.el -> polymode-base.el
     polymode-classes.el -> polymode-classes.el
@@ -18,24 +20,24 @@ Copying files (->) and directories (=>)
     polymode-test-utils.el -> polymode-test-utils.el
     polymode-weave.el -> polymode-weave.el
     polymode.el -> polymode.el
-Created polymode-20210413.2004.tar containing:
-  polymode-20210413.2004/
-  polymode-20210413.2004/poly-lock.el
-  polymode-20210413.2004/polymode-base.el
-  polymode-20210413.2004/polymode-classes.el
-  polymode-20210413.2004/polymode-compat.el
-  polymode-20210413.2004/polymode-core.el
-  polymode-20210413.2004/polymode-debug.el
-  polymode-20210413.2004/polymode-export.el
-  polymode-20210413.2004/polymode-methods.el
-  polymode-20210413.2004/polymode-pkg.el
-  polymode-20210413.2004/polymode-tangle.el
-  polymode-20210413.2004/polymode-test-utils.el
-  polymode-20210413.2004/polymode-weave.el
-  polymode-20210413.2004/polymode.el
-Built polymode in 3.919s, finished at Wed May 19 03:56:28 2021
+Created polymode-20210521.1131.tar containing:
+  polymode-20210521.1131/
+  polymode-20210521.1131/poly-lock.el
+  polymode-20210521.1131/polymode-base.el
+  polymode-20210521.1131/polymode-classes.el
+  polymode-20210521.1131/polymode-compat.el
+  polymode-20210521.1131/polymode-core.el
+  polymode-20210521.1131/polymode-debug.el
+  polymode-20210521.1131/polymode-export.el
+  polymode-20210521.1131/polymode-methods.el
+  polymode-20210521.1131/polymode-pkg.el
+  polymode-20210521.1131/polymode-tangle.el
+  polymode-20210521.1131/polymode-test-utils.el
+  polymode-20210521.1131/polymode-weave.el
+  polymode-20210521.1131/polymode.el
+Built polymode in 4.966s, finished at 2021-08-17T10:21:36+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  359 May 19 03:56 packages/polymode-20210413.2004.entry
-292K -rw-r--r-- 1 root root 290K May 19 03:56 packages/polymode-20210413.2004.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:56 packages/polymode-badge.svg
-4.0K -rw-r--r-- 1 root root  117 May 19 03:56 packages/polymode-readme.txt
+4.0K -rw-r--r-- 1 root root  359 Aug 17 10:21 packages/polymode-20210521.1131.entry
+292K -rw-r--r-- 1 root root 290K Aug 17 10:21 packages/polymode-20210521.1131.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:21 packages/polymode-badge.svg
+4.0K -rw-r--r-- 1 root root  117 Aug 17 10:21 packages/polymode-readme.txt

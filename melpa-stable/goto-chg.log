@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-evil/goto-chg.git
 
 Updating /mnt/store/melpa/working/goto-chg/
-Built goto-chg in 2.964s, finished at Wed May 19 04:38:22 2021
+Checking out 16a63aae80db90713fb1f7d378c5d591c2ce15ff
+Built goto-chg in 4.001s, finished at 2021-08-17T11:05:51+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  17K May 19 04:38 packages-stable/goto-chg-1.7.3.el
-4.0K -rw-r--r-- 1 root root  368 May 19 04:38 packages-stable/goto-chg-1.7.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:38 packages-stable/goto-chg-badge.svg
-4.0K -rw-r--r-- 1 root root 2.7K May 19 04:38 packages-stable/goto-chg-readme.txt
+ 20K -rw-r--r-- 1 root root  17K Aug 17 11:05 packages-stable/goto-chg-1.7.3.el
+4.0K -rw-r--r-- 1 root root  368 Aug 17 11:05 packages-stable/goto-chg-1.7.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:05 packages-stable/goto-chg-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K Aug 17 11:05 packages-stable/goto-chg-readme.txt

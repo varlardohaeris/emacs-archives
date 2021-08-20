@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/TobiasZawada/elgrep.git
 
 Updating /mnt/store/melpa/working/elgrep/
-Built elgrep in 4.319s, finished at Wed May 19 04:30:10 2021
+Checking out c2c5858f335ac1d0013dc631e5bc2dc16d9b3198
+Built elgrep in 7.047s, finished at 2021-08-17T10:56:14+0000
  ✓ Success:
- 32K -rw-r--r-- 1 root root  32K May 19 04:30 packages-stable/elgrep-1.0.0.el
-4.0K -rw-r--r-- 1 root root  380 May 19 04:30 packages-stable/elgrep-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:30 packages-stable/elgrep-badge.svg
-4.0K -rw-r--r-- 1 root root  439 May 19 04:30 packages-stable/elgrep-readme.txt
+ 32K -rw-r--r-- 1 root root  32K Aug 17 10:56 packages-stable/elgrep-1.0.0.el
+4.0K -rw-r--r-- 1 root root  380 Aug 17 10:56 packages-stable/elgrep-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:56 packages-stable/elgrep-badge.svg
+4.0K -rw-r--r-- 1 root root  439 Aug 17 10:56 packages-stable/elgrep-readme.txt

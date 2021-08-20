@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/sigma/gh.el.git
 
 Updating /mnt/store/melpa/working/gh/
+Checking out fa8d65f4ddc390d256eb76dd3f7e3afae02f23e7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gh/
-  to /tmp/gh63BOp5/gh-1.0.1
+  to /tmp/ghHi9JYg/gh-1.0.1
     gh-api.el -> gh-api.el
     gh-auth.el -> gh-auth.el
     gh-cache.el -> gh-cache.el
@@ -46,10 +47,10 @@ Created gh-1.0.1.tar containing:
   gh-1.0.1/gh-url.el
   gh-1.0.1/gh-users.el
   gh-1.0.1/gh.el
-Built gh in 3.144s, finished at Wed May 19 04:36:58 2021
+Built gh in 4.060s, finished at 2021-08-17T11:04:11+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  361 May 19 04:36 packages-stable/gh-1.0.1.entry
-112K -rw-r--r-- 1 root root 110K May 19 04:36 packages-stable/gh-1.0.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:36 packages-stable/gh-badge.svg
-4.0K -rw-r--r-- 1 root root  167 May 19 04:36 packages-stable/gh-md.log
-   0 -rw-r--r-- 1 root root    0 May 19 04:36 packages-stable/gh-readme.txt
+4.0K -rw-r--r-- 1 root root  361 Aug 17 11:04 packages-stable/gh-1.0.1.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 11:04 packages-stable/gh-1.0.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:04 packages-stable/gh-badge.svg
+4.0K -rw-r--r-- 1 root root  167 Aug 17 11:04 packages-stable/gh-md.log
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:04 packages-stable/gh-readme.txt

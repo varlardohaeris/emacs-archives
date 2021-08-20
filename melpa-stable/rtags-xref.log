@@ -3,4 +3,5 @@ Fetcher: github
 Source:  https://github.com/Andersbakken/rtags.git
 
 Updating /mnt/store/melpa/working/rtags-xref/
+Checking out 083bd75cb851567a1e18f237736fe2d02716b6c4
 No matching file(s) found in /mnt/store/melpa/working/rtags-xref/: (src/rtags-xref.el)

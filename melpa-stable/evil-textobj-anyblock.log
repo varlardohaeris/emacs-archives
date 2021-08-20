@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/noctuid/evil-textobj-anyblock.git
 
 Updating /mnt/store/melpa/working/evil-textobj-anyblock/
-Built evil-textobj-anyblock in 3.514s, finished at Wed May 19 04:32:42 2021
+Checking out efb5f7e047bc4932900e55b8d209095dd970b10b
+Built evil-textobj-anyblock in 4.448s, finished at 2021-08-17T10:59:20+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.5K May 19 04:32 packages-stable/evil-textobj-anyblock-0.1.el
-4.0K -rw-r--r-- 1 root root  421 May 19 04:32 packages-stable/evil-textobj-anyblock-0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:32 packages-stable/evil-textobj-anyblock-badge.svg
-4.0K -rw-r--r-- 1 root root  905 May 19 04:32 packages-stable/evil-textobj-anyblock-readme.txt
+8.0K -rw-r--r-- 1 root root 5.5K Aug 17 10:59 packages-stable/evil-textobj-anyblock-0.1.el
+4.0K -rw-r--r-- 1 root root  421 Aug 17 10:59 packages-stable/evil-textobj-anyblock-0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:59 packages-stable/evil-textobj-anyblock-badge.svg
+4.0K -rw-r--r-- 1 root root  905 Aug 17 10:59 packages-stable/evil-textobj-anyblock-readme.txt

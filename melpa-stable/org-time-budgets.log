@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/leoc/org-time-budgets.git
 
 Updating /mnt/store/melpa/working/org-time-budgets/
-Built org-time-budgets in 6.632s, finished at Wed May 19 01:40:34 2021
+Checking out f2a8fe3d9d6104f3dd61fabbb385a596363b360b
+Built org-time-budgets in 7.343s, finished at 2021-08-17T11:24:18+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.6K May 19 01:40 packages-stable/org-time-budgets-1.0.1.el
-4.0K -rw-r--r-- 1 root root  360 May 19 01:40 packages-stable/org-time-budgets-1.0.1.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:40 packages-stable/org-time-budgets-badge.svg
-4.0K -rw-r--r-- 1 root root  113 May 19 01:40 packages-stable/org-time-budgets-readme.txt
+8.0K -rw-r--r-- 1 root root 5.6K Aug 17 11:24 packages-stable/org-time-budgets-1.0.1.el
+4.0K -rw-r--r-- 1 root root  360 Aug 17 11:24 packages-stable/org-time-budgets-1.0.1.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:24 packages-stable/org-time-budgets-badge.svg
+4.0K -rw-r--r-- 1 root root  113 Aug 17 11:24 packages-stable/org-time-budgets-readme.txt

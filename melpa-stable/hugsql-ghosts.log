@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/rkaercher/hugsql-ghosts.git
 
 Updating /mnt/store/melpa/working/hugsql-ghosts/
-Built hugsql-ghosts in 3.114s, finished at Wed May 19 04:42:19 2021
+Checking out f3ebc60c66204ad39058cb84eb4bd5facce091df
+Built hugsql-ghosts in 3.612s, finished at 2021-08-17T11:10:23+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 5.9K May 19 04:42 packages-stable/hugsql-ghosts-0.1.3.el
-4.0K -rw-r--r-- 1 root root  420 May 19 04:42 packages-stable/hugsql-ghosts-0.1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/hugsql-ghosts-badge.svg
-4.0K -rw-r--r-- 1 root root  138 May 19 04:42 packages-stable/hugsql-ghosts-readme.txt
+8.0K -rw-r--r-- 1 root root 5.9K Aug 17 11:10 packages-stable/hugsql-ghosts-0.1.3.el
+4.0K -rw-r--r-- 1 root root  420 Aug 17 11:10 packages-stable/hugsql-ghosts-0.1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:10 packages-stable/hugsql-ghosts-badge.svg
+4.0K -rw-r--r-- 1 root root  138 Aug 17 11:10 packages-stable/hugsql-ghosts-readme.txt

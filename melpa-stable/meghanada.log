@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mopemope/meghanada-emacs.git
 
 Updating /mnt/store/melpa/working/meghanada/
+Checking out 1e41f7f2c7a172e9699f3557c97c3f39a149bfc2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/meghanada/
-  to /tmp/meghanadaKBUufv/meghanada-1.3.1
+  to /tmp/meghanadaAEe0hE/meghanada-1.3.1
     company-meghanada.el -> company-meghanada.el
     eldoc-meghanada.el -> eldoc-meghanada.el
     flycheck-meghanada.el -> flycheck-meghanada.el
@@ -17,9 +18,9 @@ Created meghanada-1.3.1.tar containing:
   meghanada-1.3.1/flycheck-meghanada.el
   meghanada-1.3.1/meghanada-pkg.el
   meghanada-1.3.1/meghanada.el
-Built meghanada in 6.339s, finished at Wed May 19 01:34:41 2021
+Built meghanada in 3.945s, finished at 2021-08-17T11:17:50+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  500 May 19 01:34 packages-stable/meghanada-1.3.1.entry
-112K -rw-r--r-- 1 root root 110K May 19 01:34 packages-stable/meghanada-1.3.1.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:34 packages-stable/meghanada-badge.svg
-4.0K -rw-r--r-- 1 root root  118 May 19 01:34 packages-stable/meghanada-readme.txt
+4.0K -rw-r--r-- 1 root root  500 Aug 17 11:17 packages-stable/meghanada-1.3.1.entry
+112K -rw-r--r-- 1 root root 110K Aug 17 11:17 packages-stable/meghanada-1.3.1.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:17 packages-stable/meghanada-badge.svg
+4.0K -rw-r--r-- 1 root root  118 Aug 17 11:17 packages-stable/meghanada-readme.txt

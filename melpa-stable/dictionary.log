@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/myrkr/dictionary-el.git
 
 Updating /mnt/store/melpa/working/dictionary/
-Built dictionary in 2.924s, finished at Wed May 19 04:27:11 2021
+Checking out c9cad101100975e88873636bfd426b7a19304ebd
+Built dictionary in 4.031s, finished at 2021-08-17T10:52:56+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  45K May 19 04:27 packages-stable/dictionary-1.11.el
-4.0K -rw-r--r-- 1 root root  399 May 19 04:27 packages-stable/dictionary-1.11.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:27 packages-stable/dictionary-badge.svg
-4.0K -rw-r--r-- 1 root root  376 May 19 04:27 packages-stable/dictionary-readme.txt
+ 48K -rw-r--r-- 1 root root  45K Aug 17 10:52 packages-stable/dictionary-1.11.el
+4.0K -rw-r--r-- 1 root root  399 Aug 17 10:52 packages-stable/dictionary-1.11.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:52 packages-stable/dictionary-badge.svg
+4.0K -rw-r--r-- 1 root root  376 Aug 17 10:52 packages-stable/dictionary-readme.txt

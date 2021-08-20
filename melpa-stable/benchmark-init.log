@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/dholm/benchmark-init-el.git
 
 Updating /mnt/store/melpa/working/benchmark-init/
+Checking out 7a0f263282bbc86b01b662636306f22813082647
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/benchmark-init/
-  to /tmp/benchmark-initQyT5i3/benchmark-init-1.0
+  to /tmp/benchmark-init2GBUWB/benchmark-init-1.0
     benchmark-init-modes.el -> benchmark-init-modes.el
     benchmark-init.el -> benchmark-init.el
 Created benchmark-init-1.0.tar containing:
@@ -13,9 +14,9 @@ Created benchmark-init-1.0.tar containing:
   benchmark-init-1.0/benchmark-init-modes.el
   benchmark-init-1.0/benchmark-init-pkg.el
   benchmark-init-1.0/benchmark-init.el
-Built benchmark-init in 2.828s, finished at Wed May 19 04:20:57 2021
+Built benchmark-init in 3.637s, finished at 2021-08-17T10:46:18+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  263 May 19 04:20 packages-stable/benchmark-init-1.0.entry
- 20K -rw-r--r-- 1 root root  20K May 19 04:20 packages-stable/benchmark-init-1.0.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:20 packages-stable/benchmark-init-badge.svg
-4.0K -rw-r--r-- 1 root root  479 May 19 04:20 packages-stable/benchmark-init-readme.txt
+4.0K -rw-r--r-- 1 root root  263 Aug 17 10:46 packages-stable/benchmark-init-1.0.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 10:46 packages-stable/benchmark-init-1.0.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:46 packages-stable/benchmark-init-badge.svg
+4.0K -rw-r--r-- 1 root root  479 Aug 17 10:46 packages-stable/benchmark-init-readme.txt

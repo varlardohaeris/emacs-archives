@@ -1,11 +1,6 @@
 Package: 0x0
-Fetcher: git
-Source:  https://git.sr.ht/~zge/nullpointer-emacs
+Fetcher: gitlab
+Source:  https://gitlab.com/willvaughn/emacs-0x0.git
 
 Updating /mnt/store/melpa/working/0x0/
-Built 0x0 in 3.405s, finished at Wed May 19 04:18:06 2021
- ✓ Success:
- 12K -rw-r--r-- 1 root root  12K May 19 04:18 packages-stable/0x0-0.4.2.el
-4.0K -rw-r--r-- 1 root root  339 May 19 04:18 packages-stable/0x0-0.4.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:18 packages-stable/0x0-badge.svg
-4.0K -rw-r--r-- 1 root root  482 May 19 04:18 packages-stable/0x0-readme.txt
+No valid stable versions found for 0x0

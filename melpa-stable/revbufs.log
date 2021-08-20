@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/tychoish/revbufs.git
 
 Updating /mnt/store/melpa/working/revbufs/
-Built revbufs in 2.878s, finished at Wed May 19 01:46:39 2021
+Checking out 550fa6ccfbfeabb620aedb28e389c88d6b1af2e9
+Built revbufs in 3.900s, finished at 2021-08-17T11:31:20+0000
  ✓ Success:
-8.0K -rw-r--r-- 1 root root 4.5K May 19 01:46 packages-stable/revbufs-1.2.el
-4.0K -rw-r--r-- 1 root root  297 May 19 01:46 packages-stable/revbufs-1.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/revbufs-badge.svg
-4.0K -rw-r--r-- 1 root root  338 May 19 01:46 packages-stable/revbufs-readme.txt
+8.0K -rw-r--r-- 1 root root 4.5K Aug 17 11:31 packages-stable/revbufs-1.2.el
+4.0K -rw-r--r-- 1 root root  297 Aug 17 11:31 packages-stable/revbufs-1.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/revbufs-badge.svg
+4.0K -rw-r--r-- 1 root root  338 Aug 17 11:31 packages-stable/revbufs-readme.txt

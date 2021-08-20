@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/wbolster/emacs-gsettings.git
 
 Updating /mnt/store/melpa/working/gsettings/
-Built gsettings in 6.740s, finished at Wed May 19 04:39:01 2021
+Checking out cbf549c032e85f1d517e30a9adc1442f444e0d1d
+Built gsettings in 3.953s, finished at 2021-08-17T11:06:21+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 3.7K May 19 04:38 packages-stable/gsettings-1.0.0.el
-4.0K -rw-r--r-- 1 root root  469 May 19 04:39 packages-stable/gsettings-1.0.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:39 packages-stable/gsettings-badge.svg
-4.0K -rw-r--r-- 1 root root  566 May 19 04:39 packages-stable/gsettings-readme.txt
+4.0K -rw-r--r-- 1 root root 3.7K Aug 17 11:06 packages-stable/gsettings-1.0.0.el
+4.0K -rw-r--r-- 1 root root  469 Aug 17 11:06 packages-stable/gsettings-1.0.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:06 packages-stable/gsettings-badge.svg
+4.0K -rw-r--r-- 1 root root  566 Aug 17 11:06 packages-stable/gsettings-readme.txt

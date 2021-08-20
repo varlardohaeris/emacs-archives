@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/mhayashi1120/Emacs-image-diredx.git
 
 Updating /mnt/store/melpa/working/image-dired+/
-Built image-dired+ in 2.879s, finished at Wed May 19 04:42:55 2021
+Checking out b68094625d963056ad64e0e44af0e2266b2eadc7
+Built image-dired+ in 3.898s, finished at 2021-08-17T11:11:05+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  20K May 19 04:42 packages-stable/image-dired+-0.7.2.el
-4.0K -rw-r--r-- 1 root root  397 May 19 04:42 packages-stable/image-dired+-0.7.2.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:42 packages-stable/image-dired+-badge.svg
-4.0K -rw-r--r-- 1 root root 1.6K May 19 04:42 packages-stable/image-dired+-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:11 packages-stable/image-dired+-0.7.2.el
+4.0K -rw-r--r-- 1 root root  397 Aug 17 11:11 packages-stable/image-dired+-0.7.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:11 packages-stable/image-dired+-badge.svg
+4.0K -rw-r--r-- 1 root root 1.6K Aug 17 11:11 packages-stable/image-dired+-readme.txt

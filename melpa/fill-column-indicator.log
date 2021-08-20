@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/alpaker/fill-column-indicator.git
 
 Updating /mnt/store/melpa/working/fill-column-indicator/
-Built fill-column-indicator in 4.564s, finished at Wed May 19 03:20:27 2021
+Checking out origin/HEAD
+Checking out c35f9de072c241699b57bcb46da84bed5af29cfe
+Built fill-column-indicator in 4.852s, finished at 2021-08-17T09:43:57+0000
  ✓ Success:
- 40K -rw-r--r-- 1 root root  37K May 19 03:20 packages/fill-column-indicator-20200806.2239.el
-4.0K -rw-r--r-- 1 root root  316 May 19 03:20 packages/fill-column-indicator-20200806.2239.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:20 packages/fill-column-indicator-badge.svg
-8.0K -rw-r--r-- 1 root root 6.5K May 19 03:20 packages/fill-column-indicator-readme.txt
+ 40K -rw-r--r-- 1 root root  37K Aug 17 09:43 packages/fill-column-indicator-20200806.2239.el
+4.0K -rw-r--r-- 1 root root  316 Aug 17 09:43 packages/fill-column-indicator-20200806.2239.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:43 packages/fill-column-indicator-badge.svg
+8.0K -rw-r--r-- 1 root root 6.5K Aug 17 09:43 packages/fill-column-indicator-readme.txt

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/willghatch/emacs-repeatable-motion.git
 
 Updating /mnt/store/melpa/working/repeatable-motion/
+Checking out e664b0a4a3e39c4085378a28b5136b349a0afb22
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/repeatable-motion/
-  to /tmp/repeatable-motionCoyaD2/repeatable-motion-0.2
+  to /tmp/repeatable-motiondAqz7g/repeatable-motion-0.2
     repeatable-motion-common-motions.el -> repeatable-motion-common-motions.el
     repeatable-motion.el -> repeatable-motion.el
 Created repeatable-motion-0.2.tar containing:
@@ -13,9 +14,9 @@ Created repeatable-motion-0.2.tar containing:
   repeatable-motion-0.2/repeatable-motion-common-motions.el
   repeatable-motion-0.2/repeatable-motion-pkg.el
   repeatable-motion-0.2/repeatable-motion.el
-Built repeatable-motion in 5.308s, finished at Wed May 19 01:46:27 2021
+Built repeatable-motion in 3.751s, finished at 2021-08-17T11:31:08+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  419 May 19 01:46 packages-stable/repeatable-motion-0.2.entry
- 20K -rw-r--r-- 1 root root  20K May 19 01:46 packages-stable/repeatable-motion-0.2.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:46 packages-stable/repeatable-motion-badge.svg
-4.0K -rw-r--r-- 1 root root  279 May 19 01:46 packages-stable/repeatable-motion-readme.txt
+4.0K -rw-r--r-- 1 root root  419 Aug 17 11:31 packages-stable/repeatable-motion-0.2.entry
+ 20K -rw-r--r-- 1 root root  20K Aug 17 11:31 packages-stable/repeatable-motion-0.2.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:31 packages-stable/repeatable-motion-badge.svg
+4.0K -rw-r--r-- 1 root root  279 Aug 17 11:31 packages-stable/repeatable-motion-readme.txt

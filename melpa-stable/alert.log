@@ -3,10 +3,11 @@ Fetcher: github
 Source:  https://github.com/jwiegley/alert.git
 
 Updating /mnt/store/melpa/working/alert/
-Built alert in 3.107s, finished at Wed May 19 04:19:05 2021
+Checking out 8ffa12f653859478c2b8f24b3fb3fe3463124000
+Built alert in 3.460s, finished at 2021-08-17T10:43:50+0000
  ✓ Success:
- 48K -rw-r--r-- 1 root root  46K May 19 04:19 packages-stable/alert-1.3.el
-4.0K -rw-r--r-- 1 root root  399 May 19 04:19 packages-stable/alert-1.3.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 04:19 packages-stable/alert-badge.svg
-8.0K -rw-r--r-- 1 root root 6.6K May 19 04:19 packages-stable/alert-readme.txt
-4.0K -rw-r--r-- 1 root root  196 May 19 04:19 packages-stable/alert-termux.log
+ 48K -rw-r--r-- 1 root root  46K Aug 17 10:43 packages-stable/alert-1.3.el
+4.0K -rw-r--r-- 1 root root  399 Aug 17 10:43 packages-stable/alert-1.3.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 10:43 packages-stable/alert-badge.svg
+8.0K -rw-r--r-- 1 root root 6.6K Aug 17 10:43 packages-stable/alert-readme.txt
+4.0K -rw-r--r-- 1 root root  196 Aug 17 10:43 packages-stable/alert-termux.log

@@ -3,9 +3,10 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/navigel.git
 
 Updating /mnt/store/melpa/working/navigel/
-Built navigel in 3.500s, finished at Wed May 19 01:37:07 2021
+Checking out 0202295a64434964cf4fb300e04d59d0423fde2a
+Built navigel in 4.260s, finished at 2021-08-17T11:20:28+0000
  ✓ Success:
- 20K -rw-r--r-- 1 root root  18K May 19 01:37 packages-stable/navigel-0.7.0.el
-4.0K -rw-r--r-- 1 root root  373 May 19 01:37 packages-stable/navigel-0.7.0.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:37 packages-stable/navigel-badge.svg
-4.0K -rw-r--r-- 1 root root  530 May 19 01:37 packages-stable/navigel-readme.txt
+ 20K -rw-r--r-- 1 root root  18K Aug 17 11:20 packages-stable/navigel-0.7.0.el
+4.0K -rw-r--r-- 1 root root  373 Aug 17 11:20 packages-stable/navigel-0.7.0.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:20 packages-stable/navigel-badge.svg
+4.0K -rw-r--r-- 1 root root  530 Aug 17 11:20 packages-stable/navigel-readme.txt

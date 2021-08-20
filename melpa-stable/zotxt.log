@@ -3,9 +3,10 @@ Fetcher: gitlab
 Source:  https://gitlab.com/egh/zotxt-emacs.git
 
 Updating /mnt/store/melpa/working/zotxt/
+Checking out 2eebe1e854e69fd6458e668d17aa865e29772fb8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zotxt/
-  to /tmp/zotxtGTmyx6/zotxt-5.0.5
+  to /tmp/zotxts51W5b/zotxt-5.0.5
     org-zotxt.el -> org-zotxt.el
     zotxt-pkg.el -> zotxt-pkg.el
     zotxt.el -> zotxt.el
@@ -14,9 +15,9 @@ Created zotxt-5.0.5.tar containing:
   zotxt-5.0.5/org-zotxt.el
   zotxt-5.0.5/zotxt-pkg.el
   zotxt-5.0.5/zotxt.el
-Built zotxt in 3.703s, finished at Wed May 19 01:56:54 2021
+Built zotxt in 3.896s, finished at 2021-08-17T11:43:06+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root  316 May 19 01:56 packages-stable/zotxt-5.0.5.entry
- 32K -rw-r--r-- 1 root root  30K May 19 01:56 packages-stable/zotxt-5.0.5.tar
-4.0K -rw-r--r-- 1 root root 1.2K May 19 01:56 packages-stable/zotxt-badge.svg
-   0 -rw-r--r-- 1 root root    0 May 19 01:56 packages-stable/zotxt-readme.txt
+4.0K -rw-r--r-- 1 root root  316 Aug 17 11:43 packages-stable/zotxt-5.0.5.entry
+ 32K -rw-r--r-- 1 root root  30K Aug 17 11:43 packages-stable/zotxt-5.0.5.tar
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 11:43 packages-stable/zotxt-badge.svg
+   0 -rw-r--r-- 1 root root    0 Aug 17 11:43 packages-stable/zotxt-readme.txt

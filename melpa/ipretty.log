@@ -3,9 +3,11 @@ Fetcher: git
 Source:  https://framagit.org/steckerhalter/ipretty.git
 
 Updating /mnt/store/melpa/working/ipretty/
-Built ipretty in 5.119s, finished at Wed May 19 03:35:23 2021
+Checking out origin/HEAD
+Checking out 042f5cc4e6f81d59115e8335c582bb5c571c2585
+Built ipretty in 9.964s, finished at 2021-08-17T09:59:26+0000
  ✓ Success:
-4.0K -rw-r--r-- 1 root root 2.1K May 19 03:35 packages/ipretty-20180606.522.el
-4.0K -rw-r--r-- 1 root root  324 May 19 03:35 packages/ipretty-20180606.522.entry
-4.0K -rw-r--r-- 1 root root 1.2K May 19 03:35 packages/ipretty-badge.svg
-4.0K -rw-r--r-- 1 root root  174 May 19 03:35 packages/ipretty-readme.txt
+4.0K -rw-r--r-- 1 root root 2.1K Aug 17 09:59 packages/ipretty-20180606.522.el
+4.0K -rw-r--r-- 1 root root  324 Aug 17 09:59 packages/ipretty-20180606.522.entry
+4.0K -rw-r--r-- 1 root root 1.2K Aug 17 09:59 packages/ipretty-badge.svg
+4.0K -rw-r--r-- 1 root root  174 Aug 17 09:59 packages/ipretty-readme.txt
